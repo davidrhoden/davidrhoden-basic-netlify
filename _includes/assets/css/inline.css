@@ -158,6 +158,10 @@ main > section > article > * {
 	margin-bottom: .5em;
 }
 
+main img {
+	width: 100% /* this is temporary by design */;
+}
+
 /* Post Tags */
 a[rel="tag"],
 a[rel="tag"]:visited {

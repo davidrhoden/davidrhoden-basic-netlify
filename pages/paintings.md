@@ -12,72 +12,69 @@ tags:
   - nav
 ---
 
-![](/static/img/paintings/organicform5(chromeyellow).jpg?nf_resize=fit&w=640)
-![](/static/img/paintings/(daddy-long-legs-on-horses.jpg?nf_resize=fit&w=640))
+![](/static/img/paintings/organicform5-chromeyellow-sq.jpg?nf_resize=fit&w=640)
 ![](/static/img/paintings/avatar.jpg?nf_resize=fit&w=640)
+<!-- ![](/static/img/paintings/daddy-long-legs-on-horses.jpg?nf_resize=fit&w=640) -->
 ![](/static/img/paintings/fourheads.jpg?nf_resize=fit&w=640)
 ![](/static/img/paintings/icebergcrop.jpg?nf_resize=fit&w=640)
 ![](/static/img/paintings/luchaguerrero.jpg?nf_resize=fit&w=640)
-![](/static/img/paintings/seahawklucha.jpg?nf_resize=fit&w=640)
+<!-- ![](/static/img/paintings/seahawklucha.jpg?nf_resize=fit&w=640) -->
 ![](/static/img/paintings/yellowsquiggle.jpg?nf_resize=fit&w=640)
-![](/static/img/paintings/organicform20191015color.jpg?nf_resize=fit&w=640)
-![](/static/img/paintings/kissguy.jpg?nf_resize=fit&w=640)
+<!-- ![](/static/img/paintings/kissguy.jpg?nf_resize=fit&w=640) -->
 ![](/static/img/paintings/kissguy2.jpg?nf_resize=fit&w=640)
 ![](/static/img/paintings/imoverit171207.jpg?nf_resize=fit&w=640)
-![](/static/img/paintings/image_Message_1557505096417.jpg?nf_resize=fit&w=640)
+<!-- ![](/static/img/paintings/image_Message_1557505096417.jpg?nf_resize=fit&w=640) -->
 ![](/static/img/paintings/keysJune2019.jpg?nf_resize=fit&w=640)
 ![](/static/img/paintings/Had-Enough.jpg?nf_resize=fit&w=640)
 ![](/static/img/paintings/idontlikethisinsun.jpg?nf_resize=fit&w=640)
 ![](/static/img/paintings/thatsitthatsitoutdoors.jpg?nf_resize=fit&w=640)
 ![](/static/img/paintings/pinkandyellowluchador.jpg?nf_resize=fit&w=640)
-![](/static/img/paintings/squigglenumbertwo.jpg?nf_resize=fit&w=640)
+<!-- ![](/static/img/paintings/squigglenumbertwo.jpg?nf_resize=fit&w=640) -->
 ![](/static/img/paintings/benthead.jpg?nf_resize=fit&w=640)
 ![](/static/img/paintings/eater640.jpg?nf_resize=fit&w=640)
 ![](/static/img/paintings/squiggle4.jpg?nf_resize=fit&w=640)
-![](/static/img/paintings/yellowsilverhead.jpg?nf_resize=fit&w=640)
-![](/static/img/paintings/luchadornumberone.jpg?nf_resize=fit&w=640)
+<!-- ![](/static/img/paintings/yellowsilverhead.jpg?nf_resize=fit&w=640) -->
+<!-- ![](/static/img/paintings/luchadornumberone.jpg?nf_resize=fit&w=640) -->
 ![](/static/img/paintings/armstroker.jpg?nf_resize=fit&w=640)
 ![](/static/img/paintings/awfulbaby.jpg?nf_resize=fit&w=640)
-![](/static/img/paintings/blackeye.jpg?nf_resize=fit&w=640)
+<!-- ![](/static/img/paintings/blackeye.jpg?nf_resize=fit&w=640) -->
 ![](/static/img/paintings/ijustwantto.jpg?nf_resize=fit&w=640)
-![](/static/img/paintings/squiggle01.jpg?nf_resize=fit&w=640)
+<!-- ![](/static/img/paintings/squiggle01.jpg?nf_resize=fit&w=640) -->
 ![](/static/img/paintings/miamilucha.jpg?nf_resize=fit&w=640)
 ![](/static/img/paintings/purpleredlucha.jpg?nf_resize=fit&w=640)
 ![](/static/img/paintings/relampagoazulonwhite.jpg?nf_resize=fit&w=640)
-![](/static/img/paintings/squigglenumberthree.jpg?nf_resize=fit&w=640)
+<!-- ![](/static/img/paintings/squigglenumberthree.jpg?nf_resize=fit&w=640) -->
 ![](/static/img/paintings/nonononono.jpg?nf_resize=fit&w=640)
 ![](/static/img/paintings/talker.jpg?nf_resize=fit&w=640)
-![](/static/img/paintings/amputee.jpg?nf_resize=fit&w=640)
+<!-- ![](/static/img/paintings/amputee.jpg?nf_resize=fit&w=640) -->
 ![](/static/img/paintings/mummies_postK.jpg?nf_resize=fit&w=640)
 ![](/static/img/paintings/negatorygoodbuddy.jpg?nf_resize=fit&w=640)
-![](/static/img/paintings/amputee_porch.jpg?nf_resize=fit&w=640)
+<!-- ![](/static/img/paintings/amputee_porch.jpg?nf_resize=fit&w=640) -->
 ![](/static/img/paintings/caballeroazul.jpg?nf_resize=fit&w=640)
-![](/static/img/paintings/newblue.jpg?nf_resize=fit&w=640)
-![](/static/img/paintings/aquasquiggle.jpg?nf_resize=fit&w=640)
+<!-- ![](/static/img/paintings/newblue.jpg?nf_resize=fit&w=640)  -->
+<!-- ![](/static/img/paintings/aquasquiggle.jpg?nf_resize=fit&w=640) -->
 ![](/static/img/paintings/bigheadoutdoors.jpg?nf_resize=fit&w=640)
-![](/static/img/paintings/squiggle1maybe.jpg?nf_resize=fit&w=640)
+<!-- ![](/static/img/paintings/squiggle1maybe.jpg?nf_resize=fit&w=640) -->
 ![](/static/img/paintings/bowlers.jpg?nf_resize=fit&w=640)
-![](/static/img/paintings/escandinavo.jpg?nf_resize=fit&w=640)
-![](/static/img/paintings/squiggle02.jpg?nf_resize=fit&w=640)
-![](/static/img/paintings/standingman.jpg?nf_resize=fit&w=640)
-![](/static/img/paintings/blldog.jpg?nf_resize=fit&w=640)
-![](/static/img/paintings/greenmask.jpg?nf_resize=fit&w=640)
+<!-- ![](/static/img/paintings/escandinavo.jpg?nf_resize=fit&w=640) -->
+<!-- ![](/static/img/paintings/squiggle02.jpg?nf_resize=fit&w=640) -->
+<!-- ![](/static/img/paintings/standingman.jpg?nf_resize=fit&w=640) -->
+<!-- ![](/static/img/paintings/blldog.jpg?nf_resize=fit&w=640) -->
+<!-- ![](/static/img/paintings/greenmask.jpg?nf_resize=fit&w=640) -->
 ![](/static/img/paintings/pinkluchadorwithshadow.jpg?nf_resize=fit&w=640)
 ![](/static/img/paintings/bottlecap_guy_on_horses.jpg?nf_resize=fit&w=640)
 ![](/static/img/paintings/170918luchadorverano.jpg?nf_resize=fit&w=640)
-![](/static/img/paintings/170919luchcaballeroescarlata.jpg?nf_resize=fit&w=640)
+<!-- ![](/static/img/paintings/170919luchcaballeroescarlata.jpg?nf_resize=fit&w=640) -->
 ![](/static/img/paintings/170911luchadorpurple.jpg?nf_resize=fit&w=640)
 ![](/static/img/paintings/170502600.jpg?nf_resize=fit&w=640)
 ![](/static/img/paintings/170429elsaico1200.jpg?nf_resize=fit&w=640)
 ![](/static/img/paintings/thepipesfullsizeoutdoors.jpg?nf_resize=fit&w=640)
 ![](/static/img/paintings/torsoman1000.jpg?nf_resize=fit&w=640)
 ![](/static/img/paintings/picnicpal.jpg?nf_resize=fit&w=640)
-![](/static/img/paintings/pipeshaninginNO.jpg?nf_resize=fit&w=640)
 ![](/static/img/paintings/brightskull161216.jpg?nf_resize=fit&w=640)
-![](/static/img/paintings/DSC_0182.jpg?nf_resize=fit&w=640)
-![](/static/img/paintings/informalartshow.jpg?nf_resize=fit&w=640)
+<!-- ![](/static/img/paintings/informalartshow.jpg?nf_resize=fit&w=640) -->
 ![](/static/img/paintings/161108blueluchacliffd.jpg?nf_resize=fit&w=640)
-![](/static/img/paintings/161110pipes.jpg?nf_resize=fit&w=640)
+<!-- ![](/static/img/paintings/161110pipes.jpg?nf_resize=fit&w=640) -->
 ![](/static/img/paintings/160917bluesquiggle.jpg?nf_resize=fit&w=640)
 ![](/static/img/paintings/160807squiggleprimed.jpg?nf_resize=fit&w=640)
 ![](/static/img/paintings/160807squiggleyelo.jpg?nf_resize=fit&w=640)
@@ -89,7 +86,7 @@ tags:
 ![](/static/img/paintings/170911luchadorpink.jpg?nf_resize=fit&w=640)
 ![](/static/img/paintings/171218givemeyourmonry_complete.jpg?nf_resize=fit&w=640)
 ![](/static/img/paintings/171219bigdopecardboard.jpg?nf_resize=fit&w=640)
-![](/static/img/paintings/morebigdope.jpg?nf_resize=fit&w=640)
+<!-- ![](/static/img/paintings/morebigdope.jpg?nf_resize=fit&w=640) -->
 ![](/static/img/paintings/180114artone.jpg?nf_resize=fit&w=640)
 ![](/static/img/paintings/180114artthree.jpg?nf_resize=fit&w=640)
 ![](/static/img/paintings/180114arttwo.jpg?nf_resize=fit&w=640)
@@ -108,10 +105,10 @@ tags:
 ![](/static/img/paintings/rhodenluchasavocado_onfence.jpg?nf_resize=fit&w=640)
 ![](/static/img/paintings/rhodenluchas_allfour_onfence_angle.jpg?nf_resize=fit&w=640)
 ![](/static/img/paintings/rhodenluchas_allfour_onfence.jpg?nf_resize=fit&w=640)
-![](/static/img/paintings/tigermaskonhorses.jpg?nf_resize=fit&w=640)
+<!-- ![](/static/img/paintings/tigermaskonhorses.jpg?nf_resize=fit&w=640) -->
 ![](/static/img/paintings/sneak.jpg?nf_resize=fit&w=640)
-![](/static/img/paintings/tigermaskinprogress.jpg?nf_resize=fit&w=640)
-![](/static/img/paintings/mummies_context.jpg?nf_resize=fit&w=640)
+<!-- ![](/static/img/paintings/tigermaskinprogress.jpg?nf_resize=fit&w=640) -->
+<!-- ![](/static/img/paintings/mummies_context.jpg?nf_resize=fit&w=640) -->
 ![](/static/img/paintings/petomane.jpg?nf_resize=fit&w=640)
 ![](/static/img/paintings/foilinprogress.jpg?nf_resize=fit&w=640)
 ![](/static/img/paintings/aguilaintergalactico_sm.jpg?nf_resize=fit&w=640)
@@ -119,7 +116,7 @@ tags:
 ![](/static/img/paintings/startlebot.jpg?nf_resize=fit&w=640)
 ![](/static/img/paintings/foilface.jpg?nf_resize=fit&w=640)
 ![](/static/img/paintings/bigface.jpg?nf_resize=fit&w=640)
-![](/static/img/paintings/yellowfellow.jpg?nf_resize=fit&w=640)
+<!-- ![](/static/img/paintings/yellowfellow.jpg?nf_resize=fit&w=640) -->
 ![](/static/img/paintings/bluelightning.jpg?nf_resize=fit&w=640)
 ![](/static/img/paintings/mitzi.jpg?nf_resize=fit&w=640)
 ![](/static/img/paintings/cloudcreatures.jpg?nf_resize=fit&w=640)
@@ -153,20 +150,18 @@ tags:
 ![](/static/img/paintings/smallluchas1404122.jpg?nf_resize=fit&w=640)
 ![](/static/img/paintings/bigbetty1000.jpg?nf_resize=fit&w=640)
 ![](/static/img/paintings/repurposed.jpg?nf_resize=fit&w=640)
-![](/static/img/paintings/bluelucha140818_1000.jpg?nf_resize=fit&w=640)
+<!-- ![](/static/img/paintings/bluelucha140818_1000.jpg?nf_resize=fit&w=640) -->
 ![](/static/img/paintings/160809yellowsquiggle.jpg?nf_resize=fit&w=640)
-![](/static/img/paintings/bluerepaintedlucha.jpg?nf_resize=fit&w=640)
 ![](/static/img/paintings/holdingangeronfloor.jpg?nf_resize=fit&w=640)
 ![](/static/img/paintings/bluesquiggle.jpg?nf_resize=fit&w=640)
-![](/static/img/paintings/blobcritters.jpg?nf_resize=fit&w=640)
+<!-- ![](/static/img/paintings/blobcritters.jpg?nf_resize=fit&w=640) -->
 ![](/static/img/paintings/cornmanreadyfortheworld.jpg?nf_resize=fit&w=640)
 ![](/static/img/paintings/ohnonever.jpg?nf_resize=fit&w=640)
 ![](/static/img/paintings/IMG_20170424idontlikethisinsun.jpg?nf_resize=fit&w=640)
 ![](/static/img/paintings/IMG_20170429pinkyelojustdone.jpg?nf_resize=fit&w=640)
-![](/static/img/paintings/1705021000.jpg?nf_resize=fit&w=640)
 ![](/static/img/paintings/dontlike1000.jpg?nf_resize=fit&w=640)
 ![](/static/img/paintings/pieceatgogobs.jpg?nf_resize=fit&w=640)
-![](/static/img/paintings/pipularortubular.jpg?nf_resize=fit&w=640)
+<!-- ![](/static/img/paintings/pipularortubular.jpg?nf_resize=fit&w=640) -->
 ![](/static/img/paintings/bigpink.jpg?nf_resize=fit&w=640)
 ![](/static/img/paintings/lucha151223.jpg?nf_resize=fit&w=640)
 ![](/static/img/paintings/orangerobot.jpg?nf_resize=fit&w=640)
@@ -187,13 +182,13 @@ tags:
 ![](/static/img/paintings/selfportaitonroofclosedusk.jpg?nf_resize=fit&w=640)
 ![](/static/img/paintings/veneno.jpg?nf_resize=fit&w=640)
 ![](/static/img/paintings/tresluchas.jpg?nf_resize=fit&w=640)
-![](/static/img/paintings/silveron.jpg?nf_resize=fit&w=640)
+<!-- ![](/static/img/paintings/silveron.jpg?nf_resize=fit&w=640) -->
 ![](/static/img/paintings/cutoutmummiestalking.jpg?nf_resize=fit&w=640)
-![](/static/img/paintings/escandinavoinprogress.jpg?nf_resize=fit&w=640)
-![](/static/img/paintings/twocolorson.jpg?nf_resize=fit&w=640)
-![](/static/img/paintings/startingpainting.jpg?nf_resize=fit&w=640)
-![](/static/img/paintings/lineyfaceart.jpg?nf_resize=fit&w=640)
-![](/static/img/paintings/backtoloafinprogress2.jpg?nf_resize=fit&w=640)
+<!-- ![](/static/img/paintings/escandinavoinprogress.jpg?nf_resize=fit&w=640) -->
+<!-- ![](/static/img/paintings/twocolorson.jpg?nf_resize=fit&w=640) -->
+<!-- ![](/static/img/paintings/startingpainting.jpg?nf_resize=fit&w=640) -->
+<!-- ![](/static/img/paintings/lineyfaceart.jpg?nf_resize=fit&w=640) -->
+<!-- ![](/static/img/paintings/backtoloafinprogress2.jpg?nf_resize=fit&w=640) -->
 ![](/static/img/paintings/backtoloafinoffice.jpg?nf_resize=fit&w=640)
 ![](/static/img/paintings/awfulbaby1.jpg?nf_resize=fit&w=640)
 ![](/static/img/paintings/selfportin276lvrm.jpg?nf_resize=fit&w=640)
