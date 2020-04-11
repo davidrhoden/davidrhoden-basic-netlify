@@ -3,7 +3,7 @@
 
     {% include "components/head.njk" %}
 
-        <body {% if bodyClass %}class="{{ bodyClass }}"{% endif %}>
+        <body {% if page.data.bodyClass %}class="{{ bodyClass }}"{% endif %}>
             <div class="container">
 
             <header>
