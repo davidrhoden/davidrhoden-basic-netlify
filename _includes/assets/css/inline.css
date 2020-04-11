@@ -1,0 +1,274 @@
+:root {
+	--magenta: magenta;
+	--white: white;
+	--blue: #7bb4fb;
+	--orangered: orangered;
+}
+
+*, *:before, *:after {
+    box-sizing: border-box;
+}
+
+html,
+body {
+	padding: 0;
+	margin: 0;
+	font-family: "Source Serif Pro", "Inter", Helvetica, Arial, sans-serif;
+}
+
+body {
+	display: grid;
+	height: 100vh;
+	grid-template-rows: auto 1fr auto;
+	background-color: var(--white);
+}
+
+h1 {
+	font-family: "Inter", Helvetica, Arial, sans-serif;
+	font-weight: 200;
+}
+
+.container {
+	width:100%;
+}
+
+p,
+pre,
+code {
+	line-height: 1.5;
+}
+
+a[href],
+a[href]:visited {
+	color: var(--blue);
+	transition: color 0.3s ease;
+}
+
+a[href]:hover,
+a[href]:active {
+	color: var(--orangered);
+}
+
+a[href]:not(:hover) {
+	text-decoration: none;
+}
+
+a.mainlink[href],
+a.mainlink[href]:visited {
+	color: black;
+	font-family: "ShadowGrotesque", sans-serif, "Avenir";
+	font-size: 2em;
+	text-decoration: none;
+	transition: color 0.3s ease;
+}
+
+a.mainlink[href]:hover,
+a.mainlink[href]:active {
+	color: var(--orangered);
+}
+
+nav ul li a.mainlink[href],
+a.mainlink[href]:visited {
+	color: black;
+	font-family: "ShadowGrotesque", sans-serif, "Avenir";
+	font-size: 2em;
+	text-decoration: none;
+	transition: color 0.3s ease;
+}
+
+header,
+main,
+footer {
+	padding: 1em;
+}
+
+main {
+	padding-bottom: 2em;
+}
+
+main :first-child,
+main > article :first-child {
+	margin-top: 0;
+}
+
+pre {
+	font-size: 14px;
+	direction: ltr;
+	text-align: left;
+	white-space: pre;
+	word-spacing: normal;
+	word-break: normal;
+	-moz-tab-size: 2;
+	tab-size: 2;
+	-webkit-hyphens: none;
+	-moz-hyphens: none;
+	-ms-hyphens: none;
+	hyphens: none;
+	padding: 1em;
+	margin: .5em 0;
+}
+
+/* Header Logo (style as h2) */
+header > em {
+	display: block;
+	font-size: 2em;
+	margin: .67em 0;
+	font-weight: bold;
+	font-style: normal;
+}
+
+/* Header Nav */
+header nav ul {
+	padding: 0;
+	list-style: none;
+}
+
+header nav ul :first-child {
+	margin-left: 0;
+}
+
+header nav li {
+	display: inline-block;
+	margin: 0 .5em;
+}
+
+header nav li a {
+	font-family: "Inter", Helvetica, Arial, sans-serif;
+}
+
+header nav li a[href]:not(:hover) {
+	text-decoration: none;
+}
+
+header nav li a[data-current="current item"] {
+	font-weight: 700;
+	text-decoration: underline;
+}
+
+/* Posts List */
+article {
+	margin-bottom: 1em;
+	padding-bottom: 1em;
+	border-bottom: 1px solid #eee;
+	border-bottom: 1px solid var(--white);
+}
+
+main > section > article > * {
+	margin-top: 0;
+	margin-bottom: .5em;
+}
+
+/* Post Tags */
+a[rel="tag"],
+a[rel="tag"]:visited {
+	display: inline-block;
+  vertical-align: text-top;
+  text-transform: uppercase;
+	letter-spacing: .1em;
+  font-size: .625em;
+  padding: 0 .5em;
+	line-height: 2em;
+	height: 2em;
+  border: 1px solid var(--white);
+	background-color: var(--white);
+	color: var(--blue);
+  border-radius: .25em;
+  text-decoration: none;
+	margin: 0 .5em .5em 0;
+}
+
+a[rel="tag"]:hover {
+	border: 1px solid var(--blue);
+	background-color: var(--blue);
+	color: var(--white);
+}
+
+a[rel="tag"]:last-child {
+	margin-right: 0;
+}
+
+/* Contact Form */
+form {
+  display: grid;
+	padding: 2em 0;
+}
+
+form label {
+  display: none;
+}
+
+input,
+textarea,
+button {
+  width: 100%;
+  padding: 1em;
+  margin-bottom: 1em;
+	font-size: 1rem;
+	font-family: "Avenir", "Avenir Next", sans-serif;
+}
+
+input,
+textarea {
+	border: 1px solid black;
+}
+
+button {
+	border: 1px solid var(--blue);
+	background-color: var(--blue);
+	color: var(--white);
+	cursor: pointer;
+}
+
+footer small {
+	font-size: .7em;
+	text-transform: uppercase;
+}
+
+.about img, .timeline img {
+	width: 100%;
+}
+
+
+@media screen and (min-width:768px) {
+	:root {
+		font-size: 1.1rem;
+	}
+
+	.container {
+		margin-left: auto;
+		margin-right: auto;
+		width: 66%;
+	}
+
+	.flex {
+		display: flex;
+	}
+
+	.align-items-center {
+		align-items: center;
+	}
+
+	.space-around { 
+		justify-content: space-around; 
+	}
+
+	.summary, .image {
+		flex-basis: 50%;
+	}
+
+	/******* ANIMATIONS *******/
+	
+	.animations article {
+		display: grid;
+		grid-template-columns: 1fr 3fr;
+		grid-template-areas: "text image";
+	}
+
+	.text {
+		grid-area: text;
+	}
+
+	.image {
+		grid-area: image;
+	}
+}
