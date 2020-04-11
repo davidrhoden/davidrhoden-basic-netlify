@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'ShadowGrotesque';
+    src: url('/static/webfonts/ShadowGrotesque/shadowgrotesque-webfont.woff2') format('woff2'),
+         url('/static/webfonts/ShadowGrotesque/shadowgrotesque-webfont.woff') format('woff'),
+         url('/static/webfonts/ShadowGrotesque/shadowgrotesque-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/** {outline: 1px dotted purple;}*/
