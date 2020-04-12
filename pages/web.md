@@ -39,22 +39,18 @@ Hurray For The Riff Raff (design and development)
 ![](/static/img/web/hftrr_03.jpg?nf_resize=fit&w=640)
 
 ## 2015 - 2010
-America Express Travel (as part of the team at iSeatz)
-![](/static/img/web/amex_01.png?nf_resize=fit&w=640)
-![](/static/img/web/AMEX.jpg?nf_resize=fit&w=640)
-
-Berkshire View
-![](/static/img/web/berkshireviewhome.jpg?nf_resize=fit&w=640)
-
-Bert Johnson for U.S. House of Repreentatives (didn't work; he's in jail now)
+Bert Johnson for U.S. House of Representatives (didn't work; he's in jail now)
 ![](/static/img/web/bertjohnson.jpg?nf_resize=fit&w=640)
-![](/static/img/web/bertjohnson2014.png?nf_resize=fit&w=640)
 
 Express Health Care (development only)
 ![](/static/img/web/ehc.jpg?nf_resize=fit&w=640)
 
 Eatucator (development only)
 ![](/static/img/web/eatucator.jpg?nf_resize=fit&w=640)
+
+American Express Travel (with the team at iSeatz)
+![](/static/img/web/amex_01.png?nf_resize=fit&w=640)
+![](/static/img/web/AMEX.jpg?nf_resize=fit&w=640)
 
 ## 2010 - 2005
 
@@ -90,12 +86,10 @@ Stiefel (development, with the team at BrandWizard)
 ![](/static/img/web/screenshot_stiefel_mainpage.png?nf_resize=fit&w=640)
 
 Subway Now ( development, with the team at GoMobo)
-![](/static/img/web/screenshot_subwaynow.png?nf_resize=fit&w=640)
 ![](/static/img/web/screenshot_subwaynowhome.png?nf_resize=fit&w=640)
 ![](/static/img/web/screenshot_subwaynowmenu.png?nf_resize=fit&w=640)
 
 Go Mobo (development)
-![](/static/img/web/screenshot_gomobo.png?nf_resize=fit&w=640)
 ![](/static/img/web/screenshot_gomobohome.png?nf_resize=fit&w=640)
 ![](/static/img/web/screenshot_gomobomenu.png?nf_resize=fit&w=640)
 
@@ -114,8 +108,8 @@ Elizabeth Underwood (design and development)
 ![](/static/img/web/elizabethunderwood.jpg?nf_resize=fit&w=640)
 ![](/static/img/web/screenshot_elihome.png?nf_resize=fit&w=640)
 ![](/static/img/web/screenshot_eliinterior.png?nf_resize=fit&w=640)
-![](/static/img/web/screenshot_eliunderwoodhome.png?nf_resize=fit&w=640)
-![](/static/img/web/screenshot_eliunderwoodpage.png?nf_resize=fit&w=640)
+<!-- ![](/static/img/web/screenshot_eliunderwoodhome.png?nf_resize=fit&w=640)
+![](/static/img/web/screenshot_eliunderwoodpage.png?nf_resize=fit&w=640) -->
 
 Comedy Sportz NOLA (design and development)
 ![](/static/img/web/comedysportznola.jpg?nf_resize=fit&w=640)
