@@ -232,6 +232,33 @@ footer small {
 	width: 100%;
 }
 
+ol {
+  clear: both;
+  list-style: none;
+  padding: 0;
+}
+ol li {
+  margin: 2em 0;
+  display: block;
+  position: relative;
+  counter-increment: inst;
+}
+ol li::before {
+  content: counter(inst);
+  color: white;
+  font-weight: 700;
+  font-size: 1.5em;
+  text-align: center;
+  padding-top: 0;
+  padding-left: 2.25%;
+  left: 0;
+  top: .5em;
+  height: 2em;
+  width: 2em;
+  position: absolute;
+  transition: all 0.2s ease-in-out;
+  z-index: 2;
+}
 
 @media screen and (min-width:768px) {
 	:root {
@@ -241,7 +268,7 @@ footer small {
 	.container {
 		margin-left: auto;
 		margin-right: auto;
-		width: 66%;
+		width: 50%;
 	}
 
 	.flex {
