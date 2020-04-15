@@ -1,0 +1,102 @@
+---
+title: Rock Music
+date: 2020-04-14T00:00:00.000Z
+permalink: /rock/index.html
+navtitle: Rock
+bodyClass: "rock"
+eleventyNavigation:
+  key: Rock
+  order: 6
+tags:
+  - nav
+---
+
+## The Stacks
+
+![David Rhoden with The Stacks (Andrew Donaldson, Steve Walkup, Tom Beeman) at Gasa Gasa, New Orleans, 2018](/static/img/about/stacksatgasagasa.jpg)
+
+David Rhoden with The Stacks (Andrew Donaldson, Steve Walkup, Tom Beeman) at Gasa Gasa, New Orleans, 2018
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1045225060/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://thestacksnola.bandcamp.com/album/live-at-circle-bar-september-14-2018">Live At Circle Bar September 14, 2018 by The Stacks</a></iframe>
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=873450142/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://thestacksnola.bandcamp.com/album/live-at-siberia-august-30-2018">Live at Siberia August 30, 2018 by The Stacks</a></iframe>
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2799464594/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://thestacksnola.bandcamp.com/album/tangerines-and-evidence">Tangerines and Evidence by The Stacks</a></iframe>
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=2426890446/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://thestacksnola.bandcamp.com/track/the-alligator">The Alligator by The Stacks</a></iframe>
+
+---
+
+## Mountain Shoutin'
+
+![Mountain Shoutin'](/static/img/rock/mtnshtn.jpg)
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2089657765/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://mountainshoutin.bandcamp.com/album/160913-mountain-shoutin-rehearsal">160913 Mountain Shoutin&#39; Rehearsal by Mountain Shoutin&#39;</a></iframe>
+
+---
+
+## All-Night Movers
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2852397807/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://davidrhoden.bandcamp.com/album/all-night">All Night by All-Night Movers</a></iframe>
+
+---
+
+## Jimmy and The Wolfpack
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3590695495/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://jimmyandthewolfpack.bandcamp.com/album/jimmy-and-the-wolfpack">Jimmy and The Wolfpack by Jimmy And The Wolfpack</a></iframe>
+
+---
+
+## MAXIMVS!
+
+![MAXIMVS! at Circle Bar, New Orleans: Jeff Pounds, David Rhoden, Trey Ledford](/static/img/about/maximvs01.jpg)
+
+---
+
+## Sleepy Heads
+
+---
+
+## The Innuendos
+
+![The Innuendos: Joe Fusco, Jahna Rain, David Rhoden, NYC](/static/img/rock/innuendos.jpg)
+
+---
+
+## Dirty Knives
+
+---
+
+## Hi-Balls
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=4108152891/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://hiballs.bandcamp.com/album/love-music">Love Music by The Hi-Balls</a></iframe>
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3060599940/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://hiballs.bandcamp.com/album/tube-or-not-tube">Tube Or Not Tube by The Hi-Balls</a></iframe>
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3932737902/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://hiballs.bandcamp.com/album/what-they-do">What They Do by The Hi-Balls</a></iframe>
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3486834515/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://hiballs.bandcamp.com/album/feel-good-rock-and-roll-7">Feel Good Rock And Roll 7&quot; by The Hi-Balls</a></iframe>
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2864899534/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://hiballs.bandcamp.com/album/continental">Continental by The Hi-Balls</a></iframe>
+
+---
+
+## Snake Oil
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2260301877/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://snakeoilknoxville.bandcamp.com/album/snake-oil">Snake Oil by Snake Oil</a></iframe>
+
+---
+
+## Everything Tool
+
+---
+
+## Cheerio and The Camels
+
+---
+
+## Dial A Miracle
+
+---
+
+## Red M&Ms
