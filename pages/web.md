@@ -6,7 +6,7 @@ permalink: /web/index.html
 navtitle: Web
 eleventyNavigation:
   key: Web
-  order: 7
+  order: 5
   bodyClass: "web"
 tags:
   - nav
