@@ -6,7 +6,7 @@ permalink: /web/index.html
 navtitle: Web
 eleventyNavigation:
   key: Web
-  order: 5
+  order: 7
   bodyClass: "web"
 tags:
   - nav
@@ -39,6 +39,7 @@ Hurray For The Riff Raff (design and development)
 ![](/static/img/web/hftrr_03.jpg?nf_resize=fit&w=640)
 
 ## 2015 - 2010
+
 Bert Johnson for U.S. House of Representatives (didn't work; he's in jail now)
 ![](/static/img/web/bertjohnson.jpg?nf_resize=fit&w=640)
 
@@ -49,7 +50,6 @@ Eatucator (development only)
 ![](/static/img/web/eatucator.jpg?nf_resize=fit&w=640)
 
 American Express Travel (with the team at iSeatz)
-![](/static/img/web/amex_01.png?nf_resize=fit&w=640)
 ![](/static/img/web/AMEX.jpg?nf_resize=fit&w=640)
 
 ## 2010 - 2005
@@ -63,41 +63,41 @@ Home Depot Garden Club (with the team at MRM/McCann)
 
 Redbull Manny Mania (development, with the team at Kastner & Partners)
 ![](/static/img/web/redbullmannymania.jpg?nf_resize=fit&w=640)
-![](/static/img/web/screenshot_redbull.jpg?nf_resize=fit&w=640)
 ![](/static/img/web/screenshot_redbullfull.png?nf_resize=fit&w=640)
 
-Jawbone (with the team at ...)
+Jawbone (development only, with the team at 1/0)
 ![](/static/img/web/screenshot_jawbonehome.png?nf_resize=fit&w=640)
 
-The Frisky (development only, with the team at Turner Broadcasting)
+The Frisky (development, with the team at Turner Broadcasting)
 ![](/static/img/web/frisky.jpg?nf_resize=fit&w=640)
 ![](/static/img/web/screenshot_friskyhome.jpg?nf_resize=fit&w=640)
 
-Bajibot (NYC Animators)
-![](/static/img/web/Bajibot_02.png?nf_resize=fit&w=640)
+Bajibot (NYC Animators, development)
 ![](/static/img/web/bajibot.jpg?nf_resize=fit&w=640)
+![](/static/img/web/Bajibot_02.png?nf_resize=fit&w=640)
 
-Rick Goetz Consulting(design and development)
+Rick Goetz Consulting (design and development)
 ![](/static/img/web/screenshot_rickgoetz.png?nf_resize=fit&w=640)
-![](/static/img/web/screenshot_rickgoetzhome.png?nf_resize=fit&w=640)
 
 Stiefel (development, with the team at BrandWizard)
 ![](/static/img/web/screenshot_stiefel_login.png?nf_resize=fit&w=640)
 ![](/static/img/web/screenshot_stiefel_mainpage.png?nf_resize=fit&w=640)
 
-Subway Now ( development, with the team at GoMobo)
+Subway Now (development, with the team at GoMobo)
 ![](/static/img/web/screenshot_subwaynowhome.png?nf_resize=fit&w=640)
 ![](/static/img/web/screenshot_subwaynowmenu.png?nf_resize=fit&w=640)
 
-Go Mobo (development)
+Go Mobo (development, with the team at GoMobo)
 ![](/static/img/web/screenshot_gomobohome.png?nf_resize=fit&w=640)
 ![](/static/img/web/screenshot_gomobomenu.png?nf_resize=fit&w=640)
 
-Mirren Business Development, various projects, development only
-![](/static/img/web/cmoworkspace.jpg?nf_resize=fit&w=640)
-![](/static/img/web/newbusinessconference.jpg?nf_resize=fit&w=640)
-![](/static/img/web/screenshot_mirren2006.png?nf_resize=fit&w=640)
+IAC (design and development)
+![](/static/img/web/iacas.jpg?nf_resize=fit&w=640)
+
+Mirren Business Development (development)
 ![](/static/img/web/screenshot_mirren2007.png?nf_resize=fit&w=640)
+![](/static/img/web/screenshot_mirren2006.png?nf_resize=fit&w=640)
+![](/static/img/web/cmoworkspace.jpg?nf_resize=fit&w=640)
 
 ## 2005 - 2000
 
@@ -105,11 +105,8 @@ Burnley Vest (design and development, all Flash)
 ![](/static/img/web/scrnburn.jpg?nf_resize=fit&w=640)
 
 Elizabeth Underwood (design and development)
-![](/static/img/web/elizabethunderwood.jpg?nf_resize=fit&w=640)
 ![](/static/img/web/screenshot_elihome.png?nf_resize=fit&w=640)
 ![](/static/img/web/screenshot_eliinterior.png?nf_resize=fit&w=640)
-<!-- ![](/static/img/web/screenshot_eliunderwoodhome.png?nf_resize=fit&w=640)
-![](/static/img/web/screenshot_eliunderwoodpage.png?nf_resize=fit&w=640) -->
 
 Comedy Sportz NOLA (design and development)
 ![](/static/img/web/comedysportznola.jpg?nf_resize=fit&w=640)
@@ -126,7 +123,7 @@ Joe Kight (design and development)
 ![](/static/img/web/screenshot_joekight.png?nf_resize=fit&w=640)
 ![](/static/img/web/screenshot_joekighthome.png?nf_resize=fit&w=640)
 
-M. Arch Architects(design and development)
+M. Arch Architects (design and development)
 ![](/static/img/web/marcharch.jpg?nf_resize=fit&w=640)
 ![](/static/img/web/marcharchalbum.jpg?nf_resize=fit&w=640)
 ![](/static/img/web/screenshot_marcharchhome.png?nf_resize=fit&w=640)
@@ -152,7 +149,7 @@ Hyde Park Grill (design and development)
 New Orleans Film Festival (design and development, their first web site)
 ![](/static/img/web/scrnnoff.jpg?nf_resize=fit&w=640)
 
-Red House Painters (development)
+Red House Painters (development, free-lance for Sub Pop Records)
 ![](/static/img/web/scrnrhp.gif?nf_resize=fit&w=640)
 
 The Red Barn, deposit New York (design and development)
@@ -161,8 +158,10 @@ The Red Barn, deposit New York (design and development)
 Scott Carpenter and the Real McCoys, Buffalo, New York (design and development)
 ![](/static/img/web/scrscrmc.gif?nf_resize=fit&w=640)
 
-Lux (development)
-![](/static/img/web/screenshot_luxhome.png?nf_resize=fit&w=640)Sara Essex Photography (design and development)
+Lux Salon (development)
+![](/static/img/web/screenshot_luxhome.png?nf_resize=fit&w=640)
+
+Sara Essex Photography (design and development)
 ![](/static/img/web/screenshot_saraessexhome.png?nf_resize=fit&w=640)
 ![](/static/img/web/screenshot_saraessex.png?nf_resize=fit&w=640)
 

@@ -6,7 +6,7 @@ navtitle: Animations
 bodyClass: "animations"
 eleventyNavigation:
   key: Animations 
-  order: 7
+  order: 5
 tags:
   - nav
 ---
@@ -23,11 +23,14 @@ tags:
 
 ---
 
-![Scratch animation by David Rhoden](/static/img/animations/asmpuscratch.gif)
+![Scratch animation by David Rhoden](/static/img/animations/ampuscratch.gif)
 
 ---
 
-![Alien animation by David Rhoden](/static/img/animations/lemondrop640.mp4)
+<video controls="controls">
+  <source type="video/mp4" src="/static/img/animations/mp4s/lemondrop640.mp4"></source>
+  <p>Your browser does not support the video element.</p>
+</video>
 
 ---
 
@@ -39,7 +42,7 @@ tags:
 
 ---
 
-![You Can't Hide Your Flyin' Eyes animation by David Rhoden](/static/img/animations/flyingeyes.gif)
+![You Can't Hide Your Flyin' Eyes animation by David Rhoden](/static/img/animations/flyingeyes140709.gif)
 
 ---
 
@@ -47,7 +50,7 @@ tags:
 
 ---
 
-![Talkers animation by David Rhoden](/static/img/animations/talkers.gif)
+![Talker animation by David Rhoden](/static/img/animations/talkers.gif)
 
 ---
 
