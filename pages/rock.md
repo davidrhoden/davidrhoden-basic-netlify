@@ -64,6 +64,7 @@ David Rhoden with The Stacks (Andrew Donaldson, Steve Walkup, Tom Beeman) at Gas
 ---
 
 ## Dirty Knives
+![Dirty Knives Greatest Hits, Vol. 2 LIVE!](/static/img/rock/dirtyknivesalbumcover.jpg)
 
 ---
 
