@@ -25,6 +25,8 @@ David Rhoden with The Stacks (Andrew Donaldson, Steve Walkup, Tom Beeman) at Gas
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=2426890446/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://thestacksnola.bandcamp.com/track/the-alligator">The Alligator by The Stacks</a></iframe>
 
+The Stacks started around 2000 to play two shows and just never managed to break up. I think there have been fifteen people in the band, with me as the only constant.
+
 ---
 
 ## Mountain Shoutin'
@@ -32,6 +34,8 @@ David Rhoden with The Stacks (Andrew Donaldson, Steve Walkup, Tom Beeman) at Gas
 ![Mountain Shoutin'](/static/img/rock/mtnshtn.jpg)
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2089657765/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://mountainshoutin.bandcamp.com/album/160913-mountain-shoutin-rehearsal">160913 Mountain Shoutin&#39; Rehearsal by Mountain Shoutin&#39;</a></iframe>
+
+The Stacks set list, pretty much, but now with Texans.
 
 ---
 
@@ -55,11 +59,15 @@ David Rhoden with The Stacks (Andrew Donaldson, Steve Walkup, Tom Beeman) at Gas
 
 ## Sleepy Heads
 
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2178980125/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://sleepy-heads.bandcamp.com/album/sleepy-heads">Sleepy Heads by Sleepy Heads</a></iframe>
+
 ---
 
 ## The Innuendos
 
 ![The Innuendos: Joe Fusco, Jahna Rain, David Rhoden, NYC](/static/img/rock/innuendos.jpg)
+
+We did record some good stuff with Mitro Valsamis but I don't appear to have a copy.
 
 ---
 
@@ -90,14 +98,22 @@ David Rhoden with The Stacks (Andrew Donaldson, Steve Walkup, Tom Beeman) at Gas
 
 ## Everything Tool
 
+First college band. I thought we were pretty good though I'm embarrassed by the lyrics now. we made a cassette called "Mystic Crystal Revelation" but I don't have a copy.
+
 ---
 
 ## Cheerio and The Camels
+
+Bsnd that played one show, at Williams College, in Williamstown Massachusetts, while they were handing out the box lunches.
 
 ---
 
 ## Dial A Miracle
 
+Last year of high school. We released one 7" that I apparently don't have a copy of.
+
 ---
 
 ## Red M&Ms
+
+First band. We made one cassette release called "Unhealthy". I cut a picture of some bad red blood cells out of my mom's Biology textbook to make the cover. I don't have a copy of the recording.
