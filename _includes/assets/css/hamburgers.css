@@ -1,17 +1,15 @@
-nav {
-  display: none;
-}
-
-nav.is-active {
-  display: block;
-}
-
 /* Hamburgers
  * @description Tasty CSS-animated hamburgers
  * @author Jonathan Suh @jonsuh
  * @site https://jonsuh.com/hamburgers
  * @link https://github.com/jonsuh/hamburgers
  */
+
+button.hamburger {
+  border: 0px solid var(--white);
+  background-color: var(--white);
+}
+
 .hamburger {
   display: inline-block;
   cursor: pointer;

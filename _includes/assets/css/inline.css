@@ -29,6 +29,14 @@ h1 {
 	font-weight: 200;
 }
 
+nav {
+  display: none;
+}
+
+nav.is-active {
+  display: block;
+}
+
 .container {
 	width:100%;
 }
@@ -248,7 +256,7 @@ ol li::before {
   z-index: 2;
 }
 
-@media screen and (min-width:768px) {
+@media screen and (min-width:960px) {
 	:root {
 		font-size: 1.1rem;
 	}
@@ -256,7 +264,15 @@ ol li::before {
 	.container {
 		margin-left: auto;
 		margin-right: auto;
-		width: 50%;
+		width: 66%;
+	}
+
+	nav {
+	  display: none;
+	}
+
+	nav.is-active {
+	  display: block;
 	}
 
 	.flex {
@@ -275,9 +291,6 @@ ol li::before {
 		flex-basis: 50%;
 	}
 
-	.mobile-menu {
-		display: none;
-	}
 
 	header nav ul :first-child {
 	margin-left: 0;
@@ -287,6 +300,28 @@ ol li::before {
 		display: inline-block;
 		margin: 0 .5em;
 	}
+}
+
+@media screen and (min-width:1200px) {
+	:root {
+		font-size: 1.1rem;
+	}
+
+	.container {
+		margin-left: auto;
+		margin-right: auto;
+		width: 60%;
+	}
+
+	nav {
+		display: block;
+	}
+
+	.mobile-menu {
+		display: none;
+	}
+
+}	
 
 	/******* ANIMATIONS *******/
 	
