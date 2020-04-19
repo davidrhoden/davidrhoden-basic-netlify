@@ -51,7 +51,7 @@ New Orleans tourists on a spooky tour for _Desire_ magazine.
 
 ---
 
-Illustration for an article on men's health issues for _Kingfish_ magaizne.
+Illustration for an article on men's health issues for _Kingfish_ magazine.
 ![](/static/img/illustrations/pencilheart.jpg?nf_resize=fit&w=640)
 
 ---

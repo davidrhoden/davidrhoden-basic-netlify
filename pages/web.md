@@ -40,13 +40,13 @@ Hurray For The Riff Raff (design and development)
 
 ## 2015 - 2010
 
-Bert Johnson for U.S. House of Representatives (didn't work; he's in jail now)
+Bert Johnson for U.S. House of Representatives (development, didn't work; he's in jail now)
 ![](/static/img/web/bertjohnson.jpg?nf_resize=fit&w=640)
 
-Express Health Care (development only)
+Express Health Care (development)
 ![](/static/img/web/ehc.jpg?nf_resize=fit&w=640)
 
-Eatucator (development only)
+Eatucator (development)
 ![](/static/img/web/eatucator.jpg?nf_resize=fit&w=640)
 
 American Express Travel (with the team at iSeatz)
@@ -54,18 +54,18 @@ American Express Travel (with the team at iSeatz)
 
 ## 2010 - 2005
 
-Crown Royal (with the team at MRM/McCann)
+Crown Royal (development, with the team at MRM/McCann)
 ![](/static/img/web/crownroyal.jpg?nf_resize=fit&w=640)
 ![](/static/img/web/crownroyal.png?nf_resize=fit&w=640)
 
-Home Depot Garden Club (with the team at MRM/McCann)
+Home Depot Garden Club (development, with the team at MRM/McCann)
 ![](/static/img/web/screenshot_homedepotgc.png?nf_resize=fit&w=640)
 
 Redbull Manny Mania (development, with the team at Kastner & Partners)
 ![](/static/img/web/redbullmannymania.jpg?nf_resize=fit&w=640)
 ![](/static/img/web/screenshot_redbullfull.png?nf_resize=fit&w=640)
 
-Jawbone (development only, with the team at 1/0)
+Jawbone (development, with the team at 1/0)
 ![](/static/img/web/screenshot_jawbonehome.png?nf_resize=fit&w=640)
 
 The Frisky (development, with the team at Turner Broadcasting)
@@ -152,7 +152,7 @@ New Orleans Film Festival (design and development, their first web site)
 Red House Painters (development, free-lance for Sub Pop Records)
 ![](/static/img/web/scrnrhp.gif?nf_resize=fit&w=640)
 
-The Red Barn, deposit New York (design and development)
+The Red Barn, Deposit, New York (design and development)
 ![](/static/img/web/scrredbarn.jpg?nf_resize=fit&w=640)
 
 Scott Carpenter and the Real McCoys, Buffalo, New York (design and development)
