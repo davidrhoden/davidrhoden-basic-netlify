@@ -1,7 +1,8 @@
 :root {
-	--magenta: magenta;
+	--black: black;
 	--white: white;
 	--blue: #7bb4fb;
+	--magenta: magenta;
 	--orangered: orangered;
 }
 
@@ -106,13 +107,9 @@ header nav ul {
 	list-style: none;
 }
 
-header nav ul :first-child {
-	margin-left: 0;
-}
-
 header nav li {
-	display: inline-block;
-	margin: 0 .5em;
+	display: block;
+	margin: 1em 0;
 }
 
 header nav li a {
@@ -127,6 +124,12 @@ header nav li a[href]:not(:hover) {
 header nav li a[data-current="current item"] {
 	font-weight: 700;
 	text-decoration: underline;
+}
+
+.mobile-menu {
+	display: inline-block;
+	float: right;
+	padding: 6px 0;
 }
 
 /* Posts List */
@@ -270,6 +273,19 @@ ol li::before {
 
 	.summary, .image {
 		flex-basis: 50%;
+	}
+
+	.mobile-menu {
+		display: none;
+	}
+
+	header nav ul :first-child {
+	margin-left: 0;
+	}
+
+	header nav li {
+		display: inline-block;
+		margin: 0 .5em;
 	}
 
 	/******* ANIMATIONS *******/
