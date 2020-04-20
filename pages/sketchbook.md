@@ -5,9 +5,9 @@ permalink: /sketchbook/index.html
 navtitle: sketchbook
 bodyClass: "sketchbook"
 eleventyNavigation:
-	Parent: Illustrations
-	  	key: Sketchbook 
-	  	order: 1
+	key: Sketchbook 
+	parent: Illustrations
+	order: 1
 tags:
   - nav
  
