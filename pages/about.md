@@ -86,6 +86,6 @@ David Rhoden with Stacks (Steve Walkup, Trey Ledford, Doug DeRienzo), New Orlean
 
 ---
 
-![David Rhoden, 850 Third Avenue, New York City, 1992](/static/img/drrinfrontof850.jpg)
+![David Rhoden, 850 Third Avenue, New York City, 1992](/static/img/about/drrinfrontof850.jpg)
 
 David Rhoden, 850 Third Avenue, New York City, 1992
