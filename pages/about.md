@@ -44,7 +44,7 @@ David Rhoden outside Chart Room bar, New Orleans, 2010s
 
 ---
 
-![David Rhoden drumming with Jimmy and The Wolfpack, 2010s](/static/img/about/jawpdaviddrumminglakeside.jpg)
+![David Rhoden drumming with Jimmy and The Wolfpack, 2010s](/static/img/rock/jawpdaviddrumminglakeside.jpg)
 
 David Rhoden drumming with Jimmy and The Wolfpack, 2010s
 
@@ -56,31 +56,31 @@ David Rhoden, Selfie, Bushwick, 2008
 
 ---
 
-![David Rhoden with MAXIMVS! (Trey Ledford, Jeff Pounds) at Circle Bar, New Orleans, 2000s](/static/img/about/maximvs01.jpg)
+![David Rhoden with MAXIMVS! (Trey Ledford, Jeff Pounds) at Circle Bar, New Orleans, 2000s](/static/img/rock/maximvs01.jpg)
 
 David Rhoden with MAXIMVS! (Trey Ledford, Jeff Pounds) at Circle Bar, New Orleans, 2000s
 
 ---
 
-![David Rhoden with All-Night Movers, New Orleans, 2003](/static/img/about/davetalktoit.jpg)
+![David Rhoden with All-Night Movers, New Orleans, 2003](/static/img/rock/davetalktoit.jpg)
 
 David Rhoden with All-Night Movers at Circle Bar New Orleans, 2003?
 
 ---
 
-![David Rhoden with All-Night Movers, New Orleans, 2003 (Photo by Jeff Pounds.)](/static/img/about/ferrarabg.jpg)
+![David Rhoden with All-Night Movers, New Orleans, 2003 (Photo by Jeff Pounds.)](/static/img/rock/ferrarabg.jpg)
 
 David Rhoden with All-Night Movers, New Orleans, 2003 (Photo by Jeff Pounds.)
 
 ---
 
-![David Rhoden with All-Night Movers (Slade Nash), house party, New Orleans, 2003](/static/img/about/cover020803.jpg)
+![David Rhoden with All-Night Movers (Slade Nash), house party, New Orleans, 2003](/static/img/rock/cover020803.jpg)
 
 David Rhoden with All-Night Movers (Slade Nash), house party, New Orleans, 2003
 
 ---
 
-![David Rhoden with Stacks (Steve Walkup, Trey Ledford, Doug DeRienzo), New Orleans rooftop, 2000s](/static/img/about/stackstumbler.jpg)
+![David Rhoden with Stacks (Steve Walkup, Trey Ledford, Doug DeRienzo), New Orleans rooftop, 2000s](/static/img/rock/stackstumbler.jpg)
 
 David Rhoden with Stacks (Steve Walkup, Trey Ledford, Doug DeRienzo), New Orleans rooftop, 2000s
 
