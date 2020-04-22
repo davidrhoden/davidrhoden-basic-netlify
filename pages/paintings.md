@@ -1,3 +1,17 @@
+---
+layout: layouts/page.njk
+title: Paintings
+date: 2020-04-11T00:00:00.000Z
+permalink: /paintings/index.html
+navtitle: Paintings
+eleventyNavigation:
+  key: Paintings
+  order: 3
+  bodyClass: "paintings"
+tags:
+  - nav
+---
+
 1. ![painting by David Rhoden](/static/img/paintings/organicform5-chromeyellow-sq.jpg?nf_resize=fit&w=640)
 1. ![painting by David Rhoden](/static/img/paintings/Give-Me-Your-Money.jpg?nf_resize=fit&w=640)
 1. ![painting by David Rhoden](/static/img/paintings/avatar.jpg?nf_resize=fit&w=640)
@@ -118,17 +132,3 @@
 1. ![painting by David Rhoden](/static/img/paintings/cutouttubesockwcolby.jpg?nf_resize=fit&w=640)
 1. ![painting by David Rhoden](/static/img/paintings/cutoutbabbler.jpg?nf_resize=fit&w=640)
 1. ![painting by David Rhoden](/static/img/paintings/babbler_small.jpg?nf_resize=fit&w=640)
-
----
-layout: layouts/page.njk
-title: Paintings
-date: 2020-04-11T00:00:00.000Z
-permalink: /paintings/index.html
-navtitle: Paintings
-eleventyNavigation:
-  key: Paintings
-  order: 3
-  bodyClass: "paintings"
-tags:
-  - nav
----
