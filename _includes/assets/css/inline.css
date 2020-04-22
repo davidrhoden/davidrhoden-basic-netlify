@@ -256,6 +256,46 @@ ol li::before {
   z-index: 2;
 }
 
+/******* HOME *******/
+
+.home main {
+	position: relative;
+	height: 46vw;
+    margin: 0 auto;
+    overflow: hidden;
+    width: 70%;
+}
+
+.home main p {
+  	position: absolute;
+  	top: 0;
+  	left: 0;
+  	margin-left: auto;
+  	margin-right: auto;
+  	text-align: center;
+  	width: 100%;
+}
+
+.home main p img {
+  	width: 100%;
+}
+
+/******* ANIMATIONS *******/
+
+.animations article {
+	display: grid;
+	grid-template-columns: 1fr 3fr;
+	grid-template-areas: "text image";
+}
+
+.text {
+	grid-area: text;
+}
+
+.image {
+	grid-area: image;
+}
+
 @media screen and (min-width:960px) {
 	:root {
 		font-size: 1.1rem;
@@ -321,21 +361,9 @@ ol li::before {
 		display: none;
 	}
 
-}	
-
-	/******* ANIMATIONS *******/
-	
-	.animations article {
-		display: grid;
-		grid-template-columns: 1fr 3fr;
-		grid-template-areas: "text image";
+	.home main p img {
+		height: 660px;
+	  	width: 660px;
 	}
 
-	.text {
-		grid-area: text;
-	}
-
-	.image {
-		grid-area: image;
-	}
 }

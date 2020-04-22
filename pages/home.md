@@ -14,16 +14,14 @@ eleventyNavigation:
 
 ![aah guy by David Rhoden](/static/img/sketchbook/aah-guy.jpg)
 
-![photo of Dave in All-Night Movers house show](/static/img/rock/020727dave.jpg)
+![photo of Dave in All-Night Movers house show](/static/img/rock/020727dave960.jpg)
  
 ![Bottle Cap Boy T-Shirt by David Rhoden](/static/img/designs/Bottle-CapTeeTurquoise.jpg)
 
-![Big Face painting by David Rhoden](/static/img/paintings/bigface.jpg)
+![Big Face painting by David Rhoden](/static/img/paintings/bigface_sq.jpg)
 
-![Flinching alien animation by David Rhoden](/static/img/animations/daily120416.gif)
+![Flinching alien animation by David Rhoden](/static/img/animations/daily120416_sq.mp4)
 
-![Bienvenue a Louisiana illustration by David Rhoden](/static/img/illustrations/cars.jpg)
+![Bienvenue a Louisiana illustration by David Rhoden](/static/img/illustrations/cars_sq.jpg)
 
-![Bienvenue a Louisiana illustration by David Rhoden](/static/img/rock/davedrummingatlakeside_sm.jpg)
-
-
+![Bienvenue a Louisiana illustration by David Rhoden](/static/img/rock/davedrummingatlakeside_sq.jpg)

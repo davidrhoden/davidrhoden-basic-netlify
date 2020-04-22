@@ -6,7 +6,7 @@ navtitle: About
 bodyClass: "about"
 eleventyNavigation:
   key: About
-  order: 2
+  order: 8
 tags:
   - nav
 ---
