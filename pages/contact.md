@@ -4,6 +4,7 @@ title: Work with me
 date: 2020-02-01T00:00:00.000Z
 permalink: /contact/index.html
 navtitle: Work with me
+description: "I build websites on a freelance basis. Contact me about your website project."
 eleventyNavigation:
   key: Work with me
   order: 9

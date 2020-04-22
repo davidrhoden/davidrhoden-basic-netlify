@@ -4,6 +4,7 @@ date: 2020-04-14T00:00:00.000Z
 permalink: /rock/index.html
 navtitle: Rock
 bodyClass: "rock"
+description: "A brief history of bands David Rhoden has played in, including the Stacks, All-Night Movers, Jimmy and The Worlfpack, and The Hi-Balls."
 eleventyNavigation:
   key: Rock
   order: 7
