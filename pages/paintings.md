@@ -1,17 +1,3 @@
----
-layout: layouts/page.njk
-title: Paintings
-date: 2020-04-11T00:00:00.000Z
-permalink: /paintings/index.html
-navtitle: Paintings
-eleventyNavigation:
-  key: Paintings
-  order: 3
-  bodyClass: "paintings"
-tags:
-  - nav
----
-
 1. ![painting by David Rhoden](/static/img/paintings/organicform5-chromeyellow-sq.jpg?nf_resize=fit&w=640)
 1. ![painting by David Rhoden](/static/img/paintings/Give-Me-Your-Money.jpg?nf_resize=fit&w=640)
 1. ![painting by David Rhoden](/static/img/paintings/avatar.jpg?nf_resize=fit&w=640)
@@ -51,27 +37,19 @@ tags:
 1. ![painting by David Rhoden](/static/img/paintings/thepipesfullsizeoutdoors.jpg?nf_resize=fit&w=640)
 1. ![painting by David Rhoden](/static/img/paintings/torsoman1000.jpg?nf_resize=fit&w=640)
 1. ![painting by David Rhoden](/static/img/paintings/picnicpal.jpg?nf_resize=fit&w=640)
-1. ![painting by David Rhoden](/static/img/paintings/brightskull161216.jpg?nf_resize=fit&w=640)
 1. ![painting by David Rhoden](/static/img/paintings/161108blueluchacliffd.jpg?nf_resize=fit&w=640)
 1. ![painting by David Rhoden](/static/img/paintings/160917bluesquiggle.jpg?nf_resize=fit&w=640)
-1. ![painting by David Rhoden](/static/img/paintings/160807squiggleprimed.jpg?nf_resize=fit&w=640)
-1. ![painting by David Rhoden](/static/img/paintings/160807squiggleyelo.jpg?nf_resize=fit&w=640)
 1. ![painting by David Rhoden](/static/img/paintings/160807squiggleyelobig.jpg?nf_resize=fit&w=640)
 1. ![painting by David Rhoden](/static/img/paintings/160515lotofanger.jpg?nf_resize=fit&w=640)
 1. ![painting by David Rhoden](/static/img/paintings/bettyandlucha.jpg?nf_resize=fit&w=640)
-1. ![painting by David Rhoden](/static/img/paintings/organicform41510015.jpg?nf_resize=fit&w=640)
 1. ![painting by David Rhoden](/static/img/paintings/organicformhanging.jpg?nf_resize=fit&w=640)
 1. ![painting by David Rhoden](/static/img/paintings/170911luchadorpink.jpg?nf_resize=fit&w=640)
-1. ![painting by David Rhoden](/static/img/paintings/171218givemeyourmonry_complete.jpg?nf_resize=fit&w=640)
 1. ![painting by David Rhoden](/static/img/paintings/171219bigdopecardboard.jpg?nf_resize=fit&w=640)
 1. ![painting by David Rhoden](/static/img/paintings/180114artone.jpg?nf_resize=fit&w=640)
 1. ![painting by David Rhoden](/static/img/paintings/180114artthree.jpg?nf_resize=fit&w=640)
 1. ![painting by David Rhoden](/static/img/paintings/180114arttwo.jpg?nf_resize=fit&w=640)
 1. ![painting by David Rhoden](/static/img/paintings/myhoisecurrently.jpg?nf_resize=fit&w=640)
-1. ![painting by David Rhoden](/static/img/paintings/organicformsyellow.jpg?nf_resize=fit&w=640)
-1. ![painting by David Rhoden](/static/img/paintings/Give-Me-Your-Money.jpg?nf_resize=fit&w=640)
 1. ![painting by David Rhoden](/static/img/paintings/inhaler.jpg?nf_resize=fit&w=640)
-1. ![painting by David Rhoden](/static/img/paintings/070924_fourheads.jpg?nf_resize=fit&w=640)
 1. ![painting by David Rhoden](/static/img/paintings/bos-thatsitduskclose.jpg?nf_resize=fit&w=640)
 1. ![painting by David Rhoden](/static/img/paintings/bos-righthandfar.jpg?nf_resize=fit&w=640)
 1. ![painting by David Rhoden](/static/img/paintings/bos-selfcloseday.jpg?nf_resize=fit&w=640)
@@ -90,11 +68,9 @@ tags:
 1. ![painting by David Rhoden](/static/img/paintings/startlebot.jpg?nf_resize=fit&w=640)
 1. ![painting by David Rhoden](/static/img/paintings/foilface.jpg?nf_resize=fit&w=640)
 1. ![painting by David Rhoden](/static/img/paintings/bigface.jpg?nf_resize=fit&w=640)
-1. ![painting by David Rhoden](/static/img/paintings/bluelightning.jpg?nf_resize=fit&w=640)
 1. ![painting by David Rhoden](/static/img/paintings/mitzi.jpg?nf_resize=fit&w=640)
 1. ![painting by David Rhoden](/static/img/paintings/cloudcreatures.jpg?nf_resize=fit&w=640)
 1. ![painting by David Rhoden](/static/img/paintings/greenlightning.jpg?nf_resize=fit&w=640)
-1. ![painting by David Rhoden](/static/img/paintings/selfportraitonroof.jpg?nf_resize=fit&w=640)
 1. ![painting by David Rhoden](/static/img/paintings/thatsitthatsit.jpg?nf_resize=fit&w=640)
 1. ![painting by David Rhoden](/static/img/paintings/improbable.jpg?nf_resize=fit&w=640)
 1. ![painting by David Rhoden](/static/img/paintings/orangesquiggle01.jpg?nf_resize=fit&w=640)
@@ -119,17 +95,12 @@ tags:
 1. ![painting by David Rhoden](/static/img/paintings/colorful-lucha.jpg?nf_resize=fit&w=640)
 1. ![painting by David Rhoden](/static/img/paintings/selfportrait-with-large-tongue.jpg?nf_resize=fit&w=640)
 1. ![painting by David Rhoden](/static/img/paintings/smallluchas1404123.jpg?nf_resize=fit&w=640)
-1. ![painting by David Rhoden](/static/img/paintings/smallluchas1404121.jpg?nf_resize=fit&w=640)
 1. ![painting by David Rhoden](/static/img/paintings/smallluchas1404122.jpg?nf_resize=fit&w=640)
 1. ![painting by David Rhoden](/static/img/paintings/bigbetty1000.jpg?nf_resize=fit&w=640)
-1. ![painting by David Rhoden](/static/img/paintings/repurposed.jpg?nf_resize=fit&w=640)
-1. ![painting by David Rhoden](/static/img/paintings/160809yellowsquiggle.jpg?nf_resize=fit&w=640)
 1. ![painting by David Rhoden](/static/img/paintings/holdingangeronfloor.jpg?nf_resize=fit&w=640)
 1. ![painting by David Rhoden](/static/img/paintings/bluesquiggle.jpg?nf_resize=fit&w=640)
 1. ![painting by David Rhoden](/static/img/paintings/cornmanreadyfortheworld.jpg?nf_resize=fit&w=640)
 1. ![painting by David Rhoden](/static/img/paintings/ohnonever.jpg?nf_resize=fit&w=640)
-1. ![painting by David Rhoden](/static/img/paintings/IMG_20170429pinkyelojustdone.jpg?nf_resize=fit&w=640)
-1. ![painting by David Rhoden](/static/img/paintings/dontlike1000.jpg?nf_resize=fit&w=640)
 1. ![painting by David Rhoden](/static/img/paintings/pieceatgogobs.jpg?nf_resize=fit&w=640)
 1. ![painting by David Rhoden](/static/img/paintings/bigpink.jpg?nf_resize=fit&w=640)
 1. ![painting by David Rhoden](/static/img/paintings/lucha151223.jpg?nf_resize=fit&w=640)
@@ -141,14 +112,23 @@ tags:
 1. ![painting by David Rhoden](/static/img/paintings/smallbluesuit2.jpg?nf_resize=fit&w=640)
 1. ![painting by David Rhoden](/static/img/paintings/flourishstanding.jpg?nf_resize=fit&w=640)
 1. ![painting by David Rhoden](/static/img/paintings/flourishlayingflat.jpg?nf_resize=fit&w=640)
-1. ![painting by David Rhoden](/static/img/paintings/thatsitonroofh.jpg?nf_resize=fit&w=640)
-1. ![painting by David Rhoden](/static/img/paintings/cloudmanonroofh.jpg?nf_resize=fit&w=640)
-1. ![painting by David Rhoden](/static/img/paintings/amputeeonroofh.jpg?nf_resize=fit&w=640)
-1. ![painting by David Rhoden](/static/img/paintings/selfportaitonroofclosedusk.jpg?nf_resize=fit&w=640)
-1. ![painting by David Rhoden](/static/img/paintings/tresluchas.jpg?nf_resize=fit&w=640)
 1. ![painting by David Rhoden](/static/img/paintings/cutoutmummiestalking.jpg?nf_resize=fit&w=640)
 1. ![painting by David Rhoden](/static/img/paintings/backtoloafinoffice.jpg?nf_resize=fit&w=640)
 1. ![painting by David Rhoden](/static/img/paintings/awfulbaby1.jpg?nf_resize=fit&w=640)
 1. ![painting by David Rhoden](/static/img/paintings/cutouttubesockwcolby.jpg?nf_resize=fit&w=640)
 1. ![painting by David Rhoden](/static/img/paintings/cutoutbabbler.jpg?nf_resize=fit&w=640)
 1. ![painting by David Rhoden](/static/img/paintings/babbler_small.jpg?nf_resize=fit&w=640)
+
+---
+layout: layouts/page.njk
+title: Paintings
+date: 2020-04-11T00:00:00.000Z
+permalink: /paintings/index.html
+navtitle: Paintings
+eleventyNavigation:
+  key: Paintings
+  order: 3
+  bodyClass: "paintings"
+tags:
+  - nav
+---
