@@ -65,7 +65,7 @@ The Stacks set list, pretty much, but now with Texans.
 
 ## The Innuendos
 
-![The Innuendos: Joe Fusco, Jahna Rain, David Rhoden, NYC](/static/img/rock/innuendos.jpg)
+![The Innuendos: Joe Fusco, Jahna Rain, David Rhoden, NYC](/static/img/rock/innuendos960x640.jpg)
 
 We did record some good stuff with Mitro Valsamis but I don't appear to have a copy.
 
