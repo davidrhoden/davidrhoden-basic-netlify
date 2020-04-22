@@ -17,7 +17,14 @@ module.exports = function(eleventyConfig) {
   // post to a new file like this:
   // eleventyConfig.addLayoutAlias("post", "layouts/my_new_post_layout.njk");
 
-  eleventyConfig.addPlugin(pluginSEO, require("./src/_data/seo.json"));
+  eleventyConfig.addPlugin(pluginSEO, {
+  title: "David Rhoden",
+  description: "The website of New Orleans-based artist David Rhoden.",
+  url: "https://davidrhoden.com",
+  author: "David Rhoden",
+  twitter: "davidrhoden",
+  image: "https://davidrhoden.com/static/img/bigface.jpg"
+});
 
   // Merge data instead of overriding
   // https://www.11ty.dev/docs/data-deep-merge/
