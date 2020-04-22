@@ -20,7 +20,7 @@ eleventyNavigation:
 
 ![Big Face painting by David Rhoden](/static/img/paintings/bigface_sq.jpg)
 
-![Flinching alien animation by David Rhoden](/static/img/animations/daily120416_sq.mp4)
+![Flinching alien animation by David Rhoden](/static/img/animations/mp4/alienandfriend720x720.mp4)
 
 ![Bienvenue a Louisiana illustration by David Rhoden](/static/img/illustrations/cars_sq.jpg)
 

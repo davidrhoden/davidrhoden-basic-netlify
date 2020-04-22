@@ -4,6 +4,7 @@ const UglifyJS = require("uglify-es");
 const htmlmin = require("html-minifier");
 const slugify = require("slugify");
 const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
+const pluginSEO = require("eleventy-plugin-seo");
 
 module.exports = function(eleventyConfig) {
 
@@ -15,6 +16,8 @@ module.exports = function(eleventyConfig) {
   // layout: post. If you don’t want to rewrite all of those values, just map
   // post to a new file like this:
   // eleventyConfig.addLayoutAlias("post", "layouts/my_new_post_layout.njk");
+
+  eleventyConfig.addPlugin(pluginSEO, require("./src/_data/seo.json"));
 
   // Merge data instead of overriding
   // https://www.11ty.dev/docs/data-deep-merge/
