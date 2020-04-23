@@ -204,7 +204,7 @@ button {
   	padding: 1em;
   	margin-bottom: 1em;
 	font-size: 1rem;
-	font-family: "Avenir", "Avenir Next", sans-serif;
+	font-family: "Inter", sans-serif;
 }
 
 input,
@@ -220,6 +220,7 @@ button {
 }
 
 footer small {
+	display: block; /* for line-height reasons! */
 	font-size: .7em;
 	text-transform: uppercase;
 }
@@ -260,10 +261,10 @@ ol li::before {
 
 .home main {
 	position: relative;
-	height: 80vh;
+	height: 72vh;
     margin: 0 auto;
     overflow: hidden;
-    width: 98%;
+    width: 96%;
 }
 
 .home main p {
