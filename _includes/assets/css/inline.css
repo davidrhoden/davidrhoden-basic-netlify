@@ -144,6 +144,10 @@ header nav li a[data-current="current item"] {
 	display: none;
 }
 
+footer.home {
+	display: none;
+}
+
 .home footer.home {
 	display: block;
 }
