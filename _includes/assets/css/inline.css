@@ -260,10 +260,10 @@ ol li::before {
 
 .home main {
 	position: relative;
-	height: 46vw;
+	height: 80vh;
     margin: 0 auto;
     overflow: hidden;
-    width: 70%;
+    width: 98%;
 }
 
 .home main p {
@@ -339,6 +339,11 @@ ol li::before {
 	header nav li {
 		display: inline-block;
 		margin: 0 .5em;
+	}
+
+	.home main {
+		height: 46vh;
+	    width: 70%;
 	}
 }
 
