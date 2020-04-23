@@ -56,6 +56,8 @@ The Stacks set list, pretty much, but now with Texans.
 
 ![MAXIMVS! at Circle Bar, New Orleans: Jeff Pounds, David Rhoden, Trey Ledford](/static/img/rock/maximvs01.jpg)
 
+Short-lived band that actually toured around some. The spectacle was the thing with this trio, but there's a recording somewhere. We're on a DVD somebody made called Blackbeard's Lost Weekend (part of a live show at The Cave in Chapel Hill, N.C.).
+
 ---
 
 ## Sleepy Heads
