@@ -340,7 +340,6 @@ ol li::before {
 		flex-basis: 50%;
 	}
 
-
 	header nav ul :first-child {
 	margin-left: 0;
 	}
@@ -351,7 +350,6 @@ ol li::before {
 	}
 
 	.home main {
-		height: 46vh;
 	    width: 70%;
 	}
 }
