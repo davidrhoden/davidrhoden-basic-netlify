@@ -14,7 +14,7 @@ tags:
 
 ## The Stacks
 
-![David Rhoden with The Stacks (Andrew Donaldson, Steve Walkup, Tom Beeman) at Gasa Gasa, New Orleans, 2018](/static/img/about/stacksatgasagasa.jpg)
+![David Rhoden with The Stacks (Andrew Donaldson, Steve Walkup, Tom Beeman) at Gasa Gasa, New Orleans, 2018](/static/img/rock/stacksatgasagasa.jpg)
 
 David Rhoden with The Stacks (Andrew Donaldson, Steve Walkup, Tom Beeman) at Gasa Gasa, New Orleans, 2018
 
@@ -54,7 +54,7 @@ The Stacks set list, pretty much, but now with Texans.
 
 ## MAXIMVS!
 
-![MAXIMVS! at Circle Bar, New Orleans: Jeff Pounds, David Rhoden, Trey Ledford](/static/img/about/maximvs01.jpg)
+![MAXIMVS! at Circle Bar, New Orleans: Jeff Pounds, David Rhoden, Trey Ledford](/static/img/rock/maximvs01.jpg)
 
 ---
 
