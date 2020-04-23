@@ -140,6 +140,14 @@ header nav li a[data-current="current item"] {
 	padding: 6px 0;
 }
 
+.home footer {
+	display: none;
+}
+
+.home footer.home {
+	display: block;
+}
+
 /* Posts List */
 article {
 	margin-bottom: 1em;
