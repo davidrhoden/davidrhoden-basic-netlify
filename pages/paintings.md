@@ -22,6 +22,8 @@ eleventyNavigation:
 1. ![painting by David Rhoden](/static/img/paintings/yellowsquiggle.jpg?nf_resize=fit&w=640)
 1. ![painting by David Rhoden](/static/img/paintings/imoverit171207.jpg?nf_resize=fit&w=640)
 1. ![painting by David Rhoden](/static/img/paintings/Had-Enough.jpg?nf_resize=fit&w=640)
+1. ![Dominante painting by David Rhoden](/static/img/paintings/dominanteatbywaterb.jpg?nf_resize=fit&w=640)
+Dominante. $400
 1. ![painting by David Rhoden](/static/img/paintings/idontlikethisinsun.jpg?nf_resize=fit&w=640)
 1. ![painting by David Rhoden](/static/img/paintings/thatsitthatsitoutdoors.jpg?nf_resize=fit&w=640)
 1. ![painting by David Rhoden](/static/img/paintings/pinkandyellowluchador.jpg?nf_resize=fit&w=640)

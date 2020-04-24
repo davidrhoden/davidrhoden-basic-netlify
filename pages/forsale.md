@@ -22,5 +22,8 @@ Organic Form. $300
 ![Give Me Your Money painting by David Rhoden](/static/img/paintings/Give-Me-Your-Money.jpg?nf_resize=fit&w=640)
 Give Me Your Money. $400
 
+![Dominante painting by David Rhoden](/static/img/paintings/dominanteatbywaterb.jpg?nf_resize=fit&w=640)
+Dominante. $400
+
 ![Keys painting by David Rhoden](/static/img/paintings/keys-sq.jpg?nf_resize=fit&w=640)
 Keys. $250
