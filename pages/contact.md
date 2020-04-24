@@ -7,9 +7,8 @@ navtitle: Work with me
 excerpt: "I build websites on a freelance basis. Contact me about your website project."
 eleventyNavigation:
   key: Work with me
-  order: 9
-tags:
-  - nav
+  order: 10
+  
 ---
 
 I build websites as a full-time job, but I also build sites for clients on a freelance basis. You can see examples and click links to some of my prior work on my [portfolio page](/web).

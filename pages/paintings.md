@@ -8,20 +8,19 @@ eleventyNavigation:
   key: Paintings
   order: 3
   bodyClass: "paintings"
-tags:
-  - nav
+
 ---
 
-1. ![painting by David Rhoden](/static/img/paintings/organicform5-chromeyellow-sq.jpg?nf_resize=fit&w=640)
-1. ![painting by David Rhoden](/static/img/paintings/Give-Me-Your-Money.jpg?nf_resize=fit&w=640)
+1. ![Organic form painting by David Rhoden](/static/img/paintings/organicform5-chromeyellow-sq.jpg?nf_resize=fit&w=640)
+1. ![Give Me Your Money painting by David Rhoden](/static/img/paintings/Give-Me-Your-Money.jpg?nf_resize=fit&w=640)
+1. ![Keys painting by David Rhoden](/static/img/paintings/keys-sq.jpg?nf_resize=fit&w=640)
+1. ![painting by David Rhoden](/static/img/paintings/kissguy-sq.jpg?nf_resize=fit&w=640)
 1. ![painting by David Rhoden](/static/img/paintings/avatar.jpg?nf_resize=fit&w=640)
 1. ![painting by David Rhoden](/static/img/paintings/fourheads.jpg?nf_resize=fit&w=640)
 1. ![painting by David Rhoden](/static/img/paintings/icebergcrop.jpg?nf_resize=fit&w=640)
 1. ![painting by David Rhoden](/static/img/paintings/luchaguerrero.jpg?nf_resize=fit&w=640)
 1. ![painting by David Rhoden](/static/img/paintings/yellowsquiggle.jpg?nf_resize=fit&w=640)
-1. ![painting by David Rhoden](/static/img/paintings/kissguy2.jpg?nf_resize=fit&w=640)
 1. ![painting by David Rhoden](/static/img/paintings/imoverit171207.jpg?nf_resize=fit&w=640)
-1. ![painting by David Rhoden](/static/img/paintings/keysJune2019.jpg?nf_resize=fit&w=640)
 1. ![painting by David Rhoden](/static/img/paintings/Had-Enough.jpg?nf_resize=fit&w=640)
 1. ![painting by David Rhoden](/static/img/paintings/idontlikethisinsun.jpg?nf_resize=fit&w=640)
 1. ![painting by David Rhoden](/static/img/paintings/thatsitthatsitoutdoors.jpg?nf_resize=fit&w=640)
@@ -44,8 +43,8 @@ tags:
 1. ![painting by David Rhoden](/static/img/paintings/bowlers.jpg?nf_resize=fit&w=640)
 1. ![painting by David Rhoden](/static/img/paintings/pinkluchadorwithshadow.jpg?nf_resize=fit&w=640)
 1. ![painting by David Rhoden](/static/img/paintings/bottlecap_guy_on_horses.jpg?nf_resize=fit&w=640)
-1. ![painting by David Rhoden](/static/img/paintings/170918luchadorverano.jpg?nf_resize=fit&w=640)
-1. ![painting by David Rhoden](/static/img/paintings/170911luchadorpurple.jpg?nf_resize=fit&w=640)
+1. ![painting by David Rhoden](/static/img/paintings/luchadorverano.jpg?nf_resize=fit&w=640)
+1. ![painting by David Rhoden](/static/img/paintings/luchadorpurple.jpg?nf_resize=fit&w=640)
 1. ![painting by David Rhoden](/static/img/paintings/170502600.jpg?nf_resize=fit&w=640)
 1. ![painting by David Rhoden](/static/img/paintings/170429elsaico1200.jpg?nf_resize=fit&w=640)
 1. ![painting by David Rhoden](/static/img/paintings/thepipesfullsizeoutdoors.jpg?nf_resize=fit&w=640)
