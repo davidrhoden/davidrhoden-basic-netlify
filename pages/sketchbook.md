@@ -1,18 +1,14 @@
 ---
 title: Sketchbook
-date: 2020-04-12T00:00:00.000Z
+date: 2020-04-12
 permalink: /sketchbook/index.html
 navtitle: sketchbook
-bodyClass: "sketchbook"
 eleventyNavigation:
-	key: Sketchbook 
-	parent: Illustrations
-	order: 1
-tags:
-  - nav
+  key: Sketchbook 
+  order: 8
  
 ---
-![sketchbook entry by David Rhoden](/static/img/sketchbook/stacks-tshirt-whiteboard-guy.jpg?nf_resize=fit&w=640)
+
 ![sketchbook entry by David Rhoden](/static/img/sketchbook/aah-guy.jpg?nf_resize=fit&w=640)
 ![sketchbook entry by David Rhoden](/static/img/sketchbook/hobowitharevisedoboe.jpg?nf_resize=fit&w=640)
 ![sketchbook entry by David Rhoden](/static/img/sketchbook/whatchathink200126.jpg?nf_resize=fit&w=640)
@@ -47,7 +43,8 @@ tags:
 ![sketchbook entry by David Rhoden](/static/img/sketchbook/170423grocerylistguy.jpg?nf_resize=fit&w=640)
 ![sketchbook entry by David Rhoden](/static/img/sketchbook/hipsterwithbeer.png?nf_resize=fit&w=640)
 ![sketchbook entry by David Rhoden](/static/img/sketchbook/170417getupstandup.jpg?nf_resize=fit&w=640)
-![sketchbook entry by David Rhoden](/static/img/sketchbook/mgsuitbackcrop1000.jpg?nf_resize=fit&w=640)
+![sketchbook entry by David Rhoden](/static/img/sketchbook/mgsuit02.jpg?nf_resize=fit&w=640)
+![sketchbook entry by David Rhoden](/static/img/sketchbook/mybuttmgsuit.jpg?nf_resize=fit&w=640)
 ![sketchbook entry by David Rhoden](/static/img/sketchbook/170327cannedsardines.png?nf_resize=fit&w=640)
 ![sketchbook entry by David Rhoden](/static/img/sketchbook/mrlollipop1200.jpg?nf_resize=fit&w=640)
 ![sketchbook entry by David Rhoden](/static/img/sketchbook/170326greenmanwithrecord600.jpg?nf_resize=fit&w=640)
@@ -55,16 +52,13 @@ tags:
 ![sketchbook entry by David Rhoden](/static/img/sketchbook/170324yeahso.png?nf_resize=fit&w=640)
 ![sketchbook entry by David Rhoden](/static/img/sketchbook/170321samething.png?nf_resize=fit&w=640)
 ![sketchbook entry by David Rhoden](/static/img/sketchbook/170321whee.png?nf_resize=fit&w=640)
-![sketchbook entry by David Rhoden](/static/img/sketchbook/mgsuit02.jpg?nf_resize=fit&w=640)
-![sketchbook entry by David Rhoden](/static/img/sketchbook/mybuttmgsuit.jpg?nf_resize=fit&w=640)
 ![sketchbook entry by David Rhoden](/static/img/sketchbook/170128ohhellnocolorway1.jpg?nf_resize=fit&w=640)
-![sketchbook entry by David Rhoden](/static/img/sketchbook/youhavetogonow.jpg?nf_resize=fit&w=640)
 ![sketchbook entry by David Rhoden](/static/img/sketchbook/161217guysayinghawhaw.jpg?nf_resize=fit&w=640)
 ![sketchbook entry by David Rhoden](/static/img/sketchbook/mrokra.jpg?nf_resize=fit&w=640)
 ![sketchbook entry by David Rhoden](/static/img/sketchbook/161218pottersketch.jpg?nf_resize=fit&w=640)
 ![sketchbook entry by David Rhoden](/static/img/sketchbook/161219holyfuckthisisfun.jpg?nf_resize=fit&w=640)
 ![sketchbook entry by David Rhoden](/static/img/sketchbook/pattypickle.jpg?nf_resize=fit&w=640)
-!sketchbook entry by David Rhoden](/static/img/sketchbook/pattypickles2.jpg?nf_resize=fit&w=640)
+![sketchbook entry by David Rhoden](/static/img/sketchbook/pattypickles2.jpg?nf_resize=fit&w=640)
 ![sketchbook entry by David Rhoden](/static/img/sketchbook/pattypickles3.jpg?nf_resize=fit&w=640)
 ![sketchbook entry by David Rhoden](/static/img/sketchbook/selfportrait161216.jpg?nf_resize=fit&w=640)
 ![sketchbook entry by David Rhoden](/static/img/sketchbook/saintstackleonwood.jpg?nf_resize=fit&w=640)
@@ -85,6 +79,7 @@ tags:
 ![sketchbook entry by David Rhoden](/static/img/sketchbook/180130fuckulucy.jpg?nf_resize=fit&w=640)
 ![sketchbook entry by David Rhoden](/static/img/sketchbook/180215fuckthat.jpg?nf_resize=fit&w=640)
 ![sketchbook entry by David Rhoden](/static/img/sketchbook/whatawasteoftime.jpg?nf_resize=fit&w=640)
+![sketchbook entry by David Rhoden](/static/img/sketchbook/stacks-tshirt-whiteboard-guy.jpg?nf_resize=fit&w=640)
 ![sketchbook entry by David Rhoden](/static/img/sketchbook/180402stressedteach.jpg?nf_resize=fit&w=640)
 ![sketchbook entry by David Rhoden](/static/img/sketchbook/pastelman-hartig.jpg?nf_resize=fit&w=640)
 ![sketchbook entry by David Rhoden](/static/img/sketchbook/drdesk.png?nf_resize=fit&w=640)
