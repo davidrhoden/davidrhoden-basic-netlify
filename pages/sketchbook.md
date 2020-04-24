@@ -59,7 +59,6 @@ eleventyNavigation:
 ![sketchbook entry by David Rhoden](/static/img/sketchbook/161219holyfuckthisisfun.jpg?nf_resize=fit&w=640)
 ![sketchbook entry by David Rhoden](/static/img/sketchbook/pattypickle.jpg?nf_resize=fit&w=640)
 ![sketchbook entry by David Rhoden](/static/img/sketchbook/pattypickles2.jpg?nf_resize=fit&w=640)
-![sketchbook entry by David Rhoden](/static/img/sketchbook/pattypickles3.jpg?nf_resize=fit&w=640)
 ![sketchbook entry by David Rhoden](/static/img/sketchbook/selfportrait161216.jpg?nf_resize=fit&w=640)
 ![sketchbook entry by David Rhoden](/static/img/sketchbook/saintstackleonwood.jpg?nf_resize=fit&w=640)
 ![sketchbook entry by David Rhoden](/static/img/sketchbook/161120pinkface.png?nf_resize=fit&w=640)
