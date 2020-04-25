@@ -1,12 +1,12 @@
 ---
 layout: layouts/contact.njk
-title: Work with me
+title: Contact
 date: 2020-02-01
 permalink: /contact/index.html
 navtitle: Work with me
-excerpt: "I build websites on a freelance basis. Contact me about your website project."
+excerpt: "I build websites on a freelance basis. Contact me about your website project. Or join my mailing list to find out about my upcoming projects."
 eleventyNavigation:
-  key: Work with me
+  key: Contact
   order: 10
 
 ---
