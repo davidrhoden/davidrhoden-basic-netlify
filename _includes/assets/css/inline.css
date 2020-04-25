@@ -100,15 +100,6 @@ main > article :first-child {
 	margin-top: 0;
 }
 
-/* Header Logo (style as h2) */
-header > em {
-	display: block;
-	font-size: 2em;
-	margin: .67em 0;
-	font-weight: bold;
-	font-style: normal;
-}
-
 /* Header Nav */
 header nav ul {
 	padding: 0;
@@ -224,7 +215,7 @@ textarea {
 	border: 1px solid black;
 }
 
-button {
+button, .button {
 	border: 1px solid var(--blue);
 	background-color: var(--blue);
 	color: var(--white);
