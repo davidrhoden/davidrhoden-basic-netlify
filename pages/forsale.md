@@ -23,7 +23,7 @@ And: [My Redbubble store](https://www.redbubble.com/people/davidrhoden/shop) (st
 ## Paintings
 
 ![Organic form painting by David Rhoden](/static/img/paintings/organicform5-chromeyellow-sq.jpg?nf_resize=fit&w=640)
-Organic Form. $300
+Organic Form. $320
  
 ![Give Me Your Money painting by David Rhoden](/static/img/paintings/Give-Me-Your-Money.jpg?nf_resize=fit&w=640)
 Give Me Your Money. $400
@@ -31,5 +31,8 @@ Give Me Your Money. $400
 ![Dominante painting by David Rhoden](/static/img/paintings/dominanteatbywaterb.jpg?nf_resize=fit&w=640)
 Dominante. $400
 
+![KISS Guy painting by David Rhoden](/static/img/paintings/kissguy.jpg?nf_resize=fit&w=640)
+'Scuse Me. $200
+
 ![Keys painting by David Rhoden](/static/img/paintings/keys-sq.jpg?nf_resize=fit&w=640)
-Keys. $250
+Keys. $200
