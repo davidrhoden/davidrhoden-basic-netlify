@@ -1,10 +1,13 @@
 ---
 layout: layouts/base.njk
 section: contact
+pageType: page
 ---
 <h1>{{ title }}</h1>
 
 {{ layoutContent | safe }}
 
 {% include "components/form.njk" %}
+
+<h1>Join my mailing list</h1>
 {% include "components/mailchimp.njk" %}
