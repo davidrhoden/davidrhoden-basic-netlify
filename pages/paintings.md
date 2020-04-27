@@ -13,7 +13,7 @@ eleventyNavigation:
 
 1. ![Organic form painting by David Rhoden](/static/img/paintings/organicform5-chromeyellow-sq.jpg?nf_resize=fit&w=640)
 1. ![Give Me Your Money painting by David Rhoden](/static/img/paintings/Give-Me-Your-Money.jpg?nf_resize=fit&w=640)
-1. ![Keys painting by David Rhoden](/static/img/paintings/keys-sq.jpg?nf_resize=fit&w=640)
+1. ![Keys painting by David Rhoden](/static/img/paintings/keys1200.jpg?nf_resize=fit&w=640)
 1. ![painting by David Rhoden](/static/img/paintings/kissguy-sq.jpg?nf_resize=fit&w=640)
 1. ![painting by David Rhoden](/static/img/paintings/avatar.jpg?nf_resize=fit&w=640)
 1. ![painting by David Rhoden](/static/img/paintings/fourheads.jpg?nf_resize=fit&w=640)
