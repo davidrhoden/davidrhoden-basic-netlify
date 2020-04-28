@@ -13,7 +13,7 @@ eleventyNavigation:
 
 1. ![Organic form painting by David Rhoden](/static/img/paintings/organicform5-chromeyellow-sq.jpg?nf_resize=fit&w=640)
 1. ![Give Me Your Money painting by David Rhoden](/static/img/paintings/Give-Me-Your-Money.jpg?nf_resize=fit&w=640)
-1. ![Keys painting by David Rhoden](/static/img/paintings/keys-sq.jpg?nf_resize=fit&w=640)
+1. ![Keys painting by David Rhoden](/static/img/paintings/keys1200.jpg?nf_resize=fit&w=640)
 1. ![painting by David Rhoden](/static/img/paintings/kissguy-sq.jpg?nf_resize=fit&w=640)
 1. ![painting by David Rhoden](/static/img/paintings/avatar.jpg?nf_resize=fit&w=640)
 1. ![painting by David Rhoden](/static/img/paintings/fourheads.jpg?nf_resize=fit&w=640)
@@ -23,6 +23,7 @@ eleventyNavigation:
 1. ![painting by David Rhoden](/static/img/paintings/imoverit171207.jpg?nf_resize=fit&w=640)
 1. ![painting by David Rhoden](/static/img/paintings/Had-Enough.jpg?nf_resize=fit&w=640)
 1. ![Dominante painting by David Rhoden](/static/img/paintings/dominanteatbywaterb.jpg?nf_resize=fit&w=640)
+1. ![Defeated painting by David Rhoden](/static/img/paintings/blobman.jpg?nf_resize=fit&w=640)
 1. ![painting by David Rhoden](/static/img/paintings/idontlikethisinsun.jpg?nf_resize=fit&w=640)
 1. ![painting by David Rhoden](/static/img/paintings/thatsitthatsitoutdoors.jpg?nf_resize=fit&w=640)
 1. ![painting by David Rhoden](/static/img/paintings/pinkandyellowluchador.jpg?nf_resize=fit&w=640)
