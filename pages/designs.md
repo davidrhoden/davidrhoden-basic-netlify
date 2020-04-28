@@ -3,12 +3,10 @@ title: Designs
 date: 2020-04-15T00:00:00.000Z
 permalink: /designs/index.html
 navtitle: Designs
-bodyClass: "designs"
 eleventyNavigation:
   key: Designs 
   order: 6
-tags:
-  - nav
+
 ---
 
 ![Album cover design by David Rhoden](/static/img/designs/TalbotAdamsAlbum.jpg)
@@ -36,6 +34,10 @@ tags:
 ---
 
 ![T-shirt design by David Rhoden](/static/img/designs/Bottle-CapTeeTurquoise.jpg)
+
+---
+
+![Erine K-Doe Poster design by David Rhoden](/static/img/designs/KDOE2CSL.gif)
 
 ---
 
