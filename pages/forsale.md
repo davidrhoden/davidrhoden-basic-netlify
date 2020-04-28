@@ -34,5 +34,5 @@ Dominante. $400
 ![KISS Guy painting by David Rhoden](/static/img/paintings/kissguy.jpg?nf_resize=fit&w=640)
 'Scuse Me. $200
 
-![Keys painting by David Rhoden](/static/img/paintings/keys-sq.jpg?nf_resize=fit&w=640)
+![Keys painting by David Rhoden](/static/img/paintings/keys1200.jpg?nf_resize=fit&w=640)
 Keys. $200
