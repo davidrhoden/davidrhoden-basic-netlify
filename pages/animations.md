@@ -30,7 +30,7 @@ tags:
 ![Scratch animation by David Rhoden](/static/img/animations/ampuscratch.gif)
 
 ---
-<div style:"width: 100%, text-align: center;">
+<div style ="width: 100%, text-align: center;">
 <video controls="controls">
   <source type="video/mp4" src="/static/img/animations/mp4s/lemondrop640.mp4"></source>
   <p>Your browser does not support the video element.</p>
