@@ -86,7 +86,7 @@ David Rhoden with Stacks (Steve Walkup, Trey Ledford, Doug DeRienzo), New Orlean
 
 ---
 
-![David Rhoden in Sleepy Heads T-Shirt, holding Betty, early 2000s](/static/img/about/davidinsleepyheadsshirtwithsally.jpg)
+![David Rhoden in Sleepy Heads T-Shirt, holding Betty, early 2000s](/static/img/about/daveinsleepyheadsshirtwithsally.jpg)
 
 David Rhoden in Sleepy Heads T-Shirt, holding Betty, early 2000s
 
