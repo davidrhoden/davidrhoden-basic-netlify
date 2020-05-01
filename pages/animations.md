@@ -23,6 +23,22 @@ tags:
 
 ---
 
+<div style="width: 100%; text-align: center;">
+<video autoplay loop>
+  <source type="video/mp4" src="/static/img/animations/mp4s/alienandfriend720x720.mp4"></source>
+  <p>Your browser does not support the video element.</p>
+</video>
+</div>
+
+---
+
+<div style="width: 100%; text-align: center;">
+<video autoplay loop>
+  <source type="video/mp4" src="/static/img/animations/mp4s/head-shaker.mp4"></source>
+  <p>Your browser does not support the video element.</p>
+</video>
+</div>
+
 ![Cochon de Lait animation by David Rhoden](/static/img/animations/cochondelait.gif)
 
 ---
