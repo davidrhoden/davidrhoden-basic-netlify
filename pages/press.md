@@ -23,7 +23,7 @@ Every once in a while, _The New York Times_ or _The Washington Post_ want to tal
 ---
 
 ["Rock 'N' Rhoden"](http://www.offbeat.com/articles/rock-n-rhoden/), Bunny Matthews, _Offbeat_, November, 2002.
-i can't believe I said some of ths sh\*t and somebody printed it. I am still good with the bands I gave credit to, but I also don't know what made me say bad stuff about Galactic--I do like and respect those guys, now. I really appreciate Bunny for writing it. In the middle of the interview, which was at the Offbeat office, their managing editor came in and said to Bunny, basically: "Who is this? Why are you intervieing _this_ guy?" as in: "How are supposed to keep moving units of our free magazine if you interview lame guys who didn't even attend high school here?" Yet, they printed it.
+i can't believe I said some of ths sh\*t and somebody printed it. I am still good with the bands I gave credit to, but I also don't know what made me say bad stuff about Galactic--I do like and respect those guys, now. I really appreciate Bunny for writing it. In the middle of the interview, which was at the Offbeat office, their managing editor came in and said to Bunny, basically (out of my earshot, but not really): "Who is this? Why are you interviewing _this_ guy?" as in: "How are supposed to keep moving units of our free magazine if you interview lame guys who didn't even attend high school here?" Yet, they printed it.
 
 ![screenshot of page 1 of Offbeat magazine article by Bunny Matthews interviewing David Rhoden](/static/img/press/disndatoffbeatarticlep1.jpg)
 
