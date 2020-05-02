@@ -92,6 +92,12 @@ David Rhoden in Sleepy Heads T-Shirt, holding Betty, early 2000s
 
 ---
 
+![David Rhoden on Coney Island holding a penny loafer, 1990s](/static/img/about/davidonconeyiwithloafer.jpg)
+
+David Rhoden on Coney Island holding a penny loafer, 1990s
+
+---
+
 ![David Rhoden, 850 Third Avenue, New York City, 1992](/static/img/about/drrinfrontof850.jpg)
 
 David Rhoden, 850 Third Avenue, New York City, 1992
