@@ -11,6 +11,7 @@ eleventyNavigation:
 
 ![sketchbook entry by David Rhoden](/static/img/sketchbook/aah-guy.jpg?nf_resize=fit&w=640)
 ![sketchbook entry by David Rhoden](/static/img/sketchbook/hobowitharevisedoboe.jpg?nf_resize=fit&w=640)
+![Do not drink the bleach, The Bleach Must Be Administered Anally by David Rhoden](/static/img/sketchbook/bleachmustbeadministered.jpg?nf_resize=fit&w=640)
 ![sketchbook entry by David Rhoden](/static/img/sketchbook/whatchathink200126.jpg?nf_resize=fit&w=640)
 ![sketchbook entry by David Rhoden](/static/img/sketchbook/chuckbraun.jpg?nf_resize=fit&w=640)
 ![sketchbook entry by David Rhoden](/static/img/sketchbook/peppermintpatty.jpg?nf_resize=fit&w=640)
@@ -21,6 +22,7 @@ eleventyNavigation:
 ![sketchbook entry by David Rhoden](/static/img/sketchbook/recordstoreday.jpg?nf_resize=fit&w=640)
 ![sketchbook entry by David Rhoden](/static/img/sketchbook/nannersareforclosers.jpg?nf_resize=fit&w=640)
 ![sketchbook entry by David Rhoden](/static/img/sketchbook/excellentfanfukntastic.jpg?nf_resize=fit&w=640)
+![chump chump sketchbook entry by David Rhoden](/static/img/sketchbook/chumpchump.jpg?nf_resize=fit&w=640)
 ![sketchbook entry by David Rhoden](/static/img/sketchbook/whatupdavidoclr.jpg?nf_resize=fit&w=640)
 ![sketchbook entry by David Rhoden](/static/img/sketchbook/rupertside.jpg?nf_resize=fit&w=640)
 ![sketchbook entry by David Rhoden](/static/img/sketchbook/rupertfront.jpg?nf_resize=fit&w=640)
@@ -29,6 +31,7 @@ eleventyNavigation:
 ![sketchbook entry by David Rhoden](/static/img/sketchbook/mostwomenagree.jpg?nf_resize=fit&w=640)
 ![sketchbook entry by David Rhoden](/static/img/sketchbook/dandyhighwayman.jpg?nf_resize=fit&w=640)
 ![sketchbook entry by David Rhoden](/static/img/sketchbook/returnmemyship.jpeg?nf_resize=fit&w=640)
+![Eatin Spam sketchbook entry by David Rhoden](/static/img/sketchbook/eatinspam.jpg?nf_resize=fit&w=640)
 ![sketchbook entry by David Rhoden](/static/img/sketchbook/ladpostit.jpeg?nf_resize=fit&w=640)
 ![sketchbook entry by David Rhoden](/static/img/sketchbook/bert.jpg?nf_resize=fit&w=640)
 ![sketchbook entry by David Rhoden](/static/img/sketchbook/theringsorigcolordrawing.jpeg?nf_resize=fit&w=640)
