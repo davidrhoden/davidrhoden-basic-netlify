@@ -7,7 +7,7 @@ bodyClass: "about"
 excerpt: "David Rhoden is a painter, animator, illustrator, and occasional musician, currently based in New Orleans."
 eleventyNavigation:
   key: About
-  order: 10
+  order: 11
 tags:
   - nav
 ---
