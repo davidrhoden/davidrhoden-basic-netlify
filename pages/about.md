@@ -7,7 +7,7 @@ bodyClass: "about"
 excerpt: "David Rhoden is a painter, animator, illustrator, and occasional musician, currently based in New Orleans."
 eleventyNavigation:
   key: About
-  order: 10
+  order: 11
 tags:
   - nav
 ---
@@ -83,6 +83,18 @@ David Rhoden with All-Night Movers (Slade Nash), house party, New Orleans, 2003
 ![David Rhoden with Stacks (Steve Walkup, Trey Ledford, Doug DeRienzo), New Orleans rooftop, 2000s](/static/img/rock/stackstumbler.jpg)
 
 David Rhoden with Stacks (Steve Walkup, Trey Ledford, Doug DeRienzo), New Orleans rooftop, 2000s
+
+---
+
+![David Rhoden in Sleepy Heads T-Shirt, holding Betty, early 2000s](/static/img/about/daveinsleepyheadsshirtwithsally.jpg)
+
+David Rhoden in Sleepy Heads T-Shirt, holding Betty, early 2000s
+
+---
+
+![David Rhoden on Coney Island holding a penny loafer, 1990s](/static/img/about/davidonconeyiwithloafer.jpg)
+
+David Rhoden on Coney Island holding a penny loafer, 1990s
 
 ---
 
