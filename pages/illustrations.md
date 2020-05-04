@@ -39,8 +39,8 @@ For _Louisiana Life_ magazine.
 
 "Bio boards" to introduce conference speakers by showing the industry they work in.
 ![](/static/img/illustrations/byrne.jpg?nf_resize=fit&w=640)
-![](/static/img/illustrations/espn.gif?nf_resize=fit&w=640)
-![](/static/img/illustrations/gillette.gif?nf_resize=fit&w=640)
+![](/static/img/illustrations/espn.jpg?nf_resize=fit&w=640)
+![](/static/img/illustrations/gillette.jpg?nf_resize=fit&w=640)
 ![](/static/img/illustrations/narayandas.jpg?nf_resize=fit&w=640)
 ![](/static/img/illustrations/wwf.jpg?nf_resize=fit&w=640)
 
