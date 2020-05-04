@@ -360,13 +360,13 @@ ol li::before {
 		width: 60%;
 	}
 
-	nav {
+/*	nav {
 		display: block;
-	}
+	}*/
 
-	.mobile-menu {
+/*	.mobile-menu {
 		display: none;
-	}
+	}*/
 
 	.home main p img {
 		height: 660px;
