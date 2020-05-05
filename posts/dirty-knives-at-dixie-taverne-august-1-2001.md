@@ -6,7 +6,7 @@ summary: We only had one new song ("Heading For The Texas Border") which we
   what's the difference? We played really hard and loud - Sara's amp was hot
   enough to fry a dog's brain. I liked us!
 tags:
-  - post "Dirty Knives" "Trey Ledford" "Sara essex" "Dan haugh" rock "New
+  - post rock "Dirty Knives" "Trey Ledford" "Sara essex" "Dan Haugh" "New
     Orleans" "Dixie Taverne"
 ---
 ![Dirty Knives at Dixie Taverne, August 1, 2001](/static/img/dirtyknivesdixietaverne.jpg "Dirty Knives at Dixie Taverne, August 1, 2001")
