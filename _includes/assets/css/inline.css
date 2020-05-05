@@ -335,11 +335,14 @@ ol li::before {
 		flex-basis: 50%;
 	}
 
-
 	header nav li {
 		display: block;
 		margin: 0;
 		padding: 1em 0;
+	}
+
+	header nav li:hover {
+		background: var(--orangered);
 	}
 
 	.home main {
@@ -357,14 +360,6 @@ ol li::before {
 		margin-right: auto;
 		width: 60%;
 	}
-
-/*	nav {
-		display: block;
-	}*/
-
-/*	.mobile-menu {
-		display: none;
-	}*/
 
 	.home main p img {
 		height: 660px;
