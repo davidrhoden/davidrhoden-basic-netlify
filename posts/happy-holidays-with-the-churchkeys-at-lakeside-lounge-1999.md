@@ -1,5 +1,5 @@
 ---
-title: Happy holidays (with the Churchkeys at Lakeside Lounge, 1999)
+title: Happy Holidays (with the Churchkeys at Lakeside Lounge, 1999)
 date: 1999-12-23T03:00:00.000Z
 summary: Happy Holidays (with the Churchkeys at Lakeside Lounge, 1999)
 tags:
