@@ -7,6 +7,8 @@ summary: This is the last good picture of my cat Sally. She left home on a
   again. She lived with me for twelve years.
 tags:
   - post
+  - Sally
+  - cats
 ---
 ![the last good picture of my cat Sally](/static/img/sally-last-good-picture.jpg "the last good picture of my cat Sally")
 

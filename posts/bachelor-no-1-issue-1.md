@@ -5,6 +5,10 @@ summary: I edited Bachelor No.1 with Brandon Kruse and a bunch of other
   contributors. Any continued freshness it has comes from Brandon's incredible
   ink-and-brush (and Zip-a-Tone) illustrations.
 tags:
-  - post "Bachelor No. 1" fanzines
+  - post 
+  - "Bachelor No. 1" 
+  - fanzines
 ---
-![cover of Bachelor No. 1 issue 1](/static/img/bn11.jpg "cover of Bachelor No. 1 issue 1")
+![cover of Bachelor No. 1 issue 1](/static/img/designs/bachelor-no1-no1.jpg "cover of Bachelor No. 1 issue 1")
+
+I edited Bachelor No.1 with Brandon Kruse and a bunch of other contributors. Any continued freshness it has comes from Brandon's incredible ink-and-brush (and Zip-a-Tone) illustrations.

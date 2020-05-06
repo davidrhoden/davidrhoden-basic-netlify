@@ -5,8 +5,11 @@ summary: I just love this picture and caption. Slade Nash is the drummer in
   All-Night Movers. He is like a drum machine that can mix drinks. Also an
   incredible mensch. Drummer jokes don't apply to him.
 tags:
-  - post "Slade Nash" "All-Night Movers" motorcycles
+  - post 
+  - Slade Nash
+  - All-Night Movers
+  - motorcycles
 ---
-![Slade's Hog Slade nash on a motorcycle)(](/static/img/slades-hog-2007.jpg "Slade's Hog")
+![Slade's Hog: Slade Nash on a motorcycle)(](/static/img/slades-hog-2007.jpg "Slade's Hog")
 
 I just love this picture and caption. Slade Nash is the drummer in All-Night Movers. He is like a drum machine that can mix drinks. Also an incredible mensch. Drummer jokes don't apply to him.
