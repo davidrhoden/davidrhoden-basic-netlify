@@ -341,9 +341,9 @@ ol li::before {
 		padding: 1em 0;
 	}
 
-	header nav li:hover {
+/*	header nav li:hover {
 		background: var(--orangered);
-	}
+	}*/
 
 	.home main {
 	    width: 70%;
