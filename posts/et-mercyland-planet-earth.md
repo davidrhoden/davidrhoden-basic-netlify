@@ -5,7 +5,7 @@ summary: The year is a guess. My brother and I were in Everything Tool. Mercylan
 
 Fast forward to now, and Mercyland's guitar player and sometimes singer is the bass player and sometimes singer in The Stacks.
 tags:
-  - post 
+  - timeline 
   - Knoxville 
   - Mercyland
   - Anastasia Screamed

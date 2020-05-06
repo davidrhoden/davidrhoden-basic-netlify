@@ -6,7 +6,7 @@ summary: This is the last good picture of my cat Sally. She left home on a
   house so I went to work and left her to play under the house. I never saw her
   again. She lived with me for twelve years.
 tags:
-  - post
+  - timeline
   - Sally
   - cats
 ---

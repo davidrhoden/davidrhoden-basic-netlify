@@ -1,7 +1,7 @@
 ---
 layout: layouts/base.njk
-pageType: post
-section: post
+pageType: timeline
+section: timeline
 ---
 
 <article>
@@ -17,7 +17,7 @@ section: post
   {% if tags %}
     <p>
     {% for tag in tags %}
-      {%- if tag != "post" -%}
+      {%- if tag != "timeline" -%}
         {% set tagUrl %}/tags/{{ tag }}/{% endset %}
         <a href="{{ tagUrl | url }}" rel="tag">{{ tag }}</a>
       {%- endif -%}
@@ -41,7 +41,7 @@ section: post
 {% endif %}
 
 <nav>
-  <a href="{{ '/blog/' | url }}">← Blog index</a>
+  <a href="{{ '/timeline/' | url }}">← Timeline index</a>
 </nav>
 
 
