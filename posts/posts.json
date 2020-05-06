@@ -1,7 +1,7 @@
 {
-  "layout": "layouts/post.njk",
-  "permalink": "posts/{{ title | slug }}/index.html",
+  "layout": "layouts/timeline.njk",
+  "permalink": "timeline/{{ title | slug }}/index.html",
   "tags": [
-    "post"
+    "timeline"
   ]
 }

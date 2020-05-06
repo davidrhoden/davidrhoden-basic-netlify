@@ -4,8 +4,8 @@ title: Timeline
 date: 2020-01-01
 permalink: /timeline/index.html
 pagination:
-  data: collections.post
+  data: collections.timeline
   size: 5
-  alias: posts
+  alias: timeline
 
 ---

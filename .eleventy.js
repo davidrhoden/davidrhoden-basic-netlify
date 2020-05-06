@@ -55,8 +55,8 @@ module.exports = function(eleventyConfig) {
     return minified.code;
   });
 
-  eleventyConfig.addCollection("posts", function(collection) {
-    const coll = collection.getFilteredByTag("post");
+  eleventyConfig.addCollection("timelime", function(collection) {
+    const coll = collection.getFilteredByTag("timeline");
 
     for(let i = 0; i < coll.length ; i++) {
       const prevPost = coll[i-1];
