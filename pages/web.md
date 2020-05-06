@@ -7,9 +7,8 @@ navtitle: Web
 eleventyNavigation:
   key: Web
   order: 7
-  bodyClass: "web"
-tags:
-  - nav
+bodyClass: "web"
+
 ---
 
 ## 2020 - 2015 

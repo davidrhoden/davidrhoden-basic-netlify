@@ -7,6 +7,7 @@ excerpt: Paintings, illustrations, animations, pointless scribbles, rude jokes, 
 eleventyNavigation:
   key: Home
   order: 0
+  
 ---
 
 ![Waver animation by David Rhoden](/static/img/animations/160628_waver_600.gif)

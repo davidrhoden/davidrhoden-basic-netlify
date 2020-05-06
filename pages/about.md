@@ -8,8 +8,7 @@ excerpt: "David Rhoden is a painter, animator, illustrator, and occasional music
 eleventyNavigation:
   key: About
   order: 11
-tags:
-  - nav
+  
 ---
 
 David Rhoden is a painter, animator, and illustrator, currently based in New Orleans. And I'm David Rhoden.

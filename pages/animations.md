@@ -7,8 +7,7 @@ bodyClass: "animations"
 eleventyNavigation:
   key: Animations 
   order: 5
-tags:
-  - nav
+  
 ---
 
 ![Waver animation by David Rhoden](/static/img/animations/160628_waver_600.gif)

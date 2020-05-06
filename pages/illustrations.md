@@ -7,8 +7,7 @@ bodyClass: "illustrations"
 eleventyNavigation:
   key: Illustrations 
   order: 5
-tags:
-  - nav
+
 ---
 
 For a petition for more BMX parks in Seattle.

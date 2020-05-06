@@ -8,8 +8,6 @@ excerpt: "A brief history of bands David Rhoden has played in, including the Sta
 eleventyNavigation:
   key: Rock
   order: 7
-tags:
-  - nav
 
 ---
 

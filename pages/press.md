@@ -7,8 +7,7 @@ excerpt: "Every once in a while, _The New York Times_ or _The Washington Post_ w
 eleventyNavigation:
   key: Press
   order: 10
-tags:
-  - nav
+
 ---
 
 Every once in a while, _The New York Times_ or _The Washington Post_ want to talk to me. It usually has to do with something I don't know that much about.

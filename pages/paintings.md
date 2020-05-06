@@ -7,7 +7,7 @@ navtitle: Paintings
 eleventyNavigation:
   key: Paintings
   order: 3
-  bodyClass: "paintings"
+bodyClass: "paintings"
 
 ---
 
