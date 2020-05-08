@@ -3,7 +3,7 @@ title: Halloween 1993
 date: 1993-10-31T14:00:00.000Z
 summary: Hallowe'en party, 1993. Dean Street and Bond, Brooklyn.
 tags:
-  - timeline 
+  - post 
   - photos 
   - costumes
 
