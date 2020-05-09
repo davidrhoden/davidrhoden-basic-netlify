@@ -161,6 +161,10 @@ main img {
 	margin: 1em 0;
 }
 
+main img.thumbnail {
+	width: 160px;
+}
+
 /* Post Tags */
 a[rel="tag"],
 a[rel="tag"]:visited {
@@ -329,6 +333,14 @@ ol li::before {
 
 	.space-around { 
 		justify-content: space-around; 
+	}
+
+	.space-between { 
+		justify-content: space-between; 
+	}
+
+	.left {
+		margin-right: 1em;
 	}
 
 	.summary, .image {

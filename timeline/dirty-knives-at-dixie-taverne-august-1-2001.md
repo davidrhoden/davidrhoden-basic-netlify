@@ -2,6 +2,7 @@
 title: Dirty Knives at Dixie Taverne, August 1, 2001
 date: 2001-08-02T02:00:00.000Z
 summary: We only had one new song ("Heading For The Texas Border") which we didn't even write, but since this was a new venue and a new crowd for us, what's the difference? We played really hard and loud - Sara's amp was hot enough to fry a dog's brain. I liked us!
+thumbnail: /static/img/dirtyknivesdixietaverne.jpg
 tags:
   - post
   - rock

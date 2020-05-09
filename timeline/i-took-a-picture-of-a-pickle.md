@@ -2,6 +2,7 @@
 title: I took a picture of a pickle
 date: 2017-09-01T14:35:00.000Z
 summary: I took a picture of a pickle on the pavement, with unintended consequences.
+thumbnail: /static/img/170901quickypickle600.jpg
 tags:
   - post
   - stories

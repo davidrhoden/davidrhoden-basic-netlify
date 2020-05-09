@@ -1,6 +1,10 @@
 <section>
 	{% for post in postslist | reverse %}
-		<article{% if post.url == url %} data-current="current item"{% endif %}>
+		<article{% if post.url == url %} data-current="current item"{% endif %} class="flex">
+			<div class="left">
+				{% if post.data.thumbnail %}<img class="thumbnail" src="{{ post.data.thumbnail }}?nf_resize=fit&w=160">{% endif %}
+			</div>
+			<div>
 			<h3>
 				<a href="{{ post.url | url }}">
 					{% if post.data.title %}
@@ -30,10 +34,7 @@
 					{% endfor %}
 				</p>
 			{% endif %}
+		</div>
 		</article>
-
-		<nav>
-		  <a href="{{ '/timeline/' | url }}">← Timeline index</a>
-		</nav>
 	{% endfor %}
 </section>
