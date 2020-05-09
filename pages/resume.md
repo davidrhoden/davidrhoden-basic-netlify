@@ -70,7 +70,7 @@ eleventyNavigation:
             <p class="highlights">Graphic design, typesetting, and pre-press of full-color IBM server sales brochures and other corporate sales collateral for <b>Roman/Thayer Design</b>, New York.</p>
             <p class="highlights">Print layout for a mutual fund report with a 20,000 per month circulation and Visual Basic database front ends for <b>Goldman Sachs</b>, New York.</p>
             <p class="highlights">Presentation design and complex process mapping (large format visual documentation of banking processes) for <b>Citibank</b>.</p>
-            <p class="highlights">Co-wrote a book of state-based trivia for a young adult audience called Awesome Almanac: New York for <b>B&amp;B Publishing</b>, Walworth, Wisconsin.</p> <p class="highlights">Freelance writer for the online version of <b><i>Men’s Health</i></b>.</p>
+            <p class="highlights">Co-wrote a book of state-based trivia for a young adult audience called <i>Awesome Almanac: New York</i>i> for <b>B&amp;B Publishing</b>, Walworth, Wisconsin.</p> <p class="highlights">Freelance writer for the online version of <b><i>Men’s Health</i></b>.</p>
             <p class="highlights">Assistant Editor at <b>Golden Books</b>, New York.<br>
             <p class="highlights">Freelance writer for <b><i>Storytelling</i></b> magazine, Jonesborough, Tennessee.</p>
             <p class="highlights">Many published illustrations for New Orleans publications including <i>New Orleans</i>, <i>Louisiana Life</i>, and <i>Kingfish</i> magazines.</p>
