@@ -1,5 +1,5 @@
 ---
-title: we atttempted to silkscreen the Hi-Balls record sleeve
+title: We attempted to silkscreen the Hi-Balls record sleeve.
 date: 1996-08-27T03:00:00.000Z
 summary: We tried making the Hi-Balls 7" with a rudimentary silkscreen apparatus. (A Speedball kit.) It didn't work out.
 description: We tried making the Hi-Balls 7" with a rudimentary silkscreen apparatus. (A Speedball kit.) It didn't work out.
