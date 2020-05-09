@@ -315,14 +315,6 @@ ol li::before {
 		width: 75%;
 	}
 
-	nav {
-	  display: none;
-	}
-
-	nav.is-active {
-	  display: block;
-	}
-
 	.flex {
 		display: flex;
 	}
