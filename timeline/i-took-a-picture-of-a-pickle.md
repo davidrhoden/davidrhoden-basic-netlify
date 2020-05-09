@@ -14,9 +14,9 @@ I had to stop for gas at one of my least favorite places, the Quicky at Claiborn
 
 At the pump, I noticed a pickle laying on the ground.
 
-![a pickle on the ground](/static/img/170901quickypickle600.jpg "a pickle on the ground")
-
 I don't know why, but I thought it was funny. So I took a picture of it.
+
+![a pickle on the ground](/static/img/170901quickypickle600.jpg "a pickle on the ground")
 
 A few seconds later a message popped up on my phone. It was from Google.
 
