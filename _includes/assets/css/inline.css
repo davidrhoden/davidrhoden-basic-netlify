@@ -29,11 +29,11 @@ h1 {
 	font-weight: 200;
 }
 
-nav {
+header nav {
   display: none;
 }
 
-nav.is-active {
+header nav.is-active {
   display: block;
 }
 
