@@ -17,7 +17,7 @@ section: timeline
   {% if tags %}
     <p>
     {% for tag in tags %}
-      {%- if tag != "timeline" -%}
+      {%- if tag != "post" -%}
         {% set tagUrl %}/tags/{{ tag }}/{% endset %}
         <a href="{{ tagUrl | url }}" rel="tag">{{ tag }}</a>
       {%- endif -%}
