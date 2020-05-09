@@ -23,6 +23,9 @@ eleventyNavigation:
         315 Tricou Street<br>
         New Orleans, Louisiana 70117<br>
         504-812-8475<br>
+        <br>
+        <hr>
+        <br>
         <div class="resume-body">
             <p class="date">Oct 2018–</p>
             <p class="position">Web developer at <b>Online Optimism</b> in New Orleans, Louisiana.</p>
