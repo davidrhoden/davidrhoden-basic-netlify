@@ -51,7 +51,6 @@ eleventyNavigation:
 ![sketchbook entry by David Rhoden](/static/img/sketchbook/170327cannedsardines.png)
 ![sketchbook entry by David Rhoden](/static/img/sketchbook/mrlollipop1200.jpg)
 ![sketchbook entry by David Rhoden](/static/img/sketchbook/170326greenmanwithrecord600.jpg)
-![sketchbook entry by David Rhoden](/static/img/sketchbook/170324selfiehipster.png)
 ![sketchbook entry by David Rhoden](/static/img/sketchbook/170324yeahso.png)
 ![sketchbook entry by David Rhoden](/static/img/sketchbook/170321samething.png)
 ![sketchbook entry by David Rhoden](/static/img/sketchbook/170321whee.png)
