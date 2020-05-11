@@ -1,6 +1,6 @@
 ---
 title: I helped make a commercial with Mr. Sulu
-date: 1979-04-01T12:00:00.000Z
+date: 1978-04-01T12:00:00.000Z
 summary: The city bus company was making a commercial starring Mr. Sulu from Star Trek, and would we like to come down to the studio and watch and maybe help out?
 excerpt: The city bus company was making a commercial starring Mr. Sulu from Star Trek, and would we like to come down to the studio and watch and maybe help out?
 image: /static/img/about/concordance.jpg
