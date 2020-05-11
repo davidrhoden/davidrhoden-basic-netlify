@@ -16,7 +16,7 @@ I'm writing this on May 11, 2020, having just heard the news that Betty Wright h
 
 Most or much journalism about Betty Wright says her biggest or best-known work was "Clean-Up Woman". Yeah, you think that. It's a great song, it was her first nationwide hit. She was about thirteen when she cut it, if you can believe it. But at this show, that's the song she started with. Just got it out of the way.
 
-The essence of the set was Betty Wright singing songs, and Betty Wright introducing songs. The poor bass player had to do a lot of vamping because the introductions were about half the set. She told a story about her husband where he was watching Tina Turner on TV and he made a comment on her attractiveness.
+The essence of the set was Betty Wright singing songs, and Betty Wright introducing songs. The poor bass player had to do a lot of vamping because the introductions were about half the set. I don't know what song she was introducing, but she told a story about her husband where he was watching Tina Turner on TV and he made a comment on her attractiveness.
 
 Betty said: __"You like Tina Turner? Fine. You already got Betty Wright, maybe you're so good you can get Tina Turner too!"__
 
