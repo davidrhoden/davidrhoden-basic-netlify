@@ -2,7 +2,7 @@
 title: I took a picture of a pickle
 date: 2017-09-01T14:35:00.000Z
 summary: I took a picture of a pickle on the pavement, with unintended consequences.  
-description: "I took a picture of a pickle on the pavement, with unintended consequences. From the website of New Orleans-based artist David Rhoden."
+excerpt: I took a picture of a pickle on the pavement, with unintended consequences. From the website of New Orleans-based artist David Rhoden.
 thumbnail: /static/img/timeline/170901quickypickle600.jpg
 tags:
   - post
