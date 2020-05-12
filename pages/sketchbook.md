@@ -5,7 +5,7 @@ permalink: /sketchbook/index.html
 navtitle: sketchbook
 eleventyNavigation:
   key: Sketchbook 
-  order: 8
+  order: 5
  
 ---
 

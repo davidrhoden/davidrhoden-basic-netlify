@@ -3,9 +3,8 @@ layout: layouts/page.njk
 title: Web Design & Development
 date: 2020-04-12T00:00:00.000Z
 permalink: /web/index.html
-navtitle: Web
 eleventyNavigation:
-  key: Web
+  key: Websites
   order: 7
 bodyClass: "web"
 

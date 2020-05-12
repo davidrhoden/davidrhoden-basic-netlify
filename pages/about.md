@@ -10,6 +10,7 @@ eleventyNavigation:
   order: 11
   
 ---
+![Big Face painting by David Rhoden](/static/img/paintings/bigface_sq.jpg)
 
 David Rhoden is a painter, animator, and illustrator, currently based in New Orleans. And I'm David Rhoden.
 
