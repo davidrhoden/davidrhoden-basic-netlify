@@ -61,7 +61,7 @@ Photos by [Kip Shepherd](http://1000000milesaway.blogspot.com).
 
 ![Guitarist of Strychnine 5 at Dale's, Chattanooga, TN 1984](/static/img/chattanooga/strychnine-five/strychninegtr.jpg)
 
-<figcaption>Strychnine Five at Dale's, Chattanooga, TN 1984.  Note the skull.</figcaption>
+<figcaption>Strychnine Five at Dale's, Chattanooga, TN 1984</figcaption>
 
 ![Mark Link of Strychnine 5 at Dale's, Chattanooga, TN 1984](/static/img/chattanooga/strychnine-five/strychninemark.jpg)
 
@@ -69,7 +69,7 @@ Photos by [Kip Shepherd](http://1000000milesaway.blogspot.com).
 
 ![Steve of Strychnine 5 at Dale's, Chattanooga, TN 1984](/static/img/chattanooga/strychnine-five/strychninesteve.jpg)
 
-<figcaption>Steve of Strychnine Five at Dale's, Chattanooga, TN 1984</figcaption>
+<figcaption>Steve of Strychnine Five at Dale's, Chattanooga, TN 1984.   Note the skull.</figcaption>
 
 ![Drummer of Strychnine 5 at Dale's, Chattanooga, TN 1984](/static/img/chattanooga/strychnine-five/strychninedrummer.jpg)
 
