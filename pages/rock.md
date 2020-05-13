@@ -99,7 +99,7 @@ We did record some good stuff with Mitro Valsamis but I don't appear to have a c
 
 ## Everything Tool
 
-First college band. I thought we were pretty good though I'm embarrassed by the lyrics now. we made a cassette called "Mystic Crystal Revelation" but I don't have a copy.
+First "real" college band. I thought we were pretty good though I'm embarrassed by the lyrics now. we made a cassette called "Mystic Crystal Revelation" but I don't have a copy. we toured as far as memphis and Huntsville, Alabama.
 
 ---
 
@@ -118,3 +118,8 @@ Last year of high school. We released one 7" that I apparently don't have a copy
 ## Red M&Ms
 
 First band. We made one cassette release called "Unhealthy". I cut a picture of some bad red blood cells out of my mom's Biology textbook to make the cover. I don't have a copy of the recording.
+
+---
+---
+
+If you have recordings of any of these things that i don't, please [get in touch](/contact).

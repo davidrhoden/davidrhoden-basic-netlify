@@ -91,6 +91,12 @@ footer {
 	padding: 1em;
 }
 
+figcaption {
+	font-size: .9em;
+    transform: translateY(-2em);
+    color: lightgray;
+}
+
 main {
 	padding-bottom: 2em;
 }
