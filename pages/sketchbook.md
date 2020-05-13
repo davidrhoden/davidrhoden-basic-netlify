@@ -22,6 +22,7 @@ eleventyNavigation:
 ![sketchbook entry by David Rhoden](/static/img/sketchbook/recordstoreday.jpg)
 ![sketchbook entry by David Rhoden](/static/img/sketchbook/nannersareforclosers.jpg)
 ![sketchbook entry by David Rhoden](/static/img/sketchbook/excellentfanfukntastic.jpg)
+![sketchbook entry by David Rhoden](/static/img/sketchbook/YrInrChild.jpg)
 ![chump chump sketchbook entry by David Rhoden](/static/img/sketchbook/chumpchump.jpg)
 ![sketchbook entry by David Rhoden](/static/img/sketchbook/whatupdavidoclr.jpg)
 ![sketchbook entry by David Rhoden](/static/img/sketchbook/rupertside.jpg)
