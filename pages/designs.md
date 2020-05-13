@@ -5,7 +5,7 @@ permalink: /designs/index.html
 navtitle: Designs
 eleventyNavigation:
   key: Designs 
-  order: 6
+  order: 7
 
 ---
 

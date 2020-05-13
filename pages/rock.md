@@ -6,7 +6,7 @@ bodyClass: "rock"
 excerpt: "A brief history of bands David Rhoden has played in, including the Stacks, All-Night Movers, Jimmy and The Wolfpack, and The Hi-Balls."
 eleventyNavigation:
   key: Rock Music
-  order: 7
+  order: 9
 
 ---
 
@@ -120,6 +120,5 @@ Last year of high school. We released one 7" that I apparently don't have a copy
 First band. We made one cassette release called "Unhealthy". I cut a picture of some bad red blood cells out of my mom's Biology textbook to make the cover. I don't have a copy of the recording.
 
 ---
----
 
-If you have recordings of any of these things that i don't, please [get in touch](/contact).
+If you have recordings of any of these things that I don't, please [get in touch](/contact).

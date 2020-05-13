@@ -7,7 +7,7 @@ navtitle: For Sale
 excerpt: These are the paintings and things I currently have for sale.
 eleventyNavigation:
   key: For Sale
-  order: 9
+  order: 6
 bodyClass: "forsale"
 
 ---

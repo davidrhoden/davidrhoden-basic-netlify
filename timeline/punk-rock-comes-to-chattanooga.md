@@ -91,7 +91,7 @@ Photos by [Kip Shepherd](http://1000000milesaway.blogspot.com).
 
 ![Johnny Wingo of The Value at Dale's, Chattanooga, TN 1984](/static/img/chattanooga/value/value04595.png)
 
-<figcaption>Johhnny Wingo of The Value at Dale's, Chattanooga, TN 1984</figcaption>
+<figcaption>Johnny Wingo of The Value at Dale's, Chattanooga, TN 1984</figcaption>
 
 ![Tony Peterson of The Value at Dale's, Chattanooga, TN 1984](/static/img/chattanooga/value/value05595.png)
 
@@ -99,7 +99,7 @@ Photos by [Kip Shepherd](http://1000000milesaway.blogspot.com).
 
 ![The Value at Dale's, Chattanooga, TN 1984](/static/img/chattanooga/value/value06595.png)
 
-<figcaption>John W. of The Value at Dale's, Chattanooga, TN 1984. Note the skull.</figcaption>
+<figcaption>The Value at Dale's, Chattanooga, TN 1984. Note the skull.</figcaption>
 
 
 Bonus pictures of Hank playing in a basement near UTC: 
