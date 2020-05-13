@@ -103,5 +103,5 @@ Photos by [Kip Shepherd](http://1000000milesaway.blogspot.com).
 
 
 Bonus pictures of Hank playing in a basement near UTC: 
-![Hank, Chattanooga, TN 1984](/static/img/chattanooga/hank/hank01595.png)
-![Hank, Chattanooga, TN 1984](/static/img/chattanooga/hank/hank02595.png)
+![Hank, Chattanooga, TN 1984](/static/img/chattanooga/hank/hank011500.png)
+![Hank, Chattanooga, TN 1984](/static/img/chattanooga/hank/hank021500.png)
