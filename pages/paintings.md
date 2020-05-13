@@ -19,6 +19,7 @@ bodyClass: "paintings"
 1. ![painting by David Rhoden](/static/img/paintings/kissguy-sq.jpg?nf_resize=fit&w=640)
 1. ![painting by David Rhoden](/static/img/paintings/avatar.jpg?nf_resize=fit&w=640)
 1. ![painting by David Rhoden](/static/img/paintings/fourheads.jpg?nf_resize=fit&w=640)
+1. ![Bottle Cap painting by David Rhoden](/static/img/paintings/bottlecap.jpg?nf_resize=fit&w=640)
 1. ![painting by David Rhoden](/static/img/paintings/icebergcrop.jpg?nf_resize=fit&w=640)
 1. ![painting by David Rhoden](/static/img/paintings/luchaguerrero.jpg?nf_resize=fit&w=640)
 1. ![painting by David Rhoden](/static/img/paintings/yellowsquiggle.jpg?nf_resize=fit&w=640)
