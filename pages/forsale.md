@@ -1,12 +1,11 @@
 ---
 layout: layouts/contact.njk
-title: For Sale
+title: Art For Sale
 date: 2020-04-24
 permalink: /forsale/index.html
-navtitle: For Sale
 excerpt: These are the paintings and things I currently have for sale.
 eleventyNavigation:
-  key: For Sale
+  key: Art For Sale
   order: 6
 bodyClass: "forsale"
 
@@ -26,10 +25,10 @@ And: [My Redbubble store](https://www.redbubble.com/people/davidrhoden/shop) (st
 Organic Form. $360
  
 ![Give Me Your Money painting by David Rhoden](/static/img/paintings/Give-Me-Your-Money.jpg?nf_resize=fit&w=640)
-Give Me Your Money. $400
+Give Me Your Money. $360
 
 ![Dominante painting by David Rhoden](/static/img/paintings/dominanteatbywaterb.jpg?nf_resize=fit&w=640)
-Dominante. $400
+Dominante. $360
 
 ![KISS Guy painting by David Rhoden](/static/img/paintings/kissguy.jpg?nf_resize=fit&w=640)
 'Scuse Me. $200
@@ -37,11 +36,17 @@ Dominante. $400
 ![Keys painting by David Rhoden](/static/img/paintings/keys1200.jpg?nf_resize=fit&w=640)
 Keys. $200
 
+![Pink Face painting by David Rhoden](/static/img/paintings/pink-face.jpg?nf_resize=fit&w=640)
+Cloudmouths. $120
+
 ![Cloudmouths painting by David Rhoden](/static/img/paintings/cloudmouths.jpg?nf_resize=fit&w=640)
-Cloudmouths. $100
+Cloudmouths. $120
+
+![Little People painting by David Rhoden](/static/img/paintings/little-people.jpg?nf_resize=fit&w=640)
+Little People. $80
 
 ![Greenheads painting by David Rhoden](/static/img/paintings/greenheads.jpg?nf_resize=fit&w=640)
-Greenheads. $60
+Greenheads. $40
 
 ![Blue Suit painting by David Rhoden](/static/img/paintings/smallbluesuit2.jpg?nf_resize=fit&w=640)
 Blue suit. $40
