@@ -125,6 +125,7 @@ bodyClass: "paintings"
 1. ![painting by David Rhoden](/static/img/paintings/lucha150209.jpg?nf_resize=fit&w=640)
 1. ![painting by David Rhoden](/static/img/paintings/whiteboard.jpg?nf_resize=fit&w=640)
 1. ![painting by David Rhoden](/static/img/paintings/smallbluesuit2.jpg?nf_resize=fit&w=640)
+1. ![Le Petomane painting by David Rhoden](/static/img/paintings/le-petomane-painting.jpg?nf_resize=fit&w=640)
 1. ![Flourish painting by David Rhoden](/static/img/paintings/flourishstanding.jpg?nf_resize=fit&w=640)
 1. ![Flourish painting by David Rhoden](/static/img/paintings/flourishlayingflat.jpg?nf_resize=fit&w=640)
 1. ![Mummies paintings by David Rhoden](/static/img/paintings/cutoutmummiestalking.jpg?nf_resize=fit&w=640)

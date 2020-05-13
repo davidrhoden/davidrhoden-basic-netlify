@@ -43,7 +43,7 @@ Cloudmouths. $120
 Cloudmouths. $120
 
 ![Little People painting by David Rhoden](/static/img/paintings/little-people.jpg?nf_resize=fit&w=640)
-Little People. $80
+Little People. $40 each
 
 ![Greenheads painting by David Rhoden](/static/img/paintings/greenheads.jpg?nf_resize=fit&w=640)
 Greenheads. $40
