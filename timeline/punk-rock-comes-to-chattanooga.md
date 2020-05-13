@@ -16,7 +16,7 @@ tags:
 
 ---
 
-We started to get real DIY rock shows in Chattanooga in 1984. The shows were at Dale's, a little sandwich shop in a strip mall. It had clown pictures on the walls but Dale would tack paper skull decorations of them, to make it punk. I never got a sandwich there or heard of anybody else doing so either.
+We started to get real DIY rock shows in Chattanooga in 1984. The shows were at Dale's, a little sandwich shop in a strip mall. It had clown pictures on the walls but Dale would tack paper skull decorations on them, to make it punk. I never got a sandwich there or heard of anybody else doing so either.
 
 Photos by [Kip Shepherd](http://1000000milesaway.blogspot.com).
 
