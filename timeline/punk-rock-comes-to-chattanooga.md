@@ -11,7 +11,7 @@ tags:
   - The Value
   - Hank
   - Chattanooga
-  - Dale's
+  - Dale&apos;s
 
 ---
 
