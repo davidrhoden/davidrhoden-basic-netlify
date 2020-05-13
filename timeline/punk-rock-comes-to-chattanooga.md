@@ -61,7 +61,7 @@ Photos by [Kip Shepherd](http://1000000milesaway.blogspot.com).
 
 ![Guitarist of Strychnine 5 at Dale's, Chattanooga, TN 1984](/static/img/chattanooga/strychnine-five/strychninegtr.jpg)
 
-<figcaption>Strychnine Five at Dale's, Chattanooga, TN 1984</figcaption>
+<figcaption>Strychnine Five at Dale's, Chattanooga, TN 1984.  Note the skull.</figcaption>
 
 ![Mark Link of Strychnine 5 at Dale's, Chattanooga, TN 1984](/static/img/chattanooga/strychnine-five/strychninemark.jpg)
 
@@ -71,7 +71,7 @@ Photos by [Kip Shepherd](http://1000000milesaway.blogspot.com).
 
 <figcaption>Steve of Strychnine Five at Dale's, Chattanooga, TN 1984</figcaption>
 
-![Drummer of Strychnine 5 at Dale's, Chattanooga, TN 1984](/static/img/chattanooga/strychnine-five/strycninedrummer.jpg)
+![Drummer of Strychnine 5 at Dale's, Chattanooga, TN 1984](/static/img/chattanooga/strychnine-five/strychninedrummer.jpg)
 
 <figcaption>Strychnine Five at Dale's, Chattanooga, TN 1984</figcaption>
 
@@ -81,25 +81,25 @@ Photos by [Kip Shepherd](http://1000000milesaway.blogspot.com).
 
 <figcaption>The Value at Dale's, Chattanooga, TN 1984</figcaption>
 
-![Ed Tucker of The Value at Dale's, Chattanooga, TN 1984](/static/img/chattanooga/value/value02595.png)
+![Ed Tucker of The Value at Dale's, Chattanooga, TN 1984](/static/img/chattanooga/value/value021500.png)
 
 <figcaption>Ed Tucker of The Value at Dale's, Chattanooga, TN 1984</figcaption>
 
-![Richard Rodgers of The Value at Dale's, Chattanooga, TN 1984](/static/img/chattanooga/value/value03595.png)
+![Richard Rodgers of The Value at Dale's, Chattanooga, TN 1984](/static/img/chattanooga/value/value031500.png)
 
 <figcaption>Richard Rodgers of The Value at Dale's, Chattanooga, TN 1984</figcaption>
 
-![Johnny Wingo of The Value at Dale's, Chattanooga, TN 1984](/static/img/chattanooga/value/value04595.png)
+![Johnny Wingo of The Value at Dale's, Chattanooga, TN 1984](/static/img/chattanooga/value/value041500.png)
 
 <figcaption>Johnny Wingo of The Value at Dale's, Chattanooga, TN 1984</figcaption>
 
-![Tony Peterson of The Value at Dale's, Chattanooga, TN 1984](/static/img/chattanooga/value/value05595.png)
+![Tony Peterson of The Value at Dale's, Chattanooga, TN 1984](/static/img/chattanooga/value/value051500.png)
 
 <figcaption>Tony Peterson of The Value at Dale's, Chattanooga, TN 1984</figcaption>
 
-![The Value at Dale's, Chattanooga, TN 1984](/static/img/chattanooga/value/value06595.png)
+![The Value at Dale's, Chattanooga, TN 1984](/static/img/chattanooga/value/value061500.png)
 
-<figcaption>The Value at Dale's, Chattanooga, TN 1984. Note the skull.</figcaption>
+<figcaption>The Value at Dale's, Chattanooga, TN 1984.</figcaption>
 
 
 Bonus pictures of Hank playing in a basement near UTC: 
