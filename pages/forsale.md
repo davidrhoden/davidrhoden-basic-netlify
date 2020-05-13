@@ -43,7 +43,7 @@ Long Legs. $200.
 Keys. $200
 
 ![Pink Face painting by David Rhoden](/static/img/paintings/pink-face.jpg?nf_resize=fit&w=640)
-Cloudmouths. $120
+Pink Face. $120
 
 ![Cloudmouths painting by David Rhoden](/static/img/paintings/cloudmouths.jpg?nf_resize=fit&w=640)
 Cloudmouths. $120
