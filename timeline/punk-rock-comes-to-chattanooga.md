@@ -1,7 +1,8 @@
 ---
-title: Punk rock comes to Chattanooga
+title: DIY rock shows come to Chattanooga
 date: 1984-12-05T16:00:00.000Z
 summary: We started to get real DIY rock shows in Chattanooga in 1984.
+excerpt: We started to get real DIY rock shows in Chattanooga in 1984.
 image: /static/img/chattanooga/brainwash/whitehead01.jpg
 tags:
   - post
