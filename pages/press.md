@@ -37,4 +37,10 @@ i can't believe I said some of ths sh\*t and somebody printed it. I am still goo
 
 ![screenshot of excerpt from article interviewing David Rhoden about Athens music](/static/img/press/athens-article-screenshot.png)
 
+![old xerox of article interviewing David Rhoden about Athens music, page 1](/static/img/press/olittletownp1lg.jpg
+)
+
+![old xerox of article interviewing David Rhoden about Athens music, page 1](/static/img/press/olittletownp2lg.jpg
+)
+
 
