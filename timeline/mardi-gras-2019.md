@@ -8,12 +8,13 @@ tags:
   - post
   - Mardi Gras 
   - Gina
+  - Kathleen
   - New Orleans
 
 ---
 
-![me and kathleen on mardi gras](/static/img/timeline/davidandginamardigras2019.jpg)
+![me and Gina on mardi gras](/static/img/timeline/davidandginamardigras2019.jpg)
 
-![me and kathleen on mardi gras](/static/img/timeline/davidandkathleenmardigras2019.jpg)
+![me and Kathleen on mardi gras](/static/img/timeline/davidandkathleenmardigras2019.jpg)
 
 This was probably my last Mardi Gras. I stayed home on Mardi Gras 2020, after two people had been killed on the parade routes. We didn't know yet it was probably a big day for spreading the coronavirus.
