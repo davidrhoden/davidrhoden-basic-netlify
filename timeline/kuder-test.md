@@ -25,7 +25,7 @@ My top match is with female journalists. Maybe that explains why I miss Molly Iv
 
 That I matched pretty strongly with "interior decorator", male or female, probably raised some eyebrows. It makes you wonder what they were testing for, really. My high match with female "Dean of Women" is also a head-scratcher.
 
-Maybe I should have been a "Psych., Clinical", I ranked really high for it. I think I would have liked that except for my basic on/off switch of empathy: I don't care or I'm all in. Might be tough in a clinical setting. That, or I would have just eaten all the pills.
+Maybe I should have been a "Psych., Clinical", I ranked really high for it. I think it would have either erased my capacity for empathy or wound it up to an unsustainable level. Might be tough in a clinical setting. Or else I would have just eaten all the pills.
 
 I don't know who made the pencil notes, maybe a school advisor. They suggested I major in English or Art, what a surprise. (In college I begged to quit being an English major and switch to Architecture because I just thought I knew enough English; I spoke it every day. I didn't quit English, in the end. I just made terrible grades. I wish I had studied art, actually.)
 
