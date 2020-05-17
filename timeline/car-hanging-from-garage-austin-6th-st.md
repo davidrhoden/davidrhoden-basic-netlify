@@ -12,7 +12,7 @@ tags:
 
 ---
 
-![Car hanging from parking garage in austin](/static/img/timeline/hangingcar160909.jpg "Freddy Fender facesleeve")
+![Car hanging from parking garage in Austin](/static/img/timeline/hangingcar160909.jpg "Car hanging from parking garage in Austin")
 
 I was walking down 6th Street in Austin one lunch hour when i saw a group of people with cameras out, looking up.
 
