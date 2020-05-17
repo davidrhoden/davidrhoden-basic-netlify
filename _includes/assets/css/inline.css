@@ -97,6 +97,10 @@ figcaption {
     color: lightgray;
 }
 
+.page-numbers {
+	color: lightgray;
+}
+
 main {
 	padding-bottom: 2em;
 }
@@ -366,10 +370,6 @@ ol li::before {
 		font-family: "Inter", Helvetica, Arial, sans-serif;
 		font-size: 1.1em;
 	}
-
-/*	header nav li:hover {
-		background: var(--orangered);
-	}*/
 
 	.home main {
 	    width: 70%;
