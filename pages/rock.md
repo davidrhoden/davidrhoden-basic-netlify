@@ -99,13 +99,13 @@ We did record some good stuff with Mitro Valsamis but I don't appear to have a c
 
 ## Everything Tool
 
-First "real" college band. I thought we were pretty good though I'm embarrassed by the lyrics now. we made a cassette called "Mystic Crystal Revelation" but I don't have a copy. we toured as far as memphis and Huntsville, Alabama.
+First "real" college band. I thought we were pretty good though I'm embarrassed by the lyrics now. We made a cassette called "Mystic Crystal Revelation" but I don't have a copy. we toured as far as memphis and Huntsville, Alabama.
 
 ---
 
 ## Cheerio and The Camels
 
-Bsnd that played one show, at Williams College, in Williamstown Massachusetts, while they were handing out the box lunches.
+Bsnd that played one show, at Williams College, in Williamstown, Massachusetts, while they were handing out the box lunches.
 
 ---
 

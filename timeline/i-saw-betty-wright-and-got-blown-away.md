@@ -1,8 +1,8 @@
 ---
 title: I saw Betty Wright at Jazz Fest and got blown away
 date: 2000-05-07T16:00:00.000Z
-summary: I'm writing this on May 11, 2020, having just heard the news that Betty Wright has passed at the age of 66. I saw Betty Wright at Jazz Fest on May, 2000. It was one of the best shows I ever saw.
-excerpt: I'm writing this on May 11, 2020, having just heard the news that Betty Wright has passed at the age of 66. I saw Betty Wright at Jazz Fest on May, 2000. It was one of the best shows I ever saw.
+summary: I'm writing this on May 11, 2020, having just heard the news that Betty Wright has passed at the age of 66. I saw Betty Wright at Jazz Fest on May 7, 2000. It was one of the best shows I ever saw.
+excerpt: I'm writing this on May 11, 2020, having just heard the news that Betty Wright has passed at the age of 66. I saw Betty Wright at Jazz Fest on May 7, 2000. It was one of the best shows I ever saw.
 image: /static/img/timeline/betty-wright-live.jpg
 tags:
   - post
@@ -12,7 +12,7 @@ tags:
   - live music
   - New Orleans
 ---
-I'm writing this on May 11, 2020, having just heard the news that Betty Wright has passed at the age of 66. I saw Betty Wright at Jazz Fest on May, 2000. It was one of the best shows I ever saw.
+I'm writing this on May 11, 2020, having just heard the news that Betty Wright has passed at the age of 66. I saw Betty Wright at Jazz Fest on May 7, 2000. It was one of the best shows I ever saw.
 
 Most or much journalism about Betty Wright says her biggest or best-known work was "Clean-Up Woman". Yeah, you think that. It's a great song, it was her first nationwide hit. She was about thirteen when she cut it, if you can believe it. But at this show, that's the song she started with. Just got it out of the way.
 
