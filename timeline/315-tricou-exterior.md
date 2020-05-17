@@ -13,6 +13,6 @@ tags:
 
 ![house at 315 Tricou with paintings](/static/img/timeline/315-tricou-20180419.jpg "house at 315 Tricou with painting")
 
-I have loved alomst every place I've lived but I think I love this place the most.
+I have loved almost every place I've lived but I think I love this place the most.
 
 That's Sally on the steps. She's irreplaceable.
