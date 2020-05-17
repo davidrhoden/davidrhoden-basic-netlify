@@ -35,7 +35,7 @@ I had about three guests in the two years I lived there. If it hadn't been such 
 <figcaption>I could eat tacos every day if I wanted to. I lost a nice fountain pen at this taco stand (Jefe's, near the UT campus) and I got it back.</figcaption>
 
 ![Sally trying to enjoy our Austin yard](/static/img/timeline/austin-sally-in-leaves.jpg "[Sally trying to enjoy our Austin yard")
-<figcaption>[Sally trying to enjoy our Austin yard.</figcaption>
+<figcaption>Sally trying to enjoy our Austin yard.</figcaption>
 
 ![Stupid-looking heart painted on a tree that didn't deserve it.](/static/img/timeline/austin-the-treeheart.jpg "[tupid-looking heart painted on a tree that didn't deserve it.")
 <figcaption>Some dunce did this to a tree on the road (Ohlen Road) to my house and I had to see it sometimes; I hated it so much.</figcaption>
