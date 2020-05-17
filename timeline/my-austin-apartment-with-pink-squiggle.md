@@ -18,7 +18,7 @@ I liked my Austin house but I didn't love it. It was comfortable. My neighborhoo
 
 i had a stereo in my living room and another one in my office. I had a nice painting space in the carport I shared with my neighbors. The kitchen was all brand new, I was the first to microwave a burrito or think about a salad there. I gained weight. 
 
-I would go down the street and walk or occasionally jog on the asphalt track that Burnet Middle School. There was a pick-up soccer league that played there so you could watch the games. I could bike to Guitar Center and Walmart and a public library and GameStop and plenty of tasty non-chain fast food take-out (Indian, Thai, Mexican, Chinese) and a giant karaoke place. I could walk to "Buddy's Place: Home of Happiness" or to a taxidermy shop.
+I would go down the street and walk or occasionally jog on the asphalt track that Burnet Middle School. There was a pick-up soccer league that played there so you could watch the games. I could bike to Guitar Center and Walmart and a public library and GameStop and plenty of tasty non-chain fast food take-out (Indian, Thai, Mexican, Chinese) and a giant karaoke place. I could walk to "Buddy's Place: Home of Happiness" (a sad bar for old men; maybe they liked it) or to a taxidermy shop.
 
 I had about three guests in the two years I lived there. If it hadn't been such a lonely place I might have loved it. i drove to New Orleans every month for the twenty-six months I lived there, so 26,000 miles in a '99 Ford Ranger.
 
