@@ -2,56 +2,194 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://davidrhoden.com/</loc>
-    <lastmod>2020-04-20</lastmod>
+    <lastmod>2020-05-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://davidrhoden.com/illustrations/</loc>
-    <lastmod>2020-04-20</lastmod>
+    <lastmod>2020-05-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://davidrhoden.com/forsale/</loc>
+    <lastmod>2020-05-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://davidrhoden.com/sketchbook/</loc>
+    <lastmod>2020-05-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://davidrhoden.com/contact/</loc>
-    <lastmod>2020-04-20</lastmod>
+    <lastmod>2020-05-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://davidrhoden.com/resume/</loc>
+    <lastmod>2020-05-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://davidrhoden.com/about/</loc>
-    <lastmod>2020-04-20</lastmod>
+    <lastmod>2020-05-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://davidrhoden.com/rock/</loc>
-    <lastmod>2020-04-20</lastmod>
+    <lastmod>2020-05-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://davidrhoden.com/press/</loc>
+    <lastmod>2020-05-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://davidrhoden.com/designs/</loc>
-    <lastmod>2020-04-20</lastmod>
+    <lastmod>2020-05-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://davidrhoden.com/web/</loc>
-    <lastmod>2020-04-20</lastmod>
+    <lastmod>2020-05-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://davidrhoden.com/animations/</loc>
-    <lastmod>2020-04-20</lastmod>
+    <loc>https://davidrhoden.com/timeline/</loc>
+    <lastmod>2020-05-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://davidrhoden.com/paintings/</loc>
-    <lastmod>2020-04-20</lastmod>
+    <lastmod>2020-05-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://davidrhoden.com/animations/</loc>
+    <lastmod>2020-05-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://davidrhoden.com/timeline/i-took-a-picture-of-a-pickle/</loc>
+    <lastmod>2020-05-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://davidrhoden.com/timeline/my-house-in-new-orleans/</loc>
+    <lastmod>2020-05-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://davidrhoden.com/timeline/standing-on-the-levee-near-the-sugar-plant/</loc>
+    <lastmod>2020-05-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://davidrhoden.com/timeline/before-the-next-teardrop-falls/</loc>
+    <lastmod>2020-05-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://davidrhoden.com/timeline/a-walk-by-the-mississippi-in-december/</loc>
+    <lastmod>2020-05-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://davidrhoden.com/timeline/mardi-gras-2019/</loc>
+    <lastmod>2020-05-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://davidrhoden.com/timeline/mr.-manners/</loc>
+    <lastmod>2020-05-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://davidrhoden.com/timeline/sketch-of-daisy-sitting-on-the-couch-with-me/</loc>
+    <lastmod>2020-05-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://davidrhoden.com/timeline/a-lunch-hour-disaster-averted/</loc>
+    <lastmod>2020-05-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://davidrhoden.com/timeline/slade's-hog/</loc>
+    <lastmod>2020-05-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://davidrhoden.com/timeline/the-stacks-played-the-8th-annual-chazfest/</loc>
+    <lastmod>2020-05-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://davidrhoden.com/timeline/ka-nives-and-all-night-movers-in-lafayette-louisiana/</loc>
+    <lastmod>2020-05-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://davidrhoden.com/timeline/i-saw-betty-wright-at-jazz-fest-and-got-blown-away/</loc>
+    <lastmod>2020-05-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://davidrhoden.com/timeline/my-house-in-austin/</loc>
+    <lastmod>2020-05-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://davidrhoden.com/timeline/sally-with-pink-collar/</loc>
+    <lastmod>2020-05-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://davidrhoden.com/timeline/dirty-knives-at-dixie-taverne-august-1-2001/</loc>
+    <lastmod>2020-05-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://davidrhoden.com/tags/new%20orleans/</loc>
+    <lastmod>2020-05-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://davidrhoden.com/timeline/happy-holidays-(with-the-churchkeys-at-lakeside-lounge-1999)/</loc>
+    <lastmod>2020-05-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>
