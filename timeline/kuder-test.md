@@ -27,7 +27,7 @@ That I matched pretty strongly with "interior decorator", male or female, probab
 
 Maybe I should have been a "Psych., Clinical", I ranked really high for it. I think I would have liked that except for my basic on/off switch of empathy: I don't care or I'm all in. Might be tough in a clinical setting. That, or I would have just eaten all the pills.
 
-I don't know who made the pencil notes, maybe a school advisor. They suggested I major in English or Art, what a surprise. (In college I begged to quit being an English major and switch to Architecture because I just thought I knew enough English, I spoke it every day. I didn't quit English, in the end. I just made terrible grades. I wish I had studied art, actually.)
+I don't know who made the pencil notes, maybe a school advisor. They suggested I major in English or Art, what a surprise. (In college I begged to quit being an English major and switch to Architecture because I just thought I knew enough English; I spoke it every day. I didn't quit English, in the end. I just made terrible grades. I wish I had studied art, actually.)
 
 I rank lower for "Computer Programr", the job I have, than for "Lawyer", the job I trained for. Maybe I shoulda stuck to the books. I rank lower for "Engineer, Indus." than a lot of things I would never want to do, like "Clothier, Retail" and "YMCA Secretary". I would love to be an Industrial Engineer (if they mean "product designer", and not "sewer plant knob-twister", a job that was presented to me as an option at the time). I do kinda think the YMCA secretaries they surveyed had bigger dreams though.
 
