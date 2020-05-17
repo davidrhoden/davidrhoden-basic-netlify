@@ -44,7 +44,7 @@ section: timeline
     <span class="page-numbers">You've reached the present.</span>
   {% endif %}
   <span>
-    Page {{ pagination.pageNumber + 1 }} of {{ pagination.links | length  }}
+    Page {{ pagination.pageNumber + 1 }} of {{ pagination.links | length  }}.
   </span>
   {% if pagination.nextPageHref %}
     <a href="{{ pagination.nextPageHref }}" class="page-numbers">Forward to the past.</a>

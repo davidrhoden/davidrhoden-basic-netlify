@@ -8,7 +8,7 @@ tags:
   - post 
   - paintings
   - Austin
-  - sally
+  - Sally
 
 ---
 
