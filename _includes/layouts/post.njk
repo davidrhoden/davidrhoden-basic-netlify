@@ -31,6 +31,16 @@ section: timeline
 			<small>{{ post.date | readableDate }} by {{ metadata.author.name }}</small>
 		</time>
 	</p>
+	  {% if post.data.tags %}
+	    <p>
+	    {% for tag in post.data.tags %}
+	      {%- if tag != "post" -%}
+	        {% set tagUrl %}/tags/{{ tag }}/{% endset %}
+	        <a href="{{ tagUrl | url }}" rel="tag">{{ tag }}</a>
+	      {%- endif -%}
+	    {% endfor %}
+	    </p>
+	  {% endif %}
 </div>
 </article>
 {% endfor %}
