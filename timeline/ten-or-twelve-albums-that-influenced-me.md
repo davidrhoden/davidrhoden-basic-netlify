@@ -49,10 +49,10 @@ I find X albums (the first 4) improve in quality as they go. _Los Angeles_ is go
 A unique sounding record. The leader's previous band, DMZ, was excellent, but their (major label) album isn't good because the drums sound like someone playing on a cereal box. (The version of _DMZ_ currently on Spotify sounds like it has _sort of_ rectified some of the drum sound issues, for the record. But just _sort of_.) I played the grooves off of _On Fyre_ and it still sounds good (I wish I had my old vinyl, though). I've seen the Lyres live a ton of times and they are almost always excellent. Once I saw them come on at Brownie's over an hour late thanks to a snowstorm. The guitarist was wearing a Charlotte Hornets sweatshirt and looked for all the world like a man who had forgotten about the show and been picked up in the middle of a fight with his girlfriend or wife. Still, great show.
 
 ![Sonics - Psychosonic](/static/img/rock/top-10/psychosonic.jpg "Sonics - Psychosonic")
-In the genre called "garage rock", there's The Sonics, and then there's everybody else. I bought this cd on St. Mark's Place in New York. It was over $20. I wouldn't pay a penny for a CD now but this was a great one.
+In the genre called "garage rock", there's The Sonics, and then there's everybody else. I bought this cd on St. Mark's Place in New York. It was over $20. I wouldn't pay a penny for a CD now but this was a great one and well worth the dough.
 
 ![Prefab Sprout - Two Wheels Good](/static/img/rock/top-10/two-wheels-good.jpg "Prefab Sprout - Two Wheels Good")
-Odd one out but I love this record. (Pictured here in its English livery, bearing the title _Steve McQueen_.) Another one where I wouldn't change a thing. The hit, "When Love Breaks Down" is just as good as all the other songs. We had their first album, _Swoon_, on a recommendation from a friend who just loved British things. We were baffled. I love it now though. (It really is terrific. I feel like the songwriter, Paddy Mcaloon, realized he wouldn't "succeed" if he kept on in that manner, but I'm glad we got at least that one uncompromising record.) But this hand-tinted one, the follow-up, their sophomore effort, is the one to have if you can only have one.
+Odd one out but I love this record. (Pictured here in its English livery, bearing the title _Steve McQueen_.) Another one where I wouldn't change a thing. The hit, "When Love Breaks Down" is just as good as all the other songs. We had their first album, _Swoon_, on a recommendation from a friend who just loved British things. We were baffled. I love it now though. (It really is terrific. I feel like the songwriter, Paddy McAloon, realized he wouldn't "succeed" if he kept on in that manner, but I'm glad we got at least that one uncompromising record.) But this hand-tinted one, the follow-up, their sophomore effort, is the one to have if you can only have one.
 
 BONUS:
 
@@ -66,3 +66,7 @@ I like _The Specials_ more (a lot more), but it came into my life later. This re
 _The Velvet Underground and Nico_ belongs on this list. I can't believe I forgot it until I was finished. It's like how it's hard to see the giant name RUSSIA on a world map. It's just so huge. But I haven't listened to it in years. My copy had a big spot on the front where I spilled Cutter insect repellent on it.
 
 Can I say it sounds pretentious now? I don't care about the subject matter anymore. But the guitar tone is great and I don't think my attitude about that will change.
+
+There's too much white music on this list to suit me. Maybe that's because that's what I heard as "an influence". I wasn't going to become John Lee Hooker or Dee Dee Warwick, though it's not for lack of trying. I definitely always wanted to be in a four-piece rock band, so that's cool, there are a lot of those on here. (The Beatles should be, and so should five-piece band The Rolling Stones.) If I could be in the Isley Brothers I would. 
+
+I like so much more than this. These are just a few reocrds that made me think I could also make a record.
