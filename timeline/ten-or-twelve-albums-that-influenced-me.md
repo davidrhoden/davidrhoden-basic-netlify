@@ -85,7 +85,7 @@ A unique sounding record. It fades in; do any other records do that? The leader'
 
 ## The Sonics, _Psychosonic_ 
 
-In the genre called "garage rock", there's The Sonics, and then there's everybody else. I bought this cd on St. Mark's Place in New York. It was over $20. I wouldn't pay a penny for a CD now but this was a great one and well worth the dough.
+In the genre called "garage rock", there's The Sonics, and then there's everybody else. I bought this CD on St. Mark's Place in New York. It was over $20. I wouldn't pay a penny for a CD now but this was a great one and well worth the dough.
 
 ---
 
@@ -119,7 +119,7 @@ _The Velvet Underground and Nico_ belongs on this list. I can't believe I forgot
 
 Can I say it sounds pretentious now? I don't care about the subject matter anymore. But the guitar tone is great and I don't think my attitude about that will change.
 
-You know what else belongs on here? The Jam. The Cars _Candy-O_. Jim Croce's _Photographs and Memories_. **Wings.**
+You know what else belongs on here? The Jam. The Cars _Candy-O_. Jim Croce's _Photographs and Memories_. **Wings.** God forgive me, The Boomtown Rats.
 
 There's too much white music on this list to suit me. Maybe that's because that's what I heard as "an influence". I wasn't going to become John Lee Hooker or Dee Dee Warwick, though it's not for lack of trying. Everything I play or do or think is influenced by Chuck Berry, but I didn't have any of his records until later, unless you count "Almost Grown" off the _American Graffiti_ soundtrack (and come to think of it, I do). I definitely always wanted to be in a four-piece rock band, so that's cool, there are a lot of those on here. (The Beatles should be, and so should five-piece band The Rolling Stones.) If I could be in the Isley Brothers I would. 
 
