@@ -55,6 +55,11 @@ Illustration for an article on men's health issues for _Kingfish_ magazine.
 
 ---
 
+Illustration for _Where Y'At?_ magazine.
+![](/static/img/illustrations/whereyat-cover-may-2004-1600.jpg?nf_resize=fit&w=640)
+
+---
+
 "Worst of New Orleans", for _New Orleans_ magazine.
 ![](/static/img/illustrations/baggyfinal.jpg?nf_resize=fit&w=640)
 
