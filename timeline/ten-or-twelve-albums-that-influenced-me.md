@@ -13,7 +13,7 @@ tags:
 
 ---
 
-Someone asked me to list ten albums that really influenced me in life. here's my list. it could and should be a hundred records. These aren't even necessarily the ones I listen to the most. These are the ones that _influenced_ me. There are probably even more AM hits that influenced me more than these, but the question was "albums".
+Someone asked me to list ten albums that really influenced me in life. Here's my list. It could and should be a hundred records. These aren't even necessarily the ones I listen to the most. These are the ones that _influenced_ me. There are probably (certainly, definitely) even more AM hits that influenced me more than these, but the question was "albums".
 
 ![Bo Diddley His Greatest Hits](/static/img/rock/top-10/diddley.jpg "Bo Diddley His Greatest Hits")
 
@@ -26,7 +26,7 @@ Bo played two amazing shows. In betweeen, he signed autographs in a trailer. I d
 
 ## Electric Light Orchestra, _A New World Record_
 
-We had a cool setup where we could stack a bunch of LPs on a record changer and listen on our screened side porch. This was my favorite one. We also listened to the Beatles blue greatest hits and Styx "Paradise Theatre" a lot.
+When I was still living with my parents, we had a cool setup involving a Realistic speaker switcher where we could stack a bunch of LPs on a record changer and listen on our screened side porch and not bother people in the house. This was my favorite one. We also listened to the Beatles "blue" greatest hits and Styx "Paradise Theatre" (with the laser-etched vinyl!) a lot. Other things we enjoyed included Jeff Wayne's _War Of the Worlds_ and Jean-Luc Ponty.
 
 ![Talking Heads - More Songs About Buildings And Food](/static/img/rock/top-10/more-songs.jpg "Talking Heads - More Songs About Buildings And Food")
 
