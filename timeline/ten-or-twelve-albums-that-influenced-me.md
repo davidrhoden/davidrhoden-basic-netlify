@@ -31,6 +31,8 @@ Bo played two amazing shows. In betweeen, he signed autographs in a trailer. I d
 
 When I was still living with my parents, we had a cool setup involving a Realistic speaker switcher where we could stack a bunch of LPs on a record changer and listen on our screened side porch and not bother people in the house. This was my favorite one. We also listened to the Beatles "blue" greatest hits and Styx "Paradise Theatre" (with the laser-etched vinyl!) a lot. Other things we enjoyed included Jeff Wayne's _War Of the Worlds_ and Jean-Luc Ponty.
 
+---
+
 ![Talking Heads - More Songs About Buildings And Food](/static/img/rock/top-10/more-songs.jpg "Talking Heads - More Songs About Buildings And Food")
 
 ## Talking Heads, _More Songs About Buildings And Food_
