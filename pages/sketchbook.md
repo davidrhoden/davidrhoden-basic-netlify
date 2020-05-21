@@ -12,6 +12,7 @@ eleventyNavigation:
 ![sketchbook entry by David Rhoden](/static/img/sketchbook/aah-guy.jpg)
 ![sketchbook entry by David Rhoden](/static/img/sketchbook/hobowitharevisedoboe.jpg)
 ![Do not drink the bleach, The Bleach Must Be Administered Anally by David Rhoden](/static/img/sketchbook/bleachmustbeadminstered.jpg)
+![sketchbook entry by David Rhoden](/static/img/sketchbook/flattering-selfportrait.jpg)
 ![sketchbook entry by David Rhoden](/static/img/sketchbook/whatchathink200126.jpg)
 ![sketchbook entry by David Rhoden](/static/img/sketchbook/chuckbraun.jpg)
 ![sketchbook entry by David Rhoden](/static/img/sketchbook/peppermintpatty.jpg)
