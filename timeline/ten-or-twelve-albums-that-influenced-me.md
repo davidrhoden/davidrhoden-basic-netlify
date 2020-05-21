@@ -21,7 +21,7 @@ Someone asked me to list ten albums that really influenced me in life. Here's my
 ## Bo Diddley, _His Greatest Sides_
 
 I carried this LP to a Bo Diddley daytime concert at Lake Winnepesaukah, an amusement park in Chattanooga, Tennessee.
-Bo played two amazing shows. In betweeen, he signed autographs in a trailer. I didn't know you needed to bring your own Sharpie. He used somebody's busted pen, so the autograph is kinda spotty. His hands were huge. He looked at the cover of this Chess reissue like he knew absolutely nothing about it, pointed at the cover photo of him with drummer Frank Kirkland and maraca-man Jerome Green, and said; "Them two guys is dead."
+Bo played two amazing shows. In between, he signed autographs in a trailer. I didn't know you needed to bring your own Sharpie. He used somebody's busted pen, so the autograph is kinda spotty. His hands were huge. He looked at the cover of this Chess reissue like he knew absolutely nothing about it, pointed at the cover photo of him with drummer Frank Kirkland and maraca-man Jerome Green, and said; "Them two guys is dead."
 
 ---
 
