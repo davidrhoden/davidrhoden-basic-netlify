@@ -38,7 +38,7 @@ eleventyNavigation:
 ![sketchbook entry by David Rhoden](/static/img/sketchbook/ladpostit.jpeg?nf_resize=fit&w=960)
 ![Bert sketchbook entry by David Rhoden](/static/img/sketchbook/bert.jpg?nf_resize=fit&w=960)
 ![sketchbook entry by David Rhoden](/static/img/sketchbook/theringsorigcolordrawing.jpeg?nf_resize=fit&w=960)
-![Buster Keaton sketchbook entry by David Rhoden](/static/img/sketchbook/busterkeaton.jpg?nf_resize=fit&w=960)
+![Buster Keaton sketchbook entry by David Rhoden](/static/img/sketchbook/busterkeaton.png?nf_resize=fit&w=960)
 ![America lyrics sketchbook entry by David Rhoden](/static/img/sketchbook/1708onepoorcorrespondent.jpg?nf_resize=fit&w=960)
 ![sketchbook entry by David Rhoden](/static/img/sketchbook/170912hmf.jpg?nf_resize=fit&w=960)
 ![Men! sketchbook entry by David Rhoden](/static/img/sketchbook/170814_03men.jpg?nf_resize=fit&w=960)
