@@ -139,4 +139,5 @@ bodyClass: "paintings"
 1. ![Bent Head painting by David Rhoden](/static/img/paintings/cutouttubesockwcolby.jpg?nf_resize=fit&w=640)
 1. ![Babbler painting by David Rhoden](/static/img/paintings/cutoutbabbler.jpg?nf_resize=fit&w=640)
 1. ![Babbler painting by David Rhoden](/static/img/paintings/babbler_small.jpg?nf_resize=fit&w=640)
+1. ![Figure Study painting by David Rhoden](/static/img/paintings/figurestudy.jpg?nf_resize=fit&w=640)
 1. ![Cloudmouths painting by David Rhoden](/static/img/paintings/cloudmouths.jpg?nf_resize=fit&w=640)
