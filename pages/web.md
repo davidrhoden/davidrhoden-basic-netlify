@@ -16,7 +16,6 @@ This really needs updating. I worked on:
 
 [Tapestry Linens](https://tapestrylinens.com) (with the team at Cerberus)
 [Midsouth Coatings](https://midsouthcoatings.com) (Cerberus)
-[Dixie beer](https://dixiebeer.com) (with the team at Online Optimism)
 [Dixie Beer](https://dixiebeer.com) (with the team at Online Optimism)
 [Moxie Media](https://moxielearning.com) (Online Optimism)
 [The Tunica-Biloxi Tribe](https://tunicabiloxi.com) (Online Optimism)
@@ -36,7 +35,7 @@ DBSTL (design and development, with the team at Sanders/Wingo)
 AT&T: The Innovators (development, with the team at Sanders/Wingo)
 ![](/static/img/web/INNOVATORS.jpg?nf_resize=fit&w=640)
 
-Amber Sexton: Potographer/Photo Editor (design and development)
+Amber Sexton: Photographer/Photo Editor (design and development)
 ![](/static/img/web/ambersexton.jpg?nf_resize=fit&w=640)
 
 Hurray For The Riff Raff (design and development)
