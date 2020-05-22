@@ -1,5 +1,5 @@
 ---
-title: jimmy and The Wolfpack at Freddy's Bar, Brooklyn.
+title: Jimmy and The Wolfpack at Freddy's Bar, Brooklyn.
 date: 2013-12-22T23:59:00.000Z
 summary: I'm not sure the date is correct and I'm not actually sure this picture is from Freddy's.
 excerpt: I'm not sure the date is correct and I'm not actually sure this picture is from Freddy's.

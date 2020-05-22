@@ -17,6 +17,7 @@ tags:
 ![A car I saw while walking around the business end of New Orleans.](/static/img/timeline/cars/jissnasty2.jpg "A car I saw while walking around the business end of New Orleans.")
 
 ![A car I saw while walking around the business end of New Orleans.](/static/img/timeline/cars/jissnasty3.jpg "A car I saw while walking around the business end of New Orleans.")
+<figcaption>So confused by this. I dont think the picture got flipped. so did the customizer put all the "PREDATOR" lettering on backwards?</figcaption>
 
 ![A car I saw while walking around the business end of New Orleans.](/static/img/timeline/cars/jissnasty4.jpg "A car I saw while walking around the business end of New Orleans.")
 
