@@ -13,4 +13,4 @@ tags:
 
 ![Gina wearing Holy Cross Neighborhood shirt](/static/img/gina/gina-hood-ass-mar-30-2018.jpg "Gina wearing Holy Cross Neighborhood shirt")
 
-Just Gina, in her Holy Cross Neighborhood Association, giving the finger to her phone.
+Just Gina, in her Holy Cross Neighborhood Association T, giving the finger to her phone.
