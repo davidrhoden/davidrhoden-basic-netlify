@@ -12,6 +12,15 @@ bodyClass: "web"
 
 ## 2020 - 2015 
 
+This really needs updating. I worked on:
+
+[Tapestry Linens](https://tapestrylinens.com) (with the team at Cerberus)
+[Midsouth Coatings](https://midsouthcoatings.com) (Cerberus)
+[Dixie beer](https://dixiebeer.com) (with the team at Online Optimism)
+[Dixie Beer](https://dixiebeer.com) (with the team at Online Optimism)
+[Moxie Media](https://moxielearning.com) (Online Optimism)
+[The Tunica-Biloxi Tribe](https://tunicabiloxi.com) (Online Optimism)
+
 Gina Phillips (design and development)
 ![](/static/img/web/ginasite.jpg?nf_resize=fit&w=640)
 
