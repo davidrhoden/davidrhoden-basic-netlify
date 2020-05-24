@@ -16,6 +16,7 @@ This really needs updating. I worked on:
 
 [Tapestry Linens](https://tapestrylinens.com) (with the team at Cerberus)
 [Midsouth Coatings](https://midsouthcoatings.com) (Cerberus)
+[Albasha Metairie](https://albashametairie.com) (Cerberus)
 [Dixie Beer](https://dixiebeer.com) (with the team at Online Optimism)
 [Moxie Media](https://moxielearning.com) (Online Optimism)
 [The Tunica-Biloxi Tribe](https://tunicabiloxi.com) (Online Optimism)
