@@ -3,7 +3,6 @@ title: About me
 date: 2017-01-01T00:00:00.000Z
 permalink: /about/index.html
 navtitle: About
-bodyClass: "about"
 excerpt: "David Rhoden is a painter, animator, illustrator, and occasional musician, currently based in New Orleans."
 image: https://davidrhoden.com//static/img/about/davechartroomcrop.jpg
 eleventyNavigation:
