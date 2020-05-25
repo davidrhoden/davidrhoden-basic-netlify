@@ -8,7 +8,6 @@ image: https://davidrhoden.com/static/img/representative-paintings.jpg
 eleventyNavigation:
   key: Art For Sale
   order: 6
-bodyClass: "forsale"
 
 ---
 

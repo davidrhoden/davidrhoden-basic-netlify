@@ -8,7 +8,6 @@ excerpt: Web design and development by New Orleans web developer and designer Da
 eleventyNavigation:
   key: Websites
   order: 8
-bodyClass: "web"
 
 ---
 
