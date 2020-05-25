@@ -1,8 +1,8 @@
 ---
 title: at Kukhnya with Gina
 date: 2019-10-25T11:00:00.000Z
-summary: We were so happy then.
-excerpt: We were so happy then.
+summary: A night out with Trey and Becca.
+excerpt: A night out with Trey and Becca.
 image: https://davidrhoden.com/static/img/gina/dave-gina-kukhnya-oct-11-2019.jpg
 tags:
   - post 
@@ -16,4 +16,4 @@ tags:
 
 At Kukhnya, or Green Room as I guess it's now called. On St. Bernard Avenue, New Orleans.
 
-i look kinda crazy. Photo by Trey Ledford, probably.
+I look kinda crazy. Photo by Trey Ledford, probably.
