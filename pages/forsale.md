@@ -4,6 +4,7 @@ title: Art For Sale
 date: 2020-04-24
 permalink: /forsale/index.html
 excerpt: These are the paintings and things I currently have for sale.
+image: https://davidrhoden.com/static/img/representative-paintings.jpg
 eleventyNavigation:
   key: Art For Sale
   order: 6

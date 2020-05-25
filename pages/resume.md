@@ -2,7 +2,6 @@
 title: Résumé
 date: 2020-05-01T00:00:00.000Z
 permalink: /resume/index.html
-navtitle: Résumé
 bodyClass: "resume"
 excerpt: "David Rhoden is a painter, animator, illustrator, and occasional musician, currently based in New Orleans."
 eleventyNavigation:

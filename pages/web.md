@@ -3,6 +3,8 @@ layout: layouts/page.njk
 title: Web Design & Development
 date: 2020-04-12T00:00:00.000Z
 permalink: /web/index.html
+image: https://davidrhoden.com/static/img/web/ginasite.jpg
+excerpt: Web design and development by New Orleans web developer and designer David Rhoden. Now accepting freelance clients. 
 eleventyNavigation:
   key: Websites
   order: 8
@@ -12,7 +14,9 @@ bodyClass: "web"
 
 ## 2020 - 2015 
 
-This really needs updating. I worked on:
+Web design and development by New Orleans web developer and designer David Rhoden. Now accepting freelance clients. See the form at the bottom of this page. I build sites in Wordpress, Craft CMS, and Eleventy (an excellent static site generator).
+
+Most recently I worked on:
 
 [Tapestry Linens](https://tapestrylinens.com) (with the team at Cerberus)
 [Midsouth Coatings](https://midsouthcoatings.com) (Cerberus)

@@ -4,6 +4,7 @@ title: Home
 date: 2016-01-01T00:00:00.000Z
 permalink: /
 excerpt: Paintings, illustrations, animations, pointless scribbles, rude jokes, guitar playing and shouting, random observations, et cetera. Currently based in New Orleans, Louisiana.
+image: https://davidrhoden.com/static/img/rock/davedrummingatlakeside_sq.jpg
  
 ---
 

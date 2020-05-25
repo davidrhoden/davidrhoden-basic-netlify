@@ -3,7 +3,7 @@ layout: layouts/page.njk
 title: Privacy Policy
 date: 2020-04-15
 permalink: /privacy-policy/index.html
-excerpt: "My privacy policy is simple. I do not share or sell my mailing list; I have never done so, and I will not do so in the future. It would bum me out to do that. You can always have your information removed from my list by asking me or by using the Mailchimp Unsubscribe link."
+excerpt: My privacy policy is simple. I do not share or sell my mailing list; I have never done so, and I will not do so in the future. It would bum me out to do that. You can always have your information removed from my list by asking me or by using the Mailchimp Unsubscribe link.
 
 ---
 

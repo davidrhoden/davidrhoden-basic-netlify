@@ -3,7 +3,7 @@ layout: layouts/page.njk
 title: Paintings
 date: 2020-04-11T00:00:00.000Z
 permalink: /paintings/index.html
-image: /static/img/paintings/representative-paintings.jpg
+image: https://davidrhoden.com/static/img/paintings/representative-paintings.jpg
 excerpt: Paintings by New Orleans-based artist David Rhoden.
 eleventyNavigation:
   key: Paintings

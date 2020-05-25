@@ -25,7 +25,7 @@ module.exports = function(eleventyConfig) {
   twitter: "davidrhoden",
   image: "https://davidrhoden.com/static/img/paintings/bigface_sq.jpg",
   options: {
-    imageWithBaseUrl: true
+    imageWithBaseUrl: false
   }
 });
 
