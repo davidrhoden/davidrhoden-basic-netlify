@@ -23,7 +23,7 @@ module.exports = function(eleventyConfig) {
   url: "https://davidrhoden.com",
   author: "David Rhoden",
   twitter: "davidrhoden",
-  image: "https://davidrhoden.com/static/img/paintings/bigface_sq.jpg",
+  image: "https://davidrhoden.com/static/img/paintings/bigface-wide.jpg",
   options: {
     imageWithBaseUrl: false
   }
