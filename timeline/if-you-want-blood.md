@@ -13,6 +13,6 @@ tags:
 
 ---
 
-![Sally with a copy of If you Want Blood You Got It](/static/img/sally/Sally-with-Angus-2017-10-21.jpg "Sally with a copy of If you Want Blood You Got It")
+![Sally with a copy of If You Want Blood You Got It](/static/img/sally/Sally-with-Angus-2017-10-21.jpg "Sally with a copy of If you Want Blood You Got It")
 
 Actually I think she's enjoying the sunbeam.
