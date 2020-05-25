@@ -2,6 +2,8 @@
 title: Sketchbook
 date: 2020-04-12
 permalink: /sketchbook/index.html
+image: /static/img/sketchbook/aah-guy.jpg
+excerpt: Digital and analog sketches and doodles from the sketchbook of New Orleans-based artist David Rhoden.
 navtitle: sketchbook
 eleventyNavigation:
   key: Sketchbook 
