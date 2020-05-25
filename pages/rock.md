@@ -3,6 +3,7 @@ title: Rock Music
 date: 2020-04-14T00:00:00.000Z
 permalink: /rock/index.html
 bodyClass: "rock"
+image: /static/img/rock/stacksatgasagasa.jpg
 excerpt: "A brief history of bands David Rhoden has played in, including the Stacks, All-Night Movers, Jimmy and The Wolfpack, and The Hi-Balls."
 eleventyNavigation:
   key: Rock Music

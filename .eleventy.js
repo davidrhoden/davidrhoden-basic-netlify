@@ -23,7 +23,10 @@ module.exports = function(eleventyConfig) {
   url: "https://davidrhoden.com",
   author: "David Rhoden",
   twitter: "davidrhoden",
-  image: "https://davidrhoden.com/static/img/bigface.jpg"
+  image: "https://davidrhoden.com/static/img/paintings/bigface_sq.jpg"
+  options: {
+    imageWithBaseUrl: true
+  }
 });
 
   // Merge data instead of overriding

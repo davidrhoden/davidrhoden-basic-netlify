@@ -2,7 +2,7 @@
 title: Sketchbook
 date: 2020-04-12
 permalink: /sketchbook/index.html
-image: /static/img/sketchbook/aah-guy.jpg
+image: /static/img/sketchbook/aah-guy-wide.jpg
 excerpt: Digital and analog sketches and doodles from the sketchbook of New Orleans-based artist David Rhoden.
 navtitle: sketchbook
 eleventyNavigation:
@@ -21,7 +21,7 @@ eleventyNavigation:
 ![sketchbook entry by David Rhoden](/static/img/sketchbook/foobaw.jpg?nf_resize=fit&w=960)
 ![sketchbook entry by David Rhoden](/static/img/sketchbook/ladygesturing.jpg?nf_resize=fit&w=960)
 ![sketchbook entry by David Rhoden](/static/img/sketchbook/hammond-overstock.png?nf_resize=fit&w=960)
-![sketchbook entry by David Rhoden](/static/img/sketchbook/redandorangefigures.jpg?nf_resize=fit&w=960)
+![Red and Orange figures sketchbook entry by David Rhoden](/static/img/sketchbook/redandorangefigures.jpg?nf_resize=fit&w=960)
 ![Black Figure sketchbook entry by David Rhoden](/static/img/sketchbook/blackfigure.jpg?nf_resize=fit&w=960)
 ![sketchbook entry by David Rhoden](/static/img/sketchbook/recordstoreday.jpg?nf_resize=fit&w=960)
 ![sketchbook entry by David Rhoden](/static/img/sketchbook/nannersareforclosers.jpg?nf_resize=fit&w=960)
