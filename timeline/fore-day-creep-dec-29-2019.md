@@ -21,5 +21,5 @@ This was a really fun show. We barely got to practice, so I had to have a notebo
 
 My bass got stolen from my house the following March, so this was my last time playing that instrument on stage. I had that bass for twenty years.
 
-![Fore Day Creep on stage at Circle Bar](/static/img/rock/fore-day-creep-vera-dragunova.jpg "Fore Day Creep on stage at Circle Bar")
+![Fore Day Creep on stage at Circle Bar](/static/img/rock/fore-day-creep-by-vera-dragunova.jpg "Fore Day Creep on stage at Circle Bar")
 <figcaption>Photo by Vera Dragunova.</figcaption>
