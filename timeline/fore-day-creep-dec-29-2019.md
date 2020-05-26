@@ -15,7 +15,11 @@ tags:
 ---
 
 ![Fore Day Creep on stage at Circle Bar](/static/img/timeline/fore-day-creep-dec-29-2019.jpg "Fore Day Creep on stage at Circle Bar")
+<figcaption>Photo by Gina Phillips.</figcaption>
 
 This was a really fun show. We barely got to practice, so I had to have a notebook to remember the chords, but I made a really good, well-organized notebook. 
 
 My bass got stolen from my house the following March, so this was my last time playing that instrument on stage. I had that bass for twenty years.
+
+![Fore Day Creep on stage at Circle Bar](/static/img/timeline/fore-day-creep-vera-dragunova9.jpg "Fore Day Creep on stage at Circle Bar")
+<figcaption>Photo by Vera Dragunova.</figcaption>
