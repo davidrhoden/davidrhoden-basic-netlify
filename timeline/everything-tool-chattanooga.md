@@ -19,3 +19,5 @@ tags:
 I love this flyer because not only does it omit the year (like all rock flyers), it also omits the date! the date I'm putting down is a wild, wild guess. Did we really play two nights? 
 
 It was a fun show. I remember the guys from 37 Targets tossing jello shots to Matt from the balcony while we were on stage. (I choose to believe this was 1900 because that was the year Matt would be legal.)
+
+I also like this flyer for the mysterious object attached to our name (believe it or not that was a "phone") and the extremely early version of an emoticon at the top of the page.
