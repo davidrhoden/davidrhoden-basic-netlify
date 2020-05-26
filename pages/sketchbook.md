@@ -75,7 +75,7 @@ eleventyNavigation:
 ![sketchbook entry by David Rhoden](/static/img/sketchbook/1605idgafman.jpg?nf_resize=fit&w=960)
 ![sketchbook entry by David Rhoden](/static/img/sketchbook/160518forthebirds.png)
 ![sketchbook entry by David Rhoden](/static/img/sketchbook/160524_whiteboard.jpg?nf_resize=fit&w=960)
-![sketchbook entry by David Rhoden](/static/img/sketchbook/qblakerunner.jpg?nf_resize=fit&w=960)
+![Quentin Blake look-alike sketchbook entry by David Rhoden](/static/img/sketchbook/qblakerunner.jpg?nf_resize=fit&w=960)
 ![sketchbook entry by David Rhoden](/static/img/sketchbook/160302cbrown_thumb.png)
 ![sketchbook entry by David Rhoden](/static/img/sketchbook/160228lifeaffirming.jpg?nf_resize=fit&w=960)
 ![sketchbook entry by David Rhoden](/static/img/sketchbook/fuckyeahposter160316_600.png)
