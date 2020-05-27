@@ -20,6 +20,7 @@ Most recently I worked on:
 [Tapestry Linens](https://tapestrylinens.com) (with the team at Cerberus)
 [Midsouth Coatings](https://midsouthcoatings.com) (Cerberus)
 [Albasha Metairie](https://albashametairie.com) (Cerberus)
+[Sexton Biotechnologies]https://sextonbio.com/ (with the team at Converse Digital)
 [Dixie Beer](https://dixiebeer.com) (with the team at Online Optimism)
 [Moxie Media](https://moxielearning.com) (Online Optimism)
 [The Tunica-Biloxi Tribe](https://tunicabiloxi.com) (Online Optimism)
@@ -33,7 +34,7 @@ Luke Spurr Allen/Happy Talk Band (design and development)
 Mike Edison (design and development)
 ![](/static/img/web/edison.jpg?nf_resize=fit&w=640)
 
-DBSTL (design and development, with the team at Sanders/Wingo)
+DBSTL timesheet reminder app (design and development, with the team at Sanders/Wingo)
 ![](/static/img/web/DBSTL.jpg?nf_resize=fit&w=640)
 
 AT&T: The Innovators (development, with the team at Sanders/Wingo)

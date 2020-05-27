@@ -3,7 +3,7 @@ title: Résumé
 date: 2020-05-01T00:00:00.000Z
 permalink: /resume/index.html
 bodyClass: "resume"
-excerpt: "David Rhoden is a painter, animator, illustrator, and occasional musician, currently based in New Orleans."
+excerpt: "The resume of David Rhoden, a digital art director, web designer, and web developer, currently based in New Orleans."
 eleventyNavigation:
   key: Résumé
   order: 12
@@ -26,9 +26,13 @@ eleventyNavigation:
         <hr>
         <br>
         <div class="resume-body">
-            <p class="date">Oct 2018–</p>
+            <p class="date">Nov 2019 –</p>
+            <p class="position">Digital Art Director at <b>Cerberus</b> in New Orleans, Louisiana.</p>
+            <p class="highlights">Art direction, Static site development, and Wordpress development for a marketing firm. Custom plug-ins, CSS and JS-based web animation, custom templating, and cross-platform responsive development. Clients included MidSouth Coatings, Tapestry Linens, Albasha Metairie, and several others.</p>
+            <p class="tech">Eleventy, Netlify, PHP/MySQL, Javascript, jQuery, CSS, HTML, Wordpress, Photoshop, Illustrator.</p>
+            <p class="date">Oct 2018 – Nov 2019</p>
             <p class="position">Web developer at <b>Online Optimism</b> in New Orleans, Louisiana.</p>
-            <p class="highlights">Wordpress development for a digital marketing firm. Custom plug-ins, CSS and JS-based web animation, custom templating, and cross-platform mobile- and desktop-responsive development. Clients included Dixie Beer, Moxie Media, and Witry Collective Realty.</p>
+            <p class="highlights">Wordpress development for a digital marketing firm. Custom plug-ins, CSS and JS-based web animation, custom templating, and cross-platform mobile- and desktop-responsive development. Clients included Dixie Beer, Moxie Media, the Tunica-Biloxi Tribe, and Witry Collective Realty.</p>
             <p class="tech">PHP/MySQL, Javascript, jQuery, CSS, HTML, Wordpress, Photoshop, Illustrator.</p>
             <p class="date">Sep 2016–Oct 2018</p>
             <p class="position"><b>Freelance web developer and UI designer</b> in New Orleans.</p>
