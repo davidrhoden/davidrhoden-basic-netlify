@@ -63,6 +63,7 @@ eleventyNavigation:
 ![Back of a letter sketchbook entry by David Rhoden](/static/img/sketchbook/170321samething.png?nf_resize=fit&w=960)
 ![sketchbook entry by David Rhoden](/static/img/sketchbook/170321whee.png?nf_resize=fit&w=960)
 ![sketchbook entry by David Rhoden](/static/img/sketchbook/170128ohhellnocolorway1.jpg?nf_resize=fit&w=960)
+![WTF Calendar man sketchbook entry by David Rhoden](/static/img/sketchbook/wtfcalendarman180926.jpg?nf_resize=fit&w=960)
 ![sketchbook entry by David Rhoden](/static/img/sketchbook/161217guysayinghawhaw.jpg?nf_resize=fit&w=960)
 ![sketchbook entry by David Rhoden](/static/img/sketchbook/mrokra.jpg?nf_resize=fit&w=960)
 ![sketchbook entry by David Rhoden](/static/img/sketchbook/161218pottersketch.jpg?nf_resize=fit&w=960)
