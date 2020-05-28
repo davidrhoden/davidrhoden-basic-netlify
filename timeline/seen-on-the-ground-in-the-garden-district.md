@@ -7,7 +7,7 @@ image: /static/img/timeline/walk-education-tiles-nov-13-2018.jpg
 tags:
   - post 
   - New Orleans
-  - Sally
+  - walks
 
 ---
 
