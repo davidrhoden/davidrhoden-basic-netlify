@@ -1,8 +1,8 @@
 ---
 title: the inside of my house in New Orleans
 date: 2020-03-27T11:00:00.000Z
-summary: I moved to the Ninth Ward. Most of my pictures from this time are out of focus.
-excerpt: I moved to the Ninth Ward. Most of my pictures from this time are out of focus.
+summary: I seem not to change much in how I live.
+excerpt: I seem not to change much in how I live.
 image: /static/img/timeline/315-tricou-mar-27-2020.jpg
 tags:
   - post 
@@ -13,6 +13,6 @@ tags:
 
 ![house at 315 Tricou](/static/img/timeline/315-tricou-mar-27-2020.jpg "house at 315 Tricou")
 
-I guess it's dumb to show pictures of your belongings but I got robbed a couple of weeks after this was taken so, if you're casing the place, too late. 
+I guess it's dumb to show pictures of your belongings but I got robbed a couple of weeks after this was taken so, if you're casing the place: too late! 
 
 I just wanted to compare it with [this apartment](/timeline/532-pacific-street-brooklyn/). I thought i had grown up.
