@@ -13,7 +13,7 @@ eleventyNavigation:
 <article>
     <div class="resume">
         <div class="badge">
-            <a class="badge-text" style="color:white;" href="/assets/pdf/resume_davidrhoden.pdf" target="_blank">
+            <a class="badge-text" style="color:white;" href="/static/pdf/resume_davidrhoden.pdf" target="_blank">
                 Click here to<br>
                 <b>download</b></b><br>
                 in PDF format</a>
@@ -26,11 +26,11 @@ eleventyNavigation:
         <hr>
         <br>
         <div class="resume-body">
-            <p class="date">Nov 2019 –</p>
+            <p class="date">Dec 2019 –</p>
             <p class="position">Digital Art Director at <b>Cerberus</b> in New Orleans, Louisiana.</p>
             <p class="highlights">Art direction, Static site development, and Wordpress development for a marketing firm. Custom plug-ins, CSS and JS-based web animation, custom templating, and cross-platform responsive development. Clients included MidSouth Coatings, Tapestry Linens, Albasha Metairie, and several others.</p>
             <p class="tech">Eleventy, Netlify, PHP/MySQL, Javascript, jQuery, CSS, HTML, Wordpress, Photoshop, Illustrator.</p>
-            <p class="date">Oct 2018 – Nov 2019</p>
+            <p class="date">Oct 2018 – Dec 2019</p>
             <p class="position">Web developer at <b>Online Optimism</b> in New Orleans, Louisiana.</p>
             <p class="highlights">Wordpress development for a digital marketing firm. Custom plug-ins, CSS and JS-based web animation, custom templating, and cross-platform mobile- and desktop-responsive development. Clients included Dixie Beer, Moxie Media, the Tunica-Biloxi Tribe, and Witry Collective Realty.</p>
             <p class="tech">PHP/MySQL, Javascript, jQuery, CSS, HTML, Wordpress, Photoshop, Illustrator.</p>
