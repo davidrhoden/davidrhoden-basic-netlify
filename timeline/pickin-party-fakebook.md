@@ -9,6 +9,6 @@ tags:
   - New Orleans
 ---
 
-![cover of Pickin Party Fakebook](/static/img/timeline/pickin-party-facebook.jpg)
+![cover of Pickin Party Fakebook](/static/img/timeline/pickin-party-fakebook.jpg)
 
 For my birthday, we had a bonfire at Gina's and I made this little book of easy songs to sing around the campfire. 
