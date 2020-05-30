@@ -15,7 +15,7 @@ tags:
 
 ![Red Hot sign in Laurel](/static/img/timeline/red-hot.jpg "Red Hot sign in Laurel")
 
-I don't really remember how it began, but at some point Trey satarted calling me on the cellphone when he would pass this sign in Laurel, Mississippi. He would say "Red Hot", and i would know about where he was on the trip back to Chattanooga or to New Orleans. So I started doing it too. Apparently we've been doing this since 2002 or so.
+I don't really remember how it began, but at some point Trey started calling me on the cellphone when he would pass this sign in Laurel, Mississippi. He would say "Red Hot", and I would know about where he was on the trip back to Chattanooga or to New Orleans. So I started doing it too. Apparently we've been doing this since 2002 or so.
 
 The sign got badly damaged in a tornado or hurricane a few years ago, and one day it won't be there, but I'm sure we'll still do the Red Hot call.
 
