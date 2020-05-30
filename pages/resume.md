@@ -12,23 +12,18 @@ eleventyNavigation:
 
 <article>
     <div class="resume">
-        <div class="badge">
-            <a class="badge-text" style="color:white;" href="/static/pdf/resume_davidrhoden.pdf" target="_blank">
-                Click here to<br>
-                <b>download</b></b><br>
-                in PDF format</a>
-        </div>
+        <p><a href="/static/pdf/resume_davidrhoden.pdf" target="_blank">download in PDF format</a></p>
         David Rhoden<br>
         315 Tricou Street<br>
         New Orleans, Louisiana 70117<br>
         504-812-8475<br>
-        <br>
+        david@davidrhoden.com<br>
         <hr>
         <br>
         <div class="resume-body">
             <p class="date">Dec 2019 –</p>
             <p class="position">Digital Art Director at <b>Cerberus</b> in New Orleans, Louisiana.</p>
-            <p class="highlights">Art direction, Static site development, and Wordpress development for a marketing firm. Custom plug-ins, CSS and JS-based web animation, custom templating, and cross-platform responsive development. Clients included MidSouth Coatings, Tapestry Linens, Albasha Metairie, and several others.</p>
+            <p class="highlights">Art direction, Static site development, and Wordpress development for a branding and advertising agency. Custom plug-ins, CSS and JS-based web animation, custom templating, and cross-platform responsive development. Clients included MidSouth Coatings, Tapestry Linens, Albasha Metairie, and several others.</p>
             <p class="tech">Eleventy, Netlify, PHP/MySQL, Javascript, jQuery, CSS, HTML, Wordpress, Photoshop, Illustrator.</p>
             <p class="date">Oct 2018 – Dec 2019</p>
             <p class="position">Web developer at <b>Online Optimism</b> in New Orleans, Louisiana.</p>
