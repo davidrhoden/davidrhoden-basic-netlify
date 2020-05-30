@@ -7,6 +7,7 @@ image: /static/img/sally/171214sallyprofile.jpg
 tags:
   - post 
   - New Orleans
+  - Mid-City
   - Sally
 
 ---
