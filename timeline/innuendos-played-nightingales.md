@@ -2,8 +2,8 @@
 title: The Innuendos played Nightingale's
 date: 1999-06-11T11:00:00.000Z
 summary: A gig with a couple of favorite NYC bands
-excerpt: I moved to the Ninth Ward. Most of my pictures from this time are out of focus.
-image: /static/img/timeline/315-tricou-20180419.jpg
+excerpt: A gig with a couple of favorite NYC bands
+image: /static/img/rock/chimpcard.jpg
 tags:
   - post 
   - rock
