@@ -4,7 +4,6 @@ date: 2020-04-12T00:00:00.000Z
 permalink: /illustrations/index.html
 excerpt: Illustrations by New Orleans illustrator David Rhoden. Need illustration in New Orleans? Contact me.
 image: https://davidrhoden.com/static/img/illustrations/harbo.jpg
-bodyClass: "illustrations"
 eleventyNavigation:
   key: Illustrations 
   order: 5

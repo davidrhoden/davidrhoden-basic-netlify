@@ -8,7 +8,6 @@ excerpt: Paintings by New Orleans-based artist David Rhoden.
 eleventyNavigation:
   key: Paintings
   order: 3
-bodyClass: "paintings"
 
 ---
 
@@ -28,15 +27,16 @@ bodyClass: "paintings"
 1. ![painting by David Rhoden](/static/img/paintings/Had-Enough.jpg?nf_resize=fit&w=960)
 1. ![Dominante painting by David Rhoden](/static/img/paintings/dominanteatbywaterb.jpg?nf_resize=fit&w=960)
 1. ![Defeated painting by David Rhoden](/static/img/paintings/blobman.jpg?nf_resize=fit&w=960)
-1. ![painting by David Rhoden](/static/img/paintings/idontlikethisinsun.jpg?nf_resize=fit&w=960)
+1. ![Defeated painting by David Rhoden](/static/img/paintings/upsetguyinbathroom.jpg?nf_resize=fit&w=960)
+1. ![i Don't Like This painting by David Rhoden](/static/img/paintings/idontlikethisinsun.jpg?nf_resize=fit&w=960)
 1. ![painting by David Rhoden](/static/img/paintings/thatsitthatsitoutdoors.jpg?nf_resize=fit&w=960)
 1. ![painting by David Rhoden](/static/img/paintings/pinkandyellowluchador.jpg?nf_resize=fit&w=960)
-1. ![painting by David Rhoden](/static/img/paintings/benthead.jpg?nf_resize=fit&w=960)
-1. ![painting by David Rhoden](/static/img/paintings/eater960.jpg?nf_resize=fit&w=960)
-1. ![painting by David Rhoden](/static/img/paintings/squiggle4.jpg?nf_resize=fit&w=960)
+1. ![Benthead painting by David Rhoden](/static/img/paintings/benthead.jpg?nf_resize=fit&w=960)
+1. ![Eater painting by David Rhoden](/static/img/paintings/eater960.jpg?nf_resize=fit&w=960)
+1. ![Squiggle painting by David Rhoden](/static/img/paintings/squiggle4.jpg?nf_resize=fit&w=960)
 1. ![painting by David Rhoden](/static/img/paintings/armstroker.jpg?nf_resize=fit&w=960)
-1. ![painting by David Rhoden](/static/img/paintings/awfulbaby.jpg?nf_resize=fit&w=960)
-1. ![painting by David Rhoden](/static/img/paintings/ijustwantto.jpg?nf_resize=fit&w=960)
+1. ![awful baby painting by David Rhoden](/static/img/paintings/awfulbaby.jpg?nf_resize=fit&w=960)
+1. ![I Just Want To painting by David Rhoden](/static/img/paintings/ijustwantto.jpg?nf_resize=fit&w=960)
 1. ![painting by David Rhoden](/static/img/paintings/miamilucha.jpg?nf_resize=fit&w=960)
 1. ![painting by David Rhoden](/static/img/paintings/purpleredlucha.jpg?nf_resize=fit&w=960)
 1. ![painting by David Rhoden](/static/img/paintings/relampagoazulonwhite.jpg?nf_resize=fit&w=960)

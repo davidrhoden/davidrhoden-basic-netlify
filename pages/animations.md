@@ -5,7 +5,6 @@ permalink: /animations/index.html
 image: https://davidrhoden.com/static/img/animations/guytripping.gif
 excerpt: Digital and analog animations by New Orleans-based artist David Rhoden.
 navtitle: Animations
-bodyClass: "animations"
 eleventyNavigation:
   key: Animations 
   order: 5
