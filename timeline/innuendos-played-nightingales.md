@@ -1,0 +1,28 @@
+---
+title: The Innuendos played Nightingale's
+date: 1999-06-11T11:00:00.000Z
+summary: A gig with a couple of favorite NYC bands
+excerpt: I moved to the Ninth Ward. Most of my pictures from this time are out of focus.
+image: /static/img/timeline/315-tricou-20180419.jpg
+tags:
+  - post 
+  - rock
+  - Innuendos
+  - Jahna Rain
+  - Sara Essex
+  - Scott Dennis
+  - Matt Fiveash
+  - Tony Arietta
+  - Nightingale's
+
+---
+
+![flyer for Innuendos show with Chimps and Holmes](/static/img/rock/chimpcard.jpg "flyer for Innuendos show with Chimps and Holmes")
+
+Nobody got my little joke of illustrating "Innuendos" with Indians but that's fine, it wasn't a good joke.
+
+I don't remember wh the Sweathogs were but I think it had Keith streng from Fleshtones. he was on stage being puzzled by the amp.
+
+I loved The Chimps and even tried out to be their bass player after the first guy quit. I couldn't match what he was doing and I was about to move to New Orleans anyway. A few years later i was telling matt Fiveash how good they were and how crazy the bass player was for quitting. "Yeah, that was me," he said.
+
+I also loved Holmes, saw them many times and would later stay with them in Jersey City when All-Night Movers came to NYC to play some shows. Tony, the drummer, introduced me to the magical diner White Mana.
