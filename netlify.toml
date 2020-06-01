@@ -2,14 +2,14 @@
   publish = "_site"
   command = "eleventy"
 
-
 [[plugins]]
 package = "@netlify/plugin-sitemap"
  
   [plugins.inputs]
   buildDir = "_site"
   exclude = [
-    '_site/admin'
+    '_site/admin',
+    '_site/404.html'
   ]
 # REDIRECT and HEADERS examples
 
