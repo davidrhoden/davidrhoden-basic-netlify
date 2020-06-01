@@ -1,0 +1,23 @@
+---
+pagination:
+  data: collections
+  size: 1
+  alias: contentByYear
+  filter:
+    - all
+    - nav
+    - post
+permalink: /timeline/{{ contentByYear | slug }}/
+layout: layouts/base.njk
+renderData:
+  title: "Tagged “{{ tag }}”"
+---
+
+<h1>Tagged “{{ tag }}”</h1>
+
+{% set postslist = collections[ contentByYear ] %}
+{% include "components/yearslist.njk" %}
+
+<nav>
+  <a href="{{ '/timeline/' | url }}">← Timeline index</a>
+</nav>
