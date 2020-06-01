@@ -33,6 +33,7 @@
     "clean-css": "^4.2.1",
     "eleventy-plugin-seo": "^0.5.0",
     "html-minifier": "^4.0.0",
+    "moment": "^2.26.0",
     "uglify-es": "^3.3.9"
   }
 }
