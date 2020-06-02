@@ -19,6 +19,15 @@ eleventyNavigation:
 
 ---
 
+<div style="width: 100%; text-align: center;">
+<video controls loop>
+  <source type="video/mp4" src="/static/img/animations/mp4s/Siberia-180929-640.mp4"></source>
+  <p>Your browser does not support the video element.</p>
+</video>
+</div>
+
+---
+
 ![Thumbs Up animation by David Rhoden](/static/img/animations/thumbs-up.gif)
 
 ---
@@ -40,6 +49,15 @@ eleventyNavigation:
 </div>
 
 ![Cochon de Lait animation by David Rhoden](/static/img/animations/cochondelait.gif)
+
+---
+
+<div style="width: 100%; text-align: center;">
+<video controls loop>
+  <source type="video/mp4" src="/static/img/animations/mp4s/StacksCircleBar.mp4"></source>
+  <p>Your browser does not support the video element.</p>
+</video>
+</div>
 
 ---
 

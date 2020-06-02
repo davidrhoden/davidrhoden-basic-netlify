@@ -73,6 +73,10 @@ module.exports = function(eleventyConfig) {
   });
 
   // eleventyConfig.addCollection("years", function(collection) {
+  //   const yr = collection.getFilteredByDate("2020");
+  //   return yr;
+  // });
+
   // const moment = require("moment");
 
   // function generateDateSet(collection, format){
@@ -179,6 +183,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("static/pdf");
   eleventyConfig.addPassthroughCopy("static/webfonts/ShadowGrotesque");
   eleventyConfig.addPassthroughCopy("admin");
+  eleventyConfig.addPassthroughCopy("static/audio");
   eleventyConfig.addPassthroughCopy("_includes/assets/");
 
   /* Markdown Plugins */
