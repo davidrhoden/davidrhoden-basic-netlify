@@ -1,8 +1,8 @@
 ---
 title: a party some time in the Nineties
-date: 1997-07-04T11:00:00.000Z
-summary: I seem not to change much in how I live.
-excerpt: I seem not to change much in how I live.
+date: 1998-07-04T11:00:00.000Z
+summary: I remember this event.
+excerpt: I remember this event.
 image: /static/img/timeline/the-gang-at-90s-party.jpg
 tags:
   - post 
