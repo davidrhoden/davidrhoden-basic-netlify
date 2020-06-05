@@ -1,8 +1,8 @@
 ---
-title: Headless Hookers played a record store
+title: Headless Hookers played at Passout Records
 date: 2007-08-01T13:00:00.000Z
-summary: It was on grand street in Williamsburg, whatever it was called.
-excerpt: It was on grand street in Williamsburg, whatever it was called.
+summary: It was on Grand Street in Williamsburg.
+excerpt: It was on grand street in Williamsburg.
 image: /static/img/rock/hehoaugust2007.jpg
 tags:
   - post 
