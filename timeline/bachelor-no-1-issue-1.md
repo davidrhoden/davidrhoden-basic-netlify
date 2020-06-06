@@ -6,8 +6,10 @@ excerpt: I edited Bachelor No.1 with Brandon Kruse and a bunch of other contribu
 image: /static/img/designs/bachelor-no1-no1.jpg
 tags:
   - post
-  - Bachelor No. 1 
+  - Bachelor No. 1
+  - Brandon Kruse 
   - fanzines
+  - date approximate
 
 ---
 

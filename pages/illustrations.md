@@ -25,6 +25,11 @@ The Hi-Balls album sleeve.
 
 ---
 
+Album cover illustration for Talbot Adams.
+![Album cover design by David Rhoden](/static/img/designs/TalbotAdamsAlbum.jpg)
+
+---
+
 For _Louisiana Life_ magazine.
 ![](/static/img/illustrations/cars.jpg?nf_resize=fit&w=640)
 
