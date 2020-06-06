@@ -1,64 +1,66 @@
 ---
 layout: layouts/base.njk
+pageType: timeline
 section: timeline
 ---
 
-<!-- post loop -->
+<article>
+  <h1>{{ title }}</h1>
+  <p>
+    <small>
+      <time datetime="{{ date | machineDate }}"><span id="todays-date">{{ date | readableDate }}</span></time> by {{ metadata.author.name }}. Day <span id="days"></span>.
+    </small>
+  </p>
 
+  {{ layoutContent | safe }}
 
-{% for post in posts %}
-<article class="flex">
-	<div class="left">
-		{% if post.data.image %}<img class="thumbnail" src="{{ post.data.image }}?nf_resize=fit&w=160">{% endif %}
-	</div>
-	<div>
-	<h3>
-		<a href="{{ post.url | url }}">
-			{% if post.data.title %}
-				{{ post.data.title }}
-			{% else %}
-				Untitled
-			{% endif %}
-		</a>
-	</h3>
-	{% if post.data.summary %}
-		<p>
-			{{ post.data.summary }}
-		</p>
-	{% endif %}
-	<p>
-		<time datetime="{{ post.date | machineDate }}">
-			<small>{{ post.date | readableDate }} by {{ metadata.author.name }}</small>
-		</time>
-	</p>
-	  {% if post.data.tags %}
-	    <p>
-	    {% for tag in post.data.tags %}
-	      {%- if tag != "post" -%}
-	        {% set tagUrl %}/tags/{{ tag }}/{% endset %}
-	        <a href="{{ tagUrl | url }}" rel="tag">{{ tag }}</a>
-	      {%- endif -%}
-	    {% endfor %}
-	    </p>
-	  {% endif %}
-</div>
+  {% if tags %}
+    <p>
+    {% for tag in tags %}
+      {%- if tag != "post" -%}
+        {% set tagUrl %}/tags/{{ tag }}/{% endset %}
+        <a href="{{ tagUrl | url }}" rel="tag">{{ tag }}</a>
+      {%- endif -%}
+    {% endfor %}
+    </p>
+  {% endif %}
+
 </article>
-{% endfor %}
 
+{% if nextPost.url %}
+  <p class="ctr">
+    <strong>Next</strong>: 
+    <a class="next" href="{{ nextPost.url }}">{{ nextPost.data.date | readableDate }}: {{ nextPost.data.title }}</a>
+  </p>
+{% endif %}
+{% if prevPost.url %}
+  <p class="ctr">
+    <strong>Previous</strong>: 
+    <a class="previous" href="{{ prevPost.url }}">{{ prevPost.data.date | readableDate }}: {{ prevPost.data.title }}</a>
+  </p>
+{% endif %}
 
-<!-- Pagination links -->
-<div class="page-selector">
-  {% if pagination.previousPageHref %}
-    <a href="{{ pagination.previousPageHref }}" class="page-numbers">Back to the future.</a>
-  {% else %}
-    <span class="page-numbers">You've reached the present.</span>
-  {% endif %}
-  <span>
-    Page {{ pagination.pageNumber + 1 }} of {{ pagination.links | length  }}.
-  </span>
-  {% if pagination.nextPageHref %}
-    <a href="{{ pagination.nextPageHref }}" class="page-numbers">Forward to the past.</a>
-  {% else %}
-    <span class="page-numbers">You've reached the beginning.</span>
-  {% endif %}
+<nav>
+  <a href="{{ '/timeline/' | url }}">← Timeline index</a>
+</nav>
+
+<div style="display: none;">
+<a href="/timeline/2020/">2020</a><a href="/timeline/2010/">2010</a><a href="/timeline/2000/">2000</a>
 </div>
+
+<script>
+$(document).ready(function(){
+    // To set two dates to two variables 
+    var date1 = new Date("03/02/1967"); 
+    var date2 = new Date($('#todays-date').text()); 
+      
+    // To calculate the time difference of two dates 
+    var Difference_In_Time = date2.getTime() - date1.getTime(); 
+      
+    // To calculate the no. of days between two dates 
+    var Difference_In_Days = Difference_In_Time / (1000 * 3600 * 24); 
+      
+    //To display the final no. of days (result) 
+    $('#days').html(Math.floor(Difference_In_Days)); 
+});
+</script>
