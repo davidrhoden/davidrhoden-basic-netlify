@@ -1,4 +1,5 @@
-itle: Stacks played the Saturn Bar on Valentine's Day
+---
+title: Stacks played the Saturn Bar on Valentines Day
 date: 2014-02-14T21:00:00.000Z
 summary: I made a gaudy online flyer.
 excerpt: I made a gaudy online flyer.
