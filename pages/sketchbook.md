@@ -103,7 +103,6 @@ eleventyNavigation:
 ![sketchbook entry by David Rhoden](/static/img/sketchbook/160722alsocurrentmood.jpg?nf_resize=fit&w=960)
 ![sketchbook entry by David Rhoden](/static/img/sketchbook/stickersonlaptop.jpg?nf_resize=fit&w=960)
 ![sketchbook entry by David Rhoden](/static/img/sketchbook/160422_whiteboard600.png?nf_resize=fit&w=960)
-![sketchbook entry by David Rhoden](/static/img/sketchbook/hispsterokraman.png?nf_resize=fit&w=960)
 ![sketchbook entry by David Rhoden](/static/img/sketchbook/picasso.png?nf_resize=fit&w=960)
 ![sketchbook entry by David Rhoden](/static/img/sketchbook/goodnessthathurts.jpg?nf_resize=fit&w=960)
 ![sketchbook entry by David Rhoden](/static/img/sketchbook/juggalos.jpg?nf_resize=fit&w=960)
