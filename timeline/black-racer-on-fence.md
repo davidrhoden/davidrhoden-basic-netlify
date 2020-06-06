@@ -3,7 +3,7 @@ title: Black racer on the fence.
 date: 2018-04-20T22:00:00.000Z
 summary: A very long, very fast, dark gray snake.
 excerpt: A very long, very fast, dark gray snake.
-image: https://davidrhoden.com/static/img/timeline/black-racer-01-20180903.jpg
+image: /static/img/timeline/black-racer-01-20180903.jpg
 tags:
   - post 
   - Sally
