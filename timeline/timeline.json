@@ -1,5 +1,5 @@
 {
-  "layout": "layouts/timeline.njk",
+  "layout": "layouts/post.njk",
   "permalink": "timeline/{{ title | slug }}/index.html",
   "tags": [
     "post"
