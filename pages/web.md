@@ -186,8 +186,10 @@ Frenchy (design and development)
 ![](/static/img/web/scrnfrenchysite.jpg?nf_resize=fit&w=640)
 
 <div id="contact-form">
-	<h1>get in touch</h1>
-	I build websites as a full-time job, but I also build sites for clients on a freelance basis. You can see examples and click links to some of my prior work on my [portfolio page](/web).
 
-	If you're shopping for a website for your business or project, please let me know by filling out the form below. If we're a match in terms of budget and interestingness of the project, let's talk.
+<h1>Get in touch</h1>
+I build websites as a full-time job, but I also build sites for clients on a freelance basis.
+
+If you're shopping for a website for your business or project, please let me know by filling out the form below. If we're a match in terms of budget and interestingness of the project, let's talk.
+
 </div>
