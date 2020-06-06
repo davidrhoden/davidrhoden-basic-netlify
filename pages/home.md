@@ -14,7 +14,7 @@ image: https://davidrhoden.com/static/img/rock/davedrummingatlakeside_sq.jpg
 
 ![aah guy illustration by David Rhoden](/static/img/sketchbook/aah-guy.jpg)
 
-![David Rhoden playing guitar at All-Night Movers house show, photo by Jeff Pounds](/static/img/rock/020727dave960.jpg)
+![David Rhoden playing guitar at All-Night Movers house show, photo by Jeff Pounds](/static/img/rock/anm-dave-020727.jpg)
  
 ![Bottle Cap Boy T-Shirt by David Rhoden](/static/img/designs/Bottle-CapTeeTurquoise.jpg)
 
