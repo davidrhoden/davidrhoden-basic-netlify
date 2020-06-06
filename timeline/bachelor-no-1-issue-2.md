@@ -10,6 +10,9 @@ tags:
   - Bachelor No. 1 
   - Brandon Kruse 
   - Alan Dorsey
+  - Ilana Rein
+  - Matt
+  - Chris Glynn
   - fanzines
   - date approximate
 

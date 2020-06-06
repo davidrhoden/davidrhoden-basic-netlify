@@ -10,6 +10,8 @@ tags:
 
 ---
 
+I was 27.39726 years old.
+
 Big news on this day, according to onthisday.com:
 
 1st game ever cancelled at Seattle Kingdome (falling tiles)
