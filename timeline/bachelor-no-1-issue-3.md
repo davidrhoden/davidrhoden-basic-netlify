@@ -6,6 +6,7 @@ excerpt: As will almost all fanzines, the third time's the charm.
 image: /static/img/designs/bn13.jpg
 tags:
   - post
+  - NYC
   - Bachelor No. 1 
   - Brandon Kruse 
   - Alan Dorsey

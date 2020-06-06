@@ -7,6 +7,8 @@ tags:
   - post
   - cats
   - Sally
+  - Bushwick
+
 ---
 
 ![Sally at work](/static/img/sally/sallyatwork.jpg)

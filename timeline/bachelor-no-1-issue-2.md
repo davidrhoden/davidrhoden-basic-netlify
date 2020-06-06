@@ -6,6 +6,7 @@ excerpt: This, as you may have guessed, was our second issue.
 image: /static/img/designs/bn12.jpg
 tags:
   - post
+  - NYC
   - Bachelor No. 1 
   - Brandon Kruse 
   - Alan Dorsey

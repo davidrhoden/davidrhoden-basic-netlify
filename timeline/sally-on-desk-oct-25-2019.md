@@ -7,6 +7,7 @@ image: https://davidrhoden.com/static/img/sally/sally-on-desk-2019-10-25.jpg
 tags:
   - post 
   - New Orleans
+  - Holy Cross
   - Sally
 
 ---

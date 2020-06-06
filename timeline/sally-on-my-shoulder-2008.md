@@ -8,6 +8,7 @@ tags:
   - post 
   - Sally
   - NYC
+  - Bushwick
 
 ---
 

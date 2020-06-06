@@ -9,6 +9,8 @@ tags:
   - 1990s
   - Sally
   - NYC
+  - Brooklyn
+  - Bushwick
 
 ---
 
