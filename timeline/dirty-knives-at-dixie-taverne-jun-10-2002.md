@@ -1,6 +1,6 @@
 ---
 title: Dirty Knives at Dixie Taverne, June 10, 2002
-date: 2001-08-02T02:00:00.000Z
+date: 2002-06-10T02:00:00.000Z
 summary: The venue was un-airconditioned.
 excerpt: The venue was un-airconditioned.
 image: /static/img/rock/sweating-lefty-jun-10-2002.jpg
