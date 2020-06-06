@@ -1,5 +1,5 @@
 ---
-title: Gina and I went to a dog tack to watch the Kentucky Derby in Birmingham
+title: Gina and I went to a dog track to watch the Kentucky Derby in Birmingham
 date: 2018-05-05T17:00:00.000Z
 excerpt: The Kentucky Derby fell on the day we were there and we went to the city dog track to watch it.
 summary: The Kentucky Derby fell on the day we were there and we went to the city dog track to watch it.
@@ -21,7 +21,7 @@ tags:
 
 Gina and I went to Birmingham to deliver a commissioned piece to the buyer but also for fun.
 
-The Kentucky Derby fell on the day we were there and we went to the city dog track to watch it. It was absolutely desolate. Broken glass everywhere. The race was on inside, projected on a white wall. Outside, the dogs were racing but the only other people in the stands were three black guys about our age. We stopped to talk to them. When we said we were from new Orleans one of them said he'd been there and paid twenty dollars for a hot dog on New Years Eve and would never go back.
+The Kentucky Derby fell on the day we were there and we went to the city dog track to watch it. It was absolutely desolate. Broken glass everywhere. The race was on inside, projected on a white wall. Outside, the dogs were racing but the only other people in the stands were three black guys about our age. We stopped to talk to them. When we said we were from New Orleans one of them said he'd been there and paid twenty dollars for a hot dog on New Years Eve and would never go back.
 
 ![a tractor at the Birmingham dog track](/static/img/timeline/dogtracktractor-may-5-2018.jpg "a tractor at the Birmingham dog track")
 
