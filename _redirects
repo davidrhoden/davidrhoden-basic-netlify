@@ -1,11 +1,20 @@
 # Redirect with a 301
-/news/2013/sally-and-cinder	     			/timeline           301
-/news/2019/d-eric-bookhardt-tribute-on-the-radio	/timeline	301
-/news/2018/so-i-kind-of-have-two-cats-now	/timeline			301
-/news/2017/hateful-little-people			/sketchbook			301
-/news/2015/weekly-meeting					/sketchbook			301
-/news/2015/meeting-151116					/sketchbook			301
-/news/*										/timeline			301
+/news/2013/sally-and-cinder	     							/timeline           301
+/news/2019/d-eric-bookhardt-tribute-on-the-radio			/timeline			301
+/news/2018/so-i-kind-of-have-two-cats-now					/timeline			301
+/news/2017/hateful-little-people							/sketchbook			301
+/news/2017/i-heard-j-california-cooper-died					/timeline			301
+/news/2017/moving											/timeline			301
+/news/2016/new-on-my-redbubble-shop							/timeline			301
+/news/2015/weekly-meeting									/sketchbook			301
+/news/2015/meeting-151116									/sketchbook			301
+/news/2012/cant-make-up-my-mind-about-these-two				/sketchbook			301
+/news/2012/i-got-a-new-used-drafting-table					/timeline			301
+/news/2010/grouch											/sketchbook			301
+/news/2010/the-family-that-stays-together-plays-together	/sketchbook			301
+/etc/maximvs												/rock				301
+/etc/all-night-movers										/rock				301
+/news/*														/timeline			301
 
 
 # Show a custom 404 for this path
