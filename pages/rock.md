@@ -39,13 +39,25 @@ The Stacks set list, pretty much, but now with Texans.
 
 ---
 
+## Headless Hookers
+
+![Headless Hookers at Passout Records](/static/img/rock/hehoaugust2007.jpg)
+
+We did one terrific recording with Daniel Rey (Ramones producer, member of The Martinets currently and masters Of Reality formerly) that I will put up here soon. I was the drummer. Daniel made the cymbals sound great, he could probably find work just doing that. Members went on to be in Luxurious Faux Furs, Chicken Snake, and The Nato Coles Band.
+
+---
+
 ## All-Night Movers
+
+![All-Night Movers: Slade Nash, David Rhoden](/static/img/rock/anm-cover-020803.jpg)
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2852397807/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://davidrhoden.bandcamp.com/album/all-night">All Night by All-Night Movers</a></iframe>
 
 ---
 
 ## Jimmy and The Wolfpack
+
+![Jimmy and The Wolfpack album cover](/static/img/rock/jandtwpcover.jpg)
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3590695495/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://jimmyandthewolfpack.bandcamp.com/album/jimmy-and-the-wolfpack">Jimmy and The Wolfpack by Jimmy And The Wolfpack</a></iframe>
 
@@ -69,16 +81,22 @@ Short-lived band that actually toured around some. The spectacle was the thing w
 
 ![The Innuendos: Joe Fusco, Jahna Rain, David Rhoden, NYC](/static/img/rock/innuendos960x640.jpg)
 
-We did record some good stuff with Mitro Valsamis but I don't appear to have a copy.
+We did record some good stuff with Mitro Valsamis but I don't appear to have a copy. (EDIT: Jahna sent me a copy and I'll link to it here soon!)
 
 ---
 
 ## Dirty Knives
 ![Dirty Knives Greatest Hits, Vol. 2 LIVE!](/static/img/rock/dirtyknivesalbumcover.jpg)
 
+lots of recordings, very disorganized. Coming soon or at least someday.
+
 ---
 
 ## Hi-Balls
+
+![hi-balls band photo](/static/img/rock/hi-balls-jump.jpg)
+
+![hi-balls record](/static/img/rock/hi-balls-feel-good-record.jpg)
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=4108152891/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://hiballs.bandcamp.com/album/love-music">Love Music by The Hi-Balls</a></iframe>
 
@@ -94,13 +112,19 @@ We did record some good stuff with Mitro Valsamis but I don't appear to have a c
 
 ## Snake Oil
 
+I know I have at least one picture of this band because I remember our guitar player Rick is wearing a top hat and cut off jeans with a basketball jersey and we are playing in a Blockbuster parking lot. but i can't find it. Rick??
+One of my favorite self-penned lyrics, "Breathe Fire", is on this recording. "Couples Skate Only" is on here too.
+
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2260301877/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://snakeoilknoxville.bandcamp.com/album/snake-oil">Snake Oil by Snake Oil</a></iframe>
 
 ---
 
 ## Everything Tool
 
-First "real" college band. I thought we were pretty good though I'm embarrassed by the lyrics now. We made a cassette called "Mystic Crystal Revelation" but I don't have a copy. we toured as far as memphis and Huntsville, Alabama.
+![Sam from Everything tool](/static/img/rock/sam-everything-tool.jpg)
+![Everything tool flyer](/static/img/rock/everything-tool-with-37-targets.jpg)
+
+First "real" college band. I thought we were pretty good though I'm embarrassed by the lyrics now. We made a cassette called "Mystic Crystal Revelation" but I don't have a copy. we toured as far as memphis and Huntsville, Alabama. 
 
 ---
 
@@ -112,7 +136,7 @@ Bsnd that played one show, at Williams College, in Williamstown, Massachusetts, 
 
 ## Dial A Miracle
 
-Last year of high school. We released one 7" that I apparently don't have a copy of.
+Last year of high school. We released one 7" that I apparently don't have a copy of or even a picture of. It's very embarrassing so I know someone will force a copy on me.
 
 ---
 
