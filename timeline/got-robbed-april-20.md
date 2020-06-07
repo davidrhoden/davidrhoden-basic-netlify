@@ -8,7 +8,9 @@ tags:
   - post
   - New Orleans 
   - crime
+  - Lower Ninth Ward
   - Holy Cross
+  - Fender Jazz bass
 
 ---
 
@@ -22,4 +24,4 @@ The women and their car were also gone. Gina called U-Haul and they said the van
 
 I resolve to be less trustful in the future.
 
-The bass was/is a left-handed Fender Jazz, made in Mexico, serial number MN8000116. It had flat-wound strings with purple trim at the time.
+The bass was/is a left-handed Fender Jazz, black finish, made in Mexico, serial number MN8000116. It had flat-wound strings with purple trim at the time.
