@@ -51,6 +51,8 @@ We did one terrific recording with Daniel Rey (Ramones producer, member of The M
 
 ![All-Night Movers: Slade Nash, David Rhoden](/static/img/rock/anm-cover-020803.jpg)
 
+Slade Nash auditioned for The Stacks with a stand-up kit that included a snow shovel and a motorcycle rim. It wasn't a match but I kept his number. We started a two-piece band that only lasted one year but we played fifty-two shows in I  think seven states.
+
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2852397807/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://davidrhoden.bandcamp.com/album/all-night">All Night by All-Night Movers</a></iframe>
 
 ---
@@ -66,7 +68,7 @@ No recordings exist that I know of. Would love to know the date of that show, bu
 
 ![Jimmy and The Wolfpack album cover](/static/img/rock/jandtwpcover.jpg)
 
-A really terrific band that started because I wanted to do some of Chan's song but I felt they were too ridiculous even for tThe Stacks. So it was basically the same people except I switched to drums. The history of it is so weird because we started it in new orleans, broke up because of Katrina, then three of four members wound up in the New York metro region so we became a New York City band.
+A really terrific band that started because I wanted to do some of Chan's song but I felt they were too ridiculous even for The Stacks. So it was basically the same people except I switched to drums. The history of it is so weird because we started it in New Orleans, broke up because of Katrina, then three of four members wound up in the New York metro region so we became a New York City band. Dave, Chan, Doug, and Al or Trey, depending on location.
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3590695495/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://jimmyandthewolfpack.bandcamp.com/album/jimmy-and-the-wolfpack">Jimmy and The Wolfpack by Jimmy And The Wolfpack</a></iframe>
 
