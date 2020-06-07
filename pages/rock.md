@@ -55,9 +55,18 @@ We did one terrific recording with Daniel Rey (Ramones producer, member of The M
 
 ---
 
+## The Dave Rhoden Band
+
+We played one show. John Vignault, Brian Manning, Chan Menon, Al Dorsey, Doug De Rienzo, me, and a young drummer who we lost track of and never heard from again. His dad loved us though. We did a killer "Total Destruction To Your Mind".
+No recordings exist that I know of. Would love to know the date of that show, but if anyone would know it, I would.
+
+---
+
 ## Jimmy and The Wolfpack
 
 ![Jimmy and The Wolfpack album cover](/static/img/rock/jandtwpcover.jpg)
+
+A really terrific band that started because I wanted to do some of Chan's song but I felt they were too ridiculous even for tThe Stacks. So it was basically the same people except I switched to drums. The history of it is so weird because we started it in new orleans, broke up because of Katrina, then three of four members wound up in the New York metro region so we became a New York City band.
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3590695495/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://jimmyandthewolfpack.bandcamp.com/album/jimmy-and-the-wolfpack">Jimmy and The Wolfpack by Jimmy And The Wolfpack</a></iframe>
 
