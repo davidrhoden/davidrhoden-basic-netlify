@@ -11,6 +11,6 @@ tags:
 
 ---
 
-![I Need A Kidney placard on dashboard](/static/img/timeline/ineedakidney-jul-10-2013.jpgg "I Need A Kidney placard on dashboard")
+![I Need A Kidney placard on dashboard](/static/img/timeline/ineedakidney-jul-10-2013.jpg "I Need A Kidney placard on dashboard")
 
 Seen and photographed in Bywater.

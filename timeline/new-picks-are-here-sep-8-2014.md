@@ -1,8 +1,8 @@
 ---
 title: New picks are here
 date: 2014-09-08T12:00:00.000Z
-summary: I got an endoresement deal.
-excerpt: I got an endoresement deal.
+summary: I got an endorsement deal.
+excerpt: I got an endorsement deal.
 image: /static/img/rock/newpicksarehere-sep-8-2014.jpg
 tags:
   - post 

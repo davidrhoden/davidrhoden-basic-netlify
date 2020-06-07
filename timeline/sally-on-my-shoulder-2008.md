@@ -14,4 +14,4 @@ tags:
 
 ![Sally on david rhoden's shoulder](/static/img/sally/sally-shoulder-dec-28-2008.jpg "Sally on david rhoden's shoulder")
 
-She loved to ride around on my shoulders or int he crook of my arm, pretending to be tall.
+She loved to ride around on my shoulders or in the crook of my arm, pretending to be tall.
