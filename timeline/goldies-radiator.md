@@ -20,9 +20,9 @@ tags:
 
 I was driving to Chattanooga to hang out and watch the eclipse from there (99% coverage expected).
 
-I noticed my truck's A/C was cycling a lot and it seemed like it needed the refrigerant rechatrged. I looked around at YouTube and such to find out how to do it. I still wonder if maybe I did it wrong. I hooked the injector to one of the little pipes it fits on and added a can of R-134.
+I noticed my truck's A/C was cycling a lot and it seemed like it needed the refrigerant recharged. I looked around at YouTube and such to find out how to do it. I still wonder if maybe I did it wrong. I hooked the injector to one of the little pipes it fits on and added a can of R-134.
 
-The next morning I set out. When I had just got into Mississippi, the motor started to smell wrong and the temperature gauge swept up to the max. I had no idea if I would get stuck on the road, but I topped a hill and there was an exit for Poplarville, so I toook it. I had to stop at a stop sign and wait for a car to pass, then I turned left and pulled into a little 7-11 type store. By now steam was pouring out of the hood.
+The next morning I set out. When I had just got into Mississippi, the motor started to smell wrong and the temperature gauge swept up to the max. I had no idea if I would get stuck on the road, but I topped a hill and there was an exit for Poplarville, so I took it. I had to stop at a stop sign and wait for a car to pass, then I turned left and pulled into a little 7-11 type store. By now steam was pouring out of the hood.
 
 ![Goldie, post radiator explosion](/static/img/timeline/goldiesradiator/goldies-radiator-20170818.jpg)
 
@@ -43,7 +43,7 @@ I was enjoying all this but wished I had better wi-fi, or any wi-fi. The place, 
 
 ![arrowheads in a vitrine at Culpepper's Automotive, Poplarville, MS](/static/img/timeline/goldiesradiator/goldie-arrowheads2-20170818.jpg)
 
-Out back there was a junkyard, again, quite organized though still a junkyard. Bounding around on it were a half-dozen or so shiny black goats. These were like show goats, if that's a thing. just jumping around on the car hoods and roofs, bleating.
+Out back there was a junkyard, again, quite organized though still a junkyard. Bounding around on it were a half-dozen or so shiny black goats. These were like show goats, if that's a thing. Gorgeous goats, just jumping around on the car hoods and roofs, bleating.
 
 Finally young Culpepper, the son, and owner of the establishment arrived to answer all the questions. He was not there to work on any cars. He was wearing a starched white shirt. Sure enough, he did have plans for the stout sheet metal, and he would not come down on the rim. Everybody left, including Culpepper, so it was just the two women and me. The mechanic got back from O'Reilly's and had started working on my truck. I think my phone was dead by then so I couldn't even tell my mom I was stuck.
 

@@ -18,8 +18,8 @@ section: timeline
     <p>
     {% for tag in tags %}
       {%- if tag != "post" -%}
-        {% set tagUrl %}/tags/{{ tag }}/{% endset %}
-        <a href="{{ tagUrl | url }}" rel="tag">{{ tag | slug }}</a>
+        {% set tagUrl %}/tags/{{ tag | slug }}/{% endset %}
+        <a href="{{ tagUrl | url }}" rel="tag">{{ tag }}</a>
       {%- endif -%}
     {% endfor %}
     </p>
@@ -43,6 +43,12 @@ section: timeline
 <nav>
   <a href="{{ '/timeline/' | url }}">← Timeline index</a>
 </nav>
+
+<ul class="pagination">
+    {%- for pageEntry in pagination.pages %}
+      <li><a href="{{ pagination.hrefs[ loop.index0 ] }}"{% if page.url == pagination.hrefs[ loop.index0 ] %} aria-current="page"{% endif %}>{{ loop.index }}</a></li>
+    {%- endfor %}
+</ul>
 
 <div style="display: none;">
 <a href="/timeline/2020/">2020</a><a href="/timeline/2010/">2010</a><a href="/timeline/2000/">2000</a>
