@@ -32,12 +32,12 @@ section: timeline
   </p>
     {% if post.data.tags %}
       <p>
-      {% for tag in post.data.tags %}
-        {%- if tag != "post" -%}
-          {% set tagUrl %}/tags/{{ tag | slug }}/{% endset %}
-          <a href="{{ tagUrl | url }}" rel="tag">{{ tag } }}</a>
-        {%- endif -%}
-      {% endfor %}
+        {% for tag in post.data.tags %}
+          {%- if tag != "post" -%}
+            {% set tagUrl %}/tags/{{ tag | slug }}/{% endset %}
+          <a href="{{ tagUrl | url }}" rel="tag">{{ tag }}</a>
+          {%- endif -%}
+        {% endfor %}
       </p>
     {% endif %}
 </div>
