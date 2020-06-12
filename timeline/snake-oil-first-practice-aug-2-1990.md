@@ -12,7 +12,7 @@ tags:
   - Jason Roach
   - Rick Greene
   - Knoxville
-  - Gryphon\'s
+  - Gryphons
 
 ---
 
