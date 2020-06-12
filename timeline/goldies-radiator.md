@@ -36,7 +36,7 @@ There were a couple of Southeast Asian guys there, waiting for the owner to come
 
 Another guy in greasy overalls came in wanting to buy a long piece of stout sheet metal to fashion a sort of bumper for his cutting disc. He asked the well-dressed older woman behind the desk about it. She said, "You'll have to wait for my son to come in. He has a piece of metal that fits your description but he may not want to sell it. He may have other plans." The guy started talking about some long lost co-op that had once been in Poplarville that had dozens or hundreds of such pieces of metal all priced up and ready to go.
 
-"Yes, but that was in the era when people were known to fix things themselves, which is not the case today."
+"Yes, but that was in the era when people were known to fix things themselves, which is no longer the case today."
 I was enjoying all this but wished I had better wi-fi, or any wi-fi. The place, Culpepper's, was a neat operation, especially for a mechanic shop. The parts catalogs were neatly shelved. There were some drawings in frames on the walls. A left hand done in pencil, and a soldier's boot done in colored pencil. Nice work, probably from a high-schooler. Signed Culpepper. Below these decorations was a vitrine full of arrowheads.
 
 ![arrowheads in a vitrine at Culpepper's Automotive, Poplarville, MS](/static/img/timeline/goldiesradiator/goldie-arrowheads-20170818.jpg)
