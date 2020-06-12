@@ -88,6 +88,13 @@ Short-lived band that actually toured around some. The spectacle was the thing w
 
 ---
 
+## Dirty Knives
+![Dirty Knives Greatest Hits, Vol. 2 LIVE!](/static/img/rock/dirtyknivesalbumcover.jpg)
+
+lots of recordings, very disorganized. Coming soon or at least someday.
+
+---
+
 ## The Innuendos
 
 ![The Innuendos: Joe Fusco, Jahna Rain, David Rhoden, NYC](/static/img/rock/innuendos960x640.jpg)
@@ -96,12 +103,16 @@ We did record some good stuff with Mitro Valsamis but I don't appear to have a c
 
 ---
 
-## Dirty Knives
-![Dirty Knives Greatest Hits, Vol. 2 LIVE!](/static/img/rock/dirtyknivesalbumcover.jpg)
+## Dark Marbles
 
-lots of recordings, very disorganized. Coming soon or at least someday.
+![Dark Marbles: David Rhoden, Mike Hueston, Dave DiBiasio, Yod Crewsy, NYC](/static/img/rock/dark-marbles-at-spiral-02.jpg)
+
+This was a pretty fun band that changed drummers all the time. We had a mix of originals (by Yod) and garagey covers. I was still very green as a player, so some of the guitar parts were too hard for me. Yod has written [a good history of the Dark Marbles](http://yodcrewsy.com/wordpress1/history/) many line-ups.
+
+Pictured: David Rhoden, Mike Hueston, Dave DiBiasio, Yod Crewsy
 
 ---
+
 
 ## Hi-Balls
 
