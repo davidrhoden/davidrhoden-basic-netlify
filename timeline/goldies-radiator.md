@@ -1,8 +1,8 @@
 ---
 title: Goldie's radiator blew up near Poplarville, MS.
 date: 2017-08-20T10:00:00.000Z
-summary: I still made it to my mom's the same day, just about six hours late.
-excerpt: I still made it to my mom's the same day, just about six hours late.
+summary: I still made it to my mom's the same day, just about eight hours late.
+excerpt: I still made it to my mom's the same day, just about eight hours late.
 image: /static/img/timeline/goldiesradiator/goldies-radiator-20170818.jpg
 tags:
   - post
@@ -45,7 +45,7 @@ I was enjoying all this but wished I had better wi-fi, or any wi-fi. The place, 
 
 Out back there was a junkyard, again, quite organized though still a junkyard. Bounding around on it were a half-dozen or so shiny black goats. These were like show goats, if that's a thing. Gorgeous ebony goats, just jumping around on the car hoods and roofs, bleating.
 
-Finally young Culpepper, the son, and owner of the establishment, arrived to answer all the questions. A man in his thirties. He was not there to work on any cars. He was wearing a starched white shirt. Sure enough, he did have plans for the stout sheet metal, and he would not come down on the rim. Everybody left, including Culpepper, so it was just the two women and me. The mechanic got back from O'Reilly's with the parts and started working on my truck. I think my phone was dead by then so I couldn't even tell my mom I was stuck.
+Finally Culpepper, the son, and owner of the establishment, arrived to answer all the questions. A young man, in his thirties. He was not there to work on any cars. He was wearing a starched white shirt. Sure enough, he did have plans for the stout sheet metal, and he would not come down on the rim. Everybody left, including Culpepper, so it was just the two women and me. The mechanic got back from O'Reilly's with the parts and started working on my truck. I think my phone was dead by then so I couldn't even tell my mom I was stuck.
 
 I walked out to the road. That's pretty much all Poplarville is, a road. There was a closed up building across the street, might have been a restaurant once. I could see in the distance a McDonald's. I think that was it.
 I waited several hours. I could see the mechanic through the window, he was a fast worker. It still takes a while to replace a whole radiator. Finally he came in. "All done," he said. "Wanna take it for a ride?" He talked like a decent-sized creek with a rocky bed. All the syllables flowed together. He was nearly impossible to understand. Never heard anything like it, can't really describe it. He probably felt the same about me.
