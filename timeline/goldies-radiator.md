@@ -28,7 +28,7 @@ The next morning I set out. When I had just got into Mississippi, the motor star
 
 I have roadside assistance with my car insurance, so I called, but they sent the closest tow truck from Picayune, 30 or 40 miles away. When the tow man picked me up, he took me and the truck to a place called Culpepper's, about a quarter mile away. I might have made it, if I had known this shop was there.
 
-Fortunately they were open and it wasn't too busy. They told me they could fix the truck today if O'Reilly's had a radiator in stock for a 1999 Ford Ranger, and they did. I just had to sit there and wait.
+Fortunately they were open and it wasn't too busy. They told me my radiator was done, it had a big hole in it, but they could fix the truck today if O'Reilly's had a radiator in stock for a 1999 Ford Ranger, and they did. I just had to sit there and wait.
 
 There were a couple of Southeast Asian guys there, waiting for the owner to come in because they wanted to dicker with him about the price of a rim for their minivan. One of the guys had on jeans with elaborate decorations on the back pockets. He was quiet except that he was watching videos on his phone at top volume. The other guy was really loud, and since he was just waiting too, he wanted to talk to everybody.
 
