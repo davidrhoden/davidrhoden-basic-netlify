@@ -21,3 +21,5 @@ tags:
 ![Hallowe'en on Grand Street](/static/img/timeline/halloween-grand-street-oct-30-2006.jpg "Hallowe'en on Grand Street")
 
 i had a great big ground floor apartment that used to be a 99 cent store. (One day an Asian grandma knocked on the door, demanding to come in and shop. She pointed at the sign, which was still there.) It was like a cave, mostly devoid of furniture. Great place for a band to play.
+
+![Hallowe'en on Grand Street, Dave and Doug](/static/img/timeline//static/img/timeline/meanddougwithbucket-oct-30-2006.jpg "Hallowe'en on Grand Street, Dave and Doug")

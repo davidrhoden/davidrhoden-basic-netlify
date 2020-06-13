@@ -15,6 +15,7 @@ tags:
   - sound effects
 
 ---
+I was blown away by this illustration of an old man in a sleeveless T with armpit hair trying to get our attention.
 
 ![Intro page from Don Martin Sound effects stickers](/static/img/timeline/soundefxp0.jpg "Intro page from Don Martin Sound effects stickers")
 
@@ -26,4 +27,4 @@ Mad magazine was a giant influence on my life. I particularly liked the art of D
 
 Don Martin had a personalized plate that said SHTOINK.
 
-![Don Martin Sound effects stickers: SHTOINK](/static/img/timeline/shtoink.jpg "Don Martin Sound effects stickers: SHOTINK")
+![Don Martin Sound effects stickers: SHTOINK](/static/img/timeline/shtoink.jpg "Don Martin Sound effects stickers: SHTOINK")
