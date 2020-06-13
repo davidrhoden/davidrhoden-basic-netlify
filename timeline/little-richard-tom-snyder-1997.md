@@ -10,7 +10,7 @@ tags:
   - rock
   - Little Richard
   - Tom Snyder
-  - Television
+  - television
 
 ---
 
