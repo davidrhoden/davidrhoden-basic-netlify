@@ -39,6 +39,14 @@ The Stacks set list, pretty much, but now with Texans.
 
 ---
 
+## Speedcrawler
+
+![Speedcrawler and other bands at Badlands, Austin May 13 2016 flyer](speedcrawler-badlands-may-13-2016.jpg "Speedcrawler and other bands at Badlands, Austin May 13 2016 flyer")
+
+Fun little band I was briefly the drummer of. We rehearsed a bunch but I think we just played three shows. We did misfits covers and unlikely country songs really fast. I liked it a lot. Honestly, the funnest tape I have of this band is when a friend of the bass player came to check us out "for a video he was shooting" and he was so high on Adderall he was like a comet. I have it somewhere.
+
+---
+
 ## Headless Hookers
 
 ![Headless Hookers at Passout Records](/static/img/rock/hehoaugust2007.jpg)
@@ -80,6 +88,8 @@ A really terrific band that started because I wanted to do some of Chan's song b
 
 Short-lived band that actually toured around some. The spectacle was the thing with this trio, but there's a recording somewhere. We're on a DVD somebody made called Blackbeard's Lost Weekend (part of a live show at The Cave in Chapel Hill, N.C.).
 
+Recently found more photos, will post soon.
+
 ---
 
 ## Sleepy Heads
@@ -91,7 +101,7 @@ Short-lived band that actually toured around some. The spectacle was the thing w
 ## Dirty Knives
 ![Dirty Knives Greatest Hits, Vol. 2 LIVE!](/static/img/rock/dirtyknivesalbumcover.jpg)
 
-lots of recordings, very disorganized. Coming soon or at least someday.
+Lots of recordings, very disorganized. Coming soon or at least someday.
 
 ---
 
@@ -113,6 +123,11 @@ Pictured: David Rhoden, Mike Hueston, Dave DiBiasio, Yod Crewsy
 
 ---
 
+## The Demands
+
+One show; we went to SXSW to play a daytine show on 6th Street. I was standing in for the regular guitarist, who couldn't make it. The bassist was also a stand-in, and he came from Holland, we literally met at the gig. I hope it was a good show. No recordings of me with this band but I will link to some.
+
+___
 
 ## Hi-Balls
 
