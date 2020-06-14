@@ -1,9 +1,10 @@
 _site/
 node_modules/
 support_files/
-/static/img to be added
+/static/img-to-be-added
 package-lock.json
 .DS_Store
+/pages/history.md
 
 # Local Netlify folder
 .netlify
