@@ -38,6 +38,10 @@ eleventyNavigation:
 
 ---
 
+![Rock poster design by David Rhoden](/static/img/rock/stacks-flyer-sutures-oct-8-2004.jpg)
+
+---
+
 ![Erine K-Doe Poster design by David Rhoden](/static/img/designs/KDOE2CSL.gif)
 
 ---
