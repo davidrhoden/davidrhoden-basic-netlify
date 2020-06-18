@@ -32,5 +32,3 @@ tags:
 ![Jimmy and The Wolfpack at Parkside Lounge, June 11, 2011](/static/rock/img/jandtwp-parkside-lounge-8-jun-13-2011.jpg "Jimmy and The Wolfpack at Parkside Lounge, June 11, 2011")
 
 ![Jimmy and The Wolfpack at Parkside Lounge, June 11, 2011](/static/rock/img/jandtwp-parkside-lounge-9-jun-13-2011.jpg "Jimmy and The Wolfpack at Parkside Lounge, June 11, 2011")
-
-![Jimmy and The Wolfpack at Parkside Lounge, June 11, 2011](/static/rock/img/jandtwp-parkside-lounge-10-jun-13-2011.jpg "Jimmy and The Wolfpack at Parkside Lounge, June 11, 2011")
