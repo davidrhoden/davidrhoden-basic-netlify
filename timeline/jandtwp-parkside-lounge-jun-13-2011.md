@@ -3,7 +3,7 @@ title: Jimmy and The Wolfpack played Parkside Lounge
 date: 2011-06-13T22:00:00.000Z
 summary: We liked playing anywhere with "lounge" in the name.
 excerpt: We liked playing anywhere with "lounge" in the name.
-image: /static/img/rock/jandtwp-parkside-lounge-10-jun-13-2011.jpg
+image: /static/img/rock/jandtwp-parkside-lounge-9-jun-13-2011.jpg
 tags:
   - post
   - rock
