@@ -6,7 +6,7 @@ summary: It was miserable. I made it a little bit fun though.
 image: /static/img/timeline/bettyjonote-aug-15-2005.jpg
 tags:
   - post 
-  - new Orleans
+  - New Orleans
   - law firms
   - my legal career
   - shit jobs
