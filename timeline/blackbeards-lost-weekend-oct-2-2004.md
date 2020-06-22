@@ -10,7 +10,7 @@ tags:
   - MAXIMVS!
   - Chapel Hill
   - The Cave
-  - "Blackbeard's Lost Weekend"
+  - Blackbeards Lost Weekend
   - Jeff Pounds
   - Trey Ledford
   - stories
