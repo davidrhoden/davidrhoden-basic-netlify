@@ -1,5 +1,5 @@
 ---
-title: dreamed: I worked in an ad agency housed in a ski chateau
+title: "dreamed: I worked in an ad agency housed in a ski chateau"
 date: 2012-08-02T23:00:00.000Z
 summary: I could do nothing right.
 excerpt: I could do nothing right.
