@@ -1,6 +1,6 @@
 ---
 title: MAXIMVS! played the Cave in Chapel Hill, North Carolina.
-date: 2005-08-15T15:00:00.000
+date: 2004-10-02T21:00:00.000
 excerpt: Part of a big fun fest called Blackbeard's Lost Weekend.  
 summary: Part of a big fun fest called Blackbeard's Lost Weekend. 
 image: /static/img/rock/caveshot1-oct-2-2004.jpg

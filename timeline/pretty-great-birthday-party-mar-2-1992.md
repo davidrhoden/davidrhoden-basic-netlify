@@ -2,7 +2,7 @@
 title: pretty great birthday party
 date: 1992-03-03T03:00:00.000Z
 summary: Marshal Andy sang to me about cowboy heaven.
-image: /static/img/timeline/marshall-andy.jpg
+image: /static/img/timeline/marshal-andy-mar-2-1992.jpg 
 tags:
   - post
   - parties 
@@ -13,7 +13,7 @@ tags:
 
 ---
 
-![Marshal Andy sang to me about cowboy heaven.](/static/img/timeline/marshal-andy-mar2-1992.jpg "Marshal Andy sang to me about cowboy heaven.")
+![Marshal Andy sang to me about cowboy heaven.](/static/img/timeline/marshal-andy-mar-2-1992.jpg "Marshal Andy sang to me about cowboy heaven.")
 
 Marshal Andy sang to me about cowboy heaven.
 
