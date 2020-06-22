@@ -186,6 +186,7 @@ Bsnd that played one show, at Williams College, in Williamstown, Massachusetts, 
 
 ## Dial A Miracle
 
+![Sam from Everything tool](/static/img/rock/dial-a-miracle.jpeg)
 Last year of high school. We released one 7" that I apparently don't have a copy of or even a picture of. It's very embarrassing so I know someone will force a copy on me.
 
 ---
