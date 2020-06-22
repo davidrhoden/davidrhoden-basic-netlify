@@ -23,7 +23,7 @@ We showed up for that gig kind of frustrated. The night before in Atlanta at the
 
 It's a long time from Atlanta to Chapel Hill but we arrived around dinner time. somebody brought barbecue and they fixed us plates. It was really nice. Trey got talking to a bubbly young woman who was laughing at his material. while they were standing there laughing and enjoying barbecue, she said, "looks like you got a little sauce here" and rubbed his face with her thumb right where the jail guy had busted his lip. It bled profuesly, or at least profusely enough to end that particular conversation.
 
-We played the show, it was fine, but I finally blew up at Jeff. I regret it to this day. I was mad at Jeff for several reasons, but I was _really_ mad at my ex-wife. I was taking it out on the closest person, somebody who never signed up for that. I shouldn't have done it and i'm sorry.
+We played the show, it was fine, but I finally blew up at Jeff. I regret it to this day. I was mad at Jeff for several reasons, but I was _really_ mad at my ex-wife. I was taking it out on the closest person, somebody who never signed up for that. I shouldn't have done it and I'm sorry.
 
 The band broke up that night and Jeff said he would take the bus home. We went to different after-show parties. Fortunately we did not leave Jeff there. We did have a quiet ride home.
 
