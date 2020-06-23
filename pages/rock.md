@@ -111,6 +111,14 @@ Lots of recordings, very disorganized. Coming soon or at least someday.
 
 We did record some good stuff with Mitro Valsamis but I don't appear to have a copy. (EDIT: Jahna sent me a copy and I'll link to it here soon!)
 
+<audio src="/static/audio/innuendos/01-All-I-Want.mp3" autobuffer autoloop loop controls></audio>
+
+<audio src="/static/audio/innuendos/02-I-Want-More.mp3" autobuffer autoloop loop controls></audio>
+
+<audio src="/static/audio/innuendos/04-Shut-Up-and-Kiss-Me.mp3" autobuffer autoloop loop controls></audio>
+
+<audio src="/static/audio/innuendos05-When-You-Comin Home.mp3" autobuffer autoloop loop controls></audio>
+
 ---
 
 ## Dark Marbles
@@ -118,6 +126,8 @@ We did record some good stuff with Mitro Valsamis but I don't appear to have a c
 ![Dark Marbles: David Rhoden, Mike Hueston, Dave DiBiasio, Yod Crewsy, NYC](/static/img/rock/dark-marbles-at-spiral-02-feb-12-1998.jpg)
 
 This was a pretty fun band that changed drummers all the time. We had a mix of originals (by Yod) and garagey covers. I was still very green as a player, so some of the guitar parts were too hard for me. Yod has written [a good history of the Dark Marbles](http://yodcrewsy.com/wordpress1/history/) many line-ups.
+
+I think I played five shows with this band. The first one, according to my day planner, was February 12, 1998.
 
 Pictured: David Rhoden, Mike Hueston, Dave DiBiasio, Yod Crewsy
 
@@ -168,6 +178,13 @@ Others who were in the band with me have taken umbrage at my telling of the tale
 I don't know what happened to Rick's version.
 
 ---
+
+## The Grudniks/The Railing Stains
+
+Pretty fun band where I was at first the most accompished musicican, which is a bad, basd sign. We played a show on a slippery floor where me and Ed Wright, the other guitarist, fell down repeatedly even though we were just trying to stand still. I left because Everything Tool had an out-of-town show that caused me to miss practice. An ultimatun was issued. I guess they were ready to forge ahead without me. This band became the Flying Polecats (without me).
+
+Surely no recordings or pictures exist.
+___
 
 ## Everything Tool
 
