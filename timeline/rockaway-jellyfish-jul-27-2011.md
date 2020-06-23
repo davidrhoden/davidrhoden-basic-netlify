@@ -15,4 +15,4 @@ tags:
 
 ![deadly jellyfish on rockaway beach (actually deflated mylar balloon)](/static/img/timeline/deadly-rockaway-jellyfish-jul-27-2011.jpg "deadly jellyfish on rockaway beach (actually deflated mylar balloon)")
 
-I've ridden bikes to Rockaway Beach a bunch of times. More than five. Less than twenty. it's a fun ride. Itt's fun to start early.
+I've ridden bikes to Rockaway Beach a bunch of times. More than five. Less than twenty. it's a fun ride. It's fun to start early.
