@@ -1,6 +1,6 @@
 ---
 title: first day at Sanders/Wingo
-date: 2-014-09-15T8:00:00.000Z
+date: 2014-09-15T8:00:00.000Z
 summary: I biked from the Motel 6 to my new job.
 excerpt: I biked from the Motel 6 to my new job.
 tags:
