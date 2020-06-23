@@ -14,6 +14,6 @@ tags:
 
 ---
 
-It was a little unexpected, though not totally. I had to get a bereavement fare to fly home. I spent some time with my cousins. my cousin cheryl told a phenomenal story about her and my grandfather which I'll write here later.
+It was a little unexpected, though not totally. I had to get a bereavement fare to fly home. I spent some time with my cousins. My cousin Cheryl told a phenomenal story about her and my grandfather which I'll write here later.
 
-The funeral was fine, though there was a small error. My grandfather's name was "Grady Lestoy Rhoden", and the preacher said his middle name as "Lester". Well, he was close. I'm not sure where "Lestoy" canme from anyway.
+The funeral was fine, though there was a small error. My grandfather's name was "Grady Lestoy Rhoden", and the preacher said his middle name as "Lester". Well, he was close. I'm not sure where "Lestoy" came from anyway.
