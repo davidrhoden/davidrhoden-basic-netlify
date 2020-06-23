@@ -115,7 +115,7 @@ We did record some good stuff with Mitro Valsamis but I don't appear to have a c
 
 ## Dark Marbles
 
-![Dark Marbles: David Rhoden, Mike Hueston, Dave DiBiasio, Yod Crewsy, NYC](/static/img/rock/dark-marbles-at-spiral-02.jpg)
+![Dark Marbles: David Rhoden, Mike Hueston, Dave DiBiasio, Yod Crewsy, NYC](/static/img/rock/dark-marbles-at-spiral-02-feb-12-1998.jpg)
 
 This was a pretty fun band that changed drummers all the time. We had a mix of originals (by Yod) and garagey covers. I was still very green as a player, so some of the guitar parts were too hard for me. Yod has written [a good history of the Dark Marbles](http://yodcrewsy.com/wordpress1/history/) many line-ups.
 
