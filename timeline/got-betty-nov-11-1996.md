@@ -36,8 +36,6 @@ And of course I felt like a sucker but what a good cat I got out of the deal.
 
 ![betty the cat](/static/img/betty/betty-2.jpg)
 
-![betty the cat](/static/img/betty/betty-3.jpg)
-
 ![betty the cat](/static/img/betty/betty-with-her-black-cat-toy.jpg)
 
 (I'll try to date these photos better.)
