@@ -7,7 +7,7 @@ image: /static/img/rock/chimpcard.jpg
 tags:
   - post 
   - rock
-  - Innuendos
+  - The Innuendos
   - Jahna Rain
   - Sara Essex
   - Scott Dennis
