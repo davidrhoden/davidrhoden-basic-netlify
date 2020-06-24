@@ -6,7 +6,7 @@ excerpt: I sort of made an ass of myself.
 tags:
   - post
   - rock
-  - Sluggo's
+  - Sluggos
   - Pensacola
   - The Stacks
   - Terry Johnston
