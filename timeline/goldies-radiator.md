@@ -1,34 +1,35 @@
 ---
 title: Goldie's radiator blew up near Poplarville, MS.
-date: 2017-08-20T10:00:00.000Z
-summary: I still made it to my mom's the same day, just about six hours late.
-excerpt: I still made it to my mom's the same day, just about six hours late.
+date: 2017-08-18T10:00:00.000Z
+summary: I still made it to my mom's the same day, just about eight hours late.
+excerpt: I still made it to my mom's the same day, just about eight hours late.
 image: /static/img/timeline/goldiesradiator/goldies-radiator-20170818.jpg
 tags:
   - post
   - Goldie
   - Mississippi
   - Poplarville
-  - Culpepper's
+  - Culpeppers
   - goats
   - car trouble
   - Chattanooga
   - road trips
+  - eclipses
   - stories
 
 ---
 
 I was driving to Chattanooga to hang out and watch the eclipse from there (99% coverage expected).
 
-I noticed my truck's A/C was cycling a lot and it seemed like it needed the refrigerant rechatrged. I looked around at YouTube and such to find out how to do it. I still wonder if maybe I did it wrong. I hooked the injector to one of the little pipes it fits on and added a can of R-134.
+I noticed my truck's A/C was cycling a lot and it seemed like it needed the refrigerant recharged. I looked around at YouTube and such to find out how to do it. I still wonder if maybe I did it wrong. I hooked the injector to one of the little pipes it fits on and added a can of R-134.
 
-The next morning I set out. When I had just got into Mississippi, the motor started to smell wrong and the temperature gauge swept up to the max. I had no idea if I would get stuck on the road, but I topped a hill and there was an exit for Poplarville, so I toook it. I had to stop at a stop sign and wait for a car to pass, then I turned left and pulled into a little 7-11 type store. By now steam was pouring out of the hood.
+The next morning I set out. When I had just got into Mississippi, the motor started to smell wrong and the temperature gauge swept up to the max. I had no idea if I would get stuck on the road, but I topped a hill and there was an exit for Poplarville, so I took it. I had to stop at a stop sign and wait for a car to pass, then I turned left and pulled into a little 7-11 type store. By now steam was pouring out of the hood.
 
 ![Goldie, post radiator explosion](/static/img/timeline/goldiesradiator/goldies-radiator-20170818.jpg)
 
 I have roadside assistance with my car insurance, so I called, but they sent the closest tow truck from Picayune, 30 or 40 miles away. When the tow man picked me up, he took me and the truck to a place called Culpepper's, about a quarter mile away. I might have made it, if I had known this shop was there.
 
-Fortunately they were open and it wasn't too busy. They told me they could fix the truck today if O'Reilly's had a radiator in stock for a 1999 Ford Ranger, and they did. I just had to sit there and wait.
+Fortunately they were open and it wasn't too busy. They told me my radiator was done, it had a big hole in it, but they could fix the truck today if O'Reilly's had a radiator in stock for a 1999 Ford Ranger, and they did. I just had to sit there and wait.
 
 There were a couple of Southeast Asian guys there, waiting for the owner to come in because they wanted to dicker with him about the price of a rim for their minivan. One of the guys had on jeans with elaborate decorations on the back pockets. He was quiet except that he was watching videos on his phone at top volume. The other guy was really loud, and since he was just waiting too, he wanted to talk to everybody.
 
@@ -36,16 +37,17 @@ There were a couple of Southeast Asian guys there, waiting for the owner to come
 
 Another guy in greasy overalls came in wanting to buy a long piece of stout sheet metal to fashion a sort of bumper for his cutting disc. He asked the well-dressed older woman behind the desk about it. She said, "You'll have to wait for my son to come in. He has a piece of metal that fits your description but he may not want to sell it. He may have other plans." The guy started talking about some long lost co-op that had once been in Poplarville that had dozens or hundreds of such pieces of metal all priced up and ready to go.
 
-"Yes, but that was in the era when people were known to fix things themselves, which is not the case today."
-I was enjoying all this but wished I had better wi-fi, or any wi-fi. The place, Culpepper's, was a neat operation, especially for a mechanic shop. The parts catalogs were neatly shelved. There were some drawings in frames on the walls. A left hand done in pencil, and a soldier's boot done in colored pencil. Nice work, probably from a high-schooler. Signed Culpepper. below these decorations was a vitrine full of arrowheads.
+"Yes, but that was in the era when people were known to fix things themselves, which is no longer the case today."
+
+I was enjoying all this but wished I had better wi-fi, or any wi-fi. The place, Culpepper's, was a neat operation, especially for a mechanic shop. The parts catalogs were neatly shelved. There were some drawings in frames on the walls. A left hand done in pencil, and a soldier's boot done in colored pencil. Nice work, probably from a high-schooler. Signed Culpepper. Below these decorations was a vitrine full of arrowheads.
 
 ![arrowheads in a vitrine at Culpepper's Automotive, Poplarville, MS](/static/img/timeline/goldiesradiator/goldie-arrowheads-20170818.jpg)
 
 ![arrowheads in a vitrine at Culpepper's Automotive, Poplarville, MS](/static/img/timeline/goldiesradiator/goldie-arrowheads2-20170818.jpg)
 
-Out back there was a junkyard, again, quite organized though still a junkyard. Bounding around on it were a half-dozen or so shiny black goats. These were like show goats, if that's a thing. just jumping around on the car hoods and roofs, bleating.
+Out back there was a junkyard, again, quite organized though still a junkyard. Bounding around on it were a half-dozen or so shiny black goats. These were like show goats, if that's a thing. Gorgeous ebony goats, just jumping around on the car hoods and roofs, bleating.
 
-Finally young Culpepper, the son, and owner of the establishment arrived to answer all the questions. He was not there to work on any cars. He was wearing a starched white shirt. Sure enough, he did have plans for the stout sheet metal, and he would not come down on the rim. Everybody left, including Culpepper, so it was just the two women and me. The mechanic got back from O'Reilly's and had started working on my truck. I think my phone was dead by then so I couldn't even tell my mom I was stuck.
+Finally Culpepper, the son, and owner of the establishment, arrived to answer all the questions. A young man, in his thirties. He was not there to work on any cars. He was wearing a starched white shirt. Sure enough, he did have plans for the stout sheet metal, and he would not come down on the rim. Questions answered, everybody left, including Culpepper, so it was just the two women and me. The mechanic got back from O'Reilly's with the parts and started working on my truck. I think my phone was dead by then so I couldn't even tell my mom I was stuck.
 
 I walked out to the road. That's pretty much all Poplarville is, a road. There was a closed up building across the street, might have been a restaurant once. I could see in the distance a McDonald's. I think that was it.
 I waited several hours. I could see the mechanic through the window, he was a fast worker. It still takes a while to replace a whole radiator. Finally he came in. "All done," he said. "Wanna take it for a ride?" He talked like a decent-sized creek with a rocky bed. All the syllables flowed together. He was nearly impossible to understand. Never heard anything like it, can't really describe it. He probably felt the same about me.
@@ -56,7 +58,7 @@ I waited several hours. I could see the mechanic through the window, he was a fa
 
 We drove on small roads with no signs. He pointed out one sharp turn. "Right there's where a lot of people leave the road." Nothing to do in Poplarville but drink and drive, on this road that didn't go anywhere, I guess.
 
-Amazingly, and I thank this mechanic and Culpepper's, the truck was ready to go. i had left New Orleans at 8 and it was now close to five, but I decided to try and go the eight and a half hours I had left to go.
+Amazingly, and I thank this mechanic and Culpepper's, the truck was ready to go. I had left New Orleans at eight and it was now close to five, but I decided to try and go the eight and a half hours I had left to go.
 
 ![Goldie, post radiator explosion](/static/img/timeline/goldiesradiator/goldie-coolant-20170818.jpg)
 
@@ -66,4 +68,4 @@ I did see the eclipse. Me and my mom went out in her backyard, nowhere special. 
 
 The crickets came out and the birds got quieter. And then the cloud moved. We could see the shadow of the moon moving across the disk of the sun. Street lights came on. It was night time, in the middle of the day. I've never seen anything like it.
 
-![Goldie, post radiator explosion](/static/img/timeline/goldiesradiator/eclipseglasses170820.jpg)
+![eclipse glasses](/static/img/timeline/goldiesradiator/eclipseglasses170820.jpg)

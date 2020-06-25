@@ -9,6 +9,7 @@ tags:
   - rock
   - picks
   - Avatar
+  - New Orleans
 
 ---
 

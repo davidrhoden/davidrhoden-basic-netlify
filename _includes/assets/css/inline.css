@@ -110,6 +110,18 @@ figcaption {
 	color: lightgray;
 }
 
+.pagination {
+	list-style: none;
+	margin: .5 em 0 0 0;
+	padding: 0;
+}
+
+.pagination li {
+	display: inline-block;
+	float: left;
+	padding: 0 .5em 0 0;
+}
+
 main {
 	padding-bottom: 2em;
 }
@@ -156,9 +168,15 @@ header nav li a[data-current="current item"] {
 }
 
 .mobile-menu {
-	display: inline-block;
+	display: flex;
 	float: right;
 	padding: 6px 0;
+	width: 320px;
+}
+
+
+.gcse-search {
+	display: inline-block;
 }
 
 .home footer {
@@ -271,12 +289,14 @@ ol {
   list-style: none;
   padding: 0;
 }
+
 ol li {
   margin: 2em 0;
   display: block;
   position: relative;
   counter-increment: inst;
 }
+
 ol li::before {
   content: counter(inst);
   color: white;
