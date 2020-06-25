@@ -168,9 +168,15 @@ header nav li a[data-current="current item"] {
 }
 
 .mobile-menu {
-	display: inline-block;
+	display: flex;
 	float: right;
 	padding: 6px 0;
+	width: 320px;
+}
+
+
+.gcse-search {
+	display: inline-block;
 }
 
 .home footer {
