@@ -1,9 +1,11 @@
 _site/
 node_modules/
 support_files/
-/static/img to be added
+/static/img-to-be-added
 package-lock.json
 .DS_Store
+/pages/history.md
+/timeline/we-opened-for-the-silos-1987.md
 
 # Local Netlify folder
 .netlify

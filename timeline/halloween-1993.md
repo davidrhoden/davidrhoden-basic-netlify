@@ -8,6 +8,8 @@ tags:
   - post 
   - photos 
   - costumes
+  - NYC
+  - Brooklyn
 
 ---
 

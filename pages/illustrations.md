@@ -2,8 +2,8 @@
 title: Illustrations
 date: 2020-04-12T00:00:00.000Z
 permalink: /illustrations/index.html
-navtitle: Illustrations
-bodyClass: "illustrations"
+excerpt: Illustrations by New Orleans illustrator David Rhoden. Need illustration in New Orleans? Contact me.
+image: https://davidrhoden.com/static/img/illustrations/harbo.jpg
 eleventyNavigation:
   key: Illustrations 
   order: 5
@@ -22,6 +22,11 @@ Jimmy and The Wolfpack.
 
 The Hi-Balls album sleeve.
 ![](/static/img/illustrations/coverLoveMusic.jpg?nf_resize=fit&w=640)
+
+---
+
+Album cover illustration for Talbot Adams.
+![Album cover design by David Rhoden](/static/img/designs/TalbotAdamsAlbum.jpg)
 
 ---
 
@@ -52,6 +57,11 @@ New Orleans tourists on a spooky tour for _Desire_ magazine.
 
 Illustration for an article on men's health issues for _Kingfish_ magazine.
 ![](/static/img/illustrations/pencilheart.jpg?nf_resize=fit&w=640)
+
+---
+
+Illustration for _Where Y'At?_ magazine.
+![](/static/img/illustrations/whereyat-cover-may-2004-1600.jpg?nf_resize=fit&w=640)
 
 ---
 

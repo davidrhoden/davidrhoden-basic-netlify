@@ -1,16 +1,29 @@
 ---
-layout: layouts/page.njk
+layout: layouts/page-with-contact-form.njk
 title: Web Design & Development
 date: 2020-04-12T00:00:00.000Z
 permalink: /web/index.html
+image: https://davidrhoden.com/static/img/web/ginasite.jpg
+excerpt: Web design and development by New Orleans web developer and designer David Rhoden. Now accepting freelance clients. 
 eleventyNavigation:
   key: Websites
   order: 8
-bodyClass: "web"
 
 ---
 
 ## 2020 - 2015 
+
+Web design and development by New Orleans web developer and designer David Rhoden. Now accepting freelance clients. [See the form at the bottom of this page.](#contact-form) I build sites in Wordpress, Craft CMS, and Eleventy (an excellent static site generator).
+
+Most recently I worked on:
+
+[Tapestry Linens](https://tapestrylinens.com) (with the team at Cerberus)
+[Midsouth Coatings](https://midsouthcoatings.com) (Cerberus)
+[Albasha Metairie](https://albashametairie.com) (Cerberus)
+[Sexton Biotechnologies](https://sextonbio.com) (with the team at Converse Digital)
+[Dixie Beer](https://dixiebeer.com) (with the team at Online Optimism)
+[Moxie Media](https://moxielearning.com) (Online Optimism)
+[The Tunica-Biloxi Tribe](https://tunicabiloxi.com) (Online Optimism)
 
 Gina Phillips (design and development)
 ![](/static/img/web/ginasite.jpg?nf_resize=fit&w=640)
@@ -21,13 +34,13 @@ Luke Spurr Allen/Happy Talk Band (design and development)
 Mike Edison (design and development)
 ![](/static/img/web/edison.jpg?nf_resize=fit&w=640)
 
-DBSTL (design and development, with the team at Sanders/Wingo)
+DBSTL timesheet reminder app (design and development, with the team at Sanders/Wingo)
 ![](/static/img/web/DBSTL.jpg?nf_resize=fit&w=640)
 
 AT&T: The Innovators (development, with the team at Sanders/Wingo)
 ![](/static/img/web/INNOVATORS.jpg?nf_resize=fit&w=640)
 
-Amber Sexton: Potographer/Photo Editor (design and development)
+Amber Sexton: Photographer/Photo Editor (design and development)
 ![](/static/img/web/ambersexton.jpg?nf_resize=fit&w=640)
 
 Hurray For The Riff Raff (design and development)
@@ -171,3 +184,12 @@ Frenchy (design and development)
 ![](/static/img/web/scrnfrenchy.jpg?nf_resize=fit&w=640)
 ![](/static/img/web/scrnfrenchy2.jpg?nf_resize=fit&w=640)
 ![](/static/img/web/scrnfrenchysite.jpg?nf_resize=fit&w=640)
+
+<div id="contact-form">
+
+<h1>Get in touch</h1>
+I build websites as a full-time job, but I also build sites for clients on a freelance basis.
+
+If you're shopping for a website for your business or project, please let me know by filling out the form below. If we're a match in terms of budget and interestingness of the project, let's talk.
+
+</div>

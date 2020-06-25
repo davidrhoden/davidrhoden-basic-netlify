@@ -1,5 +1,5 @@
 ---
-layout: layouts/post.njk
+layout: layouts/timeline-index.njk
 title: Timeline
 date: 2020-01-01
 permalink: "/timeline/{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber + 1 }}/{% endif %}index.html"

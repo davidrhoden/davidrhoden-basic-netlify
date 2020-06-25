@@ -4,10 +4,10 @@ title: Art For Sale
 date: 2020-04-24
 permalink: /forsale/index.html
 excerpt: These are the paintings and things I currently have for sale.
+image: https://davidrhoden.com/static/img/representative-paintings.jpg
 eleventyNavigation:
   key: Art For Sale
   order: 6
-bodyClass: "forsale"
 
 ---
 
@@ -42,11 +42,17 @@ Long Legs. $200.
 ![Keys painting by David Rhoden](/static/img/paintings/keys1200.jpg?nf_resize=fit&w=640)
 Keys. $200
 
-![Pink Face painting by David Rhoden](/static/img/paintings/pink-face.jpg?nf_resize=fit&w=640)
+![Pink Face painting by David Rhoden](/static/img/paintings/pink-face.jpg)
 Pink Face. $120
 
 ![Cloudmouths painting by David Rhoden](/static/img/paintings/cloudmouths.jpg?nf_resize=fit&w=640)
 Cloudmouths. $120
+
+![Inhaler on Paper by David Rhoden](/static/img/paintings/inhaler-on-paper.jpg)
+Inhaler on Paper. $100
+
+![Female Figure on Paper by David Rhoden](/static/img/paintings/female-figure-on-paper.jpg)
+Female Figure on Paper. $100
 
 ![Little People painting by David Rhoden](/static/img/paintings/little-people.jpg?nf_resize=fit&w=640)
 Little People. $40 each
@@ -54,5 +60,5 @@ Little People. $40 each
 ![Greenheads painting by David Rhoden](/static/img/paintings/greenheads.jpg?nf_resize=fit&w=640)
 Greenheads. $40
 
-![Blue Suit painting by David Rhoden](/static/img/paintings/smallbluesuit2.jpg?nf_resize=fit&w=640)
+![Blue Suit painting by David Rhoden](/static/img/paintings/smallbluesuit2.jpg)
 Blue suit. $40

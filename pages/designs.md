@@ -2,7 +2,8 @@
 title: Designs
 date: 2020-04-15T00:00:00.000Z
 permalink: /designs/index.html
-navtitle: Designs
+excerpt: Design work by New Orleans web and graphic designer David Rhoden.
+image: https://davidrhoden.com/static/img/designs/TalbotAdamsAlbum.jpg
 eleventyNavigation:
   key: Designs 
   order: 7
@@ -34,6 +35,10 @@ eleventyNavigation:
 ---
 
 ![T-shirt design by David Rhoden](/static/img/designs/Bottle-CapTeeTurquoise.jpg)
+
+---
+
+![Rock poster design by David Rhoden](/static/img/rock/stacks-flyer-sutures-oct-8-2004.jpg)
 
 ---
 

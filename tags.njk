@@ -7,13 +7,13 @@ pagination:
     - all
     - nav
     - post
-permalink: /tags/{{ tag }}/
+permalink: /tags/{{ tag | slug }}/
 layout: layouts/base.njk
 renderData:
-  title: "Tagged “{{ tag }}”"
+  title: {{ tag }}
 ---
 
-<h1>Tagged “{{ tag }}”</h1>
+<h1>{{ tag }}</h1>
 
 {% set postslist = collections[ tag ] %}
 {% include "components/postslist.njk" %}

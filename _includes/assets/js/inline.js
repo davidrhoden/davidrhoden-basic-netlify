@@ -18,8 +18,7 @@ $(document).ready(function(){
 });
 
 
-$(document).ready(
-  function() {
+$(document).ready(function() {
     var i = 0; 
     var imgs = $('.home main').children();
     runIt(imgs);

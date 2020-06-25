@@ -2,8 +2,9 @@
 title: Animations
 date: 2020-04-15T00:00:00.000Z
 permalink: /animations/index.html
+image: https://davidrhoden.com/static/img/animations/guytripping.gif
+excerpt: Digital and analog animations by New Orleans-based artist David Rhoden.
 navtitle: Animations
-bodyClass: "animations"
 eleventyNavigation:
   key: Animations 
   order: 5
@@ -15,6 +16,15 @@ eleventyNavigation:
 ---
 
 ![Yoyo animation by David Rhoden](/static/img/animations/160924_yoyo.gif)
+
+---
+
+<div style="width: 100%; text-align: center;">
+<video controls loop>
+  <source type="video/mp4" src="/static/img/animations/mp4s/Siberia-180929-640.mp4"></source>
+  <p>Your browser does not support the video element.</p>
+</video>
+</div>
 
 ---
 
@@ -39,6 +49,15 @@ eleventyNavigation:
 </div>
 
 ![Cochon de Lait animation by David Rhoden](/static/img/animations/cochondelait.gif)
+
+---
+
+<div style="width: 100%; text-align: center;">
+<video controls loop>
+  <source type="video/mp4" src="/static/img/animations/mp4s/StacksCircleBar.mp4"></source>
+  <p>Your browser does not support the video element.</p>
+</video>
+</div>
 
 ---
 

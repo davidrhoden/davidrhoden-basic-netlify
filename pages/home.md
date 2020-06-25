@@ -4,6 +4,7 @@ title: Home
 date: 2016-01-01T00:00:00.000Z
 permalink: /
 excerpt: Paintings, illustrations, animations, pointless scribbles, rude jokes, guitar playing and shouting, random observations, et cetera. Currently based in New Orleans, Louisiana.
+image: https://davidrhoden.com/static/img/rock/davedrummingatlakeside_sq.jpg
  
 ---
 
@@ -13,7 +14,7 @@ excerpt: Paintings, illustrations, animations, pointless scribbles, rude jokes, 
 
 ![aah guy illustration by David Rhoden](/static/img/sketchbook/aah-guy.jpg)
 
-![David Rhoden playing guitar at All-Night Movers house show, photo by Jeff Pounds](/static/img/rock/020727dave960.jpg)
+![David Rhoden playing guitar at All-Night Movers house show, photo by Jeff Pounds](/static/img/rock/anm-dave-020727.jpg)
  
 ![Bottle Cap Boy T-Shirt by David Rhoden](/static/img/designs/Bottle-CapTeeTurquoise.jpg)
 
