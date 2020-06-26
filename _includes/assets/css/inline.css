@@ -171,7 +171,6 @@ header nav li a[data-current="current item"] {
 	display: flex;
 	float: right;
 	padding: 6px 0;
-	width: 320px;
 }
 
 

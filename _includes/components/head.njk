@@ -16,11 +16,11 @@
     {% include "static/webfonts/ShadowGrotesque/stylesheet.css" %}
   {% endset %}
   <link href="https://fonts.googleapis.com/css?family=Inter:100,200,300,400,500,600,700,800,900&display=swap" rel="stylesheet">
-  <style>{{ css | cssmin | safe }}</style>
+  <style>{{ css | safe }}</style>
   {% set js %}
     {% include "assets/js/jquery.min.js" %}
     {% include "assets/js/inline.js" %}
   {% endset %}
-  <script>{{ js | jsmin | safe }}</script>
+  <script>{{ js | safe }}</script>
   {% seo "" %}
 </head>
