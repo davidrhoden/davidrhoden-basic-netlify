@@ -1,5 +1,5 @@
 ---
-title: Saw Bullet LaVolta and Lemonheads at Adams house Dining Hall
+title: Saw Bullet Lavolta and Lemonheads at Adams House Dining Hall
 date: 1987-04-18T20:00:00.000Z
 summary: Pretty big show to be on the Harvard Campus.
 excerpt: Pretty big show to be on the Harvard Campus.
@@ -16,10 +16,11 @@ tags:
 ---
 
 ![adams house doorway by @eriklon2](/static/img/timeline/bullet-lavolta-lemonheads-apr-23-1987.jpg "adams house doorway by @eriklon2")
+<<figcaption>Photo swiped from [@eriklon2](https://www.instagram.com/eriklon2/)</figcaption>
 
 I wonder if this was the same night I smacked into a glass wall vestibule on the Harvard campus, thinking it was air, and not glass. I bet it was the same night. I was looking for a pay phone.
 
-This was a fun show, there was a lot of buzz about Lemonheads. As I recall my housemates hated them but we were probably more there for Bullet LaVolta anyway.
+This was a fun show, there was a lot of buzz about Lemonheads. As I recall my housemates hated them but we were probably more there for Bullet Lavolta anyway.
 
 I have a memory of the evening that overshadows my memory of the show. My housemate Dave said if he could draw on this guy's jean jacket, this guy could draw something on his jacket. "his jacket" was an L.L. Bean duck hnting coat that was really comfortable and warm. I wore it all the time.
 
