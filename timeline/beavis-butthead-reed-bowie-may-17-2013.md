@@ -1,8 +1,8 @@
 ---
 title: I was just proud of this juxtaposition.
 date: 2013-05-17T20:00:00.000Z
-summary: 'I saw this pic of Reed and Bowie and thought \"I\'ve seen that somewhere before.\"'
-excerpt: 'I saw this pic of Reed and Bowie and thought \"I\'ve seen that somewhere before.\"'
+summary: I knew I had seen that same picture somewhere.
+excerpt: I knew I had seen that same picture somewhere.
 image: /static/img/timeline/beavis-butthead-reed-bowie-may-17-2013.jpg
 tags:
   - post 

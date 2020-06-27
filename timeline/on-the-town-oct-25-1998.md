@@ -3,7 +3,7 @@ title: I saw On The Town
 date: 1998-08-22T22:00:00.000Z
 image: /static/img/timeline/on-the-town-oct-25-1998.jpg
 summary: I also took a little trip to Mars.
-summary: I also took a little trip to Mars.
+excerpt: I also took a little trip to Mars.
 tags:
   - post 
   - NYC

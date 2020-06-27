@@ -3,7 +3,7 @@ title: started working at Online Optimism
 date: 1998-08-22T22:00:00.000Z
 image: /static/img/timeline/welcome-to-the-team-oct-22-2018.jpg
 summary: I was about twice as old as all the other kids there.
-summary: I was about twice as old as all the other kids there.
+excerpt: I was about twice as old as all the other kids there.
 tags:
   - post 
   - jobs
