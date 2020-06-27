@@ -55,6 +55,7 @@ eleventyNavigation:
 ![sketchbook entry by David Rhoden](/static/img/sketchbook/170417getupstandup.jpg?nf_resize=fit&w=960)
 ![sketchbook entry by David Rhoden](/static/img/sketchbook/mgsuit02.jpg?nf_resize=fit&w=960)
 ![sketchbook entry by David Rhoden](/static/img/sketchbook/mybuttmgsuit.jpg?nf_resize=fit&w=960)
+![Feelings sketchbook entry by David Rhoden](/static/img/sketchbook/feelings.jpg?nf_resize=fit&w=960)
 ![sketchbook entry by David Rhoden](/static/img/sketchbook/170327cannedsardines.png)
 ![Eatin Goober Peas sketchbook entry by David Rhoden](/static/img/sketchbook/180314eatingooberpeas.jpg)
 ![sketchbook entry by David Rhoden](/static/img/sketchbook/mrlollipop1200.jpg?nf_resize=fit&w=960)
