@@ -1,6 +1,6 @@
 ---
 title: Snake Oil played Gryphons with Swell
-date: 1987-04-18T22:00:00.000Z
+date: 1990-11-06T22:00:00.000Z
 summary: Gryphon's was the laundry where we practiced.
 excerpt: Gryphon's was the laundry where we practiced.
 image: /static/img/rock/snake-oil-swell-nov-6-1990.jpg
