@@ -17,4 +17,4 @@ tags:
 
 ![Everything Tool played with Abstracts at Cityside flyer](/static/img/rock/et-abstracts-cityside-mar-4-1988.jpg "Everything Tool played with Abstracts at Cityside flyer")
 
-I wish I could remember this show. I wonder if this is the one where the owner, Roland, let us in to set up, then said "Bye, boys, I'm going to have dinner with my boyfriend, soee you later" and we immediately started drinking straight from the tap (didn't want to mess up any glasses you know).
+I wish I could remember this show. I wonder if this is the one where the owner, Roland, let us in to set up, then said "Bye, boys, I'm going to have dinner with my boyfriend, see you later" and we immediately started drinking straight from the tap (didn't want to mess up any glasses you know).
