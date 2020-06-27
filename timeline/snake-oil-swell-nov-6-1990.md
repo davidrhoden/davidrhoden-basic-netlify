@@ -20,3 +20,5 @@ tags:
 ![Snake Oil flyer](/static/img/rock/snake-oil-swell-nov-6-1990.jpg "Snake Oil flyer")
 
 Too long ago to remember, but most of the Gryphon's shows were fun. Who was Swell?
+
+You can see that I xeroxed this alphabet, probably from a Dover book, and assembled this silliness by hand.
