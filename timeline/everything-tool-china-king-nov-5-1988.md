@@ -19,4 +19,4 @@ tags:
 
 I was so precious with my flyer making.
 
-Across the Yard was good, they were friends of ours. They were very jangly, but who wasn't back then. It was taken for granted. I think now they were probably highly influenced by the Miracle Legion record _The Backyard_ (we were too).
+Across the Yard was good, they were friends of ours. They were very jangly, but who wasn't back then. It was taken for granted. I think now they were probably highly influenced by the Miracle Legion record _The Backyard_, consciously or unconsciously (we were too).
