@@ -8,7 +8,7 @@ tags:
   - Mermaid Lounge
   - Dirty Knives
   - Immortal Lee County Killers
-  - "J.R.R. Tokin'"
+  - "J.R.R. Tokin"
 
 ---
 
