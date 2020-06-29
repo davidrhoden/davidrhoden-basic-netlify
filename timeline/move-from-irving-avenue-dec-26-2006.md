@@ -22,4 +22,4 @@ On my last day, I took a walk to knickerbocker Avenue through Maria Hernandez Pa
 
 Then when I was sitting in the empty box of an apartment, a guy opened my door and walked in. He also quickly walked out. I realized the guy, probably a junkie, that I had paid $20 to to help me move had swiped my key from the door and gave or sold it to this guy. I gave my landlord a hundred bucks to change the lock, a ridiculous amount. 
 
-![181 Irving Avenue, emptied out](/static/img/timeline/181-irving-back-to-front-oct31-2011.jpg "181 Irving Avenue, emptied out")
+![181 Irving Avenue, emptied out](/static/img/timeline/181-irving-back-to-front-oct-31-2011.jpg "181 Irving Avenue, emptied out")
