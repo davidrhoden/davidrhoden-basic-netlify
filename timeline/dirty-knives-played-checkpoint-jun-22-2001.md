@@ -10,4 +10,4 @@ tags:
 
 ---
 
-checkpoint's pays the bands fairly. They would print out the total bar and food sales made while you played, show you the printout, and give you 15% (?) of that amount.
+Checkpoint's pays the bands fairly. They would print out the total bar and food sales made while you played, show you the printout, and give you 15% (?) of that amount.

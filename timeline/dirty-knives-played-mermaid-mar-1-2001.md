@@ -9,4 +9,4 @@ tags:
   - Dirty Knives
 
 ---
-I remember this show vaguely. Around this time there were tons of bands doing "baroque opop", vaguely Kinks-y stuff with portable organs. Westbury Squares were practitioners.
+I remember this show vaguely. Around this time there were tons of bands doing "baroque pop", vaguely Kinks-y stuff with portable organs. Westbury Squares were practitioners.
