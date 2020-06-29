@@ -11,7 +11,7 @@ tags:
   - El Matador
   - Dirty Knives
   - Sugar Tank
-  - Dan haugh
+  - Dan Haugh
 
 ---
 
