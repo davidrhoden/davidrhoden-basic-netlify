@@ -1,6 +1,6 @@
 ---
 title: Dirty Knives played Mermaid Lounge with Westbury Squares
-date: 2001=03-01T22:00:00.000Z
+date: 2001-03-01T22:00:00.000Z
 tags:
   - post 
   - rock
