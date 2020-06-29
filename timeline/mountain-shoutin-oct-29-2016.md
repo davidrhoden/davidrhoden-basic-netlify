@@ -8,7 +8,7 @@ tags:
   - post 
   - rock
   - Austin
-  - Mountain Shoutin'
+  - Mountain Shoutin
   - Hunt Wellborn
   - Nathan Snyder
   - Andrew Kreitz
