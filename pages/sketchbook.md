@@ -63,7 +63,7 @@ eleventyNavigation:
 ![Blotchy Face sketchbook entry by David Rhoden](/static/img/sketchbook/blotchyface.jpg?nf_resize=fit&w=960)
 ![sketchbook entry by David Rhoden](/static/img/sketchbook/170326greenmanwithrecord600.jpg?nf_resize=fit&w=960)
 ![sketchbook entry by David Rhoden](/static/img/sketchbook/170324yeahso.png?nf_resize=fit&w=960)
-![Engineering sketchbook entry by David Rhoden](/static/img/sketchbook/180219engineering.jpg?nf_resize=fit&w=960)
+![Engineering sketchbook entry by David Rhoden](/static/img/sketchbook/engineering-feb-19-2018.jpg?nf_resize=fit&w=960)
 ![sketchbook entry by David Rhoden](/static/img/sketchbook/170321samething.png?nf_resize=fit&w=960)
 ![Back of a letter sketchbook entry by David Rhoden](/static/img/sketchbook/170321samething.png?nf_resize=fit&w=960)
 ![Whee sketchbook entry by David Rhoden](/static/img/sketchbook/170321whee.png?nf_resize=fit&w=960)
