@@ -16,6 +16,6 @@ tags:
 
 ![Dirty Knives at Dixie Taverne, June 10, 2002](/static/img/rock/sweating-lefty-jun-10-2002.jpg "Dirty Knives at Dixie Taverne, June 10, 2002")
 
-I mean, they probably _had_ air conditioning, but like at the Circle Bar, it wasn't quite up to the task, given the 8heat* we were puttin' out.
+I mean, they probably _had_ air conditioning, but like at the Circle Bar, it wasn't quite up to the task, given the *heat* we were puttin' out.
 
 Date based on the picture's file name, can't verify.

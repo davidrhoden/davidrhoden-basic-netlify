@@ -12,4 +12,4 @@ tags:
 
 ---
 
-Jamie Barrier's bands always bring the show. (His other band is Pine Hill Haints.) at this one, the guitar player hung upside down from a pipe or beam close to the ceiling. Change rained down on the tiled floor.
+Jamie Barrier's bands always bring the show. (His other band is Pine Hill Haints.) At this one, the guitar player hung upside down from a pipe or beam close to the ceiling. Change rained down on the tiled floor.
