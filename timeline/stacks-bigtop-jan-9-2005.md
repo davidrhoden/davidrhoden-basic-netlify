@@ -13,4 +13,4 @@ tags:
 
 ---
 
-![Stacks at Big Top](/static/img/rock/stacks-at-big-top-jan-9-2005?.jpg "Stacks at Big Top")
+![Stacks at Big Top](/static/img/rock/stacks-at-big-top-jan-9-2005.jpg "Stacks at Big Top")
