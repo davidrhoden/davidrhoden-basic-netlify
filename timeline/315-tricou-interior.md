@@ -15,4 +15,4 @@ tags:
 
 I guess it's dumb to show pictures of your belongings but I got robbed a couple of weeks after this was taken so, if you're casing the place: too late! 
 
-I just wanted to compare it with [this apartment](/timeline/532-pacific-street-brooklyn/). I thought i had grown up.
+I just wanted to compare it with [this apartment](/timeline/532-pacific-street-brooklyn/). I thought I had grown up.
