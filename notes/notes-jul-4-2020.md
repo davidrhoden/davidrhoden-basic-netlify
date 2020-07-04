@@ -6,10 +6,10 @@ excerpt: The Pandemic Reboot Independence Day Edition
 image: /static/img/notes/milton-glaser-lightnin.jpg
 tags:
   - note 
-  - tests
   - Milton Glaser
   - Grand Theft Auto IV
   - static site generators
+  - Eleventy
   - Wordpress
   - Gina Phillips
 
