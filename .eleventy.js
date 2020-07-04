@@ -1,6 +1,6 @@
 const { DateTime } = require("luxon");
-const CleanCSS = require("clean-css");
-const UglifyJS = require("uglify-es");
+// const CleanCSS = require("clean-css");
+// const UglifyJS = require("uglify-es");
 const htmlmin = require("html-minifier");
 const slugify = require("slugify");
 const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
@@ -71,6 +71,21 @@ module.exports = function(eleventyConfig) {
 
     return coll;
   });
+
+  eleventyConfig.addCollection("notes", function(collection) {
+    const allNotes = collection.getFilteredByTag("note");
+
+    for(let i = 0; i < allNotes.length ; i++) {
+      const prevNote = allNotes[i-1];
+      const nextNote = allNotes[i + 1];
+
+      allNotes[i].data["prevNote"] = prevNote;
+      allNotes[i].data["nextNote"] = nextNote;
+    }
+
+    return allNotes;
+  });
+
 
   // eleventyConfig.addCollection("years", function(collection) {
   //   const yr = collection.getFilteredByDate("2020");

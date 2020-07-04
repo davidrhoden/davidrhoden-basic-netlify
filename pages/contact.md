@@ -7,7 +7,7 @@ excerpt: "Contact me about your website or illustration project. Or join my mail
 image: https://davidrhoden.com/static/img/rock/jawpdaviddrumminglakeside.jpg
 eleventyNavigation:
   key: Get in touch
-  order: 13
+  order: 14
 
 ---
 

@@ -55,6 +55,12 @@ We did one terrific recording with Daniel Rey (Ramones producer, member of The M
 
 ---
 
+## Shocks & Struts/"The Benny Band"
+
+Fun band I played drums in with "Benny" (real name Mark) and Kelly Vaughn (now Kelly Vaughn-Kaufmann). We just played one show at a miserble club called 169 Bar and it was a disaster. The stacks song "I'm Wild" came out of a jam at one of our rehearsals.
+
+---
+
 ## All-Night Movers
 
 ![All-Night Movers: Slade Nash, David Rhoden](/static/img/rock/anm-cover-020803.jpg)
