@@ -36,7 +36,7 @@ Gina Phillips is doing a series of videos in anticipation of her upcoming show a
 <iframe src="https://player.vimeo.com/video/435159386" width="100%" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/435159386">Gina Phillips, Studio Tour and Preview of New Work</a> from <a href="https://vimeo.com/user71528475">Gina Phillips</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
-Bonus: a film about Gina's work from 2012.
+Bonus: a short (3min) film about Gina's work from 2012.
 
 <iframe src="https://player.vimeo.com/video/43581013?color=f0f6f7&title=0&byline=0&portrait=0" width="100%" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/43581013">Gina Phillips - portrait work</a> from <a href="https://vimeo.com/spyboymedia">Spyboy Media, LLC.</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
