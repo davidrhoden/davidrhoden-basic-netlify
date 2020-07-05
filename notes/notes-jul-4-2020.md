@@ -1,5 +1,5 @@
 ---
-title: What's interesting right now?
+title: What's happening right now?
 date: 2020-07-04T10:00:00.000Z
 summary: The Pandemic Reboot Independence Day Edition
 excerpt: The Pandemic Reboot Independence Day Edition
