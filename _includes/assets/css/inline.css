@@ -391,7 +391,7 @@ ol li::before {
 	header nav li {
 		display: block;
 		margin: 0;
-		padding: 1em 0;
+		padding: 1em 0 1em 10vw;
 	}
 
 	header nav li a {
