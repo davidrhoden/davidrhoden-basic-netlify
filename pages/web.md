@@ -3,7 +3,7 @@ layout: layouts/page-with-contact-form.njk
 title: Web Design & Development
 date: 2020-04-12T00:00:00.000Z
 permalink: /web/index.html
-image: https://davidrhoden.com/static/img/web/ginasite.jpg
+image: /static/img/web/ginasite.jpg
 excerpt: Web design and development by New Orleans web developer and designer David Rhoden. Now accepting freelance clients. 
 eleventyNavigation:
   key: Websites

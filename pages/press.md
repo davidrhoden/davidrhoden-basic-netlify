@@ -3,6 +3,7 @@ title: Press
 date: 2020-05-02T00:00:00.000Z
 permalink: /press/index.html
 excerpt: Every once in a while, _The New York Times_ or _The Washington Post_ want to talk to me. It usually has to do with something I don't know that much about.
+summary: Every once in a while, _The New York Times_ or _The Washington Post_ want to talk to me. It usually has to do with something I don't know that much about.
 eleventyNavigation:
   key: Press
   order: 10
