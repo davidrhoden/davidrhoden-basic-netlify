@@ -2,6 +2,9 @@
 layout: layouts/notes-index.njk
 title: Notes/Now
 date: 2020-07-01
+excerpt: "notes about what's on my mind at this particular moment."
+summary: "Notes about what's on my mind at this particular moment."
+image: https://davidrhoden.com/static/img/illustrations/harbo.jpg
 permalink: "/notes/{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber + 1 }}/{% endif %}index.html"
 pagination:
   data: collections.note
@@ -24,7 +27,7 @@ I still get frustrated working on drag-and-drop Wordpress sites and stuff like t
 
 I will immediately add that I don't work that way when it's up to me. I like building for simplicity and ease of use, and client satisfaction. (That's why my site looks like it does: no "bells and whistles". Just _content_.) But my happiness and satisfaction don't always result in recurring billable hours. So I'm trying to also enjoy working on the sites that have complexity for the sake of complexity. They're good for my bank account.
 
-I'm not talking about Wordpress in general. Wordpress is good, if you need what it offers. Many sites that use Wordpress don't need what it offers, so it's kind of a waste for them. I'm talking mostly about drag-and-drop frameworks like WP Bakery (formerly Visual Composer) and X Theme that claim to make Wordpress development "a breeze--no coding necessary!" That claim is never true in my experience. These kinds of sites end up costing their adopters way more than a more simple site with some basic coding would.
+I'm not talking about Wordpress in general. Wordpress is good, if you need what it offers. Many sites that use Wordpress don't need what it offers, so it's kind of a waste for them. I'm talking mostly about drag-and-drop frameworks like WP Bakery (formerly Visual Composer) and X Theme that claim to make Wordpress development "a breeze--no coding necessary!" That claim is never true in my experience. These kinds of sites end up costing their adopters way more than a more simple site with some basic coding would. I'm happy to fix them, though.
 
 ---
 
