@@ -16,7 +16,7 @@ renderData:
 <h1>{{ tag }}</h1>
 
 {% set postslist = collections[ tag ] %}
-{% include "components/postslist.njk" %}
+{% include "components/tagslist.njk" %}
 
 <nav>
   <a href="{{ '/timeline/' | url }}">← Timeline index</a>
