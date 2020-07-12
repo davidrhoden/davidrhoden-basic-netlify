@@ -17,6 +17,6 @@ tags:
 
 I paid $600 plus a painting, so depending on how you value the painting I paid $800 or $1000 for the truck.
 
-I had to clean a literal truckload of networking gear out of the bed so i could move my stuff in it. it was still a great deal.
+I had to clean a literal truckload of networking gear out of the bed so I could move my stuff in it. It was still a great deal.
 
 I still have it in 2020, running well, though a lot of repair has gone into it. Also about 30,000 miles.
