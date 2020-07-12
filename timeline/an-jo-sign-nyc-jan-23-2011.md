@@ -14,4 +14,4 @@ tags:
 
 ![dilapidated ArJo Printing sign](/static/img/timeline/an-jo-sign-nyc-jan-23-2011.jpg "dilapidated ArJo Printing sign")
 
-Looks like things are tough for ArJo Printing. this wasn't such a bad era for signage but the upkeep is prohibitive.
+Looks like things are tough for ArJo Printing. This wasn't such a bad era for signage but the upkeep is prohibitive.
