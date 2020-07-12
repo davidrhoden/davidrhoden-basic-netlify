@@ -33,4 +33,4 @@ I had a great big ground floor apartment that used to be a 99 cent store. (One d
 
 ![Hallowe'en on Grand Street, Dave and Valerie](/static/img/timeline//static/img/timeline/withval.jpg "Hallowe'en on Grand Street, Dave and Valerie")
 
-![Hallowe'en on Grand Street, Dave and Doug](/static/img/timeline//static/img/timeline/meanddougwithbocket-oct-30-2006.jpg "Hallowe'en on Grand Street, Dave and Doug")
+![Hallowe'en on Grand Street, Dave and Doug](/static/img/timeline//static/img/timeline/meanddougwithbucket-oct-30-2006.jpg "Hallowe'en on Grand Street, Dave and Doug")
