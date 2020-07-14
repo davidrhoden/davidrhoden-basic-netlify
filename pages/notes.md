@@ -4,7 +4,7 @@ title: Notes/Now
 date: 2020-07-01
 excerpt: "notes about what's on my mind at this particular moment."
 summary: "Notes about what's on my mind at this particular moment."
-image: /static/img/sketchbook/oh-my-jul-12-2020.jpg
+image: /static/img/sketchbook/buddy-in-box-may-21-2020.jpg
 permalink: "/notes/{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber + 1 }}/{% endif %}index.html"
 pagination:
   data: collections.note
@@ -17,20 +17,23 @@ eleventyNavigation:
 
 ---
 
-## oh my (and notes on Grand Theft Auto IV)
+## A mystery is solved
 
-July 12, 2020
+July 14, 2020
 
-![Oh My sketch by David Rhoden](/static/img/sketchbook/oh-my-jul-12-2020.jpg "Oh My sketch by David Rhoden")
-<figcaption>Oh My sketch by David Rhoden</figcaption>
+A few weeks ago I was working from home and was interrupted and bothered because my neighbor (from the house behind me) was out in the road yelling "Cuddles! Cuddles! Mr. Cuddles!" for quite a while. She has a lot of dogs and I figured one got out and went missing.
 
-I'm doing all right, despite the pandemic. I am okay not seeing too many people. Saving money, I guess.
+Yesterday afternoon I was out in the back yard talking one the phone and she started doing it again, over the back fence this time, even though she could see I was right there, talking on the phone. But this time, she was saying it to my cat.
 
-Obviously not playing any shows, but how many shows was I playing before? Not many. The Stacks did finish our recordings we started (on the day before the quarantine went into effect) with Andre Marquette, which is good, because he moved to San Antonio, Texas, and now we don't have a drummer or a recording enginner either.
+That's right: BUDDY IS MR. CUDDLES. I thought he was a lost cat that someone had dumped over here to get rid of him. But no, he belonged to somebody and he was no more than 20 years from his actual home. He just liked it over here better. Who would want to live with six dogs? (Don't answer.)
 
-I'm getting better at Grand Theft Auto IV. Still can't finish the mission "Hung Out To Dry" but I've been taking a lot of cab fares, so I'm getting better at driving and changing the radio station without thinking. I think maybe I need to be using the view where the camera is outside of the car....
+I said, perhaps too eagerly, "Do you want him back?" Buddy himself made no move to return home. She said she didn't think he'd come back now, what with the six dogs. I agreed that it was fine for him to stay here and live with me. He's been here since October according to my official historian, Gina.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iEyaUdjOVEY?start=66" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+The neighbor said she had taken him as a favor to his original owner and that he is a very sweet cat. "He's sweet but he bites," I said. "Did he not bite you?" She said no, he bites anybody, and the original owner had given him to her after getting a bite from "Cuddles" that turned into sepsis. What a future I'm looking forwward to!
+
+When he's not biting, he is a very sweet cat.
+
+![buddy in a box](/static/img/sketchbook/buddy-in-box-may-21-2020.jpg "buddy in a box")
 
 ---
 

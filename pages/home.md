@@ -3,8 +3,8 @@ layout: layouts/home.njk
 title: Home
 date: 2016-01-01T00:00:00.000Z
 permalink: /
-excerpt: Paintings, illustrations, animations, pointless scribbles, guitar playing and shouting, web stuff, random observations, et cetera. Currently based in New Orleans, Louisiana.
-summary: Paintings, illustrations, animations, pointless scribbles, guitar playing and shouting, web stuff, random observations, et cetera. Currently based in New Orleans, Louisiana.
+excerpt: Paintings, illustrations, animations, scribbles, guitar playing and shouting, web stuff, random observations, et cetera. Currently based in New Orleans, Louisiana.
+summary: Paintings, illustrations, animations, scribbles, guitar playing and shouting, web stuff, random observations, et cetera. Currently based in New Orleans, Louisiana.
 image: /static/img/rock/davedrummingatlakeside_sq.jpg
  
 ---
