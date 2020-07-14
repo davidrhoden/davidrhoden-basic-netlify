@@ -1,9 +1,9 @@
 ---
 title: A mystery is solved
-date: 2018-04-19T11:00:00.000Z
-summary: I moved to the Ninth Ward. Most of my pictures from this time are out of focus.
-excerpt: I moved to the Ninth Ward. Most of my pictures from this time are out of focus.
-image: /static/img/timeline/315-tricou-20180419.jpg
+date: 2020-07-13T11:17:00.000Z
+summary: My neighbor's odd behavior is explained, but it's more than that.
+excerpt: My neighbor's odd behavior is explained, but it's more than that.
+image: /static/img/buddy/buddy-in-box-may-21-2020.jpg
 tags:
   - post 
   - New Orleans
