@@ -1,6 +1,6 @@
 ---
 title: oh my (and notes on Grand Theft Auto IV)
-date: 2020-07-02T10:00:00.000Z
+date: 2020-07-12T10:00:00.000Z
 summary: I'm doing all right, despite the pandemic. I am okay not seeing too many people. Saving money, I guess.
 excerpt: I'm doing all right, despite the pandemic. I am okay not seeing too many people. Saving money, I guess.
 image: /static/img/sketchbook/oh-my-jul-12-2020.jpg

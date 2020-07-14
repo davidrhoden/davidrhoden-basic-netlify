@@ -4,7 +4,7 @@ title: Notes/Now
 date: 2020-07-01
 excerpt: "notes about what's on my mind at this particular moment."
 summary: "Notes about what's on my mind at this particular moment."
-image: /static/img/sketchbook/buddy-in-box-may-21-2020.jpg
+image: /static/img/buddy/buddy-in-box-may-21-2020.jpg
 permalink: "/notes/{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber + 1 }}/{% endif %}index.html"
 pagination:
   data: collections.note
@@ -33,7 +33,7 @@ The neighbor said she had taken him as a favor to his original owner and that he
 
 When he's not biting, he is a very sweet cat.
 
-![buddy in a box](/static/img/sketchbook/buddy-in-box-may-21-2020.jpg "buddy in a box")
+![buddy in a box](/static/img/buddy/buddy-in-box-may-21-2020.jpg "buddy in a box")
 
 ---
 
