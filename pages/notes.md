@@ -21,11 +21,11 @@ eleventyNavigation:
 
 July 14, 2020
 
-A few weeks ago I was working from home and was interrupted and bothered because my neighbor (from the house behind me) was out in the road yelling "Cuddles! Cuddles! Mr. Cuddles!" for quite a while. She has a lot of dogs and I figured one got out and went missing.
+A few weeks ago I was working from home and was interrupted and bothered because my neighbor (from the house behind me) was out in the road yelling "Cuddles! Cuddles! Mr. Cuddles!" for quite a while. She has a lot of dogs and I figured one got out.
 
-Yesterday afternoon I was out in the back yard talking one the phone and she started doing it again, over the back fence this time, even though she could see I was right there, talking on the phone. But this time, she was saying it to my cat.
+Yesterday afternoon I was out in the back yard talking on the phone and she started doing it again, over the back fence this time, even though she could see I was right there, talking on the phone. But this time, she was saying it to my cat.
 
-That's right: BUDDY IS MR. CUDDLES. I thought he was a lost cat that someone had dumped over here to get rid of him. But no, he belonged to somebody and he was no more than 10 yards from his actual home. He just liked it over here better. Who would want to live with six dogs? (Don't answer.)
+That's right, you guessed it: BUDDY IS MR. CUDDLES. I thought he was a lost cat that someone had dumped over here to get rid of him. But no, he belonged to somebody and he was no more than 10 yards from his actual home. He just liked it over here better. Who would want to live in a little house with six dogs? (Don't answer.)
 
 I said, perhaps too eagerly, "Do you want him back?" Buddy himself made no move to return home. She said she didn't think he'd come back now, what with the six dogs. I agreed that it was fine for him to stay here and live with me. He's been here since October according to my official historian, Gina.
 
