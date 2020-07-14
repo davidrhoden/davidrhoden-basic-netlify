@@ -13,10 +13,6 @@ tags:
 
 ---
 
-## oh my (and notes on Grand Theft Auto IV)
-
-July 12, 2020
-
 ![Oh My sketch by David Rhoden](/static/img/sketchbook/oh-my-jul-12-2020.jpg "Oh My sketch by David Rhoden")
 <figcaption>Oh My sketch by David Rhoden</figcaption>
 
