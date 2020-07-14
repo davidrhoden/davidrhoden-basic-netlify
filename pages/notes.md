@@ -2,8 +2,8 @@
 layout: layouts/notes-index.njk
 title: Notes/Now
 date: 2020-07-01
-excerpt: "notes about what's on my mind at this particular moment."
-summary: "Notes about what's on my mind at this particular moment."
+excerpt: "Notes about what's on my mind at this particular moment. Today: A mystery is solved."
+summary: "Notes about what's on my mind at this particular moment. Today: A mystery is solved."
 image: /static/img/buddy/buddy-in-box-may-21-2020.jpg
 permalink: "/notes/{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber + 1 }}/{% endif %}index.html"
 pagination:
