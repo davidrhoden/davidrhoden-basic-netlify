@@ -19,9 +19,9 @@ It was my fortieth birthday. I was living in Brooklyn, but I had come back to Ne
 
 I walked down the sidewalk toward the Taylor building to take it but I didn't get too far. I don't remember who was on the phone, but this barrel-shaped man standing by his car with the trunk open started yelling at me. He was wearing a yellow sweatshirt with a Batman emblem on the front.
 
-I tried to wave him off but he kept yelling. so I said "what??!?"
+I tried to wave him off but he kept yelling. So I said "what??!?"
 
-"Can you get out of here, I'm trying to use my two-way radio, and you're interfering with my signal." Was he talking about something real? I didn't know what he was talking about. I waved him off again.
+"Can you get out of here? I'm trying to use my two-way radio! You're interfering with my signal." Was he talking about something real? I didn't know what he was talking about. I waved him off again.
 
 "Forget it, I was here first," I said. A second later he was all over me. Taking big sweaty roundhouse swings, and connecting with my face every time. I was trying to get my phone folded up and put away, and this little beer barrel of a guy was beating the tar out of me. He had me up against the fence, just swinging away. I didn't get a punch in. His friend came from somewhere and pulled him off of me. "What the fuck are you doing?" the friend said. "You're gonna get the cops called on us." They shut the trunk and sped off. I guess they'd have to chat with Commissioner Gordon another time.
 
