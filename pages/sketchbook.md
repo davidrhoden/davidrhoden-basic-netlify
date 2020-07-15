@@ -35,6 +35,7 @@ eleventyNavigation:
 ![Right On sketchbook entry by David Rhoden](/static/img/sketchbook/RightOn190930.jpg?nf_resize=fit&w=960)
 ![sketchbook entry by David Rhoden](/static/img/sketchbook/yuhhuh190928.jpg?nf_resize=fit&w=960)
 ![sketchbook entry by David Rhoden](/static/img/sketchbook/mostwomenagree.jpg?nf_resize=fit&w=960)
+![sketchbook entry by David Rhoden](/static/img/sketchbook/little-happy-alien.jpg?nf_resize=fit&w=960)
 ![sketchbook entry by David Rhoden](/static/img/sketchbook/dandyhighwayman.jpg?nf_resize=fit&w=960)
 ![sketchbook entry by David Rhoden](/static/img/sketchbook/returnmemyship.jpeg?nf_resize=fit&w=960)
 ![Eatin Spam sketchbook entry by David Rhoden](/static/img/sketchbook/eatinspam.jpg?nf_resize=fit&w=960)
