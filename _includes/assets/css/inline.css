@@ -212,6 +212,10 @@ main img.thumbnail {
 	width: 160px;
 }
 
+main img.tiny-thumbnail {
+	width: 32px;
+}
+
 /* Post Tags */
 a[rel="tag"],
 a[rel="tag"]:visited {
@@ -366,6 +370,10 @@ ol li::before {
 
 	.flex {
 		display: flex;
+	}
+
+	.flex-wrap {
+		flex-wrap: wrap;
 	}
 
 	.align-items-center {
