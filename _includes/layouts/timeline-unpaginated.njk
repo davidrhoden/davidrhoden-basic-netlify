@@ -3,8 +3,10 @@ layout: layouts/base.njk
 section: timeline-unpaginated
 ---
 
+{{ layoutContent | safe }}
+
 <article class="flex flex-wrap">
-{% for year, posts in collections.post | groupby("post.data.date.year") %}
+{% for year, posts in collections.post | groupby("date.year") %}
   justYear: {{ date | justYear }},
   date.year: {{ date.year }},
   year: {{ year }}:
