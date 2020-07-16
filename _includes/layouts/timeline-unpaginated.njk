@@ -4,9 +4,9 @@ section: timeline-unpaginated
 ---
 
 <article class="flex flex-wrap">
-{% for year, posts in posts | groupby("date.year") %}
+{% for year, posts in posts | groupby("date.year.value") %}
   justYear: {{ date | justYear }},
-  date.year: {{ date.year }},
+  date.year: {{ date.year.value }},
   year: {{ year }}:
   {% for post in posts %}
     <div class="left">
