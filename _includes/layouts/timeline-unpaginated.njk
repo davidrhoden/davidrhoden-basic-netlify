@@ -4,8 +4,6 @@ section: timeline-unpaginated
 
 ---
 
-{{ layoutContent | safe }}
-
 <article class="flex flex-wrap">
 {% for year, posts in posts | groupby("date.year") %}
   justYear: {{ date | justYear }},
