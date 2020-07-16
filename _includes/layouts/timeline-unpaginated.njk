@@ -4,7 +4,7 @@ section: timeline-unpaginated
 ---
 
 <article class="flex flex-wrap">
-{% for year, posts in posts | groupby("post.data.date.year") %}
+{% for year, posts in collections.post | groupby("post.data.date.year") %}
   justYear: {{ date | justYear }},
   date.year: {{ date.year }},
   year: {{ year }}:
