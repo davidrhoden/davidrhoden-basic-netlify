@@ -11,20 +11,11 @@ section: timeline-unpaginated
   {% for post in posts %}
     <div class="left">
       <a href="{{ post.url | url }}">
-        {% if post.data.image %}<img class="tiny-thumbnail" src="{{ post.data.image }}?nf_resize=smartcrop&h=32&w=32">{% endif %}
-      </a>
-    </div>
-    <div>
-    <h3>
-      <a href="{{ post.url | url }}">
-        {% if post.data.title %}
-          {# post.data.title #}
-        {% else %}
-          Untitled
+        {% if post.data.image %}
+        <img class="tiny-thumbnail" src="{{ post.data.image }}?nf_resize=smartcrop&h=32&w=32">
         {% endif %}
       </a>
-    </h3>
-  </div>
+    </div>
   {% endfor %}
   {{ date | justYear }} year end
 {% endfor %}
