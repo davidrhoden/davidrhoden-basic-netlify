@@ -17,4 +17,4 @@ tags:
 
 I'm not usually a ticket stub keeper but this one made it into my vault.
 
-Somebody's Flickr archive: ![Flickr archive by eatsdirt of the Friday, October 30, 2009 performance of Future of the Left at Music Hall of Williamsburg in Brooklyn, NY.](https://www.flickr.com/photos/eatsdirt/sets/72157622577992389/ "Flickr archive by eatsdirt of the Friday, October 30, 2009 performance of Future of the Left at Music Hall of Williamsburg in Brooklyn, NY.")
+Somebody's Flickr archive (Edwina Hay?): ![Flickr archive by eatsdirt of the Friday, October 30, 2009 performance of Future of the Left at Music Hall of Williamsburg in Brooklyn, NY.](https://www.flickr.com/photos/eatsdirt/sets/72157622577992389/ "Flickr archive by eatsdirt of the Friday, October 30, 2009 performance of Future of the Left at Music Hall of Williamsburg in Brooklyn, NY.")
