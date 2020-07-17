@@ -21,7 +21,7 @@ tags:
 
 This was a fantastic show, great band, and they did stuff from his whole career. 
 
-There was someone dressed as Kool-Aid (the pitcher) being excited, sort of harassing the crowd. Not sure if it was advertising or just a freelancer. But when Archie was getting set to play "Girl, You're Too Young", he looked out into the auidence and said, "I see you out there, Kool-Aid, and I know you're delicious and good, but you got to leave the young things alone!"
+There was someone dressed as Kool-Aid (the pitcher) being excited, sort of harassing the crowd. Not sure if it was advertising or just a freelancer. But when Archie was getting set to play ["Girl, You're Too Young"](https://www.youtube.com/watch?v=pKAlLc-aQZo), he looked out into the auidence and said, "I see you out there, Kool-Aid, and I know you're delicious and good, but you got to leave the young things alone!"
 
 ![Archie Bell photo by Gary Wong](/static/img/timeline/archie-bell-20060820-GaryWong.jpg)
 <<figcaption>Photo by Gary Wong</figcaption>
