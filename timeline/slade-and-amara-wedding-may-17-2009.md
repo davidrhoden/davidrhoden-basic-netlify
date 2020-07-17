@@ -8,7 +8,7 @@ tags:
   - post
   - weddings
   - parties
-  - All Night Movers
+  - All-Night Movers
   - Slade Nash
   - Amara
   - Florida
