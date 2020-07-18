@@ -24,3 +24,5 @@ I forgot it was the day after Christmas.
 
 ![David Rhoden singing on The Goodnight Show](/static/img/rock/goodnight-show-2-t-grayson-dec-26-2013.jpg "David Rhoden singing on The Goodnight Show")
 <figcaption>Photo by Tamara Grayson</figcaption>
+
+[Tamara Grayson Photography](http://tamaragraysonphotography.com)
