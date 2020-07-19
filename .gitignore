@@ -5,6 +5,8 @@ support_files/
 package-lock.json
 .DS_Store
 /pages/history.md
+/pages/books-read.md
+/pages/films-seen.md
 /timeline/we-opened-for-the-silos-1987.md
 /timeline/all-night-movers-played-the-hi-ho-with-the-bangs.md
 # Local Netlify folder
