@@ -1,0 +1,14 @@
+---
+title: Sally scowling.
+date: 2015-06-05T21:00:00.000Z
+image: /img/sally/sally-scowling-jun-5-2015.jpg
+tags:
+  - post
+  - Sally
+  - Austin
+
+---
+
+![Sally scowling](/img/sally/sally-scowling-jun-5-2015.jpg "Sally scowling")
+
+Like me, Sally was less happy in Austin than in New Orleans. No tiny skinks to huunt and leave to dehydrate under the litter box.
