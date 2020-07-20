@@ -1,6 +1,6 @@
 ---
 title: Sleepy Heads played the Mermaid Lounge
-date: 2001-12-07T08:00:00.000Z
+date: 2001-12-21T08:00:00.000Z
 tags:
   - post 
   - rock
