@@ -3,7 +3,7 @@ title: went to Slade and Amara's wedding, and DJed the reception
 date: 2009-05-17T14:00:00.000Z
 summary: The whole thing was somewhat interrupted by what you might call a flash flood.
 excerpt: The whole thing was somewhat interrupted by what you might call a flash flood.
-image: /static/img/timeline/slade-and-amara-wedding-invite-may-17-2009.jpg
+image: /static/img/timeline/slade-amara-wedding-invite-may-17-2009.jpg
 tags:
   - post
   - weddings
@@ -18,7 +18,7 @@ tags:
  
 ---
 
-![Slade and Amara wedding invitation](/static/img/timeline/slade-and-amara-wedding-invite-may-17-2009.jpg "Slade and Amara wedding invitation")
+![Slade and Amara wedding invitation](/static/img/timeline/slade-amara-wedding-invite-may-17-2009.jpg "Slade and Amara wedding invitation")
 
 I went down to Florida for All-Night Movers' drummer Slade's wedding. Slade asked me to DJ the reception, which I did. I got a sidelong look when I played Eddie Kirkland's (very danceable!) "The Hawg." It poured right in the middle of the reception but whaddaya know, I created a rain-based playlist for the occasion.
 
