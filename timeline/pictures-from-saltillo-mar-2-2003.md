@@ -4,7 +4,7 @@ date: 2003-03-02T12:00:00.929Z
 permalink: pictures-from-saltillo/index.html
 summary: I spent a Mardi Gras going with some Loyola classmates to Saltillo, Coahuila, Mexico to work on houses.
 excerpt: I spent a Mardi Gras going with some Loyola classmates to Saltillo, Coahuila, Mexico to work on houses.
-image: saltillo-hillside.jpg
+image: /static/img/timeline/mexico/saltillo-hillside.jpg
 tags: 
 - post
 - Mexico
@@ -196,7 +196,7 @@ We got lost going home. I asked a woman, "Senora, donde es Mision San Miguel?" s
 
 Kathleen and Lindsey.
 
-![63.jpg](https://davidrhoden.com/assets/assets/images/mexico/63.jpg)
+![63.jpg](/static/img/timeline/mexico/63.jpg)
 
 View from the mission.
 
