@@ -17,15 +17,13 @@ eleventyNavigation:
 
 ---
 
-## A new painting
+## fooey
 
-July 19, 2020
+July 21, 2020
 
 New painting. Let's say $150.
 
-![Lighter painting by David Rhoden](/static/img/paintings/lighter-jul-19-2020.jpg "Lighter painting by David Rhoden")
-
-I'm enjoying _Doxology_ by Nell Zink as much or more than I enjoyed her novel _Mislaid_. It's about "real life", which comes to seem completely absurd, and she's funny and caustic with her descriptions.
+![Fooey drawing by David Rhoden](/static/img/notes/fooey-jul-21-2020.jpg "Fooey drawing by David Rhoden")
 
 ---
 
