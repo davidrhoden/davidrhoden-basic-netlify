@@ -9,7 +9,7 @@ tags:
   - NYC
   - shows
   - 219 Flamingo
-  - All Night Movers
+  - All-Night Movers
   - The Demands
   - Tony Arrieta
 

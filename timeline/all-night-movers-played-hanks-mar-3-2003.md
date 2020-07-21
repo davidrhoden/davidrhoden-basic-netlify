@@ -9,7 +9,7 @@ tags:
   - NYC
   - Brooklyn
   - shows
-  - All Night Movers
+  - All-Night Movers
   - Hanks Saloon
   - Alan Dorsey
 

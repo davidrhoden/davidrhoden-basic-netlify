@@ -6,7 +6,7 @@ image: /static/img/rock/anm-dave-020727.jpg
 tags:
   - post
   - rock
-  - All Night Movers
+  - All-Night Movers
   - Jeff Pounds
   - New Orleans
   - parties

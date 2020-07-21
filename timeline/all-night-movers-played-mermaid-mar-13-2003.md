@@ -8,7 +8,7 @@ tags:
   - rock
   - New Orleans
   - Mermaid Lounge
-  - All Night Movers
+  - All-Night Movers
   - Cary Hudson
   - Thee Shams
 

@@ -8,7 +8,7 @@ tags:
   - rock
   - NYC
   - shows
-  - All Night Movers
+  - All-Night Movers
   - Lakeside Lounge
 
 ---

@@ -7,7 +7,7 @@ image: /static/img/timeline/HiHoLoungeExterior.jpg
 tags:
   - post
   - rock
-  - All Night Movers
+  - All-Night Movers
   - New Orleans
   - Hi-Ho Lounge
   - The Bangs
