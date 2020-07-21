@@ -11,4 +11,4 @@ tags:
 ---
   A soft daddy long legs, for lack of a better description.
   
-![A soft daddy long legs, for lack of a better description.](/static/img/paintings/soft-daddy-long-legs-on-horses.jpg)
+![A soft daddy long legs, for lack of a better description.](/static/img/paintings/soft-daddy-long-legs-on-horses.jpg "A soft daddy long legs, for lack of a better description.")
