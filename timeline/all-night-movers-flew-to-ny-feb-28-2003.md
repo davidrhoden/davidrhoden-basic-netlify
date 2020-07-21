@@ -1,6 +1,6 @@
 ---
 title: Slade and I flew to New York.
-date: 2003-01-24T12:30:00.000Z
+date: 2003-02-28T12:30:00.000Z
 summary: Starting our first and only New York tour.
 excerpt: Starting our first and only New York tour.
 tags:
