@@ -21,7 +21,7 @@ eleventyNavigation:
 
 July 21, 2020
 
-New painting. Let's say $150.
+Just a mood.
 
 ![Fooey drawing by David Rhoden](/static/img/notes/fooey-jul-21-2020.jpg "Fooey drawing by David Rhoden")
 
