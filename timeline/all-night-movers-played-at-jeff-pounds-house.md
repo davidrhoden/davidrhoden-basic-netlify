@@ -9,10 +9,10 @@ tags:
   - All-Night Movers
   - Jeff Pounds
   - New Orleans
+  - parties
 
 ---
 I recall Jeff also made crawfish etoufee and let us feed his red ear turtles.
-
 
 ![Dave of All-Night Movers playing guitar](/static/img/rock/anm-dave-020727.jpg "Dave of All-Night Movers playing guitar")
 
