@@ -6,7 +6,7 @@ excerpt: At a house in a trailer park.
 tags:
   - post
   - rock
-  - All-Night Movers
+  - All Night Movers
   - Alabama
   - Huntsville
   - Beverly

@@ -7,7 +7,7 @@ image: /static/img/timeline/star-bar-sign.jpg
 tags:
   - post
   - rock
-  - All-Night Movers
+  - All Night Movers
   - Atlanta
   - Star Bar
 

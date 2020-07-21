@@ -7,7 +7,7 @@ image: /static/img/timeline/emerald-bar-aug-8-2004.jpg
 tags:
   - post
   - rock
-  - All-Night Movers
+  - All Night Movers
   - Florida
   - St Petersburg
   - Emerald Bar

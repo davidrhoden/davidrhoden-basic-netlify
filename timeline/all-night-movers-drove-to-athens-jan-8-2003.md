@@ -8,7 +8,7 @@ tags:
   - Georgia
   - Athens
   - rock
-  - All Night Movers
+  - All-Night Movers
   - Slade Nash
   - manual transmissions
   - stories

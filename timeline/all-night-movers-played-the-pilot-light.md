@@ -6,7 +6,7 @@ excerpt: The comedy of James Henry was the opening act.
 tags:
   - post
   - rock
-  - All-Night Movers
+  - All Night Movers
   - Tennessee
   - Knoxville
   - James Henry

@@ -6,7 +6,7 @@ excerpt: The Ka-Nives said New Orleans shows were stiff and nobody came. This ti
 tags:
   - post
   - rock
-  - All-Night Movers
+  - All Night Movers
   - New Orleans
   - Hi-Ho Lounge
   - The Ka-Nives
