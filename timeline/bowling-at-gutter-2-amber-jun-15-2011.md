@@ -1,20 +1,19 @@
 ---
-title: All-Night Movers played Sound Exchange in Houston with Ka-Nives
+title: I went bowling at The Gutter.
 date: 2011-06-15T21:00:00.000Z
-summary: We were fine. Ka-Nives were over the top.
-excerpt: We were fine. Ka-Nives were over the top. 
+summary: Featuring the obligatory bowling posterior shot.
+excerpt: Featuring the obligatory bowling posterior shot. 
 image: /static/img/timeline/bowling-at-gutter-2-amber-jun-15-2011.jpg
 tags:
   - post
-  - rock
-  - All-Night Movers
-  - Texas
-  - Houston
-  - Ka-Nives
-  - Washington Westcott
+  - NYC
+  - Brooklyn
+  - Greenpoint
+  - bowoling
+  - The Gutter
 
 ---
 
-I have plenty of pics. Later.
+![David Rhoden bowling at the Gutter](/static/img/timeline/bowling-at-gutter-2-amber-jun-15-2011.jpg "David Rhoden bowling at the Gutter")
+<figcaption>Photo by Amber Sexton.</figcaption>
 
-https://www.houstonpress.com/music/ka-nives-with-all-night-movers-and-washington-6556580
