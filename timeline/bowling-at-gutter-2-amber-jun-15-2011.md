@@ -15,5 +15,7 @@ tags:
 ---
 
 ![David Rhoden bowling at the Gutter](/static/img/timeline/bowling-at-gutter-2-amber-jun-15-2011.jpg "David Rhoden bowling at the Gutter")
-<figcaption>Photo by Amber Sexton.</figcaption>
+
+![David Rhoden bowling at the Gutter](/static/img/timeline/bowling-at-gutter-1-amber-jun-15-2011.jpg "David Rhoden bowling at the Gutter")
+<figcaption>Photos by Amber Sexton.</figcaption>
 
