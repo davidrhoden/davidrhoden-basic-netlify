@@ -13,4 +13,4 @@ tags:
 
 ![Sign saying We Got Dem Turkey Necks.](/static/img/timeline/wegotdemturkeynecks-apr-4-2014.jpg "Sign saying We Got Dem Turkey Necks.")
 
-As late as 2014 there were businesses downtown advertising turkey necks in theis demotic way.
+As late as 2014 there were businesses downtown advertising turkey necks in this demotic way.
