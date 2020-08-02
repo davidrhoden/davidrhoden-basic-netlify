@@ -1,5 +1,5 @@
 ---
-title: New painting
+title: Fooey.
 date: 2020-07-21T10:00:00.000Z
 summary: fooey.
 excerpt: fooey.
