@@ -10,6 +10,17 @@
     box-sizing: border-box;
 }
 
+.hidden {
+	display: none;
+}
+
+.float-left {
+	float: left;
+	height: 32px;
+	width: 32px;
+	overflow: hidden;
+}
+
 html,
 body {
 	padding: 0;
@@ -27,6 +38,10 @@ body {
 h1 {
 	font-family: "Inter", Helvetica, Arial, sans-serif;
 	font-weight: 200;
+}
+
+h3 {
+	clear: both;
 }
 
 header {
@@ -212,8 +227,18 @@ main img.thumbnail {
 	width: 160px;
 }
 
-main img.tiny-thumbnail {
+main img.tiny-thumbnail, a.tiny-thumbnail img, .tiny-thumbnail {
+	height: 32px;
 	width: 32px;
+	overflow: hidden;
+}
+
+.tiny-thumbnail:hover + .hidden {
+	background: white;
+	display: inline-block;
+	padding: 2em;
+	position: relative;
+	z-index: 10;
 }
 
 /* Post Tags */
