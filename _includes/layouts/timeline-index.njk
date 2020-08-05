@@ -4,8 +4,16 @@ section: timeline
 ---
 
 <!-- post loop -->
-
+{% set showYear = true %}
+{% set currentYear = "" %}
 {% for post in posts %}
+{% if showYear %}
+      {% set postYear = post.date.getFullYear() %}
+      {% if currentYear != postYear %}
+      {% set currentYear = postYear %}
+      <h3>{{ postYear }}</h3>
+      {% endif %}
+{% endif %}
 <article class="flex">
   <div class="left">
     {% if post.data.image %}<img class="thumbnail" src="{{ post.data.image }}?nf_resize=fit&w=320">{% endif %}
@@ -42,6 +50,49 @@ section: timeline
     {% endif %}
 </div>
 </article>
+{% endfor %}
+
+{# {% set showYear = true %} #}
+{% set currentYear = "" %}
+{% for post in collections.post | reverse %}
+{% if showYear %}
+    {% set postYear = post.date.getFullYear() %}
+    {% if currentYear != postYear %}
+        {% set currentYear = postYear %}
+        </div>
+        <div class="flex align-items-center">
+        <h3>{{ postYear }}</h3>
+    {% endif %}
+{% endif %}
+  <div>
+      {% if post.data.image %}
+          <a class="tiny-thumbnail" href="{{ post.url }}"><img  src="{{ post.data.image }}?nf_resize=smartcrop&h=32&w=32"></a>
+      {% else %}
+          <a class="tiny-thumbnail" href="{{ post.url }}" style="display: block; height: 32px; width: 32px; background: #ff0099; border: 1px solid white;"></a>
+      {% endif %}
+      <div class="hidden">
+          {% if post.data.title %}
+            {{ post.data.title }}
+          {% else %}
+            Untitled
+          {% endif %}
+          <p>
+            <time datetime="{{ post.date | machineDate }}">
+              <small>{{ post.date | readableDate }} by {{ metadata.author.name }}</small>
+            </time>
+          </p>
+          {% if post.data.tags %}
+            <p>
+              {% for tag in post.data.tags %}
+                {%- if tag != "post" -%}
+                  {% set tagUrl %}/tags/{{ tag | slug }}/{% endset %}
+                <a href="{{ tagUrl | url }}" rel="tag">{{ tag }}</a>
+                {%- endif -%}
+              {% endfor %}
+            </p>
+          {% endif %}
+      </div>
+  </div>
 {% endfor %}
 
 
