@@ -3,6 +3,7 @@ title: I saw The Day After on TV.
 date: 1983-11-20T19:00:00.000Z
 summary: This was a terrifying and depressing show.
 excerpt: This was a terrifying and depressing show.
+image: /static/img/timeline/the-day-after-nov-20-1983.jpg
 tags:
   - post 
   - TV
@@ -11,6 +12,8 @@ tags:
   - Dungeons and Dragons
 
 ---
+
+![promo picture from The Day After](/static/img/timeline/the-day-after-nov-20-1983.jpg "promo picture from The Day After")
 
 I just heard a radio piece on how much Reagan said he was affected by this show.
 
