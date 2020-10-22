@@ -2,7 +2,7 @@
 title: maybe I should quit playing music
 date: 2010-10-21T23:00:00.000Z
 summary: I keep fiddling with instruments, and it's less and less interesting.
-excerpt: I  keep fiddling with instruments, and it's less and less interesting.
+excerpt: I keep fiddling with instruments, and it's less and less interesting.
 tags:
   - post
   - music
