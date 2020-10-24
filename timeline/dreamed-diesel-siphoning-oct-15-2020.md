@@ -9,4 +9,4 @@ tags:
 
 ---
 
-I needed to siphon some gas for my truck and a friend helped me out with some advice. He said siphoning Diesel fuel was fine, but never siphon Duesel fuel, because it's "grave for your gut."
+I needed to siphon some gas for my truck and a friend helped me out with some advice. He said siphoning Diesel fuel was fine, but you should never siphon Duesel fuel, because it's "grave for your gut."
