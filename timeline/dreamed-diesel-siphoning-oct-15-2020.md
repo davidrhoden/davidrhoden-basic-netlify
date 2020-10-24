@@ -1,6 +1,6 @@
 ---
-title: "dreamed: learned something about fuel siphoning"
-date: 2010-10-15T23:00:00.000Z
+title: dreamed I learned something about fuel siphoning
+date: 2020-10-15T23:00:00.000Z
 summary: I learned an astonishing fact about Diesel fuel and its alternatives.
 excerpt: I learned an astonishing fact about Diesel fuel and its alternatives.
 tags:
