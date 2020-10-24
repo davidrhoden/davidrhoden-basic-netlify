@@ -25,7 +25,10 @@ html,
 body {
 	padding: 0;
 	margin: 0;
-	font-family: "Inter", "Source Serif Pro", Helvetica, Arial, sans-serif;
+	font-family: "Inter", Helvetica, Arial, sans-serif;
+}
+@supports (font-variation-settings: normal) {
+  html { font-family: 'Inter var', sans-serif; }
 }
 
 body {
