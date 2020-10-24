@@ -5,7 +5,7 @@
 [[plugins]]
 package = "@netlify/plugin-sitemap"
  
-  [plugins.inputs]
+[plugins.inputs]
   buildDir = "_site"
   exclude = [
     '_site/admin',
@@ -48,8 +48,9 @@ package = "@netlify/plugin-sitemap"
     '_site/timeline/34',
     '_site/timeline/35',
     '_site/timeline/36',
-    '_site/timeline/37',
+    '_site/timeline/37'
   ]
+
 # REDIRECT and HEADERS examples
 
 # Redirect rule example
