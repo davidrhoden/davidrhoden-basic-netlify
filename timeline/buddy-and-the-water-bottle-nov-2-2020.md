@@ -21,4 +21,4 @@ Usually my discipline is swiftly administered kicks off the bed.  Gina suggested
 
 Until last night. Bud was being bad and chewing my calf. But this time I kept my cool and grabbed the water bottle I had left on the might table. As much as I hated, _hated_ to do it, he needed to learn a lesson. So I squirted him. Hard.
 
-But instead of a punishing stream of icy water, my little squirt bottle puffed a soft cloud of cooling mist right in Buddy's face. I didn't get the right kind of squirter. What I got was a mister. I misted him. He looked like he was refreshed by it and maybe I should squirt him again. The struggle contines.
+But instead of a punishing stream of icy water, my little squirt bottle puffed a soft cloud of cooling mist right in Buddy's face. I didn't get the right kind of squirter. What I got was a mister. I misted him. He looked like he was refreshed by it and maybe I should mist him again. The struggle contines.
