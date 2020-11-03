@@ -10,4 +10,4 @@ I was in Tennessee watching the New Orleans Saints play a team I didn't recogniz
 
 I went to a fancy place (an outdoor mall basically) called Battery Mill. I heard a spiel from a concrete floor consultant who had on fancy yellow wingtips for showing off the smoothness of his company's floors. He said if you had just one square inch of smooth concrete his company could regenerate you an entire floor, smooth as a rink. 
 
-Then I was reading a restaurant menu item about a pancake. It said "The Mouth Gat, as our signature flourpiece is called..."  I read no more The restaurant was called, of course, Mouth and Gat.
+Then I was reading a restaurant menu item about a pancake. It said "The Mouth Gat, as our signature flourpiece is called..."  I read no more. The restaurant was called, of course, Mouth and Gat.
