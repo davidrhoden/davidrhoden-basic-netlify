@@ -12,7 +12,7 @@ tags:
   - anxiety
   - Lower Ninth Ward
 ---
-It's a thing I usually do before early-morning plane flights--I stay up way too late, cleaning and organizing the house. I get next to no sleep and bumble through the morning. So I wasn't quite on time to vote and I got there at probably the businest time.
+It's a thing I usually do before early-morning plane flights--I stay up way too late, cleaning and organizing the house. I get next to no sleep and bumble through the morning. So I wasn't quite on time to vote and I got there at probably the busiest time.
 
 Voting was a lot of fun though. Gina knew the people near us in line so she introduced me to them, and we chatted throughout the ninety-minute wait, with one neighbor keeping up a running commentary about how long he had known many of the people in line. We also wound up discussing toilet paper, or at least he did.
 
