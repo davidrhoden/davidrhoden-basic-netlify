@@ -1,6 +1,6 @@
 ---
 title: Nature TV, featuring Hurricane Zeta
-date: 2020-11-02T11:00:00.000Z
+date: 2020-10-29T11:00:00.000Z
 summary: Gina and I watched the storm come in; it was beautiful.
 excerpt: Gina and I watched the storm come in; it was beautiful.
 image: /static/img/gina/hurricane-zeta-oct-29-2020.jpg
