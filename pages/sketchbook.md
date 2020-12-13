@@ -15,6 +15,7 @@ eleventyNavigation:
 ![Hobo With An Oboe sketchbook entry by David Rhoden](/static/img/sketchbook/hobowitharevisedoboe.jpg?nf_resize=fit&w=960)
 ![Do not drink the bleach, The Bleach Must Be Administered Anally by David Rhoden](/static/img/sketchbook/bleachmustbeadminstered.jpg?nf_resize=fit&w=960)
 ![Flattering Self-portrait sketchbook entry by David Rhoden](/static/img/sketchbook/flattering-selfportrait.jpg?nf_resize=fit&w=960)
+![Whither Hot Wok sketchbook entry by David Rhoden](/static/img/sketchbook/whither-hot-wok-oct-22-2020.jpg?nf_resize=fit&w=960)
 ![Whatcha Think sketchbook entry by David Rhoden](/static/img/sketchbook/whatchathink200126.jpg?nf_resize=fit&w=960)
 ![Chuck Braun sketchbook entry by David Rhoden](/static/img/sketchbook/chuckbraun.jpg?nf_resize=fit&w=960)
 ![sketchbook entry by David Rhoden](/static/img/sketchbook/peppermintpatty.jpg?nf_resize=fit&w=960)
