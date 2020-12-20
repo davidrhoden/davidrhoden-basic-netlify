@@ -12,7 +12,7 @@ tags:
 
 ---
 
-![Hallowe'en on Grand Street](/static/img/timeline/fixing-blue-bike-may-21-2013.jpg "Hallowe'en on Grand Street")
+![Fixing up my blue bike](/static/img/timeline/fixing-blue-bike-may-21-2013.jpg "Fixing up my blue bike")
 
-I bought this beater for $20 at a yard sale. One nice day I took it all apart, fixed it up with fresh tires, saddle, and chain, and painted it black. it was such a nice second bike. I loaned it to someone and it got stolen.
+I bought this beater for $20 at a yard sale. One nice day I took it all apart, fixed it up with fresh tires, saddle, and chain, and painted it black. It was such a nice second bike. I loaned it to someone and it got stolen.
 
