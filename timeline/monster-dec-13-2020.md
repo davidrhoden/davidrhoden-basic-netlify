@@ -13,6 +13,6 @@ tags:
 
 ---
 
-![Many-eyed Monster painting by David Rhoden](/static/img/paintings/many-eyes-dec-13-2020.jpg) "many-eyed monster painting by David Rhoden")
+![Many-eyed Monster painting by David Rhoden](/static/img/paintings/many-eyes-dec-13-2020.jpg "many-eyed monster painting by David Rhoden")
 
 They said the quarantine would be a great time to get work done. I think this is the first time I've picked up a brush.
