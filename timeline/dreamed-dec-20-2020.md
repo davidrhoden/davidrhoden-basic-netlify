@@ -16,5 +16,5 @@ tags:
 
 I dreamed were listening to the album _Sing It Again, Rod_ (we were, earlier) but one of the songs on side one was called "(I'm In Love With) Choco Taco."
 
-![Sing It Again Rod front](/static/img/timeline/stewart_againf.jpg "Sing It Again Rod front")
-![Sing It Again Rod back](/static/img/timeline/stewart_againb.jpg "Sing It Again Rod back")
+![Sing It Again Rod front](/static/img/timeline/stewart_againf.jpg?nf_resize=fit&w=380 "Sing It Again Rod front")
+![Sing It Again Rod back](/static/img/timeline/stewart_againb.jpg?nf_resize=fit&w=380 "Sing It Again Rod back")
