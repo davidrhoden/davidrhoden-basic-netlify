@@ -27,9 +27,9 @@ body {
 	margin: 0;
 	font-family: "Inter", Helvetica, Arial, sans-serif;
 }
-@supports (font-variation-settings: normal) {
+/*@supports (font-variation-settings: normal) {
   html { font-family: 'Inter var', sans-serif; }
-}
+}*/
 
 body {
 	display: grid;
@@ -248,7 +248,6 @@ main img.tiny-thumbnail, a.tiny-thumbnail img, .tiny-thumbnail {
 a[rel="tag"],
 a[rel="tag"]:visited {
 	display: inline-block;
-  	vertical-align: text-top;
   	text-transform: uppercase;
 	letter-spacing: .1em;
   	font-size: .625em;
