@@ -15,5 +15,5 @@ tags:
 
 ![burned Altima on Alhambra Street](/static/img/timeline/burned-altima-jan-10-2021.jpg "burned Altima on Alhambra Street")
 
-Somebody dropped this late-model Altima off around the corner on Alhambra Street, by the playground, and set it on fire. All the tires exploded exacpt the donut.
+Somebody dropped this late-model Altima off around the corner on Alhambra Street, by the playground, and set it on fire. All the tires exploded except the donut.
 
