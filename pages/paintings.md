@@ -12,6 +12,7 @@ eleventyNavigation:
 
 ---
 
+1. ![Organic form painting by David Rhoden](/static/img/paintings/organic-form-something-jan-17-2021.jpg?nf_resize=fit&w=960)
 1. ![Many-eyed Monster painting by David Rhoden](/static/img/paintings/many-eyes-dec-13-2020.jpg?nf_resize=fit&w=960)
 1. ![Organic form painting by David Rhoden](/static/img/paintings/organicform5-chromeyellow-sq.jpg?nf_resize=fit&w=960)
 1. ![Give Me Your Money painting by David Rhoden](/static/img/paintings/Give-Me-Your-Money.jpg?nf_resize=fit&w=960)
@@ -48,9 +49,9 @@ eleventyNavigation:
 1. ![Mummies painting by David Rhoden](/static/img/paintings/mummies_postK.jpg?nf_resize=fit&w=960)
 1. ![Negatory Good Buddy painting by David Rhoden](/static/img/paintings/negatorygoodbuddy.jpg?nf_resize=fit&w=960)
 1. ![Luchador painting by David Rhoden](/static/img/paintings/caballeroazul.jpg?nf_resize=fit&w=960)
-1. ![painting by David Rhoden](/static/img/paintings/bigheadoutdoors.jpg?nf_resize=fit&w=960)
-1. ![painting by David Rhoden](/static/img/paintings/bowlers.jpg?nf_resize=fit&w=960)
-1. ![painting by David Rhoden](/static/img/paintings/pinkluchadorwithshadow.jpg?nf_resize=fit&w=960)
+1. ![Big Head painting by David Rhoden](/static/img/paintings/bigheadoutdoors.jpg?nf_resize=fit&w=960)
+1. ![Bowlers painting by David Rhoden](/static/img/paintings/bowlers.jpg?nf_resize=fit&w=960)
+1. ![Pink Luchador painting by David Rhoden](/static/img/paintings/pinkluchadorwithshadow.jpg?nf_resize=fit&w=960)
 1. ![painting by David Rhoden](/static/img/paintings/bottlecap_guy_on_horses.jpg?nf_resize=fit&w=960)
 1. ![painting by David Rhoden](/static/img/paintings/luchadorverano.jpg?nf_resize=fit&w=960)
 1. ![painting by David Rhoden](/static/img/paintings/luchadorpurple.jpg?nf_resize=fit&w=960)
