@@ -450,7 +450,11 @@ ol li::before {
 	}
 
 	.page__sketchbook .container main img {
-		margin: 0;
+		margin: 0 auto;
+		max-height: 400px;
+		max-width: 400px;
+		width: auto;
+		
 	}
 
 	.page__sketchbook .container main p br {
