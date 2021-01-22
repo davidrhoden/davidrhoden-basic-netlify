@@ -11,6 +11,11 @@ eleventyNavigation:
  
 ---
 
+![cars fan sketchbook entry by David Rhoden](/static/img/sketchbook/cars-fan-dec-11-2020.jpg?nf_resize=fit&w=960)
+![egress sketchbook entry by David Rhoden](/static/img/sketchbook/egress-dec-10-2020.jpg?nf_resize=fit&w=960)
+![anarchist sketchbook entry by David Rhoden](/static/img/sketchbook/anarchist-dec-6-2020.jpg?nf_resize=fit&w=960)
+![I can't stand this sketchbook entry by David Rhoden](/static/img/sketchbook/i-cant-stand-this-oct-28-2020.jpg?nf_resize=fit&w=960)
+![you and what army sketchbook entry by David Rhoden](/static/img/sketchbook/you-and-what-army-nov-16-2020.jpeg?nf_resize=fit&w=960)
 ![Guy saying AAAH sketchbook entry by David Rhoden](/static/img/sketchbook/aah-guy.jpg?nf_resize=fit&w=960)
 ![Hobo With An Oboe sketchbook entry by David Rhoden](/static/img/sketchbook/hobowitharevisedoboe.jpg?nf_resize=fit&w=960)
 ![Do not drink the bleach, The Bleach Must Be Administered Anally by David Rhoden](/static/img/sketchbook/bleachmustbeadminstered.jpg?nf_resize=fit&w=960)
