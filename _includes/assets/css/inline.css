@@ -438,6 +438,10 @@ ol li::before {
 	    width: 70%;
 	}
 
+	.page__sketchbook .container {
+		width: 100%;
+	}
+
 	.page__sketchbook .container main p {
 		display: grid;
   		grid-template-columns: repeat(4, 1fr);
