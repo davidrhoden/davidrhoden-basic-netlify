@@ -3,7 +3,7 @@ title: Everything Tool played at China King.
 date: 1989-11-15T18:00:00.000Z
 summary: If you got to the gig early enough they would feed you for nothing.
 excerpt: If you got to the gig early enough they would feed you for nothing.
-image: /static/img/timeline/wegotdemturkeynecks-apr-4-2014.jpg
+image: /static/img/rock/dave-matt-everythingtool-chinaking-01.jpg
 tags:
   - post
   - rock
