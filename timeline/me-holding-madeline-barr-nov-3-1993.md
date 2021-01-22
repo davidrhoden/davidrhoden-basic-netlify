@@ -1,6 +1,6 @@
 ---
 title: I held a baby, for the cameras.
-date: 1993-11-0314:00:00.000Z
+date: 1993-11-03:14:00:00.000Z
 summary: If you got to the gig early enough they would feed you for nothing.
 excerpt: If you got to the gig early enough they would feed you for nothing.
 image: /static/img/timeline/david-with-maddie-barr-nov-3-1993.jpg
