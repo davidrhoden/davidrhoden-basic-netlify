@@ -84,6 +84,10 @@ eleventyNavigation:
 
 ---
 
+![Clockface animation by David Rhoden](/static/img/animations/clockface.gif)
+
+---
+
 ![Slappers animation by David Rhoden](/static/img/animations/slappers.gif)
 
 --- 
