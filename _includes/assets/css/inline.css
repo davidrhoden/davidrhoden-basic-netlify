@@ -437,6 +437,21 @@ ol li::before {
 	.home main {
 	    width: 70%;
 	}
+
+	.page__sketchbook .container main p {
+		display: grid;
+  		grid-template-columns: repeat(4, 1fr);
+  		grid-template-rows: 1fr;
+  		gap: 10px 10px;
+	}
+
+	.page__sketchbook .container main img {
+		margin: 0;
+	}
+
+	.page__sketchbook .container main p br {
+		display: none;
+	}
 }
 
 @media screen and (min-width:1200px) {

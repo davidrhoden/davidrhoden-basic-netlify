@@ -11,6 +11,7 @@ eleventyNavigation:
  
 ---
 
+![egghead sketchbook entry by David Rhoden](/static/img/sketchbook/egghead-jan-21-2020.jpg?nf_resize=fit&w=960)
 ![cars fan sketchbook entry by David Rhoden](/static/img/sketchbook/cars-fan-dec-11-2020.jpg?nf_resize=fit&w=960)
 ![egress sketchbook entry by David Rhoden](/static/img/sketchbook/egress-dec-10-2020.jpg?nf_resize=fit&w=960)
 ![anarchist sketchbook entry by David Rhoden](/static/img/sketchbook/anarchist-dec-6-2020.jpg?nf_resize=fit&w=960)
