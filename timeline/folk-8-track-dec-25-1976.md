@@ -27,7 +27,7 @@ One of these eight tracks was called _Greatest Folksingers Of the 'Sixties_, on 
 
 (Notice how the spine text wound up about one inch into the sleeve...oops.)
 
-There was some pop-folk (Rooftop Singers' _Walk Right In_, gotta love it) and lots of real "folk" stuff, like _Greenland Whale Fisheries_, and a turgid version of _Blowin In the Wind_ with a choir. Most of the folk was good (Phil Ochs, Tom Paxton) and some of it kind of rocked. (Odetta, Flatt & Scruggs, and a spooky Pete Seeger tune, _East Virginia Blues_). But the thing that stuck with me most was the not-folk that got on here. 
+There was some pop-folk (Rooftop Singers' _Walk Right In_, gotta love it) and lots of real "folk" stuff, like [_Greenland Whale Fisheries_](https://www.youtube.com/watch?v=A79-0mYkbJA), The Weavers, and a turgid version of _Blowin In the Wind_ with a choir. Most of the folk was good (Phil Ochs, Tom Paxton) and some of it kind of rocked. (Odetta, Doc Watson, a spooky-for-once Pete Seeger tune, [_East Virginia Blues_](https://www.youtube.com/watch?v=euTfJs_M58E)). But the thing that stuck with me most was the not-folk that got on here. 
 
 I'm sure this tape was bought for us because it was "folk" and would be "nice" and "appropriate for kids". What they probably didn't expect was that even the Newport Folk Festival was widening their definition of what "folk" was. Hence, I give you: The Chambers Brothers.
 
