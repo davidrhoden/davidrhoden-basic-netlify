@@ -15,13 +15,13 @@ tags:
 
 ---
 
-We had a new Sony stereo in the house with a record player and an 8 track player and not a lot to play on it.
+We had a new Sony stereo in the house with a record player and an 8-track player and not a lot to play on it.
 
 In our minds, 8-track was the superior format. To us the chunky 8-track seemed durable where the fussy tonearm and the eminently damageable vinyl often meant a poor listening experience.
 
-One year, I think it was for Christmas, we got a few eight tracks that were specifically for us kids. Actually the Beatles "Red Album" was kind of for everybody. But by contrast, the 8 tracks of Janis Ian and Jim Croce were more intended for the adult audience (though we loved the latter).
+One year, I think it was for Christmas, we got a few 8-tracks that were specifically for us kids. Actually the Beatles "Red Album" was kind of for everybody. But by contrast, the 8-tracks of Janis Ian and Jim Croce were more intended for the adult audience (though we loved the latter).
 
-One of these eight tracks was called _Greatest Folksingers Of the 'Sixties_, on Vanguard. I'm listening to it right now on vinyl, a pristine 2-LP copy I picked up for about five bucks. It is all or mostly live recordings and, wow, I'd like to know who recorded them because this is a great sounding record.
+One of these 8-tracks was called _Greatest Folksingers Of the 'Sixties_, on Vanguard. I'm listening to it right now on vinyl, a pristine 2-LP copy I picked up for about five bucks. It is all or mostly live recordings and, wow, I'd like to know who recorded them because this is a great sounding record.
 
 ![Greatest Folksingers Of the 'Sixties](/static/img/timeline/greatest-folksingers-dec-25-1976.jpg "Greatest Folksingers Of the 'Sixties")
 
