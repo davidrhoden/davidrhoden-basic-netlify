@@ -31,7 +31,7 @@ There was some pop-folk (Rooftop Singers' _Walk Right In_, gotta love it) and lo
 
 I'm sure it was bought for us because it was "folk" and would be "nice" and "appropriate for kids". What they probably didn't expect was that even the Newport Folk Festival was widening their definition of what "folk" was. Hence, I give you: The Chambers Brothers.
 
-<iframe width="100%" src="https://www.youtube.com/embed/TG566wathAo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/TG566wathAo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 If that is what folk guitar sounds like, count me IN. To put a point on it: our parents got us a nice soft folksinger tape to put on, and we ended up getting influenced by it, yet none of us are folk musicians.
 
