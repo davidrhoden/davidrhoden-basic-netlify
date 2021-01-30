@@ -33,10 +33,11 @@ I'm sure it was bought for us because it was "folk" and would be "nice" and "app
 
 <iframe width="100%" src="https://www.youtube.com/embed/TG566wathAo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-If that is what folk guitar sounds like, count me IN.
+If that is what folk guitar sounds like, count me IN. To put a point on it: our parents got us a nice soft folksinger tape to put on, and we ended up getting influenced by it, yet none of us are folk musicians.
+
+-----
 
 Maybe the best thing on here is this live version of the Staple Singers' _Wish I Had Answered_. (With Pops singing "you know I whoosh", as one does.) I still think this is the best recording of this song.
 
-<iframe width="100%" src="https://www.youtube.com/embed/7j1iyimzhhg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/7j1iyimzhhg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-To put a point on it: our parents got us a nice soft folksinger tape to put on, and we ended up getting influenced by it, yet none of us are folk musicians.
