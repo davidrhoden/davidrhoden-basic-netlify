@@ -1,17 +1,19 @@
 ---
-title: Exhaust fan for Buddy
-date: 2020-12-05T11:00:00.000Z
-summary: I'm sad to say that this was necessary.
-excerpt: I'm sad to say that this was necessary.
-image: /static/img/buddy/exhaust-fan-for-buddy-dec-5-2020.jpg
+title: Avatar painting in my Bushwick place
+date: 2011-08-06T21:00:00.000Z
+summary: Rent then was a mere $1400 for one long room.
+excerpt: Rent then was a mere $1400 for one long room.
+image: /static/img/paintings/avatar-by-amber-aug-6-2011.jpg
 tags:
   - post 
-  - New Orleans
-  - cats
-  - Buddy
+  - paintings
+  - New York City
+  - Bushwick
+  - 181 Irving
+  - Amber
 
 ---
 
-![Exhaust fan for Buddy](/static/img/buddy/exhaust-fan-for-buddy-dec-5-2020.jpg "Exhaust fan for Buddy")
+![Avatar painting photo by Amber Sexton](/static/img/paintings/avatar-by-amber-aug-6-2011.jpg "Avatar painting photo by Amber Sexton")
 
-Ten bucks this cost. Just some dryer vent tubing. I had the fan laying around. I need a quieter one but this gets the job done.
+I was really doing a lot of, uh, worm-like paintings then. This was by Bushwick place on Irving Avenue. Rent then was a mere $1400 for one long room. It's a pet store now.
