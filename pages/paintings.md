@@ -11,7 +11,7 @@ eleventyNavigation:
   order: 3
 
 ---
-
+1. ![Rayco stumpgrinder painting by David Rhoden](/static/img/paintings/rayco-flat-feb-1-2021.jpg?nf_resize=fit&w=960)
 1. ![Organic form painting by David Rhoden](/static/img/paintings/organic-form-something-jan-17-2021.jpg?nf_resize=fit&w=960)
 1. ![Many-eyed Monster painting by David Rhoden](/static/img/paintings/many-eyes-dec-13-2020.jpg?nf_resize=fit&w=960)
 1. ![Organic form painting by David Rhoden](/static/img/paintings/organicform5-chromeyellow-sq.jpg?nf_resize=fit&w=960)
