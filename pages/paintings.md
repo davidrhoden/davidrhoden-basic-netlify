@@ -101,6 +101,7 @@ eleventyNavigation:
 1. ![painting by David Rhoden](/static/img/paintings/orangesquiggle01.jpg?nf_resize=fit&w=960)
 1. ![painting by David Rhoden](/static/img/paintings/orangeflame01.jpg?nf_resize=fit&w=960)
 1. ![painting by David Rhoden](/static/img/paintings/orangesquiggle02.jpg?nf_resize=fit&w=960)
+1. ![painting by David Rhoden](/static/img/paintings/cartoony-face.jpg?nf_resize=fit&w=960)
 1. ![painting by David Rhoden](/static/img/paintings/blueflame1.jpg?nf_resize=fit&w=960)
 1. ![painting by David Rhoden](/static/img/paintings/blueflame2.jpg?nf_resize=fit&w=960)
 1. ![Many eyed monster painting by David Rhoden](/static/img/paintings/manyeyedmonster.jpg?nf_resize=fit&w=960)
