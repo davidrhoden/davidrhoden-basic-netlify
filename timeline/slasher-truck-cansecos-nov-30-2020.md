@@ -10,7 +10,7 @@ tags:
   - Arabi
   - Cansecos
   - cars
-
+---
 
 ![picture of nifty slasher truck at the grocery store](/static/img/timeline/cars/slasher-car-1-nov-30-2020.jpg "nifty slasher truck at the grocery store")
 
