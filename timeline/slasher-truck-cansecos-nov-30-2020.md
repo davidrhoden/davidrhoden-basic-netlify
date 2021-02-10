@@ -12,7 +12,7 @@ tags:
   - cars
 
 
-![nifty slasher truck at the grocery store](/static/img/timeline/cars/slasher-car-1-nov-30-2020.jpg "nifty slasher truck at the grocery store")
+![picture of nifty slasher truck at the grocery store](/static/img/timeline/cars/slasher-car-1-nov-30-2020.jpg "nifty slasher truck at the grocery store")
 
 I guess this guy likes scary movies or just doesn't want anybody messin' with his wheels.
 
