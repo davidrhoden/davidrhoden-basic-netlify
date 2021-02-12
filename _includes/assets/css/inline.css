@@ -136,7 +136,7 @@ footer {
 }
 
 footer .search-box-container{
-	width: 100vw;
+	width: 100%;
 }
 
 figcaption {
@@ -484,7 +484,7 @@ p.postdate h3 {
 
 	footer .search-box-container{
 		margin-top: .5em;
-		width: 45vw;
+		width: 40vw;
 	}
 
 	.home main {
