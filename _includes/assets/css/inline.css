@@ -4,6 +4,10 @@
 	--blue: #7bb4fb;
 	--magenta: magenta;
 	--orangered: orangered;
+
+	--font-primary: 'Inter', Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+	--font-secondary: Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+	--font-decorative: "ShadowGrotesque", sans-serif, "Avenir";
 }
 
 *, *:before, *:after {
@@ -25,11 +29,12 @@ html,
 body {
 	padding: 0;
 	margin: 0;
-	font-family: "Inter", Helvetica, Arial, sans-serif;
+	font-family: var(--font-primary);
 }
-/*@supports (font-variation-settings: normal) {
+
+@supports (font-variation-settings: normal) {
   html { font-family: 'Inter var', sans-serif; }
-}*/
+}
 
 body {
 	display: grid;
@@ -39,7 +44,7 @@ body {
 }
 
 h1 {
-	font-family: "Inter", Helvetica, Arial, sans-serif;
+	font-family: var(--font-primary);
 	font-weight: 200;
 }
 
@@ -48,11 +53,18 @@ h3 {
 }
 
 header {
-	position: fixed;
-	width: 100vw;
-    background: white;
-    border-bottom: 1px solid #efefef;
-    z-index: 2;
+  display: flex;
+  background: white;
+  border-bottom: 1px solid #efefef;
+  flex-wrap: wrap;
+  position: fixed;
+  width: 100vw;
+  z-index: 2;
+}
+
+header .flex-container {
+	flex-basis: 100%;
+	flex-shrink: 0;
 }
 
 header nav {
@@ -64,7 +76,7 @@ header nav.is-active {
 }
 
 .container {
-	margin-top: 4em;
+	margin-top: 6em;
 	width: 100vw;
 }
 
@@ -89,22 +101,22 @@ a[href]:not(:hover) {
 	text-decoration: none;
 }
 
-a.mainlink[href],
-a.mainlink[href]:visited {
+a.main-link[href],
+a.main-link[href]:visited {
 	color: black;
-	font-family: "ShadowGrotesque", sans-serif, "Avenir";
+	font-family: var(--font-decorative);
 	font-size: 2em;
 	text-decoration: none;
 	transition: color 0.3s ease;
 }
 
-a.mainlink[href]:hover,
-a.mainlink[href]:active {
+a.main-link[href]:hover,
+a.main-link[href]:active {
 	color: var(--orangered);
 }
 
-nav ul li a.mainlink[href],
-a.mainlink[href]:visited {
+nav ul li a.main-link[href],
+a.main-link[href]:visited {
 	color: black;
 	font-family: "ShadowGrotesque", sans-serif, "Avenir";
 	font-size: 2em;
@@ -118,10 +130,23 @@ footer {
 	padding: 1em;
 }
 
+footer {
+	clear: both;
+	margin-bottom: 1em;
+}
+
+footer .search-box-container{
+	width: 100vw;
+}
+
 figcaption {
 	font-size: .9em;
     transform: translateY(-2em);
     color: lightgray;
+}
+
+small {
+	font-size: .7em;
 }
 
 .page-numbers {
@@ -164,6 +189,7 @@ header nav ul {
         ". . ."
         ". . .";
     grid-auto-flow: column;
+    width: 100vw;
 }
 
 header nav li {
@@ -172,7 +198,7 @@ header nav li {
 }
 
 header nav li a {
-	font-family: "Inter", Helvetica, Arial, sans-serif;
+	font-family: var(--font-primary);
 	font-size: .9em;
 }
 
@@ -278,6 +304,14 @@ form {
 	padding: 2em 0;
 }
 
+form.gsc-search-box {
+	padding: 0;
+}
+
+.gsc-control-cse {
+    padding: 0 !important; 
+}
+
 form label {
   display: none;
 }
@@ -376,6 +410,16 @@ ol li::before {
 	grid-template-areas: "text image";
 }
 
+/******* ANIMATIONS *******/
+
+.postslist h3 {
+	margin-top: 0;
+}
+
+p.postdate h3 {
+	margin-bottom: 0;
+}
+
 .text {
 	grid-area: text;
 }
@@ -423,6 +467,10 @@ ol li::before {
 		flex-basis: 50%;
 	}
 
+	.gsc-control-cse {
+	    padding-top: .3em !important;
+	}
+
 	header nav li {
 		display: block;
 		margin: 0;
@@ -430,8 +478,13 @@ ol li::before {
 	}
 
 	header nav li a {
-		font-family: "Inter", Helvetica, Arial, sans-serif;
+		font-family: var(--font-primary);
 		font-size: 1.1em;
+	}
+
+	footer .search-box-container{
+		margin-top: .5em;
+		width: 60vw;
 	}
 
 	.home main {

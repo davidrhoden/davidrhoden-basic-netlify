@@ -11,6 +11,11 @@ section: timeline
     {% if post.data.image %}<img class="thumbnail" src="{{ post.data.image }}?nf_resize=fit&w=320">{% endif %}
   </div>
   <div>
+  <p>
+    <time datetime="{{ post.date | machineDate }}">
+      <small>{{ post.date | readableDate }}</small>
+    </time>
+  </p>
   <h3>
     <a href="{{ post.url | url }}">
       {% if post.data.title %}
@@ -25,11 +30,6 @@ section: timeline
       {{ post.data.summary }}
     </p>
   {% endif %}
-  <p>
-    <time datetime="{{ post.date | machineDate }}">
-      <small>{{ post.date | readableDate }} by {{ metadata.author.name }}</small>
-    </time>
-  </p>
     {% if post.data.tags %}
       <p>
         {% for tag in post.data.tags %}
