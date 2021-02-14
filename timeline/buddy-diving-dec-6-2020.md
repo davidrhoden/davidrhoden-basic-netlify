@@ -7,6 +7,7 @@ image: /static/img/buddy/buddy-diving-dec-6-2020.jpg
 tags:
   - post 
   - Buddy
+  - cats
   - New Orleans
 
 ---

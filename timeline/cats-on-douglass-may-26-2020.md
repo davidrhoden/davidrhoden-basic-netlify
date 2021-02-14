@@ -9,6 +9,7 @@ tags:
   - New Orleans
   - Lower Ninth Ward
   - Sally
+  - cats
 
 ---
 

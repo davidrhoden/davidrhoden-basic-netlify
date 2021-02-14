@@ -8,6 +8,7 @@ tags:
   - post 
   - New Orleans
   - Buddy
+  - cats
   - biting
   - discipline
 

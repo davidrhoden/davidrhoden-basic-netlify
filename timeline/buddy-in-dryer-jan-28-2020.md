@@ -7,6 +7,7 @@ image: /static/img/buddy/buddy-in-dryer-jan-28-2020.jpg
 tags:
   - post
   - Buddy
+  - cats
 
 ---
 

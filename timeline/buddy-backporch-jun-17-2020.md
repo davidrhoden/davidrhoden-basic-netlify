@@ -7,6 +7,7 @@ image: /static/img/buddy/buddy-backporch-jun-17-2020.jpg
 tags:
   - post 
   - Buddy
+  - cats
   - New Orleans
 
 ---
