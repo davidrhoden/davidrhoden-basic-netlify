@@ -12,7 +12,7 @@ section: timeline
   </div>
   <div>
   <p>
-    <small><time datetime="{{ post.date | machineDate }}"><span id="todays-date">{{ date | readableDate }}</span></time> Day <span id="days"></span>.</small>
+    <small><time datetime="{{ post.date | machineDate }}"><span class="todays-date">{{ date | readableDate }}</span></time></small>
   </p>
   <h3>
     <a href="{{ post.url | url }}">
@@ -65,7 +65,7 @@ section: timeline
   </ul>
 </div>
 
-<script>
+{# <script>
 $(document).ready(function(){
     var date1 = new Date("03/02/1967"); 
     var date2 = new Date($('#todays-date').text()); 
@@ -73,4 +73,4 @@ $(document).ready(function(){
     var Difference_In_Days = Difference_In_Time / (1000 * 3600 * 24); 
     $('#days').html(Math.floor(Difference_In_Days)); 
 });
-</script>
+</script> #}
