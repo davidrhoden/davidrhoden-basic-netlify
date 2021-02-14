@@ -7,6 +7,7 @@ date: 2011-09-16T22:00:00.000Z
 tags:
   - post 
   - Sally
+  - cats
   - NYC
   - Brooklyn
   - 181 Irving Avenue

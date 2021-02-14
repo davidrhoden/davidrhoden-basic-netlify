@@ -9,6 +9,7 @@ tags:
   - New Orleans
   - Tricou Street
   - Sally
+  - cats
   - books
 ---
 

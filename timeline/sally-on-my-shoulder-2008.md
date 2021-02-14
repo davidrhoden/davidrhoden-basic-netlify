@@ -7,6 +7,7 @@ image: /static/img/sally/sally-shoulder-dec-28-2008.jpg
 tags:
   - post 
   - Sally
+  - cats
   - NYC
   - Bushwick
 

@@ -9,6 +9,7 @@ tags:
   - New Orleans
   - Orchid Street
   - Sally
+  - cats
   - boats
 
 ---

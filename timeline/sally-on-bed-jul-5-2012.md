@@ -5,6 +5,7 @@ image: /static/img/sally/sally-on-bed-jul-5-2012.jpg
 tags:
   - post
   - Sally
+  - cats
   - New Orleans
   - Orchid Street
 

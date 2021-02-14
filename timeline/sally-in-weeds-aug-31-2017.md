@@ -7,6 +7,7 @@ image: /static/img/sally/sally-in-weeds-aug-31-2017.jpg
 tags:
   - post
   - Sally
+  - cats
   - New Orleans
   - Clark Street
 
