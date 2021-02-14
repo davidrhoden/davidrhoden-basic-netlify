@@ -12,7 +12,7 @@ section: timeline
   </div>
   <div>
   <p>
-    <small><time datetime="{{ post.date | machineDate }}">{{ post.date | readableDate }}</time> Day <span id="days"></span>.</small>
+    <small><time datetime="{{ post.date | machineDate }}"><span id="todays-date">{{ date | readableDate }}</span></time> Day <span id="days"></span>.</small>
   </p>
   <h3>
     <a href="{{ post.url | url }}">
