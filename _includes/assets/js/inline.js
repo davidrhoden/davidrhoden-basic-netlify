@@ -36,7 +36,9 @@ $(document).ready(function() {
 });
 
 function showHidden() {
-  $("#timeline-detail").html($(this).text());
+  var hiddenText = $(this).parent().find(".hidden").text();
+  console.log(hiddenText);
+  $("#timeline-detail").html(hiddenText);
 };
 
 $(document).ready(function(){

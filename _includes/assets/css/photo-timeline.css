@@ -1,0 +1,23 @@
+.inline-block {
+	display: inline-block;
+}
+
+.post-year {
+	display: inline-block;
+	padding: .5em;
+	width: 64px;
+}
+
+.photo-timeline {
+	outline: 2px dashed orange;
+	flex-wrap: wrap;
+	margin: 1em auto;
+	width: 90vw;
+}
+
+#timeline-detail {
+	height: 2em;
+	margin: 1em auto;
+	width: 90vw;
+	outline: 2px dashed yellowgreen;
+}
