@@ -34,3 +34,11 @@ $(document).ready(function() {
       } 
     }
 });
+
+function showHidden() {
+  $("#timeline-detail").html($(this).text());
+};
+
+$(document).ready(function(){
+  $( ".photo-timeline" ).on( "mouseover", ".tiny-thumbnail", showHidden );
+});
