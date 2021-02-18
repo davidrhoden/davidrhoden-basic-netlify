@@ -36,11 +36,11 @@ $(document).ready(function() {
 });
 
 function showHidden() {
-  var hiddenText = $(this).parent().find(".hidden").text();
+  var hiddenText = $(this).parent().find(".hidden").html();
   console.log(hiddenText);
   $("#timeline-detail").html(hiddenText);
 };
 
 $(document).ready(function(){
-  $( ".photo-timeline" ).on( "mouseover", ".tiny-thumbnail", showHidden );
+  $( ".photo-timeline-link" ).on( "mouseover", ".tiny-thumbnail", showHidden );
 });

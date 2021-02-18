@@ -231,7 +231,7 @@ main img.thumbnail {
 	width: 160px;
 }
 
-main img.tiny-thumbnail, a.tiny-thumbnail img, .tiny-thumbnail {
+main img.tiny-thumbnail, a.tiny-thumbnail, a.tiny-thumbnail img {
 	height: 32px;
 	width: 32px;
 	overflow: hidden;
