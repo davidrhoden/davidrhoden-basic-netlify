@@ -16,7 +16,8 @@ section: timeline
 {% endif %}
 <article class="flex">
   <div class="left">
-    {% if post.data.image %}<img class="thumbnail" src="/static/img/{{ post.data.category }}/thumbnails/160/{{ post.data.image }}" />{% endif %}
+    {% if post.data.image %}
+      <img class="thumbnail" src="/static/img/{{ post.data.category }}/thumbnails/160/{{ post.data.image }}" />{% endif %}
   </div>
   <div>
   <p>
@@ -62,7 +63,7 @@ section: timeline
         <span class="post-year">{{ postYear }}</span>
     {% endif %}
   {% endif %}
-  <div class="photo-timeline-link" style="display: none;">
+  <div class="photo-timeline-link">
       {% if post.data.image %}
           <a class="tiny-thumbnail" href="{{ post.url }}"><img src="/static/img/{{ post.data.category }}/thumbnails/32/{{ post.data.image }}"></a>
       {% else %}
