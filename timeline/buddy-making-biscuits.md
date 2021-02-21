@@ -7,7 +7,8 @@ image: /static/img/buddy/buddy-making-biscuits.png
 tags:
   - post 
   - New Orleans
-  - Sally
+  - Buddy
+  - cats
 
 ---
 

@@ -9,6 +9,7 @@ tags:
   - New Orleans
   - Mid-City
   - Sally
+  - cats
 
 ---
 

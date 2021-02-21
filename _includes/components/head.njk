@@ -8,6 +8,7 @@
 
     gtag('config', 'UA-8793128-1');
   </script>
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   {% set css %}
@@ -16,12 +17,16 @@
     {% include "assets/css/photo-timeline.css" %}
     {# {% include "static/webfonts/ShadowGrotesque/stylesheet.css" %} #}
   {% endset %}
-  <link href="https://fonts.googleapis.com/css?family=Inter:100,200,300,400,500,600,700,800,900&display=swap" rel="stylesheet">
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;700&display=swap" rel="stylesheet">
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,700;1,100;1,300;1,700&display=swap" rel="stylesheet">
   <style>{{ css | safe }}</style>
   {% set js %}
     {% include "assets/js/jquery.min.js" %}
     {% include "assets/js/inline.js" %}
   {% endset %}
   <script>{{ js | safe }}</script>
+  <script async src="https://cse.google.com/cse.js?cx=016277135231861937268:s7pcwqxrw68"></script>
   {% seo "" %}
 </head>

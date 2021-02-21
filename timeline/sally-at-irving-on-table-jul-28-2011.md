@@ -7,6 +7,7 @@ image: /static/img/sally/sally-at-irving-on-table-jul-28-2011.jpg
 tags:
   - post
   - Sally
+  - cats
   - 181 Irving Avenue
   - backyard
 

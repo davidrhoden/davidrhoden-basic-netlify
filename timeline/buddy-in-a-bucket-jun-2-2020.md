@@ -7,6 +7,7 @@ image: /static/img/buddy/buddy-in-a-bucket-01-jun-2-2020.jpg
 tags:
   - post 
   - Buddy
+  - cats
   - New Orleans
   - 315 Tricou Street
   - danger

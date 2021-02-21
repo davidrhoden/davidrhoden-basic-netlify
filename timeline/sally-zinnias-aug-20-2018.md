@@ -10,6 +10,7 @@ tags:
   - Gina
   - Sally
   - 315 Tricou Street
+  - cats
   - flowers
 
 

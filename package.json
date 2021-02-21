@@ -13,8 +13,8 @@
   },
   "author": {
     "name": "David Rhoden",
-    "email": "davidrhoden@davidrhoden.com",
-    "url": "https://www.davidrhoden.com/"
+    "email": "david@davidrhoden.com",
+    "url": "https://davidrhoden.com/"
   },
   "license": "MIT",
   "bugs": {
@@ -22,8 +22,8 @@
   },
   "homepage": "https://davidrhoden.com",
   "devDependencies": {
-    "@11ty/eleventy": "^0.11.0-beta.3",
-    "luxon": "^1.22.2",
+    "@11ty/eleventy": "^0.11.1",
+    "luxon": "^1.25.0",
     "markdown-it": "^10.0.0",
     "markdown-it-anchor": "^5.2.7",
     "nunjucks-date-filter": "^0.1.1"

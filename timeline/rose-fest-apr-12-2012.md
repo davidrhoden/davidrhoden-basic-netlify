@@ -3,7 +3,7 @@ title: We had a benefit for Lauren's dog Rose
 date: 2014-04-05T18:00:00.000Z
 excerpt: The Stacks played.
 summary: The Stacks played.
-image: /static/img/design/rose-fest-flyer-apr-7-2012.jpg
+image: /static/img/designs/rose-fest-flyer-apr-7-2012.jpg
 tags:
   - post 
   - New Orleans
@@ -20,7 +20,7 @@ tags:
 
 ---
 
-![flyer from Rose Fest of Stacks](/static/img/design/rose-fest-flyer-apr-7-2012.jpg "flyer from Rose Fest of Stacks")
+![flyer from Rose Fest of Stacks](/static/img/designs/rose-fest-flyer-apr-7-2012.jpg "flyer from Rose Fest of Stacks")
 
 
 ![photo from Rose Fest of Stacks](/static/img/rock/rose-fest-with-alan-02-apr-12-2012.jpg "photo from Rose Fest of Stacks")

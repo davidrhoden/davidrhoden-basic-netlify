@@ -5,17 +5,16 @@
 
     <body class="{% if pageType %}{{ pageType }} {{ pageType }}__{{ page.fileSlug }}{% endif %} {{ pageClasses }}">
         
-
         <header>
-            <a class="mainlink" href="{{ '/' | url }}">{{ metadata.title }}</a>
-            <div class="mobile-menu">
-<!--                 <script async src="https://cse.google.com/cse.js?cx=016277135231861937268:s7pcwqxrw68"></script>
-                <div class="gcse-search"></div> -->
-                <button class="hamburger hamburger--squeeze" aria-label="Menu" aria-controls="primary-menu" aria-expanded="false" type="button">
-                    <span class="hamburger-box">
-                        <span class="hamburger-inner"></span>
-                    </span>
-                </button>
+            <div class="flex-container">
+                <a class="main-link" href="{{ '/' | url }}">{{ metadata.title }}</a>
+                <div class="mobile-menu">
+                    <button class="hamburger hamburger--squeeze" aria-label="Menu" aria-controls="primary-menu" aria-expanded="false" type="button">
+                        <span class="hamburger-box">
+                            <span class="hamburger-inner"></span>
+                        </span>
+                    </button>
+                </div>
             </div>
             {% include "components/nav.njk" %}
         </header>
