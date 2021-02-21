@@ -53,7 +53,7 @@ section: timeline
 </div>
 
 <div id="timeline-detail"></div>
-<div class="photo-timeline flex">
+<div class="photo-timeline flex" style="display:none;">
   {% set currentYear = "" %}
   {% for post in collections.post | reverse %}
   {% if showYear %}
