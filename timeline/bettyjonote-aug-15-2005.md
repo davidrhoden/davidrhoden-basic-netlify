@@ -3,7 +3,8 @@ title: I worked at a law firm with miserable people.
 date: 2005-08-15T15:00:00.000
 excerpt: It was miserable. I made it a little bit fun though.  
 summary: It was miserable. I made it a little bit fun though.
-image: /static/img/timeline/bettyjonote-aug-15-2005.jpg
+category: timeline
+image: bettyjonote-aug-15-2005.jpg
 tags:
   - post 
   - New Orleans

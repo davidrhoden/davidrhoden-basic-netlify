@@ -3,7 +3,8 @@ title: My college diploma, laminated
 date: 1991-12-15T16:00:00.000Z
 summary: I got this in the mail from the alumni association at UT. I shoulda put a penny for scale. 
 excerpt: I got this in the mail from the alumni association at UT. I shoulda put a penny for scale. 
-image: /static/img/timeline/laminated-diploma.jpg
+category: timeline
+image: laminated-diploma.jpg
 tags:
   - post 
   - Knoxville

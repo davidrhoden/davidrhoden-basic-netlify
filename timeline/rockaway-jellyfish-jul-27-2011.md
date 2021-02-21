@@ -3,7 +3,8 @@ title: deadly jelly on Rockaway Beach
 date: 2011-07-27T08:00:00.000Z
 summary: sorry, just a deflated mylar balloon.
 excerpt: sorry, just a deflated mylar balloon.
-image: /static/img/timeline/deadly-rockaway-jellyfish-jul-27-2011.jpg
+category: timeline
+image: deadly-rockaway-jellyfish-jul-27-2011.jpg
 tags:
   - post 
   - NYC

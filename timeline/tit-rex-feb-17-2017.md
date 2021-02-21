@@ -3,7 +3,8 @@ title: "I got to be in the 'tit R&schwa;x parade"
 date: 2014-05-21T11:00:00.000Z
 summary: I made some miniature throws. I thought they had to be Roman-themed.
 excerpt: I made some miniature throws. I thought they had to be Roman-themed.
-image: /static/img/timeline/david-and-robin-tit-rex-feb-17-2017.jpg
+category: timeline
+image: david-and-robin-tit-rex-feb-17-2017.jpg
 tags:
   - post 
   - Mardi Gras

@@ -1,7 +1,8 @@
 ---
 title: Family, 1970
 date: 1970-03-29T12:00:00.000Z
-image: /static/img/timeline/family-photo-1970.jpg
+category: timeline
+image: family-photo-1970.jpg
 tags:
   - post
   - Atlanta

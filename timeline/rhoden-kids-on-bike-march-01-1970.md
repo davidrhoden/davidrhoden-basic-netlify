@@ -3,7 +3,8 @@ title: Me, Beverly, and Matt on a bike with our dad, about 1971
 date: 1971-03-01T10:00:00.000Z
 summary: I could use some help with the date. Matt's more than one year old.
 excerpt: I could use some help with the date. Matt's more than one year old.
-image: /static/img/timeline/rhoden-kids-on-bike-1971.jpg
+category: timeline
+image: rhoden-kids-on-bike-1971.jpg
 tags:
   - post 
   - Knoxville

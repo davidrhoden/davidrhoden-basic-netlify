@@ -3,7 +3,8 @@ title: saw Wayne white exhibit at the Hunter Museum in Chattanooga
 date: 2017-08-20T17:00:00.000Z
 excerpt: A really fun show.
 summary: A really fun show.
-image: /static/img/timeline/waynewhite/waynewhitelouvins.jpg
+category: timeline
+image: waynewhite/waynewhitelouvins.jpg
 tags:
   - post
   - Wayne White

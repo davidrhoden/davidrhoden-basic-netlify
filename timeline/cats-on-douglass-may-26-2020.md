@@ -3,7 +3,8 @@ title: Cats on a car on Douglass Street, Lower Ninth Ward
 date: 2020-05-26T16:00:00.000Z
 summary: This wouldn't be remarkable except when I see these cats I always look for Sally.
 excerpt: This wouldn't be remarkable except when I see these cats I always look for Sally.
-image: /static/img/timeline/cats-on-douglass-may-26-2020.jpg
+category: timeline
+image: cats-on-douglass-may-26-2020.jpg
 tags:
   - post 
   - New Orleans

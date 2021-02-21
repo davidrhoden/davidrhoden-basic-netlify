@@ -2,7 +2,8 @@
 title: we had a little pickin party
 date: 2018-03-02T19:00:00.000Z
 summary: For my birthday we had a campfire and a pickin party
-image: /static/img/timeline/pickin-party-fakebook.jpg
+category: timeline
+image: pickin-party-fakebook.jpg
 tags:
   - post
   - parties

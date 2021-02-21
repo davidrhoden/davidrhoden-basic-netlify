@@ -3,7 +3,8 @@ title: Mardi Gras 2019
 date: 2019-03-05T09:00:00.000Z
 summary: This was probably my last Mardi Gras. 
 excerpt: This was probably my last Mardi Gras. 
-image: /static/img/timeline/davidandginamardigras2019.jpg
+category: timeline
+image: davidandginamardigras2019.jpg
 tags:
   - post
   - Mardi Gras 

@@ -1,7 +1,8 @@
 ---
 title: I lived in this not-quite-legal loft on Causeway Street in Boston.
 date: 1987-03-02T12:00:00.000Z
-image: /static/img/timeline/causeway-loft-1987.jpg
+category: timeline
+image: causeway-loft-1987.jpg
 summary: I was there in 1987. I wish I had more pictures.
 excerpt: I was there in 1987. I wish I had more pictures.
 tags:

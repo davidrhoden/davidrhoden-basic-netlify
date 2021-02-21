@@ -3,7 +3,8 @@ title: I had a great backyard at 181 irving Avenue in Bushwick, Brooklyn
 date: 2009-06-29T21:00:00.000
 excerpt: It got hit by a tornado. It hosted many parties and cookouts.  
 summary: It got hit by a tornado. It hosted many parties and cookouts.
-image: /static/img/timeline/barbecue-food-at-irving-jun-29-2009.jpg
+category: timeline
+image: barbecue-food-at-irving-jun-29-2009.jpg
 tags:
   - post 
   - NYC

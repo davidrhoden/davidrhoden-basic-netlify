@@ -3,7 +3,8 @@ title: Holy Cross Music Hang
 date: 2020-11-14T14:00:00.000Z
 summary: Gina put on a socially-distanced live music show.
 excerpt: Gina put on a socially-distanced live music show.
-image: /static/img/timeline/holycrossmusic/gina-phillips-and-friends-nov-14-2020.jpg
+category: timeline
+image: holycrossmusic/gina-phillips-and-friends-nov-14-2020.jpg
 tags:
   - post 
   - New Orleans

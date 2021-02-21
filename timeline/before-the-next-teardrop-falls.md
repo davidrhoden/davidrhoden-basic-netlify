@@ -3,7 +3,8 @@ title: Before The Next Teardrop Falls
 date: 2020-02-24T18:00:00.000Z
 summary: Once when I was a teenager, maybe fifteen, I answered the phone. It was my mom's mother, Grandma Vada. She asked me a question. 
 excerpt: Once when I was a teenager, maybe fifteen, I answered the phone. It was my mom's mother, Grandma Vada. She asked me a question. 
-image: /static/img/timeline/freddy-fender-facesleeve.jpg
+category: timeline
+image: freddy-fender-facesleeve.jpg
 tags:
   - post
   - stories

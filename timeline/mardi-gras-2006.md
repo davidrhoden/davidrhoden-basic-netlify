@@ -3,7 +3,8 @@ title: Mardi Gras 2006 non-costume
 date: 2014-03-04T11:00:00.000Z
 summary: This picture really expresses how I felt at the time.
 excerpt: This picture really expresses how I felt at the time.
-image: /static/img/timeline/david-at-mardi-gras-looking-baffled-2006.jpg
+category: timeline
+image: david-at-mardi-gras-looking-baffled-2006.jpg
 tags:
   - post 
   - New Orleans

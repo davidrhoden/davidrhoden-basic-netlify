@@ -3,7 +3,8 @@ title: the strangest wedding present
 date: 2000-04-23T13:00:00.000Z
 summary: I actually lived like this.
 excerpt: I actually lived like this.
-image: /static/img/timeline/chainsaw-pelican-apr-23-2000.jpg
+category: timeline
+image: chainsaw-pelican-apr-23-2000.jpg
 tags:
   - post
   - New Orleans

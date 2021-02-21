@@ -2,7 +2,8 @@
 title: Red Hot
 date: 2002-11-28T11:00:00.000Z
 summary: We have a ritual regarding this sign
-image: /static/img/timeline/red-hot.jpg
+category: timeline
+image: red-hot.jpg
 tags:
   - post
   - Chattanooga

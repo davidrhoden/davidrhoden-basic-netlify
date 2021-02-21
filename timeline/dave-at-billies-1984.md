@@ -3,7 +3,8 @@ title: Playing with a Gene Simmons doll
 date: 1984-09-09T22:00:00.000Z
 summary: Very unsure of the date of this.
 excerpt: Very unsure of the date of this.
-image: /static/img/timeline/dave-from-billie-o-1984.jpg
+category: timeline
+image: dave-from-billie-o-1984.jpg
 tags:
   - post 
   - Chattanooga

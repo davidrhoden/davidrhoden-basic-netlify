@@ -1,7 +1,8 @@
 ---
 title: I went to Union Pool for New Year's and met Hannibal
 date: 2005-12-31T23:59:00.000Z
-image: /static/img/timeline/debbied-mattu-and-me-dec-31-2005.jpg
+category: timeline
+image: debbied-mattu-and-me-dec-31-2005.jpg
 tags:
   - post 
   - parties

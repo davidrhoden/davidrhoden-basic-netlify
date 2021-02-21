@@ -3,7 +3,8 @@ title: I saw Archie Bell at McCarren Pool.
 date: 2006-08-20T21:00:00.000Z
 summary: Great show. He talked to Kool-Aid.
 excerpt: Great show. He talked to Kool-Aid.
-image: /static/img/timeline/archie-bell-20060820-GaryWong.jpg
+category: timeline
+image: archie-bell-20060820-GaryWong.jpg
 tags:
   - post
   - NYC

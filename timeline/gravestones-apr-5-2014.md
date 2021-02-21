@@ -3,7 +3,8 @@ title: Gravestones in the cemetery on Spruce Street
 date: 2014-04-05T18:00:00.000Z
 excerpt: Not quite like Holt Cemetery, but sort of.
 summary: Not quite like Holt Cemetery, but sort of.
-image: /static/img/timeline/gravestones1404051.jpg
+category: timeline
+image: gravestones1404051.jpg
 tags:
   - post 
   - New Orleans

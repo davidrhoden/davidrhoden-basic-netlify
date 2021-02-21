@@ -3,7 +3,8 @@ title: found some marbles in my firepit
 date: 2018-08-17T11:00:00.000Z
 summary: I wonder if these are from the '20s or the '90s.
 excerpt: I wonder if these are from the '20s or the '90s.
-image: /static/img/timeline/marblesfoundinfirepit-aug-17-2018.jpg
+category: timeline
+image: marblesfoundinfirepit-aug-17-2018.jpg
 tags:
   - post 
   - marbles

@@ -3,7 +3,8 @@ title: Kicks, Atoms Win In CYF
 date: 1979-03-02T19:00:00.000Z
 summary: I think that was my only goal of the season but it was also my birthday.
 excerpt: I think that was my only goal of the season but it was also my birthday.
-image: /static/img/timeline/cyf-soccer-mar-2-1979.jpg
+category: timeline
+image: cyf-soccer-mar-2-1979.jpg
 tags:
   - post 
   - Chattanooga

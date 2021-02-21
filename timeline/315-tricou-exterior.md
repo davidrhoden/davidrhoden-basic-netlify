@@ -3,7 +3,8 @@ title: My house in New Orleans
 date: 2018-04-19T11:00:00.000Z
 summary: I moved to the Ninth Ward. Most of my pictures from this time are out of focus.
 excerpt: I moved to the Ninth Ward. Most of my pictures from this time are out of focus.
-image: /static/img/timeline/315-tricou-20180419.jpg
+category: timeline
+image: 315-tricou-20180419.jpg
 tags:
   - post 
   - New Orleans

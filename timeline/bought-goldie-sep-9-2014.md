@@ -3,7 +3,8 @@ title: I bought my truck, Goldie.
 date: 2014-09-09T12:00:00.000Z
 summary: A 1999 Ford Ranger.
 excerpt: A 1999 Ford Ranger.
-image: /static/img/timeline/goldie-good-picture.jpg
+category: timeline
+image: goldie-good-picture.jpg
 tags:
   - post
   - Goldie

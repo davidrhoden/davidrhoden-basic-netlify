@@ -3,7 +3,8 @@ title: the inside of my house in New Orleans
 date: 2020-03-27T11:00:00.000Z
 summary: I seem not to change much in how I live.
 excerpt: I seem not to change much in how I live.
-image: /static/img/timeline/315-tricou-mar-27-2020.jpg
+category: timeline
+image: 315-tricou-mar-27-2020.jpg
 tags:
   - post 
   - New Orleans

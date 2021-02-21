@@ -3,7 +3,8 @@ title: saw Wayne-O-Rama in Chattanooga
 date: 2017-08-19T17:00:00.000Z
 excerpt: I also saw the Wayne White museum show, but this might have been more fun.
 summary: I also saw the Wayne White museum show, but this might have been more fun.
-image: /static/img/timeline/waynewhite/wayne-white-show-in-chatt-aug-19-2017.jpg
+category: timeline
+image: waynewhite/wayne-white-show-in-chatt-aug-19-2017.jpg
 tags:
   - post
   - Wayne White

@@ -3,7 +3,8 @@ title: went to Slade and Amara's wedding, and DJed the reception
 date: 2009-05-17T14:00:00.000Z
 summary: The whole thing was somewhat interrupted by what you might call a flash flood.
 excerpt: The whole thing was somewhat interrupted by what you might call a flash flood.
-image: /static/img/timeline/slade-amara-wedding-invite-may-17-2009.jpg
+category: timeline
+image: slade-amara-wedding-invite-may-17-2009.jpg
 tags:
   - post
   - weddings

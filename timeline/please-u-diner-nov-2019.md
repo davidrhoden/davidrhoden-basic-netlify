@@ -3,7 +3,8 @@ title: throwback diner in New Orleans
 date: 2019-11-19T13:00:00.000Z
 summary: I stopped in the Please-U Diner on St. Charles Avenue in New Orleans.
 excerpt: I stopped in the Please-U Diner on St. Charles Avenue in New Orleans.
-image: /static/img/timeline/please-u-diner-20191112.jpg
+category: timeline
+image: please-u-diner-20191112.jpg
 tags:
   - post
   - food

@@ -1,7 +1,8 @@
 ---
 title: Ernie K-Doe's funeral
 date: 2001-07-13T22:00:00.000Z
-image: /static/img/timeline/kdoe-funeral20010713.jpg
+category: timeline
+image: kdoe-funeral20010713.jpg
 tags:
   - post 
   - New Orleans

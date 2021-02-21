@@ -3,7 +3,8 @@ title: Report from the hermitage
 date: 2020-10-01T13:00:00.000Z
 summary: I grew a beard for the first time in my life.
 excerpt: I grew a beard for the first time in my life.
-image: /static/img/timeline/david-with-beard-oct-1-2020.jpg
+category: timeline
+image: david-with-beard-oct-1-2020.jpg
 tags:
   - post 
   - New Orleans

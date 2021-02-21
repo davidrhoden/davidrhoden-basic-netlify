@@ -3,7 +3,8 @@ title: saw Future Of The Left at Music Hall of Williamsburg
 date: 2009-10-30T22:00:00.000Z
 summary: Headliners at a big venue.
 excerpt: Headliners at a big venue.
-image: /static/img/timeline/future-of-the-left-tkt-stub-oct-30-2009.jpg
+category: timeline
+image: future-of-the-left-tkt-stub-oct-30-2009.jpg
 tags:
   - post
   - NYC

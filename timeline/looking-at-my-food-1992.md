@@ -3,7 +3,8 @@ title: a street encounter
 date: 1992-09-30T17:30:00.000Z
 summary: I looked at a pedestrian's food for too long.
 excerpt: I looked at a pedestrian's food for too long.
-image: /static/img/timeline/blarney-stone-3rd-avenue.jpg
+category: timeline
+image: blarney-stone-3rd-avenue.jpg
 tags:
   - post 
   - NYC

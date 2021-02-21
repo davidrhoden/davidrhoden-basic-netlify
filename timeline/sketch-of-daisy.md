@@ -3,7 +3,8 @@ title: sketch of Daisy, sitting on the couch with me
 date: 2017-11-19T19:00:00.000Z
 summary: Daisy is a skinny little pit bull Gina found on the levee.
 excerpt: Daisy is a skinny little pit bull Gina found on the levee.
-image: /static/img/timeline/daisy-sketch-171118.jpg
+category: timeline
+image: daisy-sketch-171118.jpg
 tags:
   - post
   - Gina

@@ -3,7 +3,8 @@ title: My shed on Clark Street.
 date: 2017-09-09T13:00:00.000Z
 summary: I actually lived like this.
 excerpt: I actually lived like this.
-image: /static/img/timeline/shed-on-clark-street-sep-9-2017.jpg
+category: timeline
+image: shed-on-clark-street-sep-9-2017.jpg
 tags:
   - post
   - New Orleans

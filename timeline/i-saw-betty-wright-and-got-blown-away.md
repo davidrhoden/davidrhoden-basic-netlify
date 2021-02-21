@@ -3,7 +3,8 @@ title: I saw Betty Wright at Jazz Fest and got blown away
 date: 2000-05-07T16:00:00.000Z
 summary: I'm writing this on May 11, 2020, having just heard the news that Betty Wright has passed at the age of 66. I saw Betty Wright at Jazz Fest on May 7, 2000. It was one of the best shows I ever saw.
 excerpt: I'm writing this on May 11, 2020, having just heard the news that Betty Wright has passed at the age of 66. I saw Betty Wright at Jazz Fest on May 7, 2000. It was one of the best shows I ever saw.
-image: /static/img/timeline/betty-wright-live.jpg
+category: timeline
+image: betty-wright-live.jpg
 tags:
   - post
   - stories

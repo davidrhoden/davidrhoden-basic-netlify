@@ -3,7 +3,8 @@ title: "dreamed: a new Rod Stewart tune"
 date: 2020-12-20T07:00:00.000Z
 summary: A classic record gets a new track.
 excerpt: A classic record gets a new track.
-image: /static/img/timeline/stewart_againf.jpg
+category: timeline
+image: stewart_againf.jpg
 tags:
   - post 
   - dreamed

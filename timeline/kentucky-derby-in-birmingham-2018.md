@@ -3,7 +3,8 @@ title: Gina and I went to a dog track to watch the Kentucky Derby in Birmingham
 date: 2018-05-05T17:00:00.000Z
 excerpt: The Kentucky Derby fell on the day we were there and we went to the city dog track to watch it.
 summary: The Kentucky Derby fell on the day we were there and we went to the city dog track to watch it.
-image: /static/img/timeline/dogtrackrail-may-5-2018.jpg
+category: timeline
+image: dogtrackrail-may-5-2018.jpg
 tags:
   - post
   - Gina
