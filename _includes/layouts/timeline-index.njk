@@ -91,7 +91,7 @@ section: timeline
   </div>
 {% endfor %}
 </div>
-<div>
+<div style="width: 90vw; margin: 0 auto;">
   <ul class="pagination">
   {%- for pageEntry in pagination.pages %}
     <li><a href="{{ pagination.hrefs[ loop.index0 ] }}"{% if page.url == pagination.hrefs[ loop.index0 ] %} aria-current="page"{% endif %}>{{ loop.index }}</a></li>
