@@ -3,7 +3,8 @@ title: Monster
 date: 2020-12-13T10:00:00.000Z
 summary: They said the quarantine would be a great time to get work done.
 excerpt: They said the quarantine would be a great time to get work done.
-image: /static/img/paintings/many-eyes-dec-13-2020.jpg
+category: paintings
+image: many-eyes-dec-13-2020.jpg
 tags:
   - post 
   - paintings

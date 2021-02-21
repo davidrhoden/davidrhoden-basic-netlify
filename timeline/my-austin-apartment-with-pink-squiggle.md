@@ -3,7 +3,8 @@ title: My house in Austin
 date: 2015-05-02T11:00:00.000Z
 summary: I made this big pink thing for my office but I hung it up in my apartment for a while. 
 excerpt: I made this big pink thing for my office but I hung it up in my apartment for a while. 
-image: /static/img/paintings/squiggle150502.jpg
+category: paintings
+image: squiggle150502.jpg
 tags:
   - post 
   - paintings

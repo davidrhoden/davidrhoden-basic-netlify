@@ -3,7 +3,8 @@ title: Avatar painting in my Bushwick place
 date: 2011-08-06T21:00:00.000Z
 summary: Rent then was a mere $1400 for one long room.
 excerpt: Rent then was a mere $1400 for one long room.
-image: /static/img/paintings/avatar-by-amber-aug-6-2011.jpg
+category: paintings
+image: avatar-by-amber-aug-6-2011.jpg
 tags:
   - post 
   - paintings

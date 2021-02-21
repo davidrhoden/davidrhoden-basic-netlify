@@ -3,7 +3,8 @@ title: Consider the stumpgrinder.
 date: 2021-02-01T11:00:00.000Z
 summary: I think it's finished.
 excerpt: I think it's finished.
-image: /static/img/paintings/rayco-flat-feb-1-2021.jpg
+category: paintings
+image: rayco-flat-feb-1-2021.jpg
 tags:
   - post 
   - paintings
