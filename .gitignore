@@ -12,3 +12,4 @@ package-lock.json
 /timeline/talbot-quit-jan-24-2003.md
 # Local Netlify folder
 .netlify
+.cache

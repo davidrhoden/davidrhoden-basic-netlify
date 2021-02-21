@@ -7,7 +7,7 @@ image: /static/img/notes/froggy.jpg
 tags:
   - note 
   - Gina
-  - tv
+  - TV
   - Kentucky
   - Happy and Froggy
 

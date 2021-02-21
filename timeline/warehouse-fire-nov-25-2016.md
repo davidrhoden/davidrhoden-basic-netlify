@@ -3,7 +3,8 @@ title: a warehouse caught fire while I was home for Thanksgiving
 date: 2016-11-25T17:17:00.000Z
 excerpt: Nobody was hurt.
 summary: Nobody was hurt.
-image: /static/img/timeline/fire161125_1.jpg
+category: timeline
+image: fire161125_1.jpg
 tags:
   - post
   - Chattanooga

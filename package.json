@@ -29,6 +29,7 @@
     "nunjucks-date-filter": "^0.1.1"
   },
   "dependencies": {
+    "@11ty/eleventy-img": "^0.8.0",
     "@11ty/eleventy-navigation": "^0.1.5",
     "@netlify/plugin-sitemap": "^0.3.3",
     "clean-css": "^4.2.1",

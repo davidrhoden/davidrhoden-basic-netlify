@@ -14,6 +14,10 @@
     box-sizing: border-box;
 }
 
+.clear {
+	clear: both;
+}
+
 .hidden {
 	display: none;
 }
@@ -257,7 +261,7 @@ main img.thumbnail {
 	width: 160px;
 }
 
-main img.tiny-thumbnail, a.tiny-thumbnail img, .tiny-thumbnail {
+main img.tiny-thumbnail, a.tiny-thumbnail, a.tiny-thumbnail img {
 	height: 32px;
 	width: 32px;
 	overflow: hidden;
@@ -265,9 +269,13 @@ main img.tiny-thumbnail, a.tiny-thumbnail img, .tiny-thumbnail {
 
 .tiny-thumbnail:hover + .hidden {
 	background: white;
+	border: 1px solid #666666;
+	box-shadow: 0px 0px 5px 3px rgba(0,0,0,0.25);
 	display: inline-block;
 	padding: 2em;
-	position: relative;
+	position: absolute;
+	left: 32px;
+	top: 32px;
 	z-index: 10;
 }
 

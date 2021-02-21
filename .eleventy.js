@@ -6,16 +6,10 @@ const slugify = require("slugify");
 const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
 const pluginSEO = require("eleventy-plugin-seo");
 
+
 module.exports = function(eleventyConfig) {
 
-  // Eleventy Navigation https://www.11ty.dev/docs/plugins/navigation/
   eleventyConfig.addPlugin(eleventyNavigationPlugin);
-
-  // Configuration API: use eleventyConfig.addLayoutAlias(from, to) to add
-  // layout aliases! Say you have a bunch of existing content using
-  // layout: post. If you don’t want to rewrite all of those values, just map
-  // post to a new file like this:
-  // eleventyConfig.addLayoutAlias("post", "layouts/my_new_post_layout.njk");
 
   eleventyConfig.addPlugin(pluginSEO, {
   title: "David Rhoden",
@@ -33,12 +27,10 @@ module.exports = function(eleventyConfig) {
   // https://www.11ty.dev/docs/data-deep-merge/
   eleventyConfig.setDataDeepMerge(true);
 
-  // Date formatting (human readable)
   eleventyConfig.addFilter("readableDate", dateObj => {
     return DateTime.fromJSDate(dateObj).toFormat("LLLL d yyyy");
   });
 
-  // Date formatting (machine readable)
   eleventyConfig.addFilter("machineDate", dateObj => {
     return DateTime.fromJSDate(dateObj).toFormat("yyyy-MM-dd");
   });
@@ -89,90 +81,6 @@ module.exports = function(eleventyConfig) {
 
     return allNotes;
   });
-
-
-  // eleventyConfig.addCollection("years", function(collection) {
-  //   const yr = collection.getFilteredByDate("2020");
-  //   return yr;
-  // });
-
-  // const moment = require("moment");
-
-  // function generateDateSet(collection, format){
-  //   let dateSet = new Set();
-
-  //   collection.getAllSorted().forEach(function(item) {
-  //     if( "date" in item.data ) {
-
-  //       var tags = item.data.tags;
-  //       if( typeof tags === "string" ) {
-  //         tags = [tags];
-  //       }
-  //       if ( tags && tags.includes("post") ){
-  //         let itemDate = item.data.date;
-  //         var date = moment(itemDate).format(format);
-  //         dateSet.add(date);
-  //       }     
-  //     }
-  //   });
-
-  //   return Array.from(dateSet);
-  // }
-  // });
-
-  // function getItemsByDate(collection, date, format){
-
-  //   var result = {};
-  //   result = collection.getAll().filter(function(item) {
-
-  //       var tags = item.data.tags;
-
-  //       if( typeof tags === "string" ) {
-  //         tags = [tags];
-  //       }
-
-  //       if ( tags && tags.includes("post") ){
-
-  //         if( !item.data.date ){
-  //           return false;
-  //         }
-
-  //         var itemDate = item.data.date;
-  //         var itemShortDate = moment(itemDate).format(format);
-
-  //         return (itemShortDate == date);
-  //       };
-  //       return false;
-  //     });
-
-  //   result = result.sort(function(a, b) {
-  //     return b.date - a.date;
-  //   });
-
-  //   return result;
-  // }
-
-  // const contentByDateString = (collection, format) => {
-  //   var dateSet = {};
-  //   var newSet = new Set();
-
-  //   dateSet = generateDateSet(collection, format);
-
-  //   dateSet.forEach(function(date){
-  //     var result = getItemsByDate(collection, date, format)
-  //     newSet[date] = result;
-  //   });
-
-  //   return [{...newSet}];
-  // }
-
-  // exports.contentByMonth = collection => {
-  //   return contentByDateString(collection, "YYYY/MM");
-  // }
-
-  // exports.contentByYear = collection => {
-  //   return contentByDateString(collection, "YYYY");
-  // }
 
   // Minify HTML output
   eleventyConfig.addTransform("htmlmin", function(content, outputPath) {

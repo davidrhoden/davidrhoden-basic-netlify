@@ -3,7 +3,8 @@ title: I painted a lighter.
 date: 2020-07-19T12:00:00.000Z
 summary: Several commenters thought it was a golf bag.
 excerpt: Several commenters thought it was a golf bag.
-image: /static/img/paintings/lighter-jul-19-2020.jpg
+category: paintings
+image: lighter-jul-19-2020.jpg
 tags:
   - post
   - paintings

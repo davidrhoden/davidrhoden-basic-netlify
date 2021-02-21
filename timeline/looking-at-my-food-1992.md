@@ -10,7 +10,7 @@ tags:
   - barbecue
   - stories
   - date approximate
-
+  
 ---
 
 ![Blarney Stone Bar in NYC](/static/img/timeline/blarney-stone-3rd-avenue.jpg)
