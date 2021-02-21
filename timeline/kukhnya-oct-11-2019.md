@@ -3,7 +3,8 @@ title: at Kukhnya with Gina
 date: 2019-10-25T11:00:00.000Z
 summary: A night out with Trey and Becca.
 excerpt: A night out with Trey and Becca.
-image: https://davidrhoden.com/static/img/gina/dave-gina-kukhnya-oct-11-2019.jpg
+category: gina
+image: dave-gina-kukhnya-oct-11-2019.jpg
 tags:
   - post 
   - Gina

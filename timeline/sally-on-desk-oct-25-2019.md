@@ -3,7 +3,8 @@ title: Sally on the desk as usual
 date: 2019-10-25T11:00:00.000Z
 summary: We were so happy then.
 excerpt: We were so happy then.
-image: https://davidrhoden.com/static/img/sally/sally-on-desk-2019-10-25.jpg
+category: sally
+image: sally-on-desk-2019-10-25.jpg
 tags:
   - post 
   - New Orleans

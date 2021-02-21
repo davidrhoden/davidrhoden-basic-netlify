@@ -3,7 +3,8 @@ title: I made some half-sours
 date: 2020-05-25T11:00:00.000Z
 summary: Look out, Mr. Heinz!
 excerpt: Look out, Mr. Heinz!
-image: https://davidrhoden.com/static/img/timeline/single-pickle-may-25-2020.jpg
+category: timeline
+image: single-pickle-may-25-2020.jpg
 tags:
   - post 
   - New Orleans

@@ -3,7 +3,8 @@ title: I played bass with Fore Day Creep
 date: 2019-12-29T22:00:00.000Z
 summary: Last time playing that bass on stage, it turns out
 excerpt: Last time playing that bass on stage, it turns out
-image: https://davidrhoden.com/static/img/rock/fore-day-creep-dec-29-2019.jpg
+category: rock
+image: ore-day-creep-dec-29-2019.jpg
 tags:
   - post 
   - New Orleans
