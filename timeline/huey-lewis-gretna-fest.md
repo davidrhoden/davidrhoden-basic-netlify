@@ -3,7 +3,8 @@ title: saw huey lewis at gretna fest
 date: 2017-10-27T11:00:00.000Z
 summary: All Access, baby
 excerpt: All Access, baby
-image: /static/img/rock/huey-lewis-all-access-oct-27-2017.jpg
+category: rock
+image: huey-lewis-all-access-oct-27-2017.jpg
 tags:
   - post 
   - rock

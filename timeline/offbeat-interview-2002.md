@@ -3,7 +3,8 @@ title: I got interviewed by Bunny Matthews for Offbeat
 date: 2002-11-01T10:00:00.000Z
 summary: I don't think the managing editor was too thrilled.
 excerpt: I don't think the managing editor was too thrilled.
-image: /static/img/press/disndatoffbeatarticlep1.jpg
+category: press
+image: /disndatoffbeatarticlep1.jpg
 tags:
   - post 
   - New Orleans

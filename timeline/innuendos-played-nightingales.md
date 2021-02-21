@@ -3,7 +3,8 @@ title: The Innuendos played Nightingale's
 date: 1999-06-11T11:00:00.000Z
 summary: A gig with a couple of favorite NYC bands
 excerpt: A gig with a couple of favorite NYC bands
-image: /static/img/rock/chimpcard.jpg
+category: rock
+image: chimpcard.jpg
 tags:
   - post 
   - rock

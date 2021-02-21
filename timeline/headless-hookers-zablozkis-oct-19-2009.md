@@ -3,7 +3,8 @@ title: Headless Hookers played at Zablozki's
 date: 2009-10-19T22:00:00.000Z
 summary: It was a bar in Williamsburg Brooklyn.
 excerpt: It was a bar in Williamsburg Brooklyn.
-image: /static/img/rock/headless-hookers-zablozkis-oct-19-2009.jpg
+category: rock
+image: headless-hookers-zablozkis-oct-19-2009.jpg
 tags:
   - post 
   - NYC

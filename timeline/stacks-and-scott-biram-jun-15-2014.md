@@ -3,7 +3,8 @@ title: Stacks played at Siberia with Scott H. Biram
 date: 2014-06-15T21:00:00.000Z
 summary: Pretty fun show. Austin Lucas was bossy.
 excerpt: Pretty fun show. Austin Lucas was bossy.
-image: /static/img/rock/stacks-scott-biram-140615.jpg
+category: rock
+image: stacks-scott-biram-140615.jpg
 tags:
   - post 
   - New Orleans

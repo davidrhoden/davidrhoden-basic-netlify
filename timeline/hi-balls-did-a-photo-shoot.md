@@ -3,7 +3,8 @@ title: Hi-Balls did a photo shoot
 date: 1996-04-01T16:00:00.000Z
 summary: When they bring out the white seamless, you've made it.
 excerpt: When they bring out the white seamless, you've made it.
-image: /static/img/rock/hi-balls-jump.jpg
+category: rock
+image: hi-balls-jump.jpg
 tags:
   - post 
   - rock

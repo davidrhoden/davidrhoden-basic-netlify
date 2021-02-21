@@ -3,7 +3,8 @@ title: Jimmy and The Wolfpack at Matchless, Greenpoint, Brooklyn.
 date: 2009-06-03T23:59:00.000Z
 summary: We played this bar several times.
 excerpt: We played this bar several times.
-image: /static/img/rock/jandtwp-bar-matchless-amber-1-mar-24-2011.jpg
+category: rock
+image: jandtwp-bar-matchless-amber-1-mar-24-2011.jpg
 tags:
   - post
   - Jimmy and The Wolfpack

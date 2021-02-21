@@ -3,7 +3,8 @@ title: Stacks played Lounge Lizards, I made a special flyer.
 date: 2004-04-23T00:00:00.000Z
 summary: The paper color was really important.
 excerpt: The paper color was really important.
-image: /static/img/rock/stacks-flyer-apr-23-2004.jpg
+category: rock
+image: stacks-flyer-apr-23-2004.jpg
 tags:
   - post 
   - rock

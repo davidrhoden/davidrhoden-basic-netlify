@@ -3,7 +3,8 @@ title: Animated metamorphoses
 date: 2021-01-10T21:00:00.000Z
 summary: Started drawing and didn't stop.
 excerpt: Started drawing and didn't stop.
-image: /static/img/animations/bunnyface-jan-10-2021.gif
+category: animations
+image: /bunnyface-jan-10-2021.gif
 tags:
   - post
   - animation

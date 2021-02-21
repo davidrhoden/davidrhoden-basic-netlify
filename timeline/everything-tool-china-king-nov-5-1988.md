@@ -3,7 +3,8 @@ title: Everything Tool played with Across The Yard at China King
 date: 1988-11-05T22:00:00.000Z
 summary: Across the Yard were, in fact, the jangliest.
 excerpt: Across the Yard were, in fact, the jangliest.
-image: /static/img/rock/everything-tool-china-king-nov-5-1988.jpg
+category: rock
+image: everything-tool-china-king-nov-5-1988.jpg
 tags:
   - post 
   - rock

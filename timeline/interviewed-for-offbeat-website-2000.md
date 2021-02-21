@@ -3,7 +3,8 @@ title: I interviewed for the job of running the Offbeat magazine web site
 date: 2001-05-01T11:00:00.000Z
 summary: It was one of the least worthwhile job interviews I've been on.
 excerpt: It was one of the least worthwhile job interviews I've been on.
-image: /static/img/press/offbeat-cover-nov-2002.jpg
+category: press
+image: /offbeat-cover-nov-2002.jpg
 tags:
   - post 
   - New Orleans

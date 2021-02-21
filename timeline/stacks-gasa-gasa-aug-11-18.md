@@ -3,7 +3,8 @@ title: The Stacks played at Gasa Gasa
 date: 2018-08-11T22:00:00.000Z
 summary: Great show. Really loud.
 excerpt: Great show. Really loud.
-image: /static/img/rock/stacksatgasagasa.jpg
+category: rock
+image: stacksatgasagasa.jpg
 tags:
   - post 
   - rock

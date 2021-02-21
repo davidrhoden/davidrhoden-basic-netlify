@@ -2,7 +2,8 @@
 title: Dirty Knives played Dixie Taverne
 date: 2001-08-02T02:00:00.000Z
 summary: We only had one new song ("Heading For The Texas Border") which we didn't even write, but since this was a new venue and a new crowd for us, what's the difference?
-image: /static/img/rock/dirtyknivesdixietaverne.jpg
+category: rock
+image: dirtyknivesdixietaverne.jpg
 tags:
   - post
   - rock

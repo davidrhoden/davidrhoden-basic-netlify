@@ -2,7 +2,8 @@
 title: A walk by the Mississippi in December
 date: 2019-12-07T12:00:00.000Z
 summary: Took a walk with Gina and P.J. to the riverbank. I guess the water was very low.
-image: /static/img/gina/gina-riverbank-dec-7-2019.jpg
+category: gina
+image: /gina-riverbank-dec-7-2019.jpg
 tags:
   - post
   - Gina

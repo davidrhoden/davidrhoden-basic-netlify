@@ -1,7 +1,8 @@
 ---
 title: Gina made some videos about her art
 date: 2020-07-12T21:00:00.000Z
-image: /static/img/gina/gina-on-tv-jul-12-2020.jpg
+category: gina
+image: /gina-on-tv-jul-12-2020.jpg
 tags:
   - post 
   - Gina
