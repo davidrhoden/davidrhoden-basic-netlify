@@ -3,7 +3,8 @@ title: Sally catching up on reading
 date: 2019-09-05T22:00:00.000Z
 excerpt: Those white socks.
 summary: Those white socks.
-image: /static/img/sally/sally-sep-5-2019.jpg
+category: sally
+image: sally-sep-5-2019.jpg
 tags:
   - post 
   - New Orleans

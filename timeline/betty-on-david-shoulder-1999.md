@@ -3,7 +3,8 @@ title: Betty got on my shoulder.
 date: 1999-11-15T16:00:00.000Z
 summary: Date very approximate.
 excerpt: Date very approximate.
-image: /static/img/betty/davidwbettyonshoulder.jpg
+category: betty
+image: davidwbettyonshoulder.jpg
 tags:
   - post 
   - New Orleans

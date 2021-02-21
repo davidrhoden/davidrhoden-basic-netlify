@@ -3,7 +3,8 @@ title: Buddy Long Legs
 date: 2020-12-06T20:00:00.000Z
 summary: He's available to model any hosiery you can get him to wear.
 excerpt: He's available to model any hosiery you can get him to wear.
-image: /static/img/buddy/buddy-long-legs-dec-6-2020.jpg 
+category: buddy
+image: buddy-long-legs-dec-6-2020.jpg 
 tags:
   - post 
   - New Orleans

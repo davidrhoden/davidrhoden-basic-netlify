@@ -3,7 +3,8 @@ title: Sally keeping watch at 321 Clark Street
 date: 2017-12-14T11:00:00.000Z
 summary: I liked living here until I got the light bill.
 excerpt: I liked living here until I got the light bill.
-image: /static/img/sally/171214sallyprofile.jpg
+category: sally
+image: 171214sallyprofile.jpg
 tags:
   - post 
   - New Orleans

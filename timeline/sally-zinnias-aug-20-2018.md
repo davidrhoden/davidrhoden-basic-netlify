@@ -3,7 +3,8 @@ title: Sally investigating zinnias from our garden.
 date: 2018-08-20T16:00:00.000Z
 summary: Gina asked me to plant these.
 excerpt: Gina asked me to plant these.
-image: /static/img/sally/sally-zinnias-640-aug-20-2018.jpg
+category: sally
+image: sally-zinnias-640-aug-20-2018.jpg
 tags:
   - post 
   - New Orleans

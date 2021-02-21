@@ -3,7 +3,8 @@ title: Hot legs Buddy
 date: 2020-05-28T16:00:00.000Z
 summary: He's an enormous cat.
 excerpt: He's an enormous cat.
-image: /static/img/buddy/buddy-hot-legs-may-28-2020.jpg
+category: buddy
+image: buddy-hot-legs-may-28-2020.jpg
 tags:
   - post 
   - cats

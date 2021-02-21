@@ -3,7 +3,8 @@ title: I got a cat though I didn't mean to
 date: 2007-09-18T16:00:00.000Z
 summary: The next morning, she was still there. And the next.
 excerpt: The next morning, she was still there. And the next.
-image: /static/img/sally/sally-licks-day-1-sep-18-2007.jpg
+category: sally
+image: sally-licks-day-1-sep-18-2007.jpg
 tags:
   - post
   - 1990s

@@ -3,7 +3,8 @@ title: last picture of Sally
 date: 2020-02-07T11:00:00.000Z
 summary: I miss her so much.
 excerpt: I miss her so much.
-image: /static/img/sally/last-photo-of-sally-feb-7-2020.jpg
+category: sally
+image: last-photo-of-sally-feb-7-2020.jpg
 tags:
   - post 
   - New Orleans
