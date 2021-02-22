@@ -2,7 +2,8 @@
 title: Mr. Manners
 date: 2020-04-22T18:00:00.000Z
 summary: Post-It sketch
-image: /static/img/sketchbook/who-farted-tshirt.jpg 
+category: sketchbook
+image: who-farted-tshirt.jpg 
 tags:
   - post 
   - sketchbook
