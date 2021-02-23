@@ -4,7 +4,7 @@ date: 2020-05-15T16:00:00.000Z
 summary: These aren't even necessarily the ones I listen to the most.  These are the ones that "influenced" me.
 excerpt: These aren't even necessarily the ones I listen to the most.  These are the ones that "influenced" me.
 category: rock
-image: top-10/diddley.jpg
+image: diddley.jpg
 tags:
   - post
   - rock

@@ -3,7 +3,6 @@ title: Painted a two-mouth creature.
 date: 2012-08-22T16:00:00.000Z
 summary: It might as well have one mouth since both mouths sing Eighties lyrics.
 excerpt: It might as well have one mouth since both mouths sing Eighties lyrics.
-category: paintings
 image: two-mouth-creature-aug-22-2012.jpg
 tags:
   - post 

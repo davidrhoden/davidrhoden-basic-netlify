@@ -3,8 +3,7 @@ title: I saw Sebadoh at One Eyed Jack's
 date: 2011-11-06T22:00:00.000Z
 excerpt: I went with Dan. They were good.
 summary: I went with Dan. They were good.
-category: timeline
-image: sebadoh-nov-6-2011.png
+image: sebadoh-nov-6-2011.jpg
 tags:
   - post 
   - rock
