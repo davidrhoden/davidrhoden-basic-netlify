@@ -46,46 +46,7 @@ section: timeline
 
 </div> {# closes div "container" that was started in the base layout. #}
 <div class="container-wide">
-  <div id="timeline-detail"></div>
-  <div class="photo-timeline flex">
-    {% set showYear = true %}
-    {% set currentYear = "" %}
-    {% for post in collections.post | reverse %}
-    {% if showYear %}
-      {% set postYear = post.date.getFullYear() %}
-      {% if currentYear != postYear %}
-          {% set currentYear = postYear %}
-          <span class="post-year">{{ postYear }}</span>
-      {% endif %}
-    {% endif %}
-    <div class="photo-timeline-link">
-        {% if post.data.image %}
-            <a class="tiny-thumbnail" href="{{ post.url }}"><img src="/static/img/timeline/thumbnails/32/{{ post.data.image }}"></a>
-        {% else %}
-            <a class="tiny-thumbnail" href="{{ post.url }}"></a>
-        {% endif %}
-        <div class="hidden">
-          <time datetime="{{ post.date | machineDate }}">
-            <small>{{ post.date | readableDate }}</small>
-          </time>
-            {% if post.data.title %}
-              {{ post.data.title }}
-            {% else %}
-              Untitled
-            {% endif %}
-
-            {% if post.data.tags %}
-                {% for tag in post.data.tags %}
-                  {%- if tag != "post" -%}
-                    {% set tagUrl %}/tags/{{ tag | slug }}/{% endset %}
-                  <a href="{{ tagUrl | url }}" rel="tag">{{ tag }}</a>
-                  {%- endif -%}
-                {% endfor %}
-            {% endif %}
-        </div>
-    </div>
-  {% endfor %}
-  </div>
+  {% include "components/photo-timeline.njk" %}
 </div>
 
 <script>

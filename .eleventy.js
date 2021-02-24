@@ -1,11 +1,10 @@
 const { DateTime } = require("luxon");
-// const CleanCSS = require("clean-css");
-// const UglifyJS = require("uglify-es");
+const CleanCSS = require("clean-css");
+const UglifyJS = require("uglify-es");
 const htmlmin = require("html-minifier");
 const slugify = require("slugify");
 const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
 const pluginSEO = require("eleventy-plugin-seo");
-
 
 module.exports = function(eleventyConfig) {
 
@@ -39,20 +38,18 @@ module.exports = function(eleventyConfig) {
     return DateTime.fromJSDate(dateObj).toFormat("yyyy");
   });
 
-  // Minify CSS
-  // eleventyConfig.addFilter("cssmin", function(code) {
-  //   return new CleanCSS({}).minify(code).styles;
-  // });
+  eleventyConfig.addFilter("cssmin", function(code) {
+    return new CleanCSS({}).minify(code).styles;
+  });
 
-  // Minify JS
-  // eleventyConfig.addFilter("jsmin", function(code) {
-  //   let minified = UglifyJS.minify(code);
-  //   if (minified.error) {
-  //     console.log("UglifyJS error: ", minified.error);
-  //     return code;
-  //   }
-  //   return minified.code;
-  // });
+  eleventyConfig.addFilter("jsmin", function(code) {
+    let minified = UglifyJS.minify(code);
+    if (minified.error) {
+      console.log("UglifyJS error: ", minified.error);
+      return code;
+    }
+    return minified.code;
+  });
 
   eleventyConfig.addCollection("posts", function(collection) {
     const coll = collection.getFilteredByTag("post");
@@ -131,13 +128,7 @@ module.exports = function(eleventyConfig) {
 
   return {
     templateFormats: ["md", "njk", "html", "liquid"],
-
-    // If your site lives in a different subdirectory, change this.
-    // Leading or trailing slashes are all normalized away, so don’t worry about it.
-    // If you don’t have a subdirectory, use "" or "/" (they do the same thing)
-    // This is only used for URLs (it does not affect your file structure)
     pathPrefix: "/",
-
     markdownTemplateEngine: "liquid",
     htmlTemplateEngine: "njk",
     dataTemplateEngine: "njk",

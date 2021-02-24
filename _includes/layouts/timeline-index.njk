@@ -53,59 +53,6 @@ section: timeline
 {% endfor %}
 </div>
 <div class="container-wide">
-  <div id="timeline-detail"></div>
-  <div class="photo-timeline flex">
-    {% set currentYear = "" %}
-    {% for post in collections.post | reverse %}
-    {% if showYear %}
-      {% set postYear = post.date.getFullYear() %}
-      {% if currentYear != postYear %}
-          {% set currentYear = postYear %}
-          <span class="post-year">{{ postYear }}</span>
-      {% endif %}
-    {% endif %}
-    <div class="photo-timeline-link">
-        {% if post.data.image %}
-            <a class="tiny-thumbnail" href="{{ post.url }}"><img src="/static/img/timeline/thumbnails/32/{{ post.data.image }}"></a>
-        {% else %}
-            <a class="tiny-thumbnail" href="{{ post.url }}"></a>
-        {% endif %}
-        <div class="hidden">
-          <time datetime="{{ post.date | machineDate }}">
-            <small>{{ post.date | readableDate }}</small>
-          </time>
-            {% if post.data.title %}
-              {{ post.data.title }}
-            {% else %}
-              Untitled
-            {% endif %}
-
-            {% if post.data.tags %}
-                {% for tag in post.data.tags %}
-                  {%- if tag != "post" -%}
-                    {% set tagUrl %}/tags/{{ tag | slug }}/{% endset %}
-                  <a href="{{ tagUrl | url }}" rel="tag">{{ tag }}</a>
-                  {%- endif -%}
-                {% endfor %}
-            {% endif %}
-        </div>
-    </div>
-  {% endfor %}
-  </div>
-  <!-- Pagination links -->
-  <div class="page-selector">
-    {% if pagination.previousPageHref %}
-      <a href="{{ pagination.previousPageHref }}" class="page-numbers">Back to the future.</a>
-    {% else %}
-      <span class="page-numbers disabled">You've reached the present.</span>
-    {% endif %}
-    <span class="page-numbers">
-      Page {{ pagination.pageNumber + 1 }} of {{ pagination.links | length  }}.
-    </span>
-    {% if pagination.nextPageHref %}
-      <a href="{{ pagination.nextPageHref }}" class="page-numbers">Forward to the past.</a>
-    {% else %}
-      <span class="page-numbers disabled">You've reached the beginning.</span>
-    {% endif %}
-  </div>
+  {% include "components/photo-timeline.njk" %}
+  {% include "components/pagination.njk" %}
 </div>

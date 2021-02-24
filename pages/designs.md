@@ -23,7 +23,7 @@ eleventyNavigation:
 
 ---
 
-![Record sleeve designby David Rhoden](/static/img/designs/record.gif)
+![Record sleeve design by David Rhoden](/static/img/designs/record.gif)
 
 ---
 
