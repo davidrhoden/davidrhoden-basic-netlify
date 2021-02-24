@@ -21,16 +21,16 @@ eleventyNavigation:
         <hr>
         <br>
         <div class="resume-body">
-            <p class="date">Dec 2019 –</p>
-            <p class="position"><b>Digital Art Director at Cerberus</b> in New Orleans, Louisiana.</p>
-            <p class="highlights">Art direction, Static site development, and Wordpress development for a branding and advertising agency. Custom plug-ins, CSS and JS-based web animation, custom templating, and cross-platform responsive development. Clients included MidSouth Coatings, Tapestry Linens, Albasha Metairie, and several others.</p>
+            <p class="date">Oct 2018–</p>
+            <p class="position"><b>Web developer and UI designer</b> in New Orleans.</p>
+            <p class="highlights">Designing and developing web sites for local and national clients.</p>
             <p class="tech">Eleventy, Netlify, PHP/MySQL, Javascript, jQuery, CSS, HTML, Wordpress, Photoshop, Illustrator.</p>
             <p class="date">Oct 2018 – Dec 2019</p>
             <p class="position"><b>Web developer at Online Optimism</b> in New Orleans, Louisiana.</p>
             <p class="highlights">Wordpress development for a digital marketing firm. Custom plug-ins, CSS and JS-based web animation, custom templating, and cross-platform mobile- and desktop-responsive development. Clients included Dixie Beer, Moxie Media, the Tunica-Biloxi Tribe, and Witry Collective Realty.</p>
             <p class="tech">PHP/MySQL, Javascript, jQuery, CSS, HTML, Wordpress, Photoshop, Illustrator.</p>
             <p class="date">Sep 2016–Oct 2018</p>
-            <p class="position"><b>Freelance web developer and UI designer</b> in New Orleans.</p>
+            <p class="position"><b>Web developer and UI designer</b> in New Orleans.</p>
             <p class="highlights">As a subcontractor to New Orleans agencies Solid Web Design, Line 58, and Lagniappe Media, designed, built, and maintained SEO-friendly mobile- and desktop-responsive web sites for local businesses in Craft CMS and Wordpress. Created animated web advertising for agencies in San Francisco and Austin.</p>
             <p class="tech">PHP/MySQL, Javascript, jQuery, CSS, HTML, Craft CMS, Wordpress, Photoshop, Illustrator, Adobe Animate.</p>
             <p class="date">Sep 2014 – Sep 2016</p>
@@ -38,7 +38,7 @@ eleventyNavigation:
             <p class="highlights">I made animated advertising and websites for AT&amp;T, and built proof-of-concept web sites and illustrated presentations for Sanders/Wingo’s business development team. I was technical liaison to the Amsterdam NL web development team for AT&amp;T.</p>
             <p class="tech">PHP/MySQL, Javascript, jQuery, CSS, HTML, Wordpress, Photoshop, Illustrator, Adobe Animate.</p>
             <p class="date">Oct 2012 – Sep 2014</p>
-            <p class="position"><b>Freelance web developer and UI designer</b> in New Orleans.</p>
+            <p class="position"><b>Web developer and UI designer</b> in New Orleans.</p>
             <p class="highlights">Produced websites for New Orleans agency Alford Advertising. I was also the front-end developer on a New York startup called Eatucator that created custom coupons for small groceries and farmers’ markets. I also designed and built a music-oriented web-based dating app called Rockcalling as a working proof-of-concept for a private investor.</p>
             <p class="tech">Ruby on Rails/PostgreSQL, PHP/MySQL, Javascript, jQuery, CSS, HTML, Wordpress, Photoshop, Illustrator.</p>
             <p class="date">Oct 2011 – Oct 2012</p>
