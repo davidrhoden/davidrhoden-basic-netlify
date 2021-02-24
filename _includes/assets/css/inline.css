@@ -484,8 +484,7 @@ p.postdate h3 {
 }
 
 #timeline-detail {
-	height: 2em;
-	margin: 1em auto;
+	display: none;
 }
 
 /******* BEGIN PHOTO-TIMELINE *******/
@@ -584,6 +583,11 @@ p.postdate h3 {
 
 	.page__sketchbook .container main p br {
 		display: none;
+	}
+
+	#timeline-detail {
+		height: 2em;
+		margin: 1em auto;
 	}
 }
 
