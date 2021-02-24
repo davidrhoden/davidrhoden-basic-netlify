@@ -239,7 +239,6 @@ header nav li a[data-current="current item"] {
 	padding: 6px 0;
 }
 
-
 .gcse-search {
 	display: inline-block;
 }
@@ -279,6 +278,7 @@ main img.thumbnail {
 }
 
 main img.tiny-thumbnail, a.tiny-thumbnail, a.tiny-thumbnail img {
+	display: block;
 	height: 32px;
 	width: 32px;
 	overflow: hidden;
