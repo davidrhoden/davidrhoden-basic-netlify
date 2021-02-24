@@ -140,8 +140,7 @@ footer {
 
 footer {
 	clear: both;
-	margin: 0 auto 1em;
-	width: 90vw;
+	margin: 0 auto;
 }
 
 footer .search-box-container{
@@ -160,7 +159,7 @@ small {
 }
 
 .container-wide {
-	width: 90vw;
+	margin: 0 1em;
 }
 
 .page-numbers {
@@ -179,8 +178,17 @@ small {
 	padding: 0 .5em 0 0;
 }
 
+.page-numbers {
+	display: inline-block;
+	margin: .5em 0;
+}
+
 main {
 	padding-bottom: 2em;
+}
+
+.timeline main {
+	padding-bottom: 0;
 }
 
 main :first-child,
@@ -493,6 +501,12 @@ p.postdate h3 {
 		width: 75%;
 	}
 
+	.container-wide {
+		margin-left: auto;
+		margin-right: auto;
+		width: 90vw;
+	}
+
 	.flex {
 		display: flex;
 	}
@@ -543,6 +557,10 @@ p.postdate h3 {
 
 	.home main {
 	    width: 70%;
+	}
+
+	.page-numbers {
+		display: inline;
 	}
 
 	.page__sketchbook .container {
