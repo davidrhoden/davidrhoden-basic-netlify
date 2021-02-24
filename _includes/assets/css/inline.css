@@ -551,6 +551,11 @@ p.postdate h3 {
 		font-size: 1.1em;
 	}
 
+	footer {
+	    width: 90vw;
+	    padding: 1em 0;
+	}
+
 	footer .search-box-container{
 		margin-top: .5em;
 		width: 40vw;
