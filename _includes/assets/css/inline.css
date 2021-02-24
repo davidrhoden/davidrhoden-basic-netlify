@@ -465,6 +465,7 @@ p.postdate h3 {
 .photo-timeline-link {
 	display: inline-block; 
 	height: 32px;
+	margin: 6px 8px 0 0;
 	overflow: hidden;
 	width: 32px;
 }
@@ -478,16 +479,17 @@ p.postdate h3 {
 }
 
 .post-year {
-	display: inline-block;
-	padding: .5em;
-	width: 64px;
+    display: inline-block;
+    padding: 0;
+    width: 40px;
+    font-size: .8em;
 }
 
 #timeline-detail {
 	display: none;
 }
 
-/******* BEGIN PHOTO-TIMELINE *******/
+/******* END PHOTO-TIMELINE *******/
 
 @media screen and (min-width:960px) {
 	:root {
@@ -585,7 +587,22 @@ p.postdate h3 {
 		display: none;
 	}
 
+	.photo-timeline-link {
+		display: inline-block; 
+		height: 32px;
+		margin: 0;
+		overflow: hidden;
+		width: 32px;
+	}
+
+	.post-year {
+		display: inline-block;
+		padding: .5em;
+		width: 64px;
+	}
+
 	#timeline-detail {
+		display: block;
 		height: 2em;
 		margin: 1em auto;
 	}
