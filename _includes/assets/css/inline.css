@@ -179,7 +179,7 @@ small {
 }
 
 .page-numbers {
-	display: inline-block;
+	display: block;
 	margin: .5em 0;
 }
 
