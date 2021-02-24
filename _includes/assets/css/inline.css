@@ -29,6 +29,10 @@
 	overflow: hidden;
 }
 
+.inline-block {
+	display: inline-block;
+}
+
 html,
 body {
 	padding: 0;
@@ -136,7 +140,8 @@ footer {
 
 footer {
 	clear: both;
-	margin-bottom: 1em;
+	margin: 0 auto 1em;
+	width: 90vw;
 }
 
 footer .search-box-container{
@@ -152,6 +157,10 @@ figcaption {
 
 small {
 	font-size: .7em;
+}
+
+.container-wide {
+	width: 90vw;
 }
 
 .page-numbers {
@@ -436,6 +445,42 @@ p.postdate h3 {
 .image {
 	grid-area: image;
 }
+
+
+/******* BEGIN PHOTO-TIMELINE *******/
+
+.photo-timeline {
+	flex-wrap: wrap;
+	margin: 1em auto;
+}
+
+.photo-timeline-link {
+	display: inline-block; 
+	height: 32px;
+	overflow: hidden;
+	width: 32px;
+}
+
+.photo-timeline-link:nth-of-type(odd) {
+	background-color: var(--orangered);
+}
+
+.photo-timeline-link:nth-of-type(even) {
+	background-color: var(--blue);
+}
+
+.post-year {
+	display: inline-block;
+	padding: .5em;
+	width: 64px;
+}
+
+#timeline-detail {
+	height: 2em;
+	margin: 1em auto;
+}
+
+/******* BEGIN PHOTO-TIMELINE *******/
 
 @media screen and (min-width:960px) {
 	:root {
