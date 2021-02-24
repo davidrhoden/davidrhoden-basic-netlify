@@ -14,11 +14,11 @@ tags:
   - Zingers
 ---
 
-A few years ago, my band All-Night Moveers played some shows in the New York area and we stayed in Jersey City with our friend Tony Arrieta. I woke up first and was looking for something to read. In a chest full of literature, I found a little paperback called _More Zingers From The Hollywood Squares_. "Whatever," I reasoned, and started to read.
+A few years ago, my band All-Night Movers played some shows in the New York area and we stayed in Jersey City with our friend Tony Arrieta. I woke up first and was looking for something to read. In a chest full of literature, I found a little paperback called _More Zingers From The Hollywood Squares_. "Whatever," I reasoned, and started to read.
 
 Minutes later I was gasping for air, holding my sides, trying not to wake the household. The Zingers had gotten to me.
 
-I told Gina about this peculiar morning, many times, I guess. Because this Christmas, there it was , under the tree: _More Zingers_.
+I told Gina about this peculiar morning, many times, I guess. Because this Christmas, there it was, under the tree: _More Zingers_.
 
 ![More Zingers From The Hollywood Squares paperback](/static/img/timeline//more-zingers-dec-25-2020.jpg "More Zingers From The Hollywood Squares paperback")
 

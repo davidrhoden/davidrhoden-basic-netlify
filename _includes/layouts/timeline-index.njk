@@ -90,11 +90,21 @@ section: timeline
       </div>
   </div>
 {% endfor %}
-</div>
-<div style="padding: 1em;">
-  <ul class="pagination">
-  {%- for pageEntry in pagination.pages %}
-    <li><a href="{{ pagination.hrefs[ loop.index0 ] }}"{% if page.url == pagination.hrefs[ loop.index0 ] %} aria-current="page"{% endif %}>{{ loop.index }}</a></li>
-  {%- endfor %}
-  </ul>
+
+  <!-- Pagination links -->
+  <div class="page-selector">
+    {% if pagination.previousPageHref %}
+      <a href="{{ pagination.previousPageHref }}" class="page-numbers">Back to the future.</a>
+    {% else %}
+      <span class="page-numbers">You've reached the present.</span>
+    {% endif %}
+    <span>
+      Page {{ pagination.pageNumber + 1 }} of {{ pagination.links | length  }}.
+    </span>
+    {% if pagination.nextPageHref %}
+      <a href="{{ pagination.nextPageHref }}" class="page-numbers">Forward to the past.</a>
+    {% else %}
+      <span class="page-numbers">You've reached the beginning.</span>
+    {% endif %}
+  </div>
 </div>
