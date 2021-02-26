@@ -1,0 +1,13 @@
+@font-face {
+    font-family: "NoticiaText-Regular";
+    src: url('/static/webfonts/NoticiaText-RegularWebfont/NoticiaText-Regular.woff') format('woff'),
+	url('/static/webfonts/NoticiaText-RegularWebfont/NoticiaText-Regular.woff2') format('woff2'),
+	url('/static/webfonts/NoticiaText-RegularWebfont/NoticiaText-Regular.svg#NoticiaText-Regular') format('svg'),
+	url('/static/webfonts/NoticiaText-RegularWebfont/NoticiaText-Regular.eot'),
+	url('/static/webfonts/NoticiaText-RegularWebfont/NoticiaText-Regular.eot?#iefix') format('embedded-opentype'),
+	url('/static/webfonts/NoticiaText-RegularWebfont/NoticiaText-Regular.ttf') format('truetype');
+
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
