@@ -79,6 +79,8 @@ module.exports = function(eleventyConfig) {
     return allNotes;
   });
 
+  
+
   // Minify HTML output
   eleventyConfig.addTransform("htmlmin", function(content, outputPath) {
     if (outputPath.indexOf(".html") > -1) {
