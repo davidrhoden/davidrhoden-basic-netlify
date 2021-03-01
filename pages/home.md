@@ -28,7 +28,7 @@ image: /static/img/rock/davedrummingatlakeside_sq.jpg
 <div class="polaroid"  data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
 	<a href="illustrations">
 	<div>
-<img src="/static/img/designs/TalbotAdamsAlbum.jpg" alt="design by David Rhoden">
+<img src="/static/img/illustrations/harbo.jpg" alt="design by David Rhoden">
 	</div>
 	<h2>Illustration</h2>
 </a>
