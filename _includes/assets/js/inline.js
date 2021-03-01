@@ -16,23 +16,26 @@ $(document).ready(function(){
 	});
 });
 
-
-$(document).ready(function() {
-    var i = 0; 
-    var imgs = $('.home main').children();
-    runIt(imgs);
-
-    function runIt() {
-      $(imgs).eq(i).fadeIn(2000, function() {
-        setTimeout(runIt,'300');
-      });
-      i = i + 1; 
-      if (i == imgs.length) {
-        i = 0; 
-        $('.home main p').fadeOut(1000)
-      } 
-    }
+$(document).ready(function(){
+  AOS.init();
 });
+
+// $(document).ready(function() {
+//     var i = 0; 
+//     var imgs = $('.home main').children();
+//     runIt(imgs);
+
+//     function runIt() {
+//       $(imgs).eq(i).fadeIn(2000, function() {
+//         setTimeout(runIt,'300');
+//       });
+//       i = i + 1; 
+//       if (i == imgs.length) {
+//         i = 0; 
+//         $('.home main p').fadeOut(1000)
+//       } 
+//     }
+// });
 
 function showHidden() {
   var hiddenText = $(this).find(".hidden").html();
