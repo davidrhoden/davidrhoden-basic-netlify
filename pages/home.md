@@ -83,8 +83,8 @@ image: /static/img/rock/davedrummingatlakeside_sq.jpg
 <a href="web">
 <img src="/static/img/web/edison.jpg" alt="website designed and built by David Rhoden">
 <h2>Web Development</h2>
-<p>Have you considered Squarespace?</p>
 </a>
+<p>first question: have you considered Squarespace?</p>
 </div>
 
 </div>
