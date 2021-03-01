@@ -1,7 +1,8 @@
 :root {
 	--black: black;
-	--white: white;
+	--white: #ffffff;
 	--blue: #7bb4fb;
+	--darkblue: #3E517A;
 	--magenta: magenta;
 	--orangered: orangered;
 
@@ -40,10 +41,6 @@ body {
 	font-family: var(--font-primary);
 }
 
-@supports (font-variation-settings: normal) {
-  html { font-family: 'Inter var', sans-serif; }
-}
-
 body {
 	display: grid;
 	height: 100vh;
@@ -52,7 +49,7 @@ body {
 }
 
 h1 {
-	font-family: var(--font-primary);
+	font-family: var(--font-secondary);
 	font-weight: 200;
 }
 
@@ -139,6 +136,7 @@ footer {
 }
 
 footer {
+	background: white;
 	clear: both;
 	margin: 0 auto;
 }
@@ -243,16 +241,13 @@ header nav li a[data-current="current item"] {
 	display: inline-block;
 }
 
-.home footer {
-	display: none;
+.home {
+	background: var(--blue);
 }
 
-footer.home {
-	display: none;
-}
-
-.home footer.home {
-	display: block;
+.home .footnote {
+	font-size: .75rem;
+	margin-bottom: 2rem;
 }
 
 /* Posts List */
@@ -407,25 +402,23 @@ ol li::before {
 /******* HOME *******/
 
 .home main {
+	background: var(--blue);
 	position: relative;
-	height: 72vh;
     margin: 0 auto;
-    overflow: hidden;
-    width: 96%;
-}
-
-.home main p {
-  	position: absolute;
-  	top: 0;
-  	left: 0;
-  	margin-left: auto;
-  	margin-right: auto;
-  	text-align: center;
-  	width: 100%;
+    width: 100%;
 }
 
 .home main p img {
   	width: 100%;
+}
+
+.home .intro-home {
+	font-size: 1.5rem;
+	text-align: left;
+}
+
+.home .intro-home a {
+	color: white;
 }
 
 /******* ANIMATIONS *******/
@@ -454,6 +447,11 @@ p.postdate h3 {
 	grid-area: image;
 }
 
+.polaroid {
+	background: white;
+	padding: 1em;
+	margin-bottom: 1em;
+}
 
 /******* BEGIN PHOTO-TIMELINE *******/
 
@@ -500,6 +498,10 @@ p.postdate h3 {
 		margin-left: auto;
 		margin-right: auto;
 		width: 75%;
+	}
+
+	.home .container {
+		width: 100%;
 	}
 
 	.container-wide {
@@ -552,8 +554,9 @@ p.postdate h3 {
 	}
 
 	footer {
-	    width: 90vw;
-	    padding: 1em 0;
+		background: white;
+	    width: 100vw;
+	    padding: 2em;
 	}
 
 	footer.home {
@@ -567,7 +570,38 @@ p.postdate h3 {
 	}
 
 	.home main {
-	    width: 70%;
+	    overflow: visible;
+	}
+
+	.grid-home {
+	  display: grid;
+	  grid-template-columns: repeat(3, 1fr);
+	  grid-template-rows: repeat(3, 1fr);
+	  gap: 2em 2em;
+	  grid-template-areas:
+	    ". . ."
+	    ". . ."
+	    ". . .";
+	}
+
+	.home .intro-home {
+		font-size: 2em;
+		height: 75vh;
+		margin-bottom: 10rem;
+	}
+
+	.home .intro-home p {
+		width: 60%;
+	}
+
+	.home .footnote {
+		font-size: 1rem;
+		position: absolute;
+		bottom: 1em;
+	}
+
+	.home .footnote a {
+		color: white;
 	}
 
 	.page-numbers {
