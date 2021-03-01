@@ -72,14 +72,6 @@ image: /static/img/rock/davedrummingatlakeside_sq.jpg
 </div>
 
 <div class="polaroid" data-aos="fade-up" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
-<a href="press">
-<img src="/static/img/rock/davedrummingatlakeside_sq.jpg" alt="David Rhoden drumming with Jimmy and The Wolfpack at Lakeside Lounge, photo by Amber Sexton">
-<h2>Press</h2>
-</a>
-<p>The tabloids occasionally check in for my take on things.</p>
-</div>
-
-<div class="polaroid" data-aos="fade-up" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
 <a href="timeline">
 <img src="/static/img/paintings/bigface_sq.jpg" alt="Big Face painting by David Rhoden">
 <h2>Timeline</h2>
@@ -91,6 +83,7 @@ image: /static/img/rock/davedrummingatlakeside_sq.jpg
 <a href="web">
 <img src="/static/img/web/edison.jpg" alt="website designed and built by David Rhoden">
 <h2>Web Development</h2>
+<p>Have you considered Squarespace?</p>
 </a>
 </div>
 
