@@ -23,6 +23,7 @@ image: /static/img/rock/davedrummingatlakeside_sq.jpg
 <img src="/static/img/paintings/organicform5-chromeyellow-sq.jpg" alt="Organic Form painting by David Rhoden">
 <h2>Paintings</h2>
 </a>
+<p>Mostly signpainter's emamel on shaped plywood.</p>
 </div>
 
 <div class="polaroid"  data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
@@ -53,6 +54,7 @@ image: /static/img/rock/davedrummingatlakeside_sq.jpg
 <img src="/static/img/sketchbook/aah-guy.jpg" alt="aah guy illustration by David Rhoden">
 	<h2>Sketchbook</h2>
 </a>
+<p>Really more like sketches on the back of an envelope. Stuff that makes a stop on the scanner before going in the trash can.</p>
 </div>
 
 <div class="polaroid" data-aos="fade-up" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
@@ -72,19 +74,21 @@ image: /static/img/rock/davedrummingatlakeside_sq.jpg
 </div>
 
 <div class="polaroid" data-aos="fade-up" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
-<a href="timeline">
-<img src="/static/img/paintings/bigface_sq.jpg" alt="Big Face painting by David Rhoden">
-<h2>Timeline</h2>
-</a>
-<p>An ongoing project, memorializing the interesting (to me) events of my life or at least the ones I have pictures of.</p>
-</div>
-
-<div class="polaroid" data-aos="fade-up" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
 <a href="web">
 <img src="/static/img/web/edison.jpg" alt="website designed and built by David Rhoden">
 <h2>Web Development</h2>
 </a>
-<p>First question: have you considered Squarespace?</p>
+<p>O.K., let's discuss. First question: have you considered Squarespace?</p>
 </div>
+
+<div class="polaroid" data-aos="fade-up" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
+<a href="timeline">
+<img src="/static/img/paintings/bigface_sq.jpg" alt="Big Face painting by David Rhoden">
+<h2>Timeline</h2>
+</a>
+<p>An ongoing project, memorializing the interesting (to me) events of my life or at least the ones I have pictures of. As close as I'm going to get to a memoir.</p>
+</div>
+
+
 
 </div>
