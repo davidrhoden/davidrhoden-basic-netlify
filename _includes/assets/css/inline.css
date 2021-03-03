@@ -53,6 +53,11 @@ h1 {
 	font-weight: 200;
 }
 
+h2 {
+	font-family: var(--font-secondary);
+	font-weight: 200;
+}
+
 h3 {
 	clear: both;
 }
