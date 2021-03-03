@@ -586,8 +586,8 @@ p.postdate h3 {
 
 	.home .intro-home {
 		font-size: 2em;
-		height: 75vh;
-		margin-bottom: 10rem;
+		height: 70vh;
+		margin-bottom: 5rem;
 	}
 
 	.home .intro-home p {
@@ -596,13 +596,48 @@ p.postdate h3 {
 
 	.home .footnote {
 		font-size: 1rem;
-		position: absolute;
-		bottom: 1em;
+		margin-top: 10vh;
 	}
 
 	.home .footnote a {
 		color: white;
 	}
+
+	.chevron {
+	    margin-top: 20px;
+	    display: block;
+	    -webkit-animation: pulse 2s infinite;
+	    animation: pulse 2s infinite;
+	    color: var(--orangered);
+	}
+
+	.chevron::before {
+	    border-style: solid;
+	    border-width: 0.25em 0.25em 0 0;
+	    content: '';
+	    display: inline-block;
+	    height: 20px;
+	    position: relative;
+	    -webkit-transform: rotate(135deg);
+	    -ms-transform: rotate(135deg);
+	    transform: rotate(135deg);
+	    vertical-align: top;
+	    width: 20px;
+	}
+
+	@keyframes pulse {
+	  0% {
+	    -webkit-transform: translate(0, 0);
+	            transform: translate(0, 0); 
+	  }
+	  50% {
+	    -webkit-transform: translate(0, 10px);
+	            transform: translate(0, 10px); 
+	  }
+	  100% {
+	    -webkit-transform: translate(0, 0);
+	            transform: translate(0, 0); } 
+	  }
 
 	.page-numbers {
 		display: inline;
