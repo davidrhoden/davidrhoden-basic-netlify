@@ -11,7 +11,7 @@ tags:
   - NBC
   - television
   - Maureen Clancy
-  - Conan O'Brien
+  - "Conan O'Brien"
   - Al Franken
   - Buddy Ebsen
   - Nick Heyward
