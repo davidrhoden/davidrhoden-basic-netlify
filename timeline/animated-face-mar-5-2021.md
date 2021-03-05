@@ -21,5 +21,3 @@ tags:
   <p>Your browser does not support the video element.</p>
 </video>
 </div>
-
-Made with Procreate (on Gina's iPad).
