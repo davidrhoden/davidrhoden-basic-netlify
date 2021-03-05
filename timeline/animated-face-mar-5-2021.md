@@ -1,14 +1,17 @@
 ---
-title: last picture of Sally
-date: 2020-02-07T11:00:00.000Z
-summary: I miss her so much.
-excerpt: I miss her so much.
-category: sally
-image: last-photo-of-sally-feb-7-2020.jpg
+title: animated face
+date: 2021-03-05T11:00:00.000Z
+dateposted: 2021-03-05
+summary: "Made with Procreate (on Gina's iPad)."
+excerpt: "Made with Procreate (on Gina's iPad)."
+category: animations
+image: animated-face-mar-5-2021.jpg
 tags:
   - post 
+  - animation
+  - Procreate
   - New Orleans
-  - Sally
+  - Sister Street
 
 ---
 
@@ -19,4 +22,4 @@ tags:
 </video>
 </div>
 
-This is the last picture I got of Sally. An hour later she went outside. I never saw her again.
+Made with Procreate (on Gina's iPad).
