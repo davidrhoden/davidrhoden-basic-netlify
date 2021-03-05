@@ -15,7 +15,7 @@ tags:
 
 ---
 
-<div style="width: 100%; text-align: center;">
+<div>
 <video controls loop>
   <source type="video/mp4" src="/static/img/animations/mp4s/animated-face-mar-5-2021-wm.mp4"></source>
   <p>Your browser does not support the video element.</p>
