@@ -1,7 +1,7 @@
 ---
+
 title: animated face
 date: 2021-03-05T11:00:00.000Z
-dateposted: 2021-03-05
 summary: "Made with Procreate (on Gina's iPad)."
 excerpt: "Made with Procreate (on Gina's iPad)."
 category: animations
