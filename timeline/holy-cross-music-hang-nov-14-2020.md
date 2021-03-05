@@ -38,9 +38,9 @@ Then Gina's group, billed for the afternoon as "Gina Phillips and Friends" (Ross
 
 ![Gina Phillips and Friends at Holy Cross Music Hang](/static/img/timeline/holycrossmusicgina-phillips-and-friends-nov-14-2020.jpg "Gina Phillips and Friends at Holy Cross Music Hang")
 
-<video autoplay loop>
+<video controls loop>
   <source type="video/mp4" src="/static/img/timeline/holycrossmusic/whipporwill-nov-14-2020.mp4"></source>
-  <p>Your browser does not support the video element. Otherwise you'd be watching a video of Gina Phillips playing "Whippoorwill Buttercup " right now.</p>
+  <p>Your browser does not support the video element. Otherwise you'd be watching a video of Gina Phillips playing "Whippoorwill Buttercup" right now.</p>
 </video>
 
 Then Gina's neighbor George's band, Regenerator.
