@@ -10,7 +10,7 @@ eleventyNavigation:
   key: Animations 
   order: 5
   
-
+---
 
 <div style="width: 100%; text-align: center;">
 <video controls loop>
