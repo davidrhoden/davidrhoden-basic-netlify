@@ -18,7 +18,7 @@ image: /static/img/rock/davedrummingatlakeside_sq.jpg
 
 <div class="grid-home">
 
-<div class="polaroid" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="500" data-aos-delay="0">
+<div class="polaroid" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="0">
 <a href="paintings">
 <img src="/static/img/paintings/organicform5-chromeyellow-sq.jpg" alt="Organic Form painting by David Rhoden">
 <h2>Paintings</h2>
@@ -26,7 +26,7 @@ image: /static/img/rock/davedrummingatlakeside_sq.jpg
 <p>Mostly signpainter's enamel on shaped plywood, if you're wondering.</p>
 </div>
 
-<div class="polaroid" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="500" data-aos-delay="100">
+<div class="polaroid" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="100">
 	<a href="illustrations">
 	<div>
 <img src="/static/img/illustrations/harbo.jpg" alt="design by David Rhoden">
@@ -35,21 +35,21 @@ image: /static/img/rock/davedrummingatlakeside_sq.jpg
 </a>
 </div>
 
-<div class="polaroid" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="500" data-aos-delay="200">
+<div class="polaroid" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="200">
 	<a href="animations">
 	<img src="/static/img/animations/160628_waver_600.gif" alt="animation by David Rhoden">
 	<h2>Animation</h2>
 	</a>
 </div>
 
-<div class="polaroid" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="500">
+<div class="polaroid" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500">
 	<a href="designs">
 	<img src="/static/img/designs/TalbotAdamsAlbum.jpg" alt="design by David Rhoden">
 	<h2>Design</h2>
 	</a>
 </div>
 
-<div class="polaroid" data-aos="fade-up" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="500" data-aos-delay="100">
+<div class="polaroid" data-aos="fade-up" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="100">
 	<a href="sketchbook">
 <img src="/static/img/sketchbook/aah-guy.jpg" alt="aah guy illustration by David Rhoden">
 	<h2>Sketchbook</h2>
@@ -57,7 +57,7 @@ image: /static/img/rock/davedrummingatlakeside_sq.jpg
 <p>Really more like sketches on the back of an envelope. Stuff that makes a stop on the scanner before going in the trash can.</p>
 </div>
 
-<div class="polaroid" data-aos="fade-up" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="500" data-aos-delay="200">
+<div class="polaroid" data-aos="fade-up" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="200">
 	<a href="rock">
 <img src="/static/img/rock/anm-dave-020727.jpg" alt="David Rhoden playing guitar at All-Night Movers house show, photo by Jeff Pounds">
 <h2>Rock Music</h2>
@@ -65,7 +65,7 @@ image: /static/img/rock/davedrummingatlakeside_sq.jpg
 <p>Pictures and recordings of the bands I've been part of. There were several.</p>
 </div>
 
-<div class="polaroid" data-aos="fade-up" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="500">
+<div class="polaroid" data-aos="fade-up" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500">
 <a href="forsale">
 <img src="/static/img/designs/Bottle-CapTeeTurquoise.jpg" alt="Bottle Cap Boy T-Shirt by David Rhoden">
 <h2>Stuff For Sale</h2>
@@ -73,15 +73,16 @@ image: /static/img/rock/davedrummingatlakeside_sq.jpg
 <p>Recent paintings, t-shirts, etc.</p>
 </div>
 
-<div class="polaroid" data-aos="fade-up" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="500" data-aos-delay="100">
+<div class="polaroid" data-aos="fade-up" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="100">
 <a href="web">
 <img src="/static/img/web/edison.jpg" alt="website designed and built by David Rhoden">
 <h2>Web Development</h2>
 </a>
 <p>O.K., let's discuss. First question: have you considered Squarespace?</p>
+<p>I'm available for <a href="/contact">freelance web development jobs</a>, but unless you have a big database or something, probably what you want is Squarespace.</p>
 </div>
 
-<div class="polaroid" data-aos="fade-up" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="500" data-aos-delay="200">
+<div class="polaroid" data-aos="fade-up" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="200">
 <a href="timeline">
 <img src="/static/img/paintings/bigface_sq.jpg" alt="Big Face painting by David Rhoden">
 <h2>Timeline</h2>
