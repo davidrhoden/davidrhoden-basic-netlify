@@ -1,4 +1,5 @@
 ---
+
 title: Stacks played at Siberia with Rubber Maids and Egg Yolk Jubilee.
 date: 2018-09-29T11:00:00.000Z
 summary: I made an animation to advertise the show.
