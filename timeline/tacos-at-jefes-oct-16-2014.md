@@ -13,7 +13,7 @@ tags:
 
 ---
 
-![tacos from Jefe's on a plate on a table in Texas](/static/img/timeline/jefes-taco-plate-oct-16-2014.jpg "tacos from Jefe's on a plate on a table in Texas")
+![tacos from Jefe's on a plate on a table in Texas](/static/img/timeline/jefes-tacos-plate-oct-16-2014.jpg "tacos from Jefe's on a plate on a table in Texas")
 
 I really liked this particular taco trailer, and not just because it was a short walk from work.
 
@@ -23,4 +23,4 @@ Their food was inconsitent but in a good way: sometimes the husband would cook w
 
 Once they were gone for a week and when they came back they had a new trailer. I commented that it looked good and Jefe (as I assumed he was called) said, "Yeah, thanks. Too bad somebody stole the other one."  I had no idea that was a hazard in the food trailer business.
 
-![Jefe's taco trailer in Austin](/static/img/timeline/jefes-taco-trailer-oct-16-2014.jpg "Jefe's taco trailer in Austin")
+![Jefe's taco trailer in Austin](/static/img/timeline/jefes-tacos-trailer-oct-16-2014.jpg "Jefe's taco trailer in Austin")
