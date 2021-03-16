@@ -662,8 +662,8 @@ p.postdate h3 {
 
 	.page__sketchbook .container main img {
 		margin: 0 auto;
-		max-height: 500px;
-		max-width: 500px;
+		max-height: 100%;
+		max-width: 100%;
 		width: auto;
 	}
 
