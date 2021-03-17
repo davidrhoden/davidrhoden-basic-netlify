@@ -13,4 +13,4 @@ tags:
 
 ---
 
-I'm sure we had a ball.
+I'm sure we had a ball. No pictures, I guess.
