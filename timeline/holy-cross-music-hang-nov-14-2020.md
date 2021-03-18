@@ -52,3 +52,8 @@ Close to sunset the levee filled up with spectators too.
 ![Levee watchers and clouds at Holy Cross Music Hang](/static/img/timeline/holycrossmusic/levee-watchers-and-clouds-nov-14-2020.jpg "Levee watchers and clouds at Holy Cross Music Hang")
 
 I didn't get any photos of Malevitus somewhow but I shot some video of them when this art car pulled up.
+
+<video controls loop>
+  <source type="video/mp4" src="/static/img/timeline/holycrossmusic/malevitus-art-car-nov-14-2020.mp4"></source>
+  <p>Your browser does not support the video element. Otherwise you'd be watching a video of Malevitus and an art car right now.</p>
+</video>
