@@ -18,25 +18,25 @@ tags:
 
 ---
 
-![Gina Phillips and Friends at Holy Cross Music Hang](/static/img/timeline/holycrossmusicgina-phillips-and-friends-nov-14-2020.jpg "Gina Phillips and Friends at Holy Cross Music Hang")
+![Gina Phillips and Friends at Holy Cross Music Hang](/static/img/timeline/holycrossmusic/gina-phillips-and-friends-nov-14-2020.jpg "Gina Phillips and Friends at Holy Cross Music Hang")
 
 Gina put on an outdoor music show in her yard so people could stay socially distant but still be kind of sociable and hear some music.
 
 The day started with Stoo Odom, solo.
 
-![Stoo Odom at Holy Cross Music Hang](/static/img/timeline/holycrossmusicstoo-odom-nov-14-2020.jpg "Stoo Odom at Holy Cross Music Hang")
+![Stoo Odom at Holy Cross Music Hang](/static/img/timeline/holycrossmusic/stoo-odom-nov-14-2020.jpg "Stoo Odom at Holy Cross Music Hang")
 
 Followed by Max Bernardi's group, the Souvenaires.
 
-![Souvenaires at Holy Cross Music Hang](/static/img/timeline/holycrossmusicsouvenaires-nov-14-2020.jpg "Souvenaires at Holy Cross Music Hang")
+![Souvenaires at Holy Cross Music Hang](/static/img/timeline/holycrossmusic/souvenaires-nov-14-2020.jpg "Souvenaires at Holy Cross Music Hang")
 
 There was plenty of room so the crowd could be socailly distanced.
 
-![Socially distant crowd at Holy Cross Music Hang](/static/img/timeline/holycrossmusicsocial-distancing-crowd-nov-14-2020.jpg "Socially distant crowd at Holy Cross Music Hang")
+![Socially distant crowd at Holy Cross Music Hang](/static/img/timeline/holycrossmusic/social-distancing-crowd-nov-14-2020.jpg "Socially distant crowd at Holy Cross Music Hang")
 
 Then Gina's group, billed for the afternoon as "Gina Phillips and Friends" (Ross Karsen, Marcus Bronson, and Doug Garrison)
 
-![Gina Phillips and Friends at Holy Cross Music Hang](/static/img/timeline/holycrossmusicgina-phillips-and-friends-nov-14-2020.jpg "Gina Phillips and Friends at Holy Cross Music Hang")
+![Gina Phillips and Friends at Holy Cross Music Hang](/static/img/timeline/holycrossmusic/gina-phillips-and-friends-nov-14-2020.jpg "Gina Phillips and Friends at Holy Cross Music Hang")
 
 <video controls loop>
   <source type="video/mp4" src="/static/img/timeline/holycrossmusic/whipporwill-nov-14-2020.mp4"></source>
@@ -45,10 +45,10 @@ Then Gina's group, billed for the afternoon as "Gina Phillips and Friends" (Ross
 
 Then Gina's neighbor George's band, Regenerator.
 
-![Regenerator at Holy Cross Music Hang](/static/img/timeline/holycrossmusicregenerator-nov-14-2020.jpg "Regenerator at Holy Cross Music Hang")
+![Regenerator at Holy Cross Music Hang](/static/img/timeline/holycrossmusic/regenerator-nov-14-2020.jpg "Regenerator at Holy Cross Music Hang")
 
 Close to sunset the levee filled up with spectators too.
 
-![Levee watchers and clouds at Holy Cross Music Hang](/static/img/timeline/holycrossmusiclevee-watchers-and-clouds-nov-14-2020.jpg "Levee watchers and clouds at Holy Cross Music Hang")
+![Levee watchers and clouds at Holy Cross Music Hang](/static/img/timeline/holycrossmusic/levee-watchers-and-clouds-nov-14-2020.jpg "Levee watchers and clouds at Holy Cross Music Hang")
 
 I didn't get any photos of Malevitus somewhow but I shot some video of them when this art car pulled up.
