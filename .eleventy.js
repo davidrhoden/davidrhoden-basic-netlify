@@ -5,6 +5,15 @@ const htmlmin = require("html-minifier");
 const slugify = require("slugify");
 const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
 const pluginSEO = require("eleventy-plugin-seo");
+const Image = require("@11ty/eleventy-img");
+const path = require("path");
+const isFullUrl = (url) => {
+  try {
+    return new URL(url);
+  } catch {
+    return false;
+  }
+};
 
 module.exports = function(eleventyConfig) {
 
@@ -21,6 +30,27 @@ module.exports = function(eleventyConfig) {
     imageWithBaseUrl: true
   }
 });
+
+eleventyConfig.addNunjucksAsyncShortcode("image", imageShortcode);
+
+async function imageShortcode(src, alt) {
+  if(alt === undefined) {
+    // You bet we throw an error on missing alt (alt="" works okay)
+    throw new Error(`Missing \`alt\` on myImage from: ${src}`);
+  }
+
+  const fullSrc = isFullUrl(src) ? src : path.join(__dirname, '/static/img/timeline/') + src ;
+  console.log(fullSrc);
+  let metadata = await Image(fullSrc, {
+    widths: [32, 160],
+    formats: ["jpeg"],
+    urlPath: "/static/img/timeline/thumbnails/",
+    outputDir: "./static/img/timeline/thumbnails/"
+  });
+
+  let data = metadata.jpeg[metadata.jpeg.length - 1];
+  return `<img src="${data.url}" width="${data.width}" height="${data.height}" alt="${alt}" loading="lazy" decoding="async">`;
+}
 
   // Merge data instead of overriding
   // https://www.11ty.dev/docs/data-deep-merge/
@@ -51,6 +81,11 @@ module.exports = function(eleventyConfig) {
     return minified.code;
   });
 
+  //https://www.seanmcp.com/articles/logging-with-eleventy-and-nunjucks/
+  eleventyConfig.addFilter('log', value => {
+    console.log(value)
+  })
+
   eleventyConfig.addCollection("posts", function(collection) {
     const coll = collection.getFilteredByTag("post");
 
@@ -78,8 +113,6 @@ module.exports = function(eleventyConfig) {
 
     return allNotes;
   });
-
-  
 
   // Minify HTML output
   eleventyConfig.addTransform("htmlmin", function(content, outputPath) {
