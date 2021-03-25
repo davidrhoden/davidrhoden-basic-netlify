@@ -6,7 +6,7 @@
 	--magenta: magenta;
 	--orangered: orangered;
 
-	--font-primary: 'NoticiaText-Regular', Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+	--font-primary: 'Libre Franklin', Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
 	--font-secondary: Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
 	--font-decorative: "ShadowGrotesque", sans-serif, "Avenir";
 }
@@ -281,9 +281,9 @@ main img.thumbnail {
 
 a.tiny-thumbnail {
 	display: block;
-	height: 32px;
+	height: 42px;
 	position: relative;
-	width: 32px;
+	width: 42px;
 	overflow: hidden;
 }
 
@@ -432,7 +432,6 @@ ol li::before {
 }
 
 .home .intro-home {
-	background: url(/static/img/about/david-with-beard-oct-1-2020-white.jpg) center bottom no-repeat;
 	font-size: 1.5rem;
 	text-align: left;
 }
@@ -605,20 +604,14 @@ p.postdate h3 {
 	}
 
 	.home .intro-home {
-		background: url(/static/img/about/david-with-beard-oct-1-2020-white.jpg) top right no-repeat;
 		font-size: 2em;
 		height: 88vh;
 		margin-bottom: 5rem;
 	}
 
-	.home .intro-home p {
-		width: 50%;
-	}
-
 	.home .footnote {
 		font-size: 1rem;
 		margin-top: 10vh;
-		width: 50%;
 	}
 
 	.home .footnote a {
