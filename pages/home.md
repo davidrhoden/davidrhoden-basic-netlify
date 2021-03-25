@@ -9,12 +9,17 @@ image: /static/img/rock/davedrummingatlakeside_sq.jpg
  
 ---
 
-<div class="intro-home" style="position: relative;">
-<p>My name is David Rhoden. I'm a <a href="paintings">painter</a>, an <a href="illustrations">illustrator</a>, an <a href="animations">animator</a>, and a <a href="designs">designer</a>.</p>
-<p>I also do web development* and play a couple of musical instruments.</p>
-<p>I currently live in New Orleans, Louisiana.</p>
-<div class="footnote">*I am currently available for freelance web work. <a href="/contact">Contact me</a> with questions.<br> 
-(Or just e-mail me at <a href="mailto:david@davidrhoden.com">david@davidrhoden.com</a>.)</div>
+<div class="intro-home" style="position: relative; display: flex;">
+	<div>
+		<p>My name is David Rhoden. I'm a <a href="paintings">painter</a>, an <a href="illustrations">illustrator</a>, an <a href="animations">animator</a>, and a <a href="designs">designer</a>.</p>
+		<p>I also do <a href="paintings">web development</a>* and play a couple of musical instruments.</p>
+		<p>I currently live in New Orleans, Louisiana.</p>
+		<div class="footnote">*I am currently available for freelance web work. <a href="/contact">Contact me</a> with questions.<br> 
+		(Or just e-mail me at <a href="mailto:david@davidrhoden.com">david@davidrhoden.com</a>.)</div>
+	</div>
+	<div>
+		<img style="border-radius: 2em; height: auto; width: auto;" src="/static/img/about/david-with-beard-oct-1-2020-white.png" alt="photo of David Rhoden">
+	</div>
 </div>
 
 <div class="grid-home">

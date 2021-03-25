@@ -142,7 +142,7 @@ async function imageShortcode(src, alt) {
   eleventyConfig.addPassthroughCopy("static/pdf");
   eleventyConfig.addPassthroughCopy("static/audio");
   eleventyConfig.addPassthroughCopy("static/webfonts/ShadowGrotesque");
-  eleventyConfig.addPassthroughCopy("static/webfonts/NoticiaText-Regular");
+  //eleventyConfig.addPassthroughCopy("static/webfonts/NoticiaText-Regular");
   eleventyConfig.addPassthroughCopy("admin");
   eleventyConfig.addPassthroughCopy("_includes/assets/");
 
