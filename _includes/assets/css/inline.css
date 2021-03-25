@@ -249,6 +249,7 @@ header nav li a[data-current="current item"] {
 
 .home {
 	background: var(--blue);
+	overflow-x: hidden;
 }
 
 .home .footnote {
@@ -291,7 +292,7 @@ a.tiny-thumbnail img {
 	left: 50%;
 	top: 50%;
 	height: 100%;
-	width: 64px;
+	width: 48px;
 	-webkit-transform: translate(-50%,-50%);
 			-ms-transform: translate(-50%,-50%);
 					transform: translate(-50%,-50%);
@@ -431,6 +432,7 @@ ol li::before {
 }
 
 .home .intro-home {
+	background: url(/static/img/about/david-with-beard-oct-1-2020-white.jpg) center bottom no-repeat;
 	font-size: 1.5rem;
 	text-align: left;
 }
@@ -603,18 +605,20 @@ p.postdate h3 {
 	}
 
 	.home .intro-home {
+		background: url(/static/img/about/david-with-beard-oct-1-2020-white.jpg) top right no-repeat;
 		font-size: 2em;
-		height: 70vh;
+		height: 88vh;
 		margin-bottom: 5rem;
 	}
 
 	.home .intro-home p {
-		width: 60%;
+		width: 50%;
 	}
 
 	.home .footnote {
 		font-size: 1rem;
 		margin-top: 10vh;
+		width: 50%;
 	}
 
 	.home .footnote a {
@@ -675,7 +679,7 @@ p.postdate h3 {
 
 	.page__sketchbook .container main img {
 		margin: 0 auto;
-		max-height: 100%;
+		max-height: 300px;
 		max-width: 100%;
 		width: auto;
 	}

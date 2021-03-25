@@ -1,6 +1,6 @@
 const { DateTime } = require("luxon");
-const CleanCSS = require("clean-css");
-const UglifyJS = require("uglify-es");
+// const CleanCSS = require("clean-css");
+// const UglifyJS = require("uglify-es");
 const htmlmin = require("html-minifier");
 const slugify = require("slugify");
 const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
@@ -40,7 +40,7 @@ async function imageShortcode(src, alt) {
   }
 
   const fullSrc = isFullUrl(src) ? src : path.join(__dirname, '/static/img/timeline/') + src ;
-  console.log(fullSrc);
+  // console.log(fullSrc);
   let metadata = await Image(fullSrc, {
     widths: [32, 160],
     formats: ["jpeg"],
@@ -68,18 +68,18 @@ async function imageShortcode(src, alt) {
     return DateTime.fromJSDate(dateObj).toFormat("yyyy");
   });
 
-  eleventyConfig.addFilter("cssmin", function(code) {
-    return new CleanCSS({}).minify(code).styles;
-  });
+  // eleventyConfig.addFilter("cssmin", function(code) {
+  //   return new CleanCSS({}).minify(code).styles;
+  // });
 
-  eleventyConfig.addFilter("jsmin", function(code) {
-    let minified = UglifyJS.minify(code);
-    if (minified.error) {
-      console.log("UglifyJS error: ", minified.error);
-      return code;
-    }
-    return minified.code;
-  });
+  // eleventyConfig.addFilter("jsmin", function(code) {
+  //   let minified = UglifyJS.minify(code);
+  //   if (minified.error) {
+  //     console.log("UglifyJS error: ", minified.error);
+  //     return code;
+  //   }
+  //   return minified.code;
+  // });
 
   //https://www.seanmcp.com/articles/logging-with-eleventy-and-nunjucks/
   eleventyConfig.addFilter('log', value => {
