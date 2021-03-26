@@ -1,5 +1,5 @@
 ---
-title: watched the Spuer Bowl halftime starring Prince
+title: watched the Super Bowl halftime starring Prince
 date: 2007-02-05T21:00:00.000Z
 summary: I watched at the house of some acquaintainces I didn't know well.
 excerpt: I watched at the house of some acquaintainces I didn't know well.
