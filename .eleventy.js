@@ -45,7 +45,7 @@ async function imageShortcode(src, alt) {
     widths: [32, 160],
     formats: ["jpeg"],
     urlPath: "/static/img/timeline/thumbnails/",
-    outputDir: "./static/img/timeline/thumbnails/"
+    outputDir: "./_site/static/img/timeline/thumbnails/"
   });
 
   let data = metadata.jpeg[metadata.jpeg.length - 1];
@@ -142,7 +142,6 @@ async function imageShortcode(src, alt) {
   eleventyConfig.addPassthroughCopy("static/pdf");
   eleventyConfig.addPassthroughCopy("static/audio");
   eleventyConfig.addPassthroughCopy("static/webfonts/ShadowGrotesque");
-  //eleventyConfig.addPassthroughCopy("static/webfonts/NoticiaText-Regular");
   eleventyConfig.addPassthroughCopy("admin");
   eleventyConfig.addPassthroughCopy("_includes/assets/");
 
