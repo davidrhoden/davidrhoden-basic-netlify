@@ -6,9 +6,9 @@
 	--magenta: magenta;
 	--orangered: orangered;
 
-	--font-primary: 'Libre Franklin', Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
-	--font-secondary: Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
-	--font-decorative: "ShadowGrotesque", sans-serif, "Avenir";
+	--font-primary: 'Source Serif Pro', serif;
+	--font-secondary: 'Libre Franklin', Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+	--font-decorative: "ShadowGrotesque", sans-serif ;
 }
 
 *, *:before, *:after {
@@ -61,6 +61,8 @@ h2 {
 
 h3 {
 	clear: both;
+	font-family: var(--font-secondary);	
+	font-size: 2em;
 }
 
 header {
@@ -198,6 +200,7 @@ main {
 main :first-child,
 main > article :first-child {
 	margin-top: 0;
+	bargin-bottom: 0;
 }
 
 /* Header Nav */
