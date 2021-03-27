@@ -67,7 +67,7 @@ h3 {
 
 header {
   display: flex;
-  background: white;
+  background: var(--white);
   border-bottom: 1px solid #efefef;
   flex-wrap: wrap;
   position: fixed;
@@ -144,7 +144,7 @@ footer {
 }
 
 footer {
-	background: white;
+	background: var(--white);
 	clear: both;
 	margin: 0 auto;
 }
@@ -366,7 +366,7 @@ button {
   	padding: 1em;
   	margin-bottom: 1em;
 	font-size: 1rem;
-	font-family: "Inter", sans-serif;
+	font-family: var(--font-secondary), sans-serif;
 }
 
 input,
@@ -406,7 +406,7 @@ ol li {
 
 ol li::before {
   content: counter(inst);
-  color: white;
+  color: var(--white);
   font-weight: 700;
   font-size: 1.5em;
   text-align: center;
@@ -470,7 +470,7 @@ p.postdate h3 {
 }
 
 .polaroid {
-	background: white;
+	background: var(--white);
 	padding: 1em;
 	margin-bottom: 1em;
 }
@@ -576,7 +576,7 @@ p.postdate h3 {
 	}
 
 	footer {
-		background: white;
+		background: var(--white);
 	    width: 100vw;
 	    padding: 2em;
 	}
@@ -722,8 +722,8 @@ p.postdate h3 {
 		height: 100%;
 		width: auto;
 		-webkit-transform: translate(-50%,-50%);
-				-ms-transform: translate(-50%,-50%);
-						transform: translate(-50%,-50%);
+			-ms-transform: translate(-50%,-50%);
+				transform: translate(-50%,-50%);
 	}
 }
 
