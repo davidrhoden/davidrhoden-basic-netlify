@@ -6,9 +6,9 @@
 	--magenta: magenta;
 	--orangered: orangered;
 
-	--font-primary: 'NoticiaText-Regular', Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
-	--font-secondary: Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
-	--font-decorative: "ShadowGrotesque", sans-serif, "Avenir";
+	--font-primary: 'Source Serif Pro', serif;
+	--font-secondary: 'Libre Franklin', Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+	--font-decorative: "ShadowGrotesque", sans-serif ;
 }
 
 *, *:before, *:after {
@@ -21,6 +21,7 @@
 
 .hidden {
 	display: none;
+	display: flex;
 }
 
 .float-left {
@@ -60,6 +61,8 @@ h2 {
 
 h3 {
 	clear: both;
+	font-family: var(--font-secondary);	
+	font-size: 2em;
 }
 
 header {
@@ -197,6 +200,7 @@ main {
 main :first-child,
 main > article :first-child {
 	margin-top: 0;
+	bargin-bottom: 0;
 }
 
 /* Header Nav */
@@ -248,6 +252,7 @@ header nav li a[data-current="current item"] {
 
 .home {
 	background: var(--blue);
+	overflow-x: hidden;
 }
 
 .home .footnote {
@@ -277,11 +282,23 @@ main img.thumbnail {
 	width: 160px;
 }
 
-main img.tiny-thumbnail, a.tiny-thumbnail, a.tiny-thumbnail img {
+a.tiny-thumbnail {
 	display: block;
-	height: 32px;
-	width: 32px;
+	height: 42px;
+	position: relative;
+	width: 42px;
 	overflow: hidden;
+}
+
+a.tiny-thumbnail img {
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	height: 100%;
+	width: 48px;
+	-webkit-transform: translate(-50%,-50%);
+			-ms-transform: translate(-50%,-50%);
+					transform: translate(-50%,-50%);
 }
 
 /*.tiny-thumbnail:hover + .hidden {
@@ -591,12 +608,8 @@ p.postdate h3 {
 
 	.home .intro-home {
 		font-size: 2em;
-		height: 70vh;
+		height: 88vh;
 		margin-bottom: 5rem;
-	}
-
-	.home .intro-home p {
-		width: 60%;
 	}
 
 	.home .footnote {
@@ -662,7 +675,7 @@ p.postdate h3 {
 
 	.page__sketchbook .container main img {
 		margin: 0 auto;
-		max-height: 100%;
+		max-height: 300px;
 		max-width: 100%;
 		width: auto;
 	}
@@ -686,9 +699,31 @@ p.postdate h3 {
 	}
 
 	#timeline-detail {
-		display: block;
-		height: 2em;
+		display: flex;
+		height: 10em;
 		margin: 1em auto;
+	}
+
+	#timeline-detail  .summary {
+		margin-left: 1rem;
+	}
+
+	#timeline-detail  .thumbnail-container {
+		height: 160px;
+		overflow: hidden;
+		position: relative;
+		width: 320px;
+	}
+
+	#timeline-detail .thumbnail-container img {
+		position: absolute;
+		left: 50%;
+		top: 50%;
+		height: 100%;
+		width: auto;
+		-webkit-transform: translate(-50%,-50%);
+				-ms-transform: translate(-50%,-50%);
+						transform: translate(-50%,-50%);
 	}
 }
 
