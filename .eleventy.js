@@ -44,8 +44,14 @@ async function imageShortcode(src, alt) {
   let metadata = await Image(fullSrc, {
     widths: [32, 160],
     formats: ["jpeg"],
+    // filenameFormat: function (id, src, width, format, options) {
+    //   const extension = path.extname(src);
+    //   const name = path.basename(src, extension);
+    //   return `${name}-${width}w.${format}`;
+    // },
     urlPath: "/static/img/timeline/thumbnails/",
-    outputDir: "./_site/static/img/timeline/thumbnails/"
+    outputDir: "./_site/static/img/timeline/thumbnails/",
+    // useCache: false
   });
 
   let data = metadata.jpeg[metadata.jpeg.length - 1];

@@ -22,7 +22,6 @@ $(document).ready(function(){
 
 function showHidden() {
   var hiddenText = $(this).find(".hidden").html();
-  console.log(hiddenText);
   $("#timeline-detail").html(hiddenText);
 };
 
