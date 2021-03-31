@@ -5,6 +5,7 @@
 	--darkblue: #3E517A;
 	--magenta: magenta;
 	--orangered: orangered;
+	--gray: rgba(0, 0, 0, .5);
 
 	--font-primary: 'Source Serif Pro', serif;
 	--font-secondary: 'Libre Franklin', Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
@@ -200,7 +201,7 @@ main {
 main :first-child,
 main > article :first-child {
 	margin-top: 0;
-	bargin-bottom: 0;
+	margin-bottom: 0;
 }
 
 /* Header Nav */
@@ -300,18 +301,6 @@ a.tiny-thumbnail img {
 			-ms-transform: translate(-50%,-50%);
 					transform: translate(-50%,-50%);
 }
-
-/*.tiny-thumbnail:hover + .hidden {
-	background: white;
-	border: 1px solid #666666;
-	box-shadow: 0px 0px 5px 3px rgba(0,0,0,0.25);
-	display: inline-block;
-	padding: 2em;
-	position: absolute;
-	left: 32px;
-	top: 32px;
-	z-index: 10;
-}*/
 
 /* Post Tags */
 a[rel="tag"],
@@ -451,7 +440,7 @@ ol li::before {
 	grid-template-areas: "text image";
 }
 
-/******* ANIMATIONS *******/
+/******* END ANIMATIONS *******/
 
 .postslist h3 {
 	margin-top: 0;
@@ -510,6 +499,11 @@ p.postdate h3 {
 }
 
 /******* END PHOTO-TIMELINE *******/
+
+.tech {
+	color: var(--gray);
+	font-size: .8rem;
+}
 
 @media screen and (min-width:960px) {
 	:root {
