@@ -15,31 +15,13 @@ const isFullUrl = (url) => {
   }
 };
 
-module.exports = function(eleventyConfig) {
-
-  eleventyConfig.addPlugin(eleventyNavigationPlugin);
-
-  eleventyConfig.addPlugin(pluginSEO, {
-  title: "David Rhoden",
-  description: "The website of New Orleans-based artist David Rhoden.",
-  url: "https://davidrhoden.com",
-  author: "David Rhoden",
-  twitter: "davidrhoden",
-  image: "/static/img/paintings/bigface-wide.jpg",
-  options: {
-    imageWithBaseUrl: true
-  }
-});
-
-eleventyConfig.addNunjucksAsyncShortcode("image", imageShortcode);
-
 async function imageShortcode(src, alt) {
   if(alt === undefined) {
     // You bet we throw an error on missing alt (alt="" works okay)
     throw new Error(`Missing \`alt\` on myImage from: ${src}`);
   }
 
-  const fullSrc = isFullUrl(src) ? src : path.join(__dirname, '/static/img/timeline/') + src ;
+  const fullSrc = path.join(__dirname, '/static/img/timeline/') + src ;
   console.log("fullSrc:", fullSrc);
   let metadata = await Image(fullSrc, {
     widths: [32, 160],
@@ -49,15 +31,30 @@ async function imageShortcode(src, alt) {
       const name = path.basename(src, extension);
       return `${name}-${width}w.${format}`;
     },
-    urlPath: "/static/img/timeline/thumbnails/",
-    outputDir: "./static/img/timeline/thumbnails/",
-
+    urlPath: "/static/img/timeline/",
+    outputDir: "./_site/static/img/timeline/thumbnails/"
   });
   console.log( metadata );
   let data = metadata.jpeg[metadata.jpeg.length - 1];
   //console.log(data.url, metadata.jpeg.length);
   return `<img src="${data.url}" width="${data.width}" height="${data.height}" alt="${alt}" loading="lazy" decoding="async">`;
 }
+
+module.exports = function(eleventyConfig) {
+
+  eleventyConfig.addPlugin(eleventyNavigationPlugin);
+
+  eleventyConfig.addPlugin(pluginSEO, {
+    title: "David Rhoden",
+    description: "The website of New Orleans-based artist David Rhoden.",
+    url: "https://davidrhoden.com",
+    author: "David Rhoden",
+    twitter: "davidrhoden",
+    image: "/static/img/paintings/bigface-wide.jpg",
+    options: {
+      imageWithBaseUrl: true
+    }
+  });
 
   // Merge data instead of overriding
   // https://www.11ty.dev/docs/data-deep-merge/
@@ -87,6 +84,8 @@ async function imageShortcode(src, alt) {
   //   }
   //   return minified.code;
   // });
+
+  eleventyConfig.addNunjucksAsyncShortcode("image", imageShortcode);
 
   //https://www.seanmcp.com/articles/logging-with-eleventy-and-nunjucks/
   eleventyConfig.addFilter('log', value => {
