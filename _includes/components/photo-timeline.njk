@@ -13,7 +13,9 @@
     <div class="photo-timeline-link">
         {% if post.data.image %}
             <a class="tiny-thumbnail" href="{{ post.url }}">
+            {% for image in post.data.image %}
               {% image post.data.image, post.data.title %}
+            {% endfor %}
             </a>
         {% else %}
             <a class="tiny-thumbnail" href="{{ post.url }}"></a>
@@ -21,7 +23,9 @@
         <div class="hidden">
           <div class="thumbnail-container">
             {% if post.data.image %}
+            {% for image in post.data.image %}
               {% image post.data.image, post.data.title %}
+            {% endfor %}
             {% endif %}
           </div>
           <div class="summary">

@@ -40,21 +40,22 @@ async function imageShortcode(src, alt) {
   }
 
   const fullSrc = isFullUrl(src) ? src : path.join(__dirname, '/static/img/timeline/') + src ;
-  // console.log(fullSrc);
+  console.log("fullSrc:", fullSrc);
   let metadata = await Image(fullSrc, {
     widths: [32, 160],
     formats: ["jpeg"],
-    // filenameFormat: function (id, src, width, format, options) {
-    //   const extension = path.extname(src);
-    //   const name = path.basename(src, extension);
-    //   return `${name}-${width}w.${format}`;
-    // },
+    filenameFormat: function(id, src, width, format, options) {
+      const extension = path.extname(src);
+      const name = path.basename(src, extension);
+      return `${name}-${width}w.${format}`;
+    },
     urlPath: "/static/img/timeline/thumbnails/",
-    outputDir: "./_site/static/img/timeline/thumbnails/",
-    // useCache: false
-  });
+    outputDir: "./static/img/timeline/thumbnails/",
 
+  });
+  console.log( metadata );
   let data = metadata.jpeg[metadata.jpeg.length - 1];
+  //console.log(data.url, metadata.jpeg.length);
   return `<img src="${data.url}" width="${data.width}" height="${data.height}" alt="${alt}" loading="lazy" decoding="async">`;
 }
 
