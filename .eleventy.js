@@ -34,13 +34,14 @@ async function imageShortcode(src, alt) {
     urlPath: "/static/img/timeline/",
     outputDir: "./_site/static/img/timeline/thumbnails/"
   });
-  console.log( metadata );
+  console.log(metadata);
   let data = metadata.jpeg[metadata.jpeg.length - 1];
-  //console.log(data.url, metadata.jpeg.length);
   return `<img src="${data.url}" width="${data.width}" height="${data.height}" alt="${alt}" loading="lazy" decoding="async">`;
 }
 
 module.exports = function(eleventyConfig) {
+
+  eleventyConfig.addNunjucksAsyncShortcode("image", imageShortcode);
 
   eleventyConfig.addPlugin(eleventyNavigationPlugin);
 
@@ -71,21 +72,6 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addFilter("justYear", dateObj => {
     return DateTime.fromJSDate(dateObj).toFormat("yyyy");
   });
-
-  // eleventyConfig.addFilter("cssmin", function(code) {
-  //   return new CleanCSS({}).minify(code).styles;
-  // });
-
-  // eleventyConfig.addFilter("jsmin", function(code) {
-  //   let minified = UglifyJS.minify(code);
-  //   if (minified.error) {
-  //     console.log("UglifyJS error: ", minified.error);
-  //     return code;
-  //   }
-  //   return minified.code;
-  // });
-
-  eleventyConfig.addNunjucksAsyncShortcode("image", imageShortcode);
 
   //https://www.seanmcp.com/articles/logging-with-eleventy-and-nunjucks/
   eleventyConfig.addFilter('log', value => {
