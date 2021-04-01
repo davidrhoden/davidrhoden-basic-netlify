@@ -470,7 +470,7 @@ p.postdate h3 {
 	grid-area: image;
 }
 
-.polaroid {
+.polaroid, main :first-child .polaroid, main > article :first-child .polaroid {
 	background: var(--white);
 	padding: 1em;
 	margin-bottom: 1em;
