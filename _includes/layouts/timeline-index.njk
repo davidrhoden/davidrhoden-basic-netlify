@@ -18,7 +18,7 @@ section: timeline
 <article class="flex">
   <div class="left">
     {% if post.data.image %}
-      <img class="thumbnail" src="{{ post.data.image }}" alt="{{post.data.title}}">
+      {% image post.data.image, post.data.title %}
     {% endif %}
   </div>
   <div>
