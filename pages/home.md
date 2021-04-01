@@ -5,14 +5,14 @@ date: 2016-01-01T00:00:00.000Z
 permalink: /
 excerpt: Paintings, illustrations, animations, web development. Currently based in New Orleans, Louisiana.
 summary: Paintings, illustrations, animations, web development. Currently based in New Orleans, Louisiana.
-image: /static/img/rock/davedrummingatlakeside_sq.jpg
+image: /static/img/about/david-with-beard-oct-1-2020-7bb4fb.jpg
  
 ---
 
 <div class="intro-home" style="position: relative; display: flex;">
 	<div>
 		<p>My name is David Rhoden. I'm a <a href="paintings">painter</a>, an <a href="illustrations">illustrator</a>, an <a href="animations">animator</a>, and a <a href="designs">designer</a>.</p>
-		<p>I also do <a href="paintings">web development</a>* and play a couple of musical instruments.</p>
+		<p>I also do <a href="paintings">web development</a>* and play a couple of <a href="paintings">musical instruments</a>.</p>
 		<p>I currently live in New Orleans, Louisiana.</p>
 		<div class="footnote">*I am currently available for freelance web work. <a href="/contact">Contact me</a> with questions.<br> 
 		(Or just e-mail me at <a href="mailto:david@davidrhoden.com">david@davidrhoden.com</a>.)</div>
