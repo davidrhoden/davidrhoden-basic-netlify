@@ -9,7 +9,10 @@ image: /static/img/about/david-with-beard-oct-1-2020-7bb4fb.jpg
  
 ---
 
-<div class="intro-home" style="position: relative; display: flex;">
+<div class="intro-home">
+	<div>
+		<img class="self-portrait" src="/static/img/about/david-with-beard-oct-1-2020-white.png" alt="photo of David Rhoden">
+	</div>
 	<div>
 		<p>My name is David Rhoden. I'm a <a href="paintings">painter</a>, an <a href="illustrations">illustrator</a>, an <a href="animations">animator</a>, and a <a href="designs">designer</a>.</p>
 		<p>I also do <a href="paintings">web development</a>* and play a couple of <a href="paintings">musical instruments</a>.</p>
@@ -17,9 +20,7 @@ image: /static/img/about/david-with-beard-oct-1-2020-7bb4fb.jpg
 		<div class="footnote">*I am currently available for freelance web work. <a href="/contact">Contact me</a> with questions.<br> 
 		(Or just e-mail me at <a href="mailto:david@davidrhoden.com">david@davidrhoden.com</a>.)</div>
 	</div>
-	<div>
-		<img style="border-radius: 2em; height: auto; width: auto;" src="/static/img/about/david-with-beard-oct-1-2020-white.png" alt="photo of David Rhoden">
-	</div>
+
 </div>
 
 <div class="grid-home">
@@ -39,7 +40,7 @@ image: /static/img/about/david-with-beard-oct-1-2020-7bb4fb.jpg
 	</div>
 	<h2>Illustration</h2>
 </a>
-<p>I've been published in a bunch of magazines. Why, yes, I <i>should</i> do a children's book.</p>
+<p>I've been published in a bunch of magazines. Why, yes, I <i>should</i> do a children's book. (Why, did you write one?)</p>
 </div>
 
 <div class="polaroid" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="200">

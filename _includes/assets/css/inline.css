@@ -261,6 +261,12 @@ header nav li a[data-current="current item"] {
 	margin-bottom: 2rem;
 }
 
+.self-portrait {
+	border-radius: 2em; 
+	height: auto; 
+	width: 100%;
+}
+
 /* Posts List */
 article {
 	margin-bottom: 1em;
@@ -426,6 +432,11 @@ ol li::before {
 .home .intro-home {
 	font-size: 1.5rem;
 	text-align: left;
+	display: block;
+}
+
+.home .intro-home p {
+	line-height: 1.25;
 }
 
 .home .intro-home a {
@@ -601,9 +612,11 @@ p.postdate h3 {
 	}
 
 	.home .intro-home {
+		display: flex;
 		font-size: 2em;
 		height: 75vh;
 		margin-bottom: 5rem;
+		position: relative; 
 	}
 
 	.home .footnote {
@@ -613,6 +626,10 @@ p.postdate h3 {
 
 	.home .footnote a {
 		color: white;
+	}
+
+	.home .intro-home p {
+		line-height: 1.5;
 	}
 
 	.chevron {
@@ -690,6 +707,12 @@ p.postdate h3 {
 		display: inline-block;
 		padding: .5em;
 		width: 64px;
+	}
+
+	.self-portrait {
+		border-radius: 2em; 
+		height: auto; 
+		width: auto;
 	}
 
 	#timeline-detail {
