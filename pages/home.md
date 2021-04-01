@@ -40,7 +40,7 @@ image: /static/img/about/david-with-beard-oct-1-2020-7bb4fb.jpg
 	</div>
 	<h2>Illustration</h2>
 </a>
-<p>I've been published in a bunch of magazines. Why, yes, I <i>should</i> do a children's book. (Why, did you write one?)</p>
+<p>I've been published in a bunch of magazines. And, yes, I <i>should</i> do a children's book. (Why, <a href="mailto:david@davidrhoden.com?subject='Hey, Dave. I wrote a children's book">did you write one?</a>)</p>
 </div>
 
 <div class="polaroid" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="200">
