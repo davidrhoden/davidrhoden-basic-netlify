@@ -18,7 +18,7 @@ image: /static/img/about/david-with-beard-oct-1-2020-7bb4fb.jpg
 		<p>I also do <a href="paintings">web development</a>* and play a couple of <a href="paintings">musical instruments</a>.</p>
 		<p>I currently live in New Orleans, Louisiana.</p>
 		<div class="footnote">*I am currently available for freelance web work. <a href="/contact">Contact me</a> with questions.<br> 
-		(Or just e-mail me at <a href="mailto:david@davidrhoden.com">david@davidrhoden.com</a>.)</div>
+		(Or just e-mail me at <a href="mailto:david@davidrhoden.com?subject=Dave, I saw your website, and I've got questions.">david@davidrhoden.com</a>.)</div>
 	</div>
 
 </div>
@@ -40,7 +40,7 @@ image: /static/img/about/david-with-beard-oct-1-2020-7bb4fb.jpg
 	</div>
 	<h2>Illustration</h2>
 </a>
-<p>I've been published in a bunch of magazines. And, yes, I <i>should</i> do a children's book. (Why, <a href="mailto:david@davidrhoden.com?subject='Hey, Dave. I wrote a children's book">did you write one?</a>)</p>
+<p>I've been published in a bunch of magazines. And, yes, I <i>should</i> do a children's book. (Why, <a href="mailto:david@davidrhoden.com?subject=Hey, Dave. I wrote a children's book. Maybe you should illustrate it?">did you write one?</a>)</p>
 </div>
 
 <div class="polaroid" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="200">
@@ -72,7 +72,7 @@ image: /static/img/about/david-with-beard-oct-1-2020-7bb4fb.jpg
 <img src="/static/img/rock/anm-dave-020727.jpg" alt="David Rhoden playing guitar at All-Night Movers house show, photo by Jeff Pounds">
 <h2>Rock Music</h2>
 </a>
-<p>Pictures and recordings of the bands I've been part of. There were several. There's at least one now.</p>
+<p>Pictures and recordings of the bands I've been part of. There were several. There's at least <a href="https://thestackswebsite.com" target="_blank">one</a> now.</p>
 </div>
 
 <div class="polaroid" data-aos="fade-up" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500">
