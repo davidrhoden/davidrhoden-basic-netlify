@@ -3,47 +3,48 @@
     {% set showYear = true %}
     {% set currentYear = "" %}
     {% for post in collections.post | reverse %}
-    {% if showYear %}
-      {% set postYear = post.date.getFullYear() %}
-      {% if currentYear != postYear %}
-          {% set currentYear = postYear %}
-          <span class="post-year">{{ postYear }}</span>
+      {% if showYear %}
+        {% set postYear = post.date.getFullYear() %}
+        {% if currentYear != postYear %}
+            {% set currentYear = postYear %}
+            <span class="post-year">{{ postYear }}</span>
+        {% endif %}
       {% endif %}
-    {% endif %}
-    <div class="photo-timeline-link">
+      <div class="photo-timeline-link">
         {% if post.data.image %}
             <a class="tiny-thumbnail" href="{{ post.url }}">
-            <img class="thumbnail" src="/static/img/timeline/{{ post.data.image }}" alt="{{post.data.title}}">
+            <img class="thumbnail" src="/static/img/thumbnails/32/{{ post.data.image | replace('gif', 'jpg') | replace('png', 'jpg') }}" alt="{{post.data.title}}">
             </a>
         {% else %}
             <a class="tiny-thumbnail" href="{{ post.url }}"></a>
         {% endif %}
         <div class="hidden">
-          <div class="thumbnail-container">
-            {% if post.data.image %}
-            <img class="thumbnail" src="/static/img/timeline/{{ post.data.image }}" alt="{{post.data.title}}">
-            {% endif %}
-          </div>
-          <div class="summary">
-            <time datetime="{{ post.date | machineDate }}">
-              <small>{{ post.date | readableDate }}</small>
-            </time><br>
-            {% if post.data.title %}
-              <h3>{{ post.data.title }}</h3>
-            {% else %}
-              Untitled
-            {% endif %} 
-            <br>
-            {% if post.data.tags %}
-                {% for tag in post.data.tags %}
-                  {%- if tag != "post" -%}
-                    {% set tagUrl %}/tags/{{ tag | slug }}/{% endset %}
-                  <a href="{{ tagUrl | url }}" rel="tag">{{ tag }}</a>
-                  {%- endif -%}
-                {% endfor %}
-              {% endif %}
+            <div class="thumbnail-container">
+              {% if post.data.image %}
+              <img class="thumbnail" src="/static/img/thumbnails/160/{{ post.data.image | replace('gif', 'jpg') | replace('png', 'jpg') }}" alt="{{post.data.title}}">
+              {% endif %} 
             </div>
-        </div>
-    </div>
-  {% endfor %}
+            <div class="summary">
+              <time datetime="{{ post.date | machineDate }}">
+                <small>{{ post.date | readableDate }}</small>
+              </time><br>
+              {% if post.data.title %}
+                <h3>{{ post.data.title }}</h3>
+              {% else %}
+                Untitled
+              {% endif %} 
+              <br>
+              {% if post.data.tags %}
+                  {% for tag in post.data.tags %}
+                    {%- if tag != "post" -%}
+                      {% set tagUrl %}/tags/{{ tag | slug }}/{% endset %}
+                    <a href="{{ tagUrl | url }}" rel="tag">{{ tag }}</a>
+                    {%- endif -%}
+                  {% endfor %}
+                {% endif %}
+              </div>
+          </div>
+      </div>
+    {% endfor %}
+  </div>
 </div>

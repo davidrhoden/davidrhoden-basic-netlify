@@ -292,10 +292,9 @@ main img.thumbnail {
 
 a.tiny-thumbnail {
 	display: block;
-	height: 42px;
+	height: 32px;
 	position: relative;
-	width: 42px;
-	overflow: hidden;
+	width: 32px;
 }
 
 a.tiny-thumbnail img {
@@ -303,7 +302,7 @@ a.tiny-thumbnail img {
 	left: 50%;
 	top: 50%;
 	height: 100%;
-	width: 48px;
+	width: 32px;
 	-webkit-transform: translate(-50%,-50%);
 			-ms-transform: translate(-50%,-50%);
 					transform: translate(-50%,-50%);
