@@ -1,7 +1,7 @@
 {
   "name": "davidrhoden-basic-netlify",
   "version": "1.0.0",
-  "description": "Based on a boilerplate for building a fast static website with the Eleventy static site generator, for deployment to Netlify.",
+  "description": "This is my website. https://davidrhoden.com.",
   "scripts": {
     "build": "npx eleventy",
     "watch": "npx eleventy --watch",
@@ -35,6 +35,7 @@
     "aos": "^2.3.4",
     "clean-css": "^4.2.1",
     "eleventy-plugin-seo": "^0.5.1",
+    "eleventy-plugin-sharp": "^0.0.3",
     "html-minifier": "^4.0.0",
     "moment": "^2.26.0",
     "path": "^0.12.7",

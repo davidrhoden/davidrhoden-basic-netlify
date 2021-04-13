@@ -5,43 +5,9 @@ const htmlmin = require("html-minifier");
 const slugify = require("slugify");
 const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
 const pluginSEO = require("eleventy-plugin-seo");
-const Image = require("@11ty/eleventy-img");
-const path = require("path");
-const isFullUrl = (url) => {
-  try {
-    return new URL(url);
-  } catch {
-    return false;
-  }
-};
 
-async function imageShortcode(src, alt) {
-  if(alt === undefined) {
-    // You bet we throw an error on missing alt (alt="" works okay)
-    throw new Error(`Missing \`alt\` on myImage from: ${src}`);
-  }
-
-  const fullSrc = path.join(__dirname, '/static/img/timeline/') + src ;
-  console.log("fullSrc:", fullSrc);
-  let metadata = await Image(fullSrc, {
-    widths: [32, 160],
-    formats: ["jpeg"],
-    filenameFormat: function(id, src, width, format, options) {
-      const extension = path.extname(src);
-      const name = path.basename(src, extension);
-      return `${name}-${width}w.${format}`;
-    },
-    urlPath: "/static/img/timeline/",
-    outputDir: "./_site/static/img/timeline/thumbnails/"
-  });
-  console.log(metadata);
-  let data = metadata.jpeg[metadata.jpeg.length - 1];
-  return `<img src="${data.url}" width="${data.width}" height="${data.height}" alt="${alt}" loading="lazy" decoding="async">`;
-}
 
 module.exports = function(eleventyConfig) {
-
-  eleventyConfig.addNunjucksAsyncShortcode("image", imageShortcode);
 
   eleventyConfig.addPlugin(eleventyNavigationPlugin);
 
