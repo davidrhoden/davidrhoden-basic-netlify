@@ -21,7 +21,7 @@ tags:
 
 ---
 
-![mailer for David Rhoden art show at Maiden Brooklyn gallery](/static/img/timeline/showcard-aug-3-2006.jpg "mailer for David Rhoden art show at Maiden Brooklyn gallery")
+![mailer for David Rhoden art show at Maiden Brooklyn gallery](/static/img/timeline/showcard-aug-3-2006.gif "mailer for David Rhoden art show at Maiden Brooklyn gallery")
 
 This is a mailer I made for a show I had at a gallery on Grand Street in Williamsburg, Brooklyn in 2006. It was an amazing show. A band called O Death played in the basement. It was terribly hot but I drank a lot of cold beer. Julia Rogers bought me a falafel.
 
