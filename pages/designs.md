@@ -11,6 +11,10 @@ eleventyNavigation:
 
 ---
 
+![Show poster design by David Rhoden](/static/img/designs/SisterStreetStage-Apr-17-2021.jpg)
+
+---
+
 ![Album cover design by David Rhoden](/static/img/designs/TalbotAdamsAlbum.jpg)
 
 ---

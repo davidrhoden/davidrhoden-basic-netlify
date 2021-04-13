@@ -5,21 +5,22 @@ date: 2016-01-01T00:00:00.000Z
 permalink: /
 excerpt: Paintings, illustrations, animations, web development. Currently based in New Orleans, Louisiana.
 summary: Paintings, illustrations, animations, web development. Currently based in New Orleans, Louisiana.
-image: /static/img/rock/davedrummingatlakeside_sq.jpg
+image: /static/img/about/david-with-beard-oct-1-2020-7bb4fb.jpg
  
 ---
 
-<div class="intro-home" style="position: relative; display: flex;">
+<div class="intro-home">
+	<div>
+		<img class="self-portrait" src="/static/img/about/david-with-beard-oct-1-2020-white.png" alt="photo of David Rhoden">
+	</div>
 	<div>
 		<p>My name is David Rhoden. I'm a <a href="paintings">painter</a>, an <a href="illustrations">illustrator</a>, an <a href="animations">animator</a>, and a <a href="designs">designer</a>.</p>
-		<p>I also do <a href="paintings">web development</a>* and play a couple of musical instruments.</p>
+		<p>I also do <a href="paintings">web development</a>* and play a couple of <a href="paintings">musical instruments</a>.</p>
 		<p>I currently live in New Orleans, Louisiana.</p>
 		<div class="footnote">*I am currently available for freelance web work. <a href="/contact">Contact me</a> with questions.<br> 
-		(Or just e-mail me at <a href="mailto:david@davidrhoden.com">david@davidrhoden.com</a>.)</div>
+		(Or just e-mail me at <a href="mailto:david@davidrhoden.com?subject=Dave, I saw your website, and I've got questions.">david@davidrhoden.com</a>.)</div>
 	</div>
-	<div>
-		<img style="border-radius: 2em; height: auto; width: auto;" src="/static/img/about/david-with-beard-oct-1-2020-white.png" alt="photo of David Rhoden">
-	</div>
+
 </div>
 
 <div class="grid-home">
@@ -39,6 +40,7 @@ image: /static/img/rock/davedrummingatlakeside_sq.jpg
 	</div>
 	<h2>Illustration</h2>
 </a>
+<p>I've been published in a bunch of magazines. And, yes, I <i>should</i> do a children's book. (Why, <a href="mailto:david@davidrhoden.com?subject=Hey, Dave. I wrote a children's book. Maybe you should illustrate it?">did you write one?</a>)</p>
 </div>
 
 <div class="polaroid" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="200">
@@ -46,6 +48,7 @@ image: /static/img/rock/davedrummingatlakeside_sq.jpg
 	<img src="/static/img/animations/160628_waver_600.gif" alt="animation by David Rhoden">
 	<h2>Animation</h2>
 	</a>
+	<p>When I was more than two thirds of the way through law school, a professor asked the class to go around the room and say our name and our dream job. And for the first time I realized that my dream job is...animator.</p>
 </div>
 
 <div class="polaroid" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500">
@@ -53,6 +56,7 @@ image: /static/img/rock/davedrummingatlakeside_sq.jpg
 	<img src="/static/img/designs/TalbotAdamsAlbum.jpg" alt="design by David Rhoden">
 	<h2>Design</h2>
 	</a>
+	<p>Once in a while I get to art direct or design a project. Here's a few of those.</p>
 </div>
 
 <div class="polaroid" data-aos="fade-up" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="100">
@@ -60,7 +64,7 @@ image: /static/img/rock/davedrummingatlakeside_sq.jpg
 <img src="/static/img/sketchbook/aah-guy.jpg" alt="aah guy illustration by David Rhoden">
 	<h2>Sketchbook</h2>
 </a>
-<p>Really more like sketches on the back of an envelope. Stuff that makes a stop on the scanner before going in the trash can.</p>
+<p>Really more like sketches on the back of an envelope while I'm talking on the phone. Stuff that makes a stop on the scanner before going in the trash can.</p>
 </div>
 
 <div class="polaroid" data-aos="fade-up" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="200">
@@ -68,7 +72,7 @@ image: /static/img/rock/davedrummingatlakeside_sq.jpg
 <img src="/static/img/rock/anm-dave-020727.jpg" alt="David Rhoden playing guitar at All-Night Movers house show, photo by Jeff Pounds">
 <h2>Rock Music</h2>
 </a>
-<p>Pictures and recordings of the bands I've been part of. There were several.</p>
+<p>Pictures and recordings of the bands I've been part of. There were several. There's at least <a href="https://thestackswebsite.com" target="_blank">one</a> now.</p>
 </div>
 
 <div class="polaroid" data-aos="fade-up" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500">
@@ -76,7 +80,7 @@ image: /static/img/rock/davedrummingatlakeside_sq.jpg
 <img src="/static/img/designs/Bottle-CapTeeTurquoise.jpg" alt="Bottle Cap Boy T-Shirt by David Rhoden">
 <h2>Stuff For Sale</h2>
 </a>
-<p>Recent paintings, t-shirts, etc.</p>
+<p>Recent paintings, t-shirts, etc. If it's here you can buy it unless I sold it already. If it's not here, you can at least ask.</p>
 </div>
 
 <div class="polaroid" data-aos="fade-up" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="100">
