@@ -8,7 +8,7 @@
 	--gray: rgba(0, 0, 0, .5);
 
 	--font-primary: 'Source Serif Pro', serif;
-	--font-secondary: 'Libre Franklin', Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+	--font-secondary: 'Libre Franklin', Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
 	--font-decorative: "ShadowGrotesque", sans-serif ;
 }
 
@@ -90,6 +90,13 @@ header nav.is-active {
 }
 
 .container {
+	margin-top: 6em;
+	width: 100vw;
+}
+
+.full-width {
+	background: black;
+	color: white;
 	margin-top: 6em;
 	width: 100vw;
 }
@@ -507,6 +514,27 @@ p.postdate h3 {
 
 #timeline-detail {
 	display: none;
+}
+
+.banner-container {
+	display: flex;
+	padding: 1em 0;
+	justify-content: center;
+}
+
+.banner-container div {
+	margin: 1em auto;
+}
+
+.banner-container iframe {
+	margin: 0 .5em;
+}
+
+.word-scrolling {
+	color: yellow;
+	font-family: 'Ultra', sans-serif;
+	font-size: 40vh;
+	text-align: center;
 }
 
 /******* END PHOTO-TIMELINE *******/
