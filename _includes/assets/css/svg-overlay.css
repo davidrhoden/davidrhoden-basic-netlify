@@ -44,13 +44,3 @@
   border: 2px solid #aaa;
   cursor: pointer;
 }
-
-#svg-overlay-container .colors .color:hover {
-  height: 38px;
-  width: 38px;
-  background-color: #4a9ccf;
-}
-
-* {
-  /*outline: 2px dashed red;*/
-}
