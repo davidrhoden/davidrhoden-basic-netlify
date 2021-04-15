@@ -2,7 +2,6 @@ _site/
 node_modules/
 support_files/
 /api
-/static/banners
 /static/img-to-be-added
 .DS_Store
 /pages/history.md
