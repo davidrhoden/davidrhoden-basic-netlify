@@ -99,6 +99,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("static/img");
   eleventyConfig.addPassthroughCopy("static/pdf");
   eleventyConfig.addPassthroughCopy("static/audio");
+  eleventyConfig.addPassthroughCopy("static/banners");
   eleventyConfig.addPassthroughCopy("static/webfonts/ShadowGrotesque");
   eleventyConfig.addPassthroughCopy("admin");
   eleventyConfig.addPassthroughCopy("_includes/assets/");
