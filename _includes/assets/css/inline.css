@@ -546,6 +546,15 @@ p.postdate h3 {
 	width: 15vw;
 }
 
+span.fade {
+	opacity: 0;
+	transition: opacity 1s ease-in-out;
+}
+
+span.fade:hover {
+	opacity: 1;
+}
+
 /******* END PHOTO-TIMELINE *******/
 
 .tech {
