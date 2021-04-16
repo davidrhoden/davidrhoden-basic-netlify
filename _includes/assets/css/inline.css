@@ -516,6 +516,10 @@ p.postdate h3 {
 	display: none;
 }
 
+.animation-demo {
+	overflow-x: hidden;
+}
+
 .banner-container {
 	display: flex;
 	padding: 1em 0;
@@ -535,6 +539,11 @@ p.postdate h3 {
 	font-family: 'Ultra', sans-serif;
 	font-size: 40vh;
 	text-align: center;
+}
+
+#scrolling-car {
+	height: auto;
+	width: 15vw;
 }
 
 /******* END PHOTO-TIMELINE *******/
