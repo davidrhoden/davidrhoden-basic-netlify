@@ -10,6 +10,8 @@ gsap.registerPlugin(CSSRulePlugin, ScrollTrigger);
 	let tween = gsap.from(".word-scrolling", {x:"-2000px"}),
 	    st = ScrollTrigger.create({
 	        trigger: ".car-scrolling",
+	        ease: "power1.inOut",
+	        toggleActions: "restart none none reverse",
 	        animation: tween
 	      });
 
@@ -17,7 +19,10 @@ gsap.registerPlugin(CSSRulePlugin, ScrollTrigger);
 
 		let tweencar = gsap.from(".car-scrolling", {
 			x:"+2000px",
-
+		});
+		let tweencolor = gsap.from("#car-body", {
+			fill:"red", 
+			delay:1
 		}),
 	    stcar = ScrollTrigger.create({
 	        trigger: ".demo-container",
@@ -25,20 +30,9 @@ gsap.registerPlugin(CSSRulePlugin, ScrollTrigger);
 	        ease: "power1.inOut",
 	        toggleActions: "restart none none reverse",
 	        animation: tweencar
-	      });
-
+	     });
 
 	console.log(stcar.animation); // tween
 
-	var carbod = $("#car-body");
-	let tweencolor = gsap.from(carbod, {
-			fill:"red", 
-			delay:1
-		}),
-	    stcolor = ScrollTrigger.create({
-	        trigger: ".demo-container",
-	        toggleActions: "restart none none reverse",
-	        animation: tweencolor
-	      });
 
 });
