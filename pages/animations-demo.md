@@ -12,17 +12,24 @@ summary: Demo of on-scroll animations by David Rhoden.
 <div style="width: 100vw;padding: 1em;">
 	<div>
 		<div>
-			<div style="margin: 1em 0;" data-aos="fade-right" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="100"><h1>Banner animation</h1></div>
+<!-- 			<div style="margin: 1em 0;" data-aos="fade-right" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="100"><h1>Banner animation</h1></div>
 		</div>
 		<div class="banner-container">
 			<iframe src="/static/banners/15-GDW-016/15-GDW-016_300x250/15-GDW-016_300x250.html" width="300" height="250" frameborder="0"></iframe>
 			<iframe src="/static/banners/16-ATT-019/16-ATT-019_2_300x250/16-ATT-019_2_300x250.html" width="300" height="250" frameborder="0"></iframe>
 			<iframe src="/static/banners/16-ASD-003/16-ASD-003_300x250es/16-ASD-003_300x250es.html" width="300" height="250" frameborder="0"></iframe>
 			<iframe src="/static/banners/FKQ300x250/index.html" width="300" height="250" frameborder="0"></iframe>
-		</div>
+		</div> -->
+	</div>
+	<div class="aos-label">
+		<div style="margin: 1em 0;" data-aos="fade-right" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="100"><h1>Animate on scroll</h1></div>
 	</div>
 	<div class="word-scrolling">scroll</div>
-		<div style="margin: 1em 0;" data-aos="fade-right" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="100"><h1>SVG interactive animation proof of concept</h1></div>
+	<div class="aos-label">
+		<div style="margin: 1em 0;" data-aos="fade-right" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="100"><h1>Animate on scroll</h1></div>
+	</div>
+	<div class="car-scrolling"><img id="scrolling-car" src="/static/img/car-illustration-apr-16-2021.svg" alt="cute car"></div>
+	<div style="margin: 1em 0;" data-aos="fade-right" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="100"><h1>SVG interactive animation proof of concept</h1></div>
 		</div>
 	<div class="demo-container">
 		<section id="svg-overlay-container">
