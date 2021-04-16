@@ -29,7 +29,7 @@ gsap.registerPlugin(CSSRulePlugin, ScrollTrigger);
 	        duration: {min: 3, max: 5},
 	        ease: "power1.inOut",
 	        toggleActions: "restart none none reverse",
-	        animation: tweencar
+	        animation: tweencar, tweencolor
 	     });
 
 	console.log(stcar.animation); // tween
