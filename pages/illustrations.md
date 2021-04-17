@@ -16,6 +16,11 @@ For a petition for more BMX parks in Seattle.
 
 ---
 
+Quickie for an animation demo.
+![](/static/img/illustrations/car-illustration-apr-16-2021.svg?nf_resize=fit&w=640)
+
+---
+
 Jimmy and The Wolfpack.
 ![](/static/img/illustrations/jandtwpilloonly.jpg?nf_resize=fit&w=640)
 
