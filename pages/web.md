@@ -15,11 +15,11 @@ eleventyNavigation:
 
 Web design and development by New Orleans web developer and designer David Rhoden. Now accepting freelance clients. [See the form at the bottom of this page.](#contact-form) I build sites in Wordpress, Craft CMS, and Eleventy (an excellent static site generator).
 
-Most recently I worked on:
+<!-- Most recently I worked on:
 
 ![](/static/img/web/tempt-films-home.jpg)
-
-[Tempt FIlms](https://temptfilms.com)
+ -->
+<!-- [Tempt FIlms](https://temptfilms.com) -->
 
 
 ## 2020 - 2015 
