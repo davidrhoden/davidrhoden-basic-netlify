@@ -40,7 +40,7 @@ Now accepting freelance clients. [See the form at the bottom of this page.](#con
 			</div>
 		    <div class="col-lg-8 mockup-col">
 		        <div class="mockup">
-					<div class="scroll-container"><span id="scroll-text" class="scroll-animation">Scroll Down</span>
+					<div class="scroll-container"><span id="scroll-text" class="scroll-animation">Scroll</span>
 						<img id="a" class="sample is-active" src="/static/img/web/Tapestry-Linens-home.jpg"/>
 						<img id="b" class="sample" src="/static/img/web/MidSouth-Coatings-Home.png"/>
 						<img id="c" class="sample" src="/static/img/web/dixie-beer-picker.png"/>
