@@ -8,7 +8,7 @@ excerpt: Demo of on-scroll animations by David Rhoden.
 summary: Demo of on-scroll animations by David Rhoden.
 
 ---
-
+<script src="/assets/js/scrolling.js"></script>
 <div style="width: 100vw;padding: 1em;">
 <!-- 	<div>
 	   <div>
