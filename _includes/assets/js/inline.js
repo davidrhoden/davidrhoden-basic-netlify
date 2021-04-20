@@ -33,3 +33,15 @@ $(document).ready(function(){
 $('.scroll-container').scroll(function() {
     $('#scroll-text').fadeOut();
 }); 
+
+
+$(document).ready(function(){
+  $('.link').each( function(i) {
+    $('.button-row').on( 'click', '.link', function( event ) {
+      console.log($(this));
+      $($(this).attr('href')).addClass('is-active').siblings().removeClass('is-active');
+      $(this).addClass('is-active').siblings().removeClass('is-active');
+      event.preventDefault();
+    });
+  });
+});
