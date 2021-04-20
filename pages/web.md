@@ -15,30 +15,56 @@ eleventyNavigation:
 
 Web design and development by New Orleans web developer and designer David Rhoden. Now accepting freelance clients. [See the form at the bottom of this page.](#contact-form) I build sites in Wordpress, Craft CMS, and Eleventy (an excellent static site generator).
 
+<section class="browser-mockup-section">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-4">
+        <h1>Scrollable Browser Website Mockup</h1>
+        <hr/>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sit amet quam non ligula pharetra tincidunt. Vivamus sed risus nisi. Vivamus laoreet, velit ac cursus interdum, purus eros faucibus justo, quis sagittis urna mi nec velit. Phasellus imperdiet ante a ligula mollis ultrices. Sed condimentum ex eu tellus auctor volutpat.</p>
+      </div>
+      <div class="col-lg-8 mockup-col">
+				<svg class="scroll-icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve"><g><path d="M50,1.8c-17.7,0-32.2,14.5-32.2,32.2v32.2c0,17.7,14.5,32.2,32.2,32.2s32.2-14.5,32.2-32.2V33.9C82.2,16.2,67.7,1.8,50,1.8   z M77.6,66.1c0,15.2-12.4,27.6-27.6,27.6S22.4,81.2,22.4,66.1V33.9C22.4,18.8,34.8,6.3,50,6.3s27.6,12.4,27.6,27.6V66.1z"></path><path d="M50,22.4c-1.3,0-2.3,1-2.3,2.3v11.5c0,1.3,1,2.3,2.3,2.3s2.3-1,2.3-2.3V24.7C52.3,23.5,51.3,22.4,50,22.4z" class="scroll-animation"></path></g></svg>
+        <div class="mockup">
+					<div class="scroll-container"><span id="scroll-text">Scroll Down</span><img src="http://www.davidrhoden.com/static/img/web/Tapestry-Linens-home.jpg"/></div>
+					<span class="browser-control"></span>
+					
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
 <!-- Most recently I worked on:
 
 ![](/static/img/web/tempt-films-home.jpg)
  -->
 <!-- [Tempt FIlms](https://temptfilms.com) -->
 
+<!-- <div class="screen-overlay-container">
+	<div class="screen-overlay">
+		<img src="/static/img/laptop-mockup-png-imac-transparent-872x707.png">
+	</div>
+	<img class="long-site" src="/static/img/web/Tapestry-Linens-home.jpg">
+</div> -->
+
 
 ## 2020 - 2015 
 
+[Tapestry Linens](https://tapestrylinens.com) (with the team at Cerberus)
 
 ![](/static/img/web/Tapestry-Linens-home.jpg)
 
-[Tapestry Linens](https://tapestrylinens.com) (with the team at Cerberus)
+Midsouth Coatings (Cerberus)
 
 ![](/static/img/MidSouth-Coatings-Home.png)
 
-[Midsouth Coatings](https://midsouthcoatings.com) (Cerberus)
+Dixie Beer (with the team at Online Optimism)
 
-Also...
-[Albasha Metairie](https://albashametairie.com) (Cerberus)
-[Sexton Biotechnologies](https://sextonbio.com) (with the team at Converse Digital)
-[Dixie Beer](https://dixiebeer.com) (with the team at Online Optimism)
+![](/static/img/web/dixie-beer-picker.png)
+
 [Moxie Media](https://moxielearning.com) (Online Optimism)
-[The Tunica-Biloxi Tribe](https://tunicabiloxi.com) (Online Optimism)
+
+![](/static/img/web/moxielearning-desktop.png)
 
 Gina Phillips (design and development)
 ![](/static/img/web/ginasite.jpg?nf_resize=fit&w=640)
