@@ -28,3 +28,8 @@ function showHidden() {
 $(document).ready(function(){
   $( ".photo-timeline" ).on( "mouseover", ".photo-timeline-link", showHidden );
 });
+
+
+$('.scroll-container').scroll(function() {
+    $('#scroll-text').fadeOut();
+}); 
