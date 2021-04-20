@@ -3,7 +3,6 @@
 //   x: 500
 // });
 
-
 document.addEventListener("DOMContentLoaded", function(event) { 
 gsap.registerPlugin(CSSRulePlugin, ScrollTrigger);
 

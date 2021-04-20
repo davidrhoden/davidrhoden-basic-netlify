@@ -206,12 +206,6 @@ main {
 	padding-bottom: 0;
 }
 
-main :first-child,
-main > article :first-child {
-	margin-top: 0;
-	margin-bottom: 0;
-}
-
 /* Header Nav */
 header nav ul {
 	padding: 0;
@@ -776,44 +770,6 @@ span.fade:hover {
 		overflow: hidden;
 		position: relative;
 		width: 320px;
-	}
-
-	#timeline-detail .thumbnail-container img {
-/*		position: absolute;
-		left: 50%;
-		top: 50%;*/
-		height: 100%;
-		width: auto;
-/*		-webkit-transform: translate(-50%,-50%);
-			-ms-transform: translate(-50%,-50%);
-				transform: translate(-50%,-50%);*/
-	}
-
-	.screen-overlay-container {
-		outline: 3px dashed yellow;
-		position: relative;
-	}
-
-	.screen-overlay {
-		overflow: hidden;
-		position: absolute;
-		left: 0;
-		top: 0;
-		z-index: 3;
-	}
-
-	.long-site {
-		position: absolute;
-		animation: slideondown 3s ease-in-out;
-	}
-
-	@keyframes slideondown {
-	  0% {
-	    top: 0;
-	  }
-	  100% {
-	    top: -40em;
-	  }
 	}
 }
 
