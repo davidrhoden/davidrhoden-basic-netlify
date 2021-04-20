@@ -15,7 +15,7 @@ image: /static/img/about/david-with-beard-oct-1-2020-7bb4fb.jpg
 	</div>
 	<div>
 		<p>My name is David Rhoden. I'm a <a href="paintings">painter</a>, an <a href="illustrations">illustrator</a>, an <a href="animations">animator</a>, and a <a href="designs">designer</a>.</p>
-		<p>I also do <a href="paintings">web development</a>* and play a couple of <a href="paintings">musical instruments</a>.</p>
+		<p>I also do <a href="web">web development</a>* and play a couple of <a href="paintings">musical instruments</a>.</p>
 		<p>I currently live in New Orleans, Louisiana.</p>
 		<div class="footnote">*I am currently available for freelance web work. <a href="/contact">Contact me</a> with questions.<br> 
 		(Or just e-mail me at <a href="mailto:david@davidrhoden.com?subject=Dave, I saw your website, and I've got questions.">david@davidrhoden.com</a>.)</div>
