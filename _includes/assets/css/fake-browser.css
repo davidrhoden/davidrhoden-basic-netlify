@@ -52,10 +52,6 @@ p {
   transition: all ease 0.4s;
 }
 
-.mockup:hover .scroll-text {
-  opacity: 0;
-}
-
 .mockup .scroll-container {
   overflow-y: scroll;
   max-height: 400px;
@@ -193,6 +189,10 @@ p {
 
 .mockup:hover {
   transform: rotateX(0) rotateY(-16deg) rotateZ(0);
+}
+
+.mockup:hover #scroll-text {
+  opacity: 0;
 }
 
 #scroll-text {
