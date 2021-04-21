@@ -21,6 +21,11 @@ Quickie for an animation demo.
 
 ---
 
+Illustration for Austin Ad Fed "Big Wigs" award show.
+![](/static/img/illustrations/adfed-bigwigs-aug-30-2016.jpg?nf_resize=fit&w=640)
+
+
+
 Jimmy and The Wolfpack.
 ![](/static/img/illustrations/jandtwpilloonly.jpg?nf_resize=fit&w=640)
 
@@ -33,6 +38,11 @@ The Hi-Balls album sleeve.
 
 Album cover illustration for Talbot Adams.
 ![Album cover design by David Rhoden](/static/img/designs/TalbotAdamsAlbum.jpg)
+
+---
+
+Logo for Silicon Bayou Rumors, a New Orleans-oriented online publication.
+![](/static/img/illustrations/siliconbayourumors.png?nf_resize=fit&w=640)
 
 ---
 
