@@ -8,18 +8,9 @@ excerpt: Demo of on-scroll animations by David Rhoden.
 summary: Demo of on-scroll animations by David Rhoden.
 
 ---
+
 <script src="/assets/js/scrolling.js"></script>
 <div style="width: 100vw;padding: 1em;">
-<!-- 	<div>
-	   <div>
-	       <div style="margin: 1em 0;" data-aos="fade-right" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="100"><h1>Banner animation <span class="fade">(You might have to reload the page to see the animation)</span></h1></div>
-	   </div>
-	   <div class="banner-container">
-			<iframe src="/static/banners/15-GDW-016/15-GDW-016_300x250/15-GDW-016_300x250.html" width="300" height="250" frameborder="0"></iframe>
-			<iframe src="/static/banners/16-ATT-019/16-ATT-019_2_300x250/16-ATT-019_2_300x250.html" width="300" height="250" frameborder="0"></iframe>
-			<iframe src="/static/banners/FKQ300x250/index.html" width="300" height="250" frameborder="0"></iframe>
-		</div>
-	</div> -->
 	<div class="aos-label">
 		<div style="margin: 1em 0;" data-aos="fade-right" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="100"><h1>Animate on scroll</h1></div>
 	</div>
@@ -71,5 +62,4 @@ summary: Demo of on-scroll animations by David Rhoden.
 	</div>
 </section>
 </div>
-	
 </div>
