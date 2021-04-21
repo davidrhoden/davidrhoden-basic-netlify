@@ -4,11 +4,14 @@ date: 2020-12-17T17:00:00.000Z
 summary: Gina's dog Daisy doesn't have a lot of fur.
 excerpt: Gina's dog Daisy doesn't have a lot of fur.
 category: timeline
-image: 315-tricou-20180419.jpg
+image: daisy-blanket-dec-17-2020.jpg
 tags:
   - post 
+  - Daisy
+  - Gina
+  - Sister Street
+  - Louisiana
   - New Orleans
-  - Sally
 
 ---
 
