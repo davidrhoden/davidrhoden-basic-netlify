@@ -33,7 +33,7 @@ section.browser-mockup-section {
   margin-top: 65px;
 }
 
-p {
+.browser-mockup-section p {
   color: #6a6a6a;
   line-height: 1.8em;
 }
