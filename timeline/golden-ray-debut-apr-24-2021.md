@@ -21,5 +21,5 @@ tags:
 
 ![Show poster design by David Rhoden](/static/img/designs/SisterStreetStage-Apr-24-2021a.jpg)
 
-My mew band with Andrew Donaldson and Brian Tierney (Brain Tyranny) makes its debut on Gina's stage (hereafter to be referred to as "Sister Street Stage") on Saturday April 17 With George Wilde and Lo Amps also appearing.
+My new band with Andrew Donaldson and Brian Tierney (Brain Tyranny) makes its debut on Gina's stage (hereafter to be referred to as "Sister Street Stage") on Saturday April 17 With George Wilde and Lo Amps also appearing.
 
