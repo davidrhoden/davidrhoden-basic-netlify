@@ -13,7 +13,7 @@
       <div class="photo-timeline-link">
         {% if post.data.image %}
             <a class="tiny-thumbnail" href="{{ post.url }}">
-            <img class="thumbnail" src="/static/img/thumbnails/32/{{ post.data.image | replace('gif', 'jpg') | replace('png', 'jpg') }}" alt="{{post.data.title}}">
+            <img onerror="this.style.display='none'" class="thumbnail" src="/static/img/thumbnails/32/{{ post.data.image | replace('gif', 'jpg') | replace('png', 'jpg') }}" alt="{{post.data.title}}">
             </a>
         {% else %}
             <a class="tiny-thumbnail" href="{{ post.url }}"></a>
@@ -21,7 +21,7 @@
         <div class="hidden">
             <div class="thumbnail-container">
               {% if post.data.image %}
-              <img class="thumbnail" src="/static/img/thumbnails/160/{{ post.data.image | replace('gif', 'jpg') | replace('png', 'jpg') }}" alt="{{post.data.title}}">
+              <img  onerror="this.style.display='none'" class="thumbnail" src="/static/img/thumbnails/160/{{ post.data.image | replace('gif', 'jpg') | replace('png', 'jpg') }}" alt="{{post.data.title}}">
               {% endif %} 
             </div>
             <div class="summary">
