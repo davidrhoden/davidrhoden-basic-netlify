@@ -18,25 +18,25 @@ tags:
 
 ---
 
-![Golden Ray at Sister Street Stage](/static/img/golden-ray-04-apr-25-2021.jpg "Golden Ray at Sister Street Stage")
+![Golden Ray at Sister Street Stage](/static/img/rock/golden-ray-04-apr-25-2021.jpg "Golden Ray at Sister Street Stage")
 
-![Golden Ray at Sister Street Stage](/static/img/golden-ray-05-apr-25-2021.jpg "Golden Ray at Sister Street Stage")
+![Golden Ray at Sister Street Stage](/static/img/rock/golden-ray-03-apr-25-2021.jpg "Golden Ray at Sister Street Stage")
 
-![Golden Ray at Sister Street Stage](/static/img/sister-street-pano-apr-25-2021.jpg "Golden Ray at Sister Street Stage")
+![Golden Ray at Sister Street Stage](/static/img/rock/sister-street-pano-apr-25-2021.jpg "Golden Ray at Sister Street Stage")
 
 Live photos by Gina Phillips
 
-![Golden Ray at Sister Street Stage](/static/img/golden-ray-01-apr-25-2021.jpg "Golden Ray at Sister Street Stage")
+![Golden Ray at Sister Street Stage](/static/img/rock/golden-ray-01-apr-25-2021.jpg "Golden Ray at Sister Street Stage")
 
-![Golden Ray at Sister Street Stage](/static/img/golden-ray-brian-apr-25-2021.jpg "Golden Ray at Sister Street Stage")
+![Golden Ray at Sister Street Stage](/static/img/rock/golden-ray-brian-apr-25-2021.jpg "Golden Ray at Sister Street Stage")
 
-![Golden Ray at Sister Street Stage](/static/img/golden-ray-02-apr-25-2021.jpg "Golden Ray at Sister Street Stage")
+![Golden Ray at Sister Street Stage](/static/img/rock/golden-ray-02-apr-25-2021.jpg "Golden Ray at Sister Street Stage")
 
 Live photos by Larry Tierney.
 
-![Golden Ray at Sister Street Stage](/static/img/lo-amps-katie-apr-25-2021.jpg "Golden Ray at Sister Street Stage")
+![Golden Ray at Sister Street Stage](/static/img/timeline/lo-amps-katie-apr-25-2021.jpg "Golden Ray at Sister Street Stage")
 
 Lo Amps photo by David Rhoden.
 
-![Golden Ray at Sister Street Stage poster](/static/img/SisterStreetStage-Apr-25-2021.png "Golden Ray at Sister Street Stage poster")
+![Golden Ray at Sister Street Stage poster](/static/img/designs/SisterStreetStage-Apr-25-2021.png "Golden Ray at Sister Street Stage poster")
 
