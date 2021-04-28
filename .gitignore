@@ -4,10 +4,11 @@ support_files/
 /api
 /static/img-to-be-added
 .DS_Store
-/pages/history.md
+/pages/animation-demo.md
 /pages/bands-seen.md
 /pages/books-read.md
 /pages/films-seen.md
+/pages/history.md
 /pages/timeline-by-year.md
 /pages/timeline-titles-only.md
 /pages/timeline-unpaginated.md
