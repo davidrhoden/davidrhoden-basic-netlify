@@ -750,11 +750,11 @@ span.fade:hover {
 		margin: 1em auto;
 	}
 
-	#timeline-detail  .summary {
+	#timeline-detail .summary {
 		margin-left: 1rem;
 	}
 
-	#timeline-detail  .thumbnail-container {
+	#timeline-detail .thumbnail-container {
 		height: 160px;
 		overflow: hidden;
 		position: relative;
