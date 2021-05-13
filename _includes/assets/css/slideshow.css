@@ -4,7 +4,7 @@
 	text-align: center;
 }
 
-#viewport p {
+#viewport p, #viewport li {
 	position: absolute;
 	top: 0;
 	left: 0;
@@ -13,7 +13,7 @@
 	width: 100%;
 }
 
-#viewport p img {
+#viewport p img, #viewport li img {
 	max-width: 300px;
 	opacity: 0;
 	transition: opacity 1s ease-in-out;
@@ -21,7 +21,7 @@
     -webkit-transition: opacity 1s ease-in-out;
 }
 
-#viewport p img.fadedIn { 
+#viewport p img.fadedIn, #viewport li img.fadedIn { 
   	opacity: 1;
 }
 
@@ -49,14 +49,10 @@
 		height: 70vh;
 	}
 
-	#viewport p img {
+	#viewport p img, #viewport li img{ 
 		height: 100%;
 		max-width: inherit;
 		width: auto;
-	}
-
-	#caption {
-		padding: 0;
 	}
 
 	.prevnext-container {
