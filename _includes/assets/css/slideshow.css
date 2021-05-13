@@ -1,0 +1,54 @@
+#viewport {
+	height: 70vh;
+	position:relative;
+	text-align: center;
+}
+
+#viewport p {
+	position: absolute;
+	top: 0;
+	left: 0;
+	height: 65vh;
+	text-align: center;
+	width: 100%;
+}
+
+#viewport p img {
+    max-width: 300px;
+}
+
+#viewport p img {
+	opacity: 0;
+	transition: opacity 1s ease-in-out;
+    -moz-transition: opacity 1s ease-in-out;
+    -webkit-transition: opacity 1s ease-in-out;
+}
+
+#viewport p img.fadedIn { 
+  	opacity: 1;
+}
+
+.prevnext-container {
+	display: flex;
+	justify-content: space-between;
+	width: 80px;
+}
+
+.prevnext-container button {
+	display: grid;
+	height: 36px;
+	padding: 0;
+    place-items: center;
+    width: 36px;
+}
+
+.caption {
+	outline: 2px dashed yellowgreen;
+}
+
+@media screen and (min-width:960px) {
+	#viewport p img {
+		height: 100%;
+		width: auto;
+	}
+}
