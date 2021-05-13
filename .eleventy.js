@@ -38,11 +38,6 @@ module.exports = function(eleventyConfig) {
     return DateTime.fromJSDate(dateObj).toFormat("yyyy");
   });
 
-  //https://www.seanmcp.com/articles/logging-with-eleventy-and-nunjucks/
-  eleventyConfig.addFilter('log', value => {
-    console.log(value)
-  })
-
   eleventyConfig.addCollection("posts", function(collection) {
     const coll = collection.getFilteredByTag("post");
 

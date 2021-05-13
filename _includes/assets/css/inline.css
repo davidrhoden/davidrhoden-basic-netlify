@@ -578,6 +578,10 @@ span.fade:hover {
 		align-items: center;
 	}
 
+	.row-reverse {
+		flex-direction: row-reverse;
+	}
+
 	.space-around { 
 		justify-content: space-around; 
 	}
