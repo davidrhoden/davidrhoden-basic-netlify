@@ -42,7 +42,7 @@
     width: 45%;
 }
 
-.caption {
+#caption {
 	padding: 1em 0;
 }
 
@@ -57,7 +57,7 @@
 		width: auto;
 	}
 
-	.caption {
+	#caption {
 		padding: 0;
 	}
 
