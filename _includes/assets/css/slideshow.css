@@ -1,5 +1,5 @@
 #viewport {
-	height: 70vh;
+	height: 75vh;
 	position:relative;
 	text-align: center;
 }
@@ -31,7 +31,7 @@
 .prevnext-container {
 	display: flex;
 	justify-content: space-between;
-	width: 80px;
+	width: 100%;
 }
 
 .prevnext-container button {
@@ -39,16 +39,39 @@
 	height: 36px;
 	padding: 0;
     place-items: center;
-    width: 36px;
+    width: 45%;
 }
 
 .caption {
-	outline: 2px dashed yellowgreen;
+	padding: 1em 0;
 }
 
-@media screen and (min-width:960px) {
+@media screen and (min-width:768px) {
+
+	#viewport {
+		height: 70vh;
+	}
+
 	#viewport p img {
 		height: 100%;
 		width: auto;
+	}
+
+	.caption {
+		padding: 0;
+	}
+
+	.prevnext-container {
+		display: flex;
+		justify-content: space-between;
+		width: 80px;
+	}
+
+	.prevnext-container button {
+		display: grid;
+		height: 36px;
+		padding: 0;
+	    place-items: center;
+	    width: 36px;
 	}
 }
