@@ -21,7 +21,7 @@
         <div class="hidden">
             <div class="thumbnail-container">
               {% if post.data.image %}
-              <img  onerror="this.style.display='none'" class="thumbnail" src="/static/img/thumbnails/160/{{ post.data.image | replace('gif', 'jpg') | replace('png', 'jpg') }}" alt="{{post.data.title}}">
+              <img onerror="this.style.display='none'" class="thumbnail" src="/static/img/thumbnails/160/{{ post.data.image | replace('gif', 'jpg') | replace('png', 'jpg') }}" alt="{{post.data.title}}">
               {% endif %} 
             </div>
             <div class="summary">
