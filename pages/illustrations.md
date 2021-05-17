@@ -21,23 +21,23 @@ eleventyNavigation:
 
 ![Album cover illustration for Talbot Adams.](/static/img/designs/TalbotAdamsAlbum.jpg "Album cover illustration for Talbot Adams.")
 
-![Jimmy and The Wolfpack.](/static/img/illustrations/jandtwpilloonly.jpg "Jimmy and The Wolfpack.")
+![Jimmy and The Wolfpack.](/static/img/illustrations/jandtwpilloonly.jpg?nf_resize=fit&amp;w=640 "Jimmy and The Wolfpack.")
 
 ![The Hi-Balls album sleeve.](/static/img/illustrations/coverLoveMusic.jpg "The Hi-Balls album sleeve.")
 
-![Logo for Silicon Bayou Rumors, a New Orleans-oriented online publication.](/static/img/illustrations/siliconbayourumors.png "Logo for Silicon Bayou Rumors, a New Orleans-oriented online publication.")
+![Logo for Silicon Bayou Rumors, a New Orleans-oriented online publication.](/static/img/illustrations/siliconbayourumors.png?nf_resize=fit&amp;w=640 "Logo for Silicon Bayou Rumors, a New Orleans-oriented online publication.")
 
 ![For _Louisiana Life_ magazine.](/static/img/illustrations/cars.jpg "For _Louisiana Life_ magazine.")
 
-!["Bio boards" to introduce conference speakers by showing the industry they work in.](/static/img/illustrations/byrne.jpg '"Bio boards" to introduce conference speakers by showing the industry they work in.')
+!["Bio boards" to introduce conference speakers by showing the industry they work in.](/static/img/illustrations/byrne.jpg?nf_resize=fit&amp;w=800 '"Bio boards" to introduce conference speakers by showing the industry they work in.')
 
-!["Bio boards" to introduce conference speakers by showing the industry they work in.](/static/img/illustrations/espn.jpg '"Bio boards" to introduce conference speakers by showing the industry they work in.')
+!["Bio boards" to introduce conference speakers by showing the industry they work in.](/static/img/illustrations/espn.jpg?nf_resize=fit&amp;w=800 '"Bio boards" to introduce conference speakers by showing the industry they work in.')
 
-!["Bio boards" to introduce conference speakers by showing the industry they work in.](/static/img/illustrations/gillette.jpg '"Bio boards" to introduce conference speakers by showing the industry they work in.')
+!["Bio boards" to introduce conference speakers by showing the industry they work in.](/static/img/illustrations/gillette.jpg?nf_resize=fit&amp;w=800 '"Bio boards" to introduce conference speakers by showing the industry they work in.')
 
-!["Bio boards" to introduce conference speakers by showing the industry they work in.](/static/img/illustrations/narayandas.jpg '"Bio boards" to introduce conference speakers by showing the industry they work in.')
+!["Bio boards" to introduce conference speakers by showing the industry they work in.](/static/img/illustrations/narayandas.jpg?nf_resize=fit&amp;w=800 '"Bio boards" to introduce conference speakers by showing the industry they work in.')
 
-!["Bio boards" to introduce conference speakers by showing the industry they work in.](/static/img/illustrations/wwf.jpg '"Bio boards" to introduce conference speakers by showing the industry they work in.')
+!["Bio boards" to introduce conference speakers by showing the industry they work in.](/static/img/illustrations/wwf.jpg?nf_resize=fit&amp;w=800 '"Bio boards" to introduce conference speakers by showing the industry they work in.')
 
 ![New Orleans tourists on a spooky tour for _Desire_ magazine.](/static/img/illustrations/touristsbig.jpg "New Orleans tourists on a spooky tour for _Desire_ magazine.")
 
