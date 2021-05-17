@@ -14,7 +14,7 @@ tags:
 
 A religious group that seemed Baptist convinced my mother to let them use our house (my chldhood home) to film a  worship show.  They told her they would leave the house just as it had been but they immediately started making lots of changes that somebody on a worship show would have thought were for the better. They were bright shiny people but seemed unconcerned about how much they were disrupting our lives. They had on red polo shirts; joked around and sang a lot. There was literally a truckload of them, they rode around in a white cattle truck.
 
-I was fed up, finally, and began gathering up their things (lots of house wares), and tossing them onto the front yard, but it was sometimes hard to tell if the things were theirs or my mother's.)
+I was fed up, finally, and began gathering up their things (lots of house wares), and tossing them onto the front yard, breaking them on purpose, but it was sometimes hard to tell if the things were theirs or my mother's.)
 
 At onne point, the show host and leader of the group, Tim Allen (_Home Improvement_, _Last Man Standing_) appeared. 
 "Welcome," he said to me, as if I were the guest.
