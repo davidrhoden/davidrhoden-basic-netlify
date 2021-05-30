@@ -11,7 +11,7 @@ tags:
   - bonfires
   - horses
   - Gina
-  - ninth Ward
+  - Ninth Ward
 
 ---
 
