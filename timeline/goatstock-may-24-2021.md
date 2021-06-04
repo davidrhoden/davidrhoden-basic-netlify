@@ -20,4 +20,4 @@ tags:
 
 Went down the block to see Stoo Odom with a guest from San Francisco name Rachel Lovejoy 9and a violinist who was excellent but sadly I didn't get her name).
 
-Rachel Lovejoy writes songs for shows, musicals, and her songs were clever. She did a few songs about madams from old-time San Francisco. Her rhyme style was kind of like Tom Lehrer's (I kept thinkning of "Alma"), so it's no surprise I liked it.
+Rachel Lovejoy writes songs for shows, musicals, and her songs were clever. She did a few songs about madams from old-time San Francisco. Her rhyme style was kind of like Tom Lehrer's (I kept thinking of "Alma"), so it's no surprise I liked it.
