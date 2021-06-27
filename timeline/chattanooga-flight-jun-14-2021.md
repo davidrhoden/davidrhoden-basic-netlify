@@ -8,7 +8,7 @@ image: chattanooga-flight-jun-14-2021.jpg
 tags:
   - post 
   - flying
-  - chattanooga
+  - Chattanooga
   - Atlanta
   - puzzles
   - crosswords
