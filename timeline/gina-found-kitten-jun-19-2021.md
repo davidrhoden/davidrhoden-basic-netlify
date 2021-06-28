@@ -10,6 +10,7 @@ tags:
   - weddings
   - New Orleans
   - Tom Beeman
+  - Pete Beeman
   - Ray Surinck
   - Gina
   - cats
@@ -20,7 +21,7 @@ tags:
 
 We took Tom out for drinks at Markey's to celebrate the long-awaited end of his bachelorhood. His brother Pete got him this ridiculous shirt, made with Noy's help, and forced him to wear it.
 
-![Tom's bachelor party wear.](/static/img/timeline/tom-noy-wed-2-jun-20-2021.jpg "Tom's bachelor party wear.")
+![Tom's bachelor party wear.](/static/img/timeline/tom-shirt-detail-jun-19-2021.jpg "Tom's bachelor party wear.")
 
 Meanwhile, in Kentucky, Gina found a calico kitten while turning her minivan around in the road. We think a good home has been found.
 
