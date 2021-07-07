@@ -17,6 +17,8 @@ eleventyNavigation:
 
 David Rhoden with The Stacks (Andrew Donaldson, Steve Walkup, Tom Beeman) at Gasa Gasa, New Orleans, 2018
 
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1594484529/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://thestacksnola.bandcamp.com/album/anything-helps">Anything Helps by The Stacks</a></iframe>
+
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1045225060/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://thestacksnola.bandcamp.com/album/live-at-circle-bar-september-14-2018">Live At Circle Bar September 14, 2018 by The Stacks</a></iframe>
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=873450142/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://thestacksnola.bandcamp.com/album/live-at-siberia-august-30-2018">Live at Siberia August 30, 2018 by The Stacks</a></iframe>
@@ -26,6 +28,14 @@ David Rhoden with The Stacks (Andrew Donaldson, Steve Walkup, Tom Beeman) at Gas
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=2426890446/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://thestacksnola.bandcamp.com/track/the-alligator">The Alligator by The Stacks</a></iframe>
 
 The Stacks started around 2000 to play two shows and just never managed to break up. I think there have been fifteen people in the band, with me as the only constant.
+
+---
+
+## Golden Ray
+
+Golden Ray is David and Andrew from The Stacks, along with drummer Brian Tierney. We're doing half Andrew's songs and half Dave's, switching off on bass and guitar.
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3608810968/size=large/bgcol=ffffff/linkcol=2ebd35/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://goldenray.bandcamp.com/album/only-the-beginning">Only The Beginning by Golden Ray</a></iframe>
 
 ---
 
