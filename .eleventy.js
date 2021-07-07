@@ -14,7 +14,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPlugin(pluginSEO, {
     title: "David Rhoden",
     description: "The website of New Orleans-based artist David Rhoden.",
-    url: "https://davidrhoden.com",
+    url: "https://davidrhoden.com/",
     author: "David Rhoden",
     twitter: "davidrhoden",
     image: "/static/img/paintings/bigface-wide.jpg",
