@@ -22,7 +22,6 @@
 
 .hidden {
 	display: none;
-	display: flex;
 }
 
 .float-left {
@@ -298,6 +297,14 @@ a.tiny-thumbnail {
 	width: 32px;
 }
 
+a.tiny-thumbnail.text-timeline {
+	color: black;
+	display: block;
+	height: auto;
+	position: relative;
+	width: auto;
+}
+
 /* Post Tags */
 a[rel="tag"],
 a[rel="tag"]:visited {
@@ -539,6 +546,10 @@ span.fade:hover {
 }
 
 /******* END PHOTO-TIMELINE *******/
+
+/******* BEGIN TEXT-TIMELINE *******/
+
+/******* END TEXT-TIMELINE *******/
 
 .tech {
 	color: var(--gray);
