@@ -6,7 +6,6 @@ const slugify = require("slugify");
 const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
 const pluginSEO = require("eleventy-plugin-seo");
 
-
 module.exports = function(eleventyConfig) {
 
   eleventyConfig.addPlugin(eleventyNavigationPlugin);
