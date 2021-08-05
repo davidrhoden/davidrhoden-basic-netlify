@@ -4,7 +4,7 @@ date: 2020-05-26T16:00:00.000Z
 summary: This wouldn't be remarkable except when I see these cats I always look for Sally.
 excerpt: This wouldn't be remarkable except when I see these cats I always look for Sally.
 category: timeline
-image: cats-on-douglass-may-26-2020.jpg
+image: ./static/img/timeline/cats-on-douglass-may-26-2020.jpg
 tags:
   - post 
   - New Orleans

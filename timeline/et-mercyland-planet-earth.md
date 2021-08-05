@@ -4,7 +4,7 @@ date: 1989-07-28T21:00:00.000Z
 summary: The year is a guess. My brother and I were in Everything Tool. Mercyland was the out-of-town band. I don't remember meeting them but we had a cassette of their album in the car and we played it a lot.
 excerpt: The year is a guess. My brother and I were in Everything Tool. Mercyland was the out-of-town band. I don't remember meeting them but we had a cassette of their album in the car and we played it a lot.
 category: rock
-image: mercyland-et-planet-earth.jpg
+image: ./static/img/timeline/mercyland-et-planet-earth.jpg
 tags:
   - post 
   - Knoxville 

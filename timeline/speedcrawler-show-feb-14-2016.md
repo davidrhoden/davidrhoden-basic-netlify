@@ -4,7 +4,7 @@ date: 2016-02-14T21:00:00.000Z
 summary: Fun club to play.
 excerpt: Fun club to play.
 category: rock
-image: speedcrawler-show-feb-14-2016.jpg
+image: ./static/img/timeline/speedcrawler-show-feb-14-2016.jpg
 tags:
   - post
   - rock

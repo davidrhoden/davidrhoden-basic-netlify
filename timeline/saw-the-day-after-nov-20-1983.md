@@ -4,7 +4,7 @@ date: 1983-11-20T19:00:00.000Z
 summary: This was a terrifying and depressing show.
 excerpt: This was a terrifying and depressing show.
 category: timeline
-image: the-day-after-nov-20-1983.jpg
+image: ./static/img/timeline/the-day-after-nov-20-1983.jpg
 tags:
   - post 
   - TV

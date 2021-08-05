@@ -4,7 +4,7 @@ date: 1977-12-01T12:00:00.000Z
 summary: We stuck these sound effects stickers on our dresser and our closet door.
 excerpt: We stuck these sound effects stickers on our dresser and our closet door.
 category: timeline
-image: soundefxp0.jpg
+image: ./static/img/timeline/soundefxp0.jpg
 tags:
   - post 
   - Chattanooga

@@ -4,7 +4,7 @@ date: 1999-11-15T16:00:00.000Z
 summary: Date very approximate.
 excerpt: Date very approximate.
 category: betty
-image: davidwbettyonshoulder.jpg
+image: ./static/img/timeline/davidwbettyonshoulder.jpg
 tags:
   - post 
   - New Orleans

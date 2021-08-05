@@ -4,7 +4,7 @@ date: 2013-05-26T15:00:00.000Z
 summary: She made this in 1993.
 excerpt: She made this in 1993.
 category: timeline
-image: bomb-factory-1-may-26-2013.jpg
+image: ./static/img/timeline/bomb-factory-1-may-26-2013.jpg
 tags:
   - post 
   - New Orleans

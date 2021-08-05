@@ -4,7 +4,7 @@ date: 2009-02-26T21:00:00.000
 excerpt: One of my favorite places to play.  
 summary: One of my favorite places to play.  
 category: rock
-image: david-drumming-at-lakeside-2-feb-26-2009.jpg
+image: ./static/img/timeline/david-drumming-at-lakeside-2-feb-26-2009.jpg
 tags:
   - post 
   - rock

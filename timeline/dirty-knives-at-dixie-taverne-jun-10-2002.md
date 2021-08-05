@@ -4,7 +4,7 @@ date: 2002-06-10T02:00:00.000Z
 summary: The venue was un-airconditioned.
 excerpt: The venue was un-airconditioned.
 category: rock
-image: sweating-lefty-jun-10-2002.jpg
+image: ./static/img/timeline/sweating-lefty-jun-10-2002.jpg
 tags:
   - post
   - rock

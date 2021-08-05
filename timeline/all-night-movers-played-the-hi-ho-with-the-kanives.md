@@ -3,6 +3,7 @@ title: All-Night Movers played the Hi-Ho Lounge with the Ka-Nives.
 date: 2003-02-22T21:00:00.000Z
 summary: The Ka-Nives said New Orleans shows were stiff and nobody came. This time they were right.
 excerpt: The Ka-Nives said New Orleans shows were stiff and nobody came. This time they were right.
+image: ./static/img/rock/anm-cover-020803.jpg
 tags:
   - post
   - rock

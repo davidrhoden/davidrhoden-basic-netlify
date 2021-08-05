@@ -4,7 +4,7 @@ date: 2006-10-30T11:00:00.000Z
 summary: Jimmy And the Wolfpack played.
 excerpt: Jimmy And the Wolfpack played.
 category: timeline
-image: halloween-grand-street-oct-30-2006.jpg
+image: ./static/img/timeline/halloween-grand-street-oct-30-2006.jpg
 tags:
   - post 
   - NYC

@@ -3,7 +3,7 @@ title: Gina's show, Shape-Memory, officially opens today
 date: 2021-03-06T14:00:00.000Z
 category: timeline
 dateposted: 2021-03-06
-image: shape-memory-1-mar-6-2021.jpg
+image: ./static/img/timeline/shape-memory-1-mar-6-2021.jpg
 tags:
   - post
   - Gina
