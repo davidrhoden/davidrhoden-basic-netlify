@@ -2,7 +2,9 @@
     {% for post in postslist | reverse %}
         <article{% if post.url == url %} data-current="current item"{% endif %} class="flex">
             <div class="left">
-                {% if post.data.image %}<img class="thumbnail" src="/static/img/timeline/thumbnails/160/{{ post.data.image }}">{% endif %}
+                {% if post.data.image %}
+                    {% myImage post.data.image,"thumbnail", post.data.title, [280], [280] %}
+                {% endif %}
             </div>
             <div>
             <p class="postdate">
