@@ -1,6 +1,6 @@
 {
   "layout": "layouts/timeline.njk",
-  "permalink": "timeline/{{ title | slug }}/index.html",
+  "permalink": "timeline/{{ title | slugify }}/index.html",
   "tags": [
     "post"
   ]
