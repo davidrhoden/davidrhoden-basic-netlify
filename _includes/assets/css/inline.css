@@ -293,9 +293,9 @@ main img.thumbnail {
 
 a.tiny-thumbnail {
 	display: block;
-	height: 32px;
+	height: 64px;
 	position: relative;
-	width: 32px;
+	width: 64px;
 }
 
 /* Post Tags */
@@ -372,8 +372,14 @@ footer small {
 	text-transform: uppercase;
 }
 
-.about img, .timeline img {
+.about img {
 	width: 100%;
+}
+
+.timeline img {
+	min-height:  64px;
+	width: auto;
+	min-width: 64px
 }
 
 ol {
@@ -736,10 +742,10 @@ span.fade:hover {
 
 	.photo-timeline-link {
 		display: inline-block; 
-		height: 32px;
+		height: 64px;
 		margin: 0;
 		overflow: hidden;
-		width: 32px;
+		width: 64px;
 	}
 
 	.post-year {
