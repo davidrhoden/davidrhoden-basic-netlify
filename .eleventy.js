@@ -5,6 +5,8 @@ const htmlmin = require("html-minifier");
 const slugify = require("slugify");
 const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
 const pluginSEO = require("eleventy-plugin-seo");
+const path = require("path");
+const Image = require("@11ty/eleventy-img");
 
 module.exports = function(eleventyConfig) {
 
@@ -37,10 +39,15 @@ module.exports = function(eleventyConfig) {
     return DateTime.fromJSDate(dateObj).toFormat("yyyy");
   });
 
+  eleventyConfig.addFilter(
+    "relative",
+    (page, root = "/") => '${require("path").relative(page.filePathStem, root)}/'
+  );
+
   eleventyConfig.addCollection("posts", function(collection) {
     const coll = collection.getFilteredByTag("post");
 
-    for(let i = 0; i < coll.length ; i++) {
+      for(let i = 0; i < coll.length ; i++) {
       const prevPost = coll[i-1];
       const nextPost = coll[i + 1];
 
@@ -65,18 +72,19 @@ module.exports = function(eleventyConfig) {
     return allNotes;
   });
 
-  // Minify HTML output
-  // eleventyConfig.addTransform("htmlmin", function(content, outputPath) {
-  //   if (outputPath.indexOf(".html") > -1) {
-  //     let minified = htmlmin.minify(content, {
-  //       useShortDoctype: true,
-  //       removeComments: true,
-  //       collapseWhitespace: true
-  //     });
-  //     return minified;
-  //   }
-  //   return content;
-  // });
+    eleventyConfig.addCollection("signs", function(collection) {
+    const coll = collection.getFilteredByTag("signs");
+
+      for(let i = 0; i < coll.length ; i++) {
+      const prevPost = coll[i-1];
+      const nextPost = coll[i + 1];
+
+      coll[i].data["prevPost"] = prevPost;
+      coll[i].data["nextPost"] = nextPost;
+    }
+
+    return coll;
+  });
 
   // Universal slug filter strips unsafe chars from URLs
   eleventyConfig.addFilter("slugify", function(str) {
@@ -86,6 +94,36 @@ module.exports = function(eleventyConfig) {
       remove: /[*+~.·,()'"`´%!?¿:@]/g
     });
   });
+
+eleventyConfig.addNunjucksShortcode("myImage", imageShortcode);
+
+function imageShortcode(src, cls, alt, sizes, widths) {
+  let options = {
+    widths: widths,
+    formats: ['jpeg'],
+    urlPath: '/static/img/timeline/',
+    outputDir: './_site/static/img/timeline/',
+    filenameFormat: function (id, src, width, format, options) {
+      const extension = path.extname(src);
+      const name = path.basename(src, extension);
+      return `${name}-${width}w.${format}`;
+    }
+  };
+
+  // generate images, while this is async we don’t wait
+  Image(src, options);
+
+  let imageAttributes = {
+    class: cls,
+    alt,
+    sizes,
+    loading: "lazy",
+    decoding: "async",
+  };
+  // get metadata even the images are not fully generated
+  metadata = Image.statsSync(src, options);
+  return Image.generateHTML(metadata, imageAttributes);
+}
 
   // Don't process folders with static assets e.g. images
   eleventyConfig.addPassthroughCopy("favicon.ico");
@@ -116,7 +154,7 @@ module.exports = function(eleventyConfig) {
   return {
     templateFormats: ["md", "njk", "html", "liquid"],
     pathPrefix: "/",
-    markdownTemplateEngine: "liquid",
+    markdownTemplateEngine: "njk",
     htmlTemplateEngine: "njk",
     dataTemplateEngine: "njk",
     dir: {
