@@ -4,7 +4,7 @@ date: 1999-04-21T16:00:00.000Z
 summary: We were housesitting on my first visit to New Orleans.
 excerpt: We were housesitting on my first visit to New Orleans.
 category: timeline
-image: david-sings-to-tamayo-apr-21-1999.jpg
+image: ./static/img/timeline/david-sings-to-tamayo-apr-21-1999.jpg
 tags:
   - post 
   - New Orleans

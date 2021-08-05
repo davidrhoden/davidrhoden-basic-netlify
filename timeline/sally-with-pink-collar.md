@@ -3,7 +3,7 @@ title: Sally with pink collar
 date: 2008-05-09T16:00:00.000Z
 summary: Sally looked so great with her pink collar.
 category: sally
-image: sallysupercute.jpg
+image: ./static/img/timeline/sallysupercute.jpg
 tags:
   - post
   - cats

@@ -4,7 +4,7 @@ date: 1990-08-02T17:00:00.000Z
 excerpt: We came out of the basement to discover the Gulf War had started.
 summary: We came out of the basement to discover the Gulf War had started.
 category: rock
-image: snakeoil.jpg
+image: ./static/img/timeline/snakeoil.jpg
 tags:
   - post
   - rock

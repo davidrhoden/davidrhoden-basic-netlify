@@ -4,7 +4,7 @@ date: 2020-11-14T14:00:00.000Z
 summary: Gina put on a socially-distanced live music show.
 excerpt: Gina put on a socially-distanced live music show.
 category: timeline
-image: gina-phillips-and-friends-nov-14-2020.jpg
+image: ./static/img/timeline/gina-phillips-and-friends-nov-14-2020.jpg
 tags:
   - post 
   - New Orleans

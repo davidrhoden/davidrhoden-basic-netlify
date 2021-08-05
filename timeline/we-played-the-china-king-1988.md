@@ -4,7 +4,7 @@ date: 1989-11-15T18:00:00.000Z
 summary: If you got to the gig early enough they would feed you for nothing.
 excerpt: If you got to the gig early enough they would feed you for nothing.
 category: rock
-image: dave-matt-everythingtool-chinaking-01.jpg
+image: ./static/img/timeline/dave-matt-everythingtool-chinaking-01.jpg
 tags:
   - post
   - rock

@@ -4,7 +4,7 @@ date: 2019-08-14T11:00:00.000Z
 summary: These cheery balloons spelled out "FUCK YEAH" for a day.
 excerpt: These cheery balloons spelled out "FUCK YEAH" for a day.
 category: timeline
-image: yeah-balloons-20190814.jpg
+image: ./static/img/timeline/yeah-balloons-20190814.jpg
 tags:
   - post 
   - co-working

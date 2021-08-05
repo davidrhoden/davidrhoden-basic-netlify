@@ -4,7 +4,7 @@ date: 1988-11-05T22:00:00.000Z
 summary: Across the Yard were, in fact, the jangliest.
 excerpt: Across the Yard were, in fact, the jangliest.
 category: rock
-image: everything-tool-china-king-nov-5-1988.jpg
+image: ./static/img/timeline/everything-tool-china-king-nov-5-1988.jpg
 tags:
   - post 
   - rock

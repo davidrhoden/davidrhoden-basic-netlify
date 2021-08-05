@@ -4,7 +4,7 @@ date: 2018-08-11T22:00:00.000Z
 summary: Great show. Really loud.
 excerpt: Great show. Really loud.
 category: rock
-image: stacksatgasagasa.jpg
+image: ./static/img/rock/stacks-gasa-gasa-aug-11-2018.jpg
 tags:
   - post 
   - rock
@@ -17,7 +17,7 @@ tags:
 
 ---
 
-![Stacks at Gasa Gasa](/static/img/rock/stacksatgasagasa.jpg "Stacks at Gasa Gasa")
+![Stacks at Gasa Gasa](/static/img/rock/stacks-gasa-gasa-aug-11-2018.jpg "Stacks at Gasa Gasa")
 
 We like this venue a lot but wow they had the volume turned up on this particular evening.
 

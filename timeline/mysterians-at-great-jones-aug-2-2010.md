@@ -4,7 +4,7 @@ date: 2010-08-01T20:00:00.000Z
 summary: Always had fun at that place.
 excerpt: Always had fun at that place.
 category: timeline
-image: mysterians-aug-1-2010.jpg
+image: ./static/img/timeline/mysterians-aug-1-2010.jpg
 tags:
   - post 
   - shows

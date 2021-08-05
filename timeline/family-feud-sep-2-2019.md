@@ -4,7 +4,7 @@ date: 2019-09-02T11:00:00.000Z
 summary: The gameplay is so perfect, and you always learn something about human nature.
 excerpt: The gameplay is so perfect, and you always learn something about human nature.
 category: timeline
-image: family-feud-20190902.jpg
+image: ./static/img/timeline/family-feud-20190902.jpg
 
 tags:
   - post 

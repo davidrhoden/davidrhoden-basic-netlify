@@ -4,7 +4,7 @@ date: 1996-08-27T03:00:00.000Z
 summary: We tried making the Hi-Balls 7" with a rudimentary silkscreen apparatus. (A Speedball kit.) It didn't work out.
 excerpt: We tried making the Hi-Balls 7" with a rudimentary silkscreen apparatus. (A Speedball kit.) It didn't work out.
 category: rock
-image: hi-balls-silkscreen-front-1996.jpg
+image: ./static/img/timeline/hi-balls-silkscreen-front-1996.jpg
 tags:
   - post
   - stories

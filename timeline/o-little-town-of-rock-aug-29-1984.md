@@ -4,7 +4,7 @@ date: 1984-08-29T22:00:00.000Z
 summary: The Washington Post thought it worthy of mention.
 excerpt: The Washington Post thought it worthy of mention.
 category: press
-image: olittletownp1lg.jpg
+image: ./static/img/timeline/olittletownp1lg.jpg
 tags:
   - post 
   - Athens

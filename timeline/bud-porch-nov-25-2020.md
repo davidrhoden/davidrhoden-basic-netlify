@@ -4,7 +4,7 @@ date: 2020-11-25T11:00:00.000Z
 summary: Documenting the exciting life of an animal who puts up with me.
 excerpt: Documenting the exciting life of an animal who puts up with me.
 category: timeline
-image: buddy-porch-nov-25-2020.jpg
+image: ./static/img/timeline/buddy-porch-nov-25-2020.jpg
 tags:
   - post 
   - cats
