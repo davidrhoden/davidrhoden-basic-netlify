@@ -761,10 +761,18 @@ span.fade:hover {
 	}
 
 	#timeline-detail {
+		background: var(--white);
 		display: flex;
-		height: 10em;
 		margin: 1em auto;
+		padding:  1em;
+		position: sticky;
+    top: 60px;
+    z-index: 10;
 	}
+
+		#timeline-detail h3 {
+			margin: 0;
+		}
 
 	#timeline-detail .summary {
 		margin-left: 1rem;
