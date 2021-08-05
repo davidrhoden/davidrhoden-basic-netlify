@@ -4,7 +4,7 @@ date: 2013-05-17T20:00:00.000Z
 summary: I knew I had seen that same picture somewhere.
 excerpt: I knew I had seen that same picture somewhere.
 category: timeline
-image: beavis-butthead-reed-bowie-may-17-2013.jpg
+image: ./static/img/timeline/beavis-butthead-reed-bowie-may-17-2013.jpg
 tags:
   - post 
   - Photoshop

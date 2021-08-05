@@ -4,7 +4,7 @@ date: 1985-05-01T13:00:00.000Z
 summary: I actually lived like this.
 excerpt: I actually lived like this.
 category: timeline
-image: 532-pacific-1997.jpg
+image: ./static/img/timeline/532-pacific-1997.jpg
 tags:
   - post
   - Chattanooga

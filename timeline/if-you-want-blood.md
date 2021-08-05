@@ -4,7 +4,7 @@ date: 2017-10-21T11:00:00.000Z
 summary: Actually I think she's enjoying the sunbeam.
 excerpt: Actually I think she's enjoying the sunbeam.
 category: sally
-image: Sally-with-Angus-2017-10-21.jpg
+image: ./static/img/timeline/Sally-with-Angus-2017-10-21.jpg
 tags:
   - post 
   - New Orleans

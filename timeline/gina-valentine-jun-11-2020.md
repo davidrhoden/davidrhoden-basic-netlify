@@ -4,7 +4,7 @@ date: 2020-06-11T01:00:00.000Z
 summary: Pink popsicle time.
 excerpt: Pink popsicle time.
 category: gina
-image: gina-valentine-jun-11-2020.jpg
+image: ./static/img/timeline/gina-valentine-jun-11-2020.jpg
 tags:
   - post
   - New Orleans

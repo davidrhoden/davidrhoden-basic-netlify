@@ -4,7 +4,7 @@ date: 1995-06-01T11:00:00.000Z
 summary: I also became technically homeless while I was writing it.
 excerpt: I also became technically homeless while I was writing it.
 category: timeline
-image: awesome-almanac-jun-1-1995.jpg
+image: ./static/img/timeline/awesome-almanac-jun-1-1995.jpg
 tags:
   - post 
   - writing

@@ -4,7 +4,7 @@ date: 2020-10-29T11:00:00.000Z
 summary: Gina and I watched the storm come in; it was beautiful.
 excerpt: Gina and I watched the storm come in; it was beautiful.
 category: gina
-image: hurricane-zeta-oct-29-2020.jpg
+image: ./static/img/timeline/hurricane-zeta-oct-29-2020.jpg
 tags:
   - post 
   - New Orleans

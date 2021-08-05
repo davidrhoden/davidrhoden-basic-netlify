@@ -4,7 +4,7 @@ date: 2018-02-13T11:00:00.000Z
 summary: I forgot to try hard.
 excerpt: I forgot to try hard.
 category: timeline
-image: davidmardigras2018.jpg
+image: ./static/img/timeline/davidmardigras2018.jpg
 tags:
   - post 
   - New Orleans

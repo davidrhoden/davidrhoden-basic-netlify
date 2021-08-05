@@ -4,7 +4,7 @@ date: 2021-02-11T11:00:00.000Z
 summary: A small one, about eleven inches high, the height of GI Joe or Barbie.
 excerpt: A small one, about eleven inches high, the height of GI Joe or Barbie.
 category: paintings
-image: reporter-feb-11-2021.jpg
+image: ./static/img/timeline/reporter-feb-11-2021.jpg
 tags:
   - post 
   - New Orleans

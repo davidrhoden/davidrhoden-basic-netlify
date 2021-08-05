@@ -4,7 +4,7 @@ date: 2021-04-01T16:00:00.000Z
 summary: He treats my house like it's his workplace.
 excerpt: He treats my house like it's his workplace.
 category: timeline
-image: stoos-goats-apr-1-2021.jpg
+image: ./static/img/timeline/stoos-goats-apr-1-2021.jpg
 tags:
   - post 
   - New Orleans

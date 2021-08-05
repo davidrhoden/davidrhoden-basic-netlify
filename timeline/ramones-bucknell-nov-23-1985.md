@@ -4,7 +4,7 @@ date: 1985-11-23T20:00:00.000Z
 summary: I had a great time but I wore some vintage shoes and they hurt.
 excerpt: I had a great time but I wore some vintage shoes and they hurt.
 category: timeline
-image: ramones-bucknell-nov-23-1985.jpg
+image: ./static/img/timeline/ramones-bucknell-nov-23-1985.jpg
 year: 1985
 tags:
   - post

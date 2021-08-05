@@ -4,7 +4,7 @@ date: 2016-12-02T16:00:00.000Z
 summary: This country gas station has shoes and a topless bar in it.
 excerpt: This country gas station has shoes and a topless bar in it.
 category: timeline
-image: smokers-paradise-toomey-louisiana-dec-2-2016.jpg
+image: ./static/img/timeline/smokers-paradise-toomey-louisiana-dec-2-2016.jpg
 tags:
   - post
   - Louisiana

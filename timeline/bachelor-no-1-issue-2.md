@@ -4,7 +4,7 @@ date: 1994-07-02T03:00:00.000Z
 summary: This, as you may have guessed, was our second issue.
 excerpt: This, as you may have guessed, was our second issue.
 category: designs
-image: bn12.jpg
+image: ./static/img/timeline/bn12.jpg
 tags:
   - post
   - NYC

@@ -4,7 +4,7 @@ date: 2014-04-05T18:00:00.000Z
 excerpt: Not quite like Holt Cemetery, but sort of.
 summary: Not quite like Holt Cemetery, but sort of.
 category: timeline
-image: gravestones1404051.jpg
+image: ./static/img/timeline/gravestones-spruce-apr-5-2014/gravestones-spruce-apr-5-2014-1.jpg
 tags:
   - post 
   - New Orleans
@@ -14,18 +14,18 @@ tags:
 
 ---
 
-![grave in cemetery on Spruce Street](/static/img/timeline/gravestones1404051.jpg "grave in cemetery on Spruce Street")
+![grave in cemetery on Spruce Street](/static/img/timeline/gravestones-spruce-apr-5-2014/gravestones-spruce-apr-5-2014-1.jpg "grave in cemetery on Spruce Street")
 
 This cemetery is down the street from Alec Vance's house on Spruce Street. It's not as easy to get in now as it was in 2014.
 
-![grave in cemetery on Spruce Street](/static/img/timeline/gravestones1404052.jpg "grave in cemetery on Spruce Street")
+![grave in cemetery on Spruce Street](/static/img/timeline/gravestones-spruce-apr-5-2014/gravestones-spruce-apr-5-2014-2.jpg "grave in cemetery on Spruce Street")
 
-![grave in cemetery on Spruce Street](/static/img/timeline/gravestones1404053.jpg "grave in cemetery on Spruce Street")
+![grave in cemetery on Spruce Street](/static/img/timeline/gravestones-spruce-apr-5-2014/gravestones-spruce-apr-5-2014-3.jpg "grave in cemetery on Spruce Street")
 
-![grave in cemetery on Spruce Street](/static/img/timeline/gravestones1404054.jpg "grave in cemetery on Spruce Street")
+![grave in cemetery on Spruce Street](/static/img/timeline/gravestones-spruce-apr-5-2014/gravestones-spruce-apr-5-2014-4.jpg "grave in cemetery on Spruce Street")
 
-![grave in cemetery on Spruce Street](/static/img/timeline/gravestones1404055.jpg "grave in cemetery on Spruce Street")
+![grave in cemetery on Spruce Street](/static/img/timeline/gravestones-spruce-apr-5-2014/gravestones-spruce-apr-5-2014-5.jpg "grave in cemetery on Spruce Street")
 
-![grave in cemetery on Spruce Street](/static/img/timeline/gravestones1404056.jpg "grave in cemetery on Spruce Street")
+![grave in cemetery on Spruce Street](/static/img/timeline/gravestones-spruce-apr-5-2014/gravestones-spruce-apr-5-2014-6.jpg "grave in cemetery on Spruce Street")
 
 I'm fascinated by the names Language, Friendship, "Soup", and Pfaadt.

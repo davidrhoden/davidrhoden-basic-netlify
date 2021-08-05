@@ -4,7 +4,7 @@ date: 1990-11-06T22:00:00.000Z
 summary: Gryphon's was the laundry where we practiced.
 excerpt: Gryphon's was the laundry where we practiced.
 category: rock
-image: snake-oil-swell-nov-6-1990.jpg
+image: ./static/img/timeline/snake-oil-swell-nov-6-1990.jpg
 tags:
   - post 
   - rock

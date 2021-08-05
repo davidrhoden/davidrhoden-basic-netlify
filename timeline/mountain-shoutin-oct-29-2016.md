@@ -4,7 +4,7 @@ date: 2016-10-29T20:00:00.000Z
 summary: Really not trying.
 excerpt: Really not trying.
 category: rock
-image: mountain-shoutin-oct-29-2016.jpg
+image: ./static/img/timeline/mountain-shoutin-oct-29-2016.jpg
 tags:
   - post 
   - rock

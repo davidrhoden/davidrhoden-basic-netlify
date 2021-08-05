@@ -4,7 +4,7 @@ date: 2016-10-29T21:00:00.000Z
 summary: Our one gig was a house party in South Austin.
 excerpt: Our one gig was a house party in South Austin.
 category: rock
-image: mountain-shoutin-oct-29-2016.jpg
+image: ./static/img/timeline/mountain-shoutin-oct-29-2016.jpg
 tags:
   - post 
   - rock
