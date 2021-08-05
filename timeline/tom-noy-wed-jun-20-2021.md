@@ -1,6 +1,5 @@
 ---
 title: "I went to Tom and Noy's wedding."
-permalink: "/{{ title | slugify }}/"
 date: 2021-06-20T17:00:00.000Z
 summary: I was sure it would storm, but it turned out really nice.
 excerpt: I was sure it would storm, but it turned out really nice.
