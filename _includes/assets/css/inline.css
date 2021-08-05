@@ -283,6 +283,7 @@ main > section > article > * {
 }
 
 main img {
+	max-width:  1000px;
 	width: 100% /* this is temporary by design */;
 	margin: 1em 0;
 }
