@@ -4,7 +4,7 @@ date: 2005-08-15T15:00:00.000
 excerpt: It was miserable. I made it a little bit fun though.  
 summary: It was miserable. I made it a little bit fun though.
 category: timeline
-image: ./static/img/timeline/bettyjonote-aug-15-2005.jpg
+image: ./static/img/timeline/betty-jo-note-aug-15-2005.jpg
 tags:
   - post 
   - New Orleans
@@ -15,7 +15,7 @@ tags:
 
 ---
 
-![post it note about not making calls in the office](/static/img/timeline/bettyjonote-aug-15-2005.jpg "post it note about not making calls in the office")
+![post it note about not making calls in the office](/static/img/timeline/betty-jo-note-aug-15-2005.jpg "post it note about not making calls in the office")
 
 Everyone was so miserable in this place. I worked under the indirect supervision of this lawyer who was like a dying husk of a man. Overweight, balding, never smiled. I looked up his lawyer bio and realized he had the exact same birthday as me. He looked twenty years older.
 
