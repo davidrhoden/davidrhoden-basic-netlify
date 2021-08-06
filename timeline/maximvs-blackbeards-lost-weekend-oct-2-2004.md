@@ -29,3 +29,5 @@ We played the show, it was fine, but I finally blew up at Jeff. I regret it to t
 The band broke up that night and Jeff said he would take the bus home. We went to different after-show parties. Fortunately we did not leave Jeff there. We did have a quiet ride home.
 
 [Contemporary article about Blackbeard's Lost Weekend](https://indyweek.com/music/features/blackbeard-s-lost-weekend/)
+
+![Indy Press article on Blackbeard's Lost Weekend that mentions MAXIMVS!](/static/img/rock/maxumvs-chapel-hill-prress-oct-2-2004jpg "Indy Press articleon Blackbeard's Lost Weekend that mentions MAXIMVS!")
