@@ -378,9 +378,9 @@ footer small {
 }
 
 .timeline img {
-	min-height:  64px;
+	height:  64px;
 	width: auto;
-	min-width: 64px
+	/*width: 64px;*/
 }
 
 ol {
