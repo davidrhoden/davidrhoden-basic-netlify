@@ -4,7 +4,7 @@ date: 2020-01-28T12:00:00.000Z
 summary: It was still pretty warm.
 excerpt: It was still pretty warm.
 category: buddy
-image: timeline/buddy-in-dryer-jan-28-2020.jpg 
+image: buddy/buddy-in-dryer-jan-28-2020.jpg 
 tags:
   - post
   - Buddy

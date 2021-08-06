@@ -4,7 +4,7 @@ date: 2019-12-18T11:00:00.000Z
 summary: Doing what he does best, or at least does most.
 excerpt: Doing what he does best, or at least does most.
 category: buddy
-image: timeline/buddy-making-biscuits.png
+image: buddy/buddy-making-biscuits.png
 tags:
   - post 
   - New Orleans

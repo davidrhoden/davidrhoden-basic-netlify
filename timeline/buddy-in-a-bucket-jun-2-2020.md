@@ -4,7 +4,7 @@ date: 2014-03-04T11:00:00.000Z
 summary: Ignoring the peligro.
 excerpt: ignoring the peligro.
 category: buddy
-image: timeline/buddy-in-a-bucket-01-jun-2-2020.jpg
+image: buddy/buddy-in-a-bucket-01-jun-2-2020.jpg
 tags:
   - post 
   - Buddy
