@@ -4,7 +4,7 @@ date: 2017-10-27T11:00:00.000Z
 summary: All Access, baby
 excerpt: All Access, baby
 category: rock
-image: ./static/img/timeline/huey-lewis-all-access-oct-27-2017.jpg
+image: timeline/huey-lewis-all-access-oct-27-2017.jpg
 tags:
   - post 
   - rock

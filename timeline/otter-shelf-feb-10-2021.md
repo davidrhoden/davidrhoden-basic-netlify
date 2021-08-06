@@ -4,7 +4,7 @@ date: 2021-02-10T19:00:00.000Z
 summary: He treats my house like it's his workplace.
 excerpt: He treats my house like it's his workplace.
 category: timeline
-image: ./static/img/timeline/otter-shelf-feb-10-2021.jpg
+image: timeline/otter-shelf-feb-10-2021.jpg
 tags:
   - post 
   - New Orleans

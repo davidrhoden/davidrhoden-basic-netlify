@@ -4,7 +4,7 @@ date: 2021-04-24T17:00:00.000Z
 summary: Playing on Gina's stage with George Wilde and Lo Amps, only rescheduled.
 excerpt: Playing on Gina's stage with George Wilde and Lo Amps, only rescheduled.
 category: timeline
-image: ./static/img/timeline/SisterStreetStage-Apr-24-2021a.jpg
+image: timeline/SisterStreetStage-Apr-24-2021a.jpg
 tags:
   - post 
   - New Orleans

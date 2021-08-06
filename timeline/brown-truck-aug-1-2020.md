@@ -4,7 +4,7 @@ date: 2020-08-01T20:00:00.000Z
 summary: Seen in Holy Cross. Gina knows who it belongs to but I don't.
 excerpt: Seen in Holy Cross. Gina knows who it belongs to but I don't.
 category: timeline
-image: ./static/img/timeline/brown-truck-aug-1-2020.jpg
+image: timeline/brown-truck-aug-1-2020.jpg
 tags:
   - post 
   - cars

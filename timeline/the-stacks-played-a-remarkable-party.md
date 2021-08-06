@@ -4,7 +4,7 @@ date: 2004-08-07T18:00:00.000Z
 summary: The gig itself wasn't remarkable but the aftermath was.
 excerpt: The gig itself wasn't remarkable but the aftermath was.
 category: designs
-image: ./static/img/designs/offwhite-linen-night-aug-7-2004.jpg
+image: designs/offwhite-linen-night-aug-7-2004.jpg
 tags:
   - post 
   - New Orleans

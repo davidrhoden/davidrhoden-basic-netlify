@@ -4,7 +4,7 @@ date: 2021-03-24T10:00:00.000Z
 summary: This cat lives next door but he doesn't know that.
 excerpt: This cat lives next door but he doesn't know that.
 category: timeline
-image: ./static/img/timeline/otter-sleeping-on-table-mar-24-2021.jpg
+image: timeline/otter-sleeping-on-table-mar-24-2021.jpg
 tags:
   - post
   - cats

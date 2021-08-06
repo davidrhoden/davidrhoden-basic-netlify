@@ -4,7 +4,7 @@ date: 2017-09-01T14:35:00.000Z
 summary: I took a picture of a pickle on the pavement, with unintended consequences.  
 excerpt: I took a picture of a pickle on the pavement, with unintended consequences. From the website of New Orleans-based artist David Rhoden.
 category: timeline
-image: ./static/img/timeline/quicky-pickle-sep-1-2017.jpg
+image: timeline/quicky-pickle-sep-1-2017.jpg
 tags:
   - post
   - stories

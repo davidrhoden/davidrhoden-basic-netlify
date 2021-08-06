@@ -4,7 +4,7 @@ date: 2020-07-19T12:00:00.000Z
 summary: Several commenters thought it was a golf bag.
 excerpt: Several commenters thought it was a golf bag.
 category: paintings
-image: ./static/img/timeline/lighter-jul-19-2020.jpg
+image: timeline/lighter-jul-19-2020.jpg
 tags:
   - post
   - paintings

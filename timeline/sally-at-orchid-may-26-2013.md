@@ -4,7 +4,7 @@ date: 2013-05-26T17:00:00.000Z
 summary: She was happy here, with lots to climb on and catch.
 excerpt: She was happy here, with lots to climb on and catch.
 category: timeline
-image: ./static/img/sally/sally-at-orchid-may-26-2013.jpg
+image: sally/sally-at-orchid-may-26-2013.jpg
 tags:
   - post 
   - New Orleans

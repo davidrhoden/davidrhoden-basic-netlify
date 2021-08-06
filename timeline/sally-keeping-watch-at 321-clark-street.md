@@ -4,7 +4,7 @@ date: 2017-12-14T11:00:00.000Z
 summary: I liked living here until I got the light bill.
 excerpt: I liked living here until I got the light bill.
 category: sally
-image: ./static/img/sally/sally-profile-by-fence-dec-14-2017.jpg
+image: sally/sally-profile-by-fence-dec-14-2017.jpg
 tags:
   - post 
   - New Orleans

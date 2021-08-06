@@ -4,7 +4,7 @@ date: 2020-11-21T11:00:00.000Z
 summary: I got exposed.
 excerpt: I got exposed.
 category: timeline
-image: ./static/img/timeline/160807squiggleyelobig.jpg
+image: timeline/160807squiggleyelobig.jpg
 tags:
   - post 
   - New Orleans

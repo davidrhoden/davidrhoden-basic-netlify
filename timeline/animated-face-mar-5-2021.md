@@ -4,7 +4,7 @@ title: animated face
 date: 2021-03-05T11:00:00.000Z
 summary: Made with Procreate.
 excerpt: Made with Procreate.
-image: ./static/img/timeline/animated-face-mar-5-2021.jpg
+image: timeline/animated-face-mar-5-2021.jpg
 tags:
   - post 
   - animation

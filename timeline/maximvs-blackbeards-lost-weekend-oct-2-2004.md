@@ -4,7 +4,7 @@ date: 2004-10-02T21:00:00.000
 excerpt: Part of a big fun fest called Blackbeard's Lost Weekend.  
 summary: Part of a big fun fest called Blackbeard's Lost Weekend. 
 category: rock
-image: ./static/img/timeline/caveshot1-oct-2-2004.jpg
+image: timeline/caveshot1-oct-2-2004.jpg
 tags:
   - post 
   - rock

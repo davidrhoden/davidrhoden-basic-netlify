@@ -3,7 +3,7 @@ title: All-Night Movers played a house party
 date: 2002-07-27T21:00:00.000Z
 summary: Jeff Pounds took some great pictures
 category: rock
-image: ./static/img/timeline/anm-dave-020727.jpg
+image: timeline/anm-dave-020727.jpg
 tags:
   - post
   - rock
