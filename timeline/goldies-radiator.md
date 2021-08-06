@@ -4,7 +4,7 @@ date: 2017-08-18T10:00:00.000Z
 summary: I still made it to my mom's the same day, just about eight hours late.
 excerpt: I still made it to my mom's the same day, just about eight hours late.
 category: timeline
-image: timeline/goldiesradiator/goldies-radiator-20170818.jpg
+image: timeline/goldiesradiator/goldies-radiator-aug-18-2017.jpg
 tags:
   - post
   - Goldie
@@ -26,7 +26,7 @@ I noticed my truck's A/C was cycling a lot and it seemed like it needed the refr
 
 The next morning I set out. When I had just got into Mississippi, the motor started to smell wrong and the temperature gauge swept up to the max. I had no idea if I would get stuck on the road, but I topped a hill and there was an exit for Poplarville, so I took it. I had to stop at a stop sign and wait for a car to pass, then I turned left and pulled into a little 7-11 type store. By now steam was pouring out of the hood.
 
-![Goldie, post radiator explosion](/static/img/timeline/goldiesradiator/goldies-radiator-20170818.jpg)
+![Goldie, post radiator explosion](/static/img/timeline/goldiesradiator/goldies-radiator-aug-18-2017.jpg)
 
 I have roadside assistance with my car insurance, so I called, but they sent the closest tow truck from Picayune, 30 or 40 miles away. When the tow man picked me up, he took me and the truck to a place called Culpepper's, about a quarter mile away. I might have made it, if I had known this shop was there.
 
