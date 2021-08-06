@@ -378,9 +378,8 @@ footer small {
 }
 
 .tiny-thumbnail img {
-	height:  64px;
+	min-height: 64px;
 	width: auto;
-	/*width: 64px;*/
 }
 
 ol {
