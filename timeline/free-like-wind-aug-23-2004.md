@@ -4,7 +4,7 @@ date: 2004-08-23T16:00:00.000Z
 summary: I enjoyed that date stamp.
 excerpt: I enjoyed that date stamp.
 category: sketchbook
-image: ./static/img/timeline/free-like-wind-aug-23-2004.jpg
+image: timeline/free-like-wind-aug-23-2004.jpg
 tags:
   - post 
   - New Orleans

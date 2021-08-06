@@ -4,7 +4,7 @@ date: 2014-04-06T16:00:00.000Z
 summary: Looks nice on this fence, though.
 excerpt: Looks nice on this fence, though.
 category: paintings
-image: ./static/img/timeline/orange-squiggle-sold-apr-6-2014.jpg
+image: timeline/orange-squiggle-sold-apr-6-2014.jpg
 tags:
   - post 
   - New Orleans

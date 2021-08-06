@@ -4,7 +4,7 @@ date: 2018-06-09T17:00:00.000Z
 summary: Nice place to show work.
 excerpt: Nice place to show work.
 category: paintings
-image: ./static/img/timeline/treasure-tattoo-show-june-9-2018.jpg
+image: timeline/treasure-tattoo-show-june-9-2018.jpg
 tags:
   - post 
   - art shows

@@ -4,7 +4,7 @@ date: 2012-06-29T21:00:00.000Z
 summary: Fun club to play.
 excerpt: Fun club to play.
 category: rock
-image: ./static/img/timeline/stacks-flyer-parishioners-allways-jun-29-2012.jpg
+image: timeline/stacks-flyer-parishioners-allways-jun-29-2012.jpg
 tags:
   - post
   - rock

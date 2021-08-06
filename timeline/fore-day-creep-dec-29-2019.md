@@ -4,7 +4,7 @@ date: 2019-12-29T22:00:00.000Z
 summary: Last time playing that bass on stage, it turns out
 excerpt: Last time playing that bass on stage, it turns out
 category: rock
-image: ./static/img/timeline/fore-day-creep-dec-29-2019.jpg
+image: timeline/fore-day-creep-dec-29-2019.jpg
 tags:
   - post 
   - New Orleans

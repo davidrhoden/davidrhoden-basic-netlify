@@ -5,7 +5,7 @@ permalink: pictures-from-saltillo/index.html
 summary: I spent a Mardi Gras going with some Loyola classmates to Saltillo, Coahuila, Mexico to work on houses.
 excerpt: I spent a Mardi Gras going with some Loyola classmates to Saltillo, Coahuila, Mexico to work on houses.
 category: timeline
-image: ./static/img/timeline/mexico/saltillo-hillside-feb-27-2001.jpg
+image: timeline/mexico/saltillo-hillside-feb-27-2001.jpg
 tags: 
 - post
 - Mexico

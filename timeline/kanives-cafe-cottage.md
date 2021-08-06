@@ -3,7 +3,7 @@ title: Ka-Nives and All-Night Movers in Lafayette, Louisiana
 date: 2003-02-21T18:00:00.000Z
 summary: This was our first time meeting the Ka-Nives. The club was a coffee shop but they paid us in beer (Killian's Red).
 category: rock
-image: ./static/img/timeline/cafe-cottage-flyer.jpg
+image: timeline/cafe-cottage-flyer.jpg
 tags:
   - post
   - Ka-Nives

@@ -4,7 +4,7 @@ date: 2000-04-20T20:00:00.000Z
 summary: I guess it was lame except that I had fun.
 excerpt: I guess it was lame except that I had fun.
 category: timeline
-image: ./static/img/timeline/devoids-apr-20-2000.jpg
+image: timeline/devoids-apr-20-2000.jpg
 tags:
   - post 
   - parties

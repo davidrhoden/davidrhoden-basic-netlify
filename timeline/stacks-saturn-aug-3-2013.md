@@ -4,7 +4,7 @@ date: 2013-08-03T21:00:00.000Z
 excerpt: Was this the show with Mystery Girl?
 summary: Was this the show with Mystery Girl?
 category: rock
-image: ./static/img/timeline/stacks-flyer-saturn-aug-3-2013.jpg
+image: timeline/stacks-flyer-saturn-aug-3-2013.jpg
 tags:
   - post 
   - rock

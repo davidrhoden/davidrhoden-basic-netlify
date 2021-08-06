@@ -4,7 +4,7 @@ date: 2014-10-17T11:00:00.000Z
 summary: This guy is a friend of my friend's sister.
 excerpt: This guy is a friend of my friend's sister.
 category: timeline
-image: ./static/img/timeline/at-the-liberty-austin-oct-17-2014.jpg
+image: timeline/at-the-liberty-austin-oct-17-2014.jpg
 tags:
   - post 
   - Austin

@@ -4,7 +4,7 @@ date: 2020-02-05T11:00:00.000Z
 summary: Gina and Daisy and I took a walk.
 excerpt: Gina and Daisy and I took a walk.
 category: gina
-image: ./static/img/timeline/gina-fog-on-water-feb-5-2020.jpg
+image: timeline/gina-fog-on-water-feb-5-2020.jpg
 tags:
   - post 
   - New Orleans

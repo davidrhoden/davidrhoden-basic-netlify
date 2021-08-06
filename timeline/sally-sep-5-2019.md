@@ -4,7 +4,7 @@ date: 2019-09-05T22:00:00.000Z
 excerpt: Those white socks.
 summary: Those white socks.
 category: sally
-image: ./static/img/timeline/sally-sep-5-2019.jpg
+image: timeline/sally-sep-5-2019.jpg
 tags:
   - post 
   - New Orleans

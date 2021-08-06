@@ -4,7 +4,7 @@ date: 1987-04-18T20:00:00.000Z
 summary: Pretty big show to be on the Harvard Campus.
 excerpt: Pretty big show to be on the Harvard Campus.
 category: timeline
-image: ./static/img/timeline/bullet-lavolta-lemonheads-apr-18-1987.jpg
+image: timeline/bullet-lavolta-lemonheads-apr-18-1987.jpg
 tags:
   - post 
   - Boston

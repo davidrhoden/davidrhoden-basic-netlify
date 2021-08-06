@@ -3,7 +3,7 @@ title: standing on the levee near the sugar plant
 date: 2020-04-30T16:00:00.000Z
 summary: Showing off my pandemic facial hair and walking on the levee in Arabi.
 category: gina
-image: ./static/img/timeline/david-by-domino-sugar.jpg
+image: timeline/david-by-domino-sugar.jpg
 tags:
   - post
   - The Levee 

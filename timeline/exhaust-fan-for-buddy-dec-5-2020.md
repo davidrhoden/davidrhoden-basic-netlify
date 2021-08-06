@@ -4,7 +4,7 @@ date: 2020-12-05T11:00:00.000Z
 summary: I'm sad to say that this was necessary.
 excerpt: I'm sad to say that this was necessary.
 category: buddy
-image: ./static/img/timeline/exhaust-fan-for-buddy-dec-5-2020.jpg
+image: timeline/exhaust-fan-for-buddy-dec-5-2020.jpg
 tags:
   - post 
   - New Orleans
