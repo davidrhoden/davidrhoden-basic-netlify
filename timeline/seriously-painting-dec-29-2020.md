@@ -4,7 +4,7 @@ date: 2020-12-29T11:00:00.000Z
 summary: Just something I was thinking about.
 excerpt: Just something I was thinking about.
 category: paintings
-image: timeline/seriously-dec-29-2020.jpg
+image: paintings/seriously-dec-29-2020.jpg
 tags:
   - post 
   - paintings
