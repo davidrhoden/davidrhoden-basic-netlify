@@ -4,7 +4,7 @@ date: 2012-10-05T20:00:00.000Z
 summary: I drew a luchador.
 excerpt: I drew a luchador.
 category: rock
-image: timeline/stacks-flyer-saturn-luchador-oct-5-2012.jpg
+image: rock/stacks-flyer-saturn-luchador-oct-5-2012.jpg
 tags:
   - post
   - rock
