@@ -4,7 +4,7 @@ date: 1984-10-30T16:00:00.000Z
 summary: No idea what the occasion was.
 excerpt: No idea what the occasion was.
 category: timeline
-image: ./static/img/timeline/andy-sam-chris-matt-me-1985.jpg
+image: timeline/andy-sam-chris-matt-me-1985.jpg
 tags:
   - post 
   - Chattanooga

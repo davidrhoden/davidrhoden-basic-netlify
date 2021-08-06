@@ -4,7 +4,7 @@ date: 1989-10-01T21:00:00.000Z
 summary: I used to check out lots of records from the Knox County Library in downtown Knoxville.
 excerpt: I used to check out lots of records from the Knox County Library in downtown Knoxville.
 category: timeline
-image: ./static/img/timeline/war-of-the-worlds-record-1989.jpg
+image: timeline/war-of-the-worlds-record-1989.jpg
 tags:
   - post
   - records

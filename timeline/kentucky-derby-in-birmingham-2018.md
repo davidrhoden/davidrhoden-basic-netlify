@@ -4,7 +4,7 @@ date: 2018-05-05T17:00:00.000Z
 excerpt: The Kentucky Derby fell on the day we were there and we went to the city dog track to watch it.
 summary: The Kentucky Derby fell on the day we were there and we went to the city dog track to watch it.
 category: timeline
-image: ./static/img/timeline/dogtrackrail-may-5-2018.jpg
+image: timeline/dogtrackrail-may-5-2018.jpg
 tags:
   - post
   - Gina

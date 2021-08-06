@@ -3,7 +3,7 @@ title: Dirty Knives played El Matador with Sugar Tank
 excerpt: At the end of our set Trey hopped down the little steps at the side of the stage, smashing them to bits.
 summary: At the end of our set Trey hopped down the little steps at the side of the stage, smashing them to bits.
 category: rock
-image: ./static/img/timeline/dirty-knives-sugar-tank-jul-21-2001.gif
+image: timeline/dirty-knives-sugar-tank-jul-21-2001.gif
 date: 2001-07-21T22:00:00.000Z
 tags:
   - post 

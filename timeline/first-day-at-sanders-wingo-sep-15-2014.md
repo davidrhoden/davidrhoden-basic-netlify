@@ -4,7 +4,7 @@ date: 2014-09-15T8:00:00.000Z
 summary: I biked from the Motel 6 to my new job.
 excerpt: I biked from the Motel 6 to my new job.
 category: timeline
-image: ./static/img/timeline/motel6_0360_exterior1.jpg
+image: timeline/motel6_0360_exterior1.jpg
 tags:
   - post 
   - Sanders/Wingo

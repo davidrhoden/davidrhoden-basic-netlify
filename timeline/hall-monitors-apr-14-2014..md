@@ -4,7 +4,7 @@ date: 2014-04-14T16:00:00.000Z
 summary: Absolutely loved this band as a band and as people.
 excerpt: Absolutely loved this band as a band and as people.
 category: timeline
-image: ./static/img/timeline/hall-monitors-apr-14-2014.jpg
+image: timeline/hall-monitors-apr-14-2014.jpg
 tags:
   - post 
   - rock

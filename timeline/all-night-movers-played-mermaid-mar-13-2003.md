@@ -3,7 +3,7 @@ title: All-Night Movers played at Mermaid Lounge with Thee Shams and Cary Hudson
 date: 2003-03-13T22:00:00.000Z
 summary: I definitely remember the show, I forgot we played it though.
 excerpt: I definitely remember the show, I forgot we played it though.
-image: ./static/img/rock/anm-cover-020803.jpg
+image: rock/anm-cover-020803.jpg
 tags:
   - post
   - rock

@@ -5,7 +5,7 @@ dateposted: 2021-03-04
 summary: 10,000 Maniacs opened.
 excerpt: 10,000 Maniacs opened.
 category: timeline
-image: ./static/img/timeline/rem-ticket-stub-stokley-oct-1-1987.jpg
+image: timeline/rem-ticket-stub-stokley-oct-1-1987.jpg
 tags:
   - post 
   - rock

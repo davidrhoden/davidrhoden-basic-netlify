@@ -4,7 +4,7 @@ date: 2017-08-19T17:00:00.000Z
 excerpt: I also saw the Wayne White museum show, but this might have been more fun.
 summary: I also saw the Wayne White museum show, but this might have been more fun.
 category: timeline
-image: ./static/img/timeline/wayne-white-show-in-chatt-aug-19-2017.jpg
+image: timeline/wayne-white-show-in-chatt-aug-19-2017.jpg
 tags:
   - post
   - Wayne White

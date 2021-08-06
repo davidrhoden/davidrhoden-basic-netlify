@@ -2,7 +2,7 @@
 title: Dirty Knives played Strathmore Ballroom
 date: 2003-04-23T22:00:00.000Z
 category: rock
-image: ./static/img/timeline/dirty-knives-at-joe-kights-apr-26-2003.jpg
+image: timeline/dirty-knives-at-joe-kights-apr-26-2003.jpg
 tags:
   - post 
   - rock

@@ -4,7 +4,7 @@ date: 1997-01-17T23:00:00.000Z
 summary: I saw this live when it was first aired.
 excerpt: I saw this live when it was first aired.
 category: rock
-image: ./static/img/timeline/little-richard-tom-snyder-jan-11-1997.png
+image: timeline/little-richard-tom-snyder-jan-11-1997.png
 tags:
   - post 
   - Chattanooga

@@ -2,7 +2,7 @@
 title: I saw this anti-Trump truck in New Orleans
 date: 2019-04-19T12:00:00.000Z
 category: timeline
-image: ./static/img/timeline/anti-trump-truck-apr-19-2019.jpg
+image: timeline/anti-trump-truck-apr-19-2019.jpg
 excerpt: Tailgate as billboard.
 summary: Tailgate as billboard.
 tags:
