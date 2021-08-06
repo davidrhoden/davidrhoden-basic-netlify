@@ -1,6 +1,6 @@
 {
   "layout": "layouts/notes.njk",
-  "permalink": "notes/{{ title | slug }}/index.html",
+  "permalink": "notes/{{ title | slugify }}/index.html",
   "tags": [
     "note"
   ]
