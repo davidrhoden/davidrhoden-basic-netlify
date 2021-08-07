@@ -1,4 +1,4 @@
----yh
+---
 title: First flight in years.
 date: 2021-06-14T13:00:00.000Z
 summary: I hate flying, especially Delta. Hard crosswords help, but only to a degree.

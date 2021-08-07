@@ -1,5 +1,5 @@
 ---
-title: Jimmy and the Wolfpack played a Hallowe'en party on Grand Street.
+title: "Jimmy and the Wolfpack played a Hallowe'en party on Grand Street."
 date: 2006-10-30T11:00:00.000Z
 summary: Jimmy And the Wolfpack played.
 excerpt: Jimmy And the Wolfpack played.
