@@ -1,5 +1,5 @@
 ---
-title: we used to go to this cabin in Callicoon, New York
+title: We used to go to this cabin in Callicoon, New York.
 date: 1997-07-04T11:00:00.000Z
 summary: It had an outhouse, very rustic. but was actually in somebody's side yard.
 excerpt: It had an outhouse, very rustic. but was actually in somebody's side yard.

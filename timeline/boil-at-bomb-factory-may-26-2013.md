@@ -1,5 +1,5 @@
 ---
-title: Went to a crawfish boil at the Bomb Factory
+title: Went to a crawfish boil at the Bomb Factory.
 date: 2013-05-26T15:00:00.000Z
 summary: She made this in 1993.
 excerpt: She made this in 1993.

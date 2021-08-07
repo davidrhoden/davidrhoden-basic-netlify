@@ -1,5 +1,5 @@
 ---
-title: visited Aqueduct racetrack
+title: I visited Aqueduct racetrack,
 date: 2010-03-28T11:00:00.000Z
 summary: I didn't win anything.
 excerpt: I didn't win anything.

@@ -15,7 +15,7 @@ tags:
 
 ---
 
-I wish I know who took these pictures.
+I wish I knew who took these pictures.
 
 <div id="viewport">
 

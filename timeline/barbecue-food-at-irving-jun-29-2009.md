@@ -1,5 +1,5 @@
 ---
-title: I had a great backyard at 181 irving Avenue in Bushwick, Brooklyn
+title: I had a great backyard in Bushwick.
 date: 2009-06-29T21:00:00.000
 excerpt: It got hit by a tornado. It hosted many parties and cookouts.  
 summary: It got hit by a tornado. It hosted many parties and cookouts.

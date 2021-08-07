@@ -1,5 +1,5 @@
 ---
-title: Buddy Long Legs
+title: Buddy Long Legs.
 date: 2020-12-06T20:00:00.000Z
 summary: He's available to model any hosiery you can get him to wear.
 excerpt: He's available to model any hosiery you can get him to wear.
