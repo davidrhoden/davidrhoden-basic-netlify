@@ -1,5 +1,5 @@
 ---
-title: Dark Marbles played the Spiral again
+title: Dark Marbles played the Spiral again.
 date: 1998-08-22T22:00:00.000Z
 tags:
   - post 

@@ -1,5 +1,5 @@
 ---
-title: Cats on a car on Douglass Street, Lower Ninth Ward
+title: Cats on a car on Douglass Street, Lower Ninth Ward.
 date: 2020-05-26T16:00:00.000Z
 summary: This wouldn't be remarkable except when I see these cats I always look for Sally.
 excerpt: This wouldn't be remarkable except when I see these cats I always look for Sally.

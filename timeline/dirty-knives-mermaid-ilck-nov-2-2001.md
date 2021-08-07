@@ -1,5 +1,5 @@
 ---
-title: Dirty Knives played Mermaid Lounge with Immortal Lee County Killers
+title: Dirty Knives played Mermaid Lounge with Immortal Lee County Killers.
 date: 2001-11-02T08:00:00.000Z
 tags:
   - post 

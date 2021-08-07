@@ -1,5 +1,5 @@
 ---
-title: Dirty Knives at Dixie Taverne, June 10, 2002
+title: Dirty Knives played Dixie Taverne, June 10, 2002.
 date: 2002-06-10T02:00:00.000Z
 summary: The venue was un-airconditioned.
 excerpt: The venue was un-airconditioned.
