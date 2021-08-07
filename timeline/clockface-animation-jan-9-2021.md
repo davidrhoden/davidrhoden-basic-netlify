@@ -1,5 +1,5 @@
 ---
-title: clock face
+title: Animated a clock face.
 date: 2021-01-09T12:00:00.000Z
 summary: Might also be considered a current self-portrait.
 excerpt: Might also be considered a current self-portrait.

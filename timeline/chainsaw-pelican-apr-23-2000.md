@@ -1,5 +1,5 @@
 ---
-title: the strangest wedding present
+title: We got the strangest wedding present.
 date: 2000-04-23T13:00:00.000Z
 summary: I actually lived like this.
 excerpt: I actually lived like this.
