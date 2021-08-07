@@ -1,5 +1,5 @@
 ---
-title: Dirty Knives played Tasty World in Athens
+title: Dirty Knives played Tasty World in Athens.
 date: 2001-09-13T22:00:00.000Z
 tags:
   - post 
