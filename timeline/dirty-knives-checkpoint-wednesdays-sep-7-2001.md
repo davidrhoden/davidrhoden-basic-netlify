@@ -1,5 +1,5 @@
 ---
-title: Dirty Knives played Checkpoint's with The Wednesdays
+title: Dirty Knives played Checkpoint's with The Wednesdays.
 date: 2001-09-07T22:00:00.000Z
 tags:
   - post 

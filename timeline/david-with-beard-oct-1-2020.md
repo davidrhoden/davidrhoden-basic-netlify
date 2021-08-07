@@ -1,8 +1,8 @@
 ---
-title: Report from the hermitage
+title: I grew a beard.
 date: 2020-10-01T13:00:00.000Z
-summary: I grew a beard for the first time in my life.
-excerpt: I grew a beard for the first time in my life.
+summary: Report from the hermitage.
+excerpt: Report from the hermitage.
 category: timeline
 image: timeline/david-with-beard-oct-1-2020.jpg
 tags:

@@ -1,5 +1,5 @@
 ---
-title: First COVID test
+title: First COVID test.
 date: 2020-11-13T11:00:00.000Z
 summary: I got exposed.
 excerpt: I got exposed.

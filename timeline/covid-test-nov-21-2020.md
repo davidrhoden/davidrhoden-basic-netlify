@@ -1,5 +1,5 @@
 ---
-title: Second COVID test
+title: Second COVID test.
 date: 2020-11-21T11:00:00.000Z
 summary: I got exposed.
 excerpt: I got exposed.
