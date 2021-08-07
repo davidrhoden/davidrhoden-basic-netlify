@@ -1,5 +1,5 @@
 ---
-title: Dirty Knives played Strathmore Ballroom
+title: Dirty Knives played Strathmore Ballroom.
 date: 2003-04-23T22:00:00.000Z
 category: rock
 image: timeline/dirty-knives-at-joe-kights-apr-26-2003.jpg
@@ -16,4 +16,4 @@ tags:
 
 [flyer for Dirty Knives show](/static/img/rock/dirty-knives-at-joe-kights-apr-26-2003.jpg "flyer for Dirty Knives show")
 
-Is this the show where Heather Weathers wore a meat bikini and cooked it on a hot plate while wearing an apron or nothing, and Susan Roesgen was trying to get somebody to say something bad about it?
+This was the show where Heather Weathers wore a meat bikini and cooked it, in pieces, on a hot plate while wearing an apron, or nothing, and Susan Roesgen was trying to get somebody to say something bad about it.

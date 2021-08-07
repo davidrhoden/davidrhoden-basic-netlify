@@ -1,5 +1,5 @@
 ---
-title: dreamed a movie trailer
+title: Dreamed a movie trailer.
 date: 2019-03-18T23:00:00.000Z
 summary: The film was called Knuttin' Bowl.
 excerpt: The film was called Knuttin' Bowl.
