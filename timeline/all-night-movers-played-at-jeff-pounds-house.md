@@ -1,5 +1,5 @@
 ---
-title: All-Night Movers played a house party
+title: All-Night Movers played a house party.
 date: 2002-07-27T21:00:00.000Z
 summary: Jeff Pounds took some great pictures
 category: rock

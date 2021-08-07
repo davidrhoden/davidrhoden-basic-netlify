@@ -1,5 +1,5 @@
 ---
-title: My house in New Orleans
+title: I lived at 315 Tricou Street in New Orleans.
 date: 2018-04-19T11:00:00.000Z
 summary: I moved to the Ninth Ward. Most of my pictures from this time are out of focus.
 excerpt: I moved to the Ninth Ward. Most of my pictures from this time are out of focus.
