@@ -14,9 +14,11 @@ tags:
   - parties
   - Matt
   - Joanne
-  - Doug De Rienzo
-  - Jessica Wertz
+  - Doug DeRienzo
+  - Jessica W.
   - Valerie
+  - Leslie M.
+  - Chris Aston
 
 ---
 
