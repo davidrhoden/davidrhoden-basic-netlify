@@ -1,5 +1,5 @@
 ---
-title: "dreamed: a new Rod Stewart tune"
+title: "Dreamed: a new Rod Stewart tune."
 date: 2020-12-20T07:00:00.000Z
 summary: A classic record gets a new track.
 excerpt: A classic record gets a new track.
