@@ -24,31 +24,25 @@ I had a great big ground floor apartment that used to be a 99 cent store. (One d
 
 <div id="viewport">
 
-![Hallowe'en on Grand Street](/static/img/jandtwp-grand-st-halloween-oct-29-2006/halloween-grand-street-oct-30-2006.jpg "Hallowe'en on Grand Street")
+![Hallowe'en on Grand Street](/static/img/rock/jandtwp-grand-st-halloween-oct-29-2006/halloween-grand-street-oct-30-2006.jpg "Hallowe'en on Grand Street")
 
 ![Hallowe'en on Grand Street, Dave and Doug](/static/img/rock/jandtwp-grand-st-halloween-oct-29-2006/meanddougwithbucket-oct-30-2006.jpg "Hallowe'en on Grand Street, Dave and Doug")
-
-![Hallowe'en on Grand Street, Dave and Jessica](/static/img/rock/jandtwp-grand-st-halloween-oct-29-2006/meandmartian2-oct-30-2006.jpg "Hallowe'en on Grand Street, Dave and Jessica")
-
-![Hallowe'en on Grand Street, Dave, Jessica, and Matt](/static/img/rock/jandtwp-grand-st-halloween-oct-29-2006/mejessmatt-oct-30-2006.jpg "Hallowe'en on Grand Street, Dave, Jessica, and Matt")
-
-![Hallowe'en on Grand Street, Dave, Jessica, and Matt](/static/img/rock/jandtwp-grand-st-halloween-oct-29-2006/mejessmatt2-oct-30-2006.jpg "Hallowe'en on Grand Street, Dave, Jessica, and Matt")
 
 ![Hallowe'en on Grand Street, Dave and Valerie](/static/img/rock/jandtwp-grand-st-halloween-oct-29-2006/withval-oct-30-2006.jpg "Hallowe'en on Grand Street, Dave and Valerie")
 
 ![Hallowe'en on Grand Street, Al and Josh](/static/img/rock/jandtwp-grand-st-halloween-oct-29-2006/alnjosh-oct-29-2006.jpg "")
 
-![Hallowe'en on Grand Street, Al and Josh](/static/img/rock/jandtwp-grand-st-halloween-oct-29-2006/alnjosnh-oct-29-2006.jpg "")
+![Hallowe'en on Grand Street, Al and Josh](/static/img/rock/jandtwp-grand-st-halloween-oct-29-2006/alnjoshn-oct-29-2006.jpg "")
 
-![Hallowe'en on Grand Street, Doug and Jessica](/static/img/rock/jandtwp-grand-st-halloween-oct-29-2006/dougnjess-oct-29-2006.jpg "")
+![Hallowe'en on Grand Street, Doug and Jessica](/static/img/rock/jandtwp-grand-st-halloween-oct-29-2006/dougandjess-oct-29-2006.jpg "")
 
 ![Hallowe'en on Grand Street, Jessica doing something](/static/img/rock/jandtwp-grand-st-halloween-oct-29-2006/jandtwpdancingjessica-oct-29-2006.jpg "")
 
 ![Hallowe'en on Grand Street, Al and Jessica](/static/img/rock/jandtwp-grand-st-halloween-oct-29-2006/jnwpalnopantson-oct-29-2006.jpg "")
 
-![Hallowe'en on Grand Street, Matt and Doug](/static/img/rock/jandtwp-grand-st-halloween-oct-29-2006/mattandcaesar-oct-29-2006.jpg "")
+![Hallowe'en on Grand Street, Matt and Doug](/static/img/rock/jandtwp-grand-st-halloween-oct-29-2006/mattandlilcaesar-oct-29-2006.jpg "")
 
-![Hallowe'en on Grand Street, Matt, Jessica, David](/static/img/rock/jandtwp-grand-st-halloween-oct-29-2006/mattjesssandme-oct-29-2006.jpg "")
+![Hallowe'en on Grand Street, Matt, Jessica, David](/static/img/rock/jandtwp-grand-st-halloween-oct-29-2006/mattjessandme-oct-29-2006.jpg "")
 
 ![Hallowe'en on Grand Street, King Diamond](/static/img/rock/jandtwp-grand-st-halloween-oct-29-2006/mattkingdiamond-oct-29-2006.jpg "")
 
@@ -56,9 +50,9 @@ I had a great big ground floor apartment that used to be a 99 cent store. (One d
 
 ![Hallowe'en on Grand Street, David And Jessica](/static/img/rock/jandtwp-grand-st-halloween-oct-29-2006/me-and-martian-02-oct-29-2006.jpg "")
 
-![Hallowe'en on Grand Street, David, Jessica, Matt](/static/img/rock/jandtwp-grand-st-halloween-oct-29-2006/me-jess-matt-oct-29-2006.jpg "")
+![Hallowe'en on Grand Street, David, Jessica, Matt](/static/img/rock/jandtwp-grand-st-halloween-oct-29-2006/me-jess-matt-oct-30-2006.jpg "")
 
-![Hallowe'en on Grand Street, David, Jessica, Matt](/static/img/rock/jandtwp-grand-st-halloween-oct-29-2006/me-jess-matt2-oct-29-2006.jpg "")
+![Hallowe'en on Grand Street, David, Jessica, Matt](/static/img/rock/jandtwp-grand-st-halloween-oct-29-2006/me-jess-matt2-oct-30-2006.jpg "")
 
 ![Hallowe'en on Grand Street, David, Jessica](/static/img/rock/jandtwp-grand-st-halloween-oct-29-2006/mewithjessica-oct-29-2006.jpg "")
 
