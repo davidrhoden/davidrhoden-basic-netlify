@@ -1,6 +1,7 @@
 ---
 title: Dirty Knives played Pilot Light in Knoxville.
 date: 2001-09-15T22:00:00.000Z
+image: rock/pilot-light-photog-unknown.jpg
 tags:
   - post 
   - rock
@@ -8,7 +9,7 @@ tags:
   - Pilot Light
   - Dirty Knives
   - stories
-  image: rock/pilot-light-photog-unknown.jpg
+
 
 ---
 
