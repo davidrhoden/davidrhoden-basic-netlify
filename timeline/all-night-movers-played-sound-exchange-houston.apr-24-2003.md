@@ -1,5 +1,5 @@
 ---
-title: All-Night Movers played Sound Exchange in Houston with Ka-Nives
+title: All-Night Movers played Sound Exchange in Houston with Ka-Nives.
 date: 2004-04-23T21:00:00.000Z
 summary: We were fine. Ka-Nives were over the top.
 excerpt: We were fine. Ka-Nives were over the top.

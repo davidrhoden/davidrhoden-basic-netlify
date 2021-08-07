@@ -1,5 +1,5 @@
 ---
-title: backyard bonfire
+title: We had a backyard bonfire.
 date: 2020-02-24T18:00:00.000Z
 excerpt: We do a lot of these.
 summary: We do a lot of these.

@@ -1,5 +1,5 @@
 ---
-title: Buddy offers a headbutt
+title: Buddy offered a headbutt.
 date: 2020-04-04T11:00:00.000Z
 summary: He's quite serious about it.
 excerpt: He's quite serious about it.
