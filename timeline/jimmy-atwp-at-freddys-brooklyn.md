@@ -4,7 +4,7 @@ date: 2010-02-28T23:59:00.000Z
 summary: I think I got the date and place correct.
 excerpt: I think I got the date and place correct.
 category: rock
-image: /rock/jandtwp-freddys-backroom-feb-28-2020/drummingatfreddys2.jpg
+image: rock/jandtwp-freddys-backroom-feb-28-2020/jandtwp-freddys-1-jun-3-2009.jpg
 tags:
   - post
   - Jimmy and The Wolfpack

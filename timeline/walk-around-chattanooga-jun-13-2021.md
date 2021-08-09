@@ -4,7 +4,7 @@ date: 2021-06-13T16:00:00.000Z
 summary: It was a really hot Sunday, so somewhat deserted.
 excerpt: It was a really hot Sunday, so somewhat deserted.
 category: timeline
-image: timeline/chattanoogariver-view-jun-13-2021.jpg
+image: timeline/chattanooga-river-view-jun-13-2021.jpg
 tags:
   - post 
   - Tennessee
@@ -26,7 +26,7 @@ I took a walk around downtown Chattanooga. It was a really hot Sunday, so somewh
 
 ![Chattanooga scenery, June 13, 2021](/static/img/timeline/chattanooga-river-church-jun-13-2021.jpg "Chattanooga scenery, June 13, 2021")
 
-![Chattanooga scenery, June 13, 2021](/static/img/timeline/chattanoogariver-view-jun-13-2021.jpg "Chattanooga scenery, June 13, 2021")
+![Chattanooga scenery, June 13, 2021](/static/img/timeline/chattanooga-river-view-jun-13-2021.jpg "Chattanooga scenery, June 13, 2021")
 
 ![Chattanooga scenery, June 13, 2021](/static/img/timeline/chattanooga-bridge-view-jun-13-2021.jpg "Chattanooga scenery, June 13, 2021")
 

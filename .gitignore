@@ -2,6 +2,7 @@ _site/
 node_modules/
 support_files/
 /api
+.env
 /static/img-to-be-added
 .DS_Store
 /pages/animation-demo.md

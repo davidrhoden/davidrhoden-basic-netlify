@@ -3,7 +3,7 @@ title: MAXIMVS! played the Circle Bar without our actual guitar player.
 date: 2004-07-24T11:00:00.000Z
 summary: Thanks, anonymous photographer.
 excerpt:  Thanks, anonymous photographer.
-image: /static/img/rock/maximvs-circle-bar-jul-27-2004/maximvs-jul-27-2004-5.jpg
+image: rock/maximvs-circle-bar-jul-27-2004/maximvs-jul-27-2004-5.jpg
 tags:
   - post 
   - New Orleans
