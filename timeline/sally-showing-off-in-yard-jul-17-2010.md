@@ -1,9 +1,9 @@
 ---
-title: Sally showed off in the yard on Orchid Street.
+title: Sally showed off on Orchid Street.
 date: 2010-07-17T11:00:00.000Z
-summary: This might have been her favorite yard, with our yard on Orchid Street in New Orleans being about a tie.
-excerpt: This might have been her favorite yard, with our yard on Orchid Street in New Orleans being about a tie.
-image: sally/sally-showing-off-at-irving-jul-17-2010/sally-showing-off-at-irving-jul-17-2010-31.jpg
+summary: She made herself at home, for sure.
+excerpt: She made herself at home, for sure.
+image: sally/sally-showing-off-at-irving-jul-17-2010/sally-showing-off-at-irving-jul-17-2010-43.jpg
 tags:
   - post 
   - Sally
@@ -14,12 +14,7 @@ tags:
 
 ---
 
-This might have been her favorite yard, with our yard on Orchid Street in New Orleans being about a tie.
-I hope she didn't hate the other places she lived.
-
 <div id="viewport">
-
-![Sally showed off in the yard on Orchid Street.](/static/img/sally/sally-showing-off-at-irving-jul-17-2010/sally-showing-off-at-irving-jul-17-2010-31.jpg "Sally showed off in the yard on Orchid Street.")
 
 ![Sally showed off in the yard on Orchid Street.](/static/img/sally/sally-showing-off-at-irving-jul-17-2010/sally-showing-off-at-irving-jul-17-2010-33.jpg "Sally showed off in the yard on Orchid Street.")
 
