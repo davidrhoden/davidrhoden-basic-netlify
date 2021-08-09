@@ -9,7 +9,7 @@ tags:
   - post 
   - New Orleans
   - Tricou Street
-  - Cats 
+  - cats 
   - Buddy
   - Otter
 
