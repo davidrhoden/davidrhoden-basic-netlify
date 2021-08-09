@@ -9,8 +9,9 @@ pagination:
     - post
 permalink: /tags/{{ tag | slugify }}/
 layout: layouts/base.njk
-renderData:
-  title: {{ tag }}
+eleventyComputed:
+  title: Tagged “{{ tag }}”
+
 ---
 
 <h1>{{ tag }}</h1>
