@@ -4,7 +4,7 @@ date: 2002-06-04T21:00:00.000Z
 summary: And a new band called Pocket Foxx also played.
 excerpt: And a new band called Pocket Foxx also played.
 category: rock
-image: rock/stax-flyer-blackgrn-jun-4.jpg
+image: rock/stacks-flyer-blackgrn-jun-4.jpg
 tags:
   - post 
   - rock
@@ -17,7 +17,7 @@ tags:
 
 ---
 
-![Hand screened rock poster](/static/img/rock/stax-flyer-blackgrn-jun-4.jpg "Hand screened rock poster")
+![Hand screened rock poster](/static/img/rock/stacks-flyer-blackgrn-jun-4.jpg "Hand screened rock poster")
 
 Doctor-A-Go-Go was the band that came out of the breakup of the Sleepy Heads. They had a medical theme instead of a sleep theme. i guess we were feeling friendly again.
 

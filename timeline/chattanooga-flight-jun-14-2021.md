@@ -4,7 +4,7 @@ date: 2021-06-14T13:00:00.000Z
 summary: I hate flying, especially Delta. Hard crosswords help, but only to a degree.
 excerpt:  I hate flying, especially Delta. Hard crosswords help, but only to a degree.
 category: timeline
-image: timeline/chattanooga-flight-jun-14-2021.jpg
+image: timeline/chattanooga/chattanooga-flight-jun-14-2021.jpg
 tags:
   - post 
   - flying
@@ -16,7 +16,7 @@ tags:
 
 ---
 
-![plane loading at Chattanooga airport](/static/img/timeline/chattanooga-flight-jun-14-2021.jpg "plane loading at Chattanooga airport")
+![plane loading at Chattanooga airport](/static/img/timelin/chattanooga/chattanooga-flight-jun-14-2021.jpg "plane loading at Chattanooga airport")
 
 I know, nobody wants to hear me complain, but I really hate flying. It's sad to me, because I used to love it.
 I just feel like I'm going to have a heart attack for most of the flight. If given the choice, mid-flight, to continue to the destination or die, I have to ask how long is the remainder of the flight.
