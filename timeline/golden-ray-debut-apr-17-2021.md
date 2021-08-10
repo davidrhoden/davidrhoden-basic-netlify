@@ -15,6 +15,8 @@ tags:
   - Sister Street Stage
   - Andrew Donaldson
   - Brian Tyranny
+  - Anthony Donato
+  - Tracy Kennan
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Dirty Knives played El Matador with Sugar Tank
+title: Dirty Knives played El Matador with Sugar Tank.
 excerpt: At the end of our set Trey hopped down the little steps at the side of the stage, smashing them to bits.
 summary: At the end of our set Trey hopped down the little steps at the side of the stage, smashing them to bits.
 category: rock
