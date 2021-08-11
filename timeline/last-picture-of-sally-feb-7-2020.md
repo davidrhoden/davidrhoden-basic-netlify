@@ -12,6 +12,6 @@ tags:
 
 ---
 
-![last picture of Sally](/static/img/sally/last-photo-of-sally-feb-7-2020.jpg "last picture of Sally")
+![The last picture of Sally](/static/img/sally/last-photo-of-sally-feb-7-2020.jpg "last picture of Sally")
 
 This is the last picture I got of Sally. An hour later she went outside. I never saw her again.
