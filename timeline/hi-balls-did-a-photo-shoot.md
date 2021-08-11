@@ -4,7 +4,7 @@ date: 1996-04-01T16:00:00.000Z
 summary: When they bring out the white seamless, you've made it.
 excerpt: When they bring out the white seamless, you've made it.
 category: rock
-image: timeline/hi-balls-jump.jpg
+image: rock/hi-balls-jump.jpg
 tags:
   - post 
   - rock
