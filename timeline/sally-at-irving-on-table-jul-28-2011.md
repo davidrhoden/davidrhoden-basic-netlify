@@ -4,7 +4,7 @@ date: 2011-07-28T16:00:00.000Z
 excerpt: I've never had such a loyal and companionable cat.
 summary: I've never had such a loyal and companionable cat.
 category: sally
-image: timeline/sally-at-irving-on-table-jul-28-2011.jpg
+image: sally/sally-at-irving-on-table-jul-28-2011.jpg
 tags:
   - post
   - Sally

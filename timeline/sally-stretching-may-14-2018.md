@@ -1,9 +1,9 @@
 ---
-title: Sally stretching on the bed
+title: Sally stretched on the bed.
 excerpt: Just looking at this picture reminds me how high my utility bills for this house were.
 summary: Just looking at this picture reminds me how high my utility bills for this house were.
 category: sally
-image: timeline/sally-stretching-may-14-2018.jpg
+image: sally/sally-stretching-may-14-2018.jpg
 date: 2018-05-14T22:00:00.000Z
 tags:
   - post 

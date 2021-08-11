@@ -1,8 +1,8 @@
 ---
-title: Sally scowling.
+title: Sally scowled.
 date: 2015-06-05T21:00:00.000Z
 category: sally
-image: timeline/sally-scowling-jun-5-2015.jpg
+image: sally/sally-scowling-jun-5-2015.jpg
 tags:
   - post
   - Sally
