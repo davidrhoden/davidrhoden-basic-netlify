@@ -4,7 +4,7 @@ date: 1999-04-24T11:00:00.000Z
 summary: We recorded down in the basement.
 excerpt: We recorded down in the basement.
 category: rock
-image: timeline/innuendos960x640.jpg
+image: rock/innuendos960x640.jpg
 tags:
   - post
   - rock
