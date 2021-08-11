@@ -1,5 +1,5 @@
 ---
-title: Mardi Gras 2019
+title: I attended Mardi Gras 2019, probably my last.
 date: 2019-03-05T09:00:00.000Z
 summary: This was probably my last Mardi Gras. 
 excerpt: This was probably my last Mardi Gras. 
