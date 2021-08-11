@@ -1,10 +1,10 @@
 ---
-title: Sally on my shoulder
+title: Sally got on my shoulder.
 date: 2008-05-25T11:00:00.000Z
 summary: She liked to be carried around.
 excerpt: She liked to be carried around.
 category: sally
-image: timeline/sally-shoulder-dec-28-2008.jpg
+image: sally/sally-shoulder-dec-28-2008.jpg
 tags:
   - post 
   - Sally
