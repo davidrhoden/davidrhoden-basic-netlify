@@ -3,7 +3,7 @@ title: What's happening right now?
 date: 2020-07-04T10:00:00.000Z
 summary: The Pandemic Reboot Independence Day Edition
 excerpt: The Pandemic Reboot Independence Day Edition
-image: ./static/img/notes/milton-glaser-lightnin.jpg
+image: notes/milton-glaser-lightnin.jpg
 tags:
   - note 
   - Milton Glaser
