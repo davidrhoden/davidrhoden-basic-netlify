@@ -32,6 +32,8 @@ tags:
 
 ![Everything Tool played at China King](/static/img/rock/everything-tool-china-king-1988/everything-tool-china-king-8.jpg "Everything Tool played at China King")
 
+![Everything Tool played at China King: Dave, Matt](/static/img/rock/everything-tool-china-king-1988/everything-tool-china-king-9.jpg "Everything Tool played at China King: Dave Matt") 
+
 ![Everything Tool played with Across The Yard at China King flyer](/static/img/rock/everything-tool-china-king-nov-5-1988.jpg "Everything Tool played with Across The Yard at China King flyer")
 
 </div>
