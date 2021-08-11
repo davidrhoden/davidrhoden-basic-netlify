@@ -1,5 +1,5 @@
 ---
-title: "Dreamed I had some tasks to do in Paris, Franc.e"
+title: "Dreamed I had some tasks to do in Paris, France."
 date: 2021-06-05T07:00:00.000Z
 summary: I went to Paris with my family and boy what a mix-up.
 excerpt: I went to Paris with my family and boy what a mix-up.

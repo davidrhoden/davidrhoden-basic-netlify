@@ -1,5 +1,5 @@
 ---
-title: I got in a fight with Batman on my birthday
+title: I got in a fight with Batman on my birthday.
 date: 2007-03-02T22:00:00.000Z
 excerpt: I didn't win.
 summary: I didn't win.

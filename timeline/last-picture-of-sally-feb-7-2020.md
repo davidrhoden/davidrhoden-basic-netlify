@@ -1,5 +1,5 @@
 ---
-title: last picture of Sally
+title: The last picture of Sally.
 date: 2020-02-07T11:00:00.000Z
 summary: I miss her so much.
 excerpt: I miss her so much.
