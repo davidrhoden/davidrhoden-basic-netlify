@@ -1,5 +1,5 @@
 ---
-title: Bachelor No. 1, issue 3
+title: Published Bachelor No. 1, issue 3.
 date: 1994-10-01T03:00:00.000Z
 summary: As with almost all fanzines, the third time's the charm.
 excerpt: As with almost all fanzines, the third time's the charm.

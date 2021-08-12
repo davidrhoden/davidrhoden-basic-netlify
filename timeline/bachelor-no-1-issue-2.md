@@ -1,5 +1,5 @@
 ---
-title: Bachelor No. 1, issue 2
+title: Published Bachelor No. 1, issue 2.
 date: 1994-07-02T03:00:00.000Z
 summary: This, as you may have guessed, was our second issue.
 excerpt: This, as you may have guessed, was our second issue.
