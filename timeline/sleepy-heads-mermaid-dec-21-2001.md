@@ -1,5 +1,5 @@
 ---
-title: Sleepy Heads played the Mermaid Lounge
+title: Sleepy Heads played the Mermaid Lounge.
 date: 2001-12-21T08:00:00.000Z
 tags:
   - post 

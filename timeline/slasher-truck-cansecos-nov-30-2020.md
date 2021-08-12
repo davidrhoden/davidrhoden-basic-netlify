@@ -1,5 +1,5 @@
 ---
-title: saw a nifty slasher truck at the grocery store
+title: Saw a nifty slasher truck at the grocery store.
 date: 2020-11-30T20:00:00.000Z
 summary: Saw this nifty but off-putting vehicle at Canseco's.
 excerpt: Saw this nifty but off-putting vehicle at Canseco's.

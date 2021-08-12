@@ -1,5 +1,5 @@
 ---
-title: I showed some paintings at Treasure Tattoo
+title: I showed some paintings at Treasure Tattoo.
 date: 2018-06-09T17:00:00.000Z
 summary: Nice place to show work.
 excerpt: Nice place to show work.

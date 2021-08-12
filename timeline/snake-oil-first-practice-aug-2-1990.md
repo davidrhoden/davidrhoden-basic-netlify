@@ -1,5 +1,5 @@
 ---
-title: Snake Oil's first practice
+title: Snake Oil's first practice.
 date: 1990-08-02T17:00:00.000Z
 excerpt: We came out of the basement to discover the Gulf War had started.
 summary: We came out of the basement to discover the Gulf War had started.

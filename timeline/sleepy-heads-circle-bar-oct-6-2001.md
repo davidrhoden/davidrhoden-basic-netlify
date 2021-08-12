@@ -1,5 +1,5 @@
 ---
-title: Sleepy Heads played Circle Bar
+title: Sleepy Heads played Circle Bar.
 date: 2001-10-06T22:00:00.000Z
 tags:
   - post 

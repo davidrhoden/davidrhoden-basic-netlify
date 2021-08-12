@@ -1,5 +1,5 @@
 ---
-title: I animated a sasquatch
+title: I animated a sasquatch.
 date: 2019-04-20T20:00:00.000Z
 summary: I built a kind of a rig to put a camera above my work table.
 excerpt: I built a kind of a rig to put a camera above my work table.

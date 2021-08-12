@@ -1,5 +1,5 @@
 ---
-title: We went to Dallas for Shannon and Tom's wedding
+title: We went to Dallas for Shannon and Tom's wedding.
 date: 2001-10-20T08:00:00.000Z
 tags:
   - post 

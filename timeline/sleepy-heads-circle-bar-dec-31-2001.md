@@ -1,5 +1,5 @@
 ---
-title: "Sleepy Heads played New Year's Eve at Circle Bar"
+title: "Sleepy Heads played New Year's Eve at Circle Bar."
 date: 2001-12-29T08:00:00.000Z
 tags:
   - post 

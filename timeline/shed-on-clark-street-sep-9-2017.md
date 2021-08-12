@@ -1,5 +1,5 @@
 ---
-title: My shed on Clark Street.
+title: I had a good shed on Clark Street.
 date: 2017-09-09T13:00:00.000Z
 summary: I actually lived like this.
 excerpt: I actually lived like this.
