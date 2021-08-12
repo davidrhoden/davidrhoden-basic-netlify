@@ -12,7 +12,6 @@ tags:
   - Austin
   - Texas
 
-
 ---
 
 ![Sally the cat on a sunny desk in Austin, Texas](/static/img/sally/sally-on-sunny-desk-austin-may-21-2014.jpg "Sally the cat on a sunny desk in Austin, Texas")
