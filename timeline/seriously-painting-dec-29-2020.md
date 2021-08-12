@@ -1,5 +1,5 @@
 ---
-title: Seriously
+title: Painted a painting called Seriously.
 date: 2020-12-29T11:00:00.000Z
 summary: Just something I was thinking about.
 excerpt: Just something I was thinking about.
