@@ -63,7 +63,7 @@ Fun band I played drums in with "Benny" (real name Mark) and Kelly Vaughn (now K
 
 ## All-Night Movers
 
-![All-Night Movers: Slade Nash, David Rhoden](/static/img/rock/anm-cover-020803.jpg)
+![All-Night Movers: Slade Nash, David Rhoden](/static/img/rock/all-night-movers-cover-aug-3-2002.jpg)
 
 Slade Nash auditioned for The Stacks with a stand-up kit that included a snow shovel and a motorcycle rim. It wasn't a match but I kept his number. We started a two-piece band that only lasted one year but we played fifty-two shows in I  think seven states.
 
@@ -105,7 +105,7 @@ Recently found more photos, will post soon.
 ---
 
 ## Dirty Knives
-![Dirty Knives Greatest Hits, Vol. 2 LIVE!](/static/img/rock/dirtyknivesalbumcover.jpg)
+![Dirty Knives Greatest Hits, Vol. 2 LIVE!](/static/img/rock/dirty-knives-album-cover.jpg)
 
 Lots of recordings, very disorganized. Coming soon or at least someday.
 
