@@ -12,7 +12,6 @@ tags:
   - NYC
   - Brooklyn
   - Bushwick
-  - 181 Irving Avenue
 
 ---
 
