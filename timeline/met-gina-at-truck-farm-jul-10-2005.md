@@ -1,5 +1,5 @@
 ---
-title: I met Gina Phillips at a party at the Truck Farm
+title: I met Gina Phillips at a party at the Truck Farm.
 date: 2005-07-10T22:00:00.000Z
 summary: We met under amusing circumstances.
 excerpt: We met under amusing circumstances.
