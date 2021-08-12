@@ -1,5 +1,5 @@
 ---
-title: Sleepy Heads played a birthday party at Mermaid Lounge
+title: Sleepy Heads played a birthday party at Mermaid Lounge.
 date: 2001-08-30T22:00:00.000Z
 tags:
   - post 
