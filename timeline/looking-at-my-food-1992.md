@@ -1,5 +1,5 @@
 ---
-title: a street encounter
+title: I looked at a pedestrian's food for too long.
 date: 1992-09-30T17:30:00.000Z
 summary: I looked at a pedestrian's food for too long.
 excerpt: I looked at a pedestrian's food for too long.

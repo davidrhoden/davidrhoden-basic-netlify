@@ -1,5 +1,5 @@
 ---
-title: a gloomy shot from my backyard
+title: A gloomy shot from my backyard.
 date: 2017-12-05T16:00:00.000Z
 summary: Captured my mood exactly.
 excerpt: Captured my mood exactly.

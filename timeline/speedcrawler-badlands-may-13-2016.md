@@ -1,5 +1,5 @@
 ---
-title: I played some shows with a band called Speedcrawler
+title: I played some shows with a band called Speedcrawler.
 date: 2016-05-13T23:00:00.000Z
 summary: It was a lot of fun. Most tired I've ever gotten as a drummer.
 excerpt: It was a lot of fun. Most tired I've ever gotten as a drummer.

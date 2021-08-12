@@ -1,5 +1,5 @@
 ---
-title: Jimmy and The Wolfpack played Parkside Lounge
+title: Jimmy and The Wolfpack played Parkside Lounge.
 date: 2011-06-13T22:00:00.000Z
 summary: We liked playing anywhere with "lounge" in the name.
 excerpt: We liked playing anywhere with "lounge" in the name.

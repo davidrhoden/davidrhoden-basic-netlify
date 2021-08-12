@@ -1,5 +1,5 @@
 ---
-title: Halloween 2016 with Mountain Shoutin'
+title: Halloween 2016 with Mountain Shoutin'.
 date: 2016-10-29T21:00:00.000Z
 summary: Our one gig was a house party in South Austin.
 excerpt: Our one gig was a house party in South Austin.

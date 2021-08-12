@@ -1,5 +1,5 @@
 ---
-title: Hi-Balls played the Strathmore Ballroom
+title: Hi-Balls played the Strathmore Ballroom.
 date: 2001-03-30T22:00:00.000Z
 tags:
   - post 

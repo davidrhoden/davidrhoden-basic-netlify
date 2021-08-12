@@ -1,5 +1,5 @@
 ---
-title: Sailed and failed at the regatta again
+title: Sailed and failed at the regatta again.
 date: 2012-07-07T12:00:00.000Z
 excerpt: Trey is a good sport to keep sailing with me.
 summary: Trey is a good sport to keep sailing with me.

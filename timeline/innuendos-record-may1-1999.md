@@ -1,5 +1,5 @@
 ---
-title: The Innuendos second date recording with Mitro 
+title: The Innuendos second date recording with Mitro.
 date: 1999-05-01T11:00:00.000Z
 summary: We recorded down in the basement
 excerpt: We recorded down in the basement

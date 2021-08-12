@@ -1,5 +1,5 @@
 ---
-title: Stacks played with Doctor-A-Go-Go at Circle Bar
+title: Stacks played with Doctor-A-Go-Go at Circle Bar.
 date: 2002-06-04T21:00:00.000Z
 summary: And a new band called Pocket Foxx also played.
 excerpt: And a new band called Pocket Foxx also played.

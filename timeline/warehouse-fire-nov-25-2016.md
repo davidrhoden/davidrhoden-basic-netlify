@@ -1,5 +1,5 @@
 ---
-title: a warehouse caught fire while I was home for Thanksgiving.
+title: A warehouse caught fire while I was home for Thanksgiving.
 date: 2016-11-25T17:17:00.000Z
 excerpt: Nobody was hurt.
 summary: Nobody was hurt.

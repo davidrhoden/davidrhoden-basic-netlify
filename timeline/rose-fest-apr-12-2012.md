@@ -1,5 +1,5 @@
 ---
-title: We had a benefit for Lauren's dog Rose
+title: We had a benefit for Lauren's dog Rose.
 date: 2014-04-05T18:00:00.000Z
 excerpt: The Stacks played.
 summary: The Stacks played.

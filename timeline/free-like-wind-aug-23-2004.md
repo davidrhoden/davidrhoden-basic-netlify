@@ -1,5 +1,5 @@
 ---
-title: Free like the wind sketch
+title: Free like the wind sketch.
 date: 2004-08-23T16:00:00.000Z
 summary: I enjoyed that date stamp.
 excerpt: I enjoyed that date stamp.

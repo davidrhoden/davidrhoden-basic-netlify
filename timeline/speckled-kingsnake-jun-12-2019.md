@@ -1,5 +1,5 @@
 ---
-title: speckled king snake in the road
+title: Saw a speckled king snake in the road.
 date: 2019-06-12T07:00:00.000Z
 summary: harmless as long as you don't pick it up
 excerpt: harmless as long as you don't pick it up

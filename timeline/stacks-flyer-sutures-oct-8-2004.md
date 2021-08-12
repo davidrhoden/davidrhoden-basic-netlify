@@ -1,5 +1,5 @@
 ---
-title: Stacks played a show at Lounge Lizards
+title: Stacks played a show at Lounge Lizards.
 date: 2004-10-08T21:00:00.000Z
 summary: Defunct club on Decatur Street.
 excerpt: Defunct club on Decatur Street.

@@ -1,5 +1,5 @@
 ---
-title: Ernie K-Doe's funeral
+title: Attended Ernie K-Doe's funeral.
 date: 2001-07-13T22:00:00.000Z
 category: timeline
 image: timeline/kdoe-funeral-jul-13-2001.jpg

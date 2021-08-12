@@ -1,5 +1,5 @@
 ---
-title: The Stacks played the Saturn Bar
+title: The Stacks played the Saturn Bar.
 date: 2014-04-14T21:00:00.000Z
 excerpt: Lauren Oglesby brought all the people.
 summary: Lauren Oglesby brought all the people.

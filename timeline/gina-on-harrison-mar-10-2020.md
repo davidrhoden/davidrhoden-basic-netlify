@@ -1,5 +1,5 @@
 ---
-title: Technicolor Gina
+title: Technicolor Gina.
 date: 2020-03-10T13:00:00.000Z
 summary: Pretty typical palette.
 excerpt: Pretty typical palette.

@@ -1,5 +1,5 @@
 ---
-title: Welcome to Hempstead
+title: Welcome to Hempstead.
 date: 2014-11-26T12:00:00.000Z
 excerpt: Lynn Smith rode with me from Austin to New Orleans.
 summary: Lynn Smith rode with me from Austin to New Orleans.

@@ -1,5 +1,5 @@
 ---
-title: a cruise liner in my backyard
+title: Saw a cruise liner in my backyard.
 date: 2018-03-25T16:00:00.000Z
 summary: Pretty common view when the river is high.
 excerpt: Pretty common view when the river is high.

@@ -1,5 +1,5 @@
 ---
-title: I realized I hadn't read a lot of the books on my shelves
+title: I realized I hadn't read a lot of the books on my shelves.
 date: 2021-03-08T21:00:00.000Z
 summary: The first step is admitting you have a problem...
 excerpt: The first step is admitting you have a problem...

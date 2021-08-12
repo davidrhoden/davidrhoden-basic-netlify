@@ -1,5 +1,5 @@
 ---
-title: Stacks in the Studio
+title: Stacks recorded in the studio.
 date: 2020-06-06T18:00:00.000Z
 summary: Our drummer is moving away so we're recording while we can.
 excerpt: Our drummer is moving away so we're recording while we can.

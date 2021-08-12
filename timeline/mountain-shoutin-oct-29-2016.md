@@ -1,5 +1,5 @@
 ---
-title: Mountain Shoutin' played one show
+title: Mountain Shoutin' played one show.
 date: 2016-10-29T20:00:00.000Z
 summary: Really not trying.
 excerpt: Really not trying.
