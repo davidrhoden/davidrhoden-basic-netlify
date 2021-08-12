@@ -4,7 +4,7 @@ date: 2013-07-27T16:00:00.000Z
 summary: He lived downstairs, and his name was Angus.
 excerpt:  He lived downstairs, and his name was Angus.
 category: sally
-image: /sally/sally-n-friend-orchid-jul-17-2013/sally-n-friend-orchid-jul-27-2013-01.jpg
+image: sally/sally-n-friend-orchid-jul-17-2013/sally-n-friend-orchid-jul-27-2013-01.jpg
 tags:
   - post 
   - cats 
