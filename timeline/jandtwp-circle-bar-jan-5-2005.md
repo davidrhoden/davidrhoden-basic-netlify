@@ -1,5 +1,5 @@
 ---
-title: Jimmy and The Wolfpack played Circle Bar
+title: Jimmy and The Wolfpack played Circle Bar.
 date: 2005-07-05T22:00:00.000Z
 summary: First Wednesday of a four-Wednesday residence.
 excerpt: First Wednesday of a four-Wednesday residence.
