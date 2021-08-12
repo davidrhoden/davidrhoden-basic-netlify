@@ -1,5 +1,5 @@
 ---
-title: Gravestones in the cemetery on Spruce Street
+title: Gravestones in the cemetery on Spruce Street.
 date: 2014-04-05T18:00:00.000Z
 excerpt: Not quite like Holt Cemetery, but sort of.
 summary: Not quite like Holt Cemetery, but sort of.

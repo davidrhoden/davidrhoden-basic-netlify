@@ -1,5 +1,5 @@
 ---
-title: Family, 1970
+title: Family, 1970.
 date: 1970-03-29T12:00:00.000Z
 category: timeline
 image: timeline/family-photo-1970.jpg

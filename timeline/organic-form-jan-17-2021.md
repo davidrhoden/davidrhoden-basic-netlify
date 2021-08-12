@@ -1,5 +1,5 @@
 ---
-title: Organic form painting, again
+title: Organic form painting, again.
 date: 2021-01-16T13:00:00.000Z
 summary: A small painting from a long weekend.
 excerpt: A small painting from a long weekend.

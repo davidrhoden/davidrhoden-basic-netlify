@@ -1,5 +1,5 @@
 ---
-title: Gina's work tent failed in a storm
+title: Gina's work tent failed in a storm.
 date: 2018-04-19T11:00:00.000Z
 summary: Gina has this wedding tent to work under but maybe it wasn't meant to stay up in real bad weather.
 excerpt: Gina has this wedding tent to work under but maybe it wasn't meant to stay up in real bad weather.

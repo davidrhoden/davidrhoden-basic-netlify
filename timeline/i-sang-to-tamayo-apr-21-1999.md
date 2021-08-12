@@ -1,5 +1,5 @@
 ---
-title: I sang to a cat named Tamayo
+title: I sang to a cat named Tamayo.
 date: 1999-04-21T16:00:00.000Z
 summary: We were housesitting on my first visit to New Orleans.
 excerpt: We were housesitting on my first visit to New Orleans.

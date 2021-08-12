@@ -1,5 +1,5 @@
 ---
-title: I saw On The Town
+title: I saw On The Town.
 date: 1998-08-22T22:00:00.000Z
 category: timeline
 image: timeline/on-the-town-oct-25-1998.jpg

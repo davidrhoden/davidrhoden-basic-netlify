@@ -1,5 +1,5 @@
 ---
-title: Reporter
+title: Painted a reporter.
 date: 2021-02-11T11:00:00.000Z
 summary: A small one, about eleven inches high, the height of GI Joe or Barbie.
 excerpt: A small one, about eleven inches high, the height of GI Joe or Barbie.

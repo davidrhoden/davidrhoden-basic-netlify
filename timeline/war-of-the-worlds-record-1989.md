@@ -1,5 +1,5 @@
 ---
-title: I checked this War Of The Worlds LP out of the Knox County Library
+title: I checked this War Of The Worlds LP out of the Knox County Library.
 date: 1989-10-01T21:00:00.000Z
 summary: I used to check out lots of records from the Knox County Library in downtown Knoxville.
 excerpt: I used to check out lots of records from the Knox County Library in downtown Knoxville.

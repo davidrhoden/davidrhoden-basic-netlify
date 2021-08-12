@@ -1,5 +1,5 @@
 ---
-title: This is in the warehouse across the street from me
+title: This is in the warehouse across the street from me.
 date: 2020-02-09T12:00:00.000Z
 summary: It's spooky in there even when you're alone because the wind blows the loose corrugated metal around.
 category: timeline

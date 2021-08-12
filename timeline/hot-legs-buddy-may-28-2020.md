@@ -1,5 +1,5 @@
 ---
-title: Hot legs Buddy
+title: Hot legs Buddy.
 date: 2020-05-28T16:00:00.000Z
 summary: He's an enormous cat.
 excerpt: He's an enormous cat.

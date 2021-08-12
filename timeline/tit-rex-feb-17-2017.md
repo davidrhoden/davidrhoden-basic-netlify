@@ -1,5 +1,5 @@
 ---
-title: "I got to be in the 'tit Rex parade"
+title: "I got to be in the 'tit Rex parade."
 date: 2014-05-21T11:00:00.000Z
 summary: I made some miniature throws. I thought they had to be Roman-themed.
 excerpt: I made some miniature throws. I thought they had to be Roman-themed.

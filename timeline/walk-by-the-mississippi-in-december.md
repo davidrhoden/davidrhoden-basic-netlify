@@ -1,5 +1,5 @@
 ---
-title: A walk by the Mississippi in December
+title: A walk by the Mississippi in December.
 date: 2019-12-07T12:00:00.000Z
 summary: Took a walk with Gina and P.J. to the riverbank. I guess the water was very low.
 category: gina

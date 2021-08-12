@@ -1,8 +1,8 @@
 ---
-title: saw huey lewis at gretna fest
+title: Saw Huey Lewis and The News at Gretna Fest.
 date: 2017-10-27T11:00:00.000Z
-summary: All Access, baby
-excerpt: All Access, baby
+summary: All Access, baby.
+excerpt: All Access, baby.
 category: rock
 image: timeline/huey-lewis-all-access-oct-27-2017.jpg
 tags:

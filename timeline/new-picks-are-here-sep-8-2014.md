@@ -1,5 +1,5 @@
 ---
-title: New picks are here
+title: New picks are here.
 date: 2014-09-08T12:00:00.000Z
 summary: I got an endorsement deal.
 excerpt: I got an endorsement deal.

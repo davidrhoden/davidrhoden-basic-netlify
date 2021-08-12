@@ -1,5 +1,5 @@
 ---
-title: Red Hot
+title: Red Hot.
 date: 2002-11-28T11:00:00.000Z
 summary: We start a ritual regarding a sign in Laurel, Mississippi.
 category: timeline

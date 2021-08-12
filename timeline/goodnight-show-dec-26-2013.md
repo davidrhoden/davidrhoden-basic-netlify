@@ -1,5 +1,5 @@
 ---
-title: I sang two songs on The Goodnight Show
+title: I sang two songs on The Goodnight Show.
 date: 2013-12-26T18:00:00.000Z
 excerpt: Thanks to Steve Walkup and The Goodnight Show Orchestra.
 summary: Thanks to Steve Walkup and The Goodnight Show Orchestra.

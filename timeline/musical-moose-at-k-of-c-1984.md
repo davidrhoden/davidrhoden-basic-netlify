@@ -1,5 +1,5 @@
 ---
-title: saw Musical Moose and Bend Sinister at the Knights of Columbus Hall
+title: Saw Musical Moose and Bend Sinister at the Knights of Columbus Hall.
 date: 1985-05-01T13:00:00.000Z
 summary: I actually lived like this.
 excerpt: I actually lived like this.

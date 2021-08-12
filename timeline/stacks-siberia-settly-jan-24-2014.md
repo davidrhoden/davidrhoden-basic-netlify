@@ -1,5 +1,5 @@
 ---
-title: Stacks played Siberia with Settly
+title: Stacks played Siberia with Settly.
 date: 2014-01-25T11:00:00.000Z
 summary: Good show for us.
 excerpt: Good show for us.

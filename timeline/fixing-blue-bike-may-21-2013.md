@@ -1,5 +1,5 @@
 ---
-title: Fixing up my blue bike
+title: Fixed up an old beater bike.
 date: 2013-05-21T11:00:00.000Z
 summary: I bought this beater for $20 at a yard sale.
 excerpt: I bought this beater for $20 at a yard sale.

@@ -1,5 +1,5 @@
 ---
-title: Morning fog on the Industrial Canal
+title: Morning fog on the Industrial Canal.
 date: 2020-02-05T11:00:00.000Z
 summary: Gina and Daisy and I took a walk.
 excerpt: Gina and Daisy and I took a walk.

@@ -1,5 +1,5 @@
 ---
-title: Thanksgiving Punk Fest
+title: Thanksgiving Punk Fest.
 date: 1984-11-24T22:00:00.000Z
 summary: Punks and skinheads finally united.
 excerpt: Punks and skinheads finally united.
