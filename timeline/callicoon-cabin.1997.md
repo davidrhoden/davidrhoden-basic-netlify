@@ -16,6 +16,6 @@ tags:
 
 ![cabin in Callicoon](/static/img/timeline/callicoon-cabin-1997.jpg "cabin in Callicoon")
 
-We used to stay at this little cabin in Callicoonn, NY on summer weekends. We referred to it as "Old Man Horner's place". (Old Man Horner was probably about 40.) It felt like we were way out in the country but in fact it was in Old Man Horner's side yard (though you couldn't see the house). 
+We used to stay at this little cabin in Callicoon, NY on summer weekends. We referred to it as "Old Man Horner's place". (Old Man Horner was probably about 40.) It felt like we were way out in the country but in fact it was in Old Man Horner's side yard (though you couldn't see the house). 
 
 You couldn't really stay in the cabin, it smelled too much like skunks (because of the skunk that lived underneath it, whch would sometimes come out to visit in the evenings). But we had tents. It was close to the Delaware River that makes the border with Pennsylvania there. You could catch eels on a trot line, and fish for trout, or atl least trout-like fish with a lot of thin bones.

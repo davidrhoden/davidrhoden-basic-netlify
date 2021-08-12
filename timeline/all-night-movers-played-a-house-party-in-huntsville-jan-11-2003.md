@@ -3,7 +3,7 @@ title: All-Night Movers played a house party in Huntsville, Alabama.
 date: 2003-01-11T21:00:00.000Z
 summary: At a house in a trailer park.
 excerpt: At a house in a trailer park.
-image: rock/anm-cover-020803.jpg
+image: rock/all-night-movers-cover-aug-3-2002.jpg
 tags:
   - post
   - rock

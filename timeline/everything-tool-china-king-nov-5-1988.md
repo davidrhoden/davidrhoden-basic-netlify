@@ -4,7 +4,7 @@ date: 1988-11-05T22:00:00.000Z
 summary: Across the Yard were, in fact, the jangliest.
 excerpt: Across the Yard were, in fact, the jangliest.
 category: rock
-image: timeline/everything-tool-china-king-nov-5-1988.jpg
+image: rock/everything-tool-china-king-1988/everything-tool-china-king-nov-5-1988.jpg
 tags:
   - post 
   - rock
@@ -15,6 +15,8 @@ tags:
   - Across The Yard
 
 ---
+
+Our band Everything Tool played China King on the Cumberland Avenue strip a lot. It was a fun gig. If you got there early enough Mr. and Mrs. Liu would feed you a big family-syle dinner, though this wasn't always a good thing. Once they were handing out the egg rolls and they said "Take two! Take two!" I did, and on that occasion I regretted it. I think that was the same day Mr. Liu came up to my housemate, Ed, and asked him to translate something in his Refrigeration textbook.
 
 <div id="viewport">
 
