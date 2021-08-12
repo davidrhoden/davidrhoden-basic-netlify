@@ -4,7 +4,8 @@ date: 2015-02-20T16:00:00.000Z
 summary: This was in Austin where there wasn't enough for her to do.
 excerpt:  This was in Austin where there wasn't enough for her to do.
 category: sally
-image: timeline/315-tricou-apr-19-2018.jpg
+image: sally/sally-in-blankets-austin-feb-20-2015/sally-in-blankets-feb-20-2015-
+01.jpg
 tags:
   - post 
   - cats 

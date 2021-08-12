@@ -4,8 +4,7 @@ date: 2007-11-28T16:00:00.000Z
 summary: This was in Bushwick on our gray-painted floors.
 excerpt: This was in Bushwick on our gray-painted floors.
 category: sally
-image: sally/sally-stretching-on-floor-nov-28-2007/sally-stretching-on-floor-nov-28-2007-
-sally_thepaw.jpg
+image: sally/sally-stretching-on-floor-nov-28-2007/sally-stretching-on-floor-nov-28-2007-sally_thepaw.jpg
 tags:
   - post 
   - cats 
