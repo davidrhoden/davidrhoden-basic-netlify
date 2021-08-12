@@ -3,7 +3,7 @@ title: All-Night Movers drove to Athens.
 date: 2003-01-08T19:00:00.000Z
 summary: We didn't have a show but we went anyway.
 excerpt: We didn't have a show but we went anyway.
-image: rock/anm-cover-020803.jpg
+image: rock/all-night-movers-cover-aug-3-2002.jpg
 tags:
   - post 
   - Georgia
