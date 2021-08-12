@@ -1,5 +1,5 @@
 ---
-title: deadly jelly on Rockaway Beach
+title: Deadly jelly on Rockaway Beach.
 date: 2011-07-27T08:00:00.000Z
 summary: sorry, just a deflated mylar balloon.
 excerpt: sorry, just a deflated mylar balloon.

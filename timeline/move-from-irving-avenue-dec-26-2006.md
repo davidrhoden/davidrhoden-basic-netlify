@@ -1,5 +1,5 @@
 ---
-title: I moved out of 181 Irving Avenue
+title: I moved out of 181 Irving Avenue.
 date: 2011-10-31T12:00:00.000Z
 summary: I paid a guy to help me move and he stole my house key.
 excerpt: I paid a guy to help me move and he stole my house key.

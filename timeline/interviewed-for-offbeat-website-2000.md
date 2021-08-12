@@ -1,5 +1,5 @@
 ---
-title: I interviewed for the job of running the Offbeat magazine web site
+title: I interviewed for the job of running the Offbeat magazine web site.
 date: 2001-05-01T11:00:00.000Z
 summary: It was one of the least worthwhile job interviews I've been on.
 excerpt: It was one of the least worthwhile job interviews I've been on.

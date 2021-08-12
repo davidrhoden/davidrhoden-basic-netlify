@@ -1,5 +1,5 @@
 ---
-title: Saw Mark Eitzel at Acme
+title: Saw Mark Eitzel at Acme.
 date: 1993-10-09T22:00:00.000Z
 summary: It was too noisy a venue.
 excerpt: It was too noisy a venue.

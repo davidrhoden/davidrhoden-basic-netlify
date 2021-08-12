@@ -1,5 +1,5 @@
 ---
-title: my neighbor Talisha drew me some flowers
+title: My neighbor Talisha drew me some flowers.
 date: 2007-10-07T12:00:00.000Z
 category: timeline
 image: timeline/talisha-flowers-oct-7-2007.jpg

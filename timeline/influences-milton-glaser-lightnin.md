@@ -1,5 +1,5 @@
 ---
-title: "Influences: Milton Glaser"
+title: "Influences: Milton Glaser."
 date: 2020-06-26T12:00:00.000Z
 summary: Today was his ninety-first birthday but also his last day.
 excerpt: Today was his ninety-first birthday but also his last day.

@@ -1,5 +1,5 @@
 ---
-title: We played a show or two in Chattanooga
+title: We played a show or two in Chattanooga.
 date: 1990-04-01T22:00:00.000Z
 summary: I remember this show or these shows but I really wonder when they happened.
 excerpt:  I remember this show or these shows but I really wonder when they happened.

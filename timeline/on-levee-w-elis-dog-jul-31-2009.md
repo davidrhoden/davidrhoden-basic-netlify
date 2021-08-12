@@ -1,5 +1,5 @@
 ---
-title: walked on the levee with Rosa
+title: Walked on the levee with Rosa.
 date: 2009-07-31T11:00:00.000Z
 summary: I wonder about the date on this though.
 excerpt: I wonder about the date on this though.

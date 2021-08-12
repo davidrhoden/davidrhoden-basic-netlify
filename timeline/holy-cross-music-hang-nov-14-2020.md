@@ -1,5 +1,5 @@
 ---
-title: Holy Cross Music Hang
+title: Gina put on the Holy Cross Music Hang.
 date: 2020-11-14T14:00:00.000Z
 summary: Gina put on a socially-distanced live music show.
 excerpt: Gina put on a socially-distanced live music show.

@@ -1,5 +1,5 @@
 ---
-title: at Kukhnya with Gina
+title: Went to Kukhnya with Gina, Trey, and Becca.
 date: 2019-10-25T11:00:00.000Z
 summary: A night out with Trey and Becca.
 excerpt: A night out with Trey and Becca.

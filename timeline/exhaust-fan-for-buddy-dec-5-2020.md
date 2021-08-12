@@ -1,5 +1,5 @@
 ---
-title: Exhaust fan for Buddy
+title: Made anxhaust fan for Buddy.
 date: 2020-12-05T11:00:00.000Z
 summary: I'm sad to say that this was necessary.
 excerpt: I'm sad to say that this was necessary.

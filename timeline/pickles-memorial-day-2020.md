@@ -1,5 +1,5 @@
 ---
-title: I made some half-sours
+title: I made some half-sour pickles.
 date: 2020-05-25T11:00:00.000Z
 summary: Look out, Mr. Heinz!
 excerpt: Look out, Mr. Heinz!
