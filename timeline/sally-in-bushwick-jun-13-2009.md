@@ -26,7 +26,6 @@ tags:
 
 ![Sally enjoyed our yard in Bushwick.](/static/img/sally/sally-in-bushwick-jun-13-2009/sally-in-bushwick-jun-13-2009-60.jpg "Sally enjoyed our yard in Bushwick.")
 
-
 ![Sally enjoyed our yard in Bushwick.](/static/img/sally/sally-in-bushwick-jun-13-2009/sally-in-bushwick-jun-13-2009-63.jpg "Sally enjoyed our yard in Bushwick.")
 
 ![Sally enjoyed our yard in Bushwick.](/static/img/sally/sally-in-bushwick-jun-13-2009/sally-in-bushwick-jun-13-2009-62.jpg "Sally enjoyed our yard in Bushwick.")
