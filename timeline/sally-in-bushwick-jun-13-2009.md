@@ -46,5 +46,4 @@ tags:
   </div>
 </div>
 
-
-Sally enjoyed our yard in Bushwick.
+Sally enjoyed our yard in Bushwick. This is where I first found her and fed her a piece of a hamburger.
