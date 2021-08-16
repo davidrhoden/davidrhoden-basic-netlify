@@ -17,19 +17,19 @@ She looked beautiful and didn't rip my hands off when I put it on her.
 
 <div id="viewport">
 
-![Sally got a new collar.](/static/img/sally/sally-on-shoulder-sep-24-2007/sally-on-shoulder-sep-24-2007-eyes-shut.jpg "Sally got a new collar.")
+![Sally got on my shoulder.](/static/img/sally/sally-on-shoulder-sep-24-2007/sally-on-shoulder-sep-24-2007-eyes-shut.jpg "Sally got on my shoulder.")
 
-![Sally got a new collar.](/static/img/sally/sally-on-shoulder-sep-24-2007/sally-on-shoulder-sep-24-2007-ear-kiss.jpg "Sally got a new collar.")
+![Sally got on my shoulder.](/static/img/sally/sally-on-shoulder-sep-24-2007/sally-on-shoulder-sep-24-2007-ear-kiss.jpg "Sally got on my shoulder.")
 
-![Sally got a new collar.](/static/img/sally/sally-on-shoulder-sep-24-2007/sally-on-shoulder-sep-24-2007-shoulder-1.jpg "Sally got a new collar.")
+![Sally got on my shoulder.](/static/img/sally/sally-on-shoulder-sep-24-2007/sally-on-shoulder-sep-24-2007-shoulder-1.jpg "Sally got on my shoulder.")
 
-![Sally got a new collar.](/static/img/sally/sally-on-shoulder-sep-24-2007/sally-on-shoulder-sep-24-2007-shoulder-2.jpg "Sally got a new collar.")
+![Sally got on my shoulder.](/static/img/sally/sally-on-shoulder-sep-24-2007/sally-on-shoulder-sep-24-2007-shoulder-2.jpg "Sally got on my shoulder.")
 
-![Sally got a new collar.](/static/img/sally/sally-on-shoulder-sep-24-2007/sally-on-shoulder-sep-24-2007-shoulder-3.jpg "Sally got a new collar.")
+![Sally got on my shoulder.](/static/img/sally/sally-on-shoulder-sep-24-2007/sally-on-shoulder-sep-24-2007-shoulder-3.jpg "Sally got on my shoulder.")
 
-![Sally got a new collar.](/static/img/sally/sally-on-shoulder-sep-24-2007/sally-on-shoulder-sep-24-2007-tail-1.jpg "Sally got a new collar.")
+![Sally got on my shoulder.](/static/img/sally/sally-on-shoulder-sep-24-2007/sally-on-shoulder-sep-24-2007-tail-1.jpg "Sally got on my shoulder.")
 
-![Sally got a new collar.](/static/img/sally/sally-on-shoulder-sep-24-2007/sally-on-shoulder-sep-24-2007-tail-2.jpg "Sally got a new collar.")
+![Sally got on my shoulder.](/static/img/sally/sally-on-shoulder-sep-24-2007/sally-on-shoulder-sep-24-2007-tail-2.jpg "Sally got on my shoulder.")
 
 
 </div>
