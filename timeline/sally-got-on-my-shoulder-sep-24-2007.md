@@ -40,4 +40,3 @@ She looked beautiful and didn't rip my hands off when I put it on her.
     <button id="buttonNext">&#10095;</button>
   </div>
 </div>
-
