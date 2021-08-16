@@ -1,8 +1,8 @@
 ---
 title: Sally enjoyed our yard in Bushwick.
 date: 2009-06-13T13:00:00.000Z
-summary: She had a really good attitude.
-excerpt: She had a really good attitude.
+summary: This is where I first found her and fed her a piece of a hamburger.
+excerpt: This is where I first found her and fed her a piece of a hamburger.
 image: sally/sally-in-bushwick-jun-13-2009/sally-in-bushwick-jun-13-2009-54.jpg
 tags:
   - post 
