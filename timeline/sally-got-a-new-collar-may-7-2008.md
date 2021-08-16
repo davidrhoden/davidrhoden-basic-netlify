@@ -6,7 +6,7 @@ excerpt: Boy did she look sharp.
 image: sally/sally-new-collar-may-7-2008/sally-new-collar-may-7-2008-chandelilcious.jpg
 tags:
   - post 
-  - Cats 
+  - cats 
   - Sally
   - Brooklyn
   - Bushwick
@@ -17,11 +17,11 @@ She looked beautiful and didn't rip my hands off when I put it on her.
 
 <div id="viewport">
 
-![Sally got a new collar.](/static/img/sally/sally-new-collar-may-7-2008/sally-new-collar-may-7-2008-bushwick.jpg "MSally got a new collar.")
+![Sally got a new collar.](/static/img/sally/sally-new-collar-may-7-2008/sally-new-collar-may-7-2008-bushwick.jpg "Sally got a new collar.")
 
 ![Sally got a new collar.](/static/img/sally/sally-new-collar-may-7-2008/sally-new-collar-may-7-2008-sallyatwork.jpg "Sally got a new collar.")
 
-![Sally got a new collar.](/static/img/sally/sally-new-collar-may-7-2008/sally-new-collar-may-7-2008-sallycollar.jpg "MSally got a new collar.")
+![Sally got a new collar.](/static/img/sally/sally-new-collar-may-7-2008/sally-new-collar-may-7-2008-sallycollar.jpg "Sally got a new collar.")
 
 ![Sally got a new collar.](/static/img/sally/sally-new-collar-may-7-2008/sally-new-collar-may-7-2008-sallyrollingontable.jpg "Sally got a new collar.")
 
@@ -29,7 +29,7 @@ She looked beautiful and didn't rip my hands off when I put it on her.
 
 ![Sally got a new collar.](/static/img/sally/sally-new-collar-may-7-2008/sally-new-collar-may-7-2008-sallyserene.jpg "Sally got a new collar.")
 
-![Sally got a new collar.](/static/img/sally/sally-new-collar-may-7-2008/sally-new-collar-may-7-2008-sallysupercute.jpg "MSally got a new collar.")
+![Sally got a new collar.](/static/img/sally/sally-new-collar-may-7-2008/sally-new-collar-may-7-2008-sallysupercute.jpg "Sally got a new collar.")
 
 ![Sally got a new collar.](/static/img/sally/sally-new-collar-may-7-2008/sally-new-collar-may-7-2008-sallyuhuh.jpg "Sally got a new collar.")
 

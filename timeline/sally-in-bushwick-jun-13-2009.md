@@ -6,7 +6,7 @@ excerpt: She had a really good attitude.
 image: sally/sally-in-bushwick-jun-13-2009/sally-in-bushwick-jun-13-2009-54.jpg
 tags:
   - post 
-  - Cats 
+  - cats 
   - Sally
   - Brooklyn
   - Bushwick
@@ -14,14 +14,11 @@ tags:
 
 ---
 
-
 <div id="viewport">
-
-![Sally enjoyed our yard in Bushwick.](/static/img/sally/sally-in-bushwick-jun-13-2009/sally-in-bushwick-jun-13-2009-55.jpg "MSally enjoyed our yard in Bushwick.")
 
 ![Sally enjoyed our yard in Bushwick.](/static/img/sally/sally-in-bushwick-jun-13-2009/sally-in-bushwick-jun-13-2009-56.jpg "Sally enjoyed our yard in Bushwick.")
 
-![Sally enjoyed our yard in Bushwick.](/static/img/sally/sally-in-bushwick-jun-13-2009/sally-in-bushwick-jun-13-2009-57.jpg "MSally enjoyed our yard in Bushwick.")
+![Sally enjoyed our yard in Bushwick.](/static/img/sally/sally-in-bushwick-jun-13-2009/sally-in-bushwick-jun-13-2009-57.jpg "Sally enjoyed our yard in Bushwick.")
 
 ![Sally enjoyed our yard in Bushwick.](/static/img/sally/sally-in-bushwick-jun-13-2009/sally-in-bushwick-jun-13-2009-58.jpg "Sally enjoyed our yard in Bushwick.")
 
@@ -29,7 +26,6 @@ tags:
 
 ![Sally enjoyed our yard in Bushwick.](/static/img/sally/sally-in-bushwick-jun-13-2009/sally-in-bushwick-jun-13-2009-60.jpg "Sally enjoyed our yard in Bushwick.")
 
-![Sally enjoyed our yard in Bushwick.](/static/img/sally/sally-in-bushwick-jun-13-2009/sally-in-bushwick-jun-13-2009-61.jpg "MSally enjoyed our yard in Bushwick.")
 
 ![Sally enjoyed our yard in Bushwick.](/static/img/sally/sally-in-bushwick-jun-13-2009/sally-in-bushwick-jun-13-2009-63.jpg "Sally enjoyed our yard in Bushwick.")
 
