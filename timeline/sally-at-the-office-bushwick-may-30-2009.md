@@ -6,7 +6,7 @@ excerpt: She had a really good attitude.
 image: sally/sally-in-bushwick-may-30-2009/sally-in-bushwick-may-30-2009-75.jpg
 tags:
   - post 
-  - Cats 
+  - cats 
   - Sally
   - Brooklyn
   - Bushwick
@@ -16,11 +16,11 @@ tags:
 
 <div id="viewport">
 
-![Sally spent the day with me at the office.](/static/img/sally/sally-in-bushwick-may-30-2009/sally-in-bushwick-may-30-2009-55.jpg "MSally spent the day with me at the office.")
+![Sally spent the day with me at the office.](/static/img/sally/sally-in-bushwick-may-30-2009/sally-in-bushwick-may-30-2009-55.jpg "Sally spent the day with me at the office.")
 
 ![Sally spent the day with me at the office.](/static/img/sally/sally-in-bushwick-may-30-2009/sally-in-bushwick-may-30-2009-56.jpg "Sally spent the day with me at the office.")
 
-![Sally spent the day with me at the office.](/static/img/sally/sally-in-bushwick-may-30-2009/sally-in-bushwick-may-30-2009-57.jpg "MSally spent the day with me at the office.")
+![Sally spent the day with me at the office.](/static/img/sally/sally-in-bushwick-may-30-2009/sally-in-bushwick-may-30-2009-57.jpg "Sally spent the day with me at the office.")
 
 ![Sally spent the day with me at the office.](/static/img/sally/sally-in-bushwick-may-30-2009/sally-in-bushwick-may-30-2009-58.jpg "Sally spent the day with me at the office.")
 
@@ -28,7 +28,7 @@ tags:
 
 ![Sally spent the day with me at the office.](/static/img/sally/sally-in-bushwick-may-30-2009/sally-in-bushwick-may-30-2009-60.jpg "Sally spent the day with me at the office.")
 
-![Sally spent the day with me at the office.](/static/img/sally/sally-in-bushwick-may-30-2009/sally-in-bushwick-may-30-2009-61.jpg "MSally spent the day with me at the office.")
+![Sally spent the day with me at the office.](/static/img/sally/sally-in-bushwick-may-30-2009/sally-in-bushwick-may-30-2009-61.jpg "Sally spent the day with me at the office.")
 
 ![Sally spent the day with me at the office.](/static/img/sally/sally-in-bushwick-may-30-2009/sally-in-bushwick-may-30-2009-63.jpg "Sally spent the day with me at the office.")
 
