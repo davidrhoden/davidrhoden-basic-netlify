@@ -2,7 +2,7 @@
 title: Stacks played the Circle Bar.
 date: 2005-07-08T11:00:00.000Z
 summary: Thanks, anonymous photographer.
-excerpt:  Thanks, anonymous photographer.
+excerpt: Thanks, anonymous photographer.
 image: rock/stacks-circle-bar-jul-8-2005/stacks-circle-bar-jul-8-2005-185.jpg
 tags:
   - post 
