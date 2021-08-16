@@ -26,7 +26,6 @@ tags:
 
 ![Sally sitting in the roses. 181 Irving Avenue.](/static/img/sally/sally-in-roses-may-29-2009/sally-in-roses-may-29-2009-7.jpg "Sally sitting in the roses. 181 Irving Avenue.")
 
-
 ![Sally sitting in the roses. 181 Irving Avenue.](/static/img/sally/sally-in-roses-may-29-2009/sally-in-roses-may-29-2009-9.jpg "Sally sitting in the roses. 181 Irving Avenue.")
 
 </div>
