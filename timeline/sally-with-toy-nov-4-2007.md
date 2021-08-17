@@ -3,7 +3,7 @@ title: Sally got a toy.
 date: 2007-09-24T15:00:00.000Z
 summary: It was fun to watch her concentrate.
 excerpt: It was fun to watch her concentrate.
-image: sally/sally-with-toy-2007/sally-with-toy-2007-cute-sitter.jpg
+image: sally/sally-with-toy-nov-4-2007/sally-with-toy-nov-4-2007-cute-sitter.jpg
 tags:
   - post 
   - cats 
@@ -17,13 +17,13 @@ It was fun to watch her concentrate.
 
 <div id="viewport">
 
-![Sally got on my shoulder.](/static/img/sally/sally-with-toy-2007/sally-with-toy-2007-alert.jpg "Sally got on my shoulder.")
+![Sally got on my shoulder.](/static/img/sally/sally-with-toy-nov-4-2007/sally-with-toy-nov-4-2007-alert.jpg "Sally got on my shoulder.")
 
-![Sally got on my shoulder.](/static/img/sally/sally-with-toy-2007/sally-with-toy-2007-cute-sitter.jpg "Sally got on my shoulder.")
+![Sally got on my shoulder.](/static/img/sally/sally-with-toy-nov-4-2007/sally-with-toy-nov-4-2007-cute-sitter.jpg "Sally got on my shoulder.")
 
-![Sally got on my shoulder.](/static/img/sally/sally-with-toy-2007/sally-with-toy-2007-smart.jpg "Sally got on my shoulder.")
+![Sally got on my shoulder.](/static/img/sally/sally-with-toy-nov-4-2007/sally-with-toy-nov-4-2007-smart.jpg "Sally got on my shoulder.")
 
-![Sally got on my shoulder.](/static/img/sally/sally-with-toy-2007/sally-with-toy-2007-on-watch.jpg "Sally got on my shoulder.")
+![Sally got on my shoulder.](/static/img/sally/sally-with-toy-nov-4-2007/sally-with-toy-nov-4-2007-on-watch.jpg "Sally got on my shoulder.")
 
 
 
