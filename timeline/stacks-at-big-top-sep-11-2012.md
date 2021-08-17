@@ -3,7 +3,7 @@ title: The Stacks played at the Big Top.
 date: 2012-09-11T22:00:00.000Z
 summary: We went on real late if I recall.
 excerpt:  We went on real late if I recall.
-image: sally/stacks-big-top-sep-11-2012/stacks-big-top-sep-11-2012-54.jpg
+image: rock/stacks-big-top-sep-11-2012/flyer120911.png
 tags:
   - post 
   - cats 
@@ -20,7 +20,7 @@ tags:
 
 ![The Stacks played at The Big Top.](/static/img/rock/stacks-big-top-sep-11-2012/stacksbigtop120911.jpg "The Stacks played at The Big Top.")
 
-![The Stacks played at The Big Top.](/static/img/rock/stacks-big-top-sep-11-2012/fllyer120911.png "The Stacks played at The Big Top.")
+![The Stacks played at The Big Top.](/static/img/rock/stacks-big-top-sep-11-2012/flyer120911.png "The Stacks played at The Big Top.")
 
 </div>
 <div class="flex row-reverse space-between">
