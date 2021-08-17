@@ -4,21 +4,18 @@ date: 2013-07-27T16:00:00.000Z
 summary: He lived downstairs, and his name was Angus.
 excerpt:  He lived downstairs, and his name was Angus.
 category: sally
-image: sally/sally-n-friend-orchid-jul-17-2013/sally-n-friend-orchid-jul-27-2013-01.jpg
+image: sally/sally-n-friend-orchid-jul-17-2013/sally-n-friend-orchid-jul-27-2013-06.jpg
 tags:
   - post 
   - cats 
   - Sally
-  - NYC
-  - Brooklyn
-  - Bushwick
-  - 181 Irving Avenue
+  - Angus
+  - Orchid Street
+  - New Orleans
 
 ---
 
 <div id="viewport">
-
-![Sally made friends with a three-legged cat neighbor.](/static/img/sally/sally-n-friend-orchid-jul-17-2013/sally-n-friend-orchid-jul-27-2013-01.jpg "Sally made friends with a three-legged cat neighbor.")
 
 ![Sally made friends with a three-legged cat neighbor.](/static/img/sally/sally-n-friend-orchid-jul-17-2013/sally-n-friend-orchid-jul-27-2013-06.jpg "Sally made friends with a three-legged cat neighbor.")
 
@@ -29,6 +26,8 @@ tags:
 ![Sally made friends with a three-legged cat neighbor.](/static/img/sally/sally-n-friend-orchid-jul-17-2013/sally-n-friend-orchid-jul-27-2013-11.jpg "Sally made friends with a three-legged cat neighbor.")
 
 ![Sally made friends with a three-legged cat neighbor.](/static/img/sally/sally-n-friend-orchid-jul-17-2013/sally-n-friend-orchid-jul-27-2013-12.jpg "Sally made friends with a three-legged cat neighbor.")
+
+![Sally made friends with a three-legged cat neighbor.](/static/img/sally/sally-n-friend-orchid-jul-17-2013/sally-n-friend-orchid-jul-27-2013-01.jpg "Sally made friends with a three-legged cat neighbor.")
 
 ![Sally made friends with a three-legged cat neighbor.](/static/img/sally/sally-n-friend-orchid-jul-17-2013/sally-n-friend-orchid-jul-27-2013-15.jpg "Sally made friends with a three-legged cat neighbor.")
 
