@@ -4,7 +4,7 @@ date: 2021-06-19T20:00:00.000Z
 summary: It would be a great story if they had happened in the same place.
 excerpt: It would be a great story if they had happened in the same place.
 category: timeline
-image: timeline/gina-kitten-jun-19-2021.jpg
+image: gina/gina-kitten-jun-19-2021.jpg
 tags:
   - post 
   - weddings
@@ -25,4 +25,4 @@ We took Tom out for drinks at Markey's to celebrate the long-awaited end of his 
 
 Meanwhile, in Kentucky, Gina found a calico kitten while turning her minivan around in the road. We think a good home has been found.
 
-![Gina found a kitten in Kentucky.](/static/img/timeline/gina-kitten-jun-19-2021.jpg "Gina found a kitten in Kentucky.")
+![Gina found a kitten in Kentucky.](/static/img/gina/gina-kitten-jun-19-2021.jpg "Gina found a kitten in Kentucky.")
