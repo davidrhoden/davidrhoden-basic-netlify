@@ -19,6 +19,6 @@ Don't remember anything in particular about this gig but it looks like I was hav
 
 Photos by <a href="https://ambersexton.com" target="_blank">Amber Sexton</a>.
 
-![Dave Rhoden drumming at Lakeside Lounge, February 26, 2009.](/static/img/rock/jandtwp-lakeside-feb-26-2009/davedrummingatlakeside_sq.jpg "Dave Rhoden drumming at Lakeside Lounge, February 26, 2009.")
+![Dave Rhoden drumming at Lakeside Lounge, February 26, 2009.](/static/img/rock/jandtwp-lakeside-feb-26-2009/davedrummingatlakeside_sm.jpg "Dave Rhoden drumming at Lakeside Lounge, February 26, 2009.")
 
 ![Dave Rhoden drumming at Lakeside Lounge, February 26, 2009.](/static/img/rock/jandtwp-lakeside-feb-26-2009/david-drumming-at-lakeside-3-feb-26-2009.jpg "Dave Rhoden drumming at Lakeside Lounge, February 26, 2009.")
