@@ -1,5 +1,5 @@
 ---
-title: "Dreamed: I went to Mount Rushmore."
+title: "I dreamed I went to Mount Rushmore."
 date: 2010-05-27T23:00:00.000Z
 summary: There were five heads.
 excerpt: There were five heads.
