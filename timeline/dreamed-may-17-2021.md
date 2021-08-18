@@ -1,5 +1,5 @@
 ---
-title: "Dreamed: a religious group took over my home to make a worship show."
+title: "I dreamed a religious group took over my home to make a worship show."
 date: 2021-05-17T07:00:00.000Z
 summary: I also punched some people.
 excerpt: I also punched some people.
