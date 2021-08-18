@@ -15,7 +15,6 @@
       <div class="photo-timeline-link">
         {% if post.data.image %}
             <a class="tiny-thumbnail" href="{{ post.url }}">
-              {# {% myImage post.data.image,"thumbnail", post.data.title, [64], [64] %} #}
               <img onerror="this.style.display='none'" class="thumbnail" src="/static/img/{{ post.data.image }}?nf_resize=fit&w=64" alt="{{post.data.title}}">
             </a>
         {% else %}
@@ -25,8 +24,7 @@
         <div class="hidden">
             <div class="thumbnail-container">
               {% if post.data.image %}
-              {# {% myImage post.data.image,"thumbnail", post.data.title, [160], [160] %} #}
-              <img onerror="this.style.display='none'" class="thumbnail" src="/static/img/{{ post.data.image }}?nf_resize=fit&w=160" alt="{{post.data.title}}">
+               <a href="{{ post.url }}"><img onerror="this.style.display='none'" class="thumbnail" src="/static/img/{{ post.data.image }}?nf_resize=fit&w=160" alt="{{post.data.title}}"></a>
               {% endif %} 
             </div>
             <div class="summary">
@@ -34,7 +32,7 @@
                 <small>{{ post.date | readableDate }}</small>
               </time><br>
               {% if post.data.title %}
-                <h3>{{ post.data.title }}</h3>
+                 <a href="{{ post.url }}"><h3>{{ post.data.title }}</h3></a>
               {% else %}
                 Untitled
               {% endif %} 
