@@ -23,9 +23,9 @@ I can tell from the pictures we played _somewhere_.
 
 ![Jimmy and The Wolfpack played a club in Manhattan somewhere.](/static/img/rock/jandtwp-nyc-maybe-uptown-jun-22-2006/jandtwp-chan-shiny-jun-22-2006.jpg "Jimmy and The Wolfpack played a club in Manhattan somewhere.")
 
-![Jimmy and The Wolfpack played a club in Manhattan somewhere.](/static/img/rock/jandtwp-nyc-maybe-uptown-jun-22-2006/jandtwp-chan-shine-jun-22-200.jpg "Jimmy and The Wolfpack played a club in Manhattan somewhere.")
+![Jimmy and The Wolfpack played a club in Manhattan somewhere.](/static/img/rock/jandtwp-nyc-maybe-uptown-jun-22-2006/jandtwp-chan-shine-jun-22-2005.jpg "Jimmy and The Wolfpack played a club in Manhattan somewhere.")
 
-![Jimmy and The Wolfpack played a club in Manhattan somewhere.](/static/img/rock/jandtwp-nyc-maybe-uptown-jun-22-2006/jandtwp-casey-blowing-jun-22-200.jpg "Jimmy and The Wolfpack played a club in Manhattan somewhere.")
+![Jimmy and The Wolfpack played a club in Manhattan somewhere.](/static/img/rock/jandtwp-nyc-maybe-uptown-jun-22-2006/jandtwp-casey-blowing-jun-22-2005.jpg "Jimmy and The Wolfpack played a club in Manhattan somewhere.")
 
 </div>
 <div class="flex row-reverse space-between">
