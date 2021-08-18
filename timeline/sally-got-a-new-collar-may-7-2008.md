@@ -10,10 +10,13 @@ tags:
   - Sally
   - Brooklyn
   - Bushwick
+  - Amber Sexton
 
 ---
 
 She looked beautiful and didn't rip my hands off when I put it on her.
+
+Photos by Amber Sexton. Taken at 181 Irving Avenue in Bushwick.
 
 <div id="viewport">
 
