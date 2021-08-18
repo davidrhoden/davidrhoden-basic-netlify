@@ -53,9 +53,6 @@ $(document).ready(function() {
   var images = $('#viewport img').get();
   var totalImages = images.length;
   var firstImage = $('#viewport img:first');
-  console.log("firstImage: ", firstImage);
-  console.log("currentImageindex: ", currentImage);
-  console.log("images[currentImage]: ",images[currentImage]);
   var altText = $(firstImage).attr("alt");
   console.log(altText);
   firstImage.addClass("fadedIn");
@@ -76,18 +73,14 @@ $(document).ready(function() {
 
   $('#buttonPrevious').on('click', function(){
     $(images[currentImage]).stop().removeClass('fadedIn');
-    console.log($(images[currentImage]));
     decreaseImage();
-      console.log(currentImage);
     $(images[currentImage]).stop().addClass('fadedIn');
     altText = $(images[currentImage]).attr("alt");
     $('#caption').html(altText);
   }); 
   $('#buttonNext').on('click', function(){
     $(images[currentImage]).stop().removeClass('fadedIn');
-    console.log($(images[currentImage]));
     increaseImage();
-      console.log(currentImage);
     $(images[currentImage]).stop().addClass('fadedIn');
     altText = $(images[currentImage]).attr("alt");
     $('#caption').html(altText);
