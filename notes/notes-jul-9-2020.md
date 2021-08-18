@@ -1,7 +1,7 @@
 ---
 title: on making a living from other peoples' difficulties 
 date: 2020-07-09T10:00:00.000Z
-image: ./static/img/paintings/lighter-jul-19-2020.jpg
+image: paintings/lighter-jul-19-2020.jpg
 tags:
   - note 
   - Internet Explorer 6
