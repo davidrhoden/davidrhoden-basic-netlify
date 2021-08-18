@@ -1,6 +1,7 @@
 ---
 title: Dirty Knives played Mermaid Lounge with Immortal Lee County Killers.
 date: 2001-11-02T08:00:00.000Z
+image: rock/dirty-knives-dixie-taverne.jpg
 tags:
   - post 
   - rock
@@ -8,6 +9,7 @@ tags:
   - Mermaid Lounge
   - Dirty Knives
   - Immortal Lee County Killers
+  - chet Weise
   - "J.R.R. Tokin"
 
 ---

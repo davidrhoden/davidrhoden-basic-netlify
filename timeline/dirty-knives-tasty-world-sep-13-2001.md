@@ -1,6 +1,9 @@
 ---
 title: Dirty Knives played Tasty World in Athens.
 date: 2001-09-13T22:00:00.000Z
+summary: I'll tell the story about the ice machine later.
+excerpt: I'll tell the story about the ice machine later.
+image: rock/dirty-knives-dixie-taverne.jpg
 tags:
   - post 
   - rock
