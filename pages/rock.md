@@ -75,6 +75,8 @@ Slade Nash auditioned for The Stacks with a stand-up kit that included a snow sh
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2852397807/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://davidrhoden.bandcamp.com/album/all-night">All Night by All-Night Movers</a></iframe>
 
+<a href="/tags/all-night-movers/">All posts tagged "All-Night Movers"</a>
+
 ---
 
 ## The Dave Rhoden Band
@@ -176,12 +178,16 @@ Recently found more photos, will post soon.
   </div>
 </div>
 
+<a href="/tags/sleepy-heads/">All posts tagged "Sleepy Heads"</a>
+
 ---
 
 ## Dirty Knives
 ![Dirty Knives Greatest Hits, Vol. 2 LIVE!](/static/img/rock/dirty-knives-album-cover.jpg)
 
 Lots of recordings, very disorganized. Coming soon or at least someday.
+
+<a href="/tags/dirty-knives/">All posts tagged "Dirty Knives"</a>
 
 ---
 
