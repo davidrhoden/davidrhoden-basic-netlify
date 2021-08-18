@@ -22,7 +22,6 @@
 
 .hidden {
 	display: none;
-	display: flex;
 }
 
 .float-left {
@@ -501,8 +500,48 @@ p.postdate h3 {
     font-size: .75em;
 }
 
+.text-timeline-post-year {
+    display: inline-block;
+    padding: 0;
+    width: 100%;
+    font-size: .75em;
+}
+
+.text-timeline-link a {
+	color:  var(--black);
+}
+
 #timeline-detail {
 	display: none;
+}
+
+.tabs {
+	height:  20em;
+	position: relative;
+}
+
+.tabs ul {
+	display: flex;
+}
+
+tabs ul li {
+	border:  1px solid black;
+	border-bottom: 1px solid white;
+	border-radius:  .5em 0 0 .5em;
+	display: inline-block;
+}
+
+.tab {
+	background: whitesmoke;
+	position: absolute;
+	top: 2em;
+	left: 0;
+	display: none;
+}
+
+.tab.active {
+	display:  block;
+	z-index: 2;
 }
 
 .animation-demo {
