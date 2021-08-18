@@ -27,6 +27,7 @@ function showHidden() {
 
 $(document).ready(function(){
   $( ".photo-timeline" ).on( "mouseover", ".photo-timeline-link", showHidden );
+  $( ".text-timeline" ).on( "mouseover", ".text-timeline-link", showHidden );
 });
 
 

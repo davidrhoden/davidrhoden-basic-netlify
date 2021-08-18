@@ -46,7 +46,18 @@ section: timeline
 
 </div> {# closes div "container" that was started in the base layout. #}
 <div class="container-wide">
-  {% include "components/photo-timeline.njk" %}
+  <div class="tabs">
+    <ul>
+      <li>view as images</li>
+      <li>view as text</li>
+    </ul>
+    <div class="tab active" id="tab-1">
+      {% include "components/text-timeline.njk" %}
+    </div>
+    <div class="tab" id="tab-2">
+      {% include "components/photo-timeline.njk" %}
+    </div>
+  </div>
 </div>
 
 <script>

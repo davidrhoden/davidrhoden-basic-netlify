@@ -1,6 +1,6 @@
 ---
 title: MAXIMVS! played the Circle Bar.
-date: 2006-07-11T11:00:00.000Z
+date: 2004-07-11T11:00:00.000Z
 summary: Not sure who took all these.
 excerpt:  Not sure who took all these.
 image: /rock/maximvs-circle-bar-jul-11-2006/maximvs-allthree-jul-11-2006.jpg
@@ -12,8 +12,11 @@ tags:
   - Trey Ledford
   - Jeff Pounds
   - Eli 
+  - date approximate
 
 ---
+
+I know the dates on these are wrong. Working on figuring out the right one.
 
 <div id="viewport">
 
