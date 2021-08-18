@@ -27,6 +27,8 @@ David Rhoden with The Stacks (Andrew Donaldson, Steve Walkup, Tom Beeman) at Gas
 
 The Stacks started around 2000 to play two shows and just never managed to break up. I think there have been fifteen people in the band, with me as the only constant.
 
+<a href="/tags/the-stacks/">All posts tagged "The Stacks"</a>
+
 ---
 
 ## Mountain Shoutin'
@@ -90,6 +92,8 @@ A really terrific band that started because I wanted to do some of Chan's song b
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3590695495/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://jimmyandthewolfpack.bandcamp.com/album/jimmy-and-the-wolfpack">Jimmy and The Wolfpack by Jimmy And The Wolfpack</a></iframe>
 
+<a href="/tags/jimmy-and-the-wolfpack/">All posts tagged "Jimmy and The Wolfpack"</a>
+
 ---
 
 ## MAXIMVS!
@@ -99,6 +103,8 @@ A really terrific band that started because I wanted to do some of Chan's song b
 Short-lived band that actually toured around some. The spectacle was the thing with this trio, but there's a recording somewhere. We're on a DVD somebody made called Blackbeard's Lost Weekend (part of a live show at The Cave in Chapel Hill, N.C.).
 
 Recently found more photos, will post soon.
+
+<a href="/tags/maximvs/">All posts tagged "MAXIMVS"</a>
 
 ---
 
@@ -213,6 +219,8 @@ I think I played five shows with this band. The first one, according to my day p
 
 Pictured: David Rhoden, Mike Hueston, Dave DiBiasio, Yod Crewsy
 
+<a href="/tags/dark-marbles/">All posts tagged "Dark Marbles"</a>
+
 ---
 
 ## The Demands
@@ -237,6 +245,8 @@ ___
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2864899534/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://hiballs.bandcamp.com/album/continental">Continental by The Hi-Balls</a></iframe>
 
+<a href="/tags/hi-balls/">All posts tagged "Hi-Balls"</a>
+
 ---
 
 ## Snake Oil
@@ -259,6 +269,8 @@ Others who were in the band with me have taken umbrage at my telling of the tale
 
 I don't know what happened to Rick's version.
 
+<a href="/tags/snake-oil/">All posts tagged "Snake Oil"</a>
+
 ---
 
 ## The Grudniks/The Railing Stains
@@ -273,7 +285,9 @@ ___
 ![Sam from Everything tool](/static/img/rock/everything-tool-sam.jpg)
 ![Everything tool flyer](/static/img/rock/everything-tool-with-37-targets.jpg)
 
-First "real" college band. I thought we were pretty good though I'm embarrassed by the lyrics now. We made a cassette called "Mystic Crystal Revelation" but I don't have a copy. we toured as far as memphis and Huntsville, Alabama. 
+First "real" college band. I thought we were pretty good though I'm embarrassed by the lyrics now. We made a cassette called "Mystic Crystal Revelation" but I don't have a copy. we toured as far west as Memphis and as far south as Huntsville, Alabama. 
+
+<a href="/tags/everything-tool/">All posts tagged "Everything Tool"</a>
 
 ---
 
