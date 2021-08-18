@@ -1,10 +1,10 @@
 ---
 title: The Innuendos played Nightingale's.
 date: 1999-06-11T11:00:00.000Z
-summary: A gig with a couple of favorite NYC bands
-excerpt: A gig with a couple of favorite NYC bands
+summary: The Innuendos played a gig with a couple of favorite NYC bands.
+excerpt: The Innuendos played a gig with a couple of favorite NYC bands.
 category: rock
-image: timeline/chimpcard.jpg
+image: timeline/innuendos-chimpcard.jpg
 tags:
   - post 
   - rock
@@ -21,7 +21,7 @@ tags:
 
 ---
 
-![flyer for Innuendos show with Chimps and Holmes](/static/img/rock/chimpcard.jpg "flyer for Innuendos show with Chimps and Holmes")
+![flyer for Innuendos show with Chimps and Holmes](/static/img/rock/innuendos-chimpcard.jpg "flyer for Innuendos show with Chimps and Holmes")
 
 Nobody got my little joke of illustrating "Innuendos" with Indians (cause how do you illustrate "innuendos"?) but that's fine, it wasn't a good joke. It wasn't a great name, either.
 
