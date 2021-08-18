@@ -1,6 +1,7 @@
 ---
 title: Dirty Knives played Checkpoint Charlie's
 date: 2001-04-21T22:00:00.000Z
+image: rock/dirty-knives-dixie-taverne.jpg
 tags:
   - post 
   - rock
