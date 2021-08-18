@@ -3,7 +3,7 @@ title: Rock Music
 date: 2020-04-14T00:00:00.000Z
 permalink: /rock/index.html
 bodyClass: "rock"
-image: /static/img/rock/stacksatgasagasa.jpg
+image: /static/img/rock/stacks-at-gasa-gasa-aug-11-2018.jpg
 excerpt: "A brief history of bands David Rhoden has played in, including the Stacks, All-Night Movers, Jimmy and The Wolfpack, and The Hi-Balls."
 eleventyNavigation:
   key: Rock Music
@@ -13,7 +13,7 @@ eleventyNavigation:
 
 ## The Stacks
 
-![David Rhoden with The Stacks (Andrew Donaldson, Steve Walkup, Tom Beeman) at Gasa Gasa, New Orleans, 2018](/static/img/rock/stacksatgasagasa.jpg)
+![David Rhoden with The Stacks (Andrew Donaldson, Steve Walkup, Tom Beeman) at Gasa Gasa, New Orleans, 2018](/static/img/rock/stacks-at-gasa-gasa-aug-11-2018.jpg "David Rhoden with The Stacks (Andrew Donaldson, Steve Walkup, Tom Beeman) at Gasa Gasa, New Orleans, 2018")
 
 David Rhoden with The Stacks (Andrew Donaldson, Steve Walkup, Tom Beeman) at Gasa Gasa, New Orleans, 2018
 
@@ -49,7 +49,7 @@ Fun little band I was briefly the drummer of. We rehearsed a bunch but I think w
 
 ## Headless Hookers
 
-![Headless Hookers at Passout Records](/static/img/rock/hehoaugust2007.jpg)
+![Headless Hookers at Passout Records](/static/img/rock/headless-hookers-aug-2007.jpg)
 
 We did one terrific recording with Daniel Rey (Ramones producer, member of The Martinets currently and masters Of Reality formerly) that I will put up here soon. I was the drummer. Daniel made the cymbals sound great, he could probably find work just doing that. Members went on to be in Luxurious Faux Furs, Chicken Snake, and The Nato Coles Band.
 
@@ -80,7 +80,7 @@ No recordings exist that I know of. Would love to know the date of that show, bu
 
 ## Jimmy and The Wolfpack
 
-![Jimmy and The Wolfpack album cover](/static/img/rock/jandtwpcover.jpg)
+![Jimmy and The Wolfpack album cover](/static/img/rock/jandtwp-cd-cover.jpg)
 
 A really terrific band that started because I wanted to do some of Chan's song but I felt they were too ridiculous even for The Stacks. So it was basically the same people except I switched to drums. The history of it is so weird because we started it in New Orleans, broke up because of Katrina, then three of four members wound up in the New York metro region so we became a New York City band. Dave, Chan, Doug, and Al or Trey, depending on location.
 
@@ -101,6 +101,70 @@ Recently found more photos, will post soon.
 ## Sleepy Heads
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2178980125/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://sleepy-heads.bandcamp.com/album/sleepy-heads">Sleepy Heads by Sleepy Heads</a></iframe>
+
+<div id="viewport">
+
+![The Sleepy Heads played the Circle Bar.](/static/img/rock/sleepyheads/sleepyheads-circle-bar.jpg "The Sleepy Heads played the Circle Bar.")
+
+![The Sleepy Heads played the Circle Bar.](/static/img/rock/sleepyheads/sleepyheads-circle-bar-1.jpg "The Sleepy Heads played the Circle Bar.")
+
+![The Sleepy Heads played the Circle Bar.](/static/img/rock/sleepyheads/sleepyheads-circle-bar-2.jpg "The Sleepy Heads played the Circle Bar.")
+
+![The Sleepy Heads played the Circle Bar.](/static/img/rock/sleepyheads/sleepyheads-circle-bar-3.jpg "The Sleepy Heads played the Circle Bar.")
+
+![The Sleepy Heads played the Circle Bar.](/static/img/rock/sleepyheads/sleepyheads-circle-bar-4.jpg "The Sleepy Heads played the Circle Bar.")
+
+![The Sleepy Heads played the Circle Bar.](/static/img/rock/sleepyheads/sleepyheads-circle-bar-5.jpg "The Sleepy Heads played the Circle Bar.")
+
+![The Sleepy Heads played the Circle Bar.](/static/img/rock/sleepyheads/sleepyheads-circle-bar-6.jpg "The Sleepy Heads played the Circle Bar.")
+
+![The Sleepy Heads played the Circle Bar.](/static/img/rock/sleepyheads/sleepyheads-circle-bar-7.jpg "The Sleepy Heads played the Circle Bar.")
+
+![The Sleepy Heads played the Circle Bar.](/static/img/rock/sleepyheads/sleepyheads-circle-bar-8jpg "The Sleepy Heads played the Circle Bar.")
+
+![The Sleepy Heads played the Circle Bar.](/static/img/rock/sleepyheads/sleepyheads-circle-bar-9.jpg "The Sleepy Heads played the Circle Bar.")
+
+![The Sleepy Heads played the Circle Bar.](/static/img/rock/sleepyheads/sleepyheads-circle-bar-10.jpg "The Sleepy Heads played the Circle Bar.")
+
+![The Sleepy Heads played the Circle Bar.](/static/img/rock/sleepyheads/sleepyheads-circle-bar-11.jpg "The Sleepy Heads played the Circle Bar.")
+
+![The Sleepy Heads played the Circle Bar.](/static/img/rock/sleepyheads/sleepyheads-circle-bar-12.jpg "The Sleepy Heads played the Circle Bar.")
+
+![The Sleepy Heads played the Circle Bar.](/static/img/rock/sleepyheads/sleepyheads-circle-bar-13.jpg "The Sleepy Heads played the Circle Bar.")
+
+![The Sleepy Heads played the Circle Bar.](/static/img/rock/sleepyheads/sleepyheads-circle-bar-14.jpg "The Sleepy Heads played the Circle Bar.")
+
+![The Sleepy Heads played the Circle Bar.](/static/img/rock/sleepyheads/sleepyheads-circle-bar-15.jpg "The Sleepy Heads played the Circle Bar.")
+
+![The Sleepy Heads played the Circle Bar.](/static/img/rock/sleepyheads/sleepyheads-circle-bar-16.jpg "The Sleepy Heads played the Circle Bar.")
+
+![The Sleepy Heads played the Circle Bar.](/static/img/rock/sleepyheads/sleepyheads-circle-bar-17.jpg "The Sleepy Heads played the Circle Bar.")
+
+![The Sleepy Heads played the Circle Bar.](/static/img/rock/sleepyheads/sleepyheads-circle-bar-18.jpg "The Sleepy Heads played the Circle Bar.")
+
+![The Sleepy Heads played the Circle Bar.](/static/img/rock/sleepyheads/sleepyheads-circle-bar-19.jpg "The Sleepy Heads played the Circle Bar.")
+
+![The Sleepy Heads played the Circle Bar.](/static/img/rock/sleepyheads/sleepyheads-circle-bar-20.jpg "The Sleepy Heads played the Circle Bar.")
+
+![The Sleepy Heads played the Circle Bar.](/static/img/rock/sleepyheads/sleepyheads-circle-bar-21.jpg "The Sleepy Heads played the Circle Bar.")
+
+![The Sleepy Heads played the Circle Bar.](/static/img/rock/sleepyheads/sleepyheads-circle-bar-22.jpg "The Sleepy Heads played the Circle Bar.")
+
+![The Sleepy Heads played the Circle Bar.](/static/img/rock/sleepyheads/sleepyheads-circle-bar-23.jpg "The Sleepy Heads played the Circle Bar.")
+
+![The Sleepy Heads played the Circle Bar.](/static/img/rock/sleepyheads/sleepyheads-dancers.jpg "The Sleepy Heads played the Circle Bar.")
+
+![The Sleepy Heads played the Circle Bar.](/static/img/rock/sleepyheads/sleepyheads-sarah.jpg "The Sleepy Heads played the Circle Bar.")
+
+
+</div>
+<div class="flex row-reverse space-between">
+  <div id="caption"></div>
+  <div class="prevnext-container">
+    <button id="buttonPrevious">&#10094;</button>
+    <button id="buttonNext">&#10095;</button>
+  </div>
+</div>
 
 ---
 
@@ -202,7 +266,7 @@ ___
 
 ## Everything Tool
 
-![Sam from Everything tool](/static/img/rock/sam-everything-tool.jpg)
+![Sam from Everything tool](/static/img/rock/everything-tool-sam.jpg)
 ![Everything tool flyer](/static/img/rock/everything-tool-with-37-targets.jpg)
 
 First "real" college band. I thought we were pretty good though I'm embarrassed by the lyrics now. We made a cassette called "Mystic Crystal Revelation" but I don't have a copy. we toured as far as memphis and Huntsville, Alabama. 
@@ -217,7 +281,7 @@ Bsnd that played one show, at Williams College, in Williamstown, Massachusetts, 
 
 ## Dial A Miracle
 
-![Sam from Everything tool](/static/img/rock/dial-a-miracle.jpeg)
+![Sam from Everything tool](/static/img/rock/dial-a-miracle-band-photo.jpg)
 Last year of high school. We released one 7" that I apparently don't have a copy of or even a picture of. It's very embarrassing so I know someone will force a copy on me.
 
 ---
