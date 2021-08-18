@@ -4,7 +4,7 @@ date: 2006-06-09T20:00:00.000Z
 summary: This was a nice place to play in New York.
 excerpt: This was a nice place to play in New York.
 category: rock
-image: timeline/315-tricou-apr-19-2018.jpg
+image: /rock/jandtwp-ottos-jun-9-2006/jntwponstageatotto-ottos-jun-9-2006.jpg
 tags:
   - post 
   - rock
