@@ -28,6 +28,7 @@ tags:
 
 ![Sally slept in a sunbeam.](/static/img/sally/sally-in-sunbeam-austin-mar-27-2015/sally-in-sunbeam-austin-mar-27-2015-6.jpg "Sally slept in a sunbeam.")
 
+![Sally slept in a sunbeam.](/static/img/sally/sally-in-sunbeam-austin-mar-27-2015/sally-in-sunbeam-austin-mar-27-2015-7.jpg "Sally slept in a sunbeam.")
 
 </div>
 <div class="flex row-reverse space-between">
