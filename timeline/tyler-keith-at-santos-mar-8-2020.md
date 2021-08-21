@@ -25,4 +25,4 @@ After this show everything got locked down.
 
 ![](/static/img/timeline/tyler-keith-by-chris-g-mar-8-2020.jpg)
 
-Photo of Tyler Keith by Christime Gladney, swiped from Facebook.
+Photo of Tyler Keith by Christie Gladney, swiped from Facebook.
