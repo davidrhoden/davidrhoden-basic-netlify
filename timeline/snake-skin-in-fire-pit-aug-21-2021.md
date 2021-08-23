@@ -1,0 +1,34 @@
+---
+title: I found a shed snake skin in my fire pit.
+date: 2021-08-21T16:00:00.000Z
+summary: Which probably means there's a snake in my fire pit.
+excerpt: Which probably means there's a snake in my fire pit.
+image: timeline/shed-ankeskin-aug-21-2021.jpg
+tags:
+  - post 
+  - snakes
+  - New Orleans
+  - 315 Tricou Street
+
+---
+
+I found a shed snake skin in my fire pit. Which probably means there's a snake in my fire pit.
+
+<div id="viewport">
+
+![I found a shed snake skin in my fire pit.](/static/img/timeline/shed-ankeskin-aug-21-2021.jpg "I found a shed snake skin in my fire pit.")
+
+![I found a shed snake skin in my fire pit.](/static/img/timeline/shed-ankeskin-2-aug-21-2021.jpg "I found a shed snake skin in my fire pit.")
+
+![I found a shed snake skin in my fire pit.](/static/img/timeline/shed-ankeskin-3-aug-21-2021.jpg "I found a shed snake skin in my fire pit.")
+
+![I found a shed snake skin in my fire pit.](/static/img/timeline/shed-ankeskin-4-aug-21-2021.jpg "I found a shed snake skin in my fire pit.")
+
+</div>
+<div class="flex row-reverse space-between">
+  <div id="caption"></div>
+  <div class="prevnext-container">
+    <button id="buttonPrevious">&#10094;</button>
+    <button id="buttonNext">&#10095;</button>
+  </div>
+</div>
