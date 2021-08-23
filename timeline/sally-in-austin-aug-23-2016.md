@@ -1,6 +1,6 @@
 ---
 title: Sally stayed in the air conditioning.
-date: 2021-08-21T16:00:00.000Z
+date: 2016-08-23T16:00:00.000Z
 summary: Our house really was comfortable, we stayed in it too much.
 excerpt: Our house really was comfortable, we stayed in it too much.
 image: sally/sally-curls-up-aug-23-2016.jpg
