@@ -1,8 +1,8 @@
 ---
 title: All-Night Movers played at Jeff pounds' house.
 date: 2002-07-27T20:00:00.000Z
-summary: Jeff probably made crawfish étoufee.
-excerpt: Jeff probably made crawfish étoufee.
+summary: Jeff probably made crawfish etoufée.
+excerpt: Jeff probably made crawfish etoufée.
 image: /rock/all-night-movers/anm-jul-27-2002/anmmatador14.jpg
 tags:
   - post 
@@ -14,7 +14,7 @@ tags:
 
 ---
 
-Jeff Pounds put on a couple of shows for All-Night Movers at his house. He always made crawfish étoufee and let us feed his red ear turtles.
+Jeff Pounds put on a couple of shows for All-Night Movers at his house. He made crawfish etoufée and let us feed his red ear turtles.
 
 <div id="viewport">
 
