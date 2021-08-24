@@ -264,7 +264,7 @@ One of my favorite self-penned lyrics, "Breathe Fire", is on this recording. "Co
 Here's something i wrote about us twenty years ago (circa 2000):
 
 Snake Oil was a band ahead of its time. Only now is their overheated metallic blues finding the audience it deserved.
-The band began when I, Dave Rhoden, got kicked out of my own band Everything Tool, because I wanted to do more stupid material. The surviving members suggested I hook up with KGB (not the Jefferson Airship refugees or the other "supergroup" also using that name), three drunkards who frequently opened shows for us. They played a lot of 'double covers' - songs the Replacements covered, basically. Also "Dragon Attack." But they had a song called "Black Label Light", and Everything Tool had one called "Black Label", so we had something in common.
+The band began when I, Dave Rhoden, got kicked out of my own band <a href="/tags/everything-tool/">Everything Tool</a>, because I wanted to do more stupid material. The surviving members suggested I hook up with KGB (not the Jefferson Airship refugees or the other "supergroup" also using that name), three drunkards who frequently opened shows for us. They played a lot of 'double covers' - songs the Replacements covered, basically. Also "Dragon Attack." But they had a song called "Black Label Light", and Everything Tool had one called "Black Label", so we had something in common.
 
 The first rehearsal took place in Gryphon's Laundry's basement in Knoxville the night the Gulf War broke out....you figure out the dates. Then we played a bunch of shows where the audience booed and threw things, finding the combination of goofy "blooz" lyrics and the band's maximum heaviosity unbearable.
 
@@ -281,7 +281,7 @@ I don't know what happened to Rick's version.
 
 ## The Grudniks/The Railing Stains
 
-Pretty fun band where I was at first the most accompished musicican, which is a bad, basd sign. We played a show on a slippery floor where me and Ed Wright, the other guitarist, fell down repeatedly even though we were just trying to stand still. I left because Everything Tool had an out-of-town show that caused me to miss practice. An ultimatun was issued. I guess they were ready to forge ahead without me. This band became the Flying Polecats (without me).
+Pretty fun band where I was at first the most accompished musician, which is a bad, bad sign. We played a show on a slippery floor where me and Ed Wright, the other guitarist, fell down repeatedly even though we were just trying to stand still. We rehearsed in a house where the litterboxes where just flat beer boxes with piles of litter that were never cleaned, at least not to my knowledge. I left because Everything Tool had an out-of-town show that caused me to miss practice. An ultimatum was issued. I guess they were ready to forge ahead without me. This band became the Flying Polecats (without me).
 
 Surely no recordings or pictures exist.
 ___
@@ -299,20 +299,22 @@ First "real" college band. I thought we were pretty good though I'm embarrassed 
 
 ## Cheerio and The Camels
 
-Bsnd that played one show, at Williams College, in Williamstown, Massachusetts, while they were handing out the box lunches.
+Band that played one show, at Williams College, in Williamstown, Massachusetts, while they were handing out the box lunches.
 
 ---
 
 ## Dial A Miracle
 
-![Sam from Everything tool](/static/img/rock/dial-a-miracle-band-photo.jpg)
+![Dial a Miracle band shot](/static/img/rock/dial-a-miracle-band-photo.jpg)
 Last year of high school. We released one 7" that I apparently don't have a copy of or even a picture of. It's very embarrassing so I know someone will force a copy on me.
 
 ---
 
 ## Red M&Ms
 
-First band. We made one cassette release called "Unhealthy". I cut a picture of some bad red blood cells out of my mom's Biology textbook to make the cover. I don't have a copy of the recording.
+First band. We made one cassette release called "Unhealthy". I cut a picture of some bad (anemic) red blood cells out of my mom's Biology textbook to make the cover. I don't have a copy of the recording.
+
+<a href="https://www.timesfreepress.com/news/chattanooganow/music/story/2018/jan/17/who-are-local-bands-rocked-your-world/461397/" target="_blank">mention of Red M&Ms in the Chattanooga Times-Free Press from 2018</a>
 
 ---
 
