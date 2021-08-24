@@ -8,11 +8,12 @@ tags:
   - post 
   - Gina
   - mockingbirds
+  - found
   - nests
   - Lower Ninth Ward
   - Sister Street
 ---
 
-This nest had some of the same striped tarp fiber that was in the last snazzy nest I saw. I think this nest was abandoned by some of the local raucous, attacking mockingbirds. I dont know where the striped fiber came from.
+This nest had some of the same striped tarp fiber that was in <a href="http://localhost:8080/timeline/i-found-a-snazzy-nest/">the last snazzy nest I saw</a>. I think this nest was abandoned by some of the local raucous, attacking mockingbirds. I dont know where the striped fiber came from.
 
 ![Snazzy bird's nest.](/static/img/timeline/snazzy-nest-jun-17-2021.jpg "Snazzy bird's nest.")
