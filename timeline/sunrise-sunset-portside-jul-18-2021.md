@@ -3,7 +3,7 @@ title: "Saw Sunrise/Sunset at Portside Lounge."
 date: 2021-07-18T16:00:00.000Z
 summary: It was part of Creepy Fest.
 excerpt: It was part of Creepy Fest.
-image: timeline/sunrise-sunset-setlist-jul-1-2021.jpg
+image: timeline/sunrise-sunset-setlist-jul-18-2021.jpg
 tags:
   - post 
   - New Orleans
@@ -20,8 +20,11 @@ Went to Creepy Fest, a place I probably didn't really belong,, but I had a good 
 
 I think I need to credit these pictures, though I think I took the set list one.
 
-![Sunrise/Sunset, the band.](/static/img/timeline/sunrise-sunset-1-jul-1-2021.jpg)
+![Sunrise/Sunset, the band.](/static/img/timeline/sunrise-sunset-1-jul-18-2021.jpg)
 
-![Sunrise/Sunset, the band.](/static/img/timeline/sunrise-sunset-2-jul-1-2021.jpg)
+![Sunrise/Sunset, the band.](/static/img/timeline/sunrise-sunset-2-jul-18-2021.jpg)
 
-![Sunrise/Sunset setlist.](/static/img/timeline/sunrise-sunset-setlist-jul-1-2021.jpg)
+![Sunrise/Sunset, the band. Photo by Michele Hanks.](/static/img/timeline/sunrise-sunset-by-michele-hanks-jul-18-2021.jpg)
+Photo by Michele Hanks.
+
+![Sunrise/Sunset setlist.](/static/img/timeline/sunrise-sunset-setlist-jul-18-2021.jpg)
