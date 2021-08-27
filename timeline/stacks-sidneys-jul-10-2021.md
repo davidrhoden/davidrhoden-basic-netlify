@@ -4,7 +4,7 @@ date: 2021-07-10T22:00:00.000Z
 summary: The Drupes are just great.
 excerpt: The Drupes are just great.
 category: rock
-image: rock/sidney's-saloon-sign.jpg
+image: rock/sidneys-saloon-sign.jpg
 tags:
   - post 
   - rock
@@ -22,4 +22,4 @@ Well attended show. Some friends I invited came, and Andrew brough along his Hom
 Stacks at Sidney's Saloon, photo by Noy Sourivavong.
 
 
-![Sidney's Saloon sign](/static/img/rock//sidney's-saloon-sign.jpg "Sidney's Saloon sign")
+![Sidney's Saloon sign](/static/img/rock//sidneys-saloon-sign.jpg "Sidney's Saloon sign")
