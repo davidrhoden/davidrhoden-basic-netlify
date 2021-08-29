@@ -3,8 +3,9 @@ layout: layouts/page.njk
 title: Paintings
 date: 2020-04-11T00:00:00.000Z
 permalink: /paintings/index.html
-image: https://davidrhoden.com/static/img/paintings/representative-paintings.jpg
+image: /static/img/paintings/representative-paintings.jpg
 excerpt: Paintings by New Orleans-based artist David Rhoden.
+summary: Paintings by New Orleans-based artist David Rhoden.
 eleventyNavigation:
   key: Paintings
   order: 3
@@ -24,27 +25,28 @@ eleventyNavigation:
 1. ![Guerrero painting by David Rhoden](/static/img/paintings/luchaguerrero.jpg?nf_resize=fit&w=960)
 1. ![Yellow Squiggle painting by David Rhoden](/static/img/paintings/yellowsquiggle.jpg?nf_resize=fit&w=960)
 1. ![I'm Over It painting by David Rhoden](/static/img/paintings/imoverit171207.jpg?nf_resize=fit&w=960)
-1. ![painting by David Rhoden](/static/img/paintings/Had-Enough.jpg?nf_resize=fit&w=960)
+1. ![Had Enough painting by David Rhoden](/static/img/paintings/Had-Enough.jpg?nf_resize=fit&w=960)
+1. ![Lighter painting by David Rhoden](/static/img/paintings/lighter-jul-19-2020.jpg?nf_resize=fit&w=960)
 1. ![Dominante painting by David Rhoden](/static/img/paintings/dominanteatbywaterb.jpg?nf_resize=fit&w=960)
 1. ![Defeated painting by David Rhoden](/static/img/paintings/blobman.jpg?nf_resize=fit&w=960)
 1. ![Defeated painting by David Rhoden](/static/img/paintings/upsetguyinbathroom.jpg?nf_resize=fit&w=960)
 1. ![i Don't Like This painting by David Rhoden](/static/img/paintings/idontlikethisinsun.jpg?nf_resize=fit&w=960)
-1. ![painting by David Rhoden](/static/img/paintings/thatsitthatsitoutdoors.jpg?nf_resize=fit&w=960)
-1. ![painting by David Rhoden](/static/img/paintings/pinkandyellowluchador.jpg?nf_resize=fit&w=960)
+1. ![That's It That's It painting by David Rhoden](/static/img/paintings/thatsitthatsitoutdoors.jpg?nf_resize=fit&w=960)
+1. ![Luchador painting by David Rhoden](/static/img/paintings/pinkandyellowluchador.jpg?nf_resize=fit&w=960)
 1. ![Benthead painting by David Rhoden](/static/img/paintings/benthead.jpg?nf_resize=fit&w=960)
 1. ![Eater painting by David Rhoden](/static/img/paintings/eater960.jpg?nf_resize=fit&w=960)
 1. ![Squiggle painting by David Rhoden](/static/img/paintings/squiggle4.jpg?nf_resize=fit&w=960)
 1. ![painting by David Rhoden](/static/img/paintings/armstroker.jpg?nf_resize=fit&w=960)
 1. ![awful baby painting by David Rhoden](/static/img/paintings/awfulbaby.jpg?nf_resize=fit&w=960)
 1. ![I Just Want To painting by David Rhoden](/static/img/paintings/ijustwantto.jpg?nf_resize=fit&w=960)
-1. ![painting by David Rhoden](/static/img/paintings/miamilucha.jpg?nf_resize=fit&w=960)
-1. ![painting by David Rhoden](/static/img/paintings/purpleredlucha.jpg?nf_resize=fit&w=960)
-1. ![painting by David Rhoden](/static/img/paintings/relampagoazulonwhite.jpg?nf_resize=fit&w=960)
-1. ![painting by David Rhoden](/static/img/paintings/nonononono.jpg?nf_resize=fit&w=960)
+1. ![Luchador painting by David Rhoden](/static/img/paintings/miamilucha.jpg?nf_resize=fit&w=960)
+1. ![Luchador painting by David Rhoden](/static/img/paintings/purpleredlucha.jpg?nf_resize=fit&w=960)
+1. ![Luchador painting by David Rhoden](/static/img/paintings/relampagoazulonwhite.jpg?nf_resize=fit&w=960)
+1. ![No No No No painting by David Rhoden](/static/img/paintings/nonononono.jpg?nf_resize=fit&w=960)
 1. ![painting by David Rhoden](/static/img/paintings/talker.jpg?nf_resize=fit&w=960)
-1. ![painting by David Rhoden](/static/img/paintings/mummies_postK.jpg?nf_resize=fit&w=960)
-1. ![painting by David Rhoden](/static/img/paintings/negatorygoodbuddy.jpg?nf_resize=fit&w=960)
-1. ![painting by David Rhoden](/static/img/paintings/caballeroazul.jpg?nf_resize=fit&w=960)
+1. ![Mummies painting by David Rhoden](/static/img/paintings/mummies_postK.jpg?nf_resize=fit&w=960)
+1. ![Negatory Good Buddy painting by David Rhoden](/static/img/paintings/negatorygoodbuddy.jpg?nf_resize=fit&w=960)
+1. ![Luchador painting by David Rhoden](/static/img/paintings/caballeroazul.jpg?nf_resize=fit&w=960)
 1. ![painting by David Rhoden](/static/img/paintings/bigheadoutdoors.jpg?nf_resize=fit&w=960)
 1. ![painting by David Rhoden](/static/img/paintings/bowlers.jpg?nf_resize=fit&w=960)
 1. ![painting by David Rhoden](/static/img/paintings/pinkluchadorwithshadow.jpg?nf_resize=fit&w=960)

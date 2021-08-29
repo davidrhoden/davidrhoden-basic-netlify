@@ -1,0 +1,74 @@
+---
+layout: layouts/base.njk
+pageType: notes
+section: notes
+---
+
+<article>
+  <h1>{{ title }}</h1>
+  <p>
+    <small>
+      <time datetime="{{ date | machineDate }}"><span id="todays-date">{{ date | readableDate }}</span></time> by {{ metadata.author.name }}. Day <span id="days"></span>.
+    </small>
+  </p>
+
+  {{ layoutContent | safe }}
+
+  {% if tags %}
+    <p>
+    {% for tag in tags %}
+      {%- if tag != "note" -%}
+        {% set tagUrl %}/tags/{{ tag | slug }}/{% endset %}
+        <a href="{{ tagUrl | url }}" rel="tag">{{ tag }}</a>
+      {%- endif -%}
+    {% endfor %}
+    </p>
+  {% endif %}
+
+</article>
+
+{% if nextNote.url %}
+  <p class="ctr">
+    <strong>Next</strong>: 
+    <a class="next" href="{{ nextNote.url }}">{{ nextNote.data.date | readableDate }}: {{ nextNote.data.title }}</a>
+  </p>
+{% endif %}
+{% if prevNote.url %}
+  <p class="ctr">
+    <strong>Previous</strong>: 
+    <a class="previous" href="{{ prevNote.url }}">{{ prevNote.data.date | readableDate }}: {{ prevNote.data.title }}</a>
+  </p>
+{% endif %}
+
+<nav>
+  <a href="{{ '/notes/' | url }}">← Notes/Now index</a>
+</nav>
+
+<ul class="pagination">
+    {%- for pageEntry in pagination.pages %}
+      <li><a href="{{ pagination.hrefs[ loop.index0 ] }}"{% if page.url == pagination.hrefs[ loop.index0 ] %} aria-current="page"{% endif %}>{{ loop.index }}</a></li>
+    {%- endfor %}
+</ul>
+
+<ul class="pagination">
+{%- for pageEntry in pagination.pages %}
+  <li><a href="{{ pagination.hrefs[ loop.index0 ] }}"{% if page.url == pagination.hrefs[ loop.index0 ] %} aria-current="page"{% endif %}>{{ loop.index }}</a></li>
+{%- endfor %}
+</ul>
+
+<script>
+$(document).ready(function(){
+    // To set two dates to two variables 
+    var date1 = new Date("03/02/1967"); 
+    var date2 = new Date($('#todays-date').text()); 
+      
+    // To calculate the time difference of two dates 
+    var Difference_In_Time = date2.getTime() - date1.getTime(); 
+      
+    // To calculate the no. of days between two dates 
+    var Difference_In_Days = Difference_In_Time / (1000 * 3600 * 24); 
+      
+    //To display the final no. of days (result) 
+    $('#days').html(Math.floor(Difference_In_Days)); 
+});
+</script>

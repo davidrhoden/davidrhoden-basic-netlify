@@ -1,6 +1,6 @@
 const { DateTime } = require("luxon");
-const CleanCSS = require("clean-css");
-const UglifyJS = require("uglify-es");
+// const CleanCSS = require("clean-css");
+// const UglifyJS = require("uglify-es");
 const htmlmin = require("html-minifier");
 const slugify = require("slugify");
 const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
@@ -23,7 +23,7 @@ module.exports = function(eleventyConfig) {
   url: "https://davidrhoden.com",
   author: "David Rhoden",
   twitter: "davidrhoden",
-  image: "https://davidrhoden.com/static/img/paintings/bigface-wide.jpg",
+  image: "/static/img/paintings/bigface-wide.jpg",
   options: {
     imageWithBaseUrl: true
   }
@@ -35,7 +35,7 @@ module.exports = function(eleventyConfig) {
 
   // Date formatting (human readable)
   eleventyConfig.addFilter("readableDate", dateObj => {
-    return DateTime.fromJSDate(dateObj).toFormat("dd LLL yyyy");
+    return DateTime.fromJSDate(dateObj).toFormat("LLL dd yyyy");
   });
 
   // Date formatting (machine readable)
@@ -43,20 +43,24 @@ module.exports = function(eleventyConfig) {
     return DateTime.fromJSDate(dateObj).toFormat("yyyy-MM-dd");
   });
 
-  // Minify CSS
-  eleventyConfig.addFilter("cssmin", function(code) {
-    return new CleanCSS({}).minify(code).styles;
+  eleventyConfig.addFilter("justYear", dateObj => {
+    return DateTime.fromJSDate(dateObj).toFormat("yyyy");
   });
 
+  // Minify CSS
+  // eleventyConfig.addFilter("cssmin", function(code) {
+  //   return new CleanCSS({}).minify(code).styles;
+  // });
+
   // Minify JS
-  eleventyConfig.addFilter("jsmin", function(code) {
-    let minified = UglifyJS.minify(code);
-    if (minified.error) {
-      console.log("UglifyJS error: ", minified.error);
-      return code;
-    }
-    return minified.code;
-  });
+  // eleventyConfig.addFilter("jsmin", function(code) {
+  //   let minified = UglifyJS.minify(code);
+  //   if (minified.error) {
+  //     console.log("UglifyJS error: ", minified.error);
+  //     return code;
+  //   }
+  //   return minified.code;
+  // });
 
   eleventyConfig.addCollection("posts", function(collection) {
     const coll = collection.getFilteredByTag("post");
@@ -71,6 +75,21 @@ module.exports = function(eleventyConfig) {
 
     return coll;
   });
+
+  eleventyConfig.addCollection("notes", function(collection) {
+    const allNotes = collection.getFilteredByTag("note");
+
+    for(let i = 0; i < allNotes.length ; i++) {
+      const prevNote = allNotes[i-1];
+      const nextNote = allNotes[i + 1];
+
+      allNotes[i].data["prevNote"] = prevNote;
+      allNotes[i].data["nextNote"] = nextNote;
+    }
+
+    return allNotes;
+  });
+
 
   // eleventyConfig.addCollection("years", function(collection) {
   //   const yr = collection.getFilteredByDate("2020");

@@ -3,7 +3,7 @@ layout: layouts/page-with-contact-form.njk
 title: Web Design & Development
 date: 2020-04-12T00:00:00.000Z
 permalink: /web/index.html
-image: https://davidrhoden.com/static/img/web/ginasite.jpg
+image: /static/img/web/ginasite.jpg
 excerpt: Web design and development by New Orleans web developer and designer David Rhoden. Now accepting freelance clients. 
 eleventyNavigation:
   key: Websites
@@ -110,7 +110,7 @@ Mirren Business Development (development)
 ![](/static/img/web/screenshot_mirren2006.png?nf_resize=fit&w=640)
 ![](/static/img/web/cmoworkspace.jpg?nf_resize=fit&w=640)
 
-## 2005 - 2000
+<!-- ## 2005 - 2000
 
 Burnley Vest (design and development, all Flash)
 ![](/static/img/web/scrnburn.jpg?nf_resize=fit&w=640)
@@ -184,7 +184,7 @@ Frenchy (design and development)
 ![](/static/img/web/scrnfrenchy.jpg?nf_resize=fit&w=640)
 ![](/static/img/web/scrnfrenchy2.jpg?nf_resize=fit&w=640)
 ![](/static/img/web/scrnfrenchysite.jpg?nf_resize=fit&w=640)
-
+ -->
 <div id="contact-form">
 
 <h1>Get in touch</h1>

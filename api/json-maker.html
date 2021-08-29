@@ -1,0 +1,17 @@
+---
+permalink: /api/posts.json
+
+---
+
+[
+{% for year, post in collections.posts | groupby("date.year")  %}
+    {"year"}
+      {
+        "title": "{{ post.data.title }}",
+        "date": "{{ post.data.date }}",
+        "summary": "{{ post.data.summary }}",
+        <!-- "tags": "{{ post.data.tags }}", -->
+        "url": "{{ post.url }}"
+      }{{ '' if loop.last else ',' }}
+{% endfor  %}
+]

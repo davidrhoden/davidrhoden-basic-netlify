@@ -2,8 +2,9 @@
 title: Animations
 date: 2020-04-15T00:00:00.000Z
 permalink: /animations/index.html
-image: https://davidrhoden.com/static/img/animations/guytripping.gif
+image: /static/img/animations/guytripping.gif
 excerpt: Digital and analog animations by New Orleans-based artist David Rhoden.
+summary: Digital and analog animations by New Orleans-based artist David Rhoden.
 navtitle: Animations
 eleventyNavigation:
   key: Animations 

@@ -3,7 +3,7 @@ title: Rock Music
 date: 2020-04-14T00:00:00.000Z
 permalink: /rock/index.html
 bodyClass: "rock"
-image: https://davidrhoden.com/static/img/rock/stacksatgasagasa.jpg
+image: /static/img/rock/stacksatgasagasa.jpg
 excerpt: "A brief history of bands David Rhoden has played in, including the Stacks, All-Night Movers, Jimmy and The Wolfpack, and The Hi-Balls."
 eleventyNavigation:
   key: Rock Music
@@ -52,6 +52,12 @@ Fun little band I was briefly the drummer of. We rehearsed a bunch but I think w
 ![Headless Hookers at Passout Records](/static/img/rock/hehoaugust2007.jpg)
 
 We did one terrific recording with Daniel Rey (Ramones producer, member of The Martinets currently and masters Of Reality formerly) that I will put up here soon. I was the drummer. Daniel made the cymbals sound great, he could probably find work just doing that. Members went on to be in Luxurious Faux Furs, Chicken Snake, and The Nato Coles Band.
+
+---
+
+## Shocks & Struts/"The Benny Band"
+
+Fun band I played drums in with "Benny" (real name Mark) and Kelly Vaughn (now Kelly Vaughn-Kaufmann). We just played one show at a miserble club called 169 Bar and it was a disaster. The stacks song "I'm Wild" came out of a jam at one of our rehearsals.
 
 ---
 

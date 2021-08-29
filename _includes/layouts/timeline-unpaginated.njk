@@ -1,0 +1,23 @@
+---
+layout: layouts/base.njk
+section: timeline-unpaginated
+
+---
+
+<article class="flex flex-wrap">
+{% for year, posts in posts | groupby("date.year") %}
+  justYear: {{ date | justYear }},
+  date.year: {{ date.year }},
+  year: {{ year }}:
+  {% for post in posts %}
+    <div class="left">
+      {{ post.data.date.year }}
+      <a href="{{ post.url | url }}">
+        {% if post.data.image %}
+        <img class="tiny-thumbnail" src="{{ post.data.image }}?nf_resize=smartcrop&h=32&w=32">
+        {% endif %}
+      </a>
+    </div>
+  {% endfor %}
+{% endfor %}
+</article>

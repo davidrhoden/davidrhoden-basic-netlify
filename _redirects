@@ -14,10 +14,11 @@
 /news/2010/the-family-that-stays-together-plays-together	/sketchbook			301
 /etc/maximvs												/rock				301
 /etc/all-night-movers										/rock				301
-/news/*														/timeline			301
+/news/* 													/timeline			301
 /images/weblog/soundefxp1.jpg				/static/img/timeline/soundefxp1.jpg	301
 /images/weblog/soundefxp2.jpg				/static/img/timeline/soundefxp2.jpg	301
 /timeline/we-loved-the-art-of-don-martin/	/timeline/influences:-the-art-of-don-martin/	301
+news/p134   /timeline 301
 
 # Show a custom 404 for this path
 # /ecommerce    /store-closed  404

@@ -1,18 +1,20 @@
 ---
-title: All-Night Movers played the Hi-Ho Lounge with the Ka-Nives.
-date: 2003-02-22T21:00:00.000Z
-summary: The Ka-Nives said New Orleans shows were stiff and nobody came. This time they were right.
-excerpt: The Ka-Nives said New Orleans shows were stiff and nobody came. This time they were right.
+title: All-Night Movers played the Hi-Ho Lounge with the Bangs.
+date: 2003-01-31T21:00:00.000Z
+summary: The Bangs had a song called "Dirty Knives".
+excerpt: The Bangs had a song called "Dirty Knives".
+image: /static/img/timeline/HiHoLoungeExterior.jpg
 tags:
   - post
   - rock
   - All-Night Movers
   - New Orleans
   - Hi-Ho Lounge
-  - The Ka-Nives
-  - Will Adams
-  - Christian Stock
+  - The Bangs
 
 ---
 
-The Ka-Nives absolutely killed it for all ten in attendance. They played a cassingle of Hall & Oates through the whole set. (_Maneater_, I think.) Will hung upside down in the nude dancer cage for a full song. Christian stock was their wearing a big fur hat; he immediately acquired the nickname "Jamiroquai".
+The Bangs had a song called "Dirty Knives". It wasn't about my old band though.
+
+![Hi-Ho Lounge New Orleans. Exterior view at night. 6 September 2008 SanFranAnnie / Ann Larie Valentine](/static/img/timeline/HiHoLoungeExterior.jpg "Hi-Ho Lounge New Orleans. Exterior view at night. 6 September 2008 SanFranAnnie / Ann Larie Valentine")
+<figcaption>Photo by SanFranAnnie / Ann Larie Valentine</figcaption>

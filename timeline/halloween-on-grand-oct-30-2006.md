@@ -15,6 +15,7 @@ tags:
   - Joanne
   - Doug De Rienzo
   - Jessica Wertz
+  - Valerie
 
 ---
 
@@ -29,3 +30,7 @@ I had a great big ground floor apartment that used to be a 99 cent store. (One d
 ![Hallowe'en on Grand Street, Dave, Jessica, and Matt](/static/img/timeline//static/img/timeline/me-jess-matt-oct-30-2006.jpg "Hallowe'en on Grand Street, Dave, Jessica, and Matt")
 
 ![Hallowe'en on Grand Street, Dave, Jessica, and Matt](/static/img/timeline//static/img/timeline/me-jess-matt2-oct-30-2006.jpg "Hallowe'en on Grand Street, Dave, Jessica, and Matt")
+
+![Hallowe'en on Grand Street, Dave and Valerie](/static/img/timeline//static/img/timeline/withval.jpg "Hallowe'en on Grand Street, Dave and Valerie")
+
+![Hallowe'en on Grand Street, Dave and Doug](/static/img/timeline//static/img/timeline/meanddougwithbucket-oct-30-2006.jpg "Hallowe'en on Grand Street, Dave and Doug")
