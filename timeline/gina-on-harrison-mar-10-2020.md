@@ -1,9 +1,10 @@
 ---
-title: Technicolor Gina
+title: Technicolor Gina.
 date: 2020-03-10T13:00:00.000Z
 summary: Pretty typical palette.
 excerpt: Pretty typical palette.
-image: /static/img/gina/gina-on-harrison-mar-10-2020.jpg
+category: gina
+image: gina/gina-on-harrison-mar-10-2020.jpg
 tags:
   - post 
   - NYC

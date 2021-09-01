@@ -1,5 +1,5 @@
 ---
-title: Sleepy Heads first show at Circle Bar
+title: Sleepy Heads first show at Circle Bar.
 date: 2001-08-04T22:00:00.000Z
 tags:
   - post 

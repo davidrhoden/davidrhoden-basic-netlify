@@ -3,7 +3,8 @@ title: MAXIMVS! played the Cave in Chapel Hill, North Carolina.
 date: 2004-10-02T21:00:00.000
 excerpt: Part of a big fun fest called Blackbeard's Lost Weekend.  
 summary: Part of a big fun fest called Blackbeard's Lost Weekend. 
-image: /static/img/rock/caveshot1-oct-2-2004.jpg
+category: rock
+image: rock/maximvs-caveshot1-oct-2-2004.jpg
 tags:
   - post 
   - rock
@@ -17,7 +18,7 @@ tags:
 
 ---
 
-![Jeff Pounds in toga](/static/img/rock/caveshot1-oct-2-2004.jpg "Jeff Pounds in toga")
+![Jeff Pounds in toga](/static/img/rock/maximvs-caveshot1-oct-2-2004.jpg "Jeff Pounds in toga")
 
 We showed up for that gig kind of frustrated. The night before in Atlanta at the Star Bar some just-out-of-jail redneck took a swing at Trey, busting his lip. We stopped at a music store in Gaffney S.C. to get me a new hi-hat but i think we found one at an antique store in a gas station further on down the line. Jeff wanted to drive but it became quickly apparent he couldn't drive a stick.
 
@@ -28,3 +29,5 @@ We played the show, it was fine, but I finally blew up at Jeff. I regret it to t
 The band broke up that night and Jeff said he would take the bus home. We went to different after-show parties. Fortunately we did not leave Jeff there. We did have a quiet ride home.
 
 [Contemporary article about Blackbeard's Lost Weekend](https://indyweek.com/music/features/blackbeard-s-lost-weekend/)
+
+![Indy Press article on Blackbeard's Lost Weekend that mentions MAXIMVS!](/static/img/rock/maxumvs-chapel-hill-prress-oct-2-2004jpg "Indy Press articleon Blackbeard's Lost Weekend that mentions MAXIMVS!")

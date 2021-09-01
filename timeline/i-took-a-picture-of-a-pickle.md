@@ -1,9 +1,10 @@
 ---
-title: I took a picture of a pickle
+title: I took a picture of a pickle.
 date: 2017-09-01T14:35:00.000Z
 summary: I took a picture of a pickle on the pavement, with unintended consequences.  
 excerpt: I took a picture of a pickle on the pavement, with unintended consequences. From the website of New Orleans-based artist David Rhoden.
-image: /static/img/timeline/170901quickypickle600.jpg
+category: timeline
+image: timeline/quicky-pickle-sep-1-2017.jpg
 tags:
   - post
   - stories
@@ -17,7 +18,7 @@ At the pump, I noticed a pickle laying on the ground.
 
 I don't know why, but I thought it was funny. So I took a picture of it.
 
-![a pickle on the ground](/static/img/timeline/170901quickypickle600.jpg "a pickle on the ground")
+![a pickle on the ground](/static/img/timeline/quicky-pickle-sep-1-2017.jpg "a pickle on the ground")
 
 A few seconds later a message popped up on my phone. It was from Google.
 

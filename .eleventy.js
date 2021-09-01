@@ -5,40 +5,32 @@ const htmlmin = require("html-minifier");
 const slugify = require("slugify");
 const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
 const pluginSEO = require("eleventy-plugin-seo");
+const path = require("path");
+const Image = require("@11ty/eleventy-img");
 
 module.exports = function(eleventyConfig) {
 
-  // Eleventy Navigation https://www.11ty.dev/docs/plugins/navigation/
   eleventyConfig.addPlugin(eleventyNavigationPlugin);
 
-  // Configuration API: use eleventyConfig.addLayoutAlias(from, to) to add
-  // layout aliases! Say you have a bunch of existing content using
-  // layout: post. If you don’t want to rewrite all of those values, just map
-  // post to a new file like this:
-  // eleventyConfig.addLayoutAlias("post", "layouts/my_new_post_layout.njk");
-
   eleventyConfig.addPlugin(pluginSEO, {
-  title: "David Rhoden",
-  description: "The website of New Orleans-based artist David Rhoden.",
-  url: "https://davidrhoden.com",
-  author: "David Rhoden",
-  twitter: "davidrhoden",
-  image: "/static/img/paintings/bigface-wide.jpg",
-  options: {
-    imageWithBaseUrl: true
-  }
-});
+    title: "David Rhoden",
+    description: "The website of New Orleans-based artist David Rhoden.",
+    url: "https://davidrhoden.com",
+    author: "David Rhoden",
+    twitter: "davidrhoden",
+    image: "/static/img/paintings/bigface-wide.jpg",
+    options: {
+      imageWithBaseUrl: true
+    }
+  });
 
-  // Merge data instead of overriding
   // https://www.11ty.dev/docs/data-deep-merge/
   eleventyConfig.setDataDeepMerge(true);
 
-  // Date formatting (human readable)
   eleventyConfig.addFilter("readableDate", dateObj => {
-    return DateTime.fromJSDate(dateObj).toFormat("LLL dd yyyy");
+    return DateTime.fromJSDate(dateObj).toFormat("LLLL d yyyy");
   });
 
-  // Date formatting (machine readable)
   eleventyConfig.addFilter("machineDate", dateObj => {
     return DateTime.fromJSDate(dateObj).toFormat("yyyy-MM-dd");
   });
@@ -47,26 +39,16 @@ module.exports = function(eleventyConfig) {
     return DateTime.fromJSDate(dateObj).toFormat("yyyy");
   });
 
-  // Minify CSS
-  // eleventyConfig.addFilter("cssmin", function(code) {
-  //   return new CleanCSS({}).minify(code).styles;
-  // });
-
-  // Minify JS
-  // eleventyConfig.addFilter("jsmin", function(code) {
-  //   let minified = UglifyJS.minify(code);
-  //   if (minified.error) {
-  //     console.log("UglifyJS error: ", minified.error);
-  //     return code;
-  //   }
-  //   return minified.code;
-  // });
+  eleventyConfig.addFilter(
+    "relative",
+    (page, root = "/") => '${require("path").relative(page.filePathStem, root)}/'
+  );
 
   eleventyConfig.addCollection("posts", function(collection) {
     const coll = collection.getFilteredByTag("post");
 
-    for(let i = 0; i < coll.length ; i++) {
-      const prevPost = coll[i-1];
+      for(let i = 0; i < coll.length ; i++) {
+      const prevPost = coll[i - 1];
       const nextPost = coll[i + 1];
 
       coll[i].data["prevPost"] = prevPost;
@@ -90,101 +72,20 @@ module.exports = function(eleventyConfig) {
     return allNotes;
   });
 
+  function filterTagList(tags) {
+    return (tags || []).filter(tag => ["all", "nav", "post", "posts"].indexOf(tag) === -1);
+  }
 
-  // eleventyConfig.addCollection("years", function(collection) {
-  //   const yr = collection.getFilteredByDate("2020");
-  //   return yr;
-  // });
+  eleventyConfig.addFilter("filterTagList", filterTagList)
 
-  // const moment = require("moment");
+  // Create an array of all tags
+  eleventyConfig.addCollection("tagList", function(collection) {
+    let tagSet = new Set();
+    collection.getAll().forEach(item => {
+      (item.data.tags || []).forEach(tag => tagSet.add(tag));
+    });
 
-  // function generateDateSet(collection, format){
-  //   let dateSet = new Set();
-
-  //   collection.getAllSorted().forEach(function(item) {
-  //     if( "date" in item.data ) {
-
-  //       var tags = item.data.tags;
-  //       if( typeof tags === "string" ) {
-  //         tags = [tags];
-  //       }
-  //       if ( tags && tags.includes("post") ){
-  //         let itemDate = item.data.date;
-  //         var date = moment(itemDate).format(format);
-  //         dateSet.add(date);
-  //       }     
-  //     }
-  //   });
-
-  //   return Array.from(dateSet);
-  // }
-  // });
-
-  // function getItemsByDate(collection, date, format){
-
-  //   var result = {};
-  //   result = collection.getAll().filter(function(item) {
-
-  //       var tags = item.data.tags;
-
-  //       if( typeof tags === "string" ) {
-  //         tags = [tags];
-  //       }
-
-  //       if ( tags && tags.includes("post") ){
-
-  //         if( !item.data.date ){
-  //           return false;
-  //         }
-
-  //         var itemDate = item.data.date;
-  //         var itemShortDate = moment(itemDate).format(format);
-
-  //         return (itemShortDate == date);
-  //       };
-  //       return false;
-  //     });
-
-  //   result = result.sort(function(a, b) {
-  //     return b.date - a.date;
-  //   });
-
-  //   return result;
-  // }
-
-  // const contentByDateString = (collection, format) => {
-  //   var dateSet = {};
-  //   var newSet = new Set();
-
-  //   dateSet = generateDateSet(collection, format);
-
-  //   dateSet.forEach(function(date){
-  //     var result = getItemsByDate(collection, date, format)
-  //     newSet[date] = result;
-  //   });
-
-  //   return [{...newSet}];
-  // }
-
-  // exports.contentByMonth = collection => {
-  //   return contentByDateString(collection, "YYYY/MM");
-  // }
-
-  // exports.contentByYear = collection => {
-  //   return contentByDateString(collection, "YYYY");
-  // }
-
-  // Minify HTML output
-  eleventyConfig.addTransform("htmlmin", function(content, outputPath) {
-    if (outputPath.indexOf(".html") > -1) {
-      let minified = htmlmin.minify(content, {
-        useShortDoctype: true,
-        removeComments: true,
-        collapseWhitespace: true
-      });
-      return minified;
-    }
-    return content;
+    return filterTagList([...tagSet]);
   });
 
   // Universal slug filter strips unsafe chars from URLs
@@ -196,13 +97,44 @@ module.exports = function(eleventyConfig) {
     });
   });
 
+eleventyConfig.addNunjucksShortcode("myImage", imageShortcode);
+
+function imageShortcode(src, cls, alt, sizes, widths) {
+  let options = {
+    widths: widths,
+    formats: ['jpeg'],
+    urlPath: '/static/img/timeline/',
+    outputDir: './_site/static/img/timeline/',
+    filenameFormat: function (id, src, width, format, options) {
+      const extension = path.extname(src);
+      const name = path.basename(src, extension);
+      return `${name}-${width}w.${format}`;
+    }
+  };
+
+  // generate images, while this is async we don’t wait
+  Image(src, options);
+
+  let imageAttributes = {
+    class: cls,
+    alt,
+    sizes,
+    loading: "lazy",
+    decoding: "async",
+  };
+  // get metadata even the images are not fully generated
+  metadata = Image.statsSync(src, options);
+  return Image.generateHTML(metadata, imageAttributes);
+}
+
   // Don't process folders with static assets e.g. images
   eleventyConfig.addPassthroughCopy("favicon.ico");
   eleventyConfig.addPassthroughCopy("static/img");
   eleventyConfig.addPassthroughCopy("static/pdf");
+  eleventyConfig.addPassthroughCopy("static/audio");
+  eleventyConfig.addPassthroughCopy("static/banners");
   eleventyConfig.addPassthroughCopy("static/webfonts/ShadowGrotesque");
   eleventyConfig.addPassthroughCopy("admin");
-  eleventyConfig.addPassthroughCopy("static/audio");
   eleventyConfig.addPassthroughCopy("_includes/assets/");
 
   /* Markdown Plugins */
@@ -223,14 +155,8 @@ module.exports = function(eleventyConfig) {
 
   return {
     templateFormats: ["md", "njk", "html", "liquid"],
-
-    // If your site lives in a different subdirectory, change this.
-    // Leading or trailing slashes are all normalized away, so don’t worry about it.
-    // If you don’t have a subdirectory, use "" or "/" (they do the same thing)
-    // This is only used for URLs (it does not affect your file structure)
     pathPrefix: "/",
-
-    markdownTemplateEngine: "liquid",
+    markdownTemplateEngine: "njk",
     htmlTemplateEngine: "njk",
     dataTemplateEngine: "njk",
     dir: {

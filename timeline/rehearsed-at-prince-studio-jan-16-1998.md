@@ -1,5 +1,5 @@
 ---
-title: rehearsed at Prince Studio, probably with Hi-Balls
+title: rehearsed at Prince Studio, probably with Hi-Balls.
 date: 1998-01-16T22:00:00.000Z
 summary: Most of the studios were on 30th Street.
 excerpt: Most of the studios were on 30th Street.

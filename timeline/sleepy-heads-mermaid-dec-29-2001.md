@@ -1,5 +1,5 @@
 ---
-title: Sleepy Heads played El Matador with Supagroup
+title: Sleepy Heads played El Matador with Supagroup.
 date: 2001-12-29T08:00:00.000Z
 tags:
   - post 

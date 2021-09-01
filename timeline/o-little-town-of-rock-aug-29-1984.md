@@ -1,9 +1,10 @@
 ---
-title: I took the family car and went to see a rock show in Athens though I was underage
+title: I took the family car and went to see a rock show in Athens though I was underage.
 date: 1984-08-29T22:00:00.000Z
 summary: The Washington Post thought it worthy of mention.
 excerpt: The Washington Post thought it worthy of mention.
-image: /static/img/press/olittletownp1lg.jpg
+category: press
+image: press/olittletownp1lg.jpg
 tags:
   - post 
   - Athens

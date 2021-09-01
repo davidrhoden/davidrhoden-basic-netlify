@@ -1,13 +1,15 @@
 ---
-title: I visited my mom and took this picture of Betty
+title: I visited my mom and took this picture of Betty.
 date: 2006-07-21T12:00:00.000Z
 excerpt: She was a great poser.
 summary: She was a great poser.
-image: /static/img/betty/betty-pinwheels-jul-21-2006.jpg
+category: betty
+image: timeline/betty-pinwheels-jul-21-2006.jpg
 tags:
   - post 
   - New Orleans
   - Betty
+  - cats
   - Judy
 
 ---

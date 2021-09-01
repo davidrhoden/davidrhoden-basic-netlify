@@ -1,9 +1,10 @@
 ---
-title: a warehouse caught fire while I was home for Thanksgiving
+title: A warehouse caught fire while I was home for Thanksgiving.
 date: 2016-11-25T17:17:00.000Z
 excerpt: Nobody was hurt.
 summary: Nobody was hurt.
-image: /static/img/timeline/fire161125_1.jpg
+category: timeline
+image: timeline/chattanooga/chattanooga-fire-nov-25-2016-1.jpg
 tags:
   - post
   - Chattanooga
@@ -13,12 +14,12 @@ tags:
 
 ---
 
-![warehouse fire in Chattanooga](/static/img/timeline/fire161125_1.jpg "warehouse fire in Chattanooga")
+This was right down the street from my sister's hipster loft.
 
-![warehouse fire in Chattanooga](/static/img/timeline/fire161125_2.jpg "warehouse fire in Chattanooga")
+![warehouse fire in Chattanooga](/static/img/timeline/chattanooga/chattanooga-fire-nov-25-2016-1.jpg "warehouse fire in Chattanooga")
 
-![warehouse fire in Chattanooga](/static/img/timeline/fire161125_3.jpg "warehouse fire in Chattanooga")
+![warehouse fire in Chattanooga](/static/img/timeline/chattanooga/chattanooga-fire-nov-25-2016-2.jpg "warehouse fire in Chattanooga")
 
-![warehouse fire in Chattanooga](/static/img/timeline/fire161125_4.jpg "warehouse fire in Chattanooga")
+![warehouse fire in Chattanooga](/static/img/timeline/chattanooga/chattanooga-fire-nov-25-2016-3.jpg "warehouse fire in Chattanooga")
 
-
+![warehouse fire in Chattanooga](/static/img/timeline/chattanooga/chattanooga-fire-nov-25-2016-4.jpg "warehouse fire in Chattanooga")

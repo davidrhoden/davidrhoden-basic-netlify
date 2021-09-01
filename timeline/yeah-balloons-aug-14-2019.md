@@ -1,9 +1,10 @@
 ---
-title: one day you're all yeah, the next day you're like no
+title: One day you're all yeah, the next day you're like no.
 date: 2019-08-14T11:00:00.000Z
 summary: These cheery balloons spelled out "FUCK YEAH" for a day.
 excerpt: These cheery balloons spelled out "FUCK YEAH" for a day.
-image: https://davidrhoden.com/static/img/timeline/yeah-balloons-20190814.jpg
+category: timeline
+image: timeline/yeah-balloons-20190814.jpg
 tags:
   - post 
   - co-working

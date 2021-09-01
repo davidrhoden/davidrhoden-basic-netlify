@@ -3,7 +3,8 @@ title: We went to Picayune, Mississippi for a bonfire.
 date: 2020-01-06T19:00:00.000Z
 summary: We played guitars.
 excerpt: We played guitars.
-image: /static/img/timeline/315-tricou-mar-27-2020.jpg
+category: timeline
+image: timeline/315-tricou-mar-27-2020.jpg
 tags:
   - post 
   - Mississippi

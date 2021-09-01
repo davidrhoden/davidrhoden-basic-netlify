@@ -1,9 +1,10 @@
 ---
-title: My house in Austin
+title: My house in Austin.
 date: 2015-05-02T11:00:00.000Z
 summary: I made this big pink thing for my office but I hung it up in my apartment for a while. 
 excerpt: I made this big pink thing for my office but I hung it up in my apartment for a while. 
-image: /static/img/paintings/squiggle150502.jpg
+category: paintings
+image: paintings/squiggle-pink-may-2-2015
 tags:
   - post 
   - paintings
@@ -12,7 +13,7 @@ tags:
 
 ---
 
-![pink squiggle painting on a wall](/static/img/paintings/squiggle150502.jpg "pink squiggle painting on a wall")
+![pink squiggle painting on a wall](/static/img/paintings/squiggle-pink-may-2-2015.jpg "pink squiggle painting on a wall")
 
 I liked my Austin house but I didn't love it. It was comfortable. My neighborhood was fine. It seemed like all the fun stuff was south of the Colorado River and I was way north, off Burnet Road.
 

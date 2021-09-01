@@ -1,9 +1,10 @@
 ---
-title: New picks are here
+title: New picks are here.
 date: 2014-09-08T12:00:00.000Z
 summary: I got an endorsement deal.
 excerpt: I got an endorsement deal.
-image: /static/img/rock/newpicksarehere-sep-8-2014.jpg
+category: rock
+image: timeline/new-picks-are-here-sep-8-2014.jpg
 tags:
   - post 
   - rock
@@ -13,8 +14,8 @@ tags:
 
 ---
 
-![custom Clayton picks](/static/img/rock/newpicksarehere-sep-8-2014.jpg "custom Clayton picks")
+![custom Clayton picks](/static/img/timeline/new-picks-are-here-sep-8-2014.jpg "custom Clayton picks")
 
 I'm an official endorser of [Clayton](https://claytonusa.com) picks. I like them a lot. They are big and stout and you can see 'em when you drop them on the floor.
 
-![Clayton logo](/static/img/rock/clayton_logo1.png "Clayton logo")
+<img style="width:150px;" src="/static/img/rock/clayton_logo1.png">

@@ -12,25 +12,78 @@ $(document).ready(function(){
   var $hamburger = $(".hamburger");
   $hamburger.on("click", function(e) {
     $hamburger.toggleClass("is-active");
-    // Do something else, like open/close menu
     $("nav").toggleClass("is-active");
 	});
 });
 
+$(document).ready(function(){
+  AOS.init();
+});
+
+function showHidden() {
+  var hiddenText = $(this).find(".hidden").html();
+  $("#timeline-detail").html(hiddenText);
+};
+
+$(document).ready(function(){
+  $( ".photo-timeline" ).on( "mouseover", ".photo-timeline-link", showHidden );
+});
+
+
+$('.scroll-container').scroll(function() {
+    $('#scroll-text').fadeOut();
+}); 
+
+
+$(document).ready(function(){
+  $('.link').each( function(i) {
+    $('.button-row').on( 'click', '.link', function( event ) {
+      console.log($(this));
+      $($(this).attr('href')).addClass('is-active').siblings().removeClass('is-active');
+      $(this).addClass('is-active').siblings().removeClass('is-active');
+      event.preventDefault();
+    });
+  });
+});
+
 
 $(document).ready(function() {
-    var i = 0; 
-    var imgs = $('.home main').children();
-    runIt(imgs);
+  
+  var currentImage = 0;
+  var images = $('#viewport img').get();
+  var totalImages = images.length;
+  var firstImage = $('#viewport img:first');
+  var altText = $(firstImage).attr("alt");
+  console.log(altText);
+  firstImage.addClass("fadedIn");
+  $('#caption').html(altText);
 
-    function runIt() {
-      $(imgs).eq(i).fadeIn(2000, function() {
-        setTimeout(runIt,'300');
-      });
-      i = i + 1; 
-      if (i == imgs.length) {
-        i = 0; 
-        $('.home main p').fadeOut(1000)
-      } 
+  function increaseImage() {
+    ++currentImage;
+    if(currentImage > (totalImages - 1)) {
+      currentImage = 0;
     }
+  }
+  function decreaseImage() {
+    --currentImage;
+    if(currentImage < 0) {
+      currentImage = (totalImages - 1);
+    }
+  }
+
+  $('#buttonPrevious').on('click', function(){
+    $(images[currentImage]).stop().removeClass('fadedIn');
+    decreaseImage();
+    $(images[currentImage]).stop().addClass('fadedIn');
+    altText = $(images[currentImage]).attr("alt");
+    $('#caption').html(altText);
+  }); 
+  $('#buttonNext').on('click', function(){
+    $(images[currentImage]).stop().removeClass('fadedIn');
+    increaseImage();
+    $(images[currentImage]).stop().addClass('fadedIn');
+    altText = $(images[currentImage]).attr("alt");
+    $('#caption').html(altText);
+  });
+
 });

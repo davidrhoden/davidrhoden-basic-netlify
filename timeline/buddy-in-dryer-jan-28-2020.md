@@ -3,10 +3,12 @@ title: Buddy got in the dryer.
 date: 2020-01-28T12:00:00.000Z
 summary: It was still pretty warm.
 excerpt: It was still pretty warm.
-image: /static/img/buddy/buddy-in-dryer-jan-28-2020.jpg 
+category: buddy
+image: buddy/buddy-in-dryer-jan-28-2020.jpg 
 tags:
   - post
   - Buddy
+  - cats
 
 ---
 

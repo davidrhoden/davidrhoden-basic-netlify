@@ -1,7 +1,8 @@
 ---
-title: funnin' around with Gina
+title: Funnin' around with Gina.
 date: 2019-03-16T19:00:00.000Z
-image: /static/img/rock/david-gina-recording-mar-16-2019.jpg
+category: rock
+image: timeline/david-gina-recording-mar-16-2019.jpg
 tags:
   - post
   - rock 

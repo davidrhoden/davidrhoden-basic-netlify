@@ -1,9 +1,10 @@
 ---
-title: I had a bachelor party
+title: I had a bachelor party.
 date: 2000-04-20T20:00:00.000Z
 summary: I guess it was lame except that I had fun.
 excerpt: I guess it was lame except that I had fun.
-image: /static/img/timeline/devoids-apr-20-2000.jpg
+category: timeline
+image: timeline/devoids-apr-20-2000.jpg
 tags:
   - post 
   - parties
