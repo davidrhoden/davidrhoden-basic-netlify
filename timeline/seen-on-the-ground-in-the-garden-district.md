@@ -1,9 +1,10 @@
 ---
-title: seen on the ground in the Garden District
+title: Took a picture of a mosaic on the ground in the Garden District.
 date: 2018-11-13T12:00:00.000Z
 summary: Seen on the sidewalk in front of a mansion on Jackson Avenue.
 excerpt: Seen on the sidewalk in front of a mansion on Jackson Avenue.
-image: /static/img/timeline/walk-education-tiles-nov-13-2018.jpg
+category: timeline
+image: timeline/walk-education-tiles-nov-13-2018.jpg
 tags:
   - post 
   - New Orleans

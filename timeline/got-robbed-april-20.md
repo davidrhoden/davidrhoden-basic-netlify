@@ -1,9 +1,10 @@
 ---
-title: I got robbed, probably by some shady women
+title: I got robbed, probably by some shady women.
 date: 2020-04-20T16:00:00.000Z
 summary: they were living in a U-Haul van in front of the house; hindsight says I should have been more suspicious.
 excerpt: they were living in a U-Haul van in front of the house; hindsight says I should have been more suspicious.
-image: /static/img/timeline/rubber-chicken-got-robbed-apr-20-2020.jpg
+category: timeline
+image: timeline/rubber-chicken-got-robbed-apr-20-2020.jpg
 tags:
   - post
   - New Orleans 

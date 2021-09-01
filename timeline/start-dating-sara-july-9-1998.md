@@ -1,9 +1,8 @@
 ---
-title: I started dating Sara
+title: I started dating Sara.
 date: 1998-07-09T16:00:00.000Z
 summary: I know this from a note in my 1999 datebook.
 excerpt: I know this from a note in my 1999 datebook.
-image: 
 tags:
   - post
   - Sara

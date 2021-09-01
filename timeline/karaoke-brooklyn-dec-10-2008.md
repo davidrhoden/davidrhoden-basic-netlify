@@ -1,7 +1,8 @@
 ---
-title: I did karaoke in Brooklyn
+title: I did karaoke in Brooklyn.
 date: 2008-12-10T21:00:00.000Z
-image: /static/img/timeline/david-karaoke-brooklyn-dec-10-2008.jpg
+category: timeline
+image: timeline/david-karaoke-brooklyn-dec-10-2008.jpg
 tags:
   - post 
   - Brooklyn

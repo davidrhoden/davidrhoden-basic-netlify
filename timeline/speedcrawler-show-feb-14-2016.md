@@ -1,9 +1,10 @@
 ---
-title: Speedcrawler played Valentine's Day
+title: Speedcrawler played Valentine's Day.
 date: 2016-02-14T21:00:00.000Z
 summary: Fun club to play.
 excerpt: Fun club to play.
-image: /static/img/rock/speedcrawler-show-feb-14-2016.jpg
+category: rock
+image: rock/speedcrawler-show-feb-14-2016.jpg
 tags:
   - post
   - rock

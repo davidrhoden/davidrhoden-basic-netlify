@@ -1,7 +1,8 @@
 ---
-title: Dark Marbles' drummer got married and we never saw him again
+title: Dark Marbles' drummer got married and we never saw him again.
 date: 1998-07-11T21:00:00.000Z
-image: /static/img/rock/dark-marbles-charlie-wedding-jul-11-1998.jpg
+category: rock
+image: timeline/dark-marbles-charlie-wedding-jul-11-1998.jpg
 tags:
   - post 
   - NYC

@@ -1,9 +1,10 @@
 ---
-title: The Innuendos first date recording with Mitro 
+title: The Innuendos first date recording with Mitro.
 date: 1999-04-24T11:00:00.000Z
 summary: We recorded down in the basement.
 excerpt: We recorded down in the basement.
-image: /static/img/rock/innuendos960x640.jpg
+category: rock
+image: rock/innuendos960x640.jpg
 tags:
   - post
   - rock

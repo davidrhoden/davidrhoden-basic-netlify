@@ -1,13 +1,13 @@
 ---
-title: Goodbye Froggy
+title: Goodbye Froggy.
 date: 2020-07-24T10:00:00.000Z
 summary: I really feel for this frog.
 excerpt: I really feel for this frog.
-image: /static/img/notes/froggy.jpg
+image: notes/froggy.jpg
 tags:
   - note 
   - Gina
-  - tv
+  - TV
   - Kentucky
   - Happy and Froggy
 

@@ -1,5 +1,5 @@
 ---
-title: Dark Marbles played the Continental
+title: Dark Marbles played the Continental.
 date: 1998-12-06T20:00:00.000Z
 tags:
   - post 

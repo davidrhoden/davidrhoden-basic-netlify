@@ -1,9 +1,10 @@
 ---
-title: I sang two songs on The Goodnight Show
+title: I sang two songs on The Goodnight Show.
 date: 2013-12-26T18:00:00.000Z
 excerpt: Thanks to Steve Walkup and The Goodnight Show Orchestra.
-summary: Thanks to Steve Walkup and The Goodnight Show Orchestra.d.
-image: /static/img/rock/goodnight-show-1-t-grayson-dec-26-2013.jpg
+summary: Thanks to Steve Walkup and The Goodnight Show Orchestra.
+category: rock
+image: rock/goodnight-show-1-t-grayson-dec-26-2013.jpg
 tags:
   - post 
   - New Orleans

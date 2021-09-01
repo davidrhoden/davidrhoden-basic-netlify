@@ -1,5 +1,5 @@
 ---
-title: saw The Big Lebowski on opening night
+title: I saw The Big Lebowski on opening night.
 date: 1998-03-06T22:00:00.000Z
 summary: My first experience of refrigerator door syndrome.
 excerpt: My first experience of refrigerator door syndrome.

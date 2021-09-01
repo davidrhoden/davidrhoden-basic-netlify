@@ -1,5 +1,5 @@
 ---
-title: The Red M&Ms recorded our five-song cassette, Unhealthy
+title: The Red M&Ms recorded our five-song cassette, Unhealthy.
 date: 1985-08-03T09:00:00.000Z
 summary: After the recording my brother got picked up to go to summer camp.
 excerpt: After the recording my brother got picked up to go to summer camp.

@@ -1,0 +1,52 @@
+.demo-container {
+  margin: 0 auto;
+  width: 90vw;
+}
+
+#svg-overlay-container {
+  background: url(/static/img/iStock-453310465-2800w.jpg) center center no-repeat;
+  background-size: cover;
+  position: relative;
+  width: 100%;
+}
+
+#svg-overlay-container #background-image {
+  position: absolute;
+  top: 0;
+  width: 100%;
+  height: auto;
+}
+
+#svg-overlay-container #product-svg {
+  position: relative;
+  z-index: 2;
+  mix-blend-mode: multiply;
+}
+
+#svg-overlay-container #product-shape {
+  fill: #ffffff;
+}
+
+#svg-overlay-container .colors {
+  display: flex;
+  position: absolute;
+  bottom: 2em;
+  right: 2em;
+  z-index: 3;
+}
+
+#svg-overlay-container .colors .color {
+  height: 36px;
+  width: 36px;
+  margin-left: 0.5em;
+  border-radius: 18px;
+  box-shadow: 0px 4px 10px rgba(0,0,0,0.3);
+  border: 2px solid #aaa;
+  cursor: pointer;
+}
+
+@media screen and (min-width:960px) {
+  .demo-container {
+    width: 50vw;
+  }
+}

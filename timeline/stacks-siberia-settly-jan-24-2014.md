@@ -1,9 +1,10 @@
 ---
-title: Stacks played Siberia with Settly
+title: Stacks played Siberia with Settly.
 date: 2014-01-25T11:00:00.000Z
 summary: Good show for us.
 excerpt: Good show for us.
-image: /static/img/rock/flyer140125a595.jpg
+category: rock
+image: rock/stacks-flyer-jan-25-2014.jpg
 tags:
   - post 
   - rock
@@ -15,4 +16,4 @@ tags:
 
 ---
 
-![flyer for stacks show](/static/img/rock/flyer140125a595.jpg "flyer for stacks show")
+![flyer for stacks show](/static/img/rock/stacks-flyer-jan-25-2014.jpg "flyer for stacks show")

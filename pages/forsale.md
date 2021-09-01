@@ -21,6 +21,10 @@ And: [My Redbubble store](https://www.redbubble.com/people/davidrhoden/shop) (st
 
 ## Paintings
 
+
+![Many-eyed Monster painting by David Rhoden](/static/img/paintings/many-eyes-dec-13-2020.jpg?nf_resize=fit&w=640)
+Monster. $100
+
 ![Organic form painting by David Rhoden](/static/img/paintings/organicform5-chromeyellow-sq.jpg?nf_resize=fit&w=640)
 Organic Form. $360
  
