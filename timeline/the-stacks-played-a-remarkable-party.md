@@ -1,9 +1,10 @@
 ---
-title: The Stacks played a party; it turned into a struggle
+title: The Stacks played a party; it turned into a struggle.
 date: 2004-08-07T18:00:00.000Z
 summary: The gig itself wasn't remarkable but the aftermath was.
 excerpt: The gig itself wasn't remarkable but the aftermath was.
-image: /static/img/designs/offwhite.jpg
+category: designs
+image: designs/offwhite-linen-night-aug-7-2004.jpg
 tags:
   - post 
   - New Orleans
@@ -15,7 +16,7 @@ tags:
 
 ---
 
-![Silk-screened poster for Off-White Linen Night](/static/img/designs/offwhite.jpg "Silk-screened poster for Off-White Linen Night")
+![Silk-screened poster for Off-White Linen Night](/static/img/designs/offwhite-linen-night-aug-7-2004.jpg "Silk-screened poster for Off-White Linen Night")
 
 Our friends Ramona and Will were the organizers (as far as I could tell) of this big party that was going to be held in a vacant lot on Magazine Street opposite the "real" White Linen Night that takes place on Julia Street. We did a lot of promotion. I made about a dozen of these wooden fliers (printed on lauan), but we also scanned this image and got it printed on hundreds of stickers by putting it on the unused part of a bus wrap printing. these stickers were _quality_; I saw them around town for years after.
 

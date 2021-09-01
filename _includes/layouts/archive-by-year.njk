@@ -1,0 +1,9 @@
+---
+layout: layouts/base.njk
+section: timeline-by-year
+---
+
+<h1>Blog</h1>
+{% set showYear = true %}
+{% set postslist = collections.post %}
+{% include "components/timeline-by-year.njk" %}

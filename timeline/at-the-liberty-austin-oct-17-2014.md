@@ -1,9 +1,10 @@
 ---
-title: Went to a bar in Austin with my old band mate (not pictured)
+title: Went to a bar in Austin with my old band mate (not pictured).
 date: 2014-10-17T11:00:00.000Z
 summary: This guy is a friend of my friend's sister.
 excerpt: This guy is a friend of my friend's sister.
-image: /static/img/timeline/at-the-liberty-austin-oct-17-2014.jpg
+category: timeline
+image: timeline/at-the-liberty-austin-oct-17-2014.jpg
 tags:
   - post 
   - Austin

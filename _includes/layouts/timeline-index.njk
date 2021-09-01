@@ -1,16 +1,30 @@
 ---
 layout: layouts/base.njk
+pageType: timeline
 section: timeline
 ---
 
 <!-- post loop -->
-
+{% set showYear = true %}
+{% set currentYear = "" %}
 {% for post in posts %}
+{% if showYear %}
+      {% set postYear = post.date.getFullYear() %}
+      {% if currentYear != postYear %}
+      {% set currentYear = postYear %}
+      <h3>{{ postYear }}</h3>
+      {% endif %}
+{% endif %}
 <article class="flex">
   <div class="left">
-    {% if post.data.image %}<img class="thumbnail" src="{{ post.data.image }}?nf_resize=fit&w=320">{% endif %}
+    {% if post.data.image %}
+      <img class="thumbnail" src="/static/img/{{ post.data.image }}?nf_resize=fit&w=280" alt="{{post.data.title}}">
+    {% endif %}
   </div>
   <div>
+  <p>
+    <small><time datetime="{{ post.date | machineDate }}"><span class="todays-date">{{ post.date | readableDate }}</time></small>
+  </p>
   <h3>
     <a href="{{ post.url | url }}">
       {% if post.data.title %}
@@ -25,11 +39,6 @@ section: timeline
       {{ post.data.summary }}
     </p>
   {% endif %}
-  <p>
-    <time datetime="{{ post.date | machineDate }}">
-      <small>{{ post.date | readableDate }} by {{ metadata.author.name }}</small>
-    </time>
-  </p>
     {% if post.data.tags %}
       <p>
         {% for tag in post.data.tags %}
@@ -43,26 +52,8 @@ section: timeline
 </div>
 </article>
 {% endfor %}
-
-
-<!-- Pagination links -->
-<div class="page-selector">
-  {% if pagination.previousPageHref %}
-    <a href="{{ pagination.previousPageHref }}" class="page-numbers">Back to the future.</a>
-  {% else %}
-    <span class="page-numbers">You've reached the present.</span>
-  {% endif %}
-  <span>
-    Page {{ pagination.pageNumber + 1 }} of {{ pagination.links | length  }}.
-  </span>
-  {% if pagination.nextPageHref %}
-    <a href="{{ pagination.nextPageHref }}" class="page-numbers">Forward to the past.</a>
-  {% else %}
-    <span class="page-numbers">You've reached the beginning.</span>
-  {% endif %}
-  <ul class="pagination">
-  {%- for pageEntry in pagination.pages %}
-    <li><a href="{{ pagination.hrefs[ loop.index0 ] }}"{% if page.url == pagination.hrefs[ loop.index0 ] %} aria-current="page"{% endif %}>{{ loop.index }}</a></li>
-  {%- endfor %}
-  </ul>
+{% include "components/pagination.njk" %}
+</div>
+<div class="container-wide">
+  {% include "components/photo-timeline.njk" %}
 </div>

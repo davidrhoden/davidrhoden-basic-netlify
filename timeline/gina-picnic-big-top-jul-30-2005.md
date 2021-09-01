@@ -1,5 +1,5 @@
 ---
-title: saw Gina Phillips at the Big Top
+title: Saw Gina Phillips and her band at the Big Top.
 date: 2005-07-30T22:00:00.000Z
 summary: I remember really liking her harmonica playing.
 excerpt: I remember really liking her harmonica playing.

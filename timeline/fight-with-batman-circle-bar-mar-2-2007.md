@@ -1,9 +1,10 @@
 ---
-title: I got in a fight with Batman on my birthday
+title: I got in a fight with Batman on my birthday.
 date: 2007-03-02T22:00:00.000Z
 excerpt: I didn't win.
 summary: I didn't win.
-image: /static/img/timeline/drr-post-batman-mar-2-2007.jpg
+category: timeline
+image: timeline/drr-post-batman-mar-2-2007.jpg
 tags:
   - post 
   - Circle Bar

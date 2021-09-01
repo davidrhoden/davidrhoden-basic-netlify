@@ -1,9 +1,10 @@
 ---
-title: na dat jiss nasty
+title: I admired a unique automobile.
 date: 2013-11-20T13:00:00.000Z
 summary: A car I saw while walking around the business end of New Orleans.
 excerpt: A car I saw while walking around the business end of New Orleans.
-image: /static/img/timeline/cars/jissnasty1.jpg
+category: timeline
+image: timeline/cars/jissnasty1.jpg
 tags:
   - post
   - cars

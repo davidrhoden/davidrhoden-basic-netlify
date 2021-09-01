@@ -1,9 +1,10 @@
 ---
-title: I showed some paintings at Treasure Tattoo
+title: I showed some paintings at Treasure Tattoo.
 date: 2018-06-09T17:00:00.000Z
 summary: Nice place to show work.
 excerpt: Nice place to show work.
-image: /static/img/paintings/180609frontoftreasuretattoo.jpg
+category: paintings
+image: timeline/treasure-tattoo-show-june-9-2018.jpg
 tags:
   - post 
   - art shows
@@ -15,7 +16,7 @@ tags:
 
 ---
 
-![sign in front of Treasure Tattoo](/static/img/paintings/180609frontoftreasuretattoo.jpg "sign in front of Treasure Tattoo")
+![sign in front of Treasure Tattoo](/static/img/paintings/treasure-tattoo-show-june-9-2018.jpg "sign in front of Treasure Tattoo")
 
 I had a show of my paintings at Treasure Tattoo, on St. Claude Avenue in New Orleans. Jamie Ruth and Stacey Colangelo put on a great show for me, with nibbles and everything!  Made a sale. More pictures when I find them.
 

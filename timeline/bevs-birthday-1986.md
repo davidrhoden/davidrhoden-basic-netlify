@@ -1,9 +1,10 @@
 ---
-title: Bev's birthday, 1985
+title: Bev's birthday, 1985.
 date: 1985-04-18T20:57:00.000Z
 summary: I guess this picture was given to me because my high school hair is on full display.
 excerpt: I guess this picture was given to me because my high school hair is on full display.
-image: /static/img/timeline/bev-birthday-1986.jpg
+category: timeline
+image: timeline/bev-birthday-1986.jpg
 tags:
   - post
   - Chattanooga

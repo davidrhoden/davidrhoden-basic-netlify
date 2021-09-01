@@ -3,7 +3,8 @@ title: I made an animation rig.
 date: 2019-04-27T19:00:00.000Z
 summary: I haven't used it enough.
 excerpt: I haven't used it enough.
-image: /static/img/timeline/football-animation-apr-27-2019.gif
+category: timeline
+image: timeline/football-animation-apr-27-2019.gif
 tags:
   - post
   - New Orleans

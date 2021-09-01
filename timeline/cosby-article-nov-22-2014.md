@@ -1,9 +1,10 @@
 ---
-title: I did a man on the street interview for The New York Times about Bill Cosby
+title: I did a man on the street interview for The New York Times about Bill Cosby.
 date: 2014-11-22T20:00:00.000Z
 summary: I thought the interviewer was trying to get info out of me to steal my identity.
 excerpt: I thought the interviewer was trying to get info out of me to steal my identity.
-image: /static/img/press/cosby-article-screenshot.png
+category: press
+image: timeline/cosby-article-screenshot.png
 tags:
   - post 
   - Austin

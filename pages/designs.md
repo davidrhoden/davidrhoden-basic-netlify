@@ -5,58 +5,41 @@ permalink: /designs/index.html
 excerpt: Design work by New Orleans web and graphic designer David Rhoden.
 summary: Design work by New Orleans web and graphic designer David Rhoden.
 image: /static/img/designs/TalbotAdamsAlbum.jpg
+layout: layouts/page-gallery.njk
 eleventyNavigation:
   key: Designs 
   order: 7
 
 ---
 
-![Album cover design by David Rhoden](/static/img/designs/TalbotAdamsAlbum.jpg)
+![Show poster design.](/static/img/designs/SisterStreetStage-Apr-17-2021.jpg)
 
----
+![Album cover design for Talbot Adams.](/static/img/designs/TalbotAdamsAlbum.jpg)
 
-![Album cover design by David Rhoden](/static/img/designs/tubecover.jpg)
+![Album cover design for The Hi-Balls.](/static/img/designs/tubecover.jpg)
 
----
+![Album cover design for the Hi-Balls.](/static/img/designs/coverclr.jpg)
 
-![Album cover design by David Rhoden](/static/img/designs/coverclr.jpg)
+![Record sleeve design for The Hi-Balls.](/static/img/designs/record.gif)
 
----
+![Business card design for a New York City music consultant.](/static/img/designs/rickgoetzcard500.png)
 
-![Record sleeve designby David Rhoden](/static/img/designs/record.gif)
+![T-shirt design for Cotton Bureau.](/static/img/designs/redwomens.jpg)
 
----
+![T-shirt design for Cotton Bureau.](/static/img/designs/Bottle-CapTeeTurquoise.jpg)
 
-![Business card design by David Rhoden](/static/img/designs/rickgoetzcard500.png)
+![Rock poster design for The Stacks.](/static/img/rock/stacks-flyer-sutures-oct-8-2004.jpg)
 
---- 
+![Poster design for an Ernie K-Doe show.](/static/img/designs/KDOE2CSL.gif)
 
-![T-shirt design by David Rhoden](/static/img/designs/redwomens.jpg)
+![Calendar design for The Big Top art space.](/static/img/designs/070702rcpad.jpg)
 
----
+![Calendar design for The Big Top art space.](/static/img/designs/0508083rcpad2nd.png)
 
-![T-shirt design by David Rhoden](/static/img/designs/Bottle-CapTeeTurquoise.jpg)
+![Calendar design for The Big Top art space.](/static/img/designs/0805013rcpad.jpg)
 
----
+![Bachelor No. 1 fanzine cover design.](/static/img/designs/bn11.jpg)
 
-![Rock poster design by David Rhoden](/static/img/rock/stacks-flyer-sutures-oct-8-2004.jpg)
+![Bachelor No. 1 fanzine cover design.](/static/img/designs/bn12.jpg)
 
----
-
-![Erine K-Doe Poster design by David Rhoden](/static/img/designs/KDOE2CSL.gif)
-
----
-
-![Design by David Rhoden](/static/img/designs/070702rcpad.jpg)
-
-![Design by David Rhoden](/static/img/designs/0508083rcpad2nd.png)
-
-![Design by David Rhoden](/static/img/designs/0805013rcpad.jpg)
-
----
-
-![Design by David Rhoden](/static/img/designs/bn11.jpg)
-
-![Design by David Rhoden](/static/img/designs/bn12.jpg)
-
-![Design by David Rhoden](/static/img/designs/bn13.jpg)
+![Bachelor No. 1 fanzine cover design.](/static/img/designs/bn13.jpg)

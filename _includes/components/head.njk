@@ -1,26 +1,55 @@
 <head>
   <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-8793128-1"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-
-    gtag('config', 'UA-8793128-1');
-  </script>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   {% set css %}
     {% include "assets/css/inline.css" %}
     {% include "assets/css/hamburgers.css" %}
+    {% include "assets/css/svg-overlay.css" %}
+    {% include "assets/css/fake-browser.css" %}
+    {% include "assets/css/slideshow.css" %}
     {% include "static/webfonts/ShadowGrotesque/stylesheet.css" %}
+    {% if davidrhodenbasicnetlify.environment == "development" %}
+      {% include "assets/css/development.css" %}
+    {% endif %}
   {% endset %}
-  <link href="https://fonts.googleapis.com/css?family=Inter:100,200,300,400,500,600,700,800,900&display=swap" rel="stylesheet">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Libre+Franklin:ital,wght@0,300;0,700;1,300;1,700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Source+Serif+Pro:ital,wght@0,300;0,400;0,700;1,400&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Titan+One&family=Ultra&display=swap" rel="stylesheet">
+  <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
   <style>{{ css | safe }}</style>
+
+  <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.6.1/gsap.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.6.1/CSSRulePlugin.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.6.1/MotionPathPlugin.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.6.1/ScrollTrigger.min.js"></script>
+  <script async src="https://cse.google.com/cse.js?cx=016277135231861937268:s7pcwqxrw68"></script>  <!-- search -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-W9C83ZVJFN"></script>
   {% set js %}
     {% include "assets/js/jquery.min.js" %}
     {% include "assets/js/inline.js" %}
+    {% include "assets/js/svg-animate.js" %}
   {% endset %}
   <script>{{ js | safe }}</script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-W9C83ZVJFN');
+  </script>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-8793128-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'UA-8793128-1');
+  </script>
+  <link href="https://twitter.com/davidrhoden" rel="me">
+  <link href="https://instagram.com/thedavidrhoden" rel="me">
+</ul>
+<link rel="pgpkey" href="/key.txt">
   {% seo "" %}
 </head>

@@ -1,0 +1,55 @@
+<div id="timeline-detail"></div>
+  <div class="photo-timeline flex">
+    {% set showYear = true %}
+    {% set currentYear = "" %}
+    
+    {% for post in collections.post | reverse %}
+      {% if showYear %}
+        {% set postYear = post.date.getFullYear() %}
+        {% if currentYear != postYear %}
+            {% set currentYear = postYear %}
+            <span class="post-year">{{ postYear }}</span>
+        {% endif %}
+      {% endif %}
+
+      <div class="photo-timeline-link">
+        {% if post.data.image %}
+            <a class="tiny-thumbnail" href="{{ post.url }}">
+              <img onerror="this.style.display='none'" class="thumbnail" src="/static/img/{{ post.data.image }}?nf_resize=fit&w=64" alt="{{post.data.title}}">
+            </a>
+        {% else %}
+            <a class="tiny-thumbnail" href="{{ post.url }}"></a>
+        {% endif %}
+
+        <div class="hidden">
+            <div class="thumbnail-container">
+              {% if post.data.image %}
+               <a href="{{ post.url }}"><img onerror="this.style.display='none'" class="thumbnail" src="/static/img/{{ post.data.image }}?nf_resize=fit&w=160" alt="{{post.data.title}}"></a>
+              {% endif %} 
+            </div>
+            <div class="summary">
+              <time datetime="{{ post.date | machineDate }}">
+                <small>{{ post.date | readableDate }}</small>
+              </time><br>
+              {% if post.data.title %}
+                 <a href="{{ post.url }}"><h3>{{ post.data.title }}</h3></a>
+              {% else %}
+                Untitled
+              {% endif %} 
+              <br>
+              {% if post.data.tags %}
+                {% for tag in post.data.tags %}
+                  {%- if tag != "post" -%}
+                    {% set tagUrl %}/tags/{{ tag | slug }}/{% endset %}
+                    <a href="{{ tagUrl | url }}" rel="tag">{{ tag }}</a>
+                  {%- endif -%}
+                {% endfor %}
+              {% endif %}
+            </div>
+
+          </div>
+
+      </div>
+    {% endfor %}
+  </div>
+</div>

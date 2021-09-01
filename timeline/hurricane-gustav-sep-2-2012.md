@@ -1,9 +1,10 @@
 ---
-title: riding bikes before Hurricane Gustav
+title: Riding bikes before Hurricane Gustav.
 date: 2014-03-04T16:00:00.000Z
 summary: Riding bikes in fifty mile per hour winds.
 excerpt: Riding bikes in fifty mile per hour winds.
-image: /static/img/timeline/hurricane-gustav-sep-2-2012.jpg
+category: timeline
+image: timeline/hurricane-gustav-sep-2-2012.jpg
 tags:
   - post 
   - New Orleans

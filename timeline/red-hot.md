@@ -1,8 +1,9 @@
 ---
-title: Red Hot
+title: Red Hot.
 date: 2002-11-28T11:00:00.000Z
-summary: We have a ritual regarding this sign
-image: /static/img/timeline/red-hot.jpg
+summary: We start a ritual regarding a sign in Laurel, Mississippi.
+category: timeline
+image: timeline/red-hot-thanksgiving-2000.jpg
 tags:
   - post
   - Chattanooga
@@ -14,7 +15,7 @@ tags:
 
 ---
 
-![Red Hot sign in Laurel](/static/img/timeline/red-hot.jpg "Red Hot sign in Laurel")
+![Red Hot sign in Laurel](/static/img/timeline/red-hot-thanksgiving-2000.jpg "Red Hot sign in Laurel")
 
 I don't really remember how it began, but at some point Trey started calling me on the cellphone when he would pass this sign in Laurel, Mississippi. He would say "Red Hot", and I would know about where he was on the trip back to Chattanooga or to New Orleans. So I started doing it too. Apparently we've been doing this since 2002 or so.
 

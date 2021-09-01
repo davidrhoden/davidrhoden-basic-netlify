@@ -1,14 +1,16 @@
 ---
-title: Sally playing on a boat
+title: Sally played on a boat.
 date: 2012-04-19T12:00:00.000Z
 excerpt: She made a good cap'n.
 summary: She made a good cap'n.
-image: /static/img/sally/sally-on-boat-apr-19-2012.jpg
+category: sally
+image: sally/sally-on-boat-apr-19-2012.jpg
 tags:
   - post 
   - New Orleans
   - Orchid Street
   - Sally
+  - cats
   - boats
 
 ---

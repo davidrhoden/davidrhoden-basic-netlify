@@ -1,9 +1,10 @@
 ---
-title: saw Wayne white exhibit at the Hunter Museum in Chattanooga
+title: I saw the Wayne White exhibit at the Hunter Museum in Chattanooga.
 date: 2017-08-20T17:00:00.000Z
 excerpt: A really fun show.
 summary: A really fun show.
-image: /static/img/timeline/waynewhite/waynewhitelouvins.jpg
+category: timeline
+image: timeline/wayne-white-aug-20-2017/wayne-white-louvins-aug-20-2017.jpg
 tags:
   - post
   - Wayne White
@@ -13,44 +14,51 @@ tags:
 
 ---
 
-![](/static/img/timeline/waynewhite/waynewhitelouvins.jpg "") 
+<div id="viewport">
 
-![](/static/img/timeline/waynewhite/waynewhite-broomhead.jpg "")
+![](/static/img/timeline/wayne-white-aug-20-2017/wayne-white-louvins-aug-20-2017.jpg "") 
 
-![](/static/img/timeline/waynewhite/waynewhite-cutout.jpg "")
+![](/static/img/timeline/wayne-white-aug-20-2017/wayne-white-broomhead-aug-20-2017.jpg "")
 
-![](/static/img/timeline/waynewhite/waynewhite-fluorescent.jpg "")
+![](/static/img/timeline/wayne-white-aug-20-2017/wayne-white-cutout-aug-20-2017.jpg "")
 
-![](/static/img/timeline/waynewhite/waynewhite-hillbilly-head.jpg "")
+![](/static/img/timeline/wayne-white-aug-20-2017/wayne-white-fluorescent-aug-20-2017.jpg "")
 
-![](/static/img/timeline/waynewhite/waynewhite-lbj.jpg "")
+![](/static/img/timeline/wayne-white-aug-20-2017/wayne-white-hillbilly-head-aug-20-2017.jpg "")
 
-![](/static/img/timeline/waynewhite/waynewhite-misscar.jpg "")
+![](/static/img/timeline/wayne-white-aug-20-2017/wayne-white-lbj-aug-20-2017.jpg "")
 
-![](/static/img/timeline/waynewhite/waynewhite-model.jpg "")
+![](/static/img/timeline/wayne-white-aug-20-2017/wayne-white-misscar-aug-20-2017.jpg "")
 
-![](/static/img/timeline/waynewhite/waynewhite-stacedltrmodel.jpg "")
+![](/static/img/timeline/wayne-white-aug-20-2017/wayne-white-model-aug-20-2017.jpg "")
 
-![](/static/img/timeline/waynewhite/waynewhite-wall.jpg "")
+![](/static/img/timeline/wayne-white-aug-20-2017/wayne-white-stacedltrmodel-aug-20-2017.jpg "")
 
-![](/static/img/timeline/waynewhite/waynewhite-wall2.jpg "")
+![](/static/img/timeline/wayne-white-aug-20-2017/wayne-white-wall-aug-20-2017.jpg "")
 
-![](/static/img/timeline/waynewhite/waynewhite-wallart.jpg "")
+![](/static/img/timeline/wayne-white-aug-20-2017/wayne-white-wall2-aug-20-2017.jpg "")
 
-![](/static/img/timeline/waynewhite/waynewhite-watercolor.jpg "")
+![](/static/img/timeline/wayne-white-aug-20-2017/wayne-white-wallart-aug-20-2017.jpg "")
 
-![](/static/img/timeline/waynewhite/waynewhitezines.jpg "") 
+![](/static/img/timeline/wayne-white-aug-20-2017/wayne-white-watercolor-aug-20-2017.jpg "")
 
-![](/static/img/timeline/waynewhite/waynewhite5.jpg "") 
+![](/static/img/timeline/wayne-white-aug-20-2017/wayne-white-zines-aug-20-2017.jpg "") 
 
-![](/static/img/timeline/waynewhite/waynewhite6.jpg "") 
+![](/static/img/timeline/wayne-white-aug-20-2017/wayne-white-5-aug-20-2017.jpg "") 
 
-![](/static/img/timeline/waynewhite/waynewhite7.jpg "") 
+![](/static/img/timeline/wayne-white-aug-20-2017/wayne-white-6-aug-20-2017.jpg "") 
 
-![](/static/img/timeline/waynewhite/waynewhite8.jpg "") 
+![](/static/img/timeline/wayne-white-aug-20-2017/wayne-white-7-aug-20-2017.jpg "") 
 
-![](/static/img/timeline/waynewhite/waynewhite9.jpg "") 
+![](/static/img/timeline/wayne-white-aug-20-2017/wayne-white-8-aug-20-2017.jpg "") 
 
+![](/static/img/timeline/wayne-white-aug-20-2017/wayne-white-9-aug-20-2017.jpg "") 
 
-
-
+</div>
+<div class="flex row-reverse space-between">
+  <div id="caption"></div>
+  <div class="prevnext-container">
+    <button id="buttonPrevious">&#10094;</button>
+    <button id="buttonNext">&#10095;</button>
+  </div>
+</div>
