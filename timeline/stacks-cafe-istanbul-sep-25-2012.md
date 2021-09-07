@@ -4,7 +4,7 @@ date: 2005-01-09T22:00:00.000Z
 summary: It probably wasn't a great idea.
 excerpt: It probably wasn't a great idea.
 category: rock
-image: rock/stacks-big-top-loverde-nov-9-2009.jpg
+image: rock/stacks-flyer-istanbul-sep-26-2012.png
 tags:
   - post
   - rock
