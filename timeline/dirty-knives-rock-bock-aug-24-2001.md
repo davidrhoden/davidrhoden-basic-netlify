@@ -26,6 +26,6 @@ It was cold out. It was around Mardi Gras time. We knew nobody who we thought wo
 
  Dan looked at the guy's set-up and said "O.K.".
 
- This dude had like ten or more cymbals, several of which where not round. They were stop-sign-shaped. Also about four rack toms, a set of roto-toms, double bass I'm sure, and shit like chimes. You couldn't play this kit without running from place to place, it was so big. Dan set up his four-piece kit (of big Vistalites) in front of Lowerline's set. It was an amazing and hilarious sight. I'm sad I took no pictures.
+ This dude had like ten or more cymbals, several of which where not round. They were stop-sign-shaped. Also about four rack toms, a set of roto-toms, double bass I'm sure, and shit like chimes. You couldn't play this kit without running from place to place, it was so big. Dan set up his four-piece kit (of big Vistalites) in front of Lowerline's set. It looked tiny. It was an amazing and hilarious sight. I'm sad I took no pictures.
 
  It wasn't a great gig for us. I'm not precisely sure of the date. But it happened.
