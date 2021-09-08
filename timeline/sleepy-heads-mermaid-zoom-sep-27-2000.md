@@ -1,17 +1,17 @@
 ---
 title: Sleepy Heads played Mermaid Lounge with Zoom.
 date: 2000-09-27T22:00:00.000Z
-image: rock/dirty-knives-mermaid-66-goat-aug-30-2001.jpg
-summary: I think both 66 Goat and Hip Replacements were power duos.
-excerpt: I think both 66 Goat and Hip Replacements were power duos.
+summary: I tried out for Zoom at one point, it didn't go well.
+excerpt: I tried out for Zoom at one point, it didn't go well.
 tags:
   - post 
   - rock
   - New Orleans
   - Mermaid Lounge
+  - Sleepy Heads
   - Zoom
   - Settly
 
 ---
 
-![Flyer for Dirty Knives at Mermaid Lounge with 66 Goat and Hip Replacements, August 30, 2001.](/static/img/rock/dirty-knives-mermaid-66-goat-aug-30-2001.jpg "Flyer for Dirty Knives at Mermaid Lounge with 66 Goat and Hip Replacements, August 30, 2001.")
+I tried out for Zoom at one point, it didn't go well. I'm sure this show went much better. 
