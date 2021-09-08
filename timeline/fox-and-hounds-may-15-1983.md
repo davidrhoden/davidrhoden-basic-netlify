@@ -26,7 +26,7 @@ Fredrico Dixon was chosen to be the Fox. I think he chose himself actually. we g
 
 Except nobody wanted to do it. We knew where the open grave was but we wouldn't go near it. We were sure Fredrico was in it and he would grab a straggler by the ankle and pull him in.
 
-So we walked around the graveyard, sticking to the paths, perfectly happy not to find the Fox. Well, we weren't _perfectly_ happy, in fact we weren't happy at all. We thoguht we needed to succeed at this task, as much of the Scout ethoses involved just that: performing tasks. But we wouldn't go near that grave. I think in the end we just retreated to the cabin.
+So we walked around the graveyard, sticking to the paths, perfectly happy not to find the Fox. Well, we weren't _perfectly_ happy, in fact we weren't happy at all. We thought we needed to succeed at this task, as much of the Scout ethos involved just that: performing tasks. But we wouldn't go near that grave. I think in the end we just retreated to the cabin.
 
 And thinking about it now, I'm pretty sure Fredrico, and probably some of the other older Scouts, weren't anywhere near that graveyard. If one of them had a car to drive, they were probably driving it while us younger guys stumbled around in the dark.
-that makes the most sense to me. In any case, we never found him.
+That makes the most sense to me. In any case, we never found him.
