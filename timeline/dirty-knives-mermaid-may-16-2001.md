@@ -1,7 +1,7 @@
 ---
 title: Dirty Knives played the Mermaid with Fireballs of Freedom.
 date: 2001-05-16T22:00:00.000Z
-image: rock/fireballs-of-freedom-may-16-2001.jpg
+image: timeline/fireballs-of-freedom-may-16-2001.jpg
 tags:
   - post 
   - rock
@@ -18,4 +18,4 @@ I forget who it was.
 
 Fireballs of Freedom ended their set by playing "Lido Shuffle" until the soundman pulled the plug.
 
-![Fireballs of Freedom, not from the New Orleans show.](/static/img/rock/fireballs-of-freedom-may-16-2001.jpg)
+![Fireballs of Freedom, not from the New Orleans show.](/static/img/timeline/fireballs-of-freedom-may-16-2001.jpg)
