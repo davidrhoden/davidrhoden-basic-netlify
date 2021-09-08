@@ -4,7 +4,7 @@ date: 1983-04-12T11:00:00.000Z
 summary: We all had to take it. I guess it was for people who had no dreams.
 excerpt: We all had to take it. I guess it was for people who had no dreams.
 category: timeline
-image: timeline/kuder1400-830412.jpg
+image: timeline/kuder-test-apr-12-1983.jpg
 tags:
   - post 
   - school
@@ -14,7 +14,7 @@ tags:
 
 ---
 
-![scan of Kuder test results](/static/img/timeline/kuder1400-830412.jpg "scan of Kuder test results")
+![scan of Kuder test results](/static/img/timeline/kuder-test-apr-12-1983.jpg "scan of Kuder test results")
 
 We all had to take it. I guess it was for people who had no dreams. 
 
