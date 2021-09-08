@@ -4,7 +4,7 @@ date: 1975-10-01T21:00:00.000Z
 summary: A movie about Orson Welles' War Of The Worlds. I remember they unscrewed a jar in the toilet.
 excerpt: A movie about Orson Welles' War Of The Worlds. I remember they unscrewed a jar in the toilet.
 category: timeline
-image: timeline/the_night_that_panicked_america-oct-31-1975.jpg
+image: timeline/the-night-that-panicked-america-oct-31-1975.jpg
 tags:
   - post
   - movies
@@ -14,7 +14,7 @@ tags:
 
 ---
 
-![The Night That Panicked America tv guide ad](the_night_that_panicked_america-oct-31-1975.jpg "The Night That Panicked America tv guide ad")
+![The Night That Panicked America tv guide ad](the-night-that-panicked-america-oct-31-1975.jpg "The Night That Panicked America tv guide ad")
 
 I got to stay up and watch at least part of this fun movie about how much Orson Welles scared people with his Mercury Theatre _War Of The Worlds_ radio broadcast. They made the spooky sound of the Martian capsule opening by unscrewing a jar lid in a miked toilet. I guess it made me a fan or at least sympathizer for life.
 
@@ -24,4 +24,4 @@ I got to stay up and watch at least part of this fun movie about how much Orson 
 
 Photo credit: Unknown, Fair use, https://en.wikipedia.org/w/index.php?curid=50365941
 
-![The Night That Panicked America](the_night_that_panicked_america.webp "The Night That Panicked America")
+![The Night That Panicked America](the-night-that-panicked-america.webp "The Night That Panicked America")
