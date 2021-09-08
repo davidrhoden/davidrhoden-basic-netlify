@@ -18,4 +18,4 @@ I forget who it was.
 
 Fireballs of Freedom ended their set by playing "Lido Shuffle" until the soundman pulled the plug.
 
-![Fireballs of Freedom, not from the New Orleans show.](/static/imgrock/fireballs-of-freedom-may-16-2001.jpg)
+![Fireballs of Freedom, not from the New Orleans show.](/static/img/rock/fireballs-of-freedom-may-16-2001.jpg)
