@@ -17,7 +17,7 @@ tags:
 
 ---
 
-WTUL (the Tulane student radio station) sponsored some Wednesday night shows at Tipitina's that were supposed to be broadcast live but I don't think they ever were. We played with The Forty Fives a couple of times on their tour. The first time they were great, the second time was the end of their tour and they were fantastic, completely tight. We had changed drummers and kind of gotten worse in the meantime.
+WTUL (the Tulane student radio station) sponsored some Wednesday night shows at Tipitina's that were supposed to be broadcast live but I don't think they ever were. We played with The Forty Fives a couple of times. The first time they were great, the second time was the end of their tour and they were fantastic, completely tight. We had changed drummers and kind of gotten worse in the meantime.
 
 But this was the first time. A bit of trivia I'd like to point out is that my now long-time friends Alec and Christy went on their first date to this show. I'm permanently apologetic about that.
 
