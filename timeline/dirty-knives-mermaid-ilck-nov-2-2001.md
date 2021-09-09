@@ -15,8 +15,14 @@ tags:
   - "J.R.R. Tokin"
   - Hazzard County Girls
   - Rocket 350
+  - Dan Haugh
+  - Shaun Washburn
 
 ---
+
+I broke three strings on the first song and I didn't have a working spare, so it was back to the old school style for yours truly. I just sang and let the band do the hard work like they always do. Shaun played great in his stage debut.
+
+We had a new drummer for this show. I regret that decision. Not because I didn't like our new drummer (Shawn Washburn), or didn't think he was good. I just felt like we should have kept on with Dan. I feel like asking him to leave hurt our friendship, and that we lost a really creative artist and musician.
 
 Immortal Lee County Killers' drummer J.R.R. Tokin' used his floor tom strictly as a coffee table. He had his ashtray, his booze, and I think a little lamp on it.
 
