@@ -39,7 +39,7 @@ When the band went on it was pretty much a drum circle. They had a dark-haired l
 
 On and on Ouroboros banged, but: no didgeridoo. What happened to my new friend?
 
-And then he appeared. He came bursting from back stage, dressed only in a loincloth, barefoot, face and chest painted in a tribal-looking ladder pattern. That all made sense. But did he have a long-tubular instrument, commonly known as a "didgeridoo"? No. He had a microphone. And into this microphone he groaned and moaned and buzzed, just as you might do if you wanted to pretend you played the didgeridoo.
+And then he appeared. He came bursting from back stage, dressed only in a loincloth, barefoot, face and chest painted in a tribal-looking ladder pattern. That all made sense. But did he have a long, tubular instrument, commonly known as a "didgeridoo"? No. He had a microphone. And into this microphone he groaned and moaned, just as you might do if you wanted to pretend you played the didgeridoo.
 
 I don't think I've seen anyone confront a college audience with more effrontery. It was a classic performance, the likes of which I'll never see again. It set the bar.
 
