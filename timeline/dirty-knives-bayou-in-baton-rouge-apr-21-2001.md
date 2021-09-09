@@ -24,7 +24,9 @@ tags:
 
 ---
 
-This was one of the sillliest events I've ever been a part of.
+![still picture of The Bayou, 124 W Chimes St, Baton Rouge, LA 70802, United States, from the movie Sex, Lies, and Videotape](/static/img/rock/dirty-knives-bayou-baton-rouge-exterior-apr-21-2001.png "still picture of The Bayou, 124 W Chimes St, Baton Rouge, LA 70802, United States, from the movie Sex, Lies, and Videotape")
+
+This was one of the silliest events I've ever been a part of.
 
 First of all, we thought we were playing with Electrical Spectacle, who were really good, very fun. They were also smarter than us and refused to travel to Baton Rouge without a guarantee. Loki, the promoter, found a replacement, a hippie conglomerate calling itself Ouroboros like many other hippie conglomerates past and present.
 
@@ -59,4 +61,3 @@ _Rigid turned out to be super nice guys. I thought maybe they would be kind of r
 
 Rigid was fronted by Scott Guion, who turned out to be a terrific painter. [https://www.scottguionart.com/](https://www.scottguionart.com/)
 
-![still picture of The Bayou, 124 W Chimes St, Baton Rouge, LA 70802, United States, from the movie "Sex, Lies, and Videotape"](/static/img/rock/dirty-knives-bayou-baton-rouge-exterior-apr-21-2001.png "still picture of The Bayou, 124 W Chimes St, Baton Rouge, LA 70802, United States, from the movie Sex, Lies, and Videotape)
