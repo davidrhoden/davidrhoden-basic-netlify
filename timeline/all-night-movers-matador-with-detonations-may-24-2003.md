@@ -3,7 +3,7 @@ title: All-Night Movers played El Matador with The Detonations.
 date: 2003-05-23T20:00:00.000Z
 summary: I went walking around Decatur Street before the show.
 excerpt: I went walking around Decatur Street before the show.
-image: /rock/all-night-movers/anm-may-24-2003/anmmatador14.jpg
+image: rock/all-night-movers/anm-may-24-2003/anmmatador14.jpg
 tags:
   - post 
   - All-Night Movers
@@ -49,8 +49,6 @@ I went for a walk before the show. Sorry about the tiny pictures, I had only bad
 ![All-Night Movers played El Matador with The Detonations May 24, 2003.](/static/img/rock/all-night-movers/anm-may-24-2003/anmmatador12.jpg "All-Night Movers played El Matador with The Detonations May 24, 2003.")
 
 ![All-Night Movers played El Matador with The Detonations May 24, 2003.](/static/img/rock/all-night-movers/anm-may-24-2003/anmmatador13.jpg "All-Night Movers played El Matador with The Detonations May 24, 2003.")
-
-![All-Night Movers played El Matador with The Detonations May 24, 2003.](/static/img/rock/all-night-movers/anm-may-24-2003/anmmatador14.jpg "All-Night Movers played El Matador with The Detonations May 24, 2003.")
 
 </div>
 <div class="flex row-reverse space-between">
