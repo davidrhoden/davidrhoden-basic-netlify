@@ -35,7 +35,7 @@ I spoke briefly with one of the members before the show and asked what instrumen
 
 We played first. We had been overserved at the bar and also made the unwise decision to go get Tex-Mex chow down the street so we were absolutely stuffed and sleepy. I think our show went fine. Loki kept trying to talk to me during the set but it was hard to understand him because he was wearing a black bondage mask for some reason, and had to unzip the mouth hole every time he wanted to tell me something. But our set went fine. We played "Blitzkrieg Bop", unrehearsed, as Joey Ramone had died the night before. What a tribute. Next up was Ouroboros.
 
-When the band went on it was pretty much a drum circle. They had a beautiful dark-haired lightly-clad wisp of a woman twirling fire. She told me sincerely she was sorry for my loss, the loss of my friend Joey. "I can tell you were close," she said.
+When the band went on it was pretty much a drum circle. They had a dark-haired lightly-clad wisp of a woman twirling fire as part of the act. She told me sincerely she was sorry for my loss, the loss of my friend Joey. "I can tell you were close," she said.
 
 On and on Ouroboros banged, but: no didgeridoo. What happened to my new friend?
 
