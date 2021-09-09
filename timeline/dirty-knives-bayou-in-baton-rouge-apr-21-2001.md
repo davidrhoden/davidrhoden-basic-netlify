@@ -1,5 +1,5 @@
 ---
-title: Dirty Knives played the Bayou in Baton Rouge with Rigis and Ouroboros.
+title: Dirty Knives played the Bayou in Baton Rouge with Rigid and Ouroboros.
 date: 2001-04-21T22:00:00.000Z
 image: rock/dirty-knives-bayou-baton-rouge-exterior-apr-21-2001.png
 tags:

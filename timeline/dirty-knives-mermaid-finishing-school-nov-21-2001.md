@@ -1,5 +1,5 @@
 ---
-title: Dirty Knives played at El Matador with Fontanelles UK.
+title: Dirty Knives played at Mermaid Lounge with Finishing School.
 date: 2001-09-29T22:00:00.000Z
 image: rock/dirty-knives-mermaid-finishing-school-nov-21-2001.jpg
 tags:
