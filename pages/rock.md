@@ -71,7 +71,7 @@ Fun band I played drums in with "Benny" (real name Mark) and Kelly Vaughn (now K
 
 ![All-Night Movers: Slade Nash, David Rhoden](/static/img/rock/all-night-movers-cover-aug-3-2002.jpg)
 
-Slade Nash auditioned for The Stacks with a stand-up kit that included a snow shovel and a motorcycle rim. It wasn't a match but I kept his number. We started a two-piece band that only lasted one year but we played fifty-two shows in I  think seven states.
+Slade Nash auditioned for The Stacks with a stand-up kit that included a snow shovel and a motorcycle rim. It wasn't a match but I kept his number. We started a two-piece band that only lasted one year but we played fifty-two shows in (I think) seven states.
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2852397807/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://davidrhoden.bandcamp.com/album/all-night">All Night by All-Night Movers</a></iframe>
 

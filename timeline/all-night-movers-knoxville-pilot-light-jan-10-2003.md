@@ -13,9 +13,13 @@ tags:
   - Tennessee
   - Pilot Light
   - James Henry
-
+  - Cyndi
+  - Katie
+  - Beverly
 
 ---
+
+January 10, 2003.
 
 James Henry did a comedy set to open the show. He also videotaped the show for us, and then everybody was so respectful of the video camera they stayed out of its line of sight so it lookos like noobody came to the show. Oh well. that club has too much comfortable seating anyway.
 
