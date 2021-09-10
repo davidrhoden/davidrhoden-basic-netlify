@@ -1,6 +1,6 @@
 ---
 title: I got started on a painting of a Unimog.
-date: 2003-05-23T12:00:00.000Z
+date: 2021-09-10T12:00:00.000Z
 summary: I took a picture of this wonder truck in Chattanooga last Thanksgiving.
 excerpt: I took a picture of this wonder truck in Chattanooga last Thanksgiving.
 image: timeline/unimog-tracing-on-paper-sep-10-2021.jpg

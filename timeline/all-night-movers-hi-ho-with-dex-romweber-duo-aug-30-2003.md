@@ -1,0 +1,25 @@
+---
+title: All-Night Movers played the Hi-Ho Lounge with Dex Romweber Duo.
+date: 2003-08-30T21:00:00.000Z
+summary: A huge handful of people came.
+excerpt: A huge handful of people came.
+category: timeline
+image: timeline/HiHoLoungeExterior.jpg
+tags:
+  - post
+  - rock
+  - All-Night Movers
+  - New Orleans
+  - Hi-Ho Lounge
+  - Dexter Romweber
+  - Crash LaResh
+  - soundmen
+
+---
+
+We played so well at this show and Dex was great too. Unfortunately the club promoted the show not at all, and neither did I for some reason. We may have been a late addition to the bill (added in hopes we would promote the show, I bet). He was very unsocial (not a surprise) and sat in his car pounding Bucklers most of the evening. The drummer was very friendly. They were touring for their album _chased By Martians_, which I remember had a nice cover of "The Seeker".
+
+The Hi-Ho was a weird club at this time. It seemed like nobody was running it. There was nobody to ask about anything. The sound kind of did itself.
+
+![Hi-Ho Lounge New Orleans. Exterior view at night. 6 September 2008 SanFranAnnie / Ann Larie Valentine](/static/img/timeline/HiHoLoungeExterior.jpg "Hi-Ho Lounge New Orleans. Exterior view at night. 6 September 2008 SanFranAnnie / Ann Larie Valentine")
+<figcaption>Photo by SanFranAnnie / Ann Larie Valentine</figcaption>

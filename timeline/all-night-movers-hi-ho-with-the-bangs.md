@@ -1,5 +1,5 @@
 ---
-title: All-Night Movers played the Hi-Ho Lounge with the Bangs.
+title: All-Night Movers played the Hi-Ho Lounge with the Bangs and Original 3.
 date: 2003-01-31T21:00:00.000Z
 summary: The Bangs had a song called "Dirty Knives".
 excerpt: The Bangs had a song called "Dirty Knives".
@@ -11,7 +11,8 @@ tags:
   - All-Night Movers
   - New Orleans
   - Hi-Ho Lounge
-  - The Bangs
+  - Bangs
+  - Original 3
 
 ---
 
