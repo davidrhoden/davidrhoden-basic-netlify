@@ -7,6 +7,7 @@ tags:
   - rock
   - New Orleans
   - Santos
+  - Tyler Keith
   - Tyler Keith and The Apostles
   - Redondo Beat
   - Gina
@@ -23,6 +24,6 @@ I liked his last album but it doesn't have the name on the spine (it doesn't hav
 After this show everything got locked down.
 
 
-![](/static/img/timeline/tyler-keith-by-chris-g-mar-8-2020.jpg)
+![Tyler Keith and the Apostles at Santos, March 8, 2020.](/static/img/timeline/tyler-keith-by-chris-g-mar-8-2020.jpg)
 
 Photo of Tyler Keith by Christie Gladney, swiped from Facebook.
