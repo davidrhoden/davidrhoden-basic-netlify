@@ -10,7 +10,7 @@ tags:
   - New Orleans
   - Tipitinas
   - Dan Haugh
-  - Anthony DelRosario
+  - Anthony Del Rosario
   - WTUL
   - Rock-A-Teens
   - Ballard Lesemann
