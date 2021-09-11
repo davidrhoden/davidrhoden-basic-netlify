@@ -3,7 +3,7 @@ title: All-Night Movers played Star Bar in Atlanta.
 date: 2003-01-10T12:00:00.000Z
 summary: We played with a band called the A-Sides.
 excerpt: We played with a band called the A-Sides.
-image: rock/all-night-movers/us-tour-jan-9-11-2003/anm-georgia-5.jpg
+image: rock/all-night-movers/us-tour-jan-9-11-2003/anm-georgia-05.jpg
 tags:
   - post 
   - rock
@@ -20,11 +20,11 @@ tags:
 
 <div id="viewport">
 
-![All-Night Movers on tour, January 2003.](/static/img/rock/all-night-movers/us-tour-jan-9-11-2003/anm-georgia-5.jpg)
+![All-Night Movers on tour, January 2003.](/static/img/rock/all-night-movers/us-tour-jan-9-11-2003/anm-georgia-05.jpg)
 
-![All-Night Movers on tour, January 2003.](/static/img/rock/all-night-movers/us-tour-jan-9-11-2003/anm-georgia-6.jpg)
+![All-Night Movers on tour, January 2003.](/static/img/rock/all-night-movers/us-tour-jan-9-11-2003/anm-georgia-06.jpg)
 
-![All-Night Movers on tour, January 2003.](/static/img/rock/all-night-movers/us-tour-jan-9-11-2003/anm-georgia-7.jpg)
+![All-Night Movers on tour, January 2003.](/static/img/rock/all-night-movers/us-tour-jan-9-11-2003/anm-georgia-07.jpg)
 
 ![All-Night Movers on tour, January 2003.](/static/img/rock/star-bar-sign.jpg)
 
