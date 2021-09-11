@@ -18,7 +18,7 @@ tags:
 
 ---
 
-This was so fun. The funny ting is, we didn't know Texas clubs had to close at midnight Saturday. The bouncers grabbed our beers out of our hands and slammed them into a contractor bag. At first we were mad but we noticed it got people to come out a a decent hour, unlike in New Orleans where people don't show up till after midnight.
+This was so fun. The funny thing is, we didn't know Texas clubs had to close at midnight Saturday. The bouncers grabbed our beers out of our hands and slammed them into a contractor bag. At first we were mad but we noticed it got people to come out a a decent hour, unlike in New Orleans where people don't show up till after midnight.
 
 Aubrey and her partner did the go-go boots dancing thing.
 
