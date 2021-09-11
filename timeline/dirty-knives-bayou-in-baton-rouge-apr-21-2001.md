@@ -43,11 +43,11 @@ And then he appeared. He came bursting from back stage, dressed only in a loincl
 
 I don't think I've seen anyone confront a college audience with more effrontery. It was a classic performance, the likes of which I'll never see again. It set the bar.
 
-Rigid was a bit of an anti-climax after that; they played a solid show, but by that time the topless cage dancers that Loki had spent the guarantee money on arrived and took their shirts off, causing the crowd to come up to the front, but not for the bands.  
+Rigid was a bit of an anti-climax after that; they played a solid show, but by that time the topless cage dancers that Loki had spent the guarantee money on arrived and took their shirts off, causing the crowd to come up to the front, just not for the bands.  
 
 Trey and I loaded some of our gear out to the rented trailer and noticed we forgot to bring a lock, and would need to stand guard over our stuff. Which was interesting. A young, nice-looking girl was occupying the center of the parking lot, offering to fight anyone who had the guts to tell her she had maybe had enough to drink. The first guy to try it got whupped pretty good, not with your standard punches, more like big arm-swinging slaps to the head and face. Everyone that approached her, guys, girls; they all got the same treatment. Knocked to the pavement. I don't think they ever got her to settle down. We had to leave before that.
 
-On our way back, we got passed by a van that had to be going a hundred miles an hour. It was startling. We resolved to drive carefully. And as we were driving, we saw the van again, now pulled over, its inhabitants spread out for patdowns on the side of the van. And among them, in the glow of a cop's Maglite, were the wisp-woman and the didge man, still in his loincloth.
+On our way back, we got passed by a wobbling van that had to be going a hundred miles an hour. It was startling. We resolved to drive carefully. And as we were driving, we saw the van again, now pulled over, its inhabitants spread out for patdowns on the side of the van. And among them, in the glow of a cop's Maglite, were the wisp-woman and the didge man, still in his loincloth.
 
 ------
 
