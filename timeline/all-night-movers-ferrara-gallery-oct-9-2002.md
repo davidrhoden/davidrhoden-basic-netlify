@@ -3,7 +3,7 @@ title: All-Night Movers played at Jonathan Ferrara Gallery on Carondelet Street.
 date: 2002-10-09T19:00:00.000Z
 summary: It was insanely loud inside, so we took the show out to the sidewalk.
 excerpt: It was insanely loud inside, so we took the show out to the sidewalk.
-image: /rock/all-night-movers/anm-oct-9-2002/all-night-movers-dave-oct-9-2002.jpg
+image: /rock/all-night-movers/ferrara-gallery-oct-9-2002/all-night-movers-ferrara-window-by-jeff-pounds.jpg
 tags:
   - post 
   - All-Night Movers
@@ -14,6 +14,9 @@ tags:
 ---
 
 We got asked to play an art gallery openeing, something I don't recommend. It was so loud and reverberative in the gallery, even I couldn't tolerate it, but the gallery had a big front window, so we just moved our gear out onto Carondelet Strett and played there. One of the funnest gigs I can remember.
+
+![Photo of David Rhoden jumping with a guitar in hand, October 9, 2002.](/static/img/rock/all-night-movers/ferrara-gallery-oct-9-2002/all-night-movers-ferrara-window-by-jeff-pounds.jpg)
+My favorite picture of me ever. Photo by Jeff Pounds.
 
 (32 photos)
 
