@@ -46,8 +46,6 @@ I went for a walk before the show. Sorry about the tiny pictures, I had only bad
 
 ![All-Night Movers played El Matador with The Detonations May 24, 2003.](/static/img/rock/all-night-movers/anm-may-24-2003/anmmatador11.jpg "All-Night Movers played El Matador with The Detonations May 24, 2003.")
 
-![All-Night Movers played El Matador with The Detonations May 24, 2003.](/static/img/rock/all-night-movers/anm-may-24-2003/anmmatador12.jpg "All-Night Movers played El Matador with The Detonations May 24, 2003.")
-
 ![All-Night Movers played El Matador with The Detonations May 24, 2003.](/static/img/rock/all-night-movers/anm-may-24-2003/anmmatador13.jpg "All-Night Movers played El Matador with The Detonations May 24, 2003.")
 
 ![All-Night Movers played El Matador with The Detonations May 24, 2003.](/static/img/rock/all-night-movers/anm-may-24-2003/anmmatador14.jpg "All-Night Movers played El Matador with The Detonations May 24, 2003.")
