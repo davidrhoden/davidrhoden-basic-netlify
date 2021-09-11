@@ -6,6 +6,7 @@ tags:
   - post 
   - rock
   - Baton Rouge
+  - Louisiana
   - The Bayou
   - Dirty Knives
   - Loki
