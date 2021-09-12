@@ -24,4 +24,4 @@ When I worked at the taco stand in the mall, there was a Chinese kitchen next to
 
 The cooks over there also sat on the floor with cutting boards to chop veggies and they had cans of Red, White, and Blue beer going at seven a.m. when I got to work. We ate there all the time.
 
-![Eastgate mall interior, undated.](/static/img/timeline/eastgate-mall-interior-undated.jpg
+![Eastgate mall interior, undated.](/static/img/timeline/eastgate-mall-interior-undated.jpg)
