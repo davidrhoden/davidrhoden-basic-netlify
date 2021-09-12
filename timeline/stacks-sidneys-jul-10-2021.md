@@ -21,5 +21,4 @@ Well attended show. Some friends I invited came, and Andrew brough along his Hom
 
 Stacks at Sidney's Saloon, photo by Noy Sourivavong.
 
-
 ![Sidney's Saloon sign](/static/img/rock//sidneys-saloon-sign.jpg "Sidney's Saloon sign")
