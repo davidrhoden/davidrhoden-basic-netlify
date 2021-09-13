@@ -4,7 +4,7 @@ date: 2004-02-16T20:00:00.000Z
 summary: Just four days after our first show.
 excerpt: Just four days after our first show.
 category: timeline
-image: rock/maximvs/maximvs-big-top-feb-16-2004/maximvs-big-top-1-feb-16-2004.jpg
+image: rock/maximvs/maximvs-treys-house-feb-16-2004/maximvs-1-feb-16-2004.jpg
 tags:
   - post 
   - rock
@@ -12,7 +12,7 @@ tags:
   - New Orleans
   - Mardi Gras
   - Milan Street
-
+  
 ---
 
 We decided to have a party instead of just practicing like we were supposed to.
