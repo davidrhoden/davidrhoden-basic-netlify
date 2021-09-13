@@ -13,5 +13,5 @@ tags:
 
 ---
 
-I just have no data on this show at this time. I think it was noted doown as "Stacks Reunion" in my datebook and that's all I got.
+I just have no data on this show at this time. I think it was noted down as "Stacks Reunion" in my datebook and that's all I got.
 
