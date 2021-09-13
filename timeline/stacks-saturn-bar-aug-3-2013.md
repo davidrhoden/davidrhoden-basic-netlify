@@ -11,6 +11,7 @@ tags:
   - shows
   - New Orleans
   - Saturn Bar
+  - Mystery Girl
   - Michael Raeder
 
 ---
@@ -20,4 +21,4 @@ tags:
 I think this was the show where the bartender Bridget pulled the plug on the opening band because she was ready for us to come on, aggravating the singer.
 
 ![Dave playing with Stacks at Saturn Bar](/static/img/rock/stacks-m-raeder-aug-3-2013.jpg "Dave playing with Stacks at Saturn Bar")
-<<figcaption>Photo by Michael Raeder</figcaption>
+<figcaption>Photo by Michael Raeder</figcaption>
