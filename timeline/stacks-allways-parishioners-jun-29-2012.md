@@ -12,9 +12,36 @@ tags:
   - Allways Lounge
   - New Orleans
   - The Parishioners
+  - Michael Raeder
 
 ---
 
 ![Stacks flyer with for show with The Parishioners](/static/img/rock/stacks-flyer-parishioners-allways-jun-29-2012.jpg "Stacks flyer with for show with The Parishioners")
 
 I always liked playing this club. Parishioners were good too.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Stacks<br />
+Redondo Beat<br />
+Thursday, August 9, 2012<br />
+Allways Lounge<br />
+2240 St. Claude Avenue<br />
+New Orleans Louisiana<br />

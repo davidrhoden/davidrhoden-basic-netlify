@@ -2,17 +2,28 @@
 title: The Stacks played at the Big Top.
 date: 2012-09-11T22:00:00.000Z
 summary: We went on real late if I recall.
-excerpt:  We went on real late if I recall.
+excerpt: We went on real late if I recall.
 image: rock/stacks-big-top-sep-11-2012/flyer120911.png
 tags:
   - post 
-  - cats 
-  - Sally
-  - Brooklyn
-  - Bushwick
-  - yards
+  - rock
+  - New Orleans
+  - The Stacks
+  - Clint Maedgen
+  - Dinteen
+  - The Big Top
 
 ---
+
+Clint Maedgen at 8
+The Stacks at 9
+Dinteen Experience at 10
+Tuesday, September 11
+The Big Top
+1638 Clio Street
+New Orleans Louisiana
+
+We actually went on after eleven, long after all but three or four people had cleared out of the place.
 
 <div id="viewport">
 
