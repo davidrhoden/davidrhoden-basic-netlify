@@ -13,7 +13,6 @@ tags:
   - New Orleans
   - Jeff Pounds
   - Trey Ledford
-  - Tad Mondale
   - Three Ring Circus
   - Adele Borie
   - Kirah Haubrich

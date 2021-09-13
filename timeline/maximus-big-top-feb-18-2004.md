@@ -21,8 +21,6 @@ tags:
 
 ---
 
-![MAXIMVS! plays at the Big Top Gallery, February 18, 2004.](/static/img/rock/maximvs/maximvs-big-top-feb-18-2004/maximvs-big-top-1-feb-18-2004.jpg)
-
 I guess the Three Ring Circus couldn't get enough MAXIMVS! We were back just six days after our first show for a pre-parade show at the Big Top.
 
 I think we played both before and after the Saturn and Muses parades.
