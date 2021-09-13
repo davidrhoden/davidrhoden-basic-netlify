@@ -1,8 +1,6 @@
 ---
-title: Stacks played the Circle Bar on a Friday this time.
-date: 2004-12-03T22:00:00.000Z
-summary: A monday night.
-excerpt: A monday night.
+title: Stacks played the Circle Bar again.
+date: 2004-06-28T22:00:00.000Z
 tags:
   - post 
   - New Orleans
@@ -14,38 +12,4 @@ tags:
 
 ---
 
-A monday night. I think for a month we played every Monday at the Circle Bar. Did that happen?
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-The Stacks<br />
-Circle Bar<br />
-Friday December 3, 2004<br />
-10pm<br />
+Details? I don't have any. 
