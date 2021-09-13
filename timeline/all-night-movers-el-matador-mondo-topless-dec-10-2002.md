@@ -1,6 +1,6 @@
 ---
 title: All-Night Movers played at El Matador with Mondo Topless.
-date: 2001-122-1022:00:00.000Z
+date: 2001-12-10T22:00:00.000Z
 summary: We went out for fried chicken after.
 excerpt:  We went out for fried chicken after.
 category: timeline

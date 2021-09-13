@@ -57,9 +57,9 @@ David Rhoden, Selfie, Bushwick, 2008
 
 ---
 
-![David Rhoden with MAXIMVS! (Trey Ledford, Jeff Pounds) at Circle Bar, New Orleans, 2000s](/static/img/rock/maximvs01.jpg)
+![David Rhoden with MAXIMVS! (Trey Ledford, Jeff Pounds) at Circle Bar, New Orleans, 2004](/static/img/rock/maximvs/maximvs-01.jpg)
 
-David Rhoden with MAXIMVS! (Trey Ledford, Jeff Pounds) at Circle Bar, New Orleans, 2000s
+David Rhoden with MAXIMVS! (Trey Ledford, Jeff Pounds) at Circle Bar, New Orleans, 2004
 
 ---
 
