@@ -1,6 +1,6 @@
 ---
 title: The Stacks played Allways Lounge on Lundi Gras with M.C. Sweet Tea.
-date: 2021-09-10T16:00:00.000Z
+date: 2013-02-11T20:00:00.000Z
 summary: Paul Caporino from M.O.T.O. was on this bill as well?
 excerpt: Paul Caporino from M.O.T.O. was on this bill as well?
 image: rock/stacks-flyer-lundigras-feb-11-2013.jpg

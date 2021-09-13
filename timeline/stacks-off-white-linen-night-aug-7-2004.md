@@ -1,5 +1,5 @@
 ---
-title: The Stacks played a party; it turned into a struggle.
+title: The Stacks played a party. Tt turned into a struggle.
 date: 2004-08-07T18:00:00.000Z
 summary: The gig itself wasn't remarkable but the aftermath was.
 excerpt: The gig itself wasn't remarkable but the aftermath was.

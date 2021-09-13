@@ -1,6 +1,6 @@
 ---
 title: "Stacks played at BJ's Lounge."
-date: 2005-08-133T22:00:00.000Z
+date: 2005-08-13T22:00:00.000Z
 tags:
   - post 
   - rock
