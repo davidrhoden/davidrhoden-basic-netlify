@@ -2,7 +2,7 @@
 title: MAXIMVS! played the Circle Bar.
 date: 2004-07-11T11:00:00.000Z
 summary: Not sure who took all these.
-excerpt:  Not sure who took all these.
+excerpt: Not sure who took all these.
 image: /rock/maximvs-circle-bar-jul-11-2006/maximvs-allthree-jul-11-2006.jpg
 tags:
   - post 
