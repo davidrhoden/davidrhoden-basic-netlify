@@ -1,5 +1,5 @@
 ---
-title: The Stacks played the hi-Ho Lounge with Lauren Oglesby and Laugh In the Dark.
+title: The Stacks played the Hi-Ho Lounge with Lauren Oglesby and Laugh In the Dark.
 date: 2014-04-14T21:00:00.000Z
 excerpt: Lauren Oglesby brought all the people.
 summary: Lauren Oglesby brought all the people.
