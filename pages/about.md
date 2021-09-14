@@ -69,7 +69,7 @@ David Rhoden with All-Night Movers at Circle Bar New Orleans, 2003?
 
 ---
 
-![David Rhoden with All-Night Movers, New Orleans, 2002 (Photo by Jeff Pounds.)](/static/img/rock/ferrara-gallery-oct-9-2002/all-night-movers-feerrara-window-by-jeff-pounds.jpg)
+![David Rhoden with All-Night Movers, New Orleans, 2002 (Photo by Jeff Pounds.)](/static/img/rock/ferrara-gallery-oct-9-2002/all-night-movers-ferrara-window-by-jeff-pounds.jpg)
 
 David Rhoden with All-Night Movers, New Orleans, 2002 (Photo by Jeff Pounds.)
 
