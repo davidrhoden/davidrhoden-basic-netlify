@@ -507,6 +507,10 @@ p.postdate h3 {
     font-size: .75em;
 }
 
+.text-timeline-link {
+	padding:  .25em .5em;
+}
+
 .text-timeline-link a {
 	color:  var(--black);
 }
