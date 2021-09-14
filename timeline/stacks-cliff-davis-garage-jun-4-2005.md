@@ -1,8 +1,8 @@
 ---
-title: "The Stacks played at Dr. Cliff Davis's garage."
+title: "The Stacks played at Dr. Cliff Davis's garage again."
 date: 2005-06-04T20:00:00.000Z
-summary: The first of a couple of excellent garage shows.
-excerpt: The first of a couple of excellent garage shows.
+summary: The second of a couple of excellent garage shows.
+excerpt: The second of a couple of excellent garage shows.
 category: rock
 tags:
   - post
