@@ -21,7 +21,7 @@ I have had more jobs than you can count, including being an ice cream man and an
 
 I am also a musician, currently playing guitar with The Stacks; previously, I was a member of Mountain Shoutin', Jimmy and the Wolfpack, All-Night Movers, The Sleepy Heads, MAXIMVS!, Dirty Knives, The Hi-Balls, Snake Oil, Everything Tool, The Innuendos, Dark Marbles, Cheerio and the Camels, and The Red M&Ms.
 
-![David Rhoden with The Stacks (Andrew Donaldson, Steve Walkup, Tom Beeman) at Gasa Gasa, New Orleans, 2018](/static/img/rock/stacks-gasa-gasa-aug-18-2019.jpg)
+![David Rhoden with The Stacks (Andrew Donaldson, Steve Walkup, Tom Beeman) at Gasa Gasa, New Orleans, 2018](/static/img/rock/stacks-gasa-gasa-aug-11-2018.jpg)
 
 David Rhoden with The Stacks (Andrew Donaldson, Steve Walkup, Tom Beeman) at Gasa Gasa, New Orleans, 2018
 
@@ -45,7 +45,7 @@ David Rhoden outside Chart Room bar, New Orleans, 2010s
 
 ---
 
-![David Rhoden drumming with Jimmy and The Wolfpack, 2009](/static/img/rock/jandtwp-lakeside-feb-26-2009/davedrummingatlakeside_sm.jpg.jpg)
+![David Rhoden drumming with Jimmy and The Wolfpack, 2009](/static/img/rock/jandtwp-lakeside-feb-26-2009/davedrummingatlakeside_sm.jpg)
 
 David Rhoden drumming with Jimmy and The Wolfpack, 2009
 
