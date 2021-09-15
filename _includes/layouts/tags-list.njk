@@ -2,24 +2,24 @@
 layout: layouts/page.njk
 ---
 
-<h2>
+{# <h2>
 <a href="#tags-alpha">Sort alphabetically</a> &bull;
 <a href="#tags-number-of-posts">Sort by number of posts</a>
-</h2>
+</h2> #}
 
-<section id="tags-alpha">
+{# <section id="tags-alpha">
 {% for tag in collections.tagList | sort %}
   {% set tagUrl %}/tags/{{ tag | slug }}/{% endset %}
   <a href="{{ tagUrl | url }}" class="post-tag">{{ tag }}</a> &bullet; 
 {% endfor %}
-</section>
+</section> #}
 
 <section id="tags-number-of-posts">
-  {% for tag2, posts2 in collections | sort(attribute="posts2.length") %}
-  {% set tag2Url %}/tags/{{ tag2 | slug }}/{% endset %}
+  {% for tag2, posts2 in collections | dictsort %}
+  {% set tagUrl %}/tags/{{ tag2 | slug }}/{% endset %}
    <a href="{{ tag2Url | url }}" class="post-tag">{{ tag2 }} ({{ posts2 | length }})</a><br/>
   {% endfor %}
 </section>
 
 <hr>
-<pre>tag@Url: {{ tag2Url | log }}</pre>
+<pre>tag@Url: {{ tagUrl | log }}</pre>
