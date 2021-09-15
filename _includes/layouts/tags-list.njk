@@ -15,10 +15,10 @@ layout: layouts/page.njk
 </section>
 
 <section id="tags-number-of-posts">
-  {%- for tag2, posts2 in collections | dictsort %}
-  {% set tagUrl %}/tags/{{ tag2 | slug }}/{% endset %}
-   <a href="{{ tagUrl | url }}" class="post-tag">{{ tag2 }} ({{ posts2 | length }})</a><br/>
-  {%- endfor %}
+  {% for tag2, posts2 in collections | dictsort %}
+  {% set tag2Url %}/tags/{{ tag2 | slug }}/{% endset %}
+   <a href="{{ tag2Url | url }}" class="post-tag">{{ tag2 }} ({{ posts2 | length }})</a><br/>
+  {% endfor %}
 </section>
 
-<pre>{% debug %}</pre>
+<pre>{{ tag2Url | dump }}</pre>
