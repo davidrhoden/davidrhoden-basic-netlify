@@ -11,7 +11,7 @@ image: /static/img/about/david-with-beard-oct-1-2020-7bb4fb.jpg
 
 <div class="intro-home">
 	<div>
-		<img class="self-portrait" src="/static/img/about/david-with-beard-oct-1-2020-white.png" alt="photo of David Rhoden">
+		<img class="self-portrait" src="/static/img/about/david-self-with-drink-vectorized-w.png" alt="illustration of David Rhoden">
 	</div>
 	<div>
 		<p>My name is David Rhoden. I'm a <a href="paintings">painter</a>, an <a href="illustrations">illustrator</a>, an <a href="animations">animator</a>, and a <a href="designs">designer</a>.</p>
