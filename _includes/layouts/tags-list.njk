@@ -8,7 +8,7 @@ layout: layouts/page.njk
 </h2>
 
 <section id="tags-alpha">
-{% for tag in collections.tagList | dictsort %}
+{% for tag in collections.tagList | sort %}
   {% set tagUrl %}/tags/{{ tag | slug }}/{% endset %}
   <a href="{{ tagUrl | url }}" class="post-tag">{{ tag }}</a> &bullet; 
 {% endfor %}
@@ -21,4 +21,5 @@ layout: layouts/page.njk
   {% endfor %}
 </section>
 
-<pre>{{ tag2Url | log }}</pre>
+<hr>
+<pre>tag@Url: {{ tag2Url | log }}</pre>
