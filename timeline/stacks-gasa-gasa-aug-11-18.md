@@ -23,4 +23,4 @@ We like this venue a lot but wow they had the volume turned up on this particula
 
 I made an animation to advertise the show on Facebook, since that's how we're doing things now.
 
-![animation advertising rock show](/static/img/rock/gasagasa-180807.gif "animation advertising rock show")
+![animation advertising rock show](/static/img/animation/gasagasa-animation-aug-7-2018.gif "animation advertising rock show")
