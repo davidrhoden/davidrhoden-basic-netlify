@@ -15,7 +15,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPlugin(pluginSEO, {
     title: "David Rhoden",
     description: "The website of New Orleans-based artist David Rhoden.",
-    url: "https://davidrhoden.com",
+    url: "https://davidrhoden.com/",
     author: "David Rhoden",
     twitter: "davidrhoden",
     image: "/static/img/paintings/bigface-wide.jpg",
@@ -44,9 +44,9 @@ module.exports = function(eleventyConfig) {
     (page, root = "/") => '${require("path").relative(page.filePathStem, root)}/'
   );
 
-
   eleventyConfig.addCollection('bySize', (collectionApi) => {
     const allPosts = collectionApi.getAll();
+
     const countPostsByTag = new Map();
     allPosts.forEach((post) => {
       // short circuit eval sets tags to an empty array if there are no tags set
@@ -60,14 +60,9 @@ module.exports = function(eleventyConfig) {
     // Maps are iterators so we spread it into an array to sort
     // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map/entries
     // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort
-    const sortedArray = [...countPostsByTag].sort((a, b) => b[1] - a[1]);
-    
-    // this function returns an array of [tag, count] pairs sorted by count
-    // [['bonfires', 4], ['books', 3], ['boats', 2], ...]
+    const sortedArray = [...countPostsByTag].sort((a, b) => b[1] - a[1])
     return sortedArray;
   })
-  }
-
 
   eleventyConfig.addCollection("posts", function(collection) {
     const coll = collection.getFilteredByTag("post");
