@@ -624,6 +624,13 @@ span.fade:hover {
 
 /******* END TEXT-TIMELINE *******/
 
+.newspaper {
+	background: url(/static/img/timeline/paper-light.jpg) center center no-repeat;
+	background-size: cover;
+	font-family: "Times New Roman", serif;
+	padding: 3em;
+}
+
 .tech {
 	color: var(--gray);
 	font-size: .8rem;
