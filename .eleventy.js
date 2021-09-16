@@ -60,11 +60,9 @@ module.exports = function(eleventyConfig) {
     // Maps are iterators so we spread it into an array to sort
     // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map/entries
     // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort
-    const sortedArray = [...countPostsByTag].sort((a, b) => b[1] - a[1])
-    
-    // this function returns an array of [tag, count] pairs sorted by count
-    // [['bonfires', 4], ['books', 3], ['boats', 2], ...]
-    return sortedArray
+    const sortedArray = [...countPostsByTag].sort((a, b) => b[1] - a[1]);
+  
+    return sortedArray;
   })
 
   eleventyConfig.addCollection("posts", function(collection) {
