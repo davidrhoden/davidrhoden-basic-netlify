@@ -9,6 +9,7 @@ tags:
   - post 
   - New Orleans
   - music
+  - rock
   - Golden Ray
   - George Wilde
   - Lo Amps

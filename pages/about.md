@@ -21,7 +21,7 @@ I have had more jobs than you can count, including being an ice cream man and an
 
 I am also a musician, currently playing guitar with The Stacks; previously, I was a member of Mountain Shoutin', Jimmy and the Wolfpack, All-Night Movers, The Sleepy Heads, MAXIMVS!, Dirty Knives, The Hi-Balls, Snake Oil, Everything Tool, The Innuendos, Dark Marbles, Cheerio and the Camels, and The Red M&Ms.
 
-![David Rhoden with The Stacks (Andrew Donaldson, Steve Walkup, Tom Beeman) at Gasa Gasa, New Orleans, 2018](/static/img/rock/stacksatgasagasa.jpg)
+![David Rhoden with The Stacks (Andrew Donaldson, Steve Walkup, Tom Beeman) at Gasa Gasa, New Orleans, 2018](/static/img/rock/stacks-gasa-gasa-aug-11-2018.jpg)
 
 David Rhoden with The Stacks (Andrew Donaldson, Steve Walkup, Tom Beeman) at Gasa Gasa, New Orleans, 2018
 
@@ -45,9 +45,9 @@ David Rhoden outside Chart Room bar, New Orleans, 2010s
 
 ---
 
-![David Rhoden drumming with Jimmy and The Wolfpack, 2010s](/static/img/rock/jawpdaviddrumminglakeside.jpg)
+![David Rhoden drumming with Jimmy and The Wolfpack, 2009](/static/img/rock/jandtwp-lakeside-feb-26-2009/davedrummingatlakeside_sm.jpg)
 
-David Rhoden drumming with Jimmy and The Wolfpack, 2010s
+David Rhoden drumming with Jimmy and The Wolfpack, 2009
 
 ---
 
@@ -57,31 +57,31 @@ David Rhoden, Selfie, Bushwick, 2008
 
 ---
 
-![David Rhoden with MAXIMVS! (Trey Ledford, Jeff Pounds) at Circle Bar, New Orleans, 2000s](/static/img/rock/maximvs01.jpg)
+![David Rhoden with MAXIMVS! (Trey Ledford, Jeff Pounds) at Circle Bar, New Orleans, 2004](/static/img/rock/maximvs/maximvs-big-top-feb-18-2004/david-drumming-feb-18-2004.jpg)
 
-David Rhoden with MAXIMVS! (Trey Ledford, Jeff Pounds) at Circle Bar, New Orleans, 2000s
+David Rhoden with MAXIMVS! (Trey Ledford, Jeff Pounds) at Circle Bar, New Orleans, 2004
 
 ---
 
-![David Rhoden with All-Night Movers, New Orleans, 2003](/static/img/rock/davetalktoit.jpg)
+![David Rhoden with All-Night Movers, New Orleans, 2003](/static/img/rock/all-night-movers/circle-bar-oct-3-2002/all-night-movers-davetalktoit.jpg)
 
 David Rhoden with All-Night Movers at Circle Bar New Orleans, 2003?
 
 ---
 
-![David Rhoden with All-Night Movers, New Orleans, 2003 (Photo by Jeff Pounds.)](/static/img/rock/ferrarabg.jpg)
+![David Rhoden with All-Night Movers, New Orleans, 2002 (Photo by Jeff Pounds.)](/static/img/rock/all-night-movers/ferrara-gallery-oct-9-2002/all-night-movers-ferrara-window-by-jeff-pounds.jpg)
 
-David Rhoden with All-Night Movers, New Orleans, 2003 (Photo by Jeff Pounds.)
-
----
-
-![David Rhoden with All-Night Movers (Slade Nash), house party, New Orleans, 2003](/static/img/rock/cover020803.jpg)
-
-David Rhoden with All-Night Movers (Slade Nash), house party, New Orleans, 2003
+David Rhoden with All-Night Movers, New Orleans, 2002 (Photo by Jeff Pounds.)
 
 ---
 
-![David Rhoden with Stacks (Steve Walkup, Trey Ledford, Doug DeRienzo), New Orleans rooftop, 2000s](/static/img/rock/stackstumbler.jpg)
+![David Rhoden with All-Night Movers (Slade Nash), house party, New Orleans, 2002](/static/img/rock/all-night-movers/all-night-movers-cover-aug-3-2002.jpg)
+
+David Rhoden with All-Night Movers (Slade Nash), house party, New Orleans, 2002. (Photo by Jeff Pounds.)
+
+---
+
+![David Rhoden with Stacks (Steve Walkup, Trey Ledford, Doug DeRienzo), New Orleans rooftop, 2000s](/static/img/rock/stacks-tumbler-by-eli.jpg)
 
 David Rhoden with Stacks (Steve Walkup, Trey Ledford, Doug DeRienzo), New Orleans rooftop, 2000s
 
