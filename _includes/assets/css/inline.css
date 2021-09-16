@@ -532,7 +532,6 @@ p.postdate h3 {
 }
 
 .tabs {
-	height:  20em;
 	position: relative;
 }
 
@@ -549,14 +548,11 @@ p.postdate h3 {
 
 .tab {
 	background: white;
-	top: 2em;
-	left: 0;
 	display: none;
 }
 
 .tab.active {
 	display:  block;
-	z-index: 2;
 }
 
 .tags-list {
@@ -611,6 +607,20 @@ span.fade:hover {
 /******* END PHOTO-TIMELINE *******/
 
 /******* BEGIN TEXT-TIMELINE *******/
+
+.text-timeline.flex {
+	flex-wrap: wrap;
+}
+
+.text-timeline .post-year {
+	color:  white;
+	background-color: var(--blue);
+}
+
+.text-timeline-link a {
+	display: inline-block;
+	white-space: nowrap;
+}
 
 /******* END TEXT-TIMELINE *******/
 
@@ -811,13 +821,14 @@ span.fade:hover {
 	.photo-timeline-link {
 		display: inline-block; 
 		height: 64px;
-		margin: 0;
+		margin: 2px;
 		overflow: hidden;
 		width: 64px;
 	}
 
 	.post-year {
 		display: inline-block;
+		margin:  2px;
 		padding: .5em;
 		width: 64px;
 	}
