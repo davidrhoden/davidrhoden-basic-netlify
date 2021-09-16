@@ -3,23 +3,20 @@ layout: layouts/page.njk
 ---
 
 <h2>
-<a href="#tags-alpha">Sort alphabetically</a> &bull;
-<a href="#tags-number-of-posts">Sort by number of posts</a>
+<a class="tag-lists active" href="#tags-alpha">Sort alphabetically</a> &bull;
+<a class="tag-lists" href="#tags-number-of-posts">Sort by number of posts</a>
 </h2>
 
-<section id="tags-alpha">
+<section class="tags-list active" id="tags-alpha">
 {% for tag in collections.tagList | sort %}
   {% set tagUrl %}/tags/{{ tag | slug }}/{% endset %}
   <a href="{{ tagUrl | url }}" class="post-tag">{{ tag }}</a> &bullet; 
 {% endfor %}
 </section>
 
-<section id="tags-number-of-posts">
+<section class="tags-list" id="tags-number-of-posts">
     {% for tag, count in collections.bySize %}
         {% set tagUrl %}/tags/{{ tag | slug }}/{% endset %}
         <a href="{{ tagUrl | url }}">{{ tag }} ({{ count }})</a> &bullet; 
     {% endfor %}
 </section>
-
-<hr>
-<pre>tagUrl: {{ tagUrl | log }}</pre>

@@ -87,4 +87,17 @@ $(document).ready(function() {
     $('#caption').html(altText);
   });
 
+  $( ".tag-lists" ).on("click",function(event) {
+      event.preventDefault();
+      $( ".tag-lists" ).toggleClass( "active" );
+      $( ".tags-list" ).toggleClass( "active" );
+  });
+
+  $( ".tab-selector" ).on("click",function(event) {
+    event.preventDefault();
+    $( ".tab-selector" ).toggleClass( "active" );
+    $( ".tab" ).toggleClass( "active" );
+  });
+
+
 });

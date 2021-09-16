@@ -135,6 +135,10 @@ a.main-link[href]:active {
 	color: var(--orangered);
 }
 
+a.active {
+	color: var(--orangered) !important;
+}
+
 nav ul li a.main-link[href],
 a.main-link[href]:visited {
 	color: black;
@@ -536,7 +540,7 @@ p.postdate h3 {
 	display: flex;
 }
 
-tabs ul li {
+.tabs ul li {
 	border:  1px solid black;
 	border-bottom: 1px solid white;
 	border-radius:  .5em 0 0 .5em;
@@ -544,8 +548,7 @@ tabs ul li {
 }
 
 .tab {
-	background: whitesmoke;
-	position: absolute;
+	background: white;
 	top: 2em;
 	left: 0;
 	display: none;
@@ -554,6 +557,16 @@ tabs ul li {
 .tab.active {
 	display:  block;
 	z-index: 2;
+}
+
+.tags-list {
+	background: white;
+	display: none;
+	margin-bottom: 2em;
+}
+
+.tags-list.active {
+	display: block;
 }
 
 .animation-demo {
