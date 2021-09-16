@@ -22,7 +22,6 @@
 
 .hidden {
 	display: none;
-	display: flex;
 }
 
 .float-left {
@@ -134,6 +133,10 @@ a.main-link[href]:visited {
 a.main-link[href]:hover,
 a.main-link[href]:active {
 	color: var(--orangered);
+}
+
+a.active {
+	color: var(--orangered) !important;
 }
 
 nav ul li a.main-link[href],
@@ -297,6 +300,14 @@ a.tiny-thumbnail {
 	height: 64px;
 	position: relative;
 	width: 64px;
+}
+
+a.tiny-thumbnail.text-timeline {
+	color: black;
+	display: block;
+	height: auto;
+	position: relative;
+	width: auto;
 }
 
 /* Post Tags */
@@ -501,8 +512,57 @@ p.postdate h3 {
     font-size: .75em;
 }
 
+.text-timeline-post-year {
+    display: inline-block;
+    padding: 0;
+    width: 100%;
+    font-size: .75em;
+}
+
+.text-timeline-link {
+	padding:  .25em .5em;
+}
+
+.text-timeline-link a {
+	color:  var(--black);
+}
+
 #timeline-detail {
 	display: none;
+}
+
+.tabs {
+	position: relative;
+}
+
+.tabs ul {
+	display: flex;
+}
+
+.tabs ul li {
+	border:  1px solid black;
+	border-bottom: 1px solid white;
+	border-radius:  .5em 0 0 .5em;
+	display: inline-block;
+}
+
+.tab {
+	background: white;
+	display: none;
+}
+
+.tab.active {
+	display:  block;
+}
+
+.tags-list {
+	background: white;
+	display: none;
+	margin-bottom: 2em;
+}
+
+.tags-list.active {
+	display: block;
 }
 
 .animation-demo {
@@ -545,6 +605,24 @@ span.fade:hover {
 }
 
 /******* END PHOTO-TIMELINE *******/
+
+/******* BEGIN TEXT-TIMELINE *******/
+
+.text-timeline.flex {
+	flex-wrap: wrap;
+}
+
+.text-timeline .post-year {
+	color:  white;
+	background-color: var(--blue);
+}
+
+.text-timeline-link a {
+	display: inline-block;
+	white-space: nowrap;
+}
+
+/******* END TEXT-TIMELINE *******/
 
 .newspaper {
 	background: url(/static/img/timeline/paper-light.jpg) center center no-repeat;
@@ -750,13 +828,14 @@ span.fade:hover {
 	.photo-timeline-link {
 		display: inline-block; 
 		height: 64px;
-		margin: 0;
+		margin: 2px;
 		overflow: hidden;
 		width: 64px;
 	}
 
 	.post-year {
 		display: inline-block;
+		margin:  2px;
 		padding: .5em;
 		width: 64px;
 	}
