@@ -17,7 +17,6 @@ tags:
   - Kool-Aid
   - stories
 
-
 ---
 
 This was a fantastic show, great band, and they did stuff from his whole career. 

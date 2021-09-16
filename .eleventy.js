@@ -60,8 +60,7 @@ module.exports = function(eleventyConfig) {
     // Maps are iterators so we spread it into an array to sort
     // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map/entries
     // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort
-    const sortedArray = [...countPostsByTag].sort((a, b) => b[1] - a[1]);
-  
+    const sortedArray = [...countPostsByTag].sort((a, b) => b[1] - a[1])
     return sortedArray;
   })
 
@@ -69,7 +68,7 @@ module.exports = function(eleventyConfig) {
     const coll = collection.getFilteredByTag("post");
 
       for(let i = 0; i < coll.length ; i++) {
-      const prevPost = coll[i-1];
+      const prevPost = coll[i - 1];
       const nextPost = coll[i + 1];
 
       coll[i].data["prevPost"] = prevPost;
