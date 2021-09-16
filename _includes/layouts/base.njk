@@ -1,7 +1,7 @@
 <!doctype html>
 <html {% if section %} data-current="{{ section }}"{% endif %} lang="en">
     {% include "components/head.njk" %}
-    <body class="{% if pageType %}{{ pageType }} {{ pageType }}__{{ page.fileSlug }}{% endif %} {{ pageClasses }}">
+    <body class="{% if pageType %}{{ pageType }}{% endif %} {{ page.fileSlug }} {{ pageClasses }}">
         <header>
             <div class="flex-container">
                 <a class="main-link" href="{{ '/' | url }}">{{ metadata.title }}</a>

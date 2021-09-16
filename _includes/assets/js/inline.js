@@ -27,6 +27,7 @@ function showHidden() {
 
 $(document).ready(function(){
   $( ".photo-timeline" ).on( "mouseover", ".photo-timeline-link", showHidden );
+  $( ".text-timeline" ).on( "mouseover", ".text-timeline-link", showHidden );
 });
 
 
@@ -85,5 +86,18 @@ $(document).ready(function() {
     altText = $(images[currentImage]).attr("alt");
     $('#caption').html(altText);
   });
+
+  $( ".tag-lists" ).on("click",function(event) {
+      event.preventDefault();
+      $( ".tag-lists" ).toggleClass( "active" );
+      $( ".tags-list" ).toggleClass( "active" );
+  });
+
+  $( ".tab-selector" ).on("click",function(event) {
+    event.preventDefault();
+    $( ".tab-selector" ).toggleClass( "active" );
+    $( ".tab" ).toggleClass( "active" );
+  });
+
 
 });
