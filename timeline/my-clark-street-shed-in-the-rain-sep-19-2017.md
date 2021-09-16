@@ -1,5 +1,5 @@
 ---
-title: my shed at 321 Clark Street in the rain.
+title: I took pictures of my shed at 321 Clark Street in the rain.
 date: 2017-09-19T16:00:00.000Z
 summary: Nice place to work. Too bad it flooded so much.
 excerpt: nice place to work. Too bad it flooded so much.
