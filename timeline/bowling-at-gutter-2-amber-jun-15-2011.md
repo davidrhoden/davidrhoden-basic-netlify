@@ -10,7 +10,7 @@ tags:
   - NYC
   - Brooklyn
   - Greenpoint
-  - bowoling
+  - bowling
   - The Gutter
 
 ---

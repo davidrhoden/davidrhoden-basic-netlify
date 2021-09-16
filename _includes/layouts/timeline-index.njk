@@ -55,5 +55,16 @@ section: timeline
 {% include "components/pagination.njk" %}
 </div>
 <div class="container-wide">
-  {% include "components/photo-timeline.njk" %}
+  <div class="tabs">
+  <h2>
+  <a class="tab-selector active" href="#tab-1">view as images</a>
+  <a class="tab-selector" href="#tab-2">view as text</a>
+  </h2>
+    <div class="tab active" id="tab-1">
+      {% include "components/photo-timeline.njk" %}
+    </div>
+    <div class="tab" id="tab-2">
+      {% include "components/text-timeline.njk" %}
+    </div>
+  </div>
 </div>
