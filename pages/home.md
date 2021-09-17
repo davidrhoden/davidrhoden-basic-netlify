@@ -100,6 +100,4 @@ image: /static/img/about/david-with-beard-oct-1-2020-7bb4fb.jpg
 <p>An ongoing project, memorializing the interesting (to me) events of my life or at least the ones I have pictures of. As close as I'm going to get to a memoir.</p>
 </div>
 
-
-
 </div>
