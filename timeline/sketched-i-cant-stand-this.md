@@ -1,6 +1,6 @@
 ---
 title: Sketched my feelings.
-date: 2020-10-2811:00:00.000Z
+date: 2020-10-28T11:00:00.000Z
 summary: I doodle while I'm on the phone, a lot (if not always). Sometimes it's my better work.
 excerpt: I doodle while I'm on the phone, a lot (if not always). Sometimes it's my better work.
 category: timeline
