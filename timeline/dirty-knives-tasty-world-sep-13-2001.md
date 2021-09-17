@@ -1,8 +1,8 @@
 ---
 title: Dirty Knives played Tasty World in Athens.
 date: 2001-09-13T22:00:00.000Z
-summary: I'll tell the story about the ice machine later.
-excerpt: I'll tell the story about the ice machine later.
+summary: It was just two days after 9/11.
+excerpt: It was just two days after 9/11.
 image: rock/dirty-knives-dixie-taverne.jpg
 tags:
   - post 
@@ -16,4 +16,4 @@ tags:
 
 We asked the clubs we were booked at if we should cancel because of the attack on the Twin Towers. They all said no.
 
-I'll tell the story about the ice machine later.
+So off we drove. 

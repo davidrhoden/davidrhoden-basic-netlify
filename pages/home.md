@@ -69,7 +69,7 @@ image: /static/img/about/david-with-beard-oct-1-2020-7bb4fb.jpg
 
 <div class="polaroid" data-aos="fade-up" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="200">
 	<a href="rock">
-<img src="/static/img/rock/all-night-movers-dave-jul-27-2002.jpg" alt="David Rhoden playing guitar at All-Night Movers house show, photo by Jeff Pounds">
+<img src="/static/img/rock/all-night-movers/all-night-movers-dave-jul-27-2002.jpg" alt="David Rhoden playing guitar at All-Night Movers house show, photo by Jeff Pounds">
 <h2>Rock Music</h2>
 </a>
 <p>Pictures and recordings of the bands I've been part of. There were several. There's at least <a href="https://thestackswebsite.com" target="_blank">one</a> now.</p>
@@ -99,7 +99,5 @@ image: /static/img/about/david-with-beard-oct-1-2020-7bb4fb.jpg
 </a>
 <p>An ongoing project, memorializing the interesting (to me) events of my life or at least the ones I have pictures of. As close as I'm going to get to a memoir.</p>
 </div>
-
-
 
 </div>
