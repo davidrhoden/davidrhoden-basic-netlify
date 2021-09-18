@@ -12,6 +12,8 @@ tags:
   - Christmas
   - books
   - Zingers
+  - Tony Arrieta
+  
 ---
 
 A few years ago, my band All-Night Movers played some shows in the New York area and we stayed in Jersey City with our friend Tony Arrieta. I woke up first and was looking for something to read. In a chest full of literature, I found a little paperback called _More Zingers From The Hollywood Squares_. "Whatever," I reasoned, and started to read.

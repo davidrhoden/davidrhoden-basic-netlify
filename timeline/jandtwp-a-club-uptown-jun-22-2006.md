@@ -3,7 +3,7 @@ title: Jimmy and The Wolfpack played a club in Manhattan somewhere.
 date: 2006-06-22T22:00:00.000Z
 summary: I can't remember how this happened or what the name of the club was.
 excerpt: I can't remember how this happened or what the name of the club was.
-image: /rock/jandtwp-nyc-maybe-uptown-jun-22-2006/jandtwp-chan-shiny-jun-22-2006.jpg
+image: rock/jandtwp-nyc-maybe-uptown-jun-22-2006/jandtwp-chan-shiny-jun-22-2006.jpg
 tags:
   - post 
   - rock

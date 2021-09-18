@@ -13,11 +13,12 @@ tags:
   - Sara Essex
   - Scott Dennis
   - Matt Fiveash
-  - Tony Arietta
+  - Tony Arrieta
   - Holmes
   - Chimps
   - Nightingales
   - NYC
+  - White Mana
 
 ---
 
