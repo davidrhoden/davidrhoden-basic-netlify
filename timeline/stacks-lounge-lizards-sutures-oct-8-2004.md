@@ -1,5 +1,5 @@
 ---
-title: The Stacks played Lounge Lizards with The Suures.
+title: The Stacks played Lounge Lizards with The Sutures.
 date: 2004-10-08T22:00:00.000Z
 summary: I'm sorry, I don't remember The Sutures at all.
 excerpt: I'm sorry, I don't remember The Sutures at all.
