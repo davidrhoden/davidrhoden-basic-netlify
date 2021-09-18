@@ -26,7 +26,7 @@ Oh, the best part? We wanted Doug to play but he was in Oklahoma. We assumed he 
 
 <div id="viewport">
 
-![Stacks played the Saturn Bar January 21, 2008.](/static/img/rock/stacks/stacks-saturn-jan-21-2008/stacks-saturn-jan-21-2008-after-many-miles.jpg "MStacks played the Saturn Bar January 21, 2008.")
+![Stacks played the Saturn Bar January 21, 2008.](/static/img/rock/stacks/stacks-saturn-jan-21-2008/stacks-saturn-jan-21-2008-after-many-miles.jpg "Stacks played the Saturn Bar January 21, 2008.")
 
 ![Stacks played the Saturn Bar January 21, 2008.](/static/img/rock/stacks/stacks-saturn-jan-21-2008/stacks-saturn-jan-21-2008-chandelicious.jpg "Stacks played the Saturn Bar January 21, 2008.")
 
