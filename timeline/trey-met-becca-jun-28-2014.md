@@ -20,5 +20,5 @@ I got a call in the evening from Barbara Ann saying she and her housemate Becca 
 We decided we would go. When we got there, Trey was his usual voluble self. I'd look over and he'd be mid-story, making big hand gestures. He got Becca to laughing and I guess she still is because I'm writing this on the same day in 2021 and Trey mentioned it was the seventh anniversary of their meeting. They've been a couple that whole time.
 
 
-![Becca](/timeline/becca-brunch-mar-12-2017.jpg "Becca")
-![Trey](/timeline/trey-brunch-mar-12-2017.jpg "Trey")
+![Becca](/static/img/timeline/becca-brunch-mar-12-2017.jpg "Becca")
+![Trey](static/img/timeline/trey-brunch-mar-12-2017.jpg "Trey")
