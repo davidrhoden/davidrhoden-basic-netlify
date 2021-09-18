@@ -4,7 +4,7 @@ date: 2014-04-14T21:00:00.000Z
 excerpt: Lauren Oglesby brought all the people.
 summary: Lauren Oglesby brought all the people.
 category: rock
-image: rock/stacks-flyer-hi-ho-apr-24-2014.jpg
+image: rock/stacks/stacks-flyer-hi-ho-apr-24-2014.jpg
 tags:
   - post 
   - rock
@@ -19,6 +19,6 @@ tags:
 
 ---
 
-![flyer from Stacks show](/static/img/rock/stacks-flyer-hi-ho-apr-24-2014.jpg "flyer from Stacks show")
+![flyer from Stacks show](/static/img/rock/stacks/stacks-flyer-hi-ho-apr-24-2014.jpg "flyer from Stacks show")
 
 this was another Hi-Ho show where it seemed like the club was surprised to see us when we showed up. I like the room but it's run weird. Lauren Oglesby brought all the people. We gave her all the money.

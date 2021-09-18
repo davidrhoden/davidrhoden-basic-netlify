@@ -1,7 +1,7 @@
 ---
 title: Dirty Knives played at Mermaid Lounge with Finishing School.
 date: 2001-09-29T22:00:00.000Z
-image: rock/dirty-knives-mermaid-finishing-school-nov-21-2001.jpg
+image: rock/dirty-knives/dirty-knives-mermaid-finishing-school-nov-21-2001.jpg
 tags:
   - post 
   - rock
@@ -23,5 +23,5 @@ All those names are names I don't hear and go with people I don't see anymore. I
 
 By the way, I think I taped this show and gave a copy to Finishing School. According to Josh, they hated it so much they broke up.
 
-![Dirty Knives and Finishing School Mermaid Lounge flier by Dave Rhoden.](/static/img/rock/dirty-knives-mermaid-finishing-school-nov-21-2001.jpg "Dirty Knives and Finishing School Mermaid Lounge flier by Dave Rhoden.")
+![Dirty Knives and Finishing School Mermaid Lounge flier by Dave Rhoden.](/static/img/rock/dirty-knives/dirty-knives-mermaid-finishing-school-nov-21-2001.jpg "Dirty Knives and Finishing School Mermaid Lounge flier by Dave Rhoden.")
 

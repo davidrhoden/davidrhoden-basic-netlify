@@ -21,7 +21,7 @@ I have had more jobs than you can count, including being an ice cream man and an
 
 I am also a musician, currently playing guitar with The Stacks; previously, I was a member of Mountain Shoutin', Jimmy and the Wolfpack, All-Night Movers, The Sleepy Heads, MAXIMVS!, Dirty Knives, The Hi-Balls, Snake Oil, Everything Tool, The Innuendos, Dark Marbles, Cheerio and the Camels, and The Red M&Ms.
 
-![David Rhoden with The Stacks (Andrew Donaldson, Steve Walkup, Tom Beeman) at Gasa Gasa, New Orleans, 2018](/static/img/rock/stacks-gasa-gasa-aug-11-2018.jpg)
+![David Rhoden with The Stacks (Andrew Donaldson, Steve Walkup, Tom Beeman) at Gasa Gasa, New Orleans, 2018](/static/img/rock/stacks/stacks-gasa-gasa-aug-11-2018.jpg)
 
 David Rhoden with The Stacks (Andrew Donaldson, Steve Walkup, Tom Beeman) at Gasa Gasa, New Orleans, 2018
 
@@ -81,7 +81,7 @@ David Rhoden with All-Night Movers (Slade Nash), house party, New Orleans, 2002.
 
 ---
 
-![David Rhoden with Stacks (Steve Walkup, Trey Ledford, Doug DeRienzo), New Orleans rooftop, 2000s](/static/img/rock/stacks-tumbler-by-eli.jpg)
+![David Rhoden with Stacks (Steve Walkup, Trey Ledford, Doug DeRienzo), New Orleans rooftop, 2000s](/static/img/rock/stacks/stacks-tumbler-by-eli.jpg)
 
 David Rhoden with Stacks (Steve Walkup, Trey Ledford, Doug DeRienzo), New Orleans rooftop, 2000s
 

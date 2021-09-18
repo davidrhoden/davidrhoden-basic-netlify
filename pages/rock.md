@@ -3,7 +3,7 @@ title: Rock Music
 date: 2020-04-14T00:00:00.000Z
 permalink: /rock/index.html
 bodyClass: "rock"
-image: /static/img/rock/stacks-at-gasa-gasa-aug-11-2018.jpg
+image: /static/img/rock/stacks/stacks-at-gasa-gasa-aug-11-2018.jpg
 excerpt: "A brief history of bands David Rhoden has played in, including the Stacks, All-Night Movers, Jimmy and The Wolfpack, and The Hi-Balls."
 eleventyNavigation:
   key: Rock Music
@@ -13,7 +13,7 @@ eleventyNavigation:
 
 ## The Stacks
 
-![David Rhoden with The Stacks (Andrew Donaldson, Steve Walkup, Tom Beeman) at Gasa Gasa, New Orleans, 2018](/static/img/rock/stacks-at-gasa-gasa-aug-11-2018.jpg "David Rhoden with The Stacks (Andrew Donaldson, Steve Walkup, Tom Beeman) at Gasa Gasa, New Orleans, 2018")
+![David Rhoden with The Stacks (Andrew Donaldson, Steve Walkup, Tom Beeman) at Gasa Gasa, New Orleans, 2018](/static/img/rock/stacks/stacks-at-gasa-gasa-aug-11-2018.jpg "David Rhoden with The Stacks (Andrew Donaldson, Steve Walkup, Tom Beeman) at Gasa Gasa, New Orleans, 2018")
 
 David Rhoden with The Stacks (Andrew Donaldson, Steve Walkup, Tom Beeman) at Gasa Gasa, New Orleans, 2018
 
@@ -193,7 +193,7 @@ Recently found more photos, will post soon.
 ---
 
 ## Dirty Knives
-![Dirty Knives Greatest Hits, Vol. 2 LIVE!](/static/img/rock/dirty-knives-album-cover.jpg)
+![Dirty Knives Greatest Hits, Vol. 2 LIVE!](/static/img/rock/dirty-knives/dirty-knives-album-cover.jpg)
 
 Lots of recordings, very disorganized. Coming soon or at least someday.
 

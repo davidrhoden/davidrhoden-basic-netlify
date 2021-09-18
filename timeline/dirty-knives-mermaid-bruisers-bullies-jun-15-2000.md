@@ -3,7 +3,7 @@ title: Dirty Knives played our first show at Mermaid Lounge.
 date: 2000-06-15T22:00:00.000Z
 summary: We opened for The Bruisers and The Bullies.
 excerpt: We opened for The Bruisers and The Bullies.
-image: rock/dirty-knives-dixie-taverne.jpg
+image: rock/dirty-knives/dirty-knives-dixie-taverne.jpg
 tags:
   - post 
   - rock

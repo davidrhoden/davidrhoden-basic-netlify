@@ -28,7 +28,7 @@ eleventyNavigation:
 
 ![T-shirt design for Cotton Bureau.](/static/img/designs/Bottle-CapTeeTurquoise.jpg)
 
-![Rock poster design for The Stacks.](/static/img/rock/stacks-flyer-sutures-oct-8-2004.jpg)
+![Rock poster design for The Stacks.](/static/img/rock/stacks/stacks-flyer-sutures-oct-8-2004.jpg)
 
 ![Poster design for an Ernie K-Doe show.](/static/img/designs/KDOE2CSL.gif)
 
