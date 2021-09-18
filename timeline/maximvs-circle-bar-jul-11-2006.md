@@ -3,7 +3,7 @@ title: MAXIMVS! played the Circle Bar.
 date: 2004-07-11T11:00:00.000Z
 summary: Not sure who took all these.
 excerpt: Not sure who took all these.
-image: /rock/maximvs-circle-bar-jul-11-2006/maximvs-allthree-jul-11-2006.jpg
+image: rock/maximvs/maximvs-circle-bar-jul-11-2006/maximvs-allthree-jul-11-2004.jpg
 tags:
   - post 
   - New Orleans
@@ -16,31 +16,31 @@ tags:
 
 ---
 
-No way the date (2006) I have for this is correct. I must have edited the photos on that date or something. Putting 2004 for now.
+Another triumph in the Forum for MAXIMVS!
 
 <div id="viewport">
 
-![MAXIMVS! at Circle Bar, July 11, 2006.](/static/img/rock/maximvs-circle-bar-jul-11-2006/maximvs-csbhoursign-jul-11-2006.jpg "MAXIMVS! at Circle Bar, July 11, 2006.")
+![MAXIMVS! at Circle Bar, July 11, 2004.](/static/img/rock/maximvs/maximvs-circle-bar-jul-11-2006/maximvs-csbhoursign-jul-11-2004.jpg "MAXIMVS! at Circle Bar, July 11, 2004.")
 
-![MAXIMVS! at Circle Bar, July 11, 2006.](/static/img/rock/maximvs-circle-bar-jul-11-2006/maximvs-allthree-jul-11-2006.jpg "MAXIMVS! at Circle Bar, July 11, 2006.")
+![MAXIMVS! at Circle Bar, July 11, 2004.](/static/img/rock/maximvs/maximvs-circle-bar-jul-11-2006/maximvs-allthree-jul-11-2004.jpg "MAXIMVS! at Circle Bar, July 11, 2004.")
 
-![MAXIMVS! at Circle Bar, July 11, 2006.](/static/img/rock/maximvs-circle-bar-jul-11-2006/maximvs-andruntre-jul-11-2006.jpg "MAXIMVS! at Circle Bar, July 11, 2006.")
+![MAXIMVS! at Circle Bar, July 11, 2004.](/static/img/rock/maximvs/maximvs-circle-bar-jul-11-2006/maximvs-andruntre-jul-11-2004.jpg "MAXIMVS! at Circle Bar, July 11, 2004.")
 
-![MAXIMVS! at Circle Bar, July 11, 2006.](/static/img/rock/maximvs-circle-bar-jul-11-2006/maximvs-armpit-jul-11-2006.jpg "MAXIMVS! at Circle Bar, July 11, 2006.")
+![MAXIMVS! at Circle Bar, July 11, 2004.](/static/img/rock/maximvs/maximvs-circle-bar-jul-11-2006/maximvs-armpit-jul-11-2004.jpg "MAXIMVS! at Circle Bar, July 11, 2004.")
 
-![MAXIMVS! at Circle Bar, July 11, 2006.](/static/img/rock/maximvs-circle-bar-jul-11-2006/maximvs-cash-jul-11-2006.jpg "MAXIMVS! at Circle Bar, July 11, 2006.")
+![MAXIMVS! at Circle Bar, July 11, 2004.](/static/img/rock/maximvs/maximvs-circle-bar-jul-11-2006/maximvs-cash-jul-11-2004.jpg "MAXIMVS! at Circle Bar, July 11, 2004.")
 
-![MAXIMVS! at Circle Bar, July 11, 2006.](/static/img/rock/maximvs-circle-bar-jul-11-2006/maximvs-dandt-jul-11-2006.jpg "MAXIMVS! at Circle Bar, July 11, 2006.")
+![MAXIMVS! at Circle Bar, July 11, 2004.](/static/img/rock/maximvs/maximvs-circle-bar-jul-11-2006/maximvs-dandt-jul-11-2004.jpg "MAXIMVS! at Circle Bar, July 11, 2004.")
 
-![MAXIMVS! at Circle Bar, July 11, 2006.](/static/img/rock/maximvs-circle-bar-jul-11-2006/maximvs-elinme-jul-11-2006.jpg "MAXIMVS! at Circle Bar, July 11, 2006.")
+![MAXIMVS! at Circle Bar, July 11, 2004.](/static/img/rock/maximvs/maximvs-circle-bar-jul-11-2006/maximvs-elinme-jul-11-2004.jpg "MAXIMVS! at Circle Bar, July 11, 2004.")
 
-![MAXIMVS! at Circle Bar, July 11, 2006.](/static/img/rock/maximvs-circle-bar-jul-11-2006/maximvs-jeffvert500-jul-11-2006.jpg "MAXIMVS! at Circle Bar, July 11, 2006.")
+![MAXIMVS! at Circle Bar, July 11, 2004.](/static/img/rock/maximvs/aximvs-circle-bar-jul-11-2006/maximvs-jeffvert500-jul-11-2004.jpg "MAXIMVS! at Circle Bar, July 11, 2004.")
 
-![MAXIMVS! at Circle Bar, July 11, 2006.](/static/img/rock/maximvs-circle-bar-jul-11-2006/maximvs-maximvsclavnjeff-jul-11-2006.jpg "MAXIMVS! at Circle Bar, July 11, 2006.")
+![MAXIMVS! at Circle Bar, July 11, 2004.](/static/img/rock/maximvs/maximvs-circle-bar-jul-11-2006/maximvs-maximvsclavnjeff-jul-11-2004.jpg "MAXIMVS! at Circle Bar, July 11, 2004.")
 
-![MAXIMVS! at Circle Bar, July 11, 2006.](/static/img/rock/maximvs-circle-bar-jul-11-2006/maximvs-pickanoser-jul-11-2006.jpg "MAXIMVS! at Circle Bar, July 11, 2006.")
+![MAXIMVS! at Circle Bar, July 11, 2004.](/static/img/rock/maximvs/maximvs-circle-bar-jul-11-2006/maximvs-pickanoser-jul-11-2004.jpg "MAXIMVS! at Circle Bar, July 11, 2004.")
 
-![MAXIMVS! at Circle Bar, July 11, 2006.](/static/img/rock/maximvs-circle-bar-jul-11-2006/maximvs-truckintro-jul-11-2006.jpg "MAXIMVS! at Circle Bar, July 11, 2006.")
+![MAXIMVS! at Circle Bar, July 11, 2004.](/static/img/rock/maximvs/maximvs-circle-bar-jul-11-2006/maximvs-truckintro-jul-11-2004.jpg "MAXIMVS! at Circle Bar, July 11, 2004.")
 
 </div>
 <div class="flex row-reverse space-between">
