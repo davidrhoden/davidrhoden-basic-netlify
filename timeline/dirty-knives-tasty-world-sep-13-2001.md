@@ -3,7 +3,7 @@ title: Dirty Knives played Tasty World in Athens.
 date: 2001-09-13T22:00:00.000Z
 summary: It was just two days after 9/11.
 excerpt: It was just two days after 9/11.
-image: rock/dirty-knives-dixie-taverne.jpg
+image: rock/dirty-knives/dirty-knives-dixie-taverne.jpg
 tags:
   - post 
   - rock

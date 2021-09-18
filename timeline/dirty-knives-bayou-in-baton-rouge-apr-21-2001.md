@@ -1,7 +1,7 @@
 ---
 title: Dirty Knives played the Bayou in Baton Rouge with Rigid and Ouroboros.
 date: 2001-04-21T22:00:00.000Z
-image: rock/dirty-knives-bayou-baton-rouge-exterior-apr-21-2001.png
+image: rock/dirty-knives/dirty-knives-bayou-baton-rouge-exterior-apr-21-2001.png
 tags:
   - post 
   - rock
@@ -25,7 +25,7 @@ tags:
 
 ---
 
-![still picture of The Bayou, 124 W Chimes St, Baton Rouge, LA 70802, United States, from the movie Sex, Lies, and Videotape](/static/img/rock/dirty-knives-bayou-baton-rouge-exterior-apr-21-2001.png "still picture of The Bayou, 124 W Chimes St, Baton Rouge, LA 70802, United States, from the movie Sex, Lies, and Videotape")
+![still picture of The Bayou, 124 W Chimes St, Baton Rouge, LA 70802, United States, from the movie Sex, Lies, and Videotape](/static/img/rock/dirty-knives/dirty-knives-bayou-baton-rouge-exterior-apr-21-2001.png "still picture of The Bayou, 124 W Chimes St, Baton Rouge, LA 70802, United States, from the movie Sex, Lies, and Videotape")
 
 This was one of the silliest events I've ever been a part of.
 

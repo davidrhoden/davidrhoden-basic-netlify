@@ -3,7 +3,7 @@ title: "The Stacks played at Dr. Cliff Davis's garage."
 date: 2004-09-04T20:00:00.000Z
 summary: I think this was the first time playing the garage.
 excerpt: I think this was the first time playing the garage.
-image: rock/stacks-dr-cliff-sep-4-2004.jpg
+image: rock/stacks/stacks-dr-cliff-sep-4-2004.jpg
 category: rock
 tags:
   - post
@@ -19,7 +19,7 @@ tags:
 
 ---
 
-![The Stacks played a show in Dr. Cliff Davis' grage, Bernadotte Street, New Orleans, Louisiana.](/static/img/rock/stacks-dr-cliff-sep-4-2004.jpg)
+![The Stacks played a show in Dr. Cliff Davis' grage, Bernadotte Street, New Orleans, Louisiana.](/static/img/rock/stacks/stacks-dr-cliff-sep-4-2004.jpg)
 
 I know we played Dr. Cliff's garage two times. Not 100% sure on this date.
 

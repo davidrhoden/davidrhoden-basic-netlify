@@ -1,7 +1,7 @@
 ---
 title: Dirty Knives played Mermaid Lounge with Immortal Lee County Killers.
 date: 2001-11-02T08:00:00.000Z
-image: rock/dirty-knives-mermaid-ilck-nov-2-2001.jpg
+image: rock/dirty-knives/dirty-knives-mermaid-ilck-nov-2-2001.jpg
 summary: Immortal Lee County Killers' drummer J.R.R. Tokin' used his floor tom strictly as a coffee table.
 excerpt: Immortal Lee County Killers' drummer J.R.R. Tokin' used his floor tom strictly as a coffee table.
 tags:
@@ -28,4 +28,4 @@ Immortal Lee County Killers' drummer J.R.R. Tokin' used his floor tom strictly a
 
 Hazzard County Girls and Rocket 350 also played on this bill.
 
-![Dirty Knives and Immortal Lee County Killers flyer, Mermaid Lounge, November 2, 2001](/static/img/rock/dirty-knives-mermaid-ilck-nov-2-2001.jpg "Dirty Knives and Immortal Lee County Killers flyer, Mermaid Lounge, November 2, 2001")
+![Dirty Knives and Immortal Lee County Killers flyer, Mermaid Lounge, November 2, 2001](/static/img/rock/dirty-knives/dirty-knives-mermaid-ilck-nov-2-2001.jpg "Dirty Knives and Immortal Lee County Killers flyer, Mermaid Lounge, November 2, 2001")

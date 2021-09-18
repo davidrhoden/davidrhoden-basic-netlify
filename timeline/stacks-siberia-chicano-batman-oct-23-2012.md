@@ -4,7 +4,7 @@ date: 2014-01-25T11:00:00.000Z
 summary: Tuesday night rock and roll. Good crowd, actually.
 excerpt: Tuesday night rock and roll. Good crowd, actually.
 category: rock
-image: rock/stacks-flyer-jan-25-2014.jpg
+image: rock/stacks/stacks-flyer-jan-25-2014.jpg
 tags:
   - post 
   - rock

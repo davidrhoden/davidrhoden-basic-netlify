@@ -4,7 +4,7 @@ date: 2012-06-29T21:00:00.000Z
 summary: Fun club to play.
 excerpt: Fun club to play.
 category: rock
-image: rock/stacks-flyer-parishioners-allways-jun-29-2012.jpg
+image: rock/stacks/stacks-flyer-parishioners-allways-jun-29-2012.jpg
 tags:
   - post
   - rock
@@ -16,32 +16,6 @@ tags:
 
 ---
 
-![Stacks flyer with for show with The Parishioners](/static/img/rock/stacks-flyer-parishioners-allways-jun-29-2012.jpg "Stacks flyer with for show with The Parishioners")
+![Stacks flyer with for show with The Parishioners](/static/img/rock/stacks/stacks-flyer-parishioners-allways-jun-29-2012.jpg "Stacks flyer with for show with The Parishioners")
 
 I always liked playing this club. Parishioners were good too.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-The Stacks<br />
-Redondo Beat<br />
-Thursday, August 9, 2012<br />
-Allways Lounge<br />
-2240 St. Claude Avenue<br />
-New Orleans Louisiana<br />

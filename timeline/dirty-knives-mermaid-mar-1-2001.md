@@ -1,7 +1,7 @@
 ---
 title: Dirty Knives played Mermaid Lounge with Westbury Squares and Astroblast.
 date: 2001-03-01T22:00:00.000Z
-image: rock/dirty-knives-mermaid-mar-1-2001.jpg
+image: rock/dirty-knives/dirty-knives-mermaid-mar-1-2001.jpg
 tags:
   - post 
   - rock
@@ -22,4 +22,4 @@ _(Sara's first show) was our best yet. The Mermaid was full and we played withou
 
 I don't even know who the person writing this stuff was.
 
-![Dirty Knives at Dixie Taverne, August 1, 2001](/static/img/rock/dirty-knives-mermaid-mar-1-2001.jpg "Dirty Knives at Dixie Taverne, August 1, 2001")
+![Dirty Knives at Dixie Taverne, August 1, 2001](/static/img/rock/dirty-knives/dirty-knives-mermaid-mar-1-2001.jpg "Dirty Knives at Dixie Taverne, August 1, 2001")

@@ -4,7 +4,7 @@ date: 2020-01-04T20:00:00.000Z
 summary: "This was Court Batson's first appearance with Chef Menteur."
 excerpt: "This was Court Batson's first appearance with Chef Menteur."
 category: rock
-image: rock/stacks-live-at-circle-bar-sep-14-2018.jpg
+image: rock/stacks/stacks-live-at-circle-bar-sep-14-2018.jpg
 tags:
   - post 
   - rock
