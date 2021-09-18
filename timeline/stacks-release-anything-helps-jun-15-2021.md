@@ -1,9 +1,9 @@
 ---
-title: The Stacks release the recordings we did with Andre Marquette
+title: The Stacks released the recordings we did with Andre Marquette.
 date: 2021-06-15T17:00:00.000Z
 summary: Andre played drums and also engineered the recording.
 excerpt: Andre played drums and also engineered the recording.
-image: rock/stacks/stacksPandemicRecordingsWithAndreRed.jpg
+image: rock/stacks/stacks-pandemic-recordings-with-andre-red.jpg
 tags:
   - post 
   - New Orleans
@@ -13,6 +13,7 @@ tags:
   - Andre Marquette
   - recording
   - Bandcamp
+  - Covid-19
 
 ---
 
