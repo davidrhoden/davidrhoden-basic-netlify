@@ -4,7 +4,7 @@ date: 2004-02-18T20:00:00.000Z
 summary: Less than a week after our first show.
 excerpt: Less than a week after our first show.
 category: timeline
-image: rock/maximvs/maximvs-big-top-feb-18-2004/maximvs-big-top-1-feb-18-2004.jpg
+image: rock/maximvs/maximvs-big-top-feb-18-2014/maximvs-and-tad-feb-18-2004.jpg
 tags:
   - post 
   - rock
