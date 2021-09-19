@@ -4,9 +4,10 @@ date: 2009-06-03T23:59:00.000Z
 summary: We played this bar several times.
 excerpt: We played this bar several times.
 category: rock
-image: rock/jandtwp-bar-matchless-amber-1-mar-24-2011.jpg
+image: rock/jandtwp-bar-matchless-mar-17-2011/jandtwp-bar-matchless-amber-1-mar-24-2011.jpg
 tags:
   - post
+  - rock
   - Jimmy and The Wolfpack
   - Chan Menon
   - Doug DeRienzo

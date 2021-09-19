@@ -4,7 +4,7 @@ date: 2004-10-01T22:00:00.000
 excerpt: Trey got punched in the face, but it wasn't his fault.  
 summary: Trey got punched in the face, but it wasn't his fault.  
 category: rock
-image: rock/trey-and-jim-star-bar-oct-1-2004.jpg
+image: rock/maximvs/maximvs-atlanta-oct-1-2004/trey-and-jim-star-bar-oct-1-2004.jpg
 tags:
   - post 
   - rock
@@ -20,6 +20,6 @@ tags:
 
 ---
 
-![Jim Stacy and Trey Ledford (in toga), Star Bar, Atlanta, Georgia, October 1, 2004](/static/img/rock/trey-and-jim-star-bar-oct-1-2004.jpg "Jim Stacy and Trey Ledford (in toga), Star Bar, Atlanta, Georgia, October 1, 2004")
+![Jim Stacy and Trey Ledford (in toga), Star Bar, Atlanta, Georgia, October 1, 2004](/static/img/rock/maximvs/maximvs-atlanta-oct-1-2004/trey-and-jim-star-bar-oct-1-2004.jpg "Jim Stacy and Trey Ledford (in toga), Star Bar, Atlanta, Georgia, October 1, 2004")
 
 I have a lot to write and lots of photos to post for this one. For now, it's here.
