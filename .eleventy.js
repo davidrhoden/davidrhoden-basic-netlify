@@ -44,22 +44,22 @@ module.exports = function(eleventyConfig) {
     (page, root = "/") => '${require("path").relative(page.filePathStem, root)}/'
   );
 
-  // eleventyConfig.addCollection('bySize', (collectionApi) => {
-  //   const allPosts = collectionApi.getAll();
+  eleventyConfig.addCollection('bySize', (collectionApi) => {
+    const allPosts = collectionApi.getAll();
 
-  //   const countPostsByTag = new Map();
-  //   allPosts.forEach((post) => {
-  //     // short circuit eval sets tags to an empty array if there are no tags set
-  //     const tags = post.data.tags || [];
-  //     tags.forEach((tag) => {
-  //       const count = countPostsByTag.get(tag) || 0;
-  //       countPostsByTag.set(tag, count + 1);
-  //     })
-  //   });
+    const countPostsByTag = new Map();
+    allPosts.forEach((post) => {
+      // short circuit eval sets tags to an empty array if there are no tags set
+      const tags = post.data.tags || [];
+      tags.forEach((tag) => {
+        const count = countPostsByTag.get(tag) || 0;
+        countPostsByTag.set(tag, count + 1);
+      })
+    });
     
-  //   const sortedArray = [...countPostsByTag].sort((a, b) => b[1] - a[1])
-  //   return sortedArray;
-  // });
+    const sortedArray = [...countPostsByTag].sort((a, b) => b[1] - a[1])
+    return sortedArray;
+  });
 
   eleventyConfig.addCollection("posts", function(collection) {
     const coll = collection.getFilteredByTag("post");
