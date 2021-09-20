@@ -1,0 +1,24 @@
+---
+pagination:
+  data: collections
+  size: 1
+  alias: tag
+  filter:
+    - all
+    - nav
+    - post
+permalink: /tags/{{ tag | slugify }}/
+layout: layouts/base.njk
+eleventyComputed:
+  title: Tagged “{{ tag }}”
+
+---
+
+<h1>{{ tag }}</h1>
+
+{% set postslist = collections[ tag ] %}
+{% include "components/tagslist.njk" %}
+
+<nav>
+  <a href="{{ '/timeline/' | url }}">← Timeline index</a>
+</nav>
