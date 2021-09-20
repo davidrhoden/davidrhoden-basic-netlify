@@ -6,7 +6,6 @@ excerpt: I wanted a big fire and I got one.
 image: gina/gina-tends-fire-sep-10-2021.jpg
 tags:
   - post
-  - rock
   - New Orleans
   - 315 Tricou Street
   - fires
