@@ -26,6 +26,8 @@ tags:
 Photos are by [Amber Sexton](https://ambersexton.com). Thanks to George Casey for booking us.
 
 <div id="viewport">
+    <button id="buttonPrevious">&#10094;</button>
+    <button id="buttonNext">&#10095;</button>
   
 ![Jimmy and the Wolfpack at Matchless, Greenpoint, Brooklyn](/static/img/rock/jandtwp-bar-matchless-mar-17-2011/jandtwp-bar-matchless-amber-1-mar-24-2011.jpg "Jimmy and the Wolfpack at Matchless, Greenpoint, Brooklyn")
 
@@ -42,10 +44,4 @@ Photos are by [Amber Sexton](https://ambersexton.com). Thanks to George Casey fo
 ![Jimmy and the Wolfpack at Matchless, Greenpoint, Brooklyn](/static/img/rock/jandtwp-bar-matchless-mar-17-2011/jandtwp-bar-matchless-amber-7-mar-24-2011.jpg "Jimmy and the Wolfpack at Matchless, Greenpoint, Brooklyn")
 
 </div>
-<div class="flex row-reverse space-between">
-  <div id="caption"></div>
-  <div class="prevnext-container">
-    <button id="buttonPrevious">&#10094;</button>
-    <button id="buttonNext">&#10095;</button>
-  </div>
-</div>
+<div id="caption"></div>

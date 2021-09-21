@@ -15,6 +15,8 @@ tags:
 ---
 
 <div id="viewport">
+    <button id="buttonPrevious">&#10094;</button>
+    <button id="buttonNext">&#10095;</button>
 
 ![](/static/img/timeline/wayne-white-aug-20-2017/wayne-white-louvins-aug-20-2017.jpg "") 
 
@@ -55,10 +57,4 @@ tags:
 ![](/static/img/timeline/wayne-white-aug-20-2017/wayne-white-9-aug-20-2017.jpg "") 
 
 </div>
-<div class="flex row-reverse space-between">
-  <div id="caption"></div>
-  <div class="prevnext-container">
-    <button id="buttonPrevious">&#10094;</button>
-    <button id="buttonNext">&#10095;</button>
-  </div>
-</div>
+<div id="caption"></div>

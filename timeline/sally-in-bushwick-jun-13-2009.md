@@ -15,6 +15,8 @@ tags:
 ---
 
 <div id="viewport">
+    <button id="buttonPrevious">&#10094;</button>
+    <button id="buttonNext">&#10095;</button>
 
 ![Sally enjoyed our yard in Bushwick.](/static/img/sally/sally-in-bushwick-jun-13-2009/sally-in-bushwick-jun-13-2009-56.jpg "Sally enjoyed our yard in Bushwick.")
 
@@ -37,12 +39,6 @@ tags:
 ![Sally enjoyed our yard in Bushwick.](/static/img/sally/sally-in-bushwick-jun-13-2009/sally-in-bushwick-jun-13-2009-54.jpg "Sally enjoyed our yard in Bushwick.")
 
 </div>
-<div class="flex row-reverse space-between">
-  <div id="caption"></div>
-  <div class="prevnext-container">
-    <button id="buttonPrevious">&#10094;</button>
-    <button id="buttonNext">&#10095;</button>
-  </div>
-</div>
+<div id="caption"></div>
 
 Sally enjoyed our yard in Bushwick. This is where I first found her and fed her a piece of a hamburger.

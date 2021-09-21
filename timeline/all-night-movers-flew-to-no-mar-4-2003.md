@@ -25,6 +25,8 @@ I remember it was extra foggy out, and hot, compared to New York City.
 We played Hangman on the flight home.
 
 <div id="viewport">
+    <button id="buttonPrevious">&#10094;</button>
+    <button id="buttonNext">&#10095;</button>
 
 ![Hangman game resulting in "assnugget".](/static/img/rock/all-night-movers/hangman-mar-4-2003/anm-assnugget-mar-4-2003.jpg)
 
@@ -49,10 +51,4 @@ We played Hangman on the flight home.
 ![Hangman game resulting in "uh".](/static/img/rock/all-night-movers/hangman-mar-4-2003/anm-uh-mar-4-2003.jpg)
 
 </div>
-<div class="flex row-reverse space-between">
-  <div id="caption"></div>
-  <div class="prevnext-container">
-    <button id="buttonPrevious">&#10094;</button>
-    <button id="buttonNext">&#10095;</button>
-  </div>
-</div>
+<div id="caption"></div>

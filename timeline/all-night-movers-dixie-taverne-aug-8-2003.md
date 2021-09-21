@@ -25,6 +25,8 @@ I don't have any funny stories from this one. I was just a huge fan of Preacher'
 Photos by Trey Ledford. (16 photos)
 
 <div id="viewport">
+    <button id="buttonPrevious">&#10094;</button>
+    <button id="buttonNext">&#10095;</button>
 
 ![All-Night Movers played Dixie Taverne August 8, 2003 with Preacher's Kids and Original 3.](/static/img/rock/all-night-movers/dixie-taverne-aug-8-2003/anm-dixie-taverne-01.jpg)
 
@@ -59,10 +61,4 @@ Photos by Trey Ledford. (16 photos)
 ![All-Night Movers played Dixie Taverne August 8, 2003 with Preacher's Kids and Original 3.](/static/img/rock/all-night-movers/dixie-taverne-aug-8-2003/anm-dixie-taverne-16.jpg)
 
 </div>
-<div class="flex row-reverse space-between">
-  <div id="caption"></div>
-  <div class="prevnext-container">
-    <button id="buttonPrevious">&#10094;</button>
-    <button id="buttonNext">&#10095;</button>
-  </div>
-</div>
+<div id="caption"></div>

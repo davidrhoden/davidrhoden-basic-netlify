@@ -16,6 +16,8 @@ tags:
 It was fun to watch her concentrate.
 
 <div id="viewport">
+    <button id="buttonPrevious">&#10094;</button>
+    <button id="buttonNext">&#10095;</button>
 
 ![Sally got on my shoulder.](/static/img/sally/sally-with-toy-nov-4-2007/sally-with-toy-nov-4-2007-alert.jpg "Sally got on my shoulder.")
 
@@ -28,10 +30,4 @@ It was fun to watch her concentrate.
 
 
 </div>
-<div class="flex row-reverse space-between">
-  <div id="caption"></div>
-  <div class="prevnext-container">
-    <button id="buttonPrevious">&#10094;</button>
-    <button id="buttonNext">&#10095;</button>
-  </div>
-</div>
+<div id="caption"></div>

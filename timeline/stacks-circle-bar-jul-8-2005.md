@@ -19,6 +19,8 @@ tags:
 I wish I knew who took these pictures.
 
 <div id="viewport">
+    <button id="buttonPrevious">&#10094;</button>
+    <button id="buttonNext">&#10095;</button>
 
 ![Stacks played the Circle Bar July 8, 2005.](/static/img/rock/stacks/stacks-circle-bar-jul-8-2005/stacks-circle-bar-jul-8-2005-185.jpg "MStacks played the Circle Bar July 8, 2005.")
 
@@ -52,11 +54,5 @@ I wish I knew who took these pictures.
 
 ![Stacks played the Circle Bar July 8, 2005.](/static/img/rock/stacks/stacks-circle-bar-jul-8-2005/stacks-cool-drum-head-jul-8-2005.jpg "Stacks played the Circle Bar July 8, 2005.")
 </div>
-<div class="flex row-reverse space-between">
-  <div id="caption"></div>
-  <div class="prevnext-container">
-    <button id="buttonPrevious">&#10094;</button>
-    <button id="buttonNext">&#10095;</button>
-  </div>
-</div>
+<div id="caption"></div>
 

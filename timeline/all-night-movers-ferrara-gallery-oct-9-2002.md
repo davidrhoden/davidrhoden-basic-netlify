@@ -21,6 +21,8 @@ My favorite picture of me ever. Photo by Jeff Pounds.
 (32 photos)
 
 <div id="viewport">
+    <button id="buttonPrevious">&#10094;</button>
+    <button id="buttonNext">&#10095;</button>
 
 ![All-Night Movers played at Jonathan Ferrara Gallery on Carondelet Street, October 9, 2002.](/static/img/rock/all-night-movers/ferrara-gallery-oct-9-2002/4track-oct-9-2002.jpg "All-Night Movers played at Jonathan Ferrara Gallery on Carondelet Street, October 9, 2002.")
 
@@ -85,11 +87,5 @@ My favorite picture of me ever. Photo by Jeff Pounds.
 ![All-Night Movers played at Jonathan Ferrara Gallery on Carondelet Street, October 9, 2002.](/static/img/rock/all-night-movers/ferrara-gallery-oct-9-2002/street-oct-9-2002.jpg "All-Night Movers played at Jonathan Ferrara Gallery on Carondelet Street, October 9, 2002.")
 
 </div>
-<div class="flex row-reverse space-between">
-  <div id="caption"></div>
-  <div class="prevnext-container">
-    <button id="buttonPrevious">&#10094;</button>
-    <button id="buttonNext">&#10095;</button>
-  </div>
-</div>
+<div id="caption"></div>
 

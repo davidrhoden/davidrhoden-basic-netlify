@@ -14,6 +14,8 @@ tags:
 I think this was kind of the high point for Sleepy Heads.
 
 <div id="viewport">
+    <button id="buttonPrevious">&#10094;</button>
+    <button id="buttonNext">&#10095;</button>
 
 ![The Sleepy Heads played the Circle Bar.](/static/img/rock/sleepyheads/sleepyheads-circle-bar.jpg "The Sleepy Heads played the Circle Bar.")
 
@@ -69,10 +71,4 @@ I think this was kind of the high point for Sleepy Heads.
 
 
 </div>
-<div class="flex row-reverse space-between">
-  <div id="caption"></div>
-  <div class="prevnext-container">
-    <button id="buttonPrevious">&#10094;</button>
-    <button id="buttonNext">&#10095;</button>
-  </div>
-</div>
+<div id="caption"></div>

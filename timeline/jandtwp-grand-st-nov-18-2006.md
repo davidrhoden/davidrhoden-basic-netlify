@@ -17,6 +17,8 @@ tags:
 ---
 
 <div id="viewport">
+    <button id="buttonPrevious">&#10094;</button>
+    <button id="buttonNext">&#10095;</button>
 
 ![Jimmy and The Wolfpack played another show at 276 Grand Street.](/static/img/rock/jandtwp-grand-st-nov-18-2006/dougemotes.jpg "Jimmy and The Wolfpack played another show at 276 Grand Street.")
 
@@ -43,11 +45,5 @@ tags:
 ![Jimmy and The Wolfpack played another show at 276 Grand Street.](/static/img/rock/jandtwp-grand-st-nov-18-2006/alblurrrr.jpg "Jimmy and The Wolfpack played another show at 276 Grand Street.")
 
 </div>
-<div class="flex row-reverse space-between">
-  <div id="caption"></div>
-  <div class="prevnext-container">
-    <button id="buttonPrevious">&#10094;</button>
-    <button id="buttonNext">&#10095;</button>
-  </div>
-</div>
+<div id="caption"></div>
 

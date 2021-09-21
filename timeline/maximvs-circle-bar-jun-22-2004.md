@@ -22,6 +22,8 @@ Another triumph in the Forum for MAXIMVS! I wrecked my drums, which were trash t
 I wrote "wasted" in my journal.
 
 <div id="viewport">
+    <button id="buttonPrevious">&#10094;</button>
+    <button id="buttonNext">&#10095;</button>
 
 ![MAXIMVS! at Circle Bar, June 22, 2004.](/static/img/rock/maximvs/maximvs-circle-bar-jul-11-2006/maximvs-csbhoursign-jun-22-2004.jpg "MAXIMVS! at Circle Bar, June 22, 2004.")
 
@@ -46,11 +48,5 @@ I wrote "wasted" in my journal.
 ![MAXIMVS! at Circle Bar, June 22, 2004.](/static/img/rock/maximvs/maximvs-circle-bar-jul-11-2006/maximvs-truckintro-jun-22-2004.jpg "MAXIMVS! at Circle Bar, June 22, 2004.")
 
 </div>
-<div class="flex row-reverse space-between">
-  <div id="caption"></div>
-  <div class="prevnext-container">
-    <button id="buttonPrevious">&#10094;</button>
-    <button id="buttonNext">&#10095;</button>
-  </div>
-</div>
+<div id="caption"></div>
 

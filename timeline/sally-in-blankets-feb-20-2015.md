@@ -15,6 +15,8 @@ tags:
 ---
 
 <div id="viewport">
+    <button id="buttonPrevious">&#10094;</button>
+    <button id="buttonNext">&#10095;</button>
 
 ![Sally got in the blankets.](/static/img/sally/sally-in-blankets-austin-feb-20-2015/sally-in-blankets-feb-20-2015-
 01.jpg "Sally got in the blankets.")
@@ -59,10 +61,4 @@ tags:
 16.jpg "Sally got in the blankets.")
 
 </div>
-<div class="flex row-reverse space-between">
-  <div id="caption"></div>
-  <div class="prevnext-container">
-    <button id="buttonPrevious">&#10094;</button>
-    <button id="buttonNext">&#10095;</button>
-  </div>
-</div>
+<div id="caption"></div>

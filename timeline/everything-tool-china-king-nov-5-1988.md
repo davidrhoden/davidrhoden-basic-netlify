@@ -19,6 +19,8 @@ tags:
 Our band Everything Tool played China King on the Cumberland Avenue strip a lot. It was a fun gig. If you got there early enough Mr. and Mrs. Liu would feed you a big family-syle dinner, though this wasn't always a good thing. Once they were handing out the egg rolls and they said "Take two! Take two!" I did, and on that occasion I regretted it. I think that was the same day Mr. Liu came up to my housemate, Ed, and asked him to translate something in his Refrigeration textbook.
 
 <div id="viewport">
+    <button id="buttonPrevious">&#10094;</button>
+    <button id="buttonNext">&#10095;</button>
 
 ![Everything Tool played at China King](/static/img/rock/everything-tool-china-king-1988/everything-tool-china-king-1.jpg "Everything Tool played at China King")
 
@@ -39,12 +41,6 @@ Our band Everything Tool played China King on the Cumberland Avenue strip a lot.
 ![Everything Tool played with Across The Yard at China King flyer](/static/img/rock/everything-tool-china-king-nov-5-1988.jpg "Everything Tool played with Across The Yard at China King flyer")
 
 </div>
-<div class="flex row-reverse space-between">
-  <div id="caption"></div>
-  <div class="prevnext-container">
-    <button id="buttonPrevious">&#10094;</button>
-    <button id="buttonNext">&#10095;</button>
-  </div>
-</div>
+<div id="caption"></div>
 
 Across the Yard was good, they were friends of ours. They were very jangly, but who wasn't back then. It was taken for granted. I think now they were probably highly influenced by the Miracle Legion record _The Backyard_, consciously or unconsciously (we were too).

@@ -15,6 +15,8 @@ tags:
 The fluorescent paint? Very expensive.
 
 <div id="viewport">
+    <button id="buttonPrevious">&#10094;</button>
+    <button id="buttonNext">&#10095;</button>
 
 ![Rings, in progress.](/static/img/timeline/rings-in-progress-1-jul-19-2018.jpg "Rings, in progress.")
 
@@ -25,10 +27,4 @@ The fluorescent paint? Very expensive.
 ![Rings, completed.](/static/img/timeline/rings-on-wall-jul-19-2018.jpg "Rings, completed.")
 
 </div>
-<div class="flex row-reverse space-between">
-  <div id="caption"></div>
-  <div class="prevnext-container">
-    <button id="buttonPrevious">&#10094;</button>
-    <button id="buttonNext">&#10095;</button>
-  </div>
-</div>
+<div id="caption"></div>

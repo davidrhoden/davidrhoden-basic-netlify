@@ -28,6 +28,8 @@ I think we played both before and after the Saturn and Muses parades.
 (13 photos)
 
 <div id="viewport">
+    <button id="buttonPrevious">&#10094;</button>
+    <button id="buttonNext">&#10095;</button>
 
 ![MAXIMVS! plays at the Big Top Gallery, February 18, 2004.](/static/img/rock/maximvs/maximvs-big-top-feb-18-2014/maximvs-01-feb-18-2004.jpg "MAXIMVS! plays at the Big Top Gallery, February 18, 2004.")
 
@@ -58,10 +60,4 @@ I think we played both before and after the Saturn and Muses parades.
 ![MAXIMVS! flyer for show at the Big Top Gallery, February 18, 2004.](/static/img/rock/maximvs/maximvs-big-top-feb-18-2014/maximvs-flyer-feb-18-2004.jpg "MAXIMVS! plays at the Big Top Gallery, February 18, 2004.")
 
 </div>
-<div class="flex row-reverse space-between">
-  <div id="caption"></div>
-  <div class="prevnext-container">
-    <button id="buttonPrevious">&#10094;</button>
-    <button id="buttonNext">&#10095;</button>
-  </div>
-</div>
+<div id="caption"></div>

@@ -25,13 +25,7 @@
   	opacity: 1;
 }
 
-.prevnext-container {
-	display: flex;
-	justify-content: space-between;
-	width: 100%;
-}
-
-.prevnext-container button {
+button {
 	display: grid;
 	height: 36px;
 	padding: 0;
@@ -55,17 +49,19 @@
 		width: auto;
 	}
 
-	.prevnext-container {
-		display: flex;
-		justify-content: space-between;
-		width: 80px;
-	}
-
-	.prevnext-container button {
+button:not(.gsc-search-button) {
 		display: grid;
 		height: 36px;
+		margin-top: -18px;
 		padding: 0;
 	    place-items: center;
+	    position:  absolute;
+	    top: 50%;
 	    width: 36px;
+	    z-index: 2;
+	}
+
+	#buttonNext {
+		right: 0;
 	}
 }

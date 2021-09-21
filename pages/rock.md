@@ -125,6 +125,8 @@ Recently found more photos, will post soon.
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2178980125/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://sleepy-heads.bandcamp.com/album/sleepy-heads">Sleepy Heads by Sleepy Heads</a></iframe>
 
 <div id="viewport">
+    <button id="buttonPrevious">&#10094;</button>
+    <button id="buttonNext">&#10095;</button>
 
 ![The Sleepy Heads played the Circle Bar.](/static/img/rock/sleepyheads/sleepyheads-circle-bar.jpg "The Sleepy Heads played the Circle Bar.")
 
@@ -180,13 +182,7 @@ Recently found more photos, will post soon.
 
 
 </div>
-<div class="flex row-reverse space-between">
-  <div id="caption"></div>
-  <div class="prevnext-container">
-    <button id="buttonPrevious">&#10094;</button>
-    <button id="buttonNext">&#10095;</button>
-  </div>
-</div>
+<div id="caption"></div>
 
 <a href="/tags/sleepy-heads/">All posts tagged "Sleepy Heads"</a>
 

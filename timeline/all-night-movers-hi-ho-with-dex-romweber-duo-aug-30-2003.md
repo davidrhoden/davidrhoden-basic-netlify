@@ -26,6 +26,8 @@ The Hi-Ho was a weird club at this time. It seemed like nobody was running it. T
 Photos by Trey Ledford. (9 photos)
 
 <div id="viewport">
+    <button id="buttonPrevious">&#10094;</button>
+    <button id="buttonNext">&#10095;</button>
 
 ![All-Night Movers played the Hi-Ho Lounge August 30, 2003 with Dex Romweber Duo.](/static/img/rock/all-night-movers/hi-ho-lounge-aug-30-2003/anmhiholounge01.jpg)
 
@@ -46,10 +48,4 @@ Photos by Trey Ledford. (9 photos)
 ![All-Night Movers played the Hi-Ho Lounge August 30, 2003 with Dex Romweber Duo.](/static/img/rock/all-night-movers/hi-ho-lounge-aug-30-2003/anmhiholounge09.jpg)
 
 </div>
-<div class="flex row-reverse space-between">
-  <div id="caption"></div>
-  <div class="prevnext-container">
-    <button id="buttonPrevious">&#10094;</button>
-    <button id="buttonNext">&#10095;</button>
-  </div>
-</div>
+<div id="caption"></div>

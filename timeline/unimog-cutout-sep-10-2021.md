@@ -20,6 +20,8 @@ I took a picture of this wonder truck in Chattanooga last Thanksgiving. It's a U
 Bonus Buddy pics, as he was being cute.
 
 <div id="viewport">
+    <button id="buttonPrevious">&#10094;</button>
+    <button id="buttonNext">&#10095;</button>
 
 ![Unimog pattern on paper.](/static/img/timeline/unimog-tracing-on-paper-sep-10-2021.jpg)
 
@@ -32,11 +34,5 @@ Bonus Buddy pics, as he was being cute.
 ![Buddy helping with Unimog art.](/static/img/timeline/unimog-buddy-helping-3-sep-10-2021.jpg)
 
 </div>
-<div class="flex row-reverse space-between">
-  <div id="caption"></div>
-  <div class="prevnext-container">
-    <button id="buttonPrevious">&#10094;</button>
-    <button id="buttonNext">&#10095;</button>
-  </div>
-</div>
+<div id="caption"></div>
 

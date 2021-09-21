@@ -22,6 +22,8 @@ Jeff Pounds put on a couple of shows for All-Night Movers at his house, this was
 Photos by Jeff Pounds (pretty sure).
 
 <div id="viewport">
+    <button id="buttonPrevious">&#10094;</button>
+    <button id="buttonNext">&#10095;</button>
 
 ![All-Night Movers played at Jeff Pounds house, July 26, 2002.](/static/img/rock/all-night-movers/anm-jul-26-2002/all-night-movers-band-jul-26-2002.jpg "All-Night Movers played at Jeff Pounds house, July 26, 2002.")
 
@@ -37,12 +39,6 @@ Photos by Jeff Pounds (pretty sure).
 
 
 </div>
-<div class="flex row-reverse space-between">
-  <div id="caption"></div>
-  <div class="prevnext-container">
-    <button id="buttonPrevious">&#10094;</button>
-    <button id="buttonNext">&#10095;</button>
-  </div>
-</div>
+<div id="caption"></div>
 
 I have this show happening on a Friday but it might have been the following night.

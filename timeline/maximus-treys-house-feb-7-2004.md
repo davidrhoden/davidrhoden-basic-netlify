@@ -21,6 +21,8 @@ We decided to have a party instead of just practicing like we were supposed to.
 (16 photos)
 
 <div id="viewport">
+    <button id="buttonPrevious">&#10094;</button>
+    <button id="buttonNext">&#10095;</button>
 
 ![MAXIMVS! plays at Trey's house, February 7, 2004.](/static/img/rock/maximvs/maximvs-treys-house-feb-7-2004/maximvs-1-feb-7-2004.jpg "MAXIMVS! plays at Trey's house, February 7, 2004.")
 
@@ -51,10 +53,4 @@ We decided to have a party instead of just practicing like we were supposed to.
 ![MAXIMVS! flyer for show at Trey's house, February 7, 2004.](/static/img/rock/maximvs/maximvs-treys-house-feb-7-2004/maximvs-jp8-feb-7-2004.jpg "MAXIMVS! plays at Trey's house, February 7, 2004.")
 
 </div>
-<div class="flex row-reverse space-between">
-  <div id="caption"></div>
-  <div class="prevnext-container">
-    <button id="buttonPrevious">&#10094;</button>
-    <button id="buttonNext">&#10095;</button>
-  </div>
-</div>
+<div id="caption"></div>

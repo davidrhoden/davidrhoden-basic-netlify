@@ -26,6 +26,8 @@ New Orleans Louisiana
 We actually went on after eleven, long after all but three or four people had cleared out of the place.
 
 <div id="viewport">
+    <button id="buttonPrevious">&#10094;</button>
+    <button id="buttonNext">&#10095;</button>
 
 ![The Stacks played at The Big Top.](/static/img/rock/stacks/stacks-big-top-sep-11-2012/peopledancingatstacks.jpg "The Stacks played at The Big Top.")
 
@@ -34,11 +36,5 @@ We actually went on after eleven, long after all but three or four people had cl
 ![The Stacks played at The Big Top.](/static/img/rock/stacks/stacks-big-top-sep-11-2012/flyer120911.png "The Stacks played at The Big Top.")
 
 </div>
-<div class="flex row-reverse space-between">
-  <div id="caption"></div>
-  <div class="prevnext-container">
-    <button id="buttonPrevious">&#10094;</button>
-    <button id="buttonNext">&#10095;</button>
-  </div>
-</div>
+<div id="caption"></div>
 
