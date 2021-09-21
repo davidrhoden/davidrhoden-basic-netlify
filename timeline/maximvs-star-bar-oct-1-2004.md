@@ -38,15 +38,11 @@ More about this in the next tour diary installment.
 
 ![The band Lust, Star Bar, Atlanta, Georgia, October 1, 2004](/static/img/rock/maximvs/maximvs-atlanta-oct-1-2004/maximvs-bothlusts-oct-1-2004.jpg)
 
-![The band Lust, Star Bar, Atlanta, Georgia, October 1, 2004](/static/img/rock/maximvs/maximvs-atlanta-oct-1-2004/maximvs-bothlusts-oct-1-2004.jpg)
-
 ![The band Lust, Star Bar, Atlanta, Georgia, October 1, 2004](/static/img/rock/maximvs/maximvs-atlanta-oct-1-2004/maximvs-elvislust-oct-1-2004.jpg)
 
-![Suzanne from the band Lust, Star Bar, Atlanta, Georgia, October 1, 2004](/static/img/rock/maximvs/maximvs-atlanta-oct-1-2004/maximvs-suzannefmlust-oct-1-2004.jpg)
+![Suzanne from the band Lust, Star Bar, Atlanta, Georgia, October 1, 2004](/static/img/rock/maximvs/maximvs-atlanta-oct-1-2004/maximvs-goodlust-oct-1-2004.jpg)
 
 ![The band Lust, Star Bar, Atlanta, Georgia, October 1, 2004](/static/img/rock/maximvs/maximvs-atlanta-oct-1-2004/maximvs-suzanshoes-oct-1-2004.jpg)
-
-![The band Lust, Star Bar, Atlanta, Georgia, October 1, 2004](/static/img/rock/maximvs/maximvs-atlanta-oct-1-2004/maximvs-goodlust-oct-1-2004.jpg)
 
 ![The band Lust, Star Bar, Atlanta, Georgia, October 1, 2004](/static/img/rock/maximvs/maximvs-atlanta-oct-1-2004/maximvs-lust-oct-1-2004.jpg)
 
