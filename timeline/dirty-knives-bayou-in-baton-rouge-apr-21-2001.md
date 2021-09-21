@@ -17,7 +17,7 @@ tags:
   - Joey Ramone
   - '"Blitzkrieg Bop"'
   - fire
-  - disgeridoo
+  - didgeridoo
   - speeding
   - cops
   - fighting
