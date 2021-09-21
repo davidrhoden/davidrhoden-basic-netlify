@@ -15,4 +15,4 @@ tags:
 
 ![Otter the cat on my shelves.](/static/img/timeline/otter/otter-shelf-feb-10-2021.jpg 'Otter the cat on my shelves.')
 
-He usually gets here around the start of the workday and leaves around quittin' time. He tries to eat Buddy's food but I take it away from him. He never learnns thoguh.
+He usually gets here around the start of the workday and leaves around quittin' time. He tries to eat Buddy's food but I take it away from him. He never learns though.
