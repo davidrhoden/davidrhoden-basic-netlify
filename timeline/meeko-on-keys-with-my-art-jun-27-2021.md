@@ -9,10 +9,11 @@ tags:
   - post 
   - cats
   - painting
+  - Meeko
   - North Carolina
 
 ---
 
-A couple of pieces of my art have made their way to North Carolina. They are currently i the possession of Meeko, truly a kitten on the keyboards.
+A couple of pieces of my art have made their way to North Carolina. They are currently in the possession of Meeko, truly a kitten on the keyboards.
 
-![cover of Bachelor No. 1 issue 2](/static/img/timeline/meeko-on-keys-with-my-art-jun-27-2021.jpg "Meeko guarding my art.")
+![Meeko, the cat who owns my art.](/static/img/timeline/meeko-on-keys-with-my-art-jun-27-2021.jpg "Meeko, the cat who owns my art.")
