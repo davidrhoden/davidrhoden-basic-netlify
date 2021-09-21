@@ -17,6 +17,8 @@ tags:
 ---
 
 <div id="viewport">
+    <button id="buttonPrevious">&#10094;</button>
+    <button id="buttonNext">&#10095;</button>
 
 ![The Ka-Nives played the Circle bar July 19, 2003.](/static/img/timeline/kanives-jul-19-2003/murillo2-jul-19-2003.jpg "The Ka-Nives played the Circle bar July 19, 2003.")
 
@@ -27,10 +29,4 @@ tags:
 ![The Ka-Nives played the Circle bar July 19, 2003.](/static/img/timeline/kanives-jul-19-2003/aubrey-kanives-jul-19-2003.jpg "The Ka-Nives played the Circle bar July 19, 2003.")
 
 </div>
-<div class="flex row-reverse space-between">
-  <div id="caption"></div>
-  <div class="prevnext-container">
-    <button id="buttonPrevious">&#10094;</button>
-    <button id="buttonNext">&#10095;</button>
-  </div>
-</div>
+<div id="caption"></div>

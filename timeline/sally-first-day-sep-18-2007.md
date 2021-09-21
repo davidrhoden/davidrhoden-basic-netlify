@@ -17,6 +17,8 @@ tags:
 ---
 
 <div id="viewport">
+    <button id="buttonPrevious">&#10094;</button>
+    <button id="buttonNext">&#10095;</button>
 
 ![Sally came to live with me.](/static/img/sally/sally-first-day-sep-18-2007/sally-first-day-sep-18-2007-sallycloseup.jpg "Sally came to live with me.")
 
@@ -47,10 +49,4 @@ tags:
 ![Sally came to live with me.](/static/img/sally/sally-first-day-sep-18-2007/sally-first-day-sep-18-2007-sallytongue.jpg "Sally came to live with me.")
 
 </div>
-<div class="flex row-reverse space-between">
-  <div id="caption"></div>
-  <div class="prevnext-container">
-    <button id="buttonPrevious">&#10094;</button>
-    <button id="buttonNext">&#10095;</button>
-  </div>
-</div>
+<div id="caption"></div>

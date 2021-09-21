@@ -25,6 +25,8 @@ Aubrey and her partner did the go-go boots dancing thing.
 (30 photos)
 
 <div id="viewport">
+    <button id="buttonPrevious">&#10094;</button>
+    <button id="buttonNext">&#10095;</button>
 
 ![Ka-Nives and All-Night Movers at Beerland, Austin, Texas, April 25, 2003.](/static/img/rock/all-night-movers/anm-austin-apr-25-2003/anm-austin-apr-25-2003-17.jpg "Ka-Nives and All-Night Movers at Beerland, Austin, Texas, April 25, 2003.")
 
@@ -89,13 +91,7 @@ Aubrey and her partner did the go-go boots dancing thing.
 ![Ka-Nives and All-Night Movers at Beerland, Austin, Texas, April 25, 2003.](/static/img/rock/all-night-movers/anm-austin-apr-25-2003/anm-austin-apr-25-2003-47.jpg "Ka-Nives and All-Night Movers at Beerland, Austin, Texas, April 25, 2003.")
 
 </div>
-<div class="flex row-reverse space-between">
-  <div id="caption"></div>
-  <div class="prevnext-container">
-    <button id="buttonPrevious">&#10094;</button>
-    <button id="buttonNext">&#10095;</button>
-  </div>
-</div>
+<div id="caption"></div>
 
 
 

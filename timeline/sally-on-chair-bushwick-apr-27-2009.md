@@ -15,6 +15,8 @@ tags:
 ---
 
 <div id="viewport">
+    <button id="buttonPrevious">&#10094;</button>
+    <button id="buttonNext">&#10095;</button>
 
 ![Sally got her school picture taken.](/static/img/sally/sally-on-chair-backyard-apr-27-2009/sally-on-chair-backyard-apr-27-2009-38.jpg "Sally got her school picture taken.")
 
@@ -25,10 +27,4 @@ tags:
 ![Sally got her school picture taken.](/static/img/sally/sally-on-chair-backyard-apr-27-2009/schoolpictureday.jpg "Sally got her school picture taken.")
 
 </div>
-<div class="flex row-reverse space-between">
-  <div id="caption"></div>
-  <div class="prevnext-container">
-    <button id="buttonPrevious">&#10094;</button>
-    <button id="buttonNext">&#10095;</button>
-  </div>
-</div>
+<div id="caption"></div>

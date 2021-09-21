@@ -16,6 +16,8 @@ tags:
 ---
 
 <div id="viewport">
+    <button id="buttonPrevious">&#10094;</button>
+    <button id="buttonNext">&#10095;</button>
 
 ![Sally made friends with a three-legged cat neighbor.](/static/img/sally/sally-n-friend-orchid-jul-27-2013/sally-n-friend-orchid-jul-27-2013-06.jpg "Sally made friends with a three-legged cat neighbor.")
 
@@ -44,10 +46,4 @@ tags:
 ![Sally made friends with a three-legged cat neighbor.](/static/img/sally/sally-n-friend-orchid-jul-27-2013/sally-n-friend-orchid-jul-27-2013-21.jpg "Sally made friends with a three-legged cat neighbor.")
 
 </div>
-<div class="flex row-reverse space-between">
-  <div id="caption"></div>
-  <div class="prevnext-container">
-    <button id="buttonPrevious">&#10094;</button>
-    <button id="buttonNext">&#10095;</button>
-  </div>
-</div>
+<div id="caption"></div>

@@ -16,6 +16,8 @@ tags:
 She looked beautiful and didn't rip my hands off when I put it on her.
 
 <div id="viewport">
+    <button id="buttonPrevious">&#10094;</button>
+    <button id="buttonNext">&#10095;</button>
 
 ![Sally got on my shoulder.](/static/img/sally/sally-on-shoulder-sep-24-2007/sally-on-shoulder-sep-24-2007-eyes-shut.jpg "Sally got on my shoulder.")
 
@@ -33,10 +35,4 @@ She looked beautiful and didn't rip my hands off when I put it on her.
 
 
 </div>
-<div class="flex row-reverse space-between">
-  <div id="caption"></div>
-  <div class="prevnext-container">
-    <button id="buttonPrevious">&#10094;</button>
-    <button id="buttonNext">&#10095;</button>
-  </div>
-</div>
+<div id="caption"></div>

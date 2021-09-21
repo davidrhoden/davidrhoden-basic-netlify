@@ -25,6 +25,8 @@ tags:
 I had a great big ground floor apartment that used to be a 99 cent store. (One day an Asian grandma knocked on the door, demanding to come in and shop. She pointed at the sign, which was still there.) It was like a cave, mostly devoid of furniture. Great place for a band to play.
 
 <div id="viewport">
+    <button id="buttonPrevious">&#10094;</button>
+    <button id="buttonNext">&#10095;</button>
 
 ![Hallowe'en on Grand Street](/static/img/rock/jandtwp-grand-st-halloween-oct-29-2006/halloween-grand-street-oct-30-2006.jpg "Hallowe'en on Grand Street")
 
@@ -64,10 +66,4 @@ I had a great big ground floor apartment that used to be a 99 cent store. (One d
 
 
 </div>
-<div class="flex row-reverse space-between">
-  <div id="caption"></div>
-  <div class="prevnext-container">
-    <button id="buttonPrevious">&#10094;</button>
-    <button id="buttonNext">&#10095;</button>
-  </div>
-</div>
+<div id="caption"></div>

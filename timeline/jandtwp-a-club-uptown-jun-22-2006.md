@@ -20,6 +20,8 @@ Maybe this club was called Siberia? I think I played there with the Innuendos th
 I can tell from the pictures we played _somewhere_.
 
 <div id="viewport">
+    <button id="buttonPrevious">&#10094;</button>
+    <button id="buttonNext">&#10095;</button>
 
 ![Jimmy and The Wolfpack played a club in Manhattan somewhere.](/static/img/rock/jandtwp-nyc-maybe-uptown-jun-22-2006/jandtwp-chan-shiny-jun-22-2006.jpg "Jimmy and The Wolfpack played a club in Manhattan somewhere.")
 
@@ -28,10 +30,4 @@ I can tell from the pictures we played _somewhere_.
 ![Jimmy and The Wolfpack played a club in Manhattan somewhere.](/static/img/rock/jandtwp-nyc-maybe-uptown-jun-22-2006/jandtwp-casey-blowing-jun-22-2005.jpg "Jimmy and The Wolfpack played a club in Manhattan somewhere.")
 
 </div>
-<div class="flex row-reverse space-between">
-  <div id="caption"></div>
-  <div class="prevnext-container">
-    <button id="buttonPrevious">&#10094;</button>
-    <button id="buttonNext">&#10095;</button>
-  </div>
-</div>
+<div id="caption"></div>

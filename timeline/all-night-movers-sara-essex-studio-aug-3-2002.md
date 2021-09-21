@@ -20,6 +20,8 @@ Just a nifty little show in my then-wife's photography studio.
 (17 photos)
 
 <div id="viewport">
+    <button id="buttonPrevious">&#10094;</button>
+    <button id="buttonNext">&#10095;</button>
 
 ![All-Night Movers played a show at Sara Essex's studio on Carondelet street, New Orleans, August 3, 2002.](/static/img/rock/all-night-movers/sara-essex-studio-aug-3-2002/all-night-movers-aug-3-2002.jpg)
 
@@ -55,11 +57,5 @@ Just a nifty little show in my then-wife's photography studio.
 
 ![All-Night Movers played a show at Sara Essex's studio on Carondelet street, New Orleans, August 3, 2002.](/static/img/rock/all-night-movers/sara-essex-studio-aug-3-2002/sara-david-hug-aug-3-2002.jpg)
 </div>
-<div class="flex row-reverse space-between">
-  <div id="caption"></div>
-  <div class="prevnext-container">
-    <button id="buttonPrevious">&#10094;</button>
-    <button id="buttonNext">&#10095;</button>
-  </div>
-</div>
+<div id="caption"></div>
 

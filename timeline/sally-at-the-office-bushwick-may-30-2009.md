@@ -15,6 +15,8 @@ tags:
 
 
 <div id="viewport">
+    <button id="buttonPrevious">&#10094;</button>
+    <button id="buttonNext">&#10095;</button>
 
 ![Sally spent the day with me at the office.](/static/img/sally/sally-in-bushwick-may-30-2009/sally-in-bushwick-may-30-2009-55.jpg "Sally spent the day with me at the office.")
 
@@ -46,13 +48,7 @@ tags:
 
 
 </div>
-<div class="flex row-reverse space-between">
-  <div id="caption"></div>
-  <div class="prevnext-container">
-    <button id="buttonPrevious">&#10094;</button>
-    <button id="buttonNext">&#10095;</button>
-  </div>
-</div>
+<div id="caption"></div>
 
 
 Sally spent the day with me at the office.

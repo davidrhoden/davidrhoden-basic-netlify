@@ -15,6 +15,8 @@ tags:
 ---
 
 <div id="viewport">
+    <button id="buttonPrevious">&#10094;</button>
+    <button id="buttonNext">&#10095;</button>
 
 ![Sally showed off in the yard on Orchid Street.](/static/img/sally/sally-showing-off-at-irving-jul-17-2010/sally-showing-off-at-irving-jul-17-2010-33.jpg "Sally showed off in the yard on Orchid Street.")
 
@@ -38,11 +40,5 @@ tags:
 
 ![Sally showed off in the yard on Orchid Street.](/static/img/sally/sally-showing-off-at-irving-jul-17-2010/sally-showing-off-at-irving-jul-17-2010-43.jpg "Sally showed off in the yard on Orchid Street.")
 </div>
-<div class="flex row-reverse space-between">
-  <div id="caption"></div>
-  <div class="prevnext-container">
-    <button id="buttonPrevious">&#10094;</button>
-    <button id="buttonNext">&#10095;</button>
-  </div>
-</div>
+<div id="caption"></div>
 

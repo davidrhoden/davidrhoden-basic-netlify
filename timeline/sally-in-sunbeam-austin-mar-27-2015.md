@@ -15,6 +15,8 @@ tags:
 ---
 
 <div id="viewport">
+    <button id="buttonPrevious">&#10094;</button>
+    <button id="buttonNext">&#10095;</button>
 
 ![Sally slept in a sunbeam.](/static/img/sally/sally-in-sunbeam-austin-mar-27-2015/sally-in-sunbeam-austin-mar-27-2015-1.jpg "Sally slept in a sunbeam.")
 
@@ -31,11 +33,5 @@ tags:
 ![Sally slept in a sunbeam.](/static/img/sally/sally-in-sunbeam-austin-mar-27-2015/sally-in-sunbeam-austin-mar-27-2015-7.jpg "Sally slept in a sunbeam.")
 
 </div>
-<div class="flex row-reverse space-between">
-  <div id="caption"></div>
-  <div class="prevnext-container">
-    <button id="buttonPrevious">&#10094;</button>
-    <button id="buttonNext">&#10095;</button>
-  </div>
-</div>
+<div id="caption"></div>
 

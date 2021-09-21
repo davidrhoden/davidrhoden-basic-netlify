@@ -42,6 +42,8 @@ I don't know who most of the acts were. I met Ray Surinck from Hagus at this sho
 (21 photos)
 
 <div id="viewport">
+    <button id="buttonPrevious">&#10094;</button>
+    <button id="buttonNext">&#10095;</button>
 
 ![All-Night Movers as ELO, Mermaid Lounge Halloween Masked Ball, October 31, 2002.](/static/img/rock/all-night-movers/mermaid-elo-oct-31-2002/elo17.jpg "All-Night Movers as ELO, Mermaid Lounge Halloween Masked Ball, October 31, 2002.")
 
@@ -87,11 +89,5 @@ I don't know who most of the acts were. I met Ray Surinck from Hagus at this sho
 
 
 </div>
-<div class="flex row-reverse space-between">
-  <div id="caption"></div>
-  <div class="prevnext-container">
-    <button id="buttonPrevious">&#10094;</button>
-    <button id="buttonNext">&#10095;</button>
-  </div>
-</div>
+<div id="caption"></div>
 

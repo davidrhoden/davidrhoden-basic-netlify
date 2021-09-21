@@ -8,6 +8,10 @@ image: rock/jandtwp-ottos-jun-9-2006/jntwponstageatotto-ottos-jun-9-2006.jpg
 tags:
   - post 
   - rock
+  - NYC
+  - Manhattan
+  - Otto's Shrunken Head
+  - 14th Street
   - Jimmy and The Wolfpack
   - Art Winer
   - Mallory McCreary
@@ -21,6 +25,8 @@ tags:
 ---
 
 <div id="viewport">
+    <button id="buttonPrevious">&#10094;</button>
+    <button id="buttonNext">&#10095;</button>
 
 ![Jimmy and The Wolfpack played at Otto's Shrunken Head.](/static/img/rock/jandtwp-ottos-jun-9-2006/jntwponstageatotto-ottos-jun-9-2006.jpg "Jimmy and The Wolfpack played at Otto's Shrunken Head.")
 
@@ -52,10 +58,4 @@ tags:
 
 ![Jimmy and The Wolfpack played at Otto's Shrunken Head.](/static/img/rock/jandtwp-ottos-jun-9-2006/alpickled-ottos-jun-9-2006.jpg "Jimmy and The Wolfpack played at Otto's Shrunken Head.")
 </div>
-<div class="flex row-reverse space-between">
-  <div id="caption"></div>
-  <div class="prevnext-container">
-    <button id="buttonPrevious">&#10094;</button>
-    <button id="buttonNext">&#10095;</button>
-  </div>
-</div>
+<div id="caption"></div>

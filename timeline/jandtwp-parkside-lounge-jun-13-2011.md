@@ -9,7 +9,9 @@ tags:
   - post
   - rock
   - NYC
+  - Manhattan
   - Parkside Lounge
+  - Houston Street
   - Jimmy and The Wolfpack
   - Chan Menon
   - Doug DeRienzo
@@ -17,6 +19,8 @@ tags:
 ---
 
 <div id="viewport">
+    <button id="buttonPrevious">&#10094;</button>
+    <button id="buttonNext">&#10095;</button>
 
 ![Jimmy and The Wolfpack at Parkside Lounge, June 13, 2011](/static/img/rock/jandtwp-parkside-lounge-jun-13-2011/jandtwp-parkside-lounge-jun-13-2011.jpg "Jimmy and The Wolfpack at Parkside Lounge, June 13, 2011")
 
@@ -36,11 +40,7 @@ tags:
 
 ![Jimmy and The Wolfpack at Parkside Lounge, June 13, 2011](/static/img/rock/jandtwp-parkside-lounge-jun-13-2011/jandtwp-parkside-lounge-9-jun-13-2011.jpg "Jimmy and The Wolfpack at Parkside Lounge, June 13, 2011")
 
+![Parkside Lounge, exterior](/static/img/rock/jandtwp-parkside-lounge-jun-13-2011/parkside-bar-grill-exterior.png "Jimmy and The Wolfpack at Parkside Lounge, June 13, 2011")
+
 </div>
-<div class="flex row-reverse space-between">
-  <div id="caption"></div>
-  <div class="prevnext-container">
-    <button id="buttonPrevious">&#10094;</button>
-    <button id="buttonNext">&#10095;</button>
-  </div>
-</div>
+<div id="caption"></div>

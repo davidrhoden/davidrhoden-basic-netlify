@@ -25,6 +25,8 @@ This was a sort of thrown together show. Chan and I were actually visiting New O
 Oh, the best part? We wanted Doug to play but he was in Oklahoma. We assumed he was out but he asked "what time does the show start?" We told him 10 and damn if he didn't roll in at 10 on the dot.
 
 <div id="viewport">
+    <button id="buttonPrevious">&#10094;</button>
+    <button id="buttonNext">&#10095;</button>
 
 ![Stacks played the Saturn Bar January 21, 2008.](/static/img/rock/stacks/stacks-saturn-jan-21-2008/stacks-saturn-jan-21-2008-after-many-miles.jpg "Stacks played the Saturn Bar January 21, 2008.")
 
@@ -59,11 +61,5 @@ Oh, the best part? We wanted Doug to play but he was in Oklahoma. We assumed he 
 ![Stacks played the Saturn Bar January 21, 2008.](/static/img/rock/stacks/stacks-saturn-jan-21-2008/stacks-cool-drum-head-jul-8-what-a-change-in-the-saturn.jpg "Stacks played the Saturn Bar January 21, 2008.")
 
 </div>
-<div class="flex row-reverse space-between">
-  <div id="caption"></div>
-  <div class="prevnext-container">
-    <button id="buttonPrevious">&#10094;</button>
-    <button id="buttonNext">&#10095;</button>
-  </div>
-</div>
+<div id="caption"></div>
 

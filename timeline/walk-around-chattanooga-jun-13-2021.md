@@ -15,6 +15,8 @@ tags:
 I took a walk around downtown Chattanooga. It was a really hot Sunday, so somewhat deserted.
 
 <div id="viewport">
+    <button id="buttonPrevious">&#10094;</button>
+    <button id="buttonNext">&#10095;</button>
 
 ![Chattanooga scenery, June 13, 2021](/static/img/timeline/chattanooga/chattanooga-jail-site-jun-13-2021.jpg "Chattanooga scenery, June 13, 2021")
 
@@ -31,10 +33,4 @@ I took a walk around downtown Chattanooga. It was a really hot Sunday, so somewh
 ![Chattanooga scenery, June 13, 2021](/static/img/timeline/chattanooga/chattanooga-bridge-view-jun-13-2021.jpg "Chattanooga scenery, June 13, 2021")
 
 </div>
-<div class="flex row-reverse space-between">
-  <div id="caption"></div>
-  <div class="prevnext-container">
-    <button id="buttonPrevious">&#10094;</button>
-    <button id="buttonNext">&#10095;</button>
-  </div>
-</div>
+<div id="caption"></div>

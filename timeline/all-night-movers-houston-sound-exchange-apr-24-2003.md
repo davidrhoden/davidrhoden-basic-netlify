@@ -24,6 +24,8 @@ Many thanks to Trey Ledford for driving us to this show.
 (17 photos)
 
 <div id="viewport">
+    <button id="buttonPrevious">&#10094;</button>
+    <button id="buttonNext">&#10095;</button>
 
 ![Ka-Nives and All-Night Movers at Sound Exchange, Houston, TX, April 24, 2003.](/static/img/rock/all-night-movers/anm-houston-apr-24-2003/anm-houston-apr-24-2003-01.jpg "Ka-Nives and All-Night Movers at Sound Exchange, Houston, TX, April 24, 2003.")
 
@@ -59,13 +61,7 @@ Many thanks to Trey Ledford for driving us to this show.
 
 
 </div>
-<div class="flex row-reverse space-between">
-  <div id="caption"></div>
-  <div class="prevnext-container">
-    <button id="buttonPrevious">&#10094;</button>
-    <button id="buttonNext">&#10095;</button>
-  </div>
-</div>
+<div id="caption"></div>
 
 
 

@@ -24,7 +24,7 @@ tags:
 
 This one started out fine. No big problems except my hi-hat stand absolutely disintegrated mid-show. Not sure how that happened. Otherwise, great gig. The other band on the bill was called Lust, and they rocked. It was a fun night all around. After the show though, there was a somewhat unruly patron at the Star Bar who proclaimed for all to hear that he had just gotten out of jail, and he was ready to have a good time. He continued to be a loudmouth, but we could have easily left Atlanta without tangling with him.
 
-Unfortunately Jeff decided to talk to this guy, asking him a rheetorical question along the lines of "Hey, guy, how much does your girlfriend charge?"
+Unfortunately Jeff decided to talk to this guy, asking him a rhetorical question along the lines of "Hey, guy, how much does your girlfriend charge?"
 
 The guy seemed to let it go, but a few minutes later, the guy came up to Trey, punched him in the mouth, pointed at Jeff and yelled: "You shouldn't be in a band with that guy!"
 
@@ -33,6 +33,8 @@ Jim Stacy and the other owner (sorry on the name) threw the guy out with extreme
 More about this in the next tour diary installment.
 
 <div id="viewport">
+    <button id="buttonPrevious">&#10094;</button>
+    <button id="buttonNext">&#10095;</button>
 
 ![Jim Stacy and Trey Ledford (in toga), Star Bar, Atlanta, Georgia, October 1, 2004](/static/img/rock/maximvs/maximvs-atlanta-oct-1-2004/trey-and-jim-star-bar-oct-1-2004.jpg "Jim Stacy and Trey Ledford (in toga), Star Bar, Atlanta, Georgia, October 1, 2004")
 
@@ -56,10 +58,4 @@ More about this in the next tour diary installment.
 ![MAXIMVS!, Star Bar, Atlanta, Georgia, October 1, 2004](/static/img/rock/maximvs/maximvs-atlanta-oct-1-2004/maximvs-postatlshow-oct-1-2004.jpg)
 
 </div>
-<div class="flex row-reverse space-between">
-  <div id="caption"></div>
-  <div class="prevnext-container">
-    <button id="buttonPrevious">&#10094;</button>
-    <button id="buttonNext">&#10095;</button>
-  </div>
-</div>
+<div id="caption"></div>

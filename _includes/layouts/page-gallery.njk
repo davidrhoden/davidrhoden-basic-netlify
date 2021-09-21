@@ -6,12 +6,9 @@ section: page
 <h1>{{ title }}</h1>
 
 <div id="viewport">
+    <button id="buttonPrevious">&#10094;</button>
+    <button id="buttonNext">&#10095;</button>
 {{ layoutContent | safe }}
 </div>
-<div class="flex row-reverse space-between">
-	<div id="caption"></div>
-	<div class="prevnext-container">
-		<button id="buttonPrevious">&#10094;</button>
-		<button id="buttonNext">&#10095;</button>
-	</div>
-</div>
+
+<div id="caption"></div>

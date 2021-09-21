@@ -17,6 +17,8 @@ tags:
 Our house really was comfortable, we stayed in it too much.
 
 <div id="viewport">
+    <button id="buttonPrevious">&#10094;</button>
+    <button id="buttonNext">&#10095;</button>
 
 ![Sally in our air-conditioned house in Austin.](/static/img/sally/sally-on-mat-aug-23-2016.jpg "Sally in our air-conditioned house in Austin.")
 
@@ -26,10 +28,4 @@ Our house really was comfortable, we stayed in it too much.
 
 
 </div>
-<div class="flex row-reverse space-between">
-  <div id="caption"></div>
-  <div class="prevnext-container">
-    <button id="buttonPrevious">&#10094;</button>
-    <button id="buttonNext">&#10095;</button>
-  </div>
-</div>
+<div id="caption"></div>

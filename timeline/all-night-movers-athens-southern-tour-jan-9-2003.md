@@ -31,6 +31,8 @@ Slade cracked up. The motor was roaring and stinky smoke came from under the hoo
 We went to a bar called The Manhattan about ten blocks away. When we got there there were people out front talking about what they thought that horrible odor was. I can't believe the car didn't just die after that.
 
 <div id="viewport">
+    <button id="buttonPrevious">&#10094;</button>
+    <button id="buttonNext">&#10095;</button>
 
 ![All-Night Movers on tour, January 2003.](/static/img/rock/all-night-movers/us-tour-jan-9-11-2003/anm-georgia-01.jpg)
 
@@ -43,12 +45,6 @@ We went to a bar called The Manhattan about ten blocks away. When we got there t
 ![All-Night Movers on tour, January 2003.](/static/img/rock/all-night-movers/us-tour-jan-9-11-2003/anm-georgia-05.jpg)
 
 </div>
-<div class="flex row-reverse space-between">
-  <div id="caption"></div>
-  <div class="prevnext-container">
-    <button id="buttonPrevious">&#10094;</button>
-    <button id="buttonNext">&#10095;</button>
-  </div>
-</div>
+<div id="caption"></div>
 
 Thanks to [The Wayback Machine](https://web.archive.org/web/20040204080957/http://www.allnightmovers.com/) for keeping the hard copies of my website since my database is long gone. (Text files are forever, or at least more forever than a MySQL db.)

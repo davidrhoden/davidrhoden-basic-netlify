@@ -15,6 +15,8 @@ tags:
 ---
 
 <div id="viewport">
+    <button id="buttonPrevious">&#10094;</button>
+    <button id="buttonNext">&#10095;</button>
 
 ![Sally sitting in the roses. 181 Irving Avenue.](/static/img/sally/sally-in-roses-may-29-2009/sally-in-roses-may-29-2009-3.jpg "Sally sitting in the roses. 181 Irving Avenue.")
 
@@ -29,10 +31,4 @@ tags:
 ![Sally sitting in the roses. 181 Irving Avenue.](/static/img/sally/sally-in-roses-may-29-2009/sally-in-roses-may-29-2009-9.jpg "Sally sitting in the roses. 181 Irving Avenue.")
 
 </div>
-<div class="flex row-reverse space-between">
-  <div id="caption"></div>
-  <div class="prevnext-container">
-    <button id="buttonPrevious">&#10094;</button>
-    <button id="buttonNext">&#10095;</button>
-  </div>
-</div>
+<div id="caption"></div>

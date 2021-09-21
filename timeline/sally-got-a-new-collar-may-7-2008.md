@@ -19,6 +19,8 @@ She looked beautiful and didn't rip my hands off when I put it on her.
 Photos by Amber Sexton. Taken at 181 Irving Avenue in Bushwick.
 
 <div id="viewport">
+    <button id="buttonPrevious">&#10094;</button>
+    <button id="buttonNext">&#10095;</button>
 
 ![Sally got a new collar.](/static/img/sally/sally-new-collar-may-7-2008/sally-new-collar-may-7-2008-bushwick.jpg "Sally got a new collar.")
 
@@ -43,11 +45,5 @@ Photos by Amber Sexton. Taken at 181 Irving Avenue in Bushwick.
 ![Sally got a new collar.](/static/img/sally/sally-new-collar-may-7-2008/sally-new-collar-may-7-2008-piromano2.jpg "Sally got a new collar.")
 
 </div>
-<div class="flex row-reverse space-between">
-  <div id="caption"></div>
-  <div class="prevnext-container">
-    <button id="buttonPrevious">&#10094;</button>
-    <button id="buttonNext">&#10095;</button>
-  </div>
-</div>
+<div id="caption"></div>
 

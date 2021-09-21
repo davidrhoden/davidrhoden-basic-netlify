@@ -16,6 +16,8 @@ tags:
 ---
 
 <div id="viewport">
+    <button id="buttonPrevious">&#10094;</button>
+    <button id="buttonNext">&#10095;</button>
 
 ![Sally stretched on our plywood floor.](/static/img/sally/sally-stretching-on-floor-nov-28-2007/sally-stretching-on-floor-nov-28-2007-
 sally_thepaw.jpg "Sally stretched on our plywood floor.")
@@ -39,10 +41,4 @@ sallythinking.jpg "Sally stretched on our plywood floor.")
 talktothepaw.jpg "Sally stretched on our plywood floor.")
 
 </div>
-<div class="flex row-reverse space-between">
-  <div id="caption"></div>
-  <div class="prevnext-container">
-    <button id="buttonPrevious">&#10094;</button>
-    <button id="buttonNext">&#10095;</button>
-  </div>
-</div>
+<div id="caption"></div>
