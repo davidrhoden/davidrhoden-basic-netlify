@@ -1,5 +1,5 @@
 ---
-title: I attended Art and Mallory's wedding in Williamsburg, Virginia.
+title: I attended a wedding in Williamsburg, Virginia.
 date: 2003-10-11T12:00:00.000Z
 summary: I remember hanging out in the hotel's game room, among other nice things.
 excerpt: I remember hanging out in the hotel's game room, among other nice things.
@@ -12,18 +12,23 @@ tags:
   - Mallory McCreary
   - Williamsburg
   - Virginia
+  - Burnley Vest
+  - Matt
+  - The Hora
+  - break dancing
+  - crying
 
 ---
 
- I remember hanging out in the hotel's game room, among other nice things.
+ I remember hanging out in the hotel's game room, among other nice things. I had to give a toast at this thing and I cried. I'm never attempting that again.
 
- (207 photos)
+ (15 photos)
 
 <div id="viewport">
     <button id="buttonPrevious">&#10094;</button>
     <button id="buttonNext">&#10095;</button>
 
-![Art and Mallory's wedding, October 11, 2003.](/static/img/timeline/art-mallory-wedding-oct-11-2003/DSC_0001.jpg)
+<!-- ![Art and Mallory's wedding, October 11, 2003.](/static/img/timeline/art-mallory-wedding-oct-11-2003/DSC_0001.jpg)
 
 ![Art and Mallory's wedding, October 11, 2003.](/static/img/timeline/art-mallory-wedding-oct-11-2003/DSC_0002.jpg)
 
@@ -43,11 +48,11 @@ tags:
 
 ![Art and Mallory's wedding, October 11, 2003.](/static/img/timeline/art-mallory-wedding-oct-11-2003/DSC_0010.jpg)
 
-![Art and Mallory's wedding, October 11, 2003.](/static/img/timeline/art-mallory-wedding-oct-11-2003/DSC_0011.jpg)
+![Art and Mallory's wedding, October 11, 2003.](/static/img/timeline/art-mallory-wedding-oct-11-2003/DSC_0011.jpg) -->
 
 ![Art and Mallory's wedding, October 11, 2003.](/static/img/timeline/art-mallory-wedding-oct-11-2003/DSC_0012.jpg)
 
-![Art and Mallory's wedding, October 11, 2003.](/static/img/timeline/art-mallory-wedding-oct-11-2003/DSC_0013.jpg)
+<!-- ![Art and Mallory's wedding, October 11, 2003.](/static/img/timeline/art-mallory-wedding-oct-11-2003/DSC_0013.jpg)
 
 ![Art and Mallory's wedding, October 11, 2003.](/static/img/timeline/art-mallory-wedding-oct-11-2003/DSC_0014.jpg)
 
@@ -57,11 +62,11 @@ tags:
 
 ![Art and Mallory's wedding, October 11, 2003.](/static/img/timeline/art-mallory-wedding-oct-11-2003/DSC_0017.jpg)
 
-![Art and Mallory's wedding, October 11, 2003.](/static/img/timeline/art-mallory-wedding-oct-11-2003/DSC_0018.jpg)
+![Art and Mallory's wedding, October 11, 2003.](/static/img/timeline/art-mallory-wedding-oct-11-2003/DSC_0018.jpg) -->
 
 ![Art and Mallory's wedding, October 11, 2003.](/static/img/timeline/art-mallory-wedding-oct-11-2003/DSC_0019.jpg)
 
-![Art and Mallory's wedding, October 11, 2003.](/static/img/timeline/art-mallory-wedding-oct-11-2003/DSC_0020.jpg)
+<!-- ![Art and Mallory's wedding, October 11, 2003.](/static/img/timeline/art-mallory-wedding-oct-11-2003/DSC_0020.jpg)
 
 ![Art and Mallory's wedding, October 11, 2003.](/static/img/timeline/art-mallory-wedding-oct-11-2003/DSC_0021.jpg)
 
@@ -135,25 +140,25 @@ tags:
 
 ![Art and Mallory's wedding, October 11, 2003.](/static/img/timeline/art-mallory-wedding-oct-11-2003/DSC_0056.jpg)
 
-![Art and Mallory's wedding, October 11, 2003.](/static/img/timeline/art-mallory-wedding-oct-11-2003/DSC_0057.jpg)
+![Art and Mallory's wedding, October 11, 2003.](/static/img/timeline/art-mallory-wedding-oct-11-2003/DSC_0057.jpg) -->
 
 ![Art and Mallory's wedding, October 11, 2003.](/static/img/timeline/art-mallory-wedding-oct-11-2003/DSC_0058.jpg)
 
-![Art and Mallory's wedding, October 11, 2003.](/static/img/timeline/art-mallory-wedding-oct-11-2003/DSC_0059.jpg)
+<!-- ![Art and Mallory's wedding, October 11, 2003.](/static/img/timeline/art-mallory-wedding-oct-11-2003/DSC_0059.jpg)
 
 ![Art and Mallory's wedding, October 11, 2003.](/static/img/timeline/art-mallory-wedding-oct-11-2003/DSC_0060.jpg)
 
-![Art and Mallory's wedding, October 11, 2003.](/static/img/timeline/art-mallory-wedding-oct-11-2003/DSC_0061.jpg)
+![Art and Mallory's wedding, October 11, 2003.](/static/img/timeline/art-mallory-wedding-oct-11-2003/DSC_0061.jpg) -->
 
 ![Art and Mallory's wedding, October 11, 2003.](/static/img/timeline/art-mallory-wedding-oct-11-2003/DSC_0062.jpg)
 
-![Art and Mallory's wedding, October 11, 2003.](/static/img/timeline/art-mallory-wedding-oct-11-2003/DSC_0063.jpg)
+<!-- ![Art and Mallory's wedding, October 11, 2003.](/static/img/timeline/art-mallory-wedding-oct-11-2003/DSC_0063.jpg)
 
-![Art and Mallory's wedding, October 11, 2003.](/static/img/timeline/art-mallory-wedding-oct-11-2003/DSC_0064.jpg)
+![Art and Mallory's wedding, October 11, 2003.](/static/img/timeline/art-mallory-wedding-oct-11-2003/DSC_0064.jpg) -->
 
 ![Art and Mallory's wedding, October 11, 2003.](/static/img/timeline/art-mallory-wedding-oct-11-2003/DSC_0065.jpg)
 
-![Art and Mallory's wedding, October 11, 2003.](/static/img/timeline/art-mallory-wedding-oct-11-2003/DSC_0066.jpg)
+<!-- ![Art and Mallory's wedding, October 11, 2003.](/static/img/timeline/art-mallory-wedding-oct-11-2003/DSC_0066.jpg)
 
 ![Art and Mallory's wedding, October 11, 2003.](/static/img/timeline/art-mallory-wedding-oct-11-2003/DSC_0067.jpg)
 
@@ -182,10 +187,10 @@ tags:
 ![Art and Mallory's wedding, October 11, 2003.](/static/img/timeline/art-mallory-wedding-oct-11-2003/DSC_0079.jpg)
 
 ![Art and Mallory's wedding, October 11, 2003.](/static/img/timeline/art-mallory-wedding-oct-11-2003/DSC_0080.jpg)
-
+ -->
 ![Art and Mallory's wedding, October 11, 2003.](/static/img/timeline/art-mallory-wedding-oct-11-2003/DSC_0081.jpg)
 
-![Art and Mallory's wedding, October 11, 2003.](/static/img/timeline/art-mallory-wedding-oct-11-2003/DSC_0082.jpg)
+<!-- ![Art and Mallory's wedding, October 11, 2003.](/static/img/timeline/art-mallory-wedding-oct-11-2003/DSC_0082.jpg)
 
 ![Art and Mallory's wedding, October 11, 2003.](/static/img/timeline/art-mallory-wedding-oct-11-2003/DSC_0083.jpg)
 
@@ -219,13 +224,13 @@ tags:
 
 ![Art and Mallory's wedding, October 11, 2003.](/static/img/timeline/art-mallory-wedding-oct-11-2003/DSC_0098.jpg)
 
-![Art and Mallory's wedding, October 11, 2003.](/static/img/timeline/art-mallory-wedding-oct-11-2003/DSC_0099.jpg)
+![Art and Mallory's wedding, October 11, 2003.](/static/img/timeline/art-mallory-wedding-oct-11-2003/DSC_0099.jpg) -->
 
 ![Art and Mallory's wedding, October 11, 2003.](/static/img/timeline/art-mallory-wedding-oct-11-2003/DSC_0100.jpg)
 
 ![Art and Mallory's wedding, October 11, 2003.](/static/img/timeline/art-mallory-wedding-oct-11-2003/DSC_0101.jpg)
 
-![Art and Mallory's wedding, October 11, 2003.](/static/img/timeline/art-mallory-wedding-oct-11-2003/DSC_0102.jpg)
+<!-- ![Art and Mallory's wedding, October 11, 2003.](/static/img/timeline/art-mallory-wedding-oct-11-2003/DSC_0102.jpg)
 
 ![Art and Mallory's wedding, October 11, 2003.](/static/img/timeline/art-mallory-wedding-oct-11-2003/DSC_0103.jpg)
 
@@ -269,17 +274,17 @@ tags:
 
 ![Art and Mallory's wedding, October 11, 2003.](/static/img/timeline/art-mallory-wedding-oct-11-2003/DSC_0125.jpg)
 
-![Art and Mallory's wedding, October 11, 2003.](/static/img/timeline/art-mallory-wedding-oct-11-2003/DSC_0126.jpg)
+![Art and Mallory's wedding, October 11, 2003.](/static/img/timeline/art-mallory-wedding-oct-11-2003/DSC_0126.jpg) -->
 
 ![Art and Mallory's wedding, October 11, 2003.](/static/img/timeline/art-mallory-wedding-oct-11-2003/DSC_0127.jpg)
 
-![Art and Mallory's wedding, October 11, 2003.](/static/img/timeline/art-mallory-wedding-oct-11-2003/DSC_0128.jpg)
+<!-- ![Art and Mallory's wedding, October 11, 2003.](/static/img/timeline/art-mallory-wedding-oct-11-2003/DSC_0128.jpg)
 
 ![Art and Mallory's wedding, October 11, 2003.](/static/img/timeline/art-mallory-wedding-oct-11-2003/DSC_0129.jpg)
 
 ![Art and Mallory's wedding, October 11, 2003.](/static/img/timeline/art-mallory-wedding-oct-11-2003/DSC_0130.jpg)
 
-![Art and Mallory's wedding, October 11, 2003.](/static/img/timeline/art-mallory-wedding-oct-11-2003/DSC_0131.jpg)
+![Art and Mallory's wedding, October 11, 2003.](/static/img/timeline/art-mallory-wedding-oct-11-2003/DSC_0131.jpg) -
 
 ![Art and Mallory's wedding, October 11, 2003.](/static/img/timeline/art-mallory-wedding-oct-11-2003/DSC_0132.jpg)
 
@@ -315,21 +320,21 @@ tags:
 
 ![Art and Mallory's wedding, October 11, 2003.](/static/img/timeline/art-mallory-wedding-oct-11-2003/DSC_0148.jpg)
 
-![Art and Mallory's wedding, October 11, 2003.](/static/img/timeline/art-mallory-wedding-oct-11-2003/DSC_0149.jpg)
+![Art and Mallory's wedding, October 11, 2003.](/static/img/timeline/art-mallory-wedding-oct-11-2003/DSC_0149.jpg) -->
 
 ![Art and Mallory's wedding, October 11, 2003.](/static/img/timeline/art-mallory-wedding-oct-11-2003/DSC_0150.jpg)
 
-![Art and Mallory's wedding, October 11, 2003.](/static/img/timeline/art-mallory-wedding-oct-11-2003/DSC_0151.jpg)
+<!-- ![Art and Mallory's wedding, October 11, 2003.](/static/img/timeline/art-mallory-wedding-oct-11-2003/DSC_0151.jpg)
 
 ![Art and Mallory's wedding, October 11, 2003.](/static/img/timeline/art-mallory-wedding-oct-11-2003/DSC_0152.jpg)
 
 ![Art and Mallory's wedding, October 11, 2003.](/static/img/timeline/art-mallory-wedding-oct-11-2003/DSC_0153.jpg)
 
-![Art and Mallory's wedding, October 11, 2003.](/static/img/timeline/art-mallory-wedding-oct-11-2003/DSC_0154.jpg)
+![Art and Mallory's wedding, October 11, 2003.](/static/img/timeline/art-mallory-wedding-oct-11-2003/DSC_0154.jpg) --->
 
 ![Art and Mallory's wedding, October 11, 2003.](/static/img/timeline/art-mallory-wedding-oct-11-2003/DSC_0155.jpg)
 
-![Art and Mallory's wedding, October 11, 2003.](/static/img/timeline/art-mallory-wedding-oct-11-2003/DSC_0156.jpg)
+<!--![Art and Mallory's wedding, October 11, 2003.](/static/img/timeline/art-mallory-wedding-oct-11-2003/DSC_0156.jpg)
 
 ![Art and Mallory's wedding, October 11, 2003.](/static/img/timeline/art-mallory-wedding-oct-11-2003/DSC_0157.jpg)
 
@@ -339,25 +344,25 @@ tags:
 
 ![Art and Mallory's wedding, October 11, 2003.](/static/img/timeline/art-mallory-wedding-oct-11-2003/DSC_0160.jpg)
 
-![Art and Mallory's wedding, October 11, 2003.](/static/img/timeline/art-mallory-wedding-oct-11-2003/DSC_0161.jpg)
+![Art and Mallory's wedding, October 11, 2003.](/static/img/timeline/art-mallory-wedding-oct-11-2003/DSC_0161.jpg) -->
 
 ![Art and Mallory's wedding, October 11, 2003.](/static/img/timeline/art-mallory-wedding-oct-11-2003/DSC_0162.jpg)
 
 ![Art and Mallory's wedding, October 11, 2003.](/static/img/timeline/art-mallory-wedding-oct-11-2003/DSC_0163.jpg)
 
-![Art and Mallory's wedding, October 11, 2003.](/static/img/timeline/art-mallory-wedding-oct-11-2003/DSC_0164.jpg)
+<!--![Art and Mallory's wedding, October 11, 2003.](/static/img/timeline/art-mallory-wedding-oct-11-2003/DSC_0164.jpg)
 
 ![Art and Mallory's wedding, October 11, 2003.](/static/img/timeline/art-mallory-wedding-oct-11-2003/DSC_0165.jpg)
 
 ![Art and Mallory's wedding, October 11, 2003.](/static/img/timeline/art-mallory-wedding-oct-11-2003/DSC_0166.jpg)
 
-![Art and Mallory's wedding, October 11, 2003.](/static/img/timeline/art-mallory-wedding-oct-11-2003/DSC_0167.jpg)
+![Art and Mallory's wedding, October 11, 2003.](/static/img/timeline/art-mallory-wedding-oct-11-2003/DSC_0167.jpg)-->
 
 ![Art and Mallory's wedding, October 11, 2003.](/static/img/timeline/art-mallory-wedding-oct-11-2003/DSC_0168.jpg)
 
 ![Art and Mallory's wedding, October 11, 2003.](/static/img/timeline/art-mallory-wedding-oct-11-2003/DSC_0169.jpg)
 
-![Art and Mallory's wedding, October 11, 2003.](/static/img/timeline/art-mallory-wedding-oct-11-2003/DSC_0170.jpg)
+<!--![Art and Mallory's wedding, October 11, 2003.](/static/img/timeline/art-mallory-wedding-oct-11-2003/DSC_0170.jpg)
 
 ![Art and Mallory's wedding, October 11, 2003.](/static/img/timeline/art-mallory-wedding-oct-11-2003/DSC_0171.jpg)
 
@@ -433,10 +438,9 @@ tags:
 
 ![Art and Mallory's wedding, October 11, 2003.](/static/img/timeline/art-mallory-wedding-oct-11-2003/DSC_0212.jpg)
 
-![Art and Mallory's wedding, October 11, 2003.](/static/img/timeline/art-mallory-wedding-oct-11-2003/DSC_0224.jpg)
+![Art and Mallory's wedding, October 11, 2003.](/static/img/timeline/art-mallory-wedding-oct-11-2003/DSC_0224.jpg)-->
 
 ![Art and Mallory's wedding, October 11, 2003.](/static/img/timeline/art-mallory-wedding-oct-11-2003/DSC_0225.jpg)
-
 
 </div>
 <div id="caption"></div>
