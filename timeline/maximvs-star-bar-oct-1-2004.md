@@ -36,28 +36,28 @@ More about this in the next tour diary installment.
 
 ![Jim Stacy and Trey Ledford (in toga), Star Bar, Atlanta, Georgia, October 1, 2004](/static/img/rock/maximvs/maximvs-atlanta-oct-1-2004/trey-and-jim-star-bar-oct-1-2004.jpg "Jim Stacy and Trey Ledford (in toga), Star Bar, Atlanta, Georgia, October 1, 2004")
 
-![The band Lust, Star Bar, Atlanta, Georgia, October 1, 2004](static/img/rock/maximvs/maximvs-atlanta-oct-1-2004/maximvs-bothlusts-oct-1-2004.jpg)
+![The band Lust, Star Bar, Atlanta, Georgia, October 1, 2004](/static/img/rock/maximvs/maximvs-atlanta-oct-1-2004/maximvs-bothlusts-oct-1-2004.jpg)
 
-![The band Lust, Star Bar, Atlanta, Georgia, October 1, 2004](static/img/rock/maximvs/maximvs-atlanta-oct-1-2004/maximvs-bothlusts-oct-1-2004.jpg)
+![The band Lust, Star Bar, Atlanta, Georgia, October 1, 2004](/static/img/rock/maximvs/maximvs-atlanta-oct-1-2004/maximvs-bothlusts-oct-1-2004.jpg)
 
-![The band Lust, Star Bar, Atlanta, Georgia, October 1, 2004](static/img/rock/maximvs/maximvs-atlanta-oct-1-2004/maximvs-elvislust-oct-1-2004.jpg)
+![The band Lust, Star Bar, Atlanta, Georgia, October 1, 2004](/static/img/rock/maximvs/maximvs-atlanta-oct-1-2004/maximvs-elvislust-oct-1-2004.jpg)
 
-![Suzanne from the band Lust, Star Bar, Atlanta, Georgia, October 1, 2004](static/img/rock/maximvs/maximvs-atlanta-oct-1-2004/maximvs-suzannefmlust-oct-1-2004.jpg)
+![Suzanne from the band Lust, Star Bar, Atlanta, Georgia, October 1, 2004](/static/img/rock/maximvs/maximvs-atlanta-oct-1-2004/maximvs-suzannefmlust-oct-1-2004.jpg)
 
-![The band Lust, Star Bar, Atlanta, Georgia, October 1, 2004](static/img/rock/maximvs/maximvs-atlanta-oct-1-2004/maximvs-suzanshoes-oct-1-2004.jpg)
+![The band Lust, Star Bar, Atlanta, Georgia, October 1, 2004](/static/img/rock/maximvs/maximvs-atlanta-oct-1-2004/maximvs-suzanshoes-oct-1-2004.jpg)
 
-![The band Lust, Star Bar, Atlanta, Georgia, October 1, 2004](static/img/rock/maximvs/maximvs-atlanta-oct-1-2004/maximvs-goodlust-oct-1-2004.jpg)
+![The band Lust, Star Bar, Atlanta, Georgia, October 1, 2004](/static/img/rock/maximvs/maximvs-atlanta-oct-1-2004/maximvs-goodlust-oct-1-2004.jpg)
 
-![The band Lust, Star Bar, Atlanta, Georgia, October 1, 2004](static/img/rock/maximvs/maximvs-atlanta-oct-1-2004/maximvs-lust-oct-1-2004.jpg)
+![The band Lust, Star Bar, Atlanta, Georgia, October 1, 2004](/static/img/rock/maximvs/maximvs-atlanta-oct-1-2004/maximvs-lust-oct-1-2004.jpg)
 
-![The band Lust, Star Bar, Atlanta, Georgia, October 1, 2004](static/img/rock/maximvs/maximvs-atlanta-oct-1-2004/maximvs-lustylady-oct-1-2004.jpg)
+![The band Lust, Star Bar, Atlanta, Georgia, October 1, 2004](/static/img/rock/maximvs/maximvs-atlanta-oct-1-2004/maximvs-lustylady-oct-1-2004.jpg)
 
-![Fan at MAXIMVS! show, Star Bar, Atlanta, Georgia, October 1, 2004](static/img/rock/maximvs/maximvs-atlanta-oct-1-2004/maximvs-fan-oct-1-2004.jpg)
+![Fan at MAXIMVS! show, Star Bar, Atlanta, Georgia, October 1, 2004](/static/img/rock/maximvs/maximvs-atlanta-oct-1-2004/maximvs-fan-oct-1-2004.jpg)
 
 
-![Fan at MAXIMVS! show, Star Bar, Atlanta, Georgia, October 1, 2004](static/img/rock/maximvs/maximvs-atlanta-oct-1-2004/maximvs-pinkfan-oct-1-2004.jpg)
+![Fan at MAXIMVS! show, Star Bar, Atlanta, Georgia, October 1, 2004](/static/img/rock/maximvs/maximvs-atlanta-oct-1-2004/maximvs-pinkfan-oct-1-2004.jpg)
 
-![MAXIMVS!, Star Bar, Atlanta, Georgia, October 1, 2004](static/img/rock/maximvs/maximvs-atlanta-oct-1-2004/maximvs-postatlshow-oct-1-2004.jpg)
+![MAXIMVS!, Star Bar, Atlanta, Georgia, October 1, 2004](/static/img/rock/maximvs/maximvs-atlanta-oct-1-2004/maximvs-postatlshow-oct-1-2004.jpg)
 
 </div>
 <div class="flex row-reverse space-between">
