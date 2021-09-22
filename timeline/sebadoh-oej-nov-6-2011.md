@@ -9,7 +9,7 @@ tags:
   - rock
   - shows
   - New Orleans
-  - One Eyed Jacks
+  - One Eyed Jack's
   - Sebadoh
   
 ---

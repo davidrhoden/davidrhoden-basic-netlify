@@ -10,7 +10,7 @@ tags:
   - rock
   - shows
   - NYC
-  - Brownies
+  - Brownie's
   - Hi-Balls
   - MacArthur
   - Art Winer
@@ -22,4 +22,4 @@ It seems impossible to me now that [The Hi-Balls](https://hiballs.bandcamp.com/)
 Is this the show where we went in the dressing room and there was a tall woman who played baritone sax that just reeked?
 And is this the one where we parked in front of a hydrant on the trip home so Alan could get us belgian fries, which where kind of a thing at the time?
 
-![mailer advertising show at Brownie's](/static/img/rock/hi-balls-card-buscareno-jan-17-1998.jpg "mailer advertising show at Brownie's")
+![Mailer advertising a Hi-Balls and MacArthur show at Brownie's.](/static/img/rock/hi-balls-card-buscareno-jan-17-1998.jpg "mailer advertising show at Brownie's")
