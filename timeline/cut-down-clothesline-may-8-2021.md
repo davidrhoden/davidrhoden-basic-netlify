@@ -18,4 +18,4 @@ This pole is (or was) in the middle of my yard by the path to my door. The point
 
 I did remove it. Buddy helped.
 
-![Buddy the cat helping me work.](/static/img/buddy/buddy-helping-may-8-2021.jpg "Buddy the cat helping me work.)
+![Buddy the cat helping me work.](/static/img/buddy/buddy-helping-may-8-2021.jpg "Buddy the cat helping me work.")
