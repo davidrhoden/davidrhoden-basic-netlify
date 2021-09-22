@@ -13,6 +13,7 @@ tags:
   - Jeff Pounds
   - Trey Ledford
   - "Mississippi Delta"
+  - Mark Davis
 
 ---
 
@@ -20,6 +21,8 @@ tags:
 This show was downright silly. Our "real" guitarist, Trey Ledford, a.k.a "CLAVDIVS", couldn't make it, but the songs were so damn simple IN MY MIND I figured I couldd play them. With no rehearsal. Our friend Anthony Donato offered to play the drum kit, again, with no rehearsal that I can recall. 
 
 Right before the gig, Jeff ("BRVTVS") asked me if I knew the Bobbie Gentry song "M-i-s-s-i-s-s-i-p-p-i" (actually titled "Mississippi Delta"). When I said yeah, he asked if we could play it? What the hell...It went as well as could be expected which means different things depending on your expectations.
+
+Photos by Mark Davis.
 
 <div id="viewport">
     <button id="buttonPrevious">&#10094;</button>
