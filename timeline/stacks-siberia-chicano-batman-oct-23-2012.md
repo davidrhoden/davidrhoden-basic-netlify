@@ -1,10 +1,10 @@
 ---
 title: Stacks played Siberia with Chicano Batman.
-date: 2014-01-25T11:00:00.000Z
+date: 2012-10-23T22:00:00.000Z
 summary: Tuesday night rock and roll. Good crowd, actually.
 excerpt: Tuesday night rock and roll. Good crowd, actually.
 category: rock
-image: rock/stacks/stacks-flyer-jan-25-2014.jpg
+image: timeline/chicano-batman-oct-23-2012.jpg
 tags:
   - post 
   - rock
@@ -16,3 +16,5 @@ tags:
 ---
 
 Last minute booking, great show. Well attended, even for a Tuessday.
+
+![Chicano Batman](/static/img/timeline/chicano-batman-oct-23-2012.jpg)
