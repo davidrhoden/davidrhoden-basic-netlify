@@ -11,7 +11,7 @@ tags:
   - The Stacks
   - Doctor-a-Go-Go
   - Pocket Foxx
-  - One Eyed Jacks
+  - One Eyed Jack's
   - French Quarter
   - New Orleans
   - date approximate
