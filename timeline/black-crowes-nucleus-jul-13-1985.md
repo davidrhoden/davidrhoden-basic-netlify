@@ -12,11 +12,12 @@ tags:
   - Chattanooga
   - Nucleus
   - Mr Crowes Garden
+  - Black Crowes
   - Yo
 
 ---
 
-![flyer from Mr. Crowe's Garden show](/static/img/rock/black-crowes-nucleus-jul-13-1985.jpg "flyer from Mr. Crowe's Garden show")
+![flyer from Mr. Crowe's Garden show](/static/img/timeline/black-crowes-nucleus-jul-13-1985.jpg "flyer from Mr. Crowe's Garden show")
 
 According to legend, this was the first show by the band that would become The Black Crowes. It wasn't legendary, but they were pretty good. Very jangly. At this time I would talk to everybody I met who was in a band, and I talked to them too. They weren't interested in talking to me though. They went to a payphone to call home right after they got off stage. Which is fine.
 
