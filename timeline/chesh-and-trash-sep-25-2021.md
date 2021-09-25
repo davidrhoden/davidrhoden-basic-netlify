@@ -13,14 +13,28 @@ tags:
   - Chesh
   - cats
   - garbage
+  - cops
+  - hurricanes
+  - Ida
+  - Sister Street Stage
+  - the levee
+  - violence
+  - crime
 
 ---
 
-![The Trash finally came!.](/static/img/timeline/trash-and-cop-sep-25-2021.jpg "A cat called Chesh.")
+![The Trash finally came!](/static/img/timeline/trash-and-cop-sep-25-2021.jpg "The Trash finally came!")
 
-![A cat called Chesh.](/static/img/timeline/chesh-on-porch-sep-25-2021.jpg "A cat called Chesh.")
+My trash got picked up last week after a long delay, but Gina's had been sitting out since August 25, pre-Hurricane Ida.
+
+Also notice the cop car coming down the path (that Gina mowed). we've been having a piar or trio of kids attacking people with sticks and rocks on the levee, so they're sending cops up there, just a s a presence I guess,
+
+A little bit later we notices a tortoise-shell cat sitting on the Sister Street Stage. "Let's look at it," I said. So we looked at it from twenty yards away and it looked really cute.
+
+"Let's go see if we can pet it," Gina said, so we did that too. The cat did let us pet her, a lot! She had a collar that said her name is "CHESH". We think she lives pretty close by.
 
 ![Gina Phillips with a cat called Chesh.](/static/img/gina/gina-with-chesh-sep-25-2021.jpg "David Rhoden with a cat called Chesh.")
 
 ![David Rhoden with a cat called Chesh.](/static/img/timeline/david-with-chesh-sep-25-2021.jpg "David Rhoden with a cat called Chesh.")
 
+![A cat called Chesh.](/static/img/timeline/chesh-on-porch-sep-25-2021.jpg "A cat called Chesh.")
