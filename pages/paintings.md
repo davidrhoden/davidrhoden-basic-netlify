@@ -29,7 +29,7 @@ eleventyNavigation:
 1. ![Iceberg Luchador painting by David Rhoden](/static/img/paintings/icebergcrop.jpg?nf_resize=fit&w=960)
 1. ![Guerrero painting by David Rhoden](/static/img/paintings/luchaguerrero.jpg?nf_resize=fit&w=960)
 1. ![Yellow Squiggle painting by David Rhoden](/static/img/paintings/yellowsquiggle.jpg?nf_resize=fit&w=960)
-1. ![I'm Over It painting by David Rhoden](/static/img/paintings/imoverit171207.jpg?nf_resize=fit&w=960)
+1. ![I'm Over It painting by David Rhoden](/static/img/paintings/im-over-it-dec-4-2017.jpg?nf_resize=fit&w=960)
 1. ![Had Enough painting by David Rhoden](/static/img/paintings/Had-Enough.jpg?nf_resize=fit&w=960)
 1. ![Lighter painting by David Rhoden](/static/img/paintings/lighter-jul-19-2020.jpg?nf_resize=fit&w=960)
 1. ![Dominante painting by David Rhoden](/static/img/paintings/dominanteatbywaterb.jpg?nf_resize=fit&w=960)
