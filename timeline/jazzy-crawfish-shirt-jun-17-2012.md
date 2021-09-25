@@ -19,8 +19,8 @@ tags:
 
 ---
 
-![IDavid Rhoden wearing jazz crawfish t-shirt to iSeatz picninc, June 17, 2012.](/static/img/timeline/jazzy-crawfish-shirt-1-jun-17-2012.jpg)
+![David Rhoden wearing jazz crawfish t-shirt to iSeatz picnic, June 17, 2012.](/static/img/timeline/jazzy-crawfish-shirt-1-jun-17-2012.jpg)
 
-![Alex Hemard wearing jazz crawfish t-shirt to iSeatz picninc, June 17, 2012.](/static/img/timeline/jazzy-crawfish-shirt-2-jun-17-2012.jpg)
+![Alex Hemard wearing jazz crawfish t-shirt to iSeatz picnic, June 17, 2012.](/static/img/timeline/jazzy-crawfish-shirt-2-jun-17-2012.jpg)
 
 I was mad because I didn't win the office Koozie Kontest, and I thought I should have, so, maybe to make me feel better, Alex designed these awesome "jazz crawfish" t-shirts.
