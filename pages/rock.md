@@ -110,7 +110,7 @@ A really terrific band that started because I wanted to do some of Chan's song b
 
 ## MAXIMVS!
 
-![MAXIMVS! at Circle Bar, New Orleans: Jeff Pounds, David Rhoden, Trey Ledford](/static/img/rock/maximvs/maximvs-circle-bar/maximvs-allthree.jpg)
+![MAXIMVS! at Circle Bar, New Orleans: Jeff Pounds, David Rhoden, Trey Ledford](/static/img/rock/maximvs/maximvs-circle-bar-jun-22-2004/maximvs-allthree-jun-22-2004.jpg)
 
 Short-lived band that actually toured around some. The spectacle was the thing with this trio, but there's a recording somewhere. We're on a DVD somebody made called Blackbeard's Lost Weekend (part of a live show at The Cave in Chapel Hill, N.C.).
 

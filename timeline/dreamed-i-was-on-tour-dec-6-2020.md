@@ -1,5 +1,5 @@
 ---
-title: dreamed I was on tour.
+title: Dreamed I was on tour.
 date: 2020-12-06T08:00:00.000Z
 summary: I dreamed I was on tour with my band. We had a gig at a women's college. Also Betty.
 excerpt: I dreamed I was on tour with my band. We had a gig at a women's college. Also Betty.
