@@ -23,4 +23,4 @@ tags:
 
 I guess I got a toy Texaco station like this one (picture snagged from ebay or somewhere) for Christmas or my birthday. I really liked it aa lot. When we moved from Knoxville to Chattanooga, we didn't have room to take it with us (a likely story!) and I left it behind in a closet.
 
-The Christmas after we got to Chattanooga, I got another one, but thihs time with yellow cars, which I actually preferred to the previous red ones. I got to help put it together and that's when I learned the pronunciation of the word "cupola".
+The Christmas after we got to Chattanooga, I got another one, but this time with yellow cars, which I actually preferred to the previous red ones. I got to help put it together and that's when I learned the pronunciation of the word "cupola".

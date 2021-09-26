@@ -8,7 +8,7 @@ tags:
   - Tennessee
   - Chattanooga
   - Uncle Larry's
-  - Martin Luther King, Jr Boulevard
+  - Martin Luther King, Jr. Boulevard
   - fish
   - lost and found
   - shoes
@@ -20,3 +20,5 @@ tags:
 As good as advertised.
 
 ![I saw a lost shoe on Martin Luther King, Jr Boulevard, in Chattanooga.](/static/img/timeline/chattanooga/chattanooga-lost-shoe-mlk-sep-1-2021.jpg "I saw a lost shoe on Martin Luther King, Jr Boulevard, in Chattanooga..")
+
+The shoe was goone when I came back by.
