@@ -1,13 +1,16 @@
 ---
-title: The Stacks played Siberia
+title: The Stacks played Siberia.
 date: 2018-08-30T17:00:00.000Z
 summary: Here's the recording from that show.
 excerpt: Here's the recording from that show.
 image: rock/stacks/stacks-siberia-aug-30-2018.jpg
 tags:
   - post 
+  - rock
+  - The Stacks
   - New Orleans
   - Siberia
+  - St. Claude Avenue
   - Tom Beeman
 
 ---
