@@ -20,6 +20,7 @@ tags:
   - The Levee
   - violence
   - crime
+  - fires
 
 ---
 
@@ -27,7 +28,7 @@ tags:
 
 My trash got picked up last week after a long delay, but Gina's had been sitting out since August 25, pre-Hurricane Ida.
 
-Also notice the cop car coming down the path (that Gina mowed). we've been having a piar or trio of kids attacking people with sticks and rocks on the levee, so they're sending cops up there, just a s a presence I guess,
+Also notice the cop car coming down the path (that Gina mowed). we've been having a pair or trio of kids attacking people with sticks and rocks on the levee, so they're sending cops up there, just as a presence I guess,
 
 A little bit later we notices a tortoise-shell cat sitting on the Sister Street Stage. "Let's look at it," I said. So we looked at it from twenty yards away and it looked really cute.
 
