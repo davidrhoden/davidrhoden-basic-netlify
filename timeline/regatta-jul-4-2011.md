@@ -4,7 +4,7 @@ date: 2011-07-04T16:00:00.000Z
 summary: Maybe Trey could remember it better than me.
 excerpt: Maybe Trey could remember it better than me.
 category: timeline
-image: timeline/regatta/regatta-jul-4-2011-instruments.jpg
+image: timeline/regatta-jul-3-4-2011/regatta-jul-4-2011-instruments.jpg
 tags:
   - post 
   - regatta
@@ -16,10 +16,11 @@ tags:
   - Trey Ledford
   - Sis
   - Dana D.
+  - Anthony Donato
   
 ---
 
-We played a little "show" for the people who were there. Maybe Trey could remember it better than me.
+We played a little "show" for the people who were there. Maybe Trey could remember it better than me. Did Anthony Donato sit in with us?
 
 We definitely didn't win the race.
 
