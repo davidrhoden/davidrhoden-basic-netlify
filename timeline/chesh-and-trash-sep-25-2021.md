@@ -38,3 +38,7 @@ A little bit later we notices a tortoise-shell cat sitting on the Sister Street 
 ![David Rhoden with a cat called Chesh.](/static/img/timeline/david-with-chesh-sep-25-2021.jpg "David Rhoden with a cat called Chesh.")
 
 ![A cat called Chesh.](/static/img/timeline/chesh-on-porch-sep-25-2021.jpg "A cat called Chesh.")
+
+We had a bonfire with Gina's young friends in the evening.
+
+![Gina playing with kids, September, 25, 2021.](/static/img/timeline/gina-and-kids-sep-25-2021.jpg "Gina playing with kids, September, 25, 2021.")
