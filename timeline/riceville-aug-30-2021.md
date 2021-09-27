@@ -72,7 +72,7 @@ I don't have any great tales from the cabin itself except that Trey and I nearly
 <div id="caption"></div>
 
 <div style="width: 640px; text-align: center;">
-<video controls loop>
+<video width="640" controls loop>
   <source type="video/mp4" src="/static/img/timeline/chattanooga/riceville-aug-30-2021/riceville-rain-aug-30-2021.mp4"></source>
   <p>Your browser does not support the video element.</p>
 </video>
