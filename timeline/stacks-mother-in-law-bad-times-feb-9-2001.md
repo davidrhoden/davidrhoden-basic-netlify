@@ -10,7 +10,7 @@ tags:
   - The Stacks
   - Ernie K-Doe
   - Antoinette K-Doe
-  - Mother-In-Law Lounge
+  - Ernie K-Doe's Mother-In-Law Lounge
   - Bad Times
   - Eric Friedl
   - King Louie
