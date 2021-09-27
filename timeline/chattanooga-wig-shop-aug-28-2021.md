@@ -25,7 +25,6 @@ We took a walk downtown and had a look in this closed wig store. It's for sale! 
     <button id="buttonPrevious">&#10094;</button>
     <button id="buttonNext">&#10095;</button>
 
-
 ![Wig shop on Market Street, Chattanooga, Tennessee, August 28, 2021. Photo by David Rhoden.](/static/img/timeline/chattanooga/wig-shop-aug-28-2021/wig-shop-aug-28-2021-1.jpg)
 
 ![Wig shop on Market Street, Chattanooga, Tennessee, August 28, 2021. Photo by David Rhoden.](/static/img/timeline/chattanooga/wig-shop-aug-28-2021/wig-shop-aug-28-2021-2.jpg)
