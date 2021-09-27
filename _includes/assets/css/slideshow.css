@@ -49,7 +49,7 @@ button {
 		width: auto;
 	}
 
-button:not(.gsc-search-button) {
+button:not(.gsc-search-button, .hamburger) {
 		display: grid;
 		height: 36px;
 		margin-top: -18px;
