@@ -362,8 +362,8 @@ button {
   	width: 100%;
   	padding: 1em;
   	margin-bottom: 1em;
-	font-size: 1rem;
-	font-family: var(--font-secondary), sans-serif;
+		font-size: 1rem;
+		font-family: var(--font-secondary), sans-serif;
 }
 
 input,
@@ -512,20 +512,6 @@ p.postdate h3 {
     font-size: .75em;
 }
 
-.text-timeline-post-year {
-    display: inline-block;
-    padding: 0;
-    width: 100%;
-    font-size: .75em;
-}
-
-.text-timeline-link {
-	padding:  .25em .5em;
-}
-
-.text-timeline-link a {
-	color:  var(--black);
-}
 
 #timeline-detail {
 	display: none;
@@ -617,9 +603,19 @@ span.fade:hover {
 	background-color: var(--blue);
 }
 
+.text-timeline-post-year {
+    display: inline-block;
+    padding: 0;
+    width: 100%;
+    font-size: .75em;
+}
+
+.text-timeline-link {
+	padding:  .25em .5em;
+}
+
 .text-timeline-link a {
-	display: inline-block;
-	white-space: nowrap;
+	color:  var(--black);
 }
 
 /******* END TEXT-TIMELINE *******/
@@ -869,6 +865,11 @@ span.fade:hover {
 		overflow: hidden;
 		position: relative;
 		width: 160px;
+	}
+
+	.text-timeline-link a {
+		display: inline-block;
+		white-space: nowrap;
 	}
 }
 
