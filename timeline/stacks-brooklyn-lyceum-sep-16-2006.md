@@ -3,6 +3,7 @@ title: The Stacks played at the Brooklyn Lyceum for a Katrina benefit.
 date: 2006-09-16T20:00:00.000Z
 summary: Not sure if we benefited from it, but it was a good time.
 excerpt: Not sure if we benefited from it, but it was a good time.
+image: rock/stacks/stacks-in-photo-booth-sep-16-2006.jpg
 category: rock
 tags:
   - post
@@ -32,3 +33,6 @@ Chan came up to me and said: "It's kinda hard, Road Hog. It's not just a 1-4-5 p
 
 So we did the song except I damn near ruined it. I think I just took my guitar off and held the mike because as bad as I played it, the rest of the band did OK and the crowd starte a sort of second line mosh pit, moving in a circle on the ballroom floor, waving hankies.
 
+![Photo of Stacks (Trey Ledford, David Rhoden, Steve Walkup) from the photobooth at Lakeside Lounge, circa 2006.](/static/img/rock/stacks/stacks-in-photo-booth-sep-16-2006.jpg)
+
+I think this picture is from the same trip; might as well put it here.
