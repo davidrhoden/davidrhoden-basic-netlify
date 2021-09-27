@@ -12,7 +12,7 @@ tags:
   - Ka-Nives
   - Jimmy and The Wolfpack
   - Antoinette K-Doe
-  - Mother-In-Law Lounge
+  - Ernie K-Doe's Mother-In-Law Lounge
   - New Years Eve
   - New Orleans
 
