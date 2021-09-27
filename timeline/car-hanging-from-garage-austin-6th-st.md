@@ -4,16 +4,18 @@ date: 2016-09-09T13:00:00.000Z
 summary: I was walking down 6th Street in Austin one lunch hour when I saw a group of people with cameras out, looking up.
 excerpt: I was walking down 6th Street in Austin one lunch hour when I saw a group of people with cameras out, looking up.
 category: timeline
-image: timeline/hangingcar160909.jpg
+image: timeline/hanging-car-austin-sep-9-2016.jpg
 tags:
   - post
   - stories
   - Austin
+  - Sixth Street
+  - cars
   - danger
 
 ---
 
-![Car hanging from parking garage in Austin](/static/img/timeline/hangingcar160909.jpg "Car hanging from parking garage in Austin")
+![Car hanging from parking garage on Sixth Street in Austin, September 9, 2016.](/static/img/timeline/hanging-car-austin-sep-9-2016.jpg "Car hanging from parking garage on Sixth Street in Austin, September 9, 2016.")
 
 I was walking down 6th Street in Austin one lunch hour when i saw a group of people with cameras out, looking up.
 
