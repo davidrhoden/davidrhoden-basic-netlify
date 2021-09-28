@@ -14,6 +14,8 @@ tags:
   - Benjamin Arthur Ellis
   - Sister Street Stage
   - Bandcamp
+  - barbecue
+  - parties
   - fires
 
 ---
