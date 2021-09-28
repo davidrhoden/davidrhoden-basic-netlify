@@ -38,6 +38,8 @@ I was out an a Friday night with money to spend, and I had bought an album, The 
 
 While I was there, standing outside on the sidewalk, certainly wishing for a beer, a big guy stepped out the door and said something like. This place sucks. This place is for those McCallie (somethings. Most likely "fags".) 
 
+![Pizza Caesar ad, from a Central High School (Chattanooga) newspaper found online.](/static/img/timeline/pizza-caesar-ad-central-high-paper.jpg)
+
 I don't know why but I had to say something. My dad always told me to stand up to bullies. It hadn't come up too often but this seemed like such an occasion. So I said, "Well, at least we didnt lose the football game thirty three to nothing." 
 
 The guy asked me to repat what I had said, and I did. He pushed me in the chest, and after takeg the time to set my record down, I shoved back. Then he punched me hard, a left to the jaw. I didn't feel my left jaw hinge snap off but it did. I ran back into Pizza Caeasar, becoming aware I was somwewhat injured, and sat at the table of a young couple who were enjoying a pizza in front of the big projection TV. They got up and moved to another table.
