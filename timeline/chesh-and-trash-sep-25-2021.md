@@ -42,6 +42,8 @@ A little bit later we notices a tortoise-shell cat sitting on the Sister Street 
 
 We had a bonfire with Gina's young friends in the evening.
 
-![Gina playing with kids, September, 25, 2021.](/static/img/timeline/gina-and-kids-sep-25-2021.jpg "Gina playing with kids, September, 25, 2021.")
+![Gina Phillips playing with kids, September 25, 2021.](/static/img/gina/gina-and-kids-sep-25-2021.jpg "Gina playing with kids, September, 25, 2021.")
 
-![Gina playing with kids, September, 25, 2021.](/static/img/gina/gina-bonfire-marshmallows-sep-25-2021.jpg "Gina playing with kids, September, 25, 2021.")
+![Gina Phillips playing with kids, September 25, 2021.](/static/img/gina/gina-bonfire-marshmallows-sep-25-2021.jpg "Gina playing with kids, September, 25, 2021.")
+
+![Kids playing at Gina's bonfire, September 25, 2021.](/static/img/timeline/bonfire-kids-sep-25-2021.jpg "Gina playing with kids, September, 25, 2021.")
