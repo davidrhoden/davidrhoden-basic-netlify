@@ -4,7 +4,7 @@ date: 1990-04-15T12:00:00.000Z
 summary: I think everybody who did a fanzine looked forward to seeing these capsule reviews in Factsheet Five.
 excerpt: I think everybody who did a fanzine looked forward to seeing these capsule reviews in Factsheet Five.
 category: timeline
-image: timeline/factsheet-five-35-apr--1990.jpg
+image: timeline/factsheet-five-35-apr-1990.jpg
 tags:
   - post 
   - writing
