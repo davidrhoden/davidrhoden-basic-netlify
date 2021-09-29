@@ -1,15 +1,13 @@
 ---
-title: Jimmy and The Wolfpack played Hank's Saloon.
-date: 2009-04-25T22:00:00.000Z
+title: Jimmy and The Wolfpack played at Under Acme.
+date: 2011-01-06T22:00:00.000Z
 image: rock/jandtwp-cd-cover.jpg
 tags:
   - post
   - rock
   - NYC
-  - Brooklyn
-  - Hank's Saloon
-  - Atlantic Avenue
-  - Third Avenue
+  - Manhattan
+  - Under Acme
   - Jimmy and The Wolfpack
 
 ---

@@ -1,5 +1,5 @@
 ---
-title: Jimmy and The Wolfpack played Lakeside Lounge.
+title: Jimmy and The Wolfpack played Lakeside Lounge again.
 date: 2006-04-28T22:00:00.000Z
 summary: Casey Howard was our horn player at the time.
 excerpt: Casey Howard was our horn player at the time.
