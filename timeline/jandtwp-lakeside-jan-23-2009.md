@@ -1,6 +1,6 @@
 ---
 title: Jimmy and The Wolfpack played Lakeside Lounge one more time.
-date: 2009-02-26T11:00:00.000Z
+date: 2009-01-23T22:00:00.000Z
 summary: Looks like I had a good time at least.
 excerpt: Looks like I had a good time at least.
 category: timeline
