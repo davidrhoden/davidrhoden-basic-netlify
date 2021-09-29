@@ -19,4 +19,4 @@ Just a little bit before we moved to New Orleans. Back home for me, but her firs
 
 She turned out to be a good truck traveler, but a terrible flier. She destroyed her cat carrier before we even got on the plane.
 
-[Sally stretching in the backyard](/static/img/sally/sally-stretching-on-pavement-sep-16-2011.jpg "Sally stretching in the backyard")
+![Sally stretching in the backyard](/static/img/sally/sally-stretching-on-pavement-sep-16-2011.jpg "Sally stretching in the backyard")
