@@ -1,5 +1,5 @@
 ---
-title: Jimmy and The Wolfpack played Lakeside Lounge again.
+title: Jimmy and The Wolfpack played Lakeside Lounge one more time.
 date: 2009-02-26T11:00:00.000Z
 summary: Looks like I had a good time at least.
 excerpt: Looks like I had a good time at least.

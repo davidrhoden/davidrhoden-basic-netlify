@@ -9,7 +9,7 @@ tags:
   - Jimmy and The Wolfpack
   - NYC
   - Brooklyn
-  - Freddys Back Room
+  - Freddy's Back Room
   - Amber Sexton
 
 ---
