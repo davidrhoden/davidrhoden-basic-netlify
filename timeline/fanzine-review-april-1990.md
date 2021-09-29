@@ -30,4 +30,4 @@ Well, mostly music here, along with some comics and a review of a funny companio
 
 That address must be from when I roomed with Alex Williamson.
 
-![Factsheet Five #35 April 1990 cover](/static/img/timeline/factsheet-five-35-apr--1990.jpg)
+![Factsheet Five #35 April 1990 cover](/static/img/timeline/factsheet-five-35-apr-1990.jpg)
