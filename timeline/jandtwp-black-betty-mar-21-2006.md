@@ -1,7 +1,6 @@
 ---
 title: Jimmy and The Wolfpack played Black Betty on Al's birthday.
 date: 2006-03-21T22:00:00.000Z
-image: rock/jandtwp-cd-cover.jpg
 excerpt: We had to go on late so some weak indie rock band could play. That was a bad idea on the club's part.
 summary: We had to go on late so some weak indie rock band could play. That was a bad idea on the club's part.
 image: rock/black-betty-366-metropolitan.png
