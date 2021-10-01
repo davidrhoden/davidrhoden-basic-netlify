@@ -24,7 +24,7 @@ tags:
 
 ---
 
-![Tires dumped on Tricou Street, September 30, 2021. Photo by David Rhoden.](/static/img/timeline/jeanfreaus-sep-30-2021.jpg)
+![Tires dumped on Tricou Street, September 30, 2021. Photo by David Rhoden.](/static/img/timeline/tire-dump-sep-30-2021.jpg)
 <figcaption>Tires dumped on Tricou Street, September 30, 2021. Photo by David Rhoden.</figcaption>
 
 I found somebody dumped tires in front of my house. (Probably the same gray truck I see driving around with a bed full of times)
