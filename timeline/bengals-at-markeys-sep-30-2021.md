@@ -39,7 +39,7 @@ Not every day is an adventure.
 
 <div style="width: 100%; text-align: center;">
 <video controls loop>
-  <source type="video/mp4" src="/static/img/videos/alone-again.sep-30-2021.mp4"></source>
+  <source type="video/mp4" src="/static/img/video/alone-again-sep-30-2021.mp4"></source>
   <p>Your browser does not support the video element.</p>
 </video>
 </div>
