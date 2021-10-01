@@ -82,7 +82,13 @@ Tried out for kicker on the Tennessee Vols.
 
 ## 1989
 
-Played Antenna club in Memphis.
+Everything Pool played Antenna club in Memphis.
+
+Saw Meat Puppets in Nashbille.
+
+## 1990
+
+Everything Pool played an irish bar in Memphis, it was extra cold.
 
 ## 1991
 
@@ -98,6 +104,10 @@ Jet-skiing in Jacksonville. "Put your feet down!"
 
 Jen and the Orangina.
 
+## 2004
+
+Kelly Keller died Saturday, September 25, 2004.
+
 ## 2006
 
 Doctor at Woodhull says "You don't _look like_ a head case."
@@ -105,6 +115,14 @@ Doctor at Woodhull says "You don't _look like_ a head case."
 My coat walked away with my keys in it.
 
 Did the worst karaoke ever: "Tell Me Something Good".
+
+Dumont with Iris Cohen.
+
+## 2010
+
+Saw J.B. in a play.
+
+Saw a banker on Facbook through a window.
 
 ## 2012
 
@@ -125,4 +143,17 @@ Threw an apple core to a possum on mom's roof.
 I was a groomsman in Mark and Emily's wedding. 1992?
 
 Tee Eva: "I twisted my left buttock." 2014?
+
+
+## Acted in:
+
+Scapino
+
+1776 (at Backstage Theater)
+
+See How They Run
+
+Ten Little Indians
+
+The Odd Couple
 

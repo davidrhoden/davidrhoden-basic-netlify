@@ -12,6 +12,7 @@ tags:
   - New Orleans
   - karaoke
   - Little Tokyo
+  - restaurants
   - Georgia Satellites
   - Rod Stewart
   - stories
