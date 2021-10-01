@@ -12,6 +12,7 @@ tags:
   - Black Betty
   - Metropolitan Avenue
   - M Shanghai
+  - restaurants
   - Alan Dorsey
   - parties
   - birthdays
@@ -28,7 +29,7 @@ We had set up this weeknight show for Al's birthday. We were wown the street eat
 
 When we got to the club, we had plenty of time because some wimpy indie band had just showed up and asked to be on the bill. I guess that's one way to book a show. Anyway, we had to wait (and drink) till like eleven o'clock to play.
 
-So when we did play, it was explosive. Here's a recording (this was made by my sometimes bbandmate Benny's girlfriend on a little dictation recorder).
+So when we did play, it was explosive. Here's a recording (this was made by my sometimes bandmate Benny's girlfriend on a little dictation recorder).
 
 <audio src="/static/audio/Wolfpack-On-The-Loose-live-at-Black-Betty-March-21-2006.mp3" autobuffer autoloop loop controls></audio>
 
