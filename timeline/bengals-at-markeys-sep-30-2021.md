@@ -27,7 +27,7 @@ tags:
 ![Tires dumped on Tricou Street, September 30, 2021. Photo by David Rhoden.](/static/img/timeline/tire-dump-sep-30-2021.jpg)
 <figcaption>Tires dumped on Tricou Street, September 30, 2021. Photo by David Rhoden.</figcaption>
 
-I found somebody dumped tires in front of my house. (Probably the same gray truck I see driving around with a bed full of times)
+I found somebody dumped tires in front of my house. (Probably the same gray truck I see driving around with a bed full of tires.)
 
 I got labs done at the hospital and this time they didn't have to stab me three or four times, and my test numbers were good.
 
