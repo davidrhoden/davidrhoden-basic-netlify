@@ -40,17 +40,19 @@ Lady at church says "pooberdy".
 
 Melting Nutter Butter at Bear Paw.
 
+Kirk Ripley and the bat.
+
+Kirk Ripley and the fans.
+
 ## 1983
 
 Meningitis.
 
 Burger King University.
 
-Kirk Ripley and the bat.
-
-Kirk Ripley and the fans.
-
 Got drunk at church.
+
+Went to John's Island.
 
 ## 1984
 
@@ -84,7 +86,7 @@ Tried out for kicker on the Tennessee Vols.
 
 Everything Pool played Antenna club in Memphis.
 
-Saw Meat Puppets in Nashbille.
+Saw Meat Puppets in Nashville. Cantrell's?
 
 ## 1990
 
@@ -100,9 +102,17 @@ Jet-skiing in Jacksonville. "Put your feet down!"
 
 "That cat belong to everyone, and no one."
 
+## 1998
+
+"No, Matt, it'd be 'dong ay vong ee dong.'"
+
 ## 2000
 
 Jen and the Orangina.
+
+## 2003
+
+Played a Jimmy and The Wolfpack show at Karen M's house with Mark Davis on drums.
 
 ## 2004
 
@@ -117,6 +127,8 @@ My coat walked away with my keys in it.
 Did the worst karaoke ever: "Tell Me Something Good".
 
 Dumont with Iris Cohen.
+
+Betty died?
 
 ## 2010
 
@@ -143,6 +155,8 @@ Threw an apple core to a possum on mom's roof.
 I was a groomsman in Mark and Emily's wedding. 1992?
 
 Tee Eva: "I twisted my left buttock." 2014?
+
+Chef Menteur show at Karen M's.
 
 
 ## Acted in:
