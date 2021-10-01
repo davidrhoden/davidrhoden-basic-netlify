@@ -68,19 +68,42 @@ I was a salad cowboy.
 
 I was rude to Jerry Enriquez.
 
+The day I messed up the tie dye....now I feel bad every time I see Hans Humes on tv.
+
+
 ## 1987
 
 Move to Boston.
 
 Harvard College face plant.
 
+Get money back fro free theater tickets.
+
+Worked at Copy Cop.
+
+
 ## 1988
 
 Tried out for kicker on the Tennessee Vols.
 
+Went to Sam & Andy's Deli a lot.
+
 "Look how he look when I ax him do he have sex!"
 
 "You look like Booger."
+
+Tales of Phil Kunselman.
+
+"Ber" at Kagley's.
+
+Vatican Pizza (Jim Ellis wrapping his head with duct tape).
+
+Buffet at Antonio's.
+
+Working at Stefano's.
+
+Getting picked up for a demo crew while burying my cat Minerva.
+
 
 ## 1989
 
@@ -88,35 +111,55 @@ Everything Pool played Antenna club in Memphis.
 
 Saw Meat Puppets in Nashville. Cantrell's?
 
+Grifters at Snake Snatch.
+
+Royal Trux at Snake Snatch.
+
+Fell off the Lingbranch, went backpacking the next day.
+
+Broke my leg?
+
+
 ## 1990
 
-Everything Pool played an irish bar in Memphis, it was extra cold.
+Everything Tool played an Irish bar in Memphis, it was extra cold.
+
+Snake Oil played Arnold's with Flat Duo Jets.
+
 
 ## 1991
 
-I won some writing prizes.
+I won some writing prizes. Went to Falafel Hut.
 
 Jet-skiing in Jacksonville. "Put your feet down!"
+
 
 ## 1996
 
 "That cat belong to everyone, and no one."
 
+
 ## 1998
 
 "No, Matt, it'd be 'dong ay vong ee dong.'"
+
 
 ## 2000
 
 Jen and the Orangina.
 
+"bawjaw"
+
+
 ## 2003
 
 Played a Jimmy and The Wolfpack show at Karen M's house with Mark Davis on drums.
 
+
 ## 2004
 
 Kelly Keller died Saturday, September 25, 2004.
+
 
 ## 2006
 
@@ -130,21 +173,29 @@ Dumont with Iris Cohen.
 
 Betty died?
 
+
 ## 2010
 
 Saw J.B. in a play.
 
 Saw a banker on Facbook through a window.
 
+
 ## 2012
 
 "Do you abjure smoking?"
+
 
 ## 2017
 
 What kind of jelly? "Plain."
 
+
 ## 2021
+
+Doctor Aprill funeral.
+
+Ben Pearson funeral.
 
 Threw an apple core to a possum on mom's roof.
 
