@@ -13,6 +13,7 @@ tags:
   - Manhattan
   - Avenue A
   - La Ceiba
+  - restaurants
   - Honduran food
   - Alan Dorsey
 
