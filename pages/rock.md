@@ -49,6 +49,8 @@ Golden Ray is David and Andrew from The Stacks, along with drummer Brian Tierney
 
 The Stacks set list, pretty much, but now with Texans.
 
+<a href="/tags/mountain-shoutin/">All posts tagged "Mountain Shoutin'"</a>
+
 ---
 
 ## Speedcrawler
@@ -64,6 +66,14 @@ Fun little band I was briefly the drummer of. We rehearsed a bunch but I think w
 ![Headless Hookers at Passout Records](/static/img/rock/headless-hookers-aug-2007.jpg)
 
 We did one terrific recording with Daniel Rey (Ramones producer, member of The Martinets currently and masters Of Reality formerly) that I will put up here soon. I was the drummer. Daniel made the cymbals sound great, he could probably find work just doing that. Members went on to be in Luxurious Faux Furs, Chicken Snake, and The Nato Coles Band.
+
+<audio src="/static/audio/AnxiousBoogie.mp3" autobuffer autoloop loop controls></audio>
+
+<audio src="/static/audio/YouNeverTakeMeAnywhere.mp3" autobuffer autoloop loop controls></audio>
+
+<audio src="/static/audio/SilenceAndTears.mp3" autobuffer autoloop loop controls></audio>
+
+<a href="/tags/headless-hookers/">All posts tagged "Headless Hookers"</a>
 
 ---
 
@@ -189,6 +199,7 @@ Recently found more photos, will post soon.
 ---
 
 ## Dirty Knives
+
 ![Dirty Knives Greatest Hits, Vol. 2 LIVE!](/static/img/rock/dirty-knives/dirty-knives-album-cover.jpg)
 
 Lots of recordings, very disorganized. Coming soon or at least someday.
