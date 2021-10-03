@@ -13,7 +13,7 @@ tags:
   - Matt Uhlman
   - Mimi K.
   - Laura K.
-  - New Years Eve
+  - New Year's Eve
   - 276 Grand Street
   - stories
 
