@@ -188,6 +188,8 @@ Drove to New York City with Al.
 
 ## 1990
 
+Saw Masters of Reality with Ginger Baker at Arnold's.
+
 Snake Oil played Arnold's with Flat Duo Jets.
 
 ## 1991
@@ -197,6 +199,8 @@ I won some writing prizes. Went to Falafel Hut.
 Jet-skiing in Jacksonville. "Put your feet down!"
 
 Got a job at Golden Books.
+
+Saw Clint Clinton at Rodeo Bar.
 
 ## 1992
 
@@ -218,6 +222,10 @@ Worked at at a hideous place called Diefenbach-Elkins.
 
 Went to Chattanooga for Papaw's funeral.
 
+## 1995
+
+Saw _Arcadia_ at Lincoln Center.
+
 ## 1996
 
 "That cat belong to everyone, and no one."
@@ -228,11 +236,15 @@ I bought a Fender Jazz bass and tried out for a bunch of bands.
 
 Feb 1: "The Bottom" (seminary show), hosted by Erica Goodman. Didn't work out.
 
+Feb 22: We played at Brew's and Burnley recorded it.
+
 ## 1998
 
-"No, Matt, it'd be 'dong ay vong ee dong.'"
-
 Car window got busted out on Bergen Street.
+
+## 1999
+
+"No, Matt, it'd be 'dong ay vong ee dong.'"
 
 ## 2000
 
@@ -243,6 +255,8 @@ Jen and the Orangina.
 ## 2003
 
 Played a Jimmy and The Wolfpack show at Karen M's house with Mark Davis on drums.
+
+_It Came From Uranus_ was released, featuring All-Night Movers.
 
 ## 2004
 
@@ -349,7 +363,7 @@ Jan 26: I DJed at 2A.
 
 Jan 30: Dumont with Iris, Al, and Les, then to Barcade.
 
-Jan 31: Rode to Chinatown at 5:30 a.m. No memory of it, or why. Worked at Atlas Cafe. Drinks at zablozki's later.
+Jan 31: Rode to Chinatown at 5:30 a.m. No memory of it, or why. Worked at Atlas Cafe. Drinks at Zablozki's later.
 
 Doctor at Woodhull says "You don't _look like_ a head case."
 
@@ -360,6 +374,10 @@ Did the worst karaoke ever: "Tell Me Something Good".
 Dumont with Iris Cohen.
 
 Betty died?
+
+## 2007
+
+Art show at Maiden, Brooklyn.s
 
 ## 2009
 
@@ -376,6 +394,10 @@ Saw a banker on Facebook through a window.
 "Do you abjure smoking?"
 
 ## 2015
+
+Was in a surf band that broke up before we played a show.
+
+Saw Legendary Shack Shakers.
 
 Shooed a possum away from the cat food.
 
