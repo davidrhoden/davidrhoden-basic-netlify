@@ -124,7 +124,7 @@ A really terrific band that started because I wanted to do some of Chan's song b
 
 Short-lived band that actually toured around some. The spectacle was the thing with this trio, but there's a recording somewhere. We're on a DVD somebody made called Blackbeard's Lost Weekend (part of a live show at The Cave in Chapel Hill, N.C.).
 
-Recently found more photos, will post soon.
+<audio src="/static/audio/maximvs/maximvs-cough.mp3" autobuffer autoloop loop controls>MAXIMVS!, "Cough Syrup Boogie"</audio>
 
 <a href="/tags/maximvs/">All posts tagged "MAXIMVS"</a>
 

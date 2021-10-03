@@ -13,7 +13,7 @@ tags:
   - Jimmy and The Wolfpack
   - Antoinette K-Doe
   - Ernie K-Doe's Mother-In-Law Lounge
-  - New Years Eve
+  - New Year's Eve
   - New Orleans
 
 ---
