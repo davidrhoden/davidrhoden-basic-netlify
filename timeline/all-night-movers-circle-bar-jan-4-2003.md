@@ -1,5 +1,5 @@
 ---
-title: All-Night Movers played thee Circle Bar in Santa hats, in January.
+title: All-Night Movers played the Circle Bar in Santa hats, in January.
 date: 2003-01-04T22:00:00.000Z
 excerpt: Looks like we had some festive and timely headwear.
 summary: Looks like we had some festive and timely headwear.
