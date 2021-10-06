@@ -14,8 +14,8 @@ tags:
 
 ---
 
-![Standing tire in Holy Cross parking lot, New Orleans, Louisiana, October 5, 2021](/static/img/timeline/timeline/standing-tire-holy-cross-oct-5-2021.jpg "Standing tire in Holy Cross parking lot, New Orleans, Louisiana, October 5, 2021")
+![Standing tire in Holy Cross parking lot, New Orleans, Louisiana, October 5, 2021](/static/img/timeline/standing-tire-holy-cross-oct-5-2021.jpg "Standing tire in Holy Cross parking lot, New Orleans, Louisiana, October 5, 2021")
 
 <figcaption>Standing tire in Holy Cross parking lot, New Orleans, Louisiana, October 5, 2021</figcaption>
 
-![Standing tire in Holy Cross parking lot, New Orleans, Louisiana, October 5, 2021](/static/img/timeline/timeline/standing-tire-2-holy-cross-oct-5-2021.jpg "Standing tire in Holy Cross parking lot, New Orleans, Louisiana, October 5, 2021")
+![Standing tire in Holy Cross parking lot, New Orleans, Louisiana, October 5, 2021](/static/img/timeline/standing-tire-2-holy-cross-oct-5-2021.jpg "Standing tire in Holy Cross parking lot, New Orleans, Louisiana, October 5, 2021")
