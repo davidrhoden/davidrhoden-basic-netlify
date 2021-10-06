@@ -25,4 +25,4 @@ I know we played Dr. Cliff's garage two times. Not 100% sure on this date.
 
 We really are at our best as a garage band.
 
-Dr. Cliff Davis's garage was at 426 S. Bernadotte Street New Orleans, Louisiana. I loved playing these shows. One time (this time) he or somebody brought a bunch of Barbies to burn. Another time Little Freddie Kindg showed up and played for a bit. I once drank too much and fell asleep on Dr. Cliff's workbench, among the curly wood and metal shavings. Ah, youth.
+Dr. Cliff Davis's garage was at 426 S. Bernadotte Street New Orleans, Louisiana. I loved playing these shows. One time (this time) he or somebody brought a bunch of Barbies to burn. Another time Little Freddie King showed up and played for a bit. I once drank too much and fell asleep on Dr. Cliff's workbench, among the curly wood and metal shavings. Ah, youth.
