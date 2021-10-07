@@ -415,6 +415,10 @@ An owl killed a bird about a foot from my face.
 
 Found a dead possum on Gina's path.
 
+## 2013
+
+Saw Todd Rundgren at House of Blues gig Sunday, June 23. 2013.
+
 ## 2021
 
 Doctor Aprill funeral.
@@ -435,9 +439,18 @@ Chef Menteur show at Karen M's.
 
 Had thai food (pad thai) for the first time.
 
-Had sushi for the first time.
+Had sushi for the first time at Takahchi.
 
 Went to Florida for Grandma Vada's funeral.
+
+Saw MC5 at House of Blues.
+
+Saw Jesus and Mary Chain at House of Blues.
+
+Saw International Noise Conspiracy and Rocket From The Crypt at House of Blues.
+
+Watched The Tush Show on WTBS.
+
 
 ## Acted in:
 
