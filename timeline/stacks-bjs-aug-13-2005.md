@@ -6,7 +6,7 @@ tags:
   - rock
   - New Orleans
   - The Stacks
-  - BJs Lounge
+  - B.J.'s Lounge
   - money
 
 ---
