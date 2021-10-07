@@ -72,6 +72,7 @@ eleventyNavigation:
 1. ![organic form painting by David Rhoden](/static/img/paintings/organicformhanging.jpg?nf_resize=fit&w=960)
 1. ![Pink luchador painting by David Rhoden](/static/img/paintings/170911luchadorpink.jpg?nf_resize=fit&w=960)
 1. ![Big Dope painting by David Rhoden](/static/img/paintings/171219bigdopecardboard.jpg?nf_resize=fit&w=960)
+1. !["Yellowman" painting by David Rhoden, January, 19, 2008.](/static/img/paintings/yellowman-jan-19-2008.jpg)
 1. ![painting by David Rhoden](/static/img/paintings/180114artone.jpg?nf_resize=fit&w=960)
 1. ![painting by David Rhoden](/static/img/paintings/180114artthree.jpg?nf_resize=fit&w=960)
 1. ![painting by David Rhoden](/static/img/paintings/180114arttwo.jpg?nf_resize=fit&w=960)
