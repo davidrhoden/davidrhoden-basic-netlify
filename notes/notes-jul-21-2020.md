@@ -6,6 +6,7 @@ excerpt: fooey.
 image: notes/fooey-jul-21-2020.jpg
 tags:
   - note 
+  - post
   - sketchbook
   - fooey
 

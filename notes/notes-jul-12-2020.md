@@ -6,6 +6,7 @@ excerpt: I'm doing all right, despite the pandemic. I am okay not seeing too man
 image: sketchbook/oh-my-jul-12-2020.jpg
 tags:
   - note 
+  - post
   - pandemic
   - The Stacks
   - Andre Marquette

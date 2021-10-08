@@ -6,6 +6,7 @@ excerpt: I really feel for this frog.
 image: notes/froggy.jpg
 tags:
   - note 
+  - post
   - Gina
   - TV
   - Kentucky
