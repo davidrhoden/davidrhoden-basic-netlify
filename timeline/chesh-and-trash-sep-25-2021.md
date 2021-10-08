@@ -21,6 +21,7 @@ tags:
   - violence
   - crime
   - fires
+  - bonfires
 
 ---
 

@@ -7,7 +7,7 @@ category: rock
 image: rock/stacks/stacks-andrew-and-andre-jun-6-2020.jpg
 tags:
 
-  - Stacks
+  - The Stacks
   - rock
   - recording
   - Andrew Donaldson
@@ -21,7 +21,5 @@ tags:
 Our drummer, Andre, got transferred to a better job, so he's leaving town. Yet another Stacks drummer.... He's been an awesome drummer and he also has a recording studio in his house. We started these recordings right as the pandemic was becoming real. I think the first stay-at-home orders came a day or two after we started. Now that I've spent a couple months in quarantine, gaining weight, we're finishing it up.
 
 ![Dave recording in the studio](/static/img/rock/stacks/stacks-dave-fat-in-studio-jun-6-2020.jpg "Dave recording in the studio")
-
-
 
 ![Andre recording in the studio](/static/img/rock/stacks/stacks-andre-in-studio-jun-6-2020.jpg "Andre recording in the studio")

@@ -1,5 +1,6 @@
 .tiny-thumbnail img {
-    max-height: 64px;
+    height: 64px;
+    width:  64px;
 }
 
 #timeline-detail .thumbnail-container {

@@ -10,6 +10,7 @@ tags:
   - New Orleans
   - Tricou Street
   - bonfires
+  - fires
   
 ---
 

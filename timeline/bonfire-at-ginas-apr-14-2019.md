@@ -10,6 +10,7 @@ tags:
   - New Orleans
   - Gina
   - Sister Street
+  - fires
   - bonfires
 
 ---

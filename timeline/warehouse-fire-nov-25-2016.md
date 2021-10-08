@@ -10,7 +10,7 @@ tags:
   - Chattanooga
   - Beverly
   - Pete
-  - fire
+  - fires
 
 ---
 

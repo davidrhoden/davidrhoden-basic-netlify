@@ -1,6 +1,7 @@
 ---
 title: The Stacks played the Saturn Bar on this date, I think.
 date: 2015-05-24T21:00:00.000Z
+image: rock/stacks/stacks-pandemic-recordings-with-andre-red.jpg
 category: rock
 tags:
   - post 

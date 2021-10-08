@@ -7,7 +7,7 @@ category: sketchbook
 image: sketchbook/stacks-tshirt-whiteboard-guy.jpg
 tags:
 - post
-- Stacks
+- The Stacks
 
 ---
   Our band had just started recording when the stay-at-home order came. We're recording at our drummer's house. He's stuck living with all of me and Andrew's gear for a while.

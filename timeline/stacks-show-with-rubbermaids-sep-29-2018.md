@@ -12,7 +12,7 @@ tags:
   - rock
   - Rubber Maids
   - Egg Yolk Jubilee
-  - Stacks
+  - The Stacks
   - Siberia
 
 ---

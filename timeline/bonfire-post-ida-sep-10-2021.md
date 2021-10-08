@@ -9,6 +9,7 @@ tags:
   - New Orleans
   - 315 Tricou Street
   - fires
+  - bonfires
   - Gina
   - Adam Farrington
   - Nick Istas

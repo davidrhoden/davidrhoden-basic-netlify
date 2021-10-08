@@ -2,6 +2,7 @@
 title: The Stacks played the Saturn Bar.
 date: 2013-08-03T21:00:00.000Z
 category: rock
+image: rock/stacks/stacks-pandemic-recordings-with-andre-red.jpg
 tags:
   - post 
   - rock

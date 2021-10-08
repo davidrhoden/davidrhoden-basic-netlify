@@ -1,8 +1,9 @@
 ---
 title: The Stacks played Lounge Lizards with Ka-Nives and Spinns.
 date: 2004-08-12T22:00:00.000Z
-summary: There have to be picctures from this.
-excerpt: There have to be picctures from this.
+summary: There have to be pictures from this.
+excerpt: There have to be pictures from this.
+image: rock/stacks/stacks-pandemic-recordings-with-andre-red.jpg
 category: rock
 tags:
   - post
@@ -10,7 +11,7 @@ tags:
   - New Orleans
   - The Stacks
   - Ka-Nives
-  - the Spinns
+  - The Spinns
   - Lounge Lizards
   - Decatur Street
   - Todd Colberg

@@ -1,6 +1,7 @@
 ---
-title: "Stacks played at BJ's Lounge."
+title: Stacks played at B.J.'s Lounge.
 date: 2005-08-13T22:00:00.000Z
+image: rock/stacks/stacks-pandemic-recordings-with-andre-red.jpg
 tags:
   - post 
   - rock

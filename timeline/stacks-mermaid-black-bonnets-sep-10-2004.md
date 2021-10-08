@@ -3,6 +3,7 @@ title: The Stacks played a happy hour show at the Mermaid Lounge with Black Bonn
 date: 2004-09-10T17:00:00.000Z
 summary: "Black Bonnets had Andrew Donaldson, who'd later join the Stacks."
 excerpt: "Black Bonnets had Andrew Donaldson, who'd later join the Stacks."
+image: rock/stacks/stacks-pandemic-recordings-with-andre-red.jpg
 category: rock
 tags:
   - post

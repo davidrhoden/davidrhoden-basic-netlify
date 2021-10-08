@@ -9,6 +9,9 @@ tags:
   - post 
   - Mississippi
   - Picayune
+  - fires
+  - bonfires
+  - guitars
 
 ---
 
