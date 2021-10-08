@@ -3,6 +3,7 @@ title: The Stacks played at The Big Top with Jeremy Lyons and The Deltabilly Boy
 date: 2005-05-27T20:00:00.000Z
 summary: Jeremy Lyons was really busy in New Orleans until one day he was just gone.
 excerpt: Jeremy Lyons was really busy in New Orleans until one day he was just gone.
+image: rock/stacks/stacks-pandemic-recordings-with-andre-red.jpg
 category: rock
 tags:
   - post
