@@ -6,7 +6,7 @@ excerpt: I watched YouTube videos and now I don't know how to put the strings on
 category: timeline
 tags:
   - post 
-  - now
+  - notes
   - New Orleans
   - 315 Tricou Street
   - guitars

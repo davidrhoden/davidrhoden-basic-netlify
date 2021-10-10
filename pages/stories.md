@@ -88,6 +88,8 @@ Went to John's Island.
 
 Worked for Pop in the summer.
 
+I got a white 1970 Ford LTD.
+
 ## 1984
 
 Took city-wide French exam.
