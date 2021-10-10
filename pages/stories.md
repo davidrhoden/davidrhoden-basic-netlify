@@ -24,6 +24,8 @@ Wore my shirt to school backwards.
 
 Couldn't tie my shoes.
 
+Saw Willy Wonka.
+
 ## 1976
 
 Pine cone battle at Cub Scouts.
@@ -32,19 +34,31 @@ Bicentennial stuff.
 
 Neighborhood Olympics.
 
+November 7, 1976: Saw Georgia Tech beat Notre Dame without completing or attempting a forward pass.
+https://ramblinwreck.com/beat-notre-dame-without-throwing-a-pass-georgia-tech-did-it-in-1976/
+Had boiled peanuts.
+
 ## 1977
 
 Boyd-Buchanan day camp.
 
 "Do-do" vs "doo-doo".
 
+Saw _Bugsy Malone_.
+
 ## 1978
 
 Saw a monkey kill a robin at the National Zoo.
 
+## 1979 
+
+Started McCallie, had a silly Bible class.
+
 ## 1980
 
 Pop took me to Leonard's.
+
+Bought Madness' _One Step Beyond_ at the mall in Atlanta.
 
 ## 1981
 
@@ -120,7 +134,7 @@ Moves to Boston and lived in a tent (indoors).
 
 Harvard College face plant.
 
-Get money back fro free theater tickets.
+Get money back for free theater tickets.
 
 Worked at Copy Cop.
 
@@ -241,6 +255,8 @@ Feb 22: We played at Brew's and Burnley recorded it.
 ## 1998
 
 Car window got busted out on Bergen Street.
+
+Watched Vols win the national championship in NY.
 
 ## 1999
 
