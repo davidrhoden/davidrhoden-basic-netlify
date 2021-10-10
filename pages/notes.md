@@ -17,18 +17,4 @@ eleventyNavigation:
 
 ---
 
-
-
-## More Grand Theft Auto.
-
-July 30, 2020
-
-I've got gina playing Grand Theft Auto. She has her own login on my XBox.
-
-She calls once or twice a week and says, "Do you think I could come over and see you? And have a turn on the game?"
-
-We're both improving.
-
----
-
-## Older notes: 
+## Notes: 
