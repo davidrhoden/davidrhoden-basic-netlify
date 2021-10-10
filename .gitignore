@@ -1,6 +1,7 @@
 _site/
 node_modules/
 support_files/
+support/
 /api
 .env
 /static/img-to-be-added

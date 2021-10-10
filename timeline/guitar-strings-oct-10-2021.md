@@ -1,6 +1,6 @@
 ---
 title: I put new strings on my guitars.
-date: 2021-10=10T08:00:00.000Z
+date: 2021-10-10T08:00:00.000Z
 summary: I watched YouTube videos and now I don't know how to put the strings on anymore.
 excerpt: I watched YouTube videos and now I don't know how to put the strings on anymore.
 category: timeline
