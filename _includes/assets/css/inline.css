@@ -343,6 +343,20 @@ a[rel="tag"]:last-child {
 	margin-right: 0;
 }
 
+a.post-tag {
+	display: inline-block;
+	margin: .5em 0;
+	background: var(--blue);
+	padding: .5em;
+	border-radius: .5em;
+	font-size: 0.8em;
+	color: white;
+}
+
+.bullet {
+	display: none;
+}
+
 /* Contact Form */
 form {
   	display: grid;
@@ -637,6 +651,23 @@ span.fade:hover {
 	font-size: .8rem;
 }
 
+@media screen and (min-width:768px) {
+	a.post-tag {
+		display: inline;
+		margin: 0;
+		background: var(--white);
+		padding: 0;
+		border-radius: 0;
+		font-size: 1em;
+		color: var(--blue);
+	}
+
+	.bullet {
+		display: inline;
+	}
+
+}
+
 @media screen and (min-width:960px) {
 	:root {
 		font-size: 1.1rem;
@@ -857,9 +888,9 @@ span.fade:hover {
     z-index: 10;
 	}
 
-		#timeline-detail h3 {
-			margin: 0;
-		}
+	#timeline-detail h3 {
+		margin: 0;
+	}
 
 	#timeline-detail .summary {
 		margin-left: 1rem;
@@ -875,6 +906,20 @@ span.fade:hover {
 	.text-timeline-link a {
 		display: inline-block;
 		white-space: nowrap;
+	}
+
+	a.post-tag {
+		display: inline;
+		margin: 0;
+		background: var(--white);
+		padding: 0;
+		border-radius: 0;
+		font-size: 1em;
+		color: var(--blue);
+	}
+
+	.bullet {
+		display: inline;
 	}
 }
 
