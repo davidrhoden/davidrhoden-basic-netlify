@@ -90,6 +90,8 @@ Worked for Pop in the summer.
 
 I got a white 1970 Ford LTD.
 
+Drove Ford LTD down Lookout Mountain.
+
 ## 1984
 
 Took city-wide French exam.
@@ -99,6 +101,8 @@ Worked for Pop again.
 Junkalina Watercrap.
 
 Red M&Ms played an icy show in Cleveland.
+
+I got an Oldsmobile Cutlass.
 
 ## 1985
 

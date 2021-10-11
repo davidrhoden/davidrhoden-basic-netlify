@@ -10,13 +10,13 @@ layout: layouts/page.njk
 <section class="tags-list active" id="tags-alpha">
 {% for tag in collections.tagList | sort %}
   {% set tagUrl %}/tags/{{ tag | slugify }}/{% endset %}
-  <a href="{{ tagUrl | url }}" class="post-tag">{{ tag }}</a> &bullet; 
+  <a href="{{ tagUrl | url }}" class="post-tag">{{ tag }}</a> <span class="bullet">&bullet;</span> 
 {% endfor %}
 </section>
 
 <section class="tags-list" id="tags-number-of-posts">
     {% for tag, count in collections.bySize %}
         {% set tagUrl %}/tags/{{ tag | slug }}/{% endset %}
-        <a href="{{ tagUrl | url }}">{{ tag }} ({{ count }})</a> &bullet; 
+        <a href="{{ tagUrl | url }}">{{ tag }} ({{ count }})</a> <span class="bullet">&bullet;</span>  
     {% endfor %}
 </section>
