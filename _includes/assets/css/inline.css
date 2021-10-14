@@ -652,7 +652,7 @@ span.fade:hover {
 }
 
 @media screen and (min-width:768px) {
-	a.post-tag {
+	a.post-tag, a.post-tag:visited {
 		display: inline;
 		margin: 0;
 		background: var(--white);
