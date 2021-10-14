@@ -1,7 +1,6 @@
 ---
 title: a musical surprise at Walgreen's in Chalmette
 date: 2021-10-13T14:00:00.000Z
-image: /timeline/lemon-twigs-oct-14-2021.jpg
 tags:
   - note 
   - Walgreen's
