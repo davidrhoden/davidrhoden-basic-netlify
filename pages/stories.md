@@ -485,3 +485,17 @@ See How They Run
 Ten Little Indians
 
 The Odd Couple
+
+## Movies I saw on opening night (or close), and can therefore date them:
+
+The Big Lebowski
+
+The Tim Burton Planet Of The Apes
+
+Mike Judge's Extract
+
+Do Th Right Thing (?)
+
+Full Metal Jacket (saw it by myself at a matinee in Knoxville)
+
+The Professional (in Athens, on Trey's dime)
