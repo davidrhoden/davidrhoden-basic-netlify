@@ -20,7 +20,7 @@ The Stacks are playing a show at the rejuvenated Saturn Bar!
 
 Thursday, October 28, opening for [Bad Misters](https://badmisters.bandcamp.com). $7 cover.
 
-<div style="width: 100%; text-align: center;">
+<div style="width: 640px; text-align: center;">
 <video controls loop>
   <source type="video/mp4" src="/static/video/bad-misters-stacks-oct-28-2021.mp4"></source>
   <p>Your browser does not support the video element.</p>
@@ -32,4 +32,4 @@ I thought "Small Victories" was one of the best Lemon Twigs songs, then I heard 
 
 "The Fire" starts at 4:10 but I don't recommend skipping.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Cfe8DHnz2YU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="350" src="https://www.youtube.com/embed/Cfe8DHnz2YU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
