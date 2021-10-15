@@ -149,6 +149,7 @@ function imageShortcode(src, cls, alt, sizes, widths) {
   eleventyConfig.addPassthroughCopy("static/img");
   eleventyConfig.addPassthroughCopy("static/pdf");
   eleventyConfig.addPassthroughCopy("static/audio");
+  eleventyConfig.addPassthroughCopy("static/video");
   eleventyConfig.addPassthroughCopy("static/banners");
   eleventyConfig.addPassthroughCopy("static/webfonts/ShadowGrotesque");
   eleventyConfig.addPassthroughCopy("admin");
