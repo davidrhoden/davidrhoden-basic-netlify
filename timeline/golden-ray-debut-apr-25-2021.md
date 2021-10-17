@@ -26,13 +26,13 @@ My new band with Andrew Donaldson and Brian Tierney (Brain Tyranny) made its deb
 
 ![Golden Ray at Sister Street Stage](/static/img/rock/golden-ray-apr-25-2021/golden-ray-04-apr-25-2021.jpg "Golden Ray at Sister Street Stage")
 
-![Golden Ray at Sister Street Stage](/static/img/rock/golden-ray-apr-25-2021golden-ray-03-apr-25-2021.jpg "Golden Ray at Sister Street Stage")
+![Golden Ray at Sister Street Stage](/static/img/rock/golden-ray-apr-25-2021/golden-ray-03-apr-25-2021.jpg "Golden Ray at Sister Street Stage")
 
 Live photos by Gina Phillips.
 
-![Golden Ray at Sister Street Stage](/static/img/rock/golden-ray-apr-25-2021golden-ray-01-apr-25-2021.jpg "Golden Ray at Sister Street Stage")
+![Golden Ray at Sister Street Stage](/static/img/rock/golden-ray-apr-25-2021/golden-ray-01-apr-25-2021.jpg "Golden Ray at Sister Street Stage")
 
-![Golden Ray at Sister Street Stage](/static/img/rock/golden-ray-apr-25-2021golden-ray-brian-apr-25-2021.jpg "Golden Ray at Sister Street Stage")
+![Golden Ray at Sister Street Stage](/static/img/rock/golden-ray-apr-25-2021/golden-ray-brian-apr-25-2021.jpg "Golden Ray at Sister Street Stage")
 
 ![Golden Ray at Sister Street Stage](/static/img/rock/golden-ray-apr-25-2021/golden-ray-02-apr-25-2021.jpg "Golden Ray at Sister Street Stage")
 
