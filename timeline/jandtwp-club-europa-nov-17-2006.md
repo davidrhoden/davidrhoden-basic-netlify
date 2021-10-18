@@ -21,4 +21,7 @@ Club Europa was a giant Polish nightclub in Greenpoint. The real regular crowd w
 
 Fun show as I recall, and my one time getting to see The Banned.
 
+<audio src="/static/audio/TheBanned-AnAngryKid.mp3" autobuffer autoloop loop controls></audio>
+<figcaption>The Banned, "An Angry Kid"</figcaption>
+
 ![Jimmy and The Wolfpack album cover by Dave Rhoden](/static/img/rock/jandtwp-cd-cover.jpg)
