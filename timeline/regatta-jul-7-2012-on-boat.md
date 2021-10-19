@@ -8,7 +8,7 @@ image: timeline/regatta/regatta-jul-7-2012-on-boat.jpg
 tags:
   - post 
   - Pensacola
-  - regatta
+  - regattas
   - boats
   - Trey Ledford
 

@@ -1,24 +1,28 @@
 ---
-title: I went to the regatta in Pensacola but it rained.
-date: 2021-07-05T11:00:00.000Z
-summary: It was nice to see everybody.
-excerpt: It was nice to see everybody.
+title: I went to the 2005 regatta in Pensacola.
+date: 2005-07-02T11:00:00.000Z
+summary: This is when Trey and I came up with the Turfgrass Cup.
+excerpt: This is when Trey and I came up with the Turfgrass Cup.
 category: timeline
-image: timeline/regatta-jul-2021/regatta-spent-fireworks-jul-5-2021.jpg
+image: timeline/regatta-jul-2-2005/regatta-turfgrass-cup-jul-2-2005.jpg
 tags:
   - post 
   - regattas
   - Pensacola
   - Florida
   - fireworks
-  - barbecue
+  - Ellen Demmy
   - Dana D.
+  - Trey
+  - Turfgrass Cup
 
 ---
 
-It was a nice weekend but right about the time to start sailing we got blasted with a giant storm. We ended up sitting out in the shed drinking beers and talking, even though there aren't any chairs in there.
+This is when Trey and I came up with the Turfgrass Cup. It was a self-awarded award for the best last finish in the sailing race. Last regatta (for me) before Hurricane Katrina.
 
-![Dana cooking at the 2021 Regatta.](/static/img/timeline/regatta-jul-2021/regatta-dana-cooking-chickens-jul-5-2021.jpg "Spent fireworks.")
+![](/static/img/timeline/regatta-jul-2-2005/Trey-David-regatta-jul-2-2005.jpg
 
-![Spent fireworks.](/static/img/timeline/regatta-jul-2021/regatta-spent-fireworks-jul-5-2021.jpg "Spent fireworks.")
+![](/static/img/timeline/regatta-jul-2-2005/David-Ellenregatta-jul-2-2005.jpg
+
+![](/static/img/timeline/regatta-jul-2-2005/regatta-turfgrass-cup-jul-2-2005.jpg
 
