@@ -7,7 +7,7 @@ category: timeline
 image: timeline/regatta-jul-3-4-2011/regatta-jul-4-2011-instruments.jpg
 tags:
   - post 
-  - regatta
+  - regattas
   - Pensacola
   - Florida
   - fireworks
