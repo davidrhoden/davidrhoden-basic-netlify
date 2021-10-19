@@ -2,7 +2,7 @@
 title: I went to the 2019 regatta.
 date: 2019-07-064T16:00:00.000Z
 category: timeline
-image:timeline/regatta-jul-6-2019/regatta-jul-6-2019.jpg
+image: timeline/regatta-jul-6-2019/regatta-jul-6-2019.jpg
 tags:
   - post 
   - regattas
