@@ -22,3 +22,5 @@ It was a nice weekend but right about the time to start sailing we got blasted w
 
 ![Spent fireworks.](/static/img/timeline/regatta-jul-2021/regatta-spent-fireworks-jul-5-2021.jpg "Spent fireworks.")
 
+![Drinking in the shed at the regatta.](/static/img/timeline/regatta-jul-4-2021/regatta-rain-1-jul-4--2021.jpg "Spent fireworks.")
+
