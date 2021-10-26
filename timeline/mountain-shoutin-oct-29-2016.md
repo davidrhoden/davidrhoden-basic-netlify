@@ -13,7 +13,7 @@ tags:
   - Hunt Wellborn
   - Nathan Snyder
   - Andrew Kreitz
-  - Halloween
+  - Hallowe'en
   - parties
 
 ---
