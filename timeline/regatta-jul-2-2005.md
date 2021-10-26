@@ -20,8 +20,6 @@ tags:
 
 This is when Trey and I came up with the Turfgrass Cup. It was a self-awarded award for the best last finish in the sailing race. Last regatta (for me) before Hurricane Katrina.
 
-![](/static/img/timeline/regatta-jul-2-2005/Trey-David-regatta-jul-2-2005.jpg
-
 ![](/static/img/timeline/regatta-jul-2-2005/David-Ellenregatta-jul-2-2005.jpg
 
 ![](/static/img/timeline/regatta-jul-2-2005/regatta-turfgrass-cup-jul-2-2005.jpg

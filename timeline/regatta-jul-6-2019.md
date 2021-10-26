@@ -13,4 +13,4 @@ tags:
 
 I think I was super distracted. I think this was also the first regatta I went to by myself.
 
-![2019 Regatta.](/static/img/timeline/regatta-jul-6-2019/regatta-jul-6-2019.jpg
+![2019 Regatta.](/static/img/timeline/regatta-jul-6-2019/regatta-jul-6-2019.jpg)
