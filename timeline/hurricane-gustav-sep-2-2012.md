@@ -16,4 +16,4 @@ tags:
 
 ![riding bikes before Hurricane Gustav](/static/img/timeline/hurricane-gustav-sep-2-2012.jpg "riding bikes before Hurricane Gustav")
 
-I hung out at "The Compound" a lot around this time. The power was out at my house. I took this picture, that's my bike in the front there. This was fun--you would get the high wind at your back and really fly. Of course going the other way was another matter.
+I hung out at "The Compound" a lot around this time. The power was out at my house. I took this picture, that's my bike in the front there. This was fun--you would get the high wind at your back and really fly. Going the other way was another matter.
