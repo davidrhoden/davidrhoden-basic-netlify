@@ -1,6 +1,6 @@
 ---
 title: The Stacks played the Saturn Bar with Bad Misters.
-date: 2021-10-2821:00:00.000Z
+date: 2021-10-28T21:00:00.000Z
 category: rock
 image: rock/stacks/stacks-pandemic-recordings-with-andre-red.jpg
 tags:
