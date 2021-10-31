@@ -24,9 +24,9 @@ tags:
     <button id="buttonPrevious">&#10094;</button>
     <button id="buttonNext">&#10095;</button>
 
-![All-Night Movers (David Rhoden and Slade Nash) at Circle Bar, October 3, 2002.](/static/img/rock/all-night-movers/circle-bar-oct-3-2002/all-night-movers-davetalktoit.jpg "All-Night Movers (David Rhoden and Slade Nash) at Circle Bar, October 3, 2002.")
+![All-Night Movers (David Rhoden and Slade Nash) at Circle Bar, October 3, 2002.](/static/img/rock/all-night-movers/circle-bar-oct-3-2002/anm-davetalktoit.jpg "All-Night Movers (David Rhoden and Slade Nash) at Circle Bar, October 3, 2002.")
 
-![All-Night Movers (David Rhoden and Slade Nash) at Circle Bar, October 3, 2002.](/static/img/rock/all-night-movers/circle-bar-oct-3-2002/all-night-movers-davetheessence.jpg "All-Night Movers (David Rhoden and Slade Nash) at Circle Bar, October 3, 2002.")
+![All-Night Movers (David Rhoden and Slade Nash) at Circle Bar, October 3, 2002.](/static/img/rock/all-night-movers/circle-bar-oct-3-2002/anm-davetheessence.jpg "All-Night Movers (David Rhoden and Slade Nash) at Circle Bar, October 3, 2002.")
 
 ![All-Night Movers (David Rhoden and Slade Nash) at Circle Bar, October 3, 2002.](/static/img/rock/all-night-movers/circle-bar-oct-3-2002/anm-circle-bar-artboonparn.jpg "All-Night Movers (David Rhoden and Slade Nash) at Circle Bar, October 3, 2002.")
 
@@ -52,15 +52,17 @@ tags:
 
 ![All-Night Movers (David Rhoden and Slade Nash) at Circle Bar, October 3, 2002.](/static/img/rock/all-night-movers/circle-bar-oct-3-2002/anm-circle-bar-preachin.jpg "All-Night Movers (David Rhoden and Slade Nash) at Circle Bar, October 3, 2002.")
 
-![All-Night Movers (David Rhoden and Slade Nash) at Circle Bar, October 3, 2002.](/static/img/rock/all-night-movers/circle-bar-oct-3-2002/anm-circle-bar-sara.jpg "All-Night Movers (David Rhoden and Slade Nash) at Circle Bar, October 3, 2002.")
+![Sara E. at All-Night Movers at Circle Bar, October 3, 2002.](/static/img/rock/all-night-movers/circle-bar-oct-3-2002/anm-circle-bar-sara.jpg "All-Night Movers (David Rhoden and Slade Nash) at Circle Bar, October 3, 2002.")
 
 ![All-Night Movers (David Rhoden and Slade Nash) at Circle Bar, October 3, 2002.](/static/img/rock/all-night-movers/circle-bar-oct-3-2002/anm-circle-bar-shoutin.jpg "All-Night Movers (David Rhoden and Slade Nash) at Circle Bar, October 3, 2002.")
 
-![All-Night Movers (David Rhoden and Slade Nash) at Circle Bar, October 3, 2002.](/static/img/rock/all-night-movers/circle-bar-oct-3-2002/anm-circle-bar-slademaracas.jpg "All-Night Movers (David Rhoden and Slade Nash) at Circle Bar, October 3, 2002.")
+![All-Night Movers (Slade Nash) at Circle Bar, October 3, 2002.](/static/img/rock/all-night-movers/circle-bar-oct-3-2002/anm-circle-bar-slademaracas.jpg "All-Night Movers (David Rhoden and Slade Nash) at Circle Bar, October 3, 2002.")
 
-![All-Night Movers (David Rhoden and Slade Nash) at Circle Bar, October 3, 2002.](/static/img/rock/all-night-movers/circle-bar-oct-3-2002/anm-circle-bar-sladeohead.jpg "All-Night Movers (David Rhoden and Slade Nash) at Circle Bar, October 3, 2002.")
+![All-Night Movers (Slade Nash) at Circle Bar, October 3, 2002.](/static/img/rock/all-night-movers/circle-bar-oct-3-2002anm-circle-bar-slade-drumming.jpg "All-Night Movers (David Rhoden and Slade Nash) at Circle Bar, October 3, 2002.")
 
-![All-Night Movers (David Rhoden and Slade Nash) at Circle Bar, October 3, 2002.](/static/img/rock/all-night-movers/circle-bar-oct-3-2002/anm-circle-bar-sladerockin.jpg "All-Night Movers (David Rhoden and Slade Nash) at Circle Bar, October 3, 2002.")
+![All-Night Movers (Slade Nash) at Circle Bar, October 3, 2002.](/static/img/rock/all-night-movers/circle-bar-oct-3-2002/anm-circle-bar-sladeohead.jpg "All-Night Movers (David Rhoden and Slade Nash) at Circle Bar, October 3, 2002.")
+
+![All-Night Movers (Slade Nash) at Circle Bar, October 3, 2002.](/static/img/rock/all-night-movers/circle-bar-oct-3-2002/anm-circle-bar-sladerockin.jpg "All-Night Movers (David Rhoden and Slade Nash) at Circle Bar, October 3, 2002.")
 
 ![All-Night Movers (David Rhoden and Slade Nash) at Circle Bar, October 3, 2002.](/static/img/rock/all-night-movers/circle-bar-oct-3-2002/anm-circle-bar-stringbuster.jpg "All-Night Movers (David Rhoden and Slade Nash) at Circle Bar, October 3, 2002.")
 
@@ -74,7 +76,11 @@ tags:
 
 ![All-Night Movers (David Rhoden and Slade Nash) at Circle Bar, October 3, 2002.](/static/img/rock/all-night-movers/circle-bar-oct-3-2002/bholydaver.jpg "All-Night Movers (David Rhoden and Slade Nash) at Circle Bar, October 3, 2002.")
 
-![All-Night Movers (David Rhoden and Slade Nash) at Circle Bar, October 3, 2002.](/static/img/rock/all-night-movers/circle-bar-oct-3-2002/etalbotbird.jpg "All-Night Movers (David Rhoden and Slade Nash) at Circle Bar, October 3, 2002.")
+![Matt Uhlman and Talbot Adams at All-Night Movers, Circle Bar, October 3, 2002.](/static/img/rock/all-night-movers/circle-bar-oct-3-2002anm-circle-bar-matt-and-talbot.jpg "All-Night Movers (David Rhoden and Slade Nash) at Circle Bar, October 3, 2002.")
+
+![All-Night Movers (David Rhoden and Slade Nash) at Circle Bar, October 3, 2002.](/static/img/rock/all-night-movers/circle-bar-oct-3-2002anm-circle-bar-dave-halo.jpg "All-Night Movers (David Rhoden and Slade Nash) at Circle Bar, October 3, 2002.")
+
+![All-Night Movers (David Rhoden and Slade Nash) at Circle Bar, October 3, 2002.](/static/img/rock/all-night-movers/circle-bar-oct-3-2002anm-circle-bar-pabst.jpg "All-Night Movers (David Rhoden and Slade Nash) at Circle Bar, October 3, 2002.")
 
 </div>
 <div id="caption"></div>
