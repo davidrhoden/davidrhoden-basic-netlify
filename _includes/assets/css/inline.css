@@ -168,11 +168,6 @@ footer .search-box-container{
 
 figcaption {
 	font-size: .9em;
-    transform: translateY(-2em);
-    color: lightgray;
-}
-.rock figcaption {
-	font-size: .9em;
     transform: translateY(-1em);
     color: gray;
 }
