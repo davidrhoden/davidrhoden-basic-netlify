@@ -26,7 +26,7 @@ The Saturn Bar reopened with new management, and a really nice new sound system.
 <figcaption>Video by Melanie Koch.</figcaption>
 
 <div style="width: 100%; text-align: center;">
-  <video style="width: 640px; text-align: center;" controls loop>
+  <video style="width: 640px; height: 350px;text-align: center;" controls loop>
   <source type="video/mp4" src="/static/video/bad-misters-stacks-oct-28-2021.mp4"></source>
   <p>Your browser does not support the video element.</p>
 </video>
