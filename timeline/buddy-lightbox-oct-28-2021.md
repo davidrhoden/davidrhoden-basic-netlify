@@ -1,6 +1,6 @@
 ---
 title: Buddy turned on the lightbox.
-date: 2021-10-15T12:00:00.000Z
+date: 2021-10-28T12:00:00.000Z
 category: timeline
 image: buddy/buddy-lightbox-oct-28-2021.jpg
 tags:

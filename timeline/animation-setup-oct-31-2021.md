@@ -1,6 +1,6 @@
 ---
 title: I made a new improved animation setup.
-date: 2021-10-15T12:00:00.000Z
+date: 2021-10-31T12:00:00.000Z
 category: timeline
 image: timeline/animation-setup-oct-31-2021.jpg
 tags:
