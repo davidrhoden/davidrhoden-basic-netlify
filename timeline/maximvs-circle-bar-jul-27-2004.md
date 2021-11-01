@@ -36,7 +36,6 @@ Photos by Mark Davis.
 
 ![MAXIMVS! at Circle Bar with Anthony Donato on drums.](/static/img/rock/maximvs-circle-bar-jul-27-2004/maximvs-jul-27-2004-8.jpg "MAXIMVS! at Circle Bar with Anthony Donato on drums.")
 
-
 </div>
 <div id="caption"></div>
 
