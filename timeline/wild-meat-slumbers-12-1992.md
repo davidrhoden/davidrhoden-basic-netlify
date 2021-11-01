@@ -1,6 +1,6 @@
 ---
 title: Two of my bands were on a compilation of Knoxville bands.
-date: 1002-12-15T13:00:00.000Z
+date: 2002-12-15T13:00:00.000Z
 summary: These were the unhip bands of 1992. We were too old!
 excerpt: These were the unhip bands of 1992. We were too old!
 category: timeline

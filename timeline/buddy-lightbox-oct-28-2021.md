@@ -2,7 +2,7 @@
 title: Buddy turned on the lightbox.
 date: 2021-10-15T12:00:00.000Z
 category: timeline
-image: buddy/buddy-bed-lightbox-oct-28-2021.jpg
+image: buddy/buddy-lightbox-oct-28-2021.jpg
 tags:
   - post
   - New Orleans
@@ -14,6 +14,6 @@ tags:
 
 ---
 
-![Buddy turned on the lightbox.](/static/img/buddy/buddy-bed-lightbox-oct-28-2021.jpg)
+![Buddy turned on the lightbox.](/static/img/buddy/buddy-lightbox-oct-28-2021.jpg)
 
 Buddy turned on the lightbox.
