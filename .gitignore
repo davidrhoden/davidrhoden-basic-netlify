@@ -5,6 +5,7 @@ support/
 /api
 .env
 /static/img-to-be-added
+/static/audio
 .DS_Store
 /pages/animation-demo.md
 /pages/bands-seen.md
