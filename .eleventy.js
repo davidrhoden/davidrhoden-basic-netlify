@@ -7,6 +7,7 @@ const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
 const pluginSEO = require("eleventy-plugin-seo");
 const path = require("path");
 const Image = require("@11ty/eleventy-img");
+const pluginRss = require("@11ty/eleventy-plugin-rss");
 
 module.exports = function(eleventyConfig) {
 
@@ -114,35 +115,38 @@ module.exports = function(eleventyConfig) {
     });
   });
 
-eleventyConfig.addNunjucksShortcode("myImage", imageShortcode);
+eleventyConfig.addPlugin(pluginRss);
 
-function imageShortcode(src, cls, alt, sizes, widths) {
-  let options = {
-    widths: widths,
-    formats: ['jpeg'],
-    urlPath: '/static/img/timeline/',
-    outputDir: './_site/static/img/timeline/',
-    filenameFormat: function (id, src, width, format, options) {
-      const extension = path.extname(src);
-      const name = path.basename(src, extension);
-      return `${name}-${width}w.${format}`;
-    }
-  };
 
-  // generate images, while this is async we don’t wait
-  Image(src, options);
+// eleventyConfig.addNunjucksShortcode("myImage", imageShortcode);
 
-  let imageAttributes = {
-    class: cls,
-    alt,
-    sizes,
-    loading: "lazy",
-    decoding: "async",
-  };
-  // get metadata even the images are not fully generated
-  metadata = Image.statsSync(src, options);
-  return Image.generateHTML(metadata, imageAttributes);
-}
+// function imageShortcode(src, cls, alt, sizes, widths) {
+//   let options = {
+//     widths: widths,
+//     formats: ['jpeg'],
+//     urlPath: '/static/img/timeline/',
+//     outputDir: './_site/static/img/timeline/',
+//     filenameFormat: function (id, src, width, format, options) {
+//       const extension = path.extname(src);
+//       const name = path.basename(src, extension);
+//       return `${name}-${width}w.${format}`;
+//     }
+//   };
+
+//   // generate images, while this is async we don’t wait
+//   Image(src, options);
+
+//   let imageAttributes = {
+//     class: cls,
+//     alt,
+//     sizes,
+//     loading: "lazy",
+//     decoding: "async",
+//   };
+//   // get metadata even the images are not fully generated
+//   metadata = Image.statsSync(src, options);
+//   return Image.generateHTML(metadata, imageAttributes);
+// }
 
   // Don't process folders with static assets e.g. images
   eleventyConfig.addPassthroughCopy("favicon.ico");
