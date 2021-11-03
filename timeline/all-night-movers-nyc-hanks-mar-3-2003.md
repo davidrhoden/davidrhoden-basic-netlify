@@ -18,7 +18,7 @@ tags:
 
 ---
 
-1[Slade Nash and Dave Rhoden (All-Night Movers) at Hank's Saloon, Brooklyn, NY, March 3, 2003.](/static/img/rock/all-night-movers/anm-at-hanks-saloon-mar-3-2003.jpg "Slade Nash and Dave Rhoden  (All-Night Movers)  at Hank's Sal0on, Brooklyn, NY, March 3, 2003")
+1[Slade Nash and Dave Rhoden (All-Night Movers) at Hank's Saloon, Brooklyn, NY, March 3, 2003.](/static/img/rock/all-night-movers/anm-at-hanks-saloon-mar-3-2003.jpg "Slade Nash and Dave Rhoden  (All-Night Movers) at Hank's Saloon, Brooklyn, NY, March 3, 2003")
 
 The opening band was also a two-piece and they were quite good. I wish I could remember their name now.
 

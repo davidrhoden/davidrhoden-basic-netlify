@@ -31,6 +31,7 @@
   "dependencies": {
     "@11ty/eleventy-img": "^0.9.0",
     "@11ty/eleventy-navigation": "^0.1.5",
+    "@11ty/eleventy-plugin-rss": "^1.1.2",
     "@netlify/plugin-sitemap": "^0.3.3",
     "aos": "^2.3.4",
     "clean-css": "^4.2.1",
