@@ -17,6 +17,10 @@ tags:
 
 The Saturn Bar reopened with new management, and a really nice new sound system. We sounded as good as I've ever heard us. Chan (an original Stack) got up and screamed in the microphone like he used to. I really liked this show.
 
+A guy in the crowd handed me this drawing he did of me, Andrew, and Chan singing "I'm Wild".
+
+![drawing of The Stacks at Saturn Bar, October 28, 2021.](/static/img/rock/stacks/drawing-stacks-oct-28-2021.jpg)
+
 <div style="width: 100%; text-align: center;">
   <video style="width: 640px; text-align: center;" controls loop>
   <source type="video/mp4" src="/static/video/stacks-mkoch-oct-28-2021.mp4"></source>
@@ -31,3 +35,4 @@ The Saturn Bar reopened with new management, and a really nice new sound system.
   <p>Your browser does not support the video element.</p>
 </video>
 </div>
+<figcaption>Little ad I did for the Stacks/Bad Misters show.</figcaption>

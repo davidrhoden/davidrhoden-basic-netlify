@@ -4,7 +4,7 @@ date: 1996-08-27T03:00:00.000Z
 summary: We tried making the Hi-Balls 7" with a rudimentary silkscreen apparatus. (A Speedball kit.) It didn't work out.
 excerpt: We tried making the Hi-Balls 7" with a rudimentary silkscreen apparatus. (A Speedball kit.) It didn't work out.
 category: rock
-image: rock/hi-balls-silkscreen-front-1996.jpg
+image: roc/hi-balls/hi-balls-silkscreen-front-1996.jpg
 tags:
   - post
   - stories
@@ -19,8 +19,8 @@ We tried making the Hi-Balls 7" with a rudimentary silkscreen apparatus. (A Spee
 
 These are the silk screen ones. I think four of these survive.
 
-![ front cover of Hi-Balls record](/static/img/rock/hi-balls-silkscreen-front-1996.jpg)
+![ front cover of Hi-Balls record](/static/img/rock/hi-balls/hi-balls-silkscreen-front-1996.jpg)
 
-![ front cover of Hi-Balls record](/static/img/rock/hi-balls-silkscreen-back-1996.jpg)
+![ front cover of Hi-Balls record](/static/img/rock/hi-balls/hi-balls-silkscreen-back-1996.jpg)
 
-![ Hi-Balls record](/static/img/rock/hi-balls-feel-good-record.jpg)
+![ Hi-Balls record](/static/img/rock/hi-balls/hi-balls-feel-good-record.jpg)

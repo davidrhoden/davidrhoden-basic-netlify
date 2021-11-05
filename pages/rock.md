@@ -256,9 +256,9 @@ ___
 
 ## Hi-Balls
 
-![hi-balls band photo](/static/img/rock/hi-balls-jump.jpg)
+![hi-balls band photo](/static/img/rock/hi-balls/hi-balls-jump.jpg)
 
-![hi-balls record](/static/img/rock/hi-balls-feel-good-record.jpg)
+![hi-balls record](/static/img/rock/hi-balls/hi-balls-feel-good-record.jpg)
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=4108152891/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://hiballs.bandcamp.com/album/love-music">Love Music by The Hi-Balls</a></iframe>
 
