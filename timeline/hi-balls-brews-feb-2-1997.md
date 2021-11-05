@@ -4,7 +4,7 @@ date: 1997-02-02T16:00:00.000Z
 summary: When they bring out the white seamless, you've made it.
 excerpt: When they bring out the white seamless, you've made it.
 category: rock
-image: rock/hi-balls-live-at-brews-cover-feb-2-2-1997.jpg
+image: rock/hi-balls/hi-balls-live-at-brews-cover-feb-2-2-1997.jpg
 tags:
   - post 
   - rock
