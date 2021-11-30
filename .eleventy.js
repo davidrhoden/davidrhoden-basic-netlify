@@ -25,6 +25,8 @@ module.exports = function(eleventyConfig) {
     }
   });
 
+  eleventyConfig.addPlugin(pluginRss);
+
   // https://www.11ty.dev/docs/data-deep-merge/
   eleventyConfig.setDataDeepMerge(true);
 
@@ -114,9 +116,6 @@ module.exports = function(eleventyConfig) {
       remove: /[*+~.·,()'"`´%!?¿:@]/g
     });
   });
-
-eleventyConfig.addPlugin(pluginRss);
-
 
 // eleventyConfig.addNunjucksShortcode("myImage", imageShortcode);
 
