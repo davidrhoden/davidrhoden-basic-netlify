@@ -1,7 +1,7 @@
 ---
 title: The Sleepyheads played at Mermaid Lounge.
 date: 2002-01-18T22:00:00.000Z
-image: rock/stacks/Stacks-Sidneys-Nov-19-2021.jpg
+image: rock/sleepyheads/sleepyheads-jan-18-2002/sleepy-heads-jan-18-2002-0.jpg
 tags:
   - post 
   - New Orleans
