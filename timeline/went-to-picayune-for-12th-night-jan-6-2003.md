@@ -4,7 +4,7 @@ date: 2003-01-06T19:00:00.000Z
 summary: We played guitars.
 excerpt: We played guitars.
 category: timeline
-image: rock/maximvs-jan-6-2003.jpg
+image: rock/maximvs/maximvs-jan-6-2003.jpg
 tags:
   - post 
   - Mississippi
@@ -18,3 +18,5 @@ tags:
 ---
 
 We went up to Picayune, Mississippi and played guitars around a bonfire.
+
+![MAXIMVS! members out of togas at a bonfire in Mississippi.](rock/maximvs/maximvs-jan-6-2003.jpg)
