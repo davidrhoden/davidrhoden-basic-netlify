@@ -168,6 +168,8 @@ Tales of Phil Kunselman.
 
 Vatican Pizza (Jim Ellis wrapping his head with duct tape).
 
+Opened for Volcano Suns at Planet Earth.
+
 Buffet at Antonio's.
 
 Working at Stefano's.
@@ -225,6 +227,10 @@ Saw Clint Clinton at Rodeo Bar.
 ## 1992
 
 Moved to NYC with Al.
+
+Worked for A Man's Life.
+
+Wrote part of _Awesome Almanac_.
 
 I bought a Fender Telecaster.
 
