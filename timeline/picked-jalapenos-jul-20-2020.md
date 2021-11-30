@@ -1,6 +1,6 @@
 ---
 title: I grew some nice jalapeños.
-date: 2020-07020T12:00:00.000Z
+date: 2020-07-20T12:00:00.000Z
 summary: I couldn't use them up fast enough.
 excerpt: I couldn't use them up fast enough.
 image: timeline/jalapenos-jul-20-2020.jpg
