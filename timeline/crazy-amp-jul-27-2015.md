@@ -28,9 +28,9 @@ It was cool as hell, a great sounding amp, but it stopped working in about the t
 (I eventually got it fixed in New Orleans. It weighed eighty pounds and I fearewd it get hurt if I actually tried to use it for gigs. So I sold it to another poor boy for the same $500 I paid for it. I do miss it a little.)
 
 
-![a bonfire at 315 Tricou Street, New Orleans, April 7, 2021.](/static/img/timeline/amp-extra-switch-jul-27-2015.jpg)
+![Extra switch on Deluxe Reverb, Austin Texas, July 27, 2015.](/static/img/timeline/amp-extra-switch-jul-27-2015.jpg)
 
-![a bonfire at 315 Tricou Street, New Orleans, April 7, 2021.](/static/img/timeline/amp-master-volume-jul-27-2015.jpg)
+![Added master volume on Deluxe Reverb, Austin Texas, July 27, 2015](/static/img/timeline/amp-master-volume-jul-27-2015.jpg)
 
-![a bonfire at 315 Tricou Street, New Orleans, April 7, 2021.](/static/img/timeline/amp-grille-damage-jul-27-2015.jpg)
+![Grille damage on Deluxe Reverb, Austin Texas, July 27, 2015](/static/img/timeline/amp-grille-damage-jul-27-2015.jpg)
 
