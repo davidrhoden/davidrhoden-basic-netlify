@@ -1,6 +1,6 @@
 ---
 title: Check out this crazy amp I bought.
-date: 2015-07-2716:00:00.000Z
+date: 2015-07-27T16:00:00.000Z
 category: timeline
 image: timeline/amp-grille-damage-jul-25-2015.jpg
 tags:
