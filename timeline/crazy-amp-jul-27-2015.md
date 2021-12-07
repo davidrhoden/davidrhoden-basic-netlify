@@ -25,7 +25,7 @@ I decided to take the risk though my trust level in this guy was a little bit lo
 
 It was cool as hell, a great sounding amp, but it stopped working in about the third hour I used it.
 
-(I eventually got it fixed in New Orleans. It weighed eighty pounds and I fearewd it get hurt if I actually tried to use it for gigs. So I sold it to another poor boy for the same $500 I paid for it. I do miss it a little.)
+(I eventually got it fixed in New Orleans. It weighed eighty pounds and I feared I'd get hurt if I actually tried to use it for gigs. So I sold it to another poor boy for the same $500 I paid for it. I do miss it a little.)
 
 
 ![Extra switch on Deluxe Reverb, Austin Texas, July 27, 2015.](/static/img/timeline/amp-extra-switch-jul-27-2015.jpg)
