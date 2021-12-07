@@ -23,23 +23,24 @@
   "homepage": "https://davidrhoden.com",
   "devDependencies": {
     "@11ty/eleventy": "^0.12.1",
-    "luxon": "^1.25.0",
-    "markdown-it": "^10.0.0",
-    "markdown-it-anchor": "^5.2.7",
+    "luxon": "^2.1.1",
+    "markdown-it": "^12.2.0",
+    "markdown-it-anchor": "^8.4.1",
     "nunjucks-date-filter": "^0.1.1"
   },
   "dependencies": {
-    "@11ty/eleventy-img": "^0.9.0",
-    "@11ty/eleventy-navigation": "^0.1.5",
+    "@11ty/eleventy-img": "^1.0.0",
+    "@11ty/eleventy-navigation": "^0.3.2",
     "@11ty/eleventy-plugin-rss": "^1.1.2",
-    "@netlify/plugin-sitemap": "^0.3.3",
+    "@netlify/plugin-sitemap": "^0.8.1",
     "aos": "^2.3.4",
-    "clean-css": "^4.2.1",
-    "eleventy-plugin-seo": "^0.5.1",
+    "axios": "^0.24.0",
+    "clean-css": "^5.2.2",
+    "eleventy-plugin-seo": "^0.5.2",
     "html-minifier": "^4.0.0",
-    "moment": "^2.26.0",
+    "moment": "^2.29.1",
     "path": "^0.12.7",
-    "slugify": "^1.6.0",
+    "slugify": "^1.6.3",
     "uglify-es": "^3.3.9"
   }
 }
