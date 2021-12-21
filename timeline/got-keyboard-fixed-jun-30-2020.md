@@ -8,7 +8,7 @@ image: timeline/keyboard-opened-up-3-jun-30-2020.jpg
 tags:
   - post 
   - rock
-  - Lewis dAubin
+  - Lewis d'Aubin
   - Consortium of Genius
   - Casey MacAllister
   - piano

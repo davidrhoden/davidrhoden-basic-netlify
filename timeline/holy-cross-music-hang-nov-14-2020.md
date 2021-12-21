@@ -39,7 +39,7 @@ Then Gina's group, billed for the afternoon as "Gina Phillips and Friends" (Ross
 ![Gina Phillips and Friends at Holy Cross Music Hang](/static/img/timeline/holy-cross-music-nov-14-2020/gina-phillips-and-friends-nov-14-2020.jpg "Gina Phillips and Friends at Holy Cross Music Hang")
 
 <video controls loop>
-  <source type="video/mp4" src="/static/img/timeline/holy-cross-music-nov-14-2020/whippoorwill-nov-14-2020.mp4"></source>
+  <source type="video/mp4" src="/static/video/holy-cross-music-nov-14-2020/whippoorwill-nov-14-2020.mp4"></source>
   <p>Your browser does not support the video element. Otherwise you'd be watching a video of Gina Phillips playing "Whippoorwill Buttercup" right now.</p>
 </video>
 
@@ -54,6 +54,6 @@ Close to sunset the levee filled up with spectators too.
 I didn't get any photos of Malevitus somewhow but I shot some video of them when this art car pulled up.
 
 <video controls loop>
-  <source type="video/mp4" src="/static/img/timeline/holy-cross-music-nov-14-2020/malevitus-art-car-nov-14-2020.mp4"></source>
+  <source type="video/mp4" src="/static/video/holy-cross-music-nov-14-2020/malevitus-art-car-nov-14-2020.mp4"></source>
   <p>Your browser does not support the video element. Otherwise you'd be watching a video of Malevitus and an art car right now.</p>
 </video>
