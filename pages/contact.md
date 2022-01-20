@@ -12,8 +12,8 @@ eleventyNavigation:
 
 ---
 
-I build websites as a full-time job, but I also build sites for clients on a freelance basis. You can see examples and click links to some of my prior work on my [portfolio page](/web).
+I build websites and software for clients on a freelance basis. You can see examples and click links to some of my prior work on my [portfolio page](/web).
 
 If you're shopping for a website for your business or project, please let me know by filling out the form below. If we're a match in terms of budget and interestingness of the project, let's talk.
 
-You can also use this form to contact me about illlustration or animation projects.
+You can also use this form to contact me about illustration or animation projects.
