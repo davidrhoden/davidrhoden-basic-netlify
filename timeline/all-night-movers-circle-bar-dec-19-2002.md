@@ -17,4 +17,4 @@ tags:
 
 My main memory of this is show is some fat greasy dude fell asleep/passed out in a chair in the performance area. So I jumped on him and woke him up. He didn't like it. I didn't like it too much either.
 
-The other thing I remember is I started this show with a watch on, and ended it weithout a watch. I didn't notice it coming off. Didn't even look for it. I've never worn a watch since.
+The other thing I remember is I started this show with a watch on, and ended it without a watch. I didn't notice it coming off. Didn't even look for it. I've never worn a watch since.

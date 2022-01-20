@@ -20,6 +20,6 @@ For some odd reason me, Bev, and Matt all went to spend the night at our sister'
 
 In the morning we got up and turned on the TV. I wasn't a fan of Bandstand but we sometimes turned it on anyway. That day they had an unusual choice of live act: Public Image Limited. I was confused and fascinated. I knew a little bit about "punk" and felt like we could get in trouble for watching it.
 
-Here's the video. Check out John Lydon squiring nasal spray (I'm sure!) at around 9:40.
+Here's the video. Check out John Lydon squirting nasal spray (I'm sure!) at around 9:40.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hZLhqTzjpUM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

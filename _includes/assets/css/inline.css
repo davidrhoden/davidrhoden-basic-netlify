@@ -868,8 +868,9 @@ span.fade:hover {
   }
 
   .self-portrait {
-    border-radius: 2em; 
-    height: auto; 
+    border-radius: 1em; 
+    height: 80vh; 
+    margin: 0 2em;
     width: auto;
   }
 

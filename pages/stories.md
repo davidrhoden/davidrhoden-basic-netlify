@@ -417,13 +417,17 @@ Saw J.B. in a play.
 
 Saw a banker on Facebook through a window.
 
+## 2011
+
+Dec 28: SWAT team and suicide on Henry Clay near mom's.
+
 ## 2012
 
 "Do you abjure smoking?"
 
 ## 2015
 
-Was in a surf band that broke up before we played a show.
+Was in a surf band called "Donner Party of Four" that broke up before we played a show.
 
 Saw Legendary Shack Shakers.
 
@@ -463,11 +467,9 @@ I was a groomsman in Mark and Emily's wedding. 1992?
 
 Tee Eva: "I twisted my left buttock." 2014?
 
-Chef Menteur show at Karen M's.
-
 Had thai food (pad thai) for the first time.
 
-Had sushi for the first time at Takahchi.
+Had sushi for the first time at Takahachi.
 
 Went to Florida for Grandma Vada's funeral.
 

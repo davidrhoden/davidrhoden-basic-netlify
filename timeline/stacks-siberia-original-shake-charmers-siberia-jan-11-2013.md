@@ -18,6 +18,15 @@ tags:
 
 ---
 
-I finally got to play a show eith Guitar Lightnin', seems like a rite of passage for any New Orleans rock musician.
+I finally got to play a show with Guitar Lightnin', seems like a rite of passage for any New Orleans rock musician.
 
 Original Shake Charmers came from Alabama, the band included Lars Espensen, formerly of my beloved New York City Church Keys.
+
+From [Facebook](https://www.facebook.com/events/554833561210703/):
+Tuscaloosa's finest rock n rollers THE ORIGINAL SHAKE
+CHARMERS return to New Orleans to share the stage with the
+Prince of NOLA R&B GUITAR LIGHTNIN' LEE and His Thunder
+BAND plus special guests THE STACKS!!!! Dr. Ike and LOOP DEN
+hold it down on the turntables all night long spinning classic 45's!
+Miss this and be sorry!!
+Doors @ 9PM...only $7.
