@@ -39,6 +39,7 @@
     "eleventy-plugin-seo": "^0.5.2",
     "html-minifier": "^4.0.0",
     "moment": "^2.29.1",
+    "netlify-cli": "^8.11.0",
     "path": "^0.12.7",
     "sharp": "^0.29.3",
     "slugify": "^1.6.3",
