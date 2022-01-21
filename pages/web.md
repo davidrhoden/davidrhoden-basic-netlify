@@ -23,43 +23,26 @@ Now accepting freelance clients. [See the form at the bottom of this page.](#con
 
 ## 2020 - 2015 
 
-<section class="browser-mockup-section">
-	<div class="containerd">
-		<div class="flex row">
-			<div class="col-lg-4">
-				<div class="button-row">
-					<a class="link is-active" href="#e">Gina Phillips (design and development)</a>
-					<a class="link" href="#f">Luke Spurr Allen (design and development)</a>
-					<a class="link" href="#g">Mike Edison (design and development)</a>
-					<a class="link" href="#k">Amber Sexton (design and development)</a>
-					<a class="link" href="#a">Tapestry Linens (with the team at Cerberus)</a>
-					<a class="link" href="#b">Midsouth Coatings (Cerberus)</a>
-					<a class="link" href="#c">Dixie Beer (with the team at Online Optimism)</a>
-					<a class="link" href="#d">Moxie Learning (Online Optimism)</a>
-				</div>
-			</div>
-		    <div class="col-lg-8 mockup-col">
-		        <div class="mockup">
-					<div class="scroll-container"><span id="scroll-text" class="scroll-animation">Scroll</span>
-						<img id="a" class="sample is-active" src="/static/img/web/Tapestry-Linens-home.jpg"/>
-						<img id="b" class="sample" src="/static/img/web/MidSouth-Coatings-Home.png"/>
-						<img id="c" class="sample" src="/static/img/web/dixie-beer-picker.png"/>
-						<img id="d" class="sample" src="/static/img/web/moxielearning-desktop.png"/>
-						<img id="e" class="sample" src="/static/img/web/Gina_Phillips_Crow_Valley.png"/>
-						<img id="f" class="sample" src="/static/img/web/Luke-Spurr-Allen-Shows.jpg"/>
-						<img id="g" class="sample" src="/static/img/web/Mike-Edison-Videos.jpg"/>
-						<img id="k" class="sample" src="/static/img/web/Amber-Sexton-Photographer.jpg"/>
-						<span class="browser-control"></span>			
-			        </div>
-  				</div>
-			</div>
-  		</div>
-  	</div>
-</section>
+Dixie Beer (with the team at Online Optimism)
+![](/static/img/web/dixie-beer-picker.png?nf_resize=fit&w=640)
 
-<div>
+Moxie Learning (Online Optimism)
+![](/static/img/web/moxielearning-desktop.png?nf_resize=fit&w=640)
+
+Gina Phillips (design and development)
+![](/static/img/web/Gina_Phillips_Crow_Valley.png?nf_resize=fit&w=640)
+
+Luke Spurr Allen (design and development)
+![](/static/img/web/Luke-Spurr-Allen-Shows.jpg?nf_resize=fit&w=640)
+
+Mike Edison (design and development)
+![](/static/img/web/Mike-Edison-Videos.jpg?nf_resize=fit&w=640)
+
+Amber Sexton (design and development)
+![](/static/img/web/Amber-Sexton-Photographer.jpg?nf_resize=fit&w=640)
 
 ---
+
 ## 2015 - 2010
 
 AT&T "The Innovators" (development, with the team at Sanders/Wingo)
