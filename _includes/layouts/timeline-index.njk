@@ -7,7 +7,7 @@ section: timeline
 <!-- post loop -->
 {% set showYear = true %}
 {% set currentYear = "" %}
-{% for post in posts %}
+{# {% for post in posts %}
 {% if showYear %}
       {% set postYear = post.date.getFullYear() %}
       {% if currentYear != postYear %}
@@ -51,8 +51,8 @@ section: timeline
     {% endif %}
 </div>
 </article>
-{% endfor %}
-{% include "components/pagination.njk" %}
+{% endfor %} #}
+{# {% include "components/pagination.njk" %} #}
 </div>
 <div class="container-wide">
   <div class="tabs">

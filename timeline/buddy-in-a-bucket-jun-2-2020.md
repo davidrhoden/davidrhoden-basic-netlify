@@ -1,6 +1,6 @@
 ---
 title: Buddy getting in a bucket.
-date: 2014-03-04T11:00:00.000Z
+date: 2020-06-02T11:00:00.000Z
 summary: Ignoring the peligro.
 excerpt: ignoring the peligro.
 category: buddy
