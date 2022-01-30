@@ -14,4 +14,4 @@ tags:
 
 I don't think it got out of control, but any house fire is a disaster.
 
-![housefire on Caffin Avenue, New Orelans Louisiana, November 20, 2021. Phot by David Rhoden.]
+![housefire on Caffin Avenue, New Orleans, Louisiana, November 20, 2021. Photo by David Rhoden.](static/img/timeline/housefire-caffin-nov-20-2021.jpg)

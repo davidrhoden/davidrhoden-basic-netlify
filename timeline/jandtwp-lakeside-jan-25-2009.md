@@ -1,6 +1,6 @@
 ---
 title: Jimmy and The Wolfpack played Lakeside Lounge and some of my coworkers came to the show.
-date: 2009-12-04T22:00:00.000Z
+date: 2009-01-25-04T22:00:00.000Z
 summary: One of my coworkers really made an impression on me.
 excerpt: One of my coworkers really made an impression on me.
 category: rock
