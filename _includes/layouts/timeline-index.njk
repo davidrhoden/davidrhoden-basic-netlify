@@ -4,55 +4,8 @@ pageType: timeline
 section: timeline
 ---
 
-<!-- post loop -->
 {% set showYear = true %}
 {% set currentYear = "" %}
-{# {% for post in posts %}
-{% if showYear %}
-      {% set postYear = post.date.getFullYear() %}
-      {% if currentYear != postYear %}
-      {% set currentYear = postYear %}
-      <h3>{{ postYear }}</h3>
-      {% endif %}
-{% endif %}
-<article class="flex">
-  <div class="left">
-    {% if post.data.image %}
-      <img class="thumbnail" src="/static/img/{{ post.data.image }}?nf_resize=fit&w=280" alt="{{post.data.title}}">
-    {% endif %}
-  </div>
-  <div>
-  <p>
-    <small><time datetime="{{ post.date | machineDate }}"><span class="todays-date">{{ post.date | readableDate }}</time></small>
-  </p>
-  <h3>
-    <a href="{{ post.url | url }}">
-      {% if post.data.title %}
-        {{ post.data.title }}
-      {% else %}
-        Untitled
-      {% endif %}
-    </a>
-  </h3>
-  {% if post.data.summary %}
-    <p>
-      {{ post.data.summary }}
-    </p>
-  {% endif %}
-    {% if post.data.tags %}
-      <p>
-        {% for tag in post.data.tags %}
-          {%- if tag != "post" -%}
-            {% set tagUrl %}/tags/{{ tag | slugify }}/{% endset %}
-          <a href="{{ tagUrl | url }}" rel="tag">{{ tag }}</a>
-          {%- endif -%}
-        {% endfor %}
-      </p>
-    {% endif %}
-</div>
-</article>
-{% endfor %} #}
-{# {% include "components/pagination.njk" %} #}
 </div>
 <div class="container-wide">
   <div class="tabs">
