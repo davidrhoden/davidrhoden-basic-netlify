@@ -10,7 +10,7 @@ tags:
   - Sister Street
   - books
   - Charles Willeford
-  - _New Hope For The Dead_
+  - New Hope For The Dead
 
 ---
 

@@ -110,6 +110,7 @@ module.exports = function(eleventyConfig) {
 
   // Universal slug filter strips unsafe chars from URLs
   eleventyConfig.addFilter("slugify", function(str) {
+    // console.log(str); use this to find empty tags if the slugify string expected error happens again
     return slugify(str, {
       lower: true,
       replacement: "-",
