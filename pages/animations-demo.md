@@ -10,6 +10,7 @@ summary: Demo of on-scroll animations by David Rhoden.
 ---
 
 <script src="/_includes/assets/js/scrolling.js"></script>
+<script src="/_includes/assets/js/svg-animate.js"></script>
 <div style="width: 100vw;padding: 1em;">
 	<div class="aos-label">
 		<div style="margin: 1em 0;" data-aos="fade-right" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="100"><h1>Animate on scroll</h1></div>

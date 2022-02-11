@@ -23,4 +23,4 @@ They brought us a big catering tray of mini muffulettas.
 
 The cops shut it down but there was plenty of show to go around.
 
-1[Quintron and Miss Pussycat at Pirogue's Whiskey Bayou](/static/img/timeline/quintron-1-nov-20-2021.jpg)
+![Quintron and Miss Pussycat at Pirogue's Whiskey Bayou](/static/img/timeline/quintron-1-nov-20-2021.jpg)
