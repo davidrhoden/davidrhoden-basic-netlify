@@ -2,4 +2,5 @@
 * text=auto
 static/img/** filter=lfs diff=lfs merge=lfs -text
 static/audio/** filter=lfs diff=lfs merge=lfs -text
+static/pdf/** filter=lfs diff=lfs merge=lfs -text
 static/video/** filter=lfs diff=lfs merge=lfs -text
