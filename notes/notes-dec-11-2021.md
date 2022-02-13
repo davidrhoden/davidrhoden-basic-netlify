@@ -12,6 +12,6 @@ tags:
 
 I saw two movies in the last week. Both featured Charles Durning carving a turkey.
 
-![Charles Durning carving a turkey](static/img/timeline/durning-turkey-disaster-dec-11-2021.jpg)
+![Charles Durning carving a turkey](/static/img/timeline/durning-turkey-disaster-dec-11-2021.jpg)
 
 From _Home For the Holidays_. 
