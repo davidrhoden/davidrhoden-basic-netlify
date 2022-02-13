@@ -92,6 +92,10 @@ I got a white 1970 Ford LTD.
 
 Drove Ford LTD down Lookout Mountain.
 
+Played somebody in Ten Little Indians.
+
+Played the vicar Lionel Toop in See How They Run.
+
 ## 1984
 
 Took city-wide French exam.
@@ -100,11 +104,21 @@ Worked for Pop again.
 
 Junkalina Watercrap.
 
+Played Scapino in Scapino.
+
+Got in a fight with Thomas Coles, got my jaw broken.
+
 Red M&Ms played an icy show in Cleveland.
 
 I got an Oldsmobile Cutlass.
 
+Played Oscar Madison in The Odd Couple.
+
+Played the farmer in Of Mice And Men.
+
 ## 1985
+
+Played Caesar Rodney in 1776 at the Backstage Playhouse.
 
 Played at the Nucleus with Red M&Ms.
 
@@ -122,6 +136,12 @@ I was a salad cowboy.
 
 I was rude to Jerry Enriquez.
 
+Ate hash brownies and wept because I didn't have enough records.
+
+Saw Gus Consing fall on a hockey rink and blood spurted out.
+
+Lost a lot of chess matches to Gus Consing.
+
 The day I messed up the tie dye....now I feel bad every time I see Hans Humes on tv.
 
 Got my FCC broadcasting license. Made a PSA and a station ID.
@@ -129,6 +149,10 @@ Got my FCC broadcasting license. Made a PSA and a station ID.
 Went to New York City for the first time.
 
 Went to Saratoga Springs.
+
+Lip-synced "Frenzy" for a Drama class assignment.
+
+Acted in Lone Star.
 
 ## 1986
 
