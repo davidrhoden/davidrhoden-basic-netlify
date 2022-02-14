@@ -16,6 +16,6 @@ tags:
 
 ---
 
-![David Rhoden's cat Sally, stretching on a printer.](static/img/sally/sally-on-printer-aug-28-2011/sally-on-printer-aug-29-2011-on-printer.jpg)
+![David Rhoden's cat Sally, stretching on a printer.](/static/img/sally/sally-on-printer-aug-28-2011/sally-on-printer-aug-29-2011-on-printer.jpg)
 
-![David Rhoden's cat Sally, yawning.](static/img/sally/sally-on-printer-aug-28-2011/sally-on-printer-aug-29-2011-yawns.jpg)
+![David Rhoden's cat Sally, yawning.](/static/img/sally/sally-on-printer-aug-28-2011/sally-on-printer-aug-29-2011-yawns.jpg)

@@ -15,6 +15,6 @@ tags:
 
 ---
 
-![sketch of a spotted pit bull](static/img-timeline/daisy-sketch-nov-18-2017.jpg "csketch of a spotted pit bull")
+![sketch of a spotted pit bull](/static/img-timeline/daisy-sketch-nov-18-2017.jpg "csketch of a spotted pit bull")
 
 Daisy is a skinny little pit bull Gina found on the levee. She likes to have company on the couch. In fact she kinda likes to be sat upon.

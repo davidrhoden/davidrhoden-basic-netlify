@@ -22,7 +22,7 @@ tags:
 
 ![Pensacola Regatta 2012.](/static/img/timeline/regatta-jul-1-2012/regatta-jul-1-2012.jpg)
 
-![Pensacola Regatta 2012.](static/img/timeline/regatta-jul-1-2012/regatta-jul-1-2012-on-boat.jpg)
+![Pensacola Regatta 2012.](/static/img/timeline/regatta-jul-1-2012/regatta-jul-1-2012-on-boat.jpg)
 
 ![Pensacola Regatta 2012.](/static/img/timeline/regatta-jul-1-2012/regatta-champs-jul-1-2012.jpg)
 

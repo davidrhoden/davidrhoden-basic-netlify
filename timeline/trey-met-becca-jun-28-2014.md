@@ -21,4 +21,4 @@ We decided we would go. When we got there, Trey was his usual voluble self. I'd 
 
 
 ![Becca](/static/img/timeline/becca-brunch-mar-12-2017.jpg "Becca")
-![Trey](static/img/timeline/trey-brunch-mar-12-2017.jpg "Trey")
+![Trey](/static/img/timeline/trey-brunch-mar-12-2017.jpg "Trey")

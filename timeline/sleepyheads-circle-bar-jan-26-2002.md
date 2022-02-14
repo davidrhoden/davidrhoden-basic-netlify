@@ -19,35 +19,35 @@ We seemed to play almost every weekend around this time. Our organist, Jay Thoma
     <button id="buttonPrevious">&#10094;</button>
     <button id="buttonNext">&#10095;</button>
 
-![Sleepy Heads at Circle Bar, January 26, 2002](static/img/rock/sleepyheads/sleepy-heads-circle-bar-jan-26-2002/sleepy-heads-jan-26-2002-057.jpg)
+![Sleepy Heads at Circle Bar, January 26, 2002](/static/img/rock/sleepyheads/sleepy-heads-circle-bar-jan-26-2002/sleepy-heads-jan-26-2002-057.jpg)
 
-![Sleepy Heads at Circle Bar, January 26, 2002](static/img/rock/sleepyheads/sleepy-heads-circle-bar-jan-26-2002/sleepy-heads-jan-26-2002-058.jpg)
+![Sleepy Heads at Circle Bar, January 26, 2002](/static/img/rock/sleepyheads/sleepy-heads-circle-bar-jan-26-2002/sleepy-heads-jan-26-2002-058.jpg)
 
-![Sleepy Heads at Circle Bar, January 26, 2002](static/img/rock/sleepyheads/sleepy-heads-circle-bar-jan-26-2002/sleepy-heads-jan-26-2002-058.jpg)
+![Sleepy Heads at Circle Bar, January 26, 2002](/static/img/rock/sleepyheads/sleepy-heads-circle-bar-jan-26-2002/sleepy-heads-jan-26-2002-058.jpg)
 
-![Sleepy Heads at Circle Bar, January 26, 2002](static/img/rock/sleepyheads/sleepy-heads-circle-bar-jan-26-2002/sleepy-heads-jan-26-2002-061.jpg)
+![Sleepy Heads at Circle Bar, January 26, 2002](/static/img/rock/sleepyheads/sleepy-heads-circle-bar-jan-26-2002/sleepy-heads-jan-26-2002-061.jpg)
 
-![Sleepy Heads at Circle Bar, January 26, 2002](static/img/rock/sleepyheads/sleepy-heads-circle-bar-jan-26-2002/sleepy-heads-jan-26-2002-062jpg)
+![Sleepy Heads at Circle Bar, January 26, 2002](/static/img/rock/sleepyheads/sleepy-heads-circle-bar-jan-26-2002/sleepy-heads-jan-26-2002-062jpg)
 
-![Sleepy Heads at Circle Bar, January 26, 2002](static/img/rock/sleepyheads/sleepy-heads-circle-bar-jan-26-2002/sleepy-heads-jan-26-2002-063.jpg)
+![Sleepy Heads at Circle Bar, January 26, 2002](/static/img/rock/sleepyheads/sleepy-heads-circle-bar-jan-26-2002/sleepy-heads-jan-26-2002-063.jpg)
 
-![Sleepy Heads at Circle Bar, January 26, 2002](static/img/rock/sleepyheads/sleepy-heads-circle-bar-jan-26-2002/sleepy-heads-jan-26-2002-064.jpg)
+![Sleepy Heads at Circle Bar, January 26, 2002](/static/img/rock/sleepyheads/sleepy-heads-circle-bar-jan-26-2002/sleepy-heads-jan-26-2002-064.jpg)
 
-![Sleepy Heads at Circle Bar, January 26, 2002](static/img/rock/sleepyheads/sleepy-heads-circle-bar-jan-26-2002/sleepy-heads-jan-26-2002-065.jpg)
+![Sleepy Heads at Circle Bar, January 26, 2002](/static/img/rock/sleepyheads/sleepy-heads-circle-bar-jan-26-2002/sleepy-heads-jan-26-2002-065.jpg)
 
-![Sleepy Heads at Circle Bar, January 26, 2002](static/img/rock/sleepyheads/sleepy-heads-circle-bar-jan-26-2002/sleepy-heads-jan-26-2002-068.jpg)
+![Sleepy Heads at Circle Bar, January 26, 2002](/static/img/rock/sleepyheads/sleepy-heads-circle-bar-jan-26-2002/sleepy-heads-jan-26-2002-068.jpg)
 
-![Sleepy Heads at Circle Bar, January 26, 2002](static/img/rock/sleepyheads/sleepy-heads-circle-bar-jan-26-2002/sleepy-heads-jan-26-2002-075.jpg)
+![Sleepy Heads at Circle Bar, January 26, 2002](/static/img/rock/sleepyheads/sleepy-heads-circle-bar-jan-26-2002/sleepy-heads-jan-26-2002-075.jpg)
 
-![Sleepy Heads at Circle Bar, January 26, 2002](static/img/rock/sleepyheads/sleepy-heads-circle-bar-jan-26-2002/sleepy-heads-jan-26-2002-111.jpg)
+![Sleepy Heads at Circle Bar, January 26, 2002](/static/img/rock/sleepyheads/sleepy-heads-circle-bar-jan-26-2002/sleepy-heads-jan-26-2002-111.jpg)
 
-![Sleepy Heads at Circle Bar, January 26, 2002](static/img/rock/sleepyheads/sleepy-heads-circle-bar-jan-26-2002/sleepy-heads-jan-26-2002-1179.jpg)
+![Sleepy Heads at Circle Bar, January 26, 2002](/static/img/rock/sleepyheads/sleepy-heads-circle-bar-jan-26-2002/sleepy-heads-jan-26-2002-1179.jpg)
 
-![Sleepy Heads at Circle Bar, January 26, 2002](static/img/rock/sleepyheads/sleepy-heads-circle-bar-jan-26-2002/sleepy-heads-jan-26-2002-1697.jpg)
+![Sleepy Heads at Circle Bar, January 26, 2002](/static/img/rock/sleepyheads/sleepy-heads-circle-bar-jan-26-2002/sleepy-heads-jan-26-2002-1697.jpg)
 
-![Sleepy Heads at Circle Bar, January 26, 2002](static/img/rock/sleepyheads/sleepy-heads-circle-bar-jan-26-2002/sleepy-heads-jan-26-2002-1704.jpg)
+![Sleepy Heads at Circle Bar, January 26, 2002](/static/img/rock/sleepyheads/sleepy-heads-circle-bar-jan-26-2002/sleepy-heads-jan-26-2002-1704.jpg)
 
-![Sleepy Heads at Circle Bar, January 26, 2002](static/img/rock/sleepyheads/sleepy-heads-circle-bar-jan-26-2002/sleepy-heads-jan-26-2002-049.jpg)
+![Sleepy Heads at Circle Bar, January 26, 2002](/static/img/rock/sleepyheads/sleepy-heads-circle-bar-jan-26-2002/sleepy-heads-jan-26-2002-049.jpg)
 
 
 </div>
