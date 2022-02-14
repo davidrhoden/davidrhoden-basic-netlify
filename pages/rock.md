@@ -216,7 +216,7 @@ Lots of recordings, very disorganized. Coming soon or at least someday.
 
 ![The Innuendos: Joe Fusco, Jahna Rain, David Rhoden, NYC](/static/img/rock/innuendos960x640.jpg)
 
-We did record some good stuff with Mitro Valsamis but I don't appear to have a copy. (EDIT: Jahna sent me copies or the recording, so here they are!)
+We did record some good stuff with Mitro Valsamis but I don't appear to have a copy. (EDIT: Jahna sent me copies of the recording, so here they are!)
 
 
 

@@ -22,4 +22,4 @@ tags:
 
 I feel like this show ended up getting canceled after the advertising was done. Anybody remember diferent?
 
-![Flyer for Bad Times and Stacks at Ernie K-Doe's Mother-In Law Lounge](static/img/rock/stacks/stacks-bad-times-flyer-feb-9-2001.jpg)
+![Flyer for Bad Times and Stacks at Ernie K-Doe's Mother-In Law Lounge](/static/img/rock/stacks/stacks-bad-times-flyer-feb-9-2001.jpg)
