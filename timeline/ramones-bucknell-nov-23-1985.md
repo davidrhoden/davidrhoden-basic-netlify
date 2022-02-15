@@ -9,11 +9,14 @@ year: 1985
 tags:
   - post
   - Ramones
+  - Reducers
   - rock
   - shows
+  - vintage shoes
   - Pennsylvania
-  - Bucknell U.
+  - Bucknell University
   - Chris Johanson
+  - Summit, New Jersey
 
 ---
 
@@ -21,4 +24,6 @@ tags:
 
 ![signed Ramones poster](/static/img/timeline/ramones-bucknell-nov-23-1985.jpg "signed Ramones poster")
 
-(I found this poster on the internet, I don't own it.)
+(I found this poster on the internet, I don't own it.) The Special guest was The Reducers.
+
+We stayed at CJ's house in Summit, New Jersey the night before. I think that was the first time I saw New York City, though it was from a distance.

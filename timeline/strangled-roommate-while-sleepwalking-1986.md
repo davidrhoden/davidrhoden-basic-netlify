@@ -1,6 +1,6 @@
 ---
 title: I tried to strangle my roommate while sleepwalking.
-date: 1986-12-01T23:00:00.000Z
+date: 1987-12-01T23:00:00.000Z
 summary: Date approximate.
 excerpt: Date approximate.
 category: timeline
