@@ -64,6 +64,7 @@ eleventyNavigation:
 ![Party Don't sketchbook entry by David Rhoden](/static/img/sketchbook/partydont.jpg?nf_resize=fit&h=500)
 ![sketchbook entry by David Rhoden](/static/img/sketchbook/170423grocerylistguy.jpg?nf_resize=fit&h=500)
 ![sketchbook entry by David Rhoden](/static/img/sketchbook/hipsterwithbeer.png?nf_resize=fit&h=500)
+![Fresh Meat sketchbook entry by David Rhoden](/static/img/sketchbook/fresh-meat-feb-20-2017.jpg?nf_resize=fit&h=500)
 ![sketchbook entry by David Rhoden](/static/img/sketchbook/170417getupstandup.jpg?nf_resize=fit&h=500)
 ![sketchbook entry by David Rhoden](/static/img/sketchbook/mgsuit02.jpg?nf_resize=fit&h=500)
 ![sketchbook entry by David Rhoden](/static/img/sketchbook/mybuttmgsuit.jpg?nf_resize=fit&h=500)

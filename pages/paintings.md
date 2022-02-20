@@ -12,6 +12,7 @@ eleventyNavigation:
   order: 3
 
 ---
+1. ![Unimog painting by David Rhoden](/static/img/paintings/unimog-feb-19-2022.jpg?nf_resize=fit&w=960)
 1. ![Rayco stumpgrinder painting by David Rhoden](/static/img/paintings/rayco-flat-feb-1-2021.jpg?nf_resize=fit&w=960)
 1. ![Reporter painting by David Rhoden](/static/img/paintings/reporter-feb-11-2021.jpg?nf_resize=fit&w=960)
 1. ![Organic form painting by David Rhoden](/static/img/paintings/organic-form-something-jan-17-2021.jpg?nf_resize=fit&w=960)
