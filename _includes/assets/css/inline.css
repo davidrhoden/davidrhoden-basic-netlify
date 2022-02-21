@@ -257,7 +257,6 @@ header nav li a[data-current="current item"] {
 }
 
 .home {
-  background: var(--blue);
   overflow-x: hidden;
 }
 
@@ -266,6 +265,12 @@ header nav li a[data-current="current item"] {
   margin-bottom: 2rem;
 }
 
+.home h2 {
+  font-family: var(--font-secondary);
+  font-weight: 600;
+  font-size: 3em;
+  margin: 0;
+}
 .self-portrait {
   border-radius: 2em; 
   height: auto; 
@@ -440,7 +445,7 @@ ol li::before {
 /******* HOME *******/
 
 .home main {
-  background: var(--blue);
+  background: white;
   position: relative;
     margin: 0 auto;
     width: 100%;
@@ -491,9 +496,62 @@ p.postdate h3 {
 }
 
 .polaroid, main .polaroid:first-child , main > article .polaroid:first-child {
-  background: var(--white);
+/*  background: var(--white);
   padding: 1em;
-  margin-bottom: 1em;
+  margin-bottom: 1em;*/
+}
+
+
+.polaroid.animations {
+  background: url(/static/img/animations/160628_waver_600.gif) center center no-repeat;
+}
+
+.polaroid.designs {
+  background: url(/static/img/designs/TalbotAdamsAlbum.jpg) center center no-repeat;
+}
+
+.polaroid.forsale {
+  background: url(/static/img/designs/Bottle-CapTeeTurquoise.jpg) center center no-repeat;
+}
+
+.polaroid.illustrations {
+  background: url(/static/img/illustrations/harbo.jpg) center center no-repeat;
+}
+
+.polaroid.paintings {
+  background: url(/static/img/paintings/organicform5-chromeyellow-sq.jpg) center center no-repeat;
+}
+
+.polaroid.rock {
+  background: url(/static/img/rock/all-night-movers/all-night-movers-dave-jul-27-2002.jpg) center center no-repeat;
+}
+
+.polaroid.sketchbook {
+  background: url(/static/img/sketchbook/aah-guy.jpg) center center no-repeat;
+}
+
+.polaroid.timeline {
+  background: url(/static/img/paintings/bigface_sq.jpg) center center no-repeat;
+}
+
+.polaroid.web {
+  background: url(/static/img/web/edison.jpg) center center no-repeat;
+}
+
+
+.polaroid {
+  background-size: cover;
+  display: grid;
+  align-content: center;
+  justify-content: center;
+  padding:  25em 0;
+}
+
+.polaroid div {
+  background: white;
+  padding: 1em;
+  margin:  0 auto;
+  width:  90%;
 }
 
 /******* BEGIN PHOTO-TIMELINE *******/
@@ -759,13 +817,7 @@ span.fade:hover {
 
   .grid-home {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    grid-template-rows: repeat(3, 1fr);
     gap: 2em 2em;
-    grid-template-areas:
-      ". . ."
-      ". . ."
-      ". . .";
   }
 
   .home .intro-home {
