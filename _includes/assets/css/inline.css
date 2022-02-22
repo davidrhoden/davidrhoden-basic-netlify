@@ -521,7 +521,6 @@ p.postdate h3 {
 .polaroid.paintings {
   background: url(/static/img/paintings/organicform5-chromeyellow-sq.jpg) center center no-repeat;
   margin:  0 auto;
-  padding:  20em;
   width:  50%;
 }
 
@@ -531,7 +530,6 @@ p.postdate h3 {
 
 .polaroid.sketchbook {
   background: url(/static/img/sketchbook/aah-guy.jpg) center center no-repeat;
-  padding:  12em;
 }
 
 .polaroid.timeline {
@@ -547,7 +545,7 @@ p.postdate h3 {
   display: grid;
   align-content: center;
   justify-content: center;
-  padding:  12em 0;
+  padding: 12em 0;
 }
 
 .polaroid div {
