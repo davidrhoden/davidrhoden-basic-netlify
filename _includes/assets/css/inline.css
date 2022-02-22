@@ -520,6 +520,9 @@ p.postdate h3 {
 
 .polaroid.paintings {
   background: url(/static/img/paintings/organicform5-chromeyellow-sq.jpg) center center no-repeat;
+  margin:  0 auto;
+  padding:  20em;
+  width:  50%;
 }
 
 .polaroid.rock {
@@ -528,6 +531,7 @@ p.postdate h3 {
 
 .polaroid.sketchbook {
   background: url(/static/img/sketchbook/aah-guy.jpg) center center no-repeat;
+  padding:  12em;
 }
 
 .polaroid.timeline {
@@ -538,13 +542,12 @@ p.postdate h3 {
   background: url(/static/img/web/edison.jpg) center center no-repeat;
 }
 
-
 .polaroid {
   background-size: cover;
   display: grid;
   align-content: center;
   justify-content: center;
-  padding:  25em 0;
+  padding:  12em 0;
 }
 
 .polaroid div {
