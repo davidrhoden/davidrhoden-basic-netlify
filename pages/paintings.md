@@ -21,7 +21,7 @@ eleventyNavigation:
 1. ![Organic form painting by David Rhoden](/static/img/paintings/organicform5-chromeyellow-sq.jpg?nf_resize=fit&w=960)
 1. ![Give Me Your Money painting by David Rhoden](/static/img/paintings/Give-Me-Your-Money.jpg?nf_resize=fit&w=960)
 1. ![Keys painting by David Rhoden](/static/img/paintings/keys1200.jpg?nf_resize=fit&w=960)
-1. ![Bus painting by David Rhoden](/static/img/paintings/bus-painting-20190924.jpg?nf_resize=fit&w=960)
+1. ![Bus painting by David Rhoden](/static/img/paintings/bus-painting-sep-24-2019.jpg?nf_resize=fit&w=960)
 1. ![Long Legs painting by David Rhoden](/static/img/paintings/long-legs-20200101.jpg?nf_resize=fit&w=960)
 1. ![Kiss Guy painting by David Rhoden](/static/img/paintings/kissguy-sq.jpg?nf_resize=fit&w=960)
 1. ![Avatar painting by David Rhoden](/static/img/paintings/avatar.jpg?nf_resize=fit&w=960)
