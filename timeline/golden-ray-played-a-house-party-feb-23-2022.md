@@ -9,8 +9,10 @@ tags:
   - post 
   - New Orleans
   - rock
+  - house shows
   - Golden Ray
   - Magazine Street
+  - Greg D.
 
 ---
 
@@ -19,5 +21,7 @@ tags:
 Andrew pointed out that there was no way the cops would even come, and that if they did they probably wouldn't do anything. I agreed that this was a good point but then again, getting along with Greg's neighbor isn't really our problem.
 
 We ended up playing about a 75% set, though we had to play inside, and really quiet. Not even sure how that was different. It was all right. Nobody called the cops. I try to keep expectations really low when playing these non-gig gigs.
+
+I did manage to smack myself in the face with my own bass guitar and open up a cut on my left eyebrow. Memories.
 
 ![Golden Ray on Greg's porch March 30, 2021.](/static/img/rock/golden-ray/golden-ray-porch-mar-30-2021.jpg)
