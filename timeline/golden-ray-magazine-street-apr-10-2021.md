@@ -1,5 +1,5 @@
 ---
-title: the debut of Golden Ray
+title: The debut of Golden Ray.
 date: 2021-03-30T12:16:54.626Z
 summary: A new band rising from the ashes of the Stacks, who haven't actually burned down.
 image: rock/golden-ray-band-photo-apr-10-2021.jpg
@@ -12,6 +12,7 @@ tags:
   - New Orleans
   - Magazine Street
   - Bandcamp
+  - Greg D.
 
 
 ---
