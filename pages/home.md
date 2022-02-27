@@ -17,17 +17,15 @@ image: /static/img/about/david-with-beard-oct-1-2020-7bb4fb.jpg
         <!-- <img src="/static/img/web/edison.jpg" alt="website designed and built by David Rhoden"> -->
         <h2>Web Development</h2>
       </a>
-      <p>O.K., let's discuss. First question: have you considered Squarespace?</p>
-      <p>I'm available for <a href="/contact">freelance web development jobs</a>, but unless<br>
-      you have a big database or something, probably what you want is Squarespace.</p>
+      <p>I've been a web developer for more than 20 years. PHP, Django, Ruby on Rails, and a great deal of CSS and HTML.</p>
     </div>
   </div>
-  <div class="polaroid paintings" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="0">
+    <div class="polaroid timeline" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="100">
     <div>
-      <a href="paintings">
-        <h2>Paintings</h2>
+      <a href="timeline">
+        <h2>Timeline</h2>
       </a>
-      <p>Mostly signpainter's enamel on shaped plywood, if you're wondering.</p>
+      <p>A personal project to record as much of my life as I can remember in diary form.<br>As close to a memoir as I'm likely to get.</p>
     </div>
   </div>
   <div class="polaroid illustrations" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="100">
@@ -36,6 +34,14 @@ image: /static/img/about/david-with-beard-oct-1-2020-7bb4fb.jpg
         <h2>Illustration</h2>
       </a>
       <p>I've been published in a bunch of magazines.<br>And, yes, I <i>should</i> do a children's book. (Why, <a href="mailto:david@davidrhoden.com?subject=Hey, Dave. I wrote a children's book. Maybe you should illustrate it?">did you write one?</a>)</p>
+    </div>
+  </div>
+  <div class="polaroid paintings" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="0">
+    <div>
+      <a href="paintings">
+        <h2>Paintings</h2>
+      </a>
+      <p>Mostly signpainter's enamel on shaped plywood, if you're wondering.</p>
     </div>
   </div>
   <div class="polaroid animations" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="200">
