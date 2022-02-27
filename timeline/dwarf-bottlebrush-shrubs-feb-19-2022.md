@@ -4,7 +4,7 @@ date: 2022-02-19T11:00:00.000Z
 summary: The lady who sold them looked at me like I was too dumb to care for a plant.
 excerpt: The lady who sold them looked at me like I was too dumb to care for a plant.
 category: timeline
-image: timeline/
+image: timeline/dwarf-bottlebrush-1-feb-19-2022.jpg
 tags:
   - post 
   - New Orleans
@@ -13,10 +13,9 @@ tags:
   - birthdays
   - plant stores
 
-
 ---
 
-![(picture to come)]()
+![dwarf bottlebrush trees for Gina's birthday)](/static/img/timeline/dwarf-bottlebrush-1-feb-19-2022.jpg)
 
 Gina's birthday is Monday, but I went shopping today.
 The other night when she was really sleepy I asked what she wanted for her birthday. And she said, almost asleep: "....dwarf...bottlebrush...trees."
@@ -36,3 +35,5 @@ Also I talked to a nice person in line who brushed me accidentally with a bird o
 As we were leaving her car was next to mine. I wanted to say something else less stuupid. I decided to say that was a pretty plant. (It was.) 
 She spoke first. "Happy planting!"
 I thought that was good, and I should respond, but I was also thinking "maybe saying 'pretty plant' is too much", so I said: "That's a cute plant."
+
+![dwarf bottlebrush trees for Gina's birthday)](/static/img/timeline/dwarf-bottlebrush-2-feb-19-2022.jpg)
