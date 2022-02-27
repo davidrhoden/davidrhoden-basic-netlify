@@ -22,6 +22,9 @@ And: [My Redbubble store](https://www.redbubble.com/people/davidrhoden/shop) (st
 ## Paintings
 
 
+![Unimog painting by David Rhoden](/static/img/paintings/unimog-feb-20-2022.jpg?nf_resize=fit&w=640)
+Monster. $300
+
 ![Many-eyed Monster painting by David Rhoden](/static/img/paintings/many-eyes-dec-13-2020.jpg?nf_resize=fit&w=640)
 Monster. $100
 
@@ -47,10 +50,7 @@ Long Legs. $200.
 Keys. $200
 
 ![Pink Face painting by David Rhoden](/static/img/paintings/pink-face.jpg)
-Pink Face. $120
-
-![Cloudmouths painting by David Rhoden](/static/img/paintings/cloudmouths.jpg?nf_resize=fit&w=640)
-Cloudmouths. $120
+Pink Face. $100
 
 ![Inhaler on Paper by David Rhoden](/static/img/paintings/inhaler-on-paper.jpg)
 Inhaler on Paper. $100
