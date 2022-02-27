@@ -302,9 +302,9 @@ main img.thumbnail {
 
 a.tiny-thumbnail {
   display: block;
-  height: 64px;
+  height: 128px;
   position: relative;
-  width: 64px;
+  width: 128px;
 }
 
 a.tiny-thumbnail.text-timeline {
@@ -408,7 +408,7 @@ footer small {
 }
 
 .tiny-thumbnail img {
-  min-height: 64px;
+  min-height: 128px;
   width: auto;
 }
 
@@ -907,17 +907,17 @@ span.fade:hover {
 
   .photo-timeline-link {
     display: inline-block; 
-    height: 64px;
+    height: 128px;
     margin: 2px;
     overflow: hidden;
-    width: 64px;
+    width: 128px;
   }
 
   .post-year {
     display: inline-block;
     margin:  2px;
     padding: .5em;
-    width: 64px;
+    width: 128px;
   }
 
   .self-portrait {
