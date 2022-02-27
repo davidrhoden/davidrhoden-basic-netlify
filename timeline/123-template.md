@@ -6,7 +6,7 @@ excerpt: text
 category: timeline
 image: timeline/
 tags:
-  - pos-t 
+  - include p o s t tag 
   - New Orleans
 ---
 
