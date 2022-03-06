@@ -14,4 +14,4 @@ tags:
 
 ---
 
-I think this was the only time I saw Michael Chandler play live? I had been a big fan of his bands The Outta place and the Raunch Hands. Lost Crusaders wwere good too.
+I think this was the only time I saw Michael Chandler play live? I had been a big fan of his bands The Outta place and the Raunch Hands. Lost Crusaders were good too.
