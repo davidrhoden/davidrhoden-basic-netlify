@@ -22,9 +22,9 @@ tags:
 
 ![people at Jacques-Imo's](/static/img/timeline/jacques-imos-jan-20-2008/jacques-imos-jan-20-2008-bj-and-scott.jpg)
 
-![people at Jacques-Imo's](/static/img/timeline/jacques-imos-jan-20-2008/jacques-imos-jan-20-2008-c-&-B-#2.jpg)
+![people at Jacques-Imo's](/static/img/timeline/jacques-imos-jan-20-2008/jacques-imos-jan-20-2008-c-&-b2.jpg)
 
-![people at Jacques-Imo's](/static/img/timeline/jacques-imos-jan-20-2008/jacques-imos-jan-20-2008-c-&b.jpg)
+![people at Jacques-Imo's](/static/img/timeline/jacques-imos-jan-20-2008/jacques-imos-jan-20-2008-c-&-b.jpg)
 
 ![people at Jacques-Imo's](/static/img/timeline/jacques-imos-jan-20-2008/jacques-imos-jan-20-2008-class.jpg)
 
