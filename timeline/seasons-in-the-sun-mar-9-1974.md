@@ -6,7 +6,7 @@ excerpt:  I had to go to a special doctor.
 tags:
   - post 
   - Chattanooga
-  - fear
+  - fear (the concept)
   - death
   - "Seasons In the Sun"
   - Terry Jacks

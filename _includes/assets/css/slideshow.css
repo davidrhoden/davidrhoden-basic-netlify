@@ -34,11 +34,18 @@
 }
 
 #viewport button#buttonNext, #viewport button#buttonPrevious {
+    position: absolute;
     display: grid;
     height: 36px;
     padding: 0;
     place-items: center;
-    width: 36px%;
+    width: 36px;
+    top: 35%;
+    z-index: 2;
+}
+
+#viewport button#buttonNext {
+  right: 0;
 }
 
 #caption {
