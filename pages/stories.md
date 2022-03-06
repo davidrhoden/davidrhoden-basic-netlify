@@ -38,6 +38,8 @@ November 7, 1976: Saw Georgia Tech beat Notre Dame without completing or attempt
 https://ramblinwreck.com/beat-notre-dame-without-throwing-a-pass-georgia-tech-did-it-in-1976/
 Had boiled peanuts.
 
+Went to Confederama.
+
 ## 1977
 
 Boyd-Buchanan day camp.
@@ -146,7 +148,12 @@ The day I messed up the tie dye....now I feel bad every time I see Hans Humes on
 
 Got my FCC broadcasting license. Made a PSA and a station ID.
 
+Stomped on my friend's beloved cognac glass and it killed our friendship.
+
 Went to New York City for the first time.
+
+Went to Vermont for Thanksgiving.
+
 
 Went to Saratoga Springs.
 
@@ -158,11 +165,21 @@ Acted in Lone Star.
 
 Hitchhiked to Boston with Mark Barr.
 
+Went to Confederama for the second time with C.J. and Mark.
+
 ## 1987
 
 Moves to Boston and lived in a tent (indoors).
 
+Saw Sherman's March at some theater in Boston.
+
 Harvard College face plant.
+
+Played drums once with The Eels.
+
+Tried to throw our trash off the fire escape into Dunkin' Donuts dumpster but didn't quite make it.
+
+Saw Hellzapoppin' at Brattle Cinema.
 
 Get money back for free theater tickets.
 
@@ -177,6 +194,10 @@ Tried out for kicker on the Tennessee Vols.
 Went to Sam & Andy's Deli a lot.
 
 Got tapes from Roscoe.
+
+Bev got married?
+
+Took my last Greyhound bus--theere was one open seat and the guy sitting next to it told me he'd kill me if I sat there.
 
 Returned a very overdue VHS tape only to have the video store close the next day.
 
@@ -271,6 +292,10 @@ Met Marinza.
 Worked at at a hideous place called Diefenbach-Elkins.
 
 Went to Chattanooga for Papaw's funeral.
+
+## 1994
+
+Feb 22, 1994 Went to Conana taping. Guests were Al Franken/Buddy Ebsen/Nick Heyward.
 
 ## 1995
 
@@ -429,7 +454,7 @@ Betty died?
 
 ## 2007
 
-Art show at Maiden, Brooklyn.s
+Art show at Maiden, Brooklyn.
 
 ## 2009
 

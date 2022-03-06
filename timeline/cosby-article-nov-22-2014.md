@@ -12,6 +12,7 @@ tags:
   - The New York Times
   - David Montgomery
   - Kate Zernike
+  - Bill Cosby
   - stories
 
 ---

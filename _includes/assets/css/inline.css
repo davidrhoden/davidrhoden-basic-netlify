@@ -501,7 +501,6 @@ p.postdate h3 {
   margin-bottom: 1em;*/
 }
 
-
 .polaroid.animations {
   background: url(/static/img/animations/160628_waver_600.gif) center center no-repeat;
 }
@@ -520,8 +519,6 @@ p.postdate h3 {
 
 .polaroid.paintings {
   background: url(/static/img/paintings/organicform5-chromeyellow-sq.jpg) center center no-repeat;
-  margin:  0 auto;
-  width:  50%;
 }
 
 .polaroid.rock {
@@ -840,6 +837,11 @@ span.fade:hover {
 
   .home .intro-home p {
     line-height: 1.5;
+  }
+
+  .polaroid.paintings {
+    margin:  0 auto;
+    width:  50%;
   }
 
   .chevron {
