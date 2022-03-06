@@ -22,4 +22,4 @@ Lounge Lizards was always good for us; it seems like the wrongest place to see t
 
 The Spinns, who we knew from MAXIMVS, were good too. Those guys loved to drink. The bass player basically went missing.
 
-I'd later play one show in Brooklyn (at Don Pedro's) with the Spinns' Todd Colberg's band. I don't know if we even had a name for that gig.
+I'd later play one show in Brooklyn (at Don Pedro's) with the Spinns' Todd Colberg's band, Olaf and the Siberians. I don't know if we even had a name for that gig.
