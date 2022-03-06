@@ -25,7 +25,7 @@
     opacity: 1;
 }
 
-#viewport button:not(.gsc-search-button, .hamburger, .submit,) {
+#viewport button:not(.gsc-search-button, .hamburger, .submit) {
     display: grid;
     height: 36px;
     padding: 0;
@@ -40,7 +40,7 @@
     padding: 0;
     place-items: center;
     width: 36px;
-    top: 35%;
+    top: 50%;
     z-index: 2;
 }
 
