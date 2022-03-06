@@ -25,12 +25,20 @@
     opacity: 1;
 }
 
-#viewport button {
-  display: grid;
-  height: 36px;
-  padding: 0;
+#viewport button:not(.gsc-search-button, .hamburger, .submit,) {
+    display: grid;
+    height: 36px;
+    padding: 0;
     place-items: center;
     width: 45%;
+}
+
+#viewport button#buttonNext, #viewport button#buttonPrevious {
+    display: grid;
+    height: 36px;
+    padding: 0;
+    place-items: center;
+    width: 36px%;
 }
 
 #caption {
