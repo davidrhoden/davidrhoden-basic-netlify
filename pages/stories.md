@@ -227,7 +227,7 @@ Everything Tool played Antenna club in Memphis.
 
 Saw Meat Puppets in Nashville. Cantrell's?
 
-Everything Tool played an Irish bar in Memphis, it was extra cold.
+Everything Tool played an Irish bar called Murphy's in Memphis, it was extra cold.
 
 Grifters at Snake Snatch.
 
@@ -254,6 +254,24 @@ Stepped in dog shit leaving a Halloween party with Al, Jason, and Rick.
 Drove to New York City with Al.
 
 ## 1990
+
+Worked at Davis-Kidd Booksellers.
+
+Rode the bus almost daily with a mad who was covered with what appeared to be warts.
+
+Read Cormac McCarthy on the bus, but not sure what book.
+
+Got embarassed by Pat Price for singing I'm In The Mood For Love.
+
+Accidentally commented on a co-worker's eczema.
+
+Refused to sell porn to underage girls.
+
+Worked with a descendent of Goethe.
+
+Ate at Provino's a lot.
+
+Got ripped off by a Bible switcher.
 
 Saw Masters of Reality with Ginger Baker at Arnold's.
 

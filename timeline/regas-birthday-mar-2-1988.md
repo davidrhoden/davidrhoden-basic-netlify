@@ -17,6 +17,6 @@ tags:
 
 ---
 
-Katie and I went to Regas for a birthday (as evidenced by the birthday cake on thee table). I'm pretty sure it was my birthday, but can't be entirely sure.
+Katie and I went to Regas for a birthday (as evidenced by the birthday cake on thee table). I'm pretty sure it was my birthday, but can't be entirely sure. Definitely not sure of the year.
 
-Regas was kind of a hoot. It was supposed to the _the_ fancy place in Downtown Knoxville but mostly it was just old. It was the first and I guess the last time I went to an eating place with a lounge singer. I had the prime rib (which was what you were expected to get at Regas) and it was nice but not impressive.
+Regas was kind of a hoot. It was supposed to be _the_ fancy place in Downtown Knoxville but mostly it was just old school. It was the first and I guess the last time I went to an eating place with a lounge singer. I had the prime rib (which was what you were expected to get at Regas) and it was nice but not impressive.
