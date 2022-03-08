@@ -2,9 +2,9 @@
   publish = "_site"
   command = "eleventy"
 
-[build.environment]
-  NODE_VERSION="16.5.0"
-  NODE_OPTIONS="--max-old-space-size=8192"
+#[build.environment]
+# NODE_VERSION="16.5.0"
+# NODE_OPTIONS="--max-old-space-size=8192"
 
 # [[plugins]]
 # package = "@netlify/plugin-sitemap"
