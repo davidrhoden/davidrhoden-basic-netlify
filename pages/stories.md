@@ -146,14 +146,13 @@ Lost a lot of chess matches to Gus Consing.
 
 The day I messed up the tie dye....now I feel bad every time I see Hans Humes on tv.
 
-Got my FCC broadcasting license. Made a PSA and a station ID.
+Got my FCC broadcasting license. Made a PSA and a station ID. DJed on WCFM.
 
 Stomped on my friend's beloved cognac glass and it killed our friendship.
 
 Went to New York City for the first time.
 
 Went to Vermont for Thanksgiving.
-
 
 Went to Saratoga Springs.
 
@@ -167,9 +166,14 @@ Hitchhiked to Boston with Mark Barr.
 
 Went to Confederama for the second time with C.J. and Mark.
 
+Really liked the album Free Dirt by Died Pretty.
+
+This was a wild year and yet it's hard to remember everything that happened and when.
+
+
 ## 1987
 
-Moves to Boston and lived in a tent (indoors).
+Took the bus to Boston (24-hours plus on a bus) and lived in a tent (indoors).
 
 Saw Sherman's March at some theater in Boston.
 
@@ -185,7 +189,7 @@ Get money back for free theater tickets.
 
 Worked at Copy Cop.
 
-Walked around Boston noting down strange graffiti.
+Walked around Boston noting down strange graffiti like "THE POPE WENT TO COLLEGE".
 
 ## 1988
 
@@ -249,6 +253,10 @@ Went to Hawkeye's for my first beer in a month.
 
 Fell while walking with crutches.
 
+Lived with Lawson and Laura on Maplehurst.
+
+Played Pavement and Check Your Head a lot.
+
 Stepped in dog shit leaving a Halloween party with Al, Jason, and Rick.
 
 Drove to New York City with Al.
@@ -276,6 +284,10 @@ Got ripped off by a Bible switcher.
 Saw Masters of Reality with Ginger Baker at Arnold's.
 
 Snake Oil played Arnold's with Flat Duo Jets.
+
+Went to New York to hang out with Art Winer. Met one of the women from Luscious Jackson tending bar at Tile Bar.
+
+Got plowed and got kicked out of a sushi bar for accidentally tossing my chopsticks out of the paper sleeve.
 
 ## 1991
 
