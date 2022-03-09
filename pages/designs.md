@@ -22,7 +22,7 @@ eleventyNavigation:
 
 ![Record sleeve design for The Hi-Balls.](/static/img/designs/record.gif)
 
-![Business card design for a New York City music consultant.](/static/img/designs/rickgoetzcard500.png)
+![Business card design for a New York City music consultant.](/static/img/designs/rick-goetz-card.jpg)
 
 ![T-shirt design for Cotton Bureau.](/static/img/designs/redwomens.jpg)
 
@@ -32,11 +32,11 @@ eleventyNavigation:
 
 ![Poster design for an Ernie K-Doe show.](/static/img/designs/KDOE2CSL.gif)
 
-![Calendar design for The Big Top art space.](/static/img/designs/070702rcpad.jpg)
+![Calendar design for The Big Top art space.](/static/img/designs/3rcp-ad-aug-2-2007.jpg)
 
-![Calendar design for The Big Top art space.](/static/img/designs/0508083rcpad2nd.png)
+![Calendar design for The Big Top art space.](/static/img/designs/3rcp-ad-2nd-aug-8-2005.png)
 
-![Calendar design for The Big Top art space.](/static/img/designs/0805013rcpad.jpg)
+![Calendar design for The Big Top art space.](/static/img/designs/3rcp-ad-may-1-2008.png)
 
 ![Bachelor No. 1 fanzine cover design.](/static/img/designs/bn11.jpg)
 
