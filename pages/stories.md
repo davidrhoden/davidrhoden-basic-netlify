@@ -86,6 +86,8 @@ Laid out in the yard, hungover.
 
 Papaw threw a popsicle in the trash.
 
+Melted "DISCO SUCKS" into Bev's Ktel record. Later found it for sale in a barber shop in Maryland.
+
 Went to John's Island.
 
 Worked for Pop in the summer.
@@ -97,6 +99,8 @@ Drove Ford LTD down Lookout Mountain.
 Played somebody in Ten Little Indians.
 
 Played the vicar Lionel Toop in See How They Run.
+
+
 
 ## 1984
 
@@ -168,6 +172,12 @@ Went to Confederama for the second time with C.J. and Mark.
 
 Really liked the album Free Dirt by Died Pretty.
 
+Drove to Oberlin Ohio to hang out with my girlfriend before I had to go to school at UT.
+
+Lived in Morrill Hall.
+
+Ran into Wendy Farmer while I was hanging out with Kip and introduced them, forgetting it was Wendy who introduced me to Kip.
+
 This was a wild year and yet it's hard to remember everything that happened and when.
 
 
@@ -203,9 +213,9 @@ Bev got married?
 
 Took my last Greyhound bus--theere was one open seat and the guy sitting next to it told me he'd kill me if I sat there.
 
-Returned a very overdue VHS tape only to have the video store close the next day.
+Returned a very overdue VHS tape (_Beyond The Valley Of The Dolls_) only to have the video store close the next day.
 
-Ate at Benji's (and Purgie's) a lot.
+Ate at Benji's (a.k.a Benji's and Purgie's) a lot.
 
 "Look how he look when I ax him do he have sex!"
 
@@ -226,6 +236,8 @@ Working at Stefano's.
 Getting picked up for a demo crew while burying my cat Minerva.
 
 ## 1989
+
+Mike Schiffer joined the band.
 
 Everything Tool played Antenna club in Memphis.
 
@@ -474,7 +486,7 @@ Jan 31: Rode to Chinatown at 5:30 a.m. No memory of it, or why. Worked at Atlas 
 
 Doctor at Woodhull says "You don't _look like_ a head case."
 
-My coat walked away with my keys in it.
+My coat walked away from a party with my keys in it.
 
 Did the worst karaoke ever: "Tell Me Something Good".
 
@@ -485,6 +497,10 @@ Betty died?
 ## 2007
 
 Art show at Maiden, Brooklyn.
+
+Got canned from The Frisky, got a new job the next day fixing som broken Javascript, right around Christmas. Year approximate.
+
+Played drums in Guitar Hero at a work party, did poorly.
 
 ## 2009
 
