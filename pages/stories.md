@@ -337,7 +337,9 @@ Went to Chattanooga for Papaw's funeral.
 
 ## 1994
 
-Feb 22, 1994 Went to Conana taping. Guests were Al Franken/Buddy Ebsen/Nick Heyward.
+Feb 22, 1994 Went to Conan taping. Guests were Al Franken/Buddy Ebsen/Nick Heyward.
+
+Went to Log Beach in a heatwave, wound up watching Apollo 11, maybe twice. Gave water to a delirious lady.
 
 ## 1995
 
@@ -351,7 +353,7 @@ I bought a Fender Jazz bass and tried out for a bunch of bands.
 
 ## 1997
 
-Feb 1: "The Bottom" (seminary show), hosted by Erica Goodman. Didn't work out.
+Feb 1: "The Bottom" (seminary show), hosted by Erica Goodman. Didn't work out. Met the Church Keys and maybe Blair Buscareno?
 
 Feb 22: We played at Brew's and Burnley recorded it.
 
