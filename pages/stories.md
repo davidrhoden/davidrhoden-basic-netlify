@@ -178,6 +178,8 @@ Lived in Morrill Hall.
 
 Ran into Wendy Farmer while I was hanging out with Kip and introduced them, forgetting it was Wendy who introduced me to Kip.
 
+Sold a lot of records to Toonerville Trolley.
+
 This was a wild year and yet it's hard to remember everything that happened and when.
 
 
