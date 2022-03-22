@@ -1,6 +1,6 @@
 ---
 title: I looked at a pedestrian's food for too long.
-date: 1992-09-30T17:30:00.000Z
+date: 1993-09-30T17:30:00.000Z
 summary: I looked at a pedestrian's food for too long.
 excerpt: I looked at a pedestrian's food for too long.
 category: timeline
@@ -9,6 +9,7 @@ tags:
   - post 
   - NYC
   - barbecue
+  - mental illness
   - stories
   - date approximate
   
