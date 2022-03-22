@@ -6,8 +6,8 @@ const slugify = require("slugify");
 const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
 const pluginSEO = require("eleventy-plugin-seo");
 const path = require("path");
-const Image = require("@11ty/eleventy-img");
-const pluginRss = require("@11ty/eleventy-plugin-rss");
+// const Image = require("@11ty/eleventy-img");
+// const pluginRss = require("@11ty/eleventy-plugin-rss");
 
 module.exports = function(eleventyConfig) {
 
@@ -25,7 +25,7 @@ module.exports = function(eleventyConfig) {
     }
   });
 
-  eleventyConfig.addPlugin(pluginRss);
+  // eleventyConfig.addPlugin(pluginRss);
 
   // https://www.11ty.dev/docs/data-deep-merge/
   eleventyConfig.setDataDeepMerge(true);
