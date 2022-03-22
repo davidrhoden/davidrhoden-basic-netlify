@@ -52,9 +52,13 @@ Saw _Bugsy Malone_.
 
 Saw a monkey kill a robin at the National Zoo.
 
+Went to Camp Lookout. Met Danny Castor.
+
 ## 1979 
 
 Started McCallie, had a silly Bible class.
+
+Went to Camp Lookout. 
 
 ## 1980
 
@@ -62,9 +66,15 @@ Pop took me to Leonard's.
 
 Bought Madness' _One Step Beyond_ at the mall in Atlanta.
 
+Went to Camp Lookout. Met Alison C.?
+
 ## 1981
 
 Lady at church says "pooberdy".
+
+Went on a hayride in North Georgia with the youth group.
+
+Was given the single "Hungry Heart" as a Christmas gift.
 
 ## 1982
 
@@ -86,7 +96,7 @@ Laid out in the yard, hungover.
 
 Papaw threw a popsicle in the trash.
 
-Melted "DISCO SUCKS" into Bev's Ktel record. Later found it for sale in a barber shop in Maryland.
+Melted "DISCO SUCKS" into Bev's K-tel record. Later found it for sale in a barber shop in Maryland.
 
 Went to John's Island.
 
@@ -99,8 +109,6 @@ Drove Ford LTD down Lookout Mountain.
 Played somebody in Ten Little Indians.
 
 Played the vicar Lionel Toop in See How They Run.
-
-
 
 ## 1984
 
@@ -172,13 +180,13 @@ Went to Confederama for the second time with C.J. and Mark.
 
 Really liked the album Free Dirt by Died Pretty.
 
+Sold a lot of records to Toonerville Trolley.
+
 Drove to Oberlin Ohio to hang out with my girlfriend before I had to go to school at UT.
 
 Lived in Morrill Hall.
 
 Ran into Wendy Farmer while I was hanging out with Kip and introduced them, forgetting it was Wendy who introduced me to Kip.
-
-Sold a lot of records to Toonerville Trolley.
 
 This was a wild year and yet it's hard to remember everything that happened and when.
 
@@ -212,6 +220,8 @@ Went to Sam & Andy's Deli a lot.
 Got tapes from Roscoe.
 
 Bev got married?
+
+Saw Hoodoo Gurus and Tom Cochrane at UT.
 
 Took my last Greyhound bus--theere was one open seat and the guy sitting next to it told me he'd kill me if I sat there.
 
