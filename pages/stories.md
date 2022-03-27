@@ -40,6 +40,10 @@ Had boiled peanuts.
 
 Went to Confederama.
 
+Played with Playmobil toys.
+
+Refused to finish a crunchy peanut butter sandwich at Kesler's house.
+
 ## 1977
 
 Boyd-Buchanan day camp.
@@ -129,6 +133,8 @@ I got an Oldsmobile Cutlass.
 Played Oscar Madison in The Odd Couple.
 
 Played the farmer in Of Mice And Men.
+
+Worked at an aluminum plant in Nashville with a guy named Al.
 
 ## 1985
 
