@@ -7,7 +7,7 @@ category: timelin
 tags:
   - post 
   - New Orleans
-  - covid
+  - Covid-19
   - urgent care
   - Geoff Gauchet
 

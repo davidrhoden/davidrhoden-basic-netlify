@@ -6,7 +6,7 @@ summary: I guess I got the symptoms for othing.
 tags:
   - post 
   - New Orleans
-  - COVID
+  - Covid-19
 
 ---
 
