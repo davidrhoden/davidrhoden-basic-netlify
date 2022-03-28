@@ -19,7 +19,7 @@ section: timeline
     {% for tag in tags %}
       {%- if tag != "post" -%}
         {% set tagUrl %}/tags/{{ tag | slugify }}/{% endset %}
-        <a href="{{ tagUrl | url }}" rel="tag">{{ tag }}</a>
+        <a href="{{ tagUrl }}" rel="tag">{{ tag }}</a>
       {%- endif -%}
     {% endfor %}
     </p>

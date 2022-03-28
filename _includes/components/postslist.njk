@@ -13,7 +13,7 @@
                 </time>
             </p>
             <h3>
-                <a href="{{ post.url | url }}">
+                <a href="{{ post.url }}">
                     {% if post.data.title %}
                     {{ post.data.title }}
                     {% else %}
@@ -31,7 +31,7 @@
                 {% for tag in post.data.tags %}
                 {%- if tag != "post" -%}
                 {% set tagUrl %}/tags/{{ tag | slug }}/{% endset %}
-                <a href="{{ tagUrl | url }}" rel="tag">{{ tag }}</a>
+                <a href="{{ tagUrl }}" rel="tag">{{ tag }}</a>
                 {%- endif -%}
                 {% endfor %}
             </p>

@@ -9,7 +9,7 @@
       {% endif %}
 {% endif %}
   <li class="list-none">
-    <h2><a href="{{ post.url | url }}">{% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}</a></h2>
+    <h2><a href="{{ post.url }}">{% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}</a></h2>
   </li>
 {% endfor %}
 </ol>

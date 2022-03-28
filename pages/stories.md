@@ -566,6 +566,10 @@ Found a dead possum on Gina's path.
 
 Saw Todd Rundgren at House of Blues gig Sunday, June 23. 2013.
 
+## 2017
+
+Dec 10: Saw Jesus Lizard at Irving Plaza (date, year unclear).
+
 ## 2021
 
 Doctor Aprill funeral.
