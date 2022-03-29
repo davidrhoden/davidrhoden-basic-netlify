@@ -3,7 +3,7 @@ title: Jimmy and The Wolfpack played Lakeside Lounge again.
 date: 2006-04-28T22:00:00.000Z
 summary: Casey Howard was our horn player at the time.
 excerpt: Casey Howard was our horn player at the time.
-image: rock/jandtwp-lakeside-apr-28-2006/jandtwp-lakeside-apr-28-2006.jpg
+image: rock/jandtwp-lakeside-apr-28-2006/jandtwp-flyer060428.jpg
 tags:
   - post 
   - Jimmy and The Wolfpack
@@ -12,6 +12,8 @@ tags:
   - Casey Howard
   - NYC
   - Lakeside Lounge
+  - stencils
+  - flyers
 
 ---
 
@@ -20,3 +22,4 @@ Casey was great too, good player, fun guy...very in demand. We couldn't afford h
 
 ![Jimmy and The Wolfpack played Lakeside Lounge.](/static/img/rock/jandtwp-lakeside-apr-28-2006/jandtwp-lakeside-apr-28-2006.jpg "Jimmy and The Wolfpack played Lakeside Lounge.")
 
+![Jimmy and The Wolfpack played Lakeside Lounge. Stenciled flyer](/static/img/rock/jandtwp-lakeside-apr-28-2006/jandtwp-flyer060428.jpg)
