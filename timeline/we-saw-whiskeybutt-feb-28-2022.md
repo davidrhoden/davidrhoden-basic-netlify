@@ -11,7 +11,6 @@ tags:
   - John Calhoun
   - Gina
 
-
 ---
 
 Their songs are really funny. Also, John Calhoun, the voice of the band, would intro the songs, and sometimes the intros were as long as the songs or longer. This was a great time.
