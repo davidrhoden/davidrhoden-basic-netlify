@@ -217,7 +217,10 @@ Worked at Copy Cop.
 
 Walked around Boston noting down strange graffiti like "THE POPE WENT TO COLLEGE".
 
+
 ## 1988
+
+May 10: Saw Fishbone and Red Hot Chili Peppers in a gym.
 
 Tried out for kicker on the Tennessee Vols.
 
@@ -229,7 +232,7 @@ Bev got married?
 
 Saw Hoodoo Gurus and Tom Cochrane at UT.
 
-Took my last Greyhound bus--theere was one open seat and the guy sitting next to it told me he'd kill me if I sat there.
+Took my last Greyhound bus--there was one open seat and the guy sitting next to it told me he'd kill me if I sat there.
 
 Returned a very overdue VHS tape (_Beyond The Valley Of The Dolls_) only to have the video store close the next day.
 
@@ -262,6 +265,8 @@ Everything Tool played Antenna club in Memphis.
 Saw Meat Puppets in Nashville. Cantrell's?
 
 Everything Tool played an Irish bar called Murphy's in Memphis, it was extra cold.
+
+Saw Fishbone at Arnold's.
 
 Grifters at Snake Snatch.
 
