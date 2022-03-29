@@ -1,7 +1,7 @@
 ---
 title: Painted a luchador.
 date: 2013-11-09T11:00:00.000Z
-image: paintings/el-fuego-mysterioso-nov-9-2013.jpg
+image: paintings/el-fuego-misterioso-nov-9-2013.jpg
 tags:
   - post 
   - New Orleans
@@ -10,4 +10,4 @@ tags:
 
 ---
 
-![El Fuego Mysterioso](/static/img/paintings/el-fuego-mysterioso-nov-9-2013.jpg)
+![El Fuego Mysterioso](/static/img/paintings/el-fuego-misterioso-nov-9-2013.jpg)
