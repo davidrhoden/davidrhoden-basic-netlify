@@ -36,7 +36,8 @@
             {% if post.data.tags %}
               {% for tag in post.data.tags %}
                 {%- if tag != "post" -%}
-                  {{ tag }}</a>
+                  {% set tagUrl %}/tags/{{ tag | slug }}/{% endset %}
+                  <span class="tag">{{ tag }}</span>
                 {%- endif -%}
               {% endfor %}
             {% endif %}

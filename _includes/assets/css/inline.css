@@ -317,7 +317,7 @@ a.tiny-thumbnail.text-timeline {
 
 /* Post Tags */
 a[rel="tag"],
-a[rel="tag"]:visited {
+a[rel="tag"]:visited, span.tag {
   display: inline-block;
     text-transform: uppercase;
   letter-spacing: .1em;
