@@ -16,7 +16,7 @@ layout: layouts/page.njk
 
 <section class="tags-list" id="tags-number-of-posts">
     {% for tag, count in collections.bySize %}
-        {% set tagUrl %}/tags/{{ tag | slug }}/{% endset %}
+        {% set tagUrl %}/tags/{{ tag | slugify }}/{% endset %}
         <a href="{{ tagUrl }}">{{ tag }} ({{ count }})</a> <span class="bullet">&bullet;</span>  
     {% endfor %}
 </section>
