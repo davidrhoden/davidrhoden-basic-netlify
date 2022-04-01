@@ -88,6 +88,8 @@ Kirk Ripley and the bat.
 
 Kirk Ripley and the fans.
 
+Went for a bike ride with my dad and he ripped some guys car antenna off and beat the guy with it.
+
 ## 1983
 
 Meningitis.
@@ -266,6 +268,8 @@ Saw Meat Puppets in Nashville. Cantrell's?
 
 Everything Tool played an Irish bar called Murphy's in Memphis, it was extra cold.
 
+Worked for Mark Saroff.
+
 Saw Fishbone at Arnold's.
 
 Grifters at Snake Snatch.
@@ -295,6 +299,8 @@ Played Pavement and Check Your Head a lot.
 Stepped in dog shit leaving a Halloween party with Al, Jason, and Rick.
 
 Drove to New York City with Al.
+
+Found out one of my friends stole from another friend.
 
 ## 1990
 
