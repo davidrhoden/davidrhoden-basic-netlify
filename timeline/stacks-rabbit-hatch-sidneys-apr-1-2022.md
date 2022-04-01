@@ -22,4 +22,4 @@ tags:
 
 ![Stacks and Rabbit Hatch flyer](https://davidrhoden.com/static/img/rock/stacks/stacks-flyer-apr-1-2022.jpg)
 
-the Stacks and Rabbit Hatch play tonight at Sidney's Saloon. Thihs is the first Rabbit Hatch show since 2005.
+the Stacks and Rabbit Hatch play tonight at Sidney's Saloon. This is the first Rabbit Hatch show since 2005.
