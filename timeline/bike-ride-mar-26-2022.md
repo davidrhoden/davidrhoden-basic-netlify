@@ -20,4 +20,4 @@ tags:
 
 ![bike ride](https://davidrhoden.com/static/img/timeline/gina-stairs-to-river-mar-26-2022.jpg)
 
-We went on a nice ride on a beautiful day. Not too newsworthy but we ran into friends, saw the neighborhood in the sunshine, and moved around.
+We went on a nice ride on a beautiful day. Not too newsworthy but we ran into friends, saw the neighborhood in the sunshine, and moved around. 
