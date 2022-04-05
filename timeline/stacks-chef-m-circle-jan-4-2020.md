@@ -1,7 +1,7 @@
 ---
 title: The Stacks played with Chef Menteur and Good Sugar at the Circle Bar.
 date: 2020-01-04T11:00:00.000Z
-image: rock/stacks/stacks-circle-bar-gus-haugh-jan-4-2010.jpg
+image: rock/stacks/stacks-circle-bar-gus-haugh-jan-4-2020.jpg
 tags:
   - post 
   - New Orleans
@@ -14,6 +14,6 @@ tags:
   - Gus Haugh
 ---
 
-![Flyer for Chef Menteur, The Stacks, and Good Sugar, Jan 4 2020.](/static/img/rock/stacks/stacks-circle-bar-gus-haugh-jan-4-2010.jpg)
+![Flyer for Chef Menteur, The Stacks, and Good Sugar, Jan 4 2020.](/static/img/rock/stacks/stacks-circle-bar-gus-haugh-jan-4-2020.jpg)
 
 Flyer by Gus Haugh.
