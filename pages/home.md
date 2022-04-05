@@ -20,14 +20,6 @@ image: /static/img/about/david-with-beard-oct-1-2020-7bb4fb.jpg
       <p>I've been a web developer for more than 20 years. PHP, Django, Ruby on Rails, and a great deal of CSS and HTML.</p>
     </div>
   </div>
-    <div class="polaroid timeline" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="100">
-    <div>
-      <a href="timeline">
-        <h2>Timeline</h2>
-      </a>
-      <p>A personal project to record as much of my life as I can remember in diary form.<br>As close to a memoir as I'm likely to get.</p>
-    </div>
-  </div>
   <div class="polaroid illustrations" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="100">
     <div>
       <a href="illustrations">
@@ -93,6 +85,14 @@ image: /static/img/about/david-with-beard-oct-1-2020-7bb4fb.jpg
       <p>Recent paintings, t-shirts, etc.<br>
       If it's here you can buy it unless I sold it already.<br>
       If it's not here, you can at least ask.</p>
+    </div>
+  </div>
+  <div class="polaroid timeline" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="100">
+    <div>
+      <a href="timeline">
+        <h2>Timeline</h2>
+      </a>
+      <p>A personal project to record as much of my life as I can remember in diary form.<br>As close to a memoir as I'm likely to get.</p>
     </div>
   </div>
 </div>
