@@ -3,7 +3,7 @@ title: Buddy brought home a friend to play.
 date: 2022-04-01T22:00:00.000Z
 summary: I caught and released the friend.
 excerpt: I caught and released the friend.
-image: rock/stacks/stacks-flyer-apr-1-2022.jpg
+image: /buddy/buddy-snake-1-apr-1-2022.jpg
 tags:
   - post
   - New Orleans
