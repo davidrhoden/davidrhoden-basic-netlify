@@ -18,7 +18,7 @@ I don't have time to type out even a synopsis of the rules, you can look that up
 
 In vanilla Wordle, it's good to establish your vowels first. Absurdle is different. The strategy there, I propose, is to eliminate vowels slowly. Instead, you want to eliminate as many common consonants as you can. So I like to play words with one vowel at a time, like FIGHT, GHOST, CHARM, etc. The more consonants you eliminate (while also eliminating one or two vowels per turn), the easier the end game.
 
-Here are a few examples. Don't worry about spoilers, every Absurdle game is different. (though if you play these, they should come out the same.) In the end, look for words with Q, X, and Y in them. Think like a scrabble player. You can usually get it in 6; that's fast for Asurdle.
+Here are a few examples. Don't worry about spoilers, every Absurdle game is different. (though if you play these, they should come out the same.) In the end, look for words with Q, X, and Y in them. Think like a scrabble player. You can usually get it in 6; that's fast for Absurdle.
 
 
 ![Absurdle strategy](/static/img/timeline/absurdle/absurdle-1-apr-5-2022.png)
