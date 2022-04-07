@@ -47,7 +47,6 @@ $(document).ready(function(){
   });
 });
 
-
 $(document).ready(function() {
   
   var currentImage = 0;
@@ -98,6 +97,5 @@ $(document).ready(function() {
     $( ".tab-selector" ).toggleClass( "active" );
     $( ".tab" ).toggleClass( "active" );
   });
-
 
 });

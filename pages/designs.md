@@ -36,10 +36,12 @@ eleventyNavigation:
 
 ![Calendar design for The Big Top art space.](/static/img/designs/3rcp-ad-2nd-aug-8-2005.png)
 
-![Calendar design for The Big Top art space.](/static/img/designs/3rcp-ad-may-1-2008.png)
+![Calendar design for The Big Top art space.](/static/img/designs/3rcp-ad-may-1-2008.jpg)
 
-![Bachelor No. 1 fanzine cover design.](/static/img/designs/bn11.jpg)
+![Silkscreened poster for an art show.](/static/img/designs/offwhite-linen-night-aug-7-2004.jpg)
 
-![Bachelor No. 1 fanzine cover design.](/static/img/designs/bn12.jpg)
+![Bachelor No. 1 fanzine cover design.](/static/img/designs/bachelor-no1-no1.jpg)
 
-![Bachelor No. 1 fanzine cover design.](/static/img/designs/bn13.jpg)
+![Bachelor No. 1 fanzine cover design.](/static/img/designs/bachelor-no1-no2.jpg)
+
+![Bachelor No. 1 fanzine cover design.](/static/img/designs/bachelor-no1-no3.jpg)

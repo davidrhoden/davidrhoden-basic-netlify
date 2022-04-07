@@ -21,10 +21,6 @@ And: [My Redbubble store](https://www.redbubble.com/people/davidrhoden/shop) (st
 
 ## Paintings
 
-
-![Unimog painting by David Rhoden](/static/img/paintings/unimog-feb-20-2022.jpg?nf_resize=fit&w=640)
-Monster. $300
-
 ![Many-eyed Monster painting by David Rhoden](/static/img/paintings/many-eyes-dec-13-2020.jpg?nf_resize=fit&w=640)
 Monster. $100
 
