@@ -21,8 +21,11 @@ And: [My Redbubble store](https://www.redbubble.com/people/davidrhoden/shop) (st
 
 ## Paintings
 
+![Lighter painting by David Rhoden](/static/img/paintings/lighter-jul-19-2020.jpg?nf_resize=fit&w=640)
+Lighter, $150
+
 ![Many-eyed Monster painting by David Rhoden](/static/img/paintings/many-eyes-dec-13-2020.jpg?nf_resize=fit&w=640)
-Monster. $100
+Monster. $90
 
 ![Organic form painting by David Rhoden](/static/img/paintings/organicform5-chromeyellow-sq.jpg?nf_resize=fit&w=640)
 Organic Form. $360
@@ -37,28 +40,25 @@ Dominante. $360
 Bus. $360.
 
 ![Long Legs painting by David Rhoden](/static/img/paintings/long-legs-20200101.jpg?nf_resize=fit&w=640)
-Long Legs. $200.
+Long Legs. $180.
 
 ![KISS Guy painting by David Rhoden](/static/img/paintings/kissguy.jpg?nf_resize=fit&w=640)
-'Scuse Me. $200
+'Scuse Me. $180
 
 ![Keys painting by David Rhoden](/static/img/paintings/keys1200.jpg?nf_resize=fit&w=640)
-Keys. $200
+Keys. $180
 
 ![Pink Face painting by David Rhoden](/static/img/paintings/pink-face.jpg)
-Pink Face. $100
+Pink Face. $90
 
 ![Inhaler on Paper by David Rhoden](/static/img/paintings/inhaler-on-paper.jpg)
-Inhaler on Paper. $100
+Inhaler on Paper. $90
 
 ![Female Figure on Paper by David Rhoden](/static/img/paintings/female-figure-on-paper.jpg)
-Female Figure on Paper. $100
+Female Figure on Paper. $90
 
 ![Little People painting by David Rhoden](/static/img/paintings/little-people.jpg?nf_resize=fit&w=640)
-Little People. $40 each
-
-![Greenheads painting by David Rhoden](/static/img/paintings/greenheads.jpg?nf_resize=fit&w=640)
-Greenheads. $40
+Little People. $30 each
 
 ![Blue Suit painting by David Rhoden](/static/img/paintings/smallbluesuit2.jpg)
-Blue suit. $40
+Blue suit. $30

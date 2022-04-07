@@ -126,7 +126,7 @@ eleventyNavigation:
 1. ![painting by David Rhoden](/static/img/paintings/whitepaintings1.jpg?nf_resize=fit&w=960)
 1. ![painting by David Rhoden](/static/img/paintings/whitepaintings2.jpg?nf_resize=fit&w=960)
 1. ![painting by David Rhoden](/static/img/paintings/colorful-lucha.jpg?nf_resize=fit&w=960)
-1. ![painting by David Rhoden](/static/img/paintings/selfportrait-with-large-tongue.jpg?nf_resize=fit&w=960)
+1. ![Self portrait painting by David Rhoden](/static/img/paintings/selfportrait-with-large-tongue.jpg?nf_resize=fit&w=960)
 1. ![painting by David Rhoden](/static/img/paintings/smallluchas1404123.jpg?nf_resize=fit&w=960)
 1. ![painting by David Rhoden](/static/img/paintings/smallluchas1404122.jpg?nf_resize=fit&w=960)
 1. ![Betty painting by David Rhoden](/static/img/paintings/bigbetty1000.jpg?nf_resize=fit&w=960)
