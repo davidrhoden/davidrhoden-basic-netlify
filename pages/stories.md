@@ -26,23 +26,28 @@ Couldn't tie my shoes.
 
 Saw Willy Wonka.
 
+## 1975
+
+Played with Playmobil toys.
+
+Refused to finish a crunchy peanut butter sandwich at Kesler's house.
+
 ## 1976
 
 Pine cone battle at Cub Scouts.
 
 Bicentennial stuff.
 
-Neighborhood Olympics.
+Went to Confederama.
+
+Saw _Star Wars_.
+
+We had a neighborhood Olympics and a I won a few medals, though no golds. A kid named Tony Bianchino, a relative of our neighbors came to play in a tri-corner hat. He would say "I came to jump!" but he could hardly jump at all. Still, I came to jump!" became a commonly heard phrase in our neighborhood."
+
 
 November 7, 1976: Saw Georgia Tech beat Notre Dame without completing or attempting a forward pass.
 https://ramblinwreck.com/beat-notre-dame-without-throwing-a-pass-georgia-tech-did-it-in-1976/
 Had boiled peanuts.
-
-Went to Confederama.
-
-Played with Playmobil toys.
-
-Refused to finish a crunchy peanut butter sandwich at Kesler's house.
 
 ## 1977
 
@@ -51,6 +56,8 @@ Boyd-Buchanan day camp.
 "Do-do" vs "doo-doo".
 
 Saw _Bugsy Malone_.
+
+Jeff and Jeremy Connor put our dog Bijou on a rope leash and said she was their dog now. As I had been elected "mayor" of our neighborhood, I deputized Bill Wikle to get the dog back.
 
 ## 1978
 
@@ -145,6 +152,8 @@ Played Caesar Rodney in 1776 at the Backstage Playhouse.
 Played at the Nucleus with Red M&Ms.
 
 Voted Republican.
+
+Stayed over at Art's house and drank his dad's beer. Had to go to work at a carpet warehouse with my dad.
 
 Got hired at Taco Casa.
 
