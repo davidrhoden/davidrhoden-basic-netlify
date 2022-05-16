@@ -63,6 +63,8 @@ Jeff and Jeremy Connor put our dog Bijou on a rope leash and said she was their 
 
 Saw a monkey kill a robin at the National Zoo.
 
+March 2: Soul Man is a madeleine for me. Went to get the Blues Bros 45 on my 11th birthday. I had a bad cough and my pop gave me a Vicks Formula 44 cough drop, not the cherry kind. It was a horrible tasting thing and I spit it out on the sidewalk at the mall. I was mad about it. So Pop had one too. He remarked: "These don't taste that bad, Dave! Tastes like booze!"
+
 Went to Camp Lookout. Met Danny Castor.
 
 ## 1979 
