@@ -164,6 +164,8 @@ Got hired at Taco Casa.
 
 "...the machine that shake the fat off of you..."
 
+Bend Sinister and Musical Moose at Knights of Columbus Hall on 8th Street, Chattanooga 8/24/85
+
 Red M&Ms recorded _Unhealthy_.
 
 I was a salad cowboy.
@@ -592,6 +594,11 @@ Saw Todd Rundgren at House of Blues gig Sunday, June 23. 2013.
 ## 2017
 
 Dec 10: Saw Jesus Lizard at Irving Plaza (date, year unclear).
+
+## 2018
+
+January 17: Barry Courter wrote an article that mentioned my earleist bands. This is like the most recognition they got.
+https://www.timesfreepress.com/news/chattanooganow/music/story/2018/jan/17/who-are-local-bands-rocked-your-world/461397/
 
 ## 2021
 
