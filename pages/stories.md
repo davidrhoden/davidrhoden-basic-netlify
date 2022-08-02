@@ -486,6 +486,8 @@ Aug 20: big party; Rubber People at Rendon Street compound.
 
 May 17: JandTWP at Rock and Bowl.
 
+September 17th: Bobby Bare, Jr at Union Pool.
+
 
 ## 2006
 
@@ -591,9 +593,17 @@ Found a dead possum on Gina's path.
 
 Saw Todd Rundgren at House of Blues gig Sunday, June 23. 2013.
 
-## 2017
+## 2015
 
 Dec 10: Saw Jesus Lizard at Irving Plaza (date, year unclear).
+
+## 2017
+
+March 18: Hung out with Susan Aprill, visiting for a funeral, and we heard Chuck Berry died.
+
+June 27: Dave Rosser died.
+
+
 
 ## 2018
 
@@ -602,7 +612,7 @@ https://www.timesfreepress.com/news/chattanooganow/music/story/2018/jan/17/who-a
 
 ## 2021
 
-Doctor Aprill funeral.
+May 15, 2021: Doctor Aprill funeral.
 
 Ben Pearson funeral.
 
@@ -651,7 +661,7 @@ The Tim Burton Planet Of The Apes
 
 Mike Judge's Extract
 
-Do Th Right Thing (?)
+Do The Right Thing (?)
 
 Full Metal Jacket (saw it by myself at a matinee in Knoxville)
 
