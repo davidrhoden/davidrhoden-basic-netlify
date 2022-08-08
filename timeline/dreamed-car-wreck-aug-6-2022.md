@@ -17,5 +17,5 @@ I was afraid to look at the damage so I popped into a restaurant near where the 
 
 I wanted some food but they weren't open; they were recovering from a flood. I still hung out, because I was afraid cops or angry car owners were looking for me. Everybody who came in was there for pastries and coffee, which I couldn't have, and they were all well-to-do white people with good jobs. They were all talking about how "green" the restauant's renovations was and how good that was for the world. I left to go check on my car.
 
-To my surprise, the car was still visible but it was completely underwater and mostly covered with gravel. No one was looking for me and soon no oe would know it was my car. I decided to try living without a motor vehicle.
+To my surprise, the car was still visible but it was completely underwater and mostly covered with gravel. No one was looking for me and soon no one would know it was my car. I decided to try living without a motor vehicle.
 
