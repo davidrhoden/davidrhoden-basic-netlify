@@ -12,4 +12,4 @@ tags:
 
 ---
 
-![screenshot of a text conversation describing a dream](static/img/timeline/dreamed-text-conversation-jun-19-2022.png)
+![screenshot of a text conversation describing a dream](/static/img/timeline/dreamed-text-conversation-jun-19-2022.png)
