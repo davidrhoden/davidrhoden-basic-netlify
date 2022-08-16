@@ -20,9 +20,9 @@ tags:
 
 Gina took this picture of. map of my neighborhood in 1893 while researching lot boundaries for her studio project. Interesting to me, there was a stable out back, and some kind of shed at what's now the end of the driveway. Actually more interesting are the street name changes. I wonder why that happened. Pontalba is now Alhambra Street, and Hancock is St. Maurice.
 
-I looked in the book _Frenchmen, Desire, Good Children_, a pop history of anecdotes about the naming of New Orleans streets, hopinf for an explanation. Alas, the story isn't that interesting:
+I looked in the book _Frenchmen, Desire, Good Children_, a pop history of anecdotes about the naming of New Orleans streets, hoping for an explanation. Alas, the story isn't that interesting:
 
-![Page from Frenchmen, Desire, Good Children](/static/img/timeline/page-from-streets-book-oct-15-2021.jpg)
+![Page from Frenchmen, Desire, Good Children](/static/img/timeline/page-from-street-book-oct-15-2021.jpg)
 
 Bonus shot of Buddy:
 
