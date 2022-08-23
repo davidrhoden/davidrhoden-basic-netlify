@@ -8,7 +8,7 @@ summary: "David Rhoden is a painter, animator, illustrator, and occasional music
 image: /static/img/about/davechartroomcrop.jpg
 eleventyNavigation:
   key: About
-  order: 11
+  order: 0
   
 ---
 ![Big Face painting by David Rhoden](/static/img/paintings/bigface_sq.jpg)
@@ -57,7 +57,7 @@ David Rhoden, Selfie, Bushwick, 2008
 
 ---
 
-![David Rhoden with MAXIMVS! (Trey Ledford, Jeff Pounds) at Circle Bar, New Orleans, 2004](static/img/rock/maximvs/maximvs-big-top-feb-18-2014/david-drumming-feb-18-2004.jpg)
+![David Rhoden with MAXIMVS! (Trey Ledford, Jeff Pounds) at Circle Bar, New Orleans, 2004](static/img/rock/maximvs/maximvs-big-top-feb-18-2004/david-drumming-feb-18-2004.jpg)
 
 David Rhoden with MAXIMVS! (Trey Ledford, Jeff Pounds) at Circle Bar, New Orleans, 2004
 

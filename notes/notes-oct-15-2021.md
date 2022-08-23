@@ -13,6 +13,7 @@ tags:
   - City Hall
   - 315 Tricou Street
   - studio project
+  - Buddy
 
 ---
 

@@ -233,7 +233,7 @@ header nav li {
 }
 
 header nav li a {
-  font-family: var(--font-primary);
+  font-family: var(--font-secondary);
   font-size: .9em;
 }
 
@@ -789,8 +789,8 @@ span.fade:hover {
   }
 
   header nav li a {
-    font-family: var(--font-primary);
-    font-size: 1.1em;
+    font-family: var(--font-secondary);
+    font-size: 1.5em;
   }
 
   footer {

@@ -7,7 +7,7 @@ excerpt: These are the paintings and things I currently have for sale.
 image: https://davidrhoden.com/static/img/representative-paintings.jpg
 eleventyNavigation:
   key: Art For Sale
-  order: 6
+  order: 1
 
 ---
 
@@ -23,9 +23,6 @@ And: [My Redbubble store](https://www.redbubble.com/people/davidrhoden/shop) (st
 
 ![Lighter painting by David Rhoden](/static/img/paintings/lighter-jul-19-2020.jpg?nf_resize=fit&w=640)
 Lighter, $150
-
-![Many-eyed Monster painting by David Rhoden](/static/img/paintings/many-eyes-dec-13-2020.jpg?nf_resize=fit&w=640)
-Monster. $90
 
 ![Organic form painting by David Rhoden](/static/img/paintings/organicform5-chromeyellow-sq.jpg?nf_resize=fit&w=640)
 Organic Form. $360

@@ -10,6 +10,6 @@ pagination:
   reverse: true
 eleventyNavigation:
   key: Timeline
-  order: 0
+  order: 15
 
 ---
