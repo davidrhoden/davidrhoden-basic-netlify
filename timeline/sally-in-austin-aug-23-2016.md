@@ -24,7 +24,7 @@ Our house really was comfortable, we stayed in it too much.
 
 ![Sally in our air-conditioned house in Austin.](/static/img/sally/sally-on-mat-aug-23-2016.jpg "Sally in our air-conditioned house in Austin.")
 
-![Sally in our air-conditioned house in Austin.](/static/img/timeline/sally/sally-in-windowsill-aug-23-2016.jpg "Sally in our air-conditioned house in Austin.")
+![Sally in our air-conditioned house in Austin.](/static/img/sally/sally-in-windowsill-aug-23-2016.jpg "Sally in our air-conditioned house in Austin.")
 
 
 </div>
