@@ -4,7 +4,7 @@ date: 2004-02-18T20:00:00.000Z
 summary: Less than a week after our first show.
 excerpt: Less than a week after our first show.
 category: timeline
-image: rock/maximvs/maximvs-big-top-feb-18-2014/maximvs-and-tad-feb-18-2004.jpg
+image: rock/maximvs/maximvs-big-top-feb-18-2004/maximvs-and-tad-feb-18-2004.jpg
 tags:
   - post 
   - rock
@@ -31,33 +31,33 @@ I think we played both before and after the Saturn and Muses parades.
     <button id="buttonPrevious">&#10094;</button>
     <button id="buttonNext">&#10095;</button>
 
-![MAXIMVS! plays at the Big Top Gallery, February 18, 2004.](/static/img/rock/maximvs/maximvs-big-top-feb-18-2014/maximvs-01-feb-18-2004.jpg "MAXIMVS! plays at the Big Top Gallery, February 18, 2004.")
+![MAXIMVS! plays at the Big Top Gallery, February 18, 2004.](/static/img/rock/maximvs/maximvs-big-top-feb-18-2004/maximvs-01-feb-18-2004.jpg "MAXIMVS! plays at the Big Top Gallery, February 18, 2004.")
 
-![MAXIMVS! plays at the Big Top Gallery, February 18, 2004.](/static/img/rock/maximvs/maximvs-big-top-feb-18-2014/maximvs-02-feb-18-2004.jpg "MAXIMVS! plays at the Big Top Gallery, February 18, 2004.")
+![MAXIMVS! plays at the Big Top Gallery, February 18, 2004.](/static/img/rock/maximvs/maximvs-big-top-feb-18-2004/maximvs-02-feb-18-2004.jpg "MAXIMVS! plays at the Big Top Gallery, February 18, 2004.")
 
-![MAXIMVS! plays at the Big Top Gallery, February 18, 2004.](/static/img/rock/maximvs/maximvs-big-top-feb-18-2014/maximvs-03-feb-18-2004.jpg "MAXIMVS! plays at the Big Top Gallery, February 18, 2004.")
+![MAXIMVS! plays at the Big Top Gallery, February 18, 2004.](/static/img/rock/maximvs/maximvs-big-top-feb-18-2004/maximvs-03-feb-18-2004.jpg "MAXIMVS! plays at the Big Top Gallery, February 18, 2004.")
 
-![MAXIMVS! plays at the Big Top Gallery, February 18, 2004.](/static/img/rock/maximvs/maximvs-big-top-feb-18-2014/maximvs-04-feb-18-2004.jpg "MAXIMVS! plays at the Big Top Gallery, February 18, 2004.")
+![MAXIMVS! plays at the Big Top Gallery, February 18, 2004.](/static/img/rock/maximvs/maximvs-big-top-feb-18-2004/maximvs-04-feb-18-2004.jpg "MAXIMVS! plays at the Big Top Gallery, February 18, 2004.")
 
-![MAXIMVS! plays at the Big Top Gallery, February 18, 2004.](/static/img/rock/maximvs/maximvs-big-top-feb-18-2014/david-drumming-feb-18-2004.jpg "MAXIMVS! plays at the Big Top Gallery, February 18, 2004.")
+![MAXIMVS! plays at the Big Top Gallery, February 18, 2004.](/static/img/rock/maximvs/maximvs-big-top-feb-18-2004/david-drumming-feb-18-2004.jpg "MAXIMVS! plays at the Big Top Gallery, February 18, 2004.")
 
-![MAXIMVS! plays at the Big Top Gallery, February 18, 2004.](/static/img/rock/maximvs/maximvs-big-top-feb-18-2014/jeff-and-trey-feb-18-2004.jpg "MAXIMVS! plays at the Big Top Gallery, February 18, 2004.")
+![MAXIMVS! plays at the Big Top Gallery, February 18, 2004.](/static/img/rock/maximvs/maximvs-big-top-feb-18-2004/jeff-and-trey-feb-18-2004.jpg "MAXIMVS! plays at the Big Top Gallery, February 18, 2004.")
 
-![MAXIMVS! plays at the Big Top Gallery, February 18, 2004.](/static/img/rock/maximvs/maximvs-big-top-feb-18-2014/maximvs-on-street-feb-18-2004.jpg "MAXIMVS! plays at the Big Top Gallery, February 18, 2004.")
+![MAXIMVS! plays at the Big Top Gallery, February 18, 2004.](/static/img/rock/maximvs/maximvs-big-top-feb-18-2004/maximvs-on-street-feb-18-2004.jpg "MAXIMVS! plays at the Big Top Gallery, February 18, 2004.")
 
-![MAXIMVS! plays at the Big Top Gallery, February 18, 2004.](/static/img/rock/maximvs/maximvs-big-top-feb-18-2014/david-on-street-feb-18-2004.jpg "MAXIMVS! plays at the Big Top Gallery, February 18, 2004.")
+![MAXIMVS! plays at the Big Top Gallery, February 18, 2004.](/static/img/rock/maximvs/maximvs-big-top-feb-18-2004/david-on-street-feb-18-2004.jpg "MAXIMVS! plays at the Big Top Gallery, February 18, 2004.")
 
-![MAXIMVS! plays at the Big Top Gallery, February 18, 2004.](/static/img/rock/maximvs/maximvs-big-top-feb-18-2014/trey-and-david-on-street-feb-18-2004.jpg "MAXIMVS! plays at the Big Top Gallery, February 18, 2004.")
+![MAXIMVS! plays at the Big Top Gallery, February 18, 2004.](/static/img/rock/maximvs/maximvs-big-top-feb-18-2004/trey-and-david-on-street-feb-18-2004.jpg "MAXIMVS! plays at the Big Top Gallery, February 18, 2004.")
 
-![MAXIMVS! plays at the Big Top Gallery, February 18, 2004.](/static/img/rock/maximvs/maximvs-big-top-feb-18-2014/david-and-judy-feb-18-2004.jpg "MAXIMVS! plays at the Big Top Gallery, February 18, 2004.")
+![MAXIMVS! plays at the Big Top Gallery, February 18, 2004.](/static/img/rock/maximvs/maximvs-big-top-feb-18-2004/david-and-judy-feb-18-2004.jpg "MAXIMVS! plays at the Big Top Gallery, February 18, 2004.")
 
-![MAXIMVS! plays at the Big Top Gallery, February 18, 2004.](/static/img/rock/maximvs/maximvs-big-top-feb-18-2014/david-and-judy-2-feb-18-2004.jpg "MAXIMVS! plays at the Big Top Gallery, February 18, 2004.")
+![MAXIMVS! plays at the Big Top Gallery, February 18, 2004.](/static/img/rock/maximvs/maximvs-big-top-feb-18-2004/david-and-judy-2-feb-18-2004.jpg "MAXIMVS! plays at the Big Top Gallery, February 18, 2004.")
 
-![MAXIMVS! plays at the Big Top Gallery, February 18, 2004.](/static/img/rock/maximvs/maximvs-big-top-feb-18-2014/maximvs-and-tad-feb-18-2004.jpg "MAXIMVS! plays at the Big Top Gallery, February 18, 2004.")
+![MAXIMVS! plays at the Big Top Gallery, February 18, 2004.](/static/img/rock/maximvs/maximvs-big-top-feb-18-2004/maximvs-and-tad-feb-18-2004.jpg "MAXIMVS! plays at the Big Top Gallery, February 18, 2004.")
 
-![MAXIMVS! plays at the Big Top Gallery, February 18, 2004.](/static/img/rock/maximvs/maximvs-big-top-feb-18-2014/maximvs-and-tad-02-feb-18-2004.jpg "MAXIMVS! plays at the Big Top Gallery, February 18, 2004.")
+![MAXIMVS! plays at the Big Top Gallery, February 18, 2004.](/static/img/rock/maximvs/maximvs-big-top-feb-18-2004/maximvs-and-tad-02-feb-18-2004.jpg "MAXIMVS! plays at the Big Top Gallery, February 18, 2004.")
 
-![MAXIMVS! flyer for show at the Big Top Gallery, February 18, 2004.](/static/img/rock/maximvs/maximvs-big-top-feb-18-2014/maximvs-flyer-feb-18-2004.jpg "MAXIMVS! plays at the Big Top Gallery, February 18, 2004.")
+![MAXIMVS! flyer for show at the Big Top Gallery, February 18, 2004.](/static/img/rock/maximvs/maximvs-big-top-feb-18-2004/maximvs-flyer-feb-18-2004.jpg "MAXIMVS! plays at the Big Top Gallery, February 18, 2004.")
 
 </div>
 <div id="caption"></div>
