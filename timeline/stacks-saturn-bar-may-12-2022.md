@@ -8,7 +8,7 @@ tags:
   - Saturn Bar
   - The Stacks
   - weather
-  - COVID-19
+  - Covid-19
 
 
 ---
