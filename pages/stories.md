@@ -126,6 +126,8 @@ Played somebody in Ten Little Indians.
 
 Played the vicar Lionel Toop in See How They Run.
 
+Aug 25, 1983: Odetta at Bessie Smith Strut.
+
 ## 1984
 
 Took city-wide French exam.
@@ -203,6 +205,8 @@ Went to Confederama for the second time with C.J. and Mark.
 Really liked the album Free Dirt by Died Pretty.
 
 Sold a lot of records to Toonerville Trolley.
+
+June 18, 1986: Albert King at Bessie Smith Strut.
 
 Drove to Oberlin Ohio to hang out with my girlfriend before I had to go to school at UT.
 
