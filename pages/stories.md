@@ -208,6 +208,8 @@ Sold a lot of records to Toonerville Trolley.
 
 June 18, 1986: Albert King at Bessie Smith Strut.
 
+Worked at Cat's Records. "J.B. Brown" lady, racist lady, hillbilly woman looking for 8-tracks, Tony pranking me pretending to be looking for an EWF record, "Son, that's vanity", man looking for Caldonia, "Yeah, I might get 'Du", people asking for Doug E. Fresh's new one, selling Rumors and Roaches...
+
 Drove to Oberlin Ohio to hang out with my girlfriend before I had to go to school at UT.
 
 Lived in Morrill Hall.
