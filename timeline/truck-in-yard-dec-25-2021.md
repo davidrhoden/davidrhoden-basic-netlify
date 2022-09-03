@@ -1,17 +1,17 @@
 ---
-title: Painted "Slow Your Roll".
-date: 2013-11-24T11:00:00.000Z
-image: paintings/slow-your-roll-nov-24-2013.jpg
+title: We had a Christmas bonfire at Gina's.
+date: 2021-12-25T11:00:00.000Z
+image: timeline/truck-in-yard-dec-25-2021.jpg
 tags:
   - post 
   - New Orleans
-  - paintings
-  - canvas
-  - Slow Your Roll
-  - Verret's Lounge
+  - Goldie
+  - Gina
+  - Christmas
+  - fires
 
 ---
 
-Paintined a canvas, "Slow Your Roll". I'm told this hangs in Verret's Lounge in New Orleans.
+We had a Christmas fire over at Gina's. I brought wood from my backyard.
 
-![painting Slow Your Roll by David Rhoden](/static/img/paintings/slow-your-roll-nov-24-2013.jpg)
+![Goldie the Truck in the yard picking up wood](/static/img/timeline/truck-in-yard-dec-25-2021.jpg)
