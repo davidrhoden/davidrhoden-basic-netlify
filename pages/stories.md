@@ -376,6 +376,8 @@ Worked at Goldman, Sachs.
 
 ## 1993
 
+Bought the Apple "pizza box" Macintosh, interrupted a pissing cabbie to give him a dollar.
+
 Worked at Citibank.
 
 Met Marinza.
@@ -503,7 +505,7 @@ Jan 7: Went to WFMU holiday party with Debbie D.
 
 Jan 8: Went to Brighton Beach and Coney Island with Debbie D.
 
-Jan 9: Went to 10th Street Bahs with Kirstin.
+Jan 9: Went to 10th Street Baths with Kirstin.
 
 Jan 10: Drinks with Alison and Iris. Brother Reverend at Black Betty.
 
@@ -551,7 +553,7 @@ Betty died?
 
 Art show at Maiden, Brooklyn.
 
-Got canned from The Frisky, got a new job the next day fixing som broken Javascript, right around Christmas. Year approximate.
+Got canned from The Frisky, got a new job the next day fixing some broken Javascript, right around Christmas. Year approximate.
 
 Played drums in Guitar Hero at a work party, did poorly.
 
@@ -645,6 +647,8 @@ Saw Jesus and Mary Chain at House of Blues.
 Saw International Noise Conspiracy and Rocket From The Crypt at House of Blues.
 
 Watched The Tush Show on WTBS.
+
+Day before I left to move to N.O. again. My co-worker pretty clearly had a kidney stone. He was writing on the floor. Hi very friendly boss came to check on him. He said "aah, you just need to fart. Go on, fart it out," while rubbing the guy's shoulders.
 
 
 ## Acted in:
