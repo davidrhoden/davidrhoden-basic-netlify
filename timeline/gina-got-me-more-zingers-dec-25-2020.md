@@ -22,6 +22,12 @@ Minutes later I was gasping for air, holding my sides, trying not to wake the ho
 
 I told Gina about this peculiar morning, many times, I guess. Because this Christmas, there it was, under the tree: _More Zingers_.
 
-![More Zingers From The Hollywood Squares paperback](/static/img/timeline//more-zingers-dec-25-2020.jpg "More Zingers From The Hollywood Squares paperback")
+![More Zingers From The Hollywood Squares paperback](/static/img/timeline/more-zingers-dec-25-2020.jpg "More Zingers From The Hollywood Squares paperback")
 
 I love it and I love Gina.
+
+![Zinger about Wayne](/static/img/timeline/zinger-about-wayne-aug-4-2021.jpg)
+
+![Daisy, Christmas 2020](/static/img/timeline/daisy-dec-25-2020.jpg)
+
+![Yard bird, Christmas 2020](/static/img/timeline/chicken-dec-25-2020.jpg)
