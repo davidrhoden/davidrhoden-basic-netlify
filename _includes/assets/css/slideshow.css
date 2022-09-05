@@ -61,7 +61,7 @@
 
   #viewport p img, #viewport li img{ 
     height: 100%;
-    max-width: inherit;
+    max-width: 100%;
     width: auto;
   }
 
