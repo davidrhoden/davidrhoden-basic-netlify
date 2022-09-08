@@ -23,10 +23,10 @@ Today was nice and cool, there were dozens of people out there with their dogs.
 I need to take better pictures, and I need to get earphones that hang on some how, not these dumb earbuds.
 
 
-![PAC Achernar docked on the levee](carnival-valor-leaving-aug-27-2022.jpg)
+![Carnival Valor on the levee](/static/img/timeline/carnival-valor-leaving-aug-27-2022.jpg)
 
-![Carnival Valor on the levee](/static/img/timeline/pac-achernar-docked-sep-6-2022.jpg)
+![PAC Achernar docked on the levee](/static/img/timeline/pac-achernar-docked-sep-6-2022.jpg)
 
 I guess this picture is O.K.
 
-![sunset on the levee](sunset-over-miss-river-aug-29-2022.jpg)
+![sunset on the levee](/static/img/timeline/sunset-over-miss-river-aug-29-2022.jpg)
