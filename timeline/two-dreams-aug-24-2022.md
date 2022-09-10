@@ -15,7 +15,7 @@ tags:
 
 Two dreams, dream one: I was in new Orleans (where I really live) and I went to an old bar that was a lot like Hank's Saloon in Brooklyn, to attend a benefit for someone in the music community. I met a nice group of people that included a friendly cop. I sat with them at their table. There were sewing machines on the table. I started decorating one (I put an International Brotherhood of Electrical Workers sticker on the bottom of its base), and the cop made fun of me but I didn't care.
 
-We went outside and I noticed a little sandpiper bopping around near us. We all made a fuss over what a cute bird it was. Then it caught something in its long beak. It tured out to be a frog almost the size of the sandpiper itself. The bird and the frog stuggled. The frog got loose and hopped away, then started to fly, with the sandpiper in hot pursuit. The chase was wonderful to watch.
+We went outside and I noticed a little sandpiper bopping around near us. We all made a fuss over what a cute bird it was. Then it caught something in its long beak. It tured out to be a frog almost the size of the sandpiper itself. The bird and the frog struggled. The frog got loose and hopped away, then started to fly, with the sandpiper in hot pursuit. The chase was wonderful to watch.
 
 Dream two: I worked in an office, a dimly lit one with gray filing cabinets here and there. The men wore ties, the women had skirts on. The women were all just out of college but very sophisticated.
 

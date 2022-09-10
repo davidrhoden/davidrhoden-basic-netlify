@@ -24,7 +24,7 @@ tags:
 
 ![Egg Yolk Jubilee by John Thiry](/static/img/timeline/michael-aaron-memorial-feb-11-2022/eyj-john-thiry-feb-11-2022.jpg)
 
-Every year in the middle of February, a bunch of people who knew Michael Aaron and Billy Ding (who both diesd about ten years a go now) do a big show at both BJ's and Vaughan's. It's nice to remember those guys (Michael for me; I didn't know Billy, sorry) and it's a fun show. This year was no exception.
+Every year in the middle of February, a bunch of people who knew Michael Aaron and Billy Ding (who both died about ten years a go now) do a big show at both BJ's and Vaughan's. It's nice to remember those guys (Michael for me; I didn't know Billy, sorry) and it's a fun show. This year was no exception.
 
 One of the highlights is the "second line" from BJ's to Vaughan's , a distance of approximately one block.
 
