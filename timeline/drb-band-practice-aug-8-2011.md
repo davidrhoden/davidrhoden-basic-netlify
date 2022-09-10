@@ -14,7 +14,6 @@ tags:
   - Doug
   - Patrick O'Toole
 
-
 ---
 
 I think we did all these songs, plus a cover of Nappy Brown's "Coal Miner", and maybe one more.
@@ -23,4 +22,3 @@ I think we did all these songs, plus a cover of Nappy Brown's "Coal Miner", and 
 
 This band was so good but we only got to play once, at a club on Houston Street I can't remember the name of.
 Somebody'll tell me.
-

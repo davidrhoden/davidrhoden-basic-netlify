@@ -16,10 +16,10 @@ I had some people over and I made potato salad. I love my potato salad. Al descr
 
 ![Chan dressed up for a bbq](/static/img/timeline/bbq-bushwick-may-17-2008/bbq-bushwick-may-17-2008-chan-again.jpg)
 
-![Chan and Al at bbq in Bushwick](/static/img//timeline/bbq-bushwick-may-17-2008/bbq-bushwick-may-17-2008-chan-and-al-bbq.jpg)
+![Chan and Al at bbq in Bushwick](/static/img/timeline/bbq-bushwick-may-17-2008/bbq-bushwick-may-17-2008-chan-and-al-bbq.jpg)
 
-![Della and David at bbq in Bushwick](/static/img//timeline/bbq-bushwick-may-17-2008/bbq-bushwick-may-17-2008-della-with-david.jpg)
+![Della and David at bbq in Bushwick](/static/img/timeline/bbq-bushwick-may-17-2008/bbq-bushwick-may-17-2008-della-with-david.jpg)
 
-![Chan at bbq in Bushwick](/static/img//timeline/bbq-bushwick-may-17-2008/bbq-bushwick-may-17-2008-chan-in-yard.jpg)
+![Chan at bbq in Bushwick](/static/img/timeline/bbq-bushwick-may-17-2008/bbq-bushwick-may-17-2008-chan-in-yard.jpg)
 
 ![David Rhoden being prod of potato salad, as usual](/static/img/timeline/bbq-bushwick-may-17-2008/bbq-bushwick-may-17-2008-david-with-potato-salad.jpg)

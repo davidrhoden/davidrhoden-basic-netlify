@@ -23,6 +23,6 @@ tags:
 
 ![Trey, Dana, and Sis at Pensacola Regatta 2006.](/static/img/timeline/regatta-jul-2-2006/regatta-jul-2-2006-6.jpg)
 
-![People on the beach Pensacola Regatta 2006.](/static/img/timeline//regatta-jul-2-2006/regatta-jul-2-2006-7.jpg)
+![People on the beach Pensacola Regatta 2006.](/static/img/timeline/regatta-jul-2-2006/regatta-jul-2-2006-7.jpg)
 
 ![Sailboats at Pensacola Regatta 2006.](/static/img/timeline/regatta-jul-2-2006/regatta-jul-2-2006-9.jpg)

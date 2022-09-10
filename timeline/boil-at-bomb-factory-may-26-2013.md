@@ -19,7 +19,7 @@ A crawfish boil. This was my first visit to the Bomb Factory but I would go more
 
 ![Bomb Factory crawfish boil, May 26, 2013](/static/img/timeline/bomb-factory-1-may-26-2013.jpg 'Bomb Factory crawfish boil, May 26, 2013')
 
-![Bomb Factory crawfish boil, May 26, 2013](/static/img//timeline/bomb-factory-2-may-26-2013.jpg 'Bomb Factory crawfish boil, May 26, 2013')
+![Bomb Factory crawfish boil, May 26, 2013](/static/img/timeline/bomb-factory-2-may-26-2013.jpg 'Bomb Factory crawfish boil, May 26, 2013')
 
 ![Bomb Factory crawfish boil, May 26, 2013](/static/img/timeline/bomb-factory-boil-may-26-2013.jpg 'Bomb Factory crawfish boil, May 26, 2013')
 
