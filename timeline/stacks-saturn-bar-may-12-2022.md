@@ -45,7 +45,7 @@ Some guy who said he had been a bass player in local bands in the eighties was t
 
 ![Stacks played the Saturn Bar May 12, 2022.](/static/img/rock/stacks/stacks-saturn-may-12-2022/stacks-saturn-may-12-2022-12.jpg)
 
-![Stacks played the Saturn Bar May 12, 2022.](/static/img/rock/stacks/stacks-saturn-may-12-2022/stacks-saturn-may-12-2022-13.jpg")
+![Stacks played the Saturn Bar May 12, 2022.](/static/img/rock/stacks/stacks-saturn-may-12-2022/stacks-saturn-may-12-2022-13.jpg)
 
 ![Stacks played the Saturn Bar May 12, 2022.](/static/img/rock/stacks/stacks-saturn-may-12-2022/stacks-saturn-may-12-2022-14.jpg)
 
