@@ -40,7 +40,7 @@
     padding: 0;
     place-items: center;
     width: 36px;
-    top: 50%;
+    top: 24%;
     z-index: 2;
 }
 
@@ -76,6 +76,10 @@
       width: 36px;
       z-index: 2;
   }
+
+  #viewport button#buttonNext, #viewport button#buttonPrevious {
+    top: 50%;
+}
 
   #buttonNext {
     right: 0;
