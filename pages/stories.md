@@ -575,6 +575,12 @@ Dec 28: SWAT team and suicide on Henry Clay near mom's.
 
 "Do you abjure smoking?"
 
+## 2013
+
+Saw Todd Rundgren at House of Blues gig Sunday, June 23. 2013.
+
+October 19, 201: Danielle and Marcus' wedding
+
 ## 2015
 
 Was in a surf band called "Donner Party of Four" that broke up before we played a show.
@@ -585,38 +591,27 @@ Shooed a possum away from the cat food.
 
 Saw a Saints game at the Superdome.
 
-## 2017
-
-What kind of jelly? "Plain."
-
-## 2018
-
-An owl killed a bird about a foot from my face.
-
-## 2019
-
-Found a dead possum on Gina's path.
-
-## 2013
-
-Saw Todd Rundgren at House of Blues gig Sunday, June 23. 2013.
-
-## 2015
-
 Dec 10: Saw Jesus Lizard at Irving Plaza (date, year unclear).
 
 ## 2017
+
+What kind of jelly? "Plain."
 
 March 18: Hung out with Susan Aprill, visiting for a funeral, and we heard Chuck Berry died.
 
 June 27: Dave Rosser died.
 
-
-
 ## 2018
+
+An owl killed a bird about a foot from my face.
 
 January 17: Barry Courter wrote an article that mentioned my earleist bands. This is like the most recognition they got.
 https://www.timesfreepress.com/news/chattanooganow/music/story/2018/jan/17/who-are-local-bands-rocked-your-world/461397/
+
+## 2019
+
+Found a dead possum on Gina's path.
+
 
 ## 2021
 
@@ -648,7 +643,7 @@ Saw International Noise Conspiracy and Rocket From The Crypt at House of Blues.
 
 Watched The Tush Show on WTBS.
 
-Day before I left to move to N.O. again. My co-worker pretty clearly had a kidney stone. He was writing on the floor. Hi very friendly boss came to check on him. He said "aah, you just need to fart. Go on, fart it out," while rubbing the guy's shoulders.
+Day before I left to move to N.O. again. My co-worker pretty clearly had a kidney stone. He was writhing on the floor. Hi very friendly boss came to check on him. He said "aah, you just need to fart. Go on, fart it out," while rubbing the guy's shoulders.
 
 
 ## Acted in:
