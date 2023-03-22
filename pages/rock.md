@@ -63,7 +63,7 @@ Fun little band I was briefly the drummer of. We rehearsed a bunch but I think w
 
 ## Headless Hookers
 
-![Headless Hookers at Passout Records](/static/img/rock/headless-hookers-aug-2007/headless-hookers-aug-2007.jpg)
+![Headless Hookers at Passout Records](/static/img/rock/headless-hookers-aug-5-2007/headless-hookers-aug-2007.jpg)
 
 We did one terrific recording with Daniel Rey (Ramones producer, member of The Martinets currently and Masters Of Reality formerly). I was the drummer. Daniel made the cymbals sound great, he could probably find work just doing that. Members went on to be in Luxurious Faux Furs, Chicken Snake, and The Nato Coles Band.
 
