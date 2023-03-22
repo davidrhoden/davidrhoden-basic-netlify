@@ -21,19 +21,19 @@ We got the band together and played our first show in the same week. We all wore
     <button id="buttonPrevious">&#10094;</button>
     <button id="buttonNext">&#10095;</button>
 
-![The Sleepy Heads played our first show at the Circle Bar August 6, 2001. Zack.](/static/img/rock/sleepyheads/sleepyheads-aug-6-2001-1.jpg)
+![The Sleepy Heads played our first show at the Circle Bar August 6, 2001. Zack.](/static/img/rock/sleepyheads/sleepy-heads-aug-6-2001/sleepy-heads-aug-6-2001-1.jpg)
 
-![The Sleepy Heads played our first show at the Circle Bar August 6, 2001. Stephanie and Jay.](/static/img/rock/sleepyheads/sleepyheads-aug-6-2001-2.jpg)
+![The Sleepy Heads played our first show at the Circle Bar August 6, 2001. Stephanie and Jay.](/static/img/rock/sleepyheads/sleepy-heads-aug-6-2001/sleepy-heads-aug-6-2001-2.jpg)
 
-![The Sleepy Heads played our first show at the Circle Bar August 6, 2001. David and Zack.](/static/img/rock/sleepyheads/sleepyheads-aug-6-2001-3.jpg)
+![The Sleepy Heads played our first show at the Circle Bar August 6, 2001. David and Zack.](/static/img/rock/sleepyheads/sleepy-heads-aug-6-2001/sleepy-heads-aug-6-2001-3.jpg)
 
-![The Sleepy Heads played our first show at the Circle Bar August 6, 2001. Stephanie and Jay.](/static/img/rock/sleepyheads/sleepyheads-aug-6-2001-4.jpg)
+![The Sleepy Heads played our first show at the Circle Bar August 6, 2001. Stephanie and Jay.](/static/img/rock/sleepyheads/sleepy-heads-aug-6-2001/sleepy-heads-aug-6-2001-4.jpg)
 
-![The Sleepy Heads played our first show at the Circle Bar August 6, 2001. Sarah, Talbot, Zack, and David.](/static/img/rock/sleepyheads/sleepyheads-aug-6-2001-5.jpg)
+![The Sleepy Heads played our first show at the Circle Bar August 6, 2001. Sarah, Talbot, Zack, and David.](/static/img/rock/sleepyheads/sleepy-heads-aug-6-2001/sleepy-heads-aug-6-2001-5.jpg)
 
-![The Sleepy Heads played our first show at the Circle Bar August 6, 2001. Stephanie.](/static/img/rock/sleepyheads/sleepyheads-aug-6-2001-6.jpg)
+![The Sleepy Heads played our first show at the Circle Bar August 6, 2001. Stephanie.](/static/img/rock/sleepyheads/sleepy-heads-aug-6-2001/sleepy-heads-aug-6-2001-6.jpg)
 
-![The Sleepy Heads played our first show at the Circle Bar August 6, 2001. Zack, David, Stephanie.](/static/img/rock/sleepyheads/sleepyheads-aug-6-2001-7.jpg)
+![The Sleepy Heads played our first show at the Circle Bar August 6, 2001. Zack, David, Stephanie.](/static/img/rock/sleepyheads/sleepy-heads-aug-6-2001/sleepy-heads-aug-6-2001-7.jpg)
 
 </div>
 <div id="caption"></div>
