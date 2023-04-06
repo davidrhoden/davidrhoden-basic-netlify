@@ -18,7 +18,7 @@ tags:
 
 I think we did all these songs, plus a cover of Nappy Brown's "Coal Miner", and maybe one more.
 
-![Bullet casings found on the levee September 9, 2022.](/static/img/timeline/drb-rehearsal-email-aug-8-2011.jpg)
+![old band internal email](/static/img/timeline/drb-rehearsal-email-aug-8-2011.jpg)
 
 This band was so good but we only got to play once, at a club on Houston Street I can't remember the name of.
 Somebody'll tell me.
