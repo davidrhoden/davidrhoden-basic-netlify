@@ -14,6 +14,7 @@ tags:
   - Heather Gutierrez
   - Kip Shepherd
   - trailer park
+  - house shows
   - '"Blitzkrieg Bop"'
 
 ---

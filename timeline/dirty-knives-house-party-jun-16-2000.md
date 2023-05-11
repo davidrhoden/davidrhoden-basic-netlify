@@ -10,6 +10,7 @@ tags:
   - Dirty Knives
   - Eric Michaels
   - Marcus Bronson
+  - house shows
   - parties
   - ZZ Top
   - Renaissance Fair
