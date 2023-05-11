@@ -48,14 +48,3 @@ Keys. $180
 ![Pink Face painting by David Rhoden](/static/img/paintings/pink-face.jpg)
 Pink Face. $90
 
-![Inhaler on Paper by David Rhoden](/static/img/paintings/inhaler-on-paper.jpg)
-Inhaler on Paper. $90
-
-![Female Figure on Paper by David Rhoden](/static/img/paintings/female-figure-on-paper.jpg)
-Female Figure on Paper. $90
-
-![Little People painting by David Rhoden](/static/img/paintings/little-people.jpg?nf_resize=fit&w=640)
-Little People. $30 each
-
-![Blue Suit painting by David Rhoden](/static/img/paintings/smallbluesuit2.jpg)
-Blue suit. $30
