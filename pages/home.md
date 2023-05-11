@@ -32,7 +32,7 @@ image: /static/img/homepage-featured/bottlecap.jpg
     <img src="/static/img/homepage-featured/orangesquiggle02-edit.jpg"></a></div>
   <div class="grid-square">
     <a href="/animations/">
-    <div class="overlay">I can animate for hours at a time. Which is good, because that how long it takes. Hours.</div>
+    <div class="overlay">I have many diverse interests.</div>
     <img src="/static/img/homepage-featured/bunnyface-jan-10-2021.gif"></a></div>
   <div class="grid-square">
   <a href="/paintings/">
@@ -60,7 +60,7 @@ image: /static/img/homepage-featured/bottlecap.jpg
     <img src="/static/img/homepage-featured/negatorygoodbuddy-edit.jpg"></a></div>
   <div class="grid-square">
     <a href="/tags/the-stacks/">
-    <div class="overlay">I play in a band called The Stacks. Like &ldquo;stacks of records&rdquo;.<br> Made sense at the time.</div>
+    <div class="overlay">I play in a band called The Stacks. Like &ldquo;stacks of records&rdquo;</div>
     <img src="/static/img/homepage-featured/stacks-at-gasa-gasa-edit.jpg"></a></div>
   <div class="grid-square">
     <a href="/animations/">
@@ -88,7 +88,7 @@ image: /static/img/homepage-featured/bottlecap.jpg
     <img src="/static/img/homepage-featured/unimog-feb-20-2022.jpg"></a></div>
   <div class="grid-square">
     <a href="/animations/">
-    <div class="overlay">Like I said I can draw something over and over for hours.</div>
+    <div class="overlay">I can draw the same thing for hours.</div>
     <img src="/static/img/homepage-featured/head-shaker.gif"></a></div>
   <div class="grid-square">
     <a href="/rock/">
