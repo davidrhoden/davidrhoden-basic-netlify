@@ -65,7 +65,7 @@ image: /static/img/about/david-with-beard-oct-1-2020-7bb4fb.jpg
   <img src="/static/img/homepage-featured/stacks-at-gasa-gasa-edit.jpg"></a></div>
 <div class="grid-square">
   <a href="/animations/">
-  <div class="overlay">You can't hide your flyin' eyes.</div>
+  <div class="overlay">You can't hide your flyin&rsquo; eyes.</div>
   <img src="/static/img/homepage-featured/flyingeyes140709.gif"></a></div>
 <div class="grid-square">
   <a href="/tags/paintings/">
