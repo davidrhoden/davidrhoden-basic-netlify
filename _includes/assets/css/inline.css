@@ -209,6 +209,78 @@ main {
   padding-bottom: 0;
 }
 
+.grid-square {
+    overflow: hidden;
+    position: relative;
+    width: 90vw;
+    height: auto;
+}
+
+.grid-square .overlay {
+    display: flex;
+    padding: 2em 1em .5em;
+    width: 90vw;
+    font-family: "Cooper Black", var(--font-secondary);
+    font-size: 1em;
+}
+
+.grid-square img {
+    width: 90.5vw;
+}
+
+@media screen and (min-width:600px) {
+  .grid-home {
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: repeat(4, minmax(24vw, 1fr));
+    grid-template-rows: 1fr;
+  }
+
+  .grid-square {
+      align-items: center;
+      justify-content: center;
+      border-radius: 2vw;
+      display: flex;
+      overflow: hidden;
+      position: relative;
+      width: 24vw;
+      height: 24vw;
+  }
+
+  .grid-square .overlay {
+    display: flex;
+    align-items: center;
+    padding: 1em;
+    width: 90.5vw; /* that little extra is need to fully fill the grid squares. */
+    height: 24vw;
+    font-family: "Cooper Black", var(--font-secondary);
+    font-size: 1em;
+  }
+
+  .grid-square img {
+    width: 24.5vw; /* that little extra is need to fullfilly the grid squares. */
+  }
+
+  .grid-square .overlay {
+    background-color: rgba(255, 255, 255, 1);
+    display: flex;
+    position: absolute;
+    align-items: center;
+    padding: 1em;
+    width: 24.5vw; /* that little extra is need to fully fill the grid squares. */
+    height: 24vw;
+    opacity: 0;
+    font-family: "Cooper Black", var(--font-secondary);
+    font-size: 4vh;
+    top: 0;
+    transition: opacity 300ms;
+  }
+
+  .grid-square .overlay:hover {
+    opacity: 1;
+  }
+}
+
 /* Header Nav */
 header nav ul {
   padding: 0;
@@ -271,6 +343,7 @@ header nav li a[data-current="current item"] {
   font-size: 3em;
   margin: 0;
 }
+
 .self-portrait {
   border-radius: 2em; 
   height: auto; 
@@ -293,7 +366,6 @@ main > section > article > * {
 main img {
   max-width:  1000px;
   width: 100% /* this is temporary by design */;
-  margin: 1em 0;
 }
 
 main img.thumbnail {
@@ -585,7 +657,6 @@ p.postdate h3 {
     font-weight: 600;
 }
 
-
 #timeline-detail {
   display: none;
 }
@@ -816,11 +887,6 @@ span.fade:hover {
       overflow: visible;
   }
 
-  .grid-home {
-    display: grid;
-    gap: 2em 2em;
-  }
-
   .home .intro-home {
     display: flex;
     font-size: 2em;
@@ -990,11 +1056,6 @@ span.fade:hover {
     margin-left: auto;
     margin-right: auto;
     width: 60%;
-  }
-
-  .home main p img {
-    height: 660px;
-      width: 660px;
   }
 
 }
