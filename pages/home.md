@@ -13,43 +13,43 @@ image: /static/img/homepage-featured/bottlecap.jpg
   <div class="grid-square">
   <a href="/animations/">
     <div class="overlay">Somebody once called me the King of Doodles.</div>
-    <img src="/static/img/homepage-featured/160628_waver_600.gif"></a></div>
+    <img src="/static/img/homepage-featured/160628_waver_600.gif" alt="handwaving creature animation"></a></div>
   <div class="grid-square">
     <a href="/tags/all-night-movers/">
     <div class="overlay">I was in a band called All-Night Movers.</div>
-    <img src="/static/img/homepage-featured/all-night-movers-cover-aug-3-2002.jpg"></a></div>
+    <img src="/static/img/homepage-featured/all-night-movers-cover-aug-3-2002.jpg" alt="All-Night Movers band photo"></a></div>
   <div class="grid-square">
   <a href="/tags/paintings/">
     <div class="overlay">I paint these &ldquo;organic forms&rdquo;.</div>
-    <img src="/static/img/homepage-featured/organicforms.jpg"></a></div>
+    <img src="/static/img/homepage-featured/organicforms.jpg" alt="painting of organic forms by David Rhoden"></a></div>
   <div class="grid-square">
   <a href="/illustrations/">
     <div class="overlay">I do an occasional illustration.</div>
-    <img src="/static/img/homepage-featured/baggyfinal.jpg"></a></div>
+    <img src="/static/img/homepage-featured/baggyfinal.jpg" alt="illustration of man wearing ridiculous baggy jeans"></a></div>
   <div class="grid-square">
     <a href="/paintings/">
     <div class="overlay">I call it...&ldquo;Orange Squiggle&rdquo;.</div>
-    <img src="/static/img/homepage-featured/orangesquiggle02-edit.jpg"></a></div>
+    <img src="/static/img/homepage-featured/orangesquiggle02-edit.jpg" alt="painting of orange squiggle by David Rhoden"></a></div>
   <div class="grid-square">
     <a href="/animations/">
     <div class="overlay">I have many diverse interests.</div>
-    <img src="/static/img/homepage-featured/bunnyface-jan-10-2021.gif"></a></div>
+    <img src="/static/img/homepage-featured/bunnyface-jan-10-2021.gif" alt="bunnyface creature animation by David Rhoden"></a></div>
   <div class="grid-square">
   <a href="/paintings/">
     <div class="overlay">I wanted to paint a bus I might want to ride on.</div>
-    <img src="/static/img/homepage-featured/bus-painting-sep-24-2019.jpg"></a></div>
+    <img src="/static/img/homepage-featured/bus-painting-sep-24-2019.jpg" alt="bus painting by David Rhoden"></a></div>
   <div class="grid-square">
     <a href="/paintings/">
     <div class="overlay">It's fun to contemplate things.</div>
-    <img src="/static/img/homepage-featured/bottlecap.jpg"></a></div>
+    <img src="/static/img/homepage-featured/bottlecap.jpg" alt="bottlecap painting by David Rhoden"></a></div>
   <div class="grid-square">
     <a href="/paintings/">
     <div class="overlay">I like corn.<br>Do you like corn?</div>
-    <img src="/static/img/homepage-featured/cornmanreadyfortheworld.jpg"></a></div>
+    <img src="/static/img/homepage-featured/cornmanreadyfortheworld.jpg" alt="corn-eating creature by David Rhoden"></a></div>
   <div class="grid-square">
     <a href="/tags/hi-balls/">
     <div class="overlay">I was in a band called the Hi-Balls. (Also did this album artwork.)</div>
-    <img src="/static/img/homepage-featured/coverLoveMusic.jpg"></a></div>
+    <img src="/static/img/homepage-featured/coverLoveMusic.jpg"  alt="Love Music by The Hi-Balls album cover art"></a></div>
   <div class="grid-square">
     <a href="/tags/animations/">
     <div class="overlay">Needs work. Where do his ears go?</div>
