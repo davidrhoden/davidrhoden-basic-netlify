@@ -60,7 +60,7 @@ image: /static/img/homepage-featured/bottlecap.jpg
     <img src="/static/img/homepage-featured/negatorygoodbuddy-edit.jpg"></a></div>
   <div class="grid-square">
     <a href="/tags/the-stacks/">
-    <div class="overlay">I play in a band called The Stacks. Like &ldquo;stacks of records&rdquo;</div>
+    <div class="overlay">I play in a band called The Stacks. Like &ldquo;stacks of records.&rdquo;</div>
     <img src="/static/img/homepage-featured/stacks-at-gasa-gasa-edit.jpg"></a></div>
   <div class="grid-square">
     <a href="/animations/">

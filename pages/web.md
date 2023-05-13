@@ -11,101 +11,13 @@ eleventyNavigation:
 
 ---
 
-## 2021 -
+I started working as a web developer in 2000, when the business itself was pretty new.
+I never took a class then; there were no classes to take. I learned everything I learned on the dime of some company willing to pay me for what I could already do. I had some native curiosity too, so I kept up.
 
-Web design and development by New Orleans web developer and designer David Rhoden. 
+The business has moved along since then and it's mostly about learning whatever tech the bootcamps are teaching, to get people hired for whichever flavor-of-the-year technology is on the way out (which means tons of companies are still hiring for it). There are more barriers to entry now, and it seems like the workers are more disposable.
 
-I build sites in Wordpress, Craft CMS, and Eleventy (an excellent static site generator).
+But I'm still doing web development. I mostly work on legacy systems with outdated tech, but it's tech that still works. (A lot of the modern web is overengineered, when it should have just gotten easier.) And I still learn new things. For example, it seems like nobody wants to hire people to manage servers, they just want the developers to do it themselves on Amazon's cloud. So I'm learning how to use Docker and work in virtual environments. It's still a good job, if you understand that the lifecycle is so short that whatever you make will be gone as soon as you turn around.
 
-Now accepting freelance clients. [See the form at the bottom of this page.](#contact-form) 
+I used to have something of a portfolio page here, but hardly any of what I had to show is still active after twenty years, maybe none of it. And I've been looking at it too long. you can look at it on [The Wayback Machine](https://web.archive.org/web/20171129120706/https://davidrhoden.com/web), at least until that shuts down and disappears.
 
----
-
-## 2020 - 2015 
-
-Dixie Beer (with the team at Online Optimism)
-![](/static/img/web/dixie-beer-picker.png?nf_resize=fit&w=640)
-
-Moxie Learning (Online Optimism)
-![](/static/img/web/moxielearning-desktop.png?nf_resize=fit&w=640)
-
-Gina Phillips (design and development)
-![](/static/img/web/Gina_Phillips_Crow_Valley.png?nf_resize=fit&w=640)
-
-Luke Spurr Allen (design and development)
-![](/static/img/web/Luke-Spurr-Allen-Shows.jpg?nf_resize=fit&w=640)
-
-Mike Edison (design and development)
-![](/static/img/web/Mike-Edison-Videos.jpg?nf_resize=fit&w=640)
-
-Amber Sexton (design and development)
-![](/static/img/web/Amber-Sexton-Photographer.jpg?nf_resize=fit&w=640)
-
----
-
-## 2015 - 2010
-
-AT&T "The Innovators" (development, with the team at Sanders/Wingo)
-![](/static/img/web/innovators-mockup.jpg?nf_resize=fit&w=640)
-
-Bert Johnson for U.S. House of Representatives (development)
-![](/static/img/web/bertjohnson.jpg?nf_resize=fit&w=640)
-
-Express Health Care (development)
-![](/static/img/web/ehc.jpg?nf_resize=fit&w=640)
-
-Eatucator (development)
-![](/static/img/web/eatucator.jpg?nf_resize=fit&w=640)
-
-American Express Travel (with the team at iSeatz)
-![](/static/img/web/AMEX.jpg?nf_resize=fit&w=640)
-
----
-## 2010 - 2005
-
-Crown Royal (development, with the team at MRM/McCann)
-![](/static/img/web/crownroyal.jpg?nf_resize=fit&w=640)
-
-Home Depot Garden Club (development, with the team at MRM/McCann)
-![](/static/img/web/screenshot_homedepotgc.png?nf_resize=fit&w=640)
-
-Redbull Manny Mania (development, with the team at Kastner & Partners)
-![](/static/img/web/redbullmannymania.jpg?nf_resize=fit&w=640)
-
-Jawbone (development, with the team at 1/0)
-![](/static/img/web/screenshot_jawbonehome.png?nf_resize=fit&w=640)
-
-The Frisky (development, with the team at Turner Broadcasting)
-![](/static/img/web/frisky.jpg?nf_resize=fit&w=640)
-
-Bajibot (NYC Animators, development)
-![](/static/img/web/bajibot.jpg?nf_resize=fit&w=640)
-
-Rick Goetz Consulting (design and development)
-![](/static/img/web/screenshot_rickgoetz.png?nf_resize=fit&w=640)
-
-Subway Now (development, with the team at GoMobo)
-![](/static/img/web/screenshot_subwaynowhome.png?nf_resize=fit&w=640)
-![](/static/img/web/screenshot_subwaynowmenu.png?nf_resize=fit&w=640)
-
-<!-- Go Mobo (development, with the team at GoMobo)
-![](/static/img/web/screenshot_gomobohome.png?nf_resize=fit&w=640)
-![](/static/img/web/screenshot_gomobomenu.png?nf_resize=fit&w=640)
- -->
-<!-- IAC (design and development)
-![](/static/img/web/iacas.jpg?nf_resize=fit&w=640) -->
-
-Mirren Business Development (development)
-![](/static/img/web/screenshot_mirren2007.png?nf_resize=fit&w=640)
-![](/static/img/web/screenshot_mirren2006.png?nf_resize=fit&w=640)
-
-</div>
-
-<div id="contact-form">
-
-<h1>Get in touch</h1>
-I build websites as a full-time job, but I also build sites for clients on a freelance basis.
-
-If you're shopping for a website for your business or project, please let me know by filling out the form below. If we're a match in terms of budget and interestingness of the project, let's talk.
-
-</div>
+I'm now fully freelance. I currently do business under the name Happening Interactive LLC. My current web development site and limited portfolio is https://happeninginteractive.com.
