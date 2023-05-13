@@ -33,7 +33,7 @@ Give Me Your Money. $360
 ![Dominante painting by David Rhoden](/static/img/paintings/dominanteatbywaterb.jpg?nf_resize=fit&w=640)
 Dominante. $360
 
-![Bus painting by David Rhoden](/static/img/paintings/bus-painting-20190924.jpg?nf_resize=fit&w=640)
+![Bus painting by David Rhoden](/static/img/paintings/bus-painting-sep-24-2019.jpg?nf_resize=fit&w=640)
 Bus. $360.
 
 ![Long Legs painting by David Rhoden](/static/img/paintings/long-legs-20200101.jpg?nf_resize=fit&w=640)
