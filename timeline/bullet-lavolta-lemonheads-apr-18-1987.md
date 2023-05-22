@@ -17,7 +17,7 @@ tags:
 ---
 
 ![adams house doorway by @eriklon2](/static/img/timeline/bullet-lavolta-lemonheads-apr-18-1987.jpg "adams house doorway by @eriklon2")
-<<figcaption>Photo swiped from [@eriklon2](https://www.instagram.com/eriklon2/)</figcaption>
+<figcaption>Photo swiped from [@eriklon2](https://www.instagram.com/eriklon2/)</figcaption>
 
 I wonder if this was the same night I smacked into a glass wall vestibule on the Harvard campus, thinking it was air, and not glass. I bet it was the same night. I was looking for a pay phone.
 
