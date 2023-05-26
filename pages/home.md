@@ -84,7 +84,7 @@ image: /static/img/homepage-featured/bottlecap.jpg
     <img src="/static/img/homepage-featured/organicform5-chromeyellow-sq.jpg"></a></div>
   <div class="grid-square">
     <a href="/paintings/">
-    <div class="overlay">It's a majestic, go-anywhere vehicle called a Unimog.</div>
+    <div class="overlay">It's a go-anywhere vehicle called a Unimog.</div>
     <img src="/static/img/homepage-featured/unimog-feb-20-2022.jpg"></a></div>
   <div class="grid-square">
     <a href="/animations/">
