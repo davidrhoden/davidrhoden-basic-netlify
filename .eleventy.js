@@ -6,7 +6,6 @@ const slugify = require("slugify");
 const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
 const pluginSEO = require("eleventy-plugin-seo");
 const path = require("path");
-// const Image = require("@11ty/eleventy-img");
 // const pluginRss = require("@11ty/eleventy-plugin-rss");
 
 module.exports = function(eleventyConfig) {
@@ -31,7 +30,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.setDataDeepMerge(true);
 
   eleventyConfig.addFilter("readableDate", dateObj => {
-    return DateTime.fromJSDate(dateObj).toFormat("LLLL d yyyy");
+    return DateTime.fromJSDate(dateObj).toFormat("LLLL d, yyyy");
   });
 
   eleventyConfig.addFilter("machineDate", dateObj => {

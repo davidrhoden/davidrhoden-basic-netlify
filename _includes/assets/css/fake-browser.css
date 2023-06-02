@@ -6,6 +6,7 @@
 }
 
 .col-lg-8 {
+  outline: 2px dotted red;
 }
 
 body {
