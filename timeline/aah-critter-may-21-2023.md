@@ -14,6 +14,6 @@ tags:
 
 ---
 
-![aah-guy painting by David Rhoden](/static/img/paintings/aah-critter-may-21-2023.jpg "haah-guy painting by David Rhoden")
+![aah-guy painting by David Rhoden](/static/img/paintings/aah-critter-may-21-2023.jpg "aah-guy painting by David Rhoden")
 
 Another toothy critter.

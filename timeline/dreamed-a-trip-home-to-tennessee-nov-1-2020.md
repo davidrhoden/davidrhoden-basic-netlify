@@ -4,7 +4,8 @@ date: 2020-11-01T13:25:00.000Z
 summary: I was in Tennessee watching the New Orleans Saints play a team I didn't
   recognize.
 tags:
-  - post dreams
+  - post
+  - dreams
 ---
 I was in Tennessee watching the New Orleans Saints play a team I didn't recognize. They had snappy light blue uniforms, like the Titans but better, but my sister explained that they were the Redskins. I asked about the score and she said Saints were on top, 76 to 81. 
 

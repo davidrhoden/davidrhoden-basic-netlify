@@ -14,6 +14,6 @@ tags:
 
 ---
 
-![aah-guy painting by David Rhoden](/static/img/paintings/aah-guy-may-27-2023.jpg "house at 315 Tricou")
+![aah-guy painting by David Rhoden](/static/img/paintings/aah-guy-may-27-2023.jpg "aah-guy painting by David Rhoden")
 
 Did a new painting, the second one in a week. This also has a speech balloon that says "AAH". Not sure anyone will want it but I felt like making it.

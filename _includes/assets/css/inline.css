@@ -117,6 +117,17 @@ a[href]:active {
   color: var(--orangered);
 }
 
+footer a[href],
+footer a[href]:visited {
+  color: var(--white);
+  transition: color 0.3s ease;
+}
+
+footer a[href]:hover,
+footer a[href]:active {
+  color: var(--black);
+}
+
 a[href]:not(:hover) {
   text-decoration: none;
 }
@@ -155,15 +166,20 @@ footer {
 }
 
 footer {
-  background: var(--white);
+  background: var(--orangered);
   clear: both;
-  margin: 0 auto;
+  margin: 1em auto 0;
   width: 100%;
 }
 
 footer .search-box-container{
   margin-top: .5em;
   width: 100%;
+}
+
+.gsc-control-cse {
+    border-color: var(--orangered) !important;
+    background-color: var(--orangered) !var(--white);
 }
 
 figcaption {
@@ -738,6 +754,14 @@ span.fade:hover {
 
 /******* BEGIN TEXT-TIMELINE *******/
 
+.text-timeline {
+  display: grid;
+  grid-template-rows: repeat(60, auto);
+  grid-template-columns: auto;
+  grid-gap: 1em;
+  margin-top: 0;
+}
+
 .text-timeline.flex {
   flex-wrap: wrap;
 }
@@ -760,6 +784,11 @@ span.fade:hover {
 
 .text-timeline-link a {
   color:  var(--black);
+}
+
+.year {
+  outline: 2px solid #eeeeee;
+  position: relative;
 }
 
 /******* END TEXT-TIMELINE *******/
@@ -868,7 +897,6 @@ span.fade:hover {
   }
 
   footer {
-    background: var(--white);
       width: 100vw;
       padding: 2em;
   }
@@ -985,12 +1013,8 @@ span.fade:hover {
   }
 
   .post-year {
-    display: grid;
-    place-items: center;
-    font-family: var(--font-secondary);
     font-size: 2em;
-    font-weight: 600;
-    margin:  2px;
+    margin: 2px;
     padding: .5em;
     width: 128px;
   }
@@ -1005,10 +1029,13 @@ span.fade:hover {
   #timeline-detail {
     background: var(--white);
     display: flex;
+    height: 200px;
     margin: 1em auto;
     padding:  1em;
-    position: sticky;
-    top: 60px;
+    position: fixed;
+    left: 0;
+    top: 45px;
+    width: 600px;
     z-index: 10;
   }
 
@@ -1027,9 +1054,19 @@ span.fade:hover {
     width: 160px;
   }
 
+  .text-timeline {
+  grid-template-rows: auto;
+  grid-template-columns: repeat(60, 250px);
+  margin-top: 130px;
+}
+
   .text-timeline-link a {
-    display: inline-block;
-    white-space: nowrap;
+/*    display: inline-block;
+    white-space: nowrap;*/
+  }
+
+  .year {
+    width: 250px;
   }
 
   a.post-tag {
@@ -1045,6 +1082,11 @@ span.fade:hover {
   .bullet {
     display: inline;
   }
+
+  .tagslist a {color: black; position: relative;}
+  .tagslist a span { position:absolute; display:none; top: -50px; left: -300px; z-index:99; }
+  .tagslist a:hover {text-decoration: none;}
+  .tagslist a:hover span { display:block; }
 }
 
 @media screen and (min-width:1200px) {
