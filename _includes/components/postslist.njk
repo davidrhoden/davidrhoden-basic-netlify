@@ -12,15 +12,7 @@
                     <small>{{ post.date | readableDate }}</small>
                 </time>
             </p>
-            <h3>
-                <a href="{{ post.url }}">
-                    {% if post.data.title %}
-                    {{ post.data.title }}
-                    {% else %}
-                    Untitled
-                    {% endif %}
-                </a>
-            </h3>
+
             {% if post.data.summary %}
             <p>
                 {{ post.data.summary }}

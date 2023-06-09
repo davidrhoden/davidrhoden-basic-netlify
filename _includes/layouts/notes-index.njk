@@ -29,7 +29,7 @@ section: notes
   {% endif %}
   <p>
     <time datetime="{{ note.date | machineDate }}">
-      <small>{{ note.date | readableDate }} by {{ metadata.author.name }}</small>
+      <small>{{ note.date | readableDate }}</small>
     </time>
   </p>
     {% if note.data.tags %}
