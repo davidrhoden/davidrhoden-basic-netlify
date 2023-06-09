@@ -27,38 +27,25 @@ section: timeline
 
 </article>
 
+{% if prevPost.url %}
+  <p class="ctr">
+    <strong>Previous</strong>:
+    <a class="previous" href="{{ prevPost.url }}">{{ prevPost.data.date | readableDate }}: {{ prevPost.data.title }}</a>
+  </p>
+{% endif %}
 {% if nextPost.url %}
   <p class="ctr">
     <strong>Next</strong>: 
     <a class="next" href="{{ nextPost.url }}">{{ nextPost.data.date | readableDate }}: {{ nextPost.data.title }}</a>
   </p>
 {% endif %}
-{% if prevPost.url %}
-  <p class="ctr">
-    <strong>Previous</strong>: 
-    <a class="previous" href="{{ prevPost.url }}">{{ prevPost.data.date | readableDate }}: {{ prevPost.data.title }}</a>
-  </p>
-{% endif %}
+
 
 <nav>
-  <a href="/timeline/{{ url }}">← Timeline index</a>
+  <a href="/timeline/{{ url }}">← back to timeline</a>
 </nav>
 
 </div> {# closes div "container" that was started in the base layout. #}
-<div class="container-wide">
-  <div class="tabs">
-  <h2>
-  <a class="tab-selector active" href="#tab-1">view as images</a>
-  <a class="tab-selector" href="#tab-2">view as text</a>
-  </h2>
-    <div class="tab active" id="tab-1">
-      {% include "components/photo-timeline.njk" %}
-    </div>
-    <div class="tab" id="tab-2">
-      {% include "components/text-timeline.njk" %}
-    </div>
-  </div>
-</div>
 
 <script>
 $(document).ready(function(){

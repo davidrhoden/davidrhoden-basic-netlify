@@ -1,46 +1,38 @@
+
+<div class="text-timeline">
 <div id="timeline-detail"></div>
-  <div class="text-timeline">
-    {% set showYear = true %}
-    {% set currentYear = "" %}
-    
-    {% for post in collections.post %}
-      {% if showYear %}
-        {% set postYear = post.date.getFullYear() %}
-        {% if currentYear != postYear %}
-            {% set currentYear = postYear %}
-            <span class="post-year">{{ postYear }}</span>
+  {% set showYear = true %}
+  {% set currentYear = "" %}
+  {% for post in collections.post %}
+    {% if showYear %}
+      {% set postYear = post.date.getFullYear() %}
+      {% if currentYear != postYear %}
+        {% if currentYear != "" %}
+          </div> <!-- END YEAR -->
         {% endif %}
-      {% endif %}
+        {% set currentYear = postYear %}
 
-      <div class="text-timeline-link">
-        <a href="{{ post.url }}">{{post.data.title}}</a>&nbsp;
-
-        <div class="hidden">
-          <div class="thumbnail-container">
-            {% if post.data.image %}
-             <a href="{{ post.url }}"><img onerror="this.style.display='none'" class="thumbnail" src="/static/img/{{ post.data.image }}?nf_resize=fit&w=160" alt="{{post.data.title}}"></a>
-            {% endif %} 
-          </div>
-          <div class="summary">
-            <time datetime="{{ post.date | machineDate }}">
-              <small>{{ post.date | readableDate }}</small>
-            </time><br>
-            {% if post.data.title %}
-               <a href="{{ post.url }}"><h3>{{ post.data.title }}</h3></a>
-            {% else %}
-              Untitled
-            {% endif %} 
-            <br>
-            {% if post.data.tags %}
-              {% for tag in post.data.tags %}
-                {%- if tag != "post" -%}
-                  <span class="tag">{{ tag }}</span>
-                {%- endif -%}
-              {% endfor %}
-            {% endif %}
+        <div class="year">
+          <span class="post-year">{{ postYear }}</span>
+     {% endif %}
+    {% endif %}
+        <div class="text-timeline-link">
+          <a href="{{ post.url }}">{{post.data.title}}</a>&nbsp;
+          <div class="hidden">
+              <div class="thumbnail-container">
+                {% if post.data.image %}
+                 <a href="{{ post.url }}"><img onerror="this.style.display='none'" class="thumbnail" src="/static/img/{{ post.data.image }}?nf_resize=fit&w=320" alt="{{post.data.title}}"></a>
+                {% endif %}
+              </div>
+              <div class="summary">
+                <time datetime="{{ post.date | machineDate }}">
+                  <small>{{ post.date | readableDate }}</small>
+                </time><br>
+                   <a href="{{ post.url }}"><h3>{{ post.data.title }}</h3></a>
+                   <p>{{ post.data.summary }}</p>
+                <br>
+              </div>
           </div>
         </div>
-      </div>
-    {% endfor %}
-  </div>
+      {% endfor %}
 </div>

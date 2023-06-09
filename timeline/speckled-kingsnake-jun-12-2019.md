@@ -1,8 +1,8 @@
 ---
 title: Saw a speckled king snake in the road.
 date: 2019-06-12T07:00:00.000Z
-summary: harmless as long as you don't pick it up
-excerpt: harmless as long as you don't pick it up
+summary: Harmless, as long as you don't pick it up.
+excerpt: Harmless, as long as you don't pick it up
 category: timeline
 image: timeline/speckled-kingsnake-1-20190612.jpg
 tags:

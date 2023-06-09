@@ -17,7 +17,7 @@ eleventyComputed:
 <h1>{{ tag }}</h1>
 
 {% set postslist = collections[ tag ] %}
-{% include "components/tagslist.njk" %}
+{% include "components/tagslist-short.njk" %}
 
 <nav>
   <a href="/timeline/{{ url }}">← Timeline index</a>

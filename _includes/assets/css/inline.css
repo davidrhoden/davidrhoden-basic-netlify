@@ -771,19 +771,19 @@ span.fade:hover {
   background-color: var(--blue);
 }
 
-.text-timeline-post-year {
+/*.text-timeline-post-year {
     display: inline-block;
     padding: 0;
     width: 100%;
     font-size: .75em;
-}
+}*/
 
 .text-timeline-link {
   padding:  .25em .5em;
 }
 
-.text-timeline-link a {
-  color:  var(--black);
+.text-timeline-link a, .text-timeline-link a[href]:visited {
+  color: var(--black);
 }
 
 .year {
@@ -877,12 +877,8 @@ span.fade:hover {
     margin-right: 1em;
   }
 
-  .summary, .image {
+  .image {
     flex-basis: 50%;
-  }
-
-  .gsc-control-cse {
-      padding-top: .3em !important;
   }
 
   header nav li {
@@ -1013,10 +1009,9 @@ span.fade:hover {
   }
 
   .post-year {
-    font-size: 2em;
     margin: 2px;
     padding: .5em;
-    width: 128px;
+    width: 50px;
   }
 
   .self-portrait {
@@ -1031,16 +1026,17 @@ span.fade:hover {
     display: flex;
     height: 200px;
     margin: 1em auto;
-    padding:  1em;
+    padding: 1em;
     position: fixed;
     left: 0;
     top: 45px;
-    width: 600px;
+    width: 100%;
     z-index: 10;
   }
 
   #timeline-detail h3 {
     margin: 0;
+    max-width: 1000px;
   }
 
   #timeline-detail .summary {
@@ -1051,7 +1047,13 @@ span.fade:hover {
     height: 160px;
     overflow: hidden;
     position: relative;
-    width: 160px;
+    text-align:center;
+    width: 320px;
+  }
+
+  #timeline-detail .thumbnail-container a img {
+    max-height: 160px;
+    max-width: 320px;
   }
 
   .text-timeline {
@@ -1061,11 +1063,11 @@ span.fade:hover {
 }
 
   .text-timeline-link a {
-/*    display: inline-block;
-    white-space: nowrap;*/
+    color: var(--black);
   }
 
   .year {
+    height: max-content;
     width: 250px;
   }
 
