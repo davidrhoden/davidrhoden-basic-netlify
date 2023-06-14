@@ -6,6 +6,7 @@ support/
 .env
 /static/img-to-be-added
 /static/audio
+/static/img/homepage-featured/unused-homepage-candidates/
 .DS_Store
 /pages/animation-demo.md
 /pages/bands-seen.md

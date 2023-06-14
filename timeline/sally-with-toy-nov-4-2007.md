@@ -19,13 +19,13 @@ It was fun to watch her concentrate.
     <button id="buttonPrevious">&#10094;</button>
     <button id="buttonNext">&#10095;</button>
 
-![Sally got on my shoulder.](/static/img/sally/sally-with-toy-nov-4-2007/sally-with-toy-nov-4-2007-alert.jpg "Sally got on my shoulder.")
+![Sally got a toy.](/static/img/sally/sally-with-toy-nov-4-2007/sally-with-toy-nov-4-2007-alert.jpg "Sally got a toy.")
 
-![Sally got on my shoulder.](/static/img/sally/sally-with-toy-nov-4-2007/sally-with-toy-nov-4-2007-cute-sitter.jpg "Sally got on my shoulder.")
+![Sally got a toy.](/static/img/sally/sally-with-toy-nov-4-2007/sally-with-toy-nov-4-2007-cute-sitter.jpg "Sally got a toy.")
 
-![Sally got on my shoulder.](/static/img/sally/sally-with-toy-nov-4-2007/sally-with-toy-nov-4-2007-smart.jpg "Sally got on my shoulder.")
+![Sally got a toy.](/static/img/sally/sally-with-toy-nov-4-2007/sally-with-toy-nov-4-2007-smart.jpg "Sally got a toy.")
 
-![Sally got on my shoulder.](/static/img/sally/sally-with-toy-nov-4-2007/sally-with-toy-nov-4-2007-on-watch.jpg "Sally got on my shoulder.")
+![Sally got a toy.](/static/img/sally/sally-with-toy-nov-4-2007/sally-with-toy-nov-4-2007-on-watch.jpg "Sally got a toy.")
 
 
 
