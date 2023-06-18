@@ -39,14 +39,21 @@ html,
 body {
   padding: 0;
   margin: 0;
-  font-family: var(--font-primary);
 }
 
 body {
   display: grid;
+  font-family: var(--font-primary);
   height: 100vh;
-  grid-template-rows: auto 1fr auto;
   background-color: var(--white);
+}
+
+article {
+  height: 100vh;
+  min-height: 100%;
+  display: grid;
+  grid-template-rows: 1fr auto;
+  grid-template-columns: 100%;
 }
 
 h1 {
@@ -367,12 +374,6 @@ header nav li a[data-current="current item"] {
 }
 
 /* Posts List */
-article {
-  margin-bottom: 1em;
-  padding-bottom: 1em;
-  border-bottom: 1px solid #eee;
-  border-bottom: 1px solid var(--white);
-}
 
 main > section > article > * {
   margin-top: 0;
@@ -827,7 +828,7 @@ span.fade:hover {
     margin-top: 6em;
     margin-left: auto;
     margin-right: auto;
-    width: 75%;
+    width: 60%;
   }
 
   .home .container {
@@ -889,8 +890,7 @@ span.fade:hover {
   }
 
   footer {
-      width: 100vw;
-      padding: 2em;
+    padding: 2em;
   }
 
   footer.home {
@@ -1087,7 +1087,7 @@ span.fade:hover {
   .tagslist a:hover span { display:block; }
 }
 
-@media screen and (min-width:1200px) {
+@media screen and (min-width:1400px) {
   :root {
     font-size: 1.1rem;
   }
@@ -1095,7 +1095,7 @@ span.fade:hover {
   .container {
     margin-left: auto;
     margin-right: auto;
-    width: 60%;
+    width: 40%;
   }
 
 }

@@ -15,11 +15,13 @@
           </div>
           {% include "components/nav.njk" %}
       </header>
-      <div class="container">
+    <article>
       <main>
-          {{ layoutContent | safe }}
+        <div class="container">
+            {{ layoutContent | safe }}
+        </div>
       </main>
-      </div>
       {% include "components/footer.njk" %}
+    </article>
   </body>
 </html>
