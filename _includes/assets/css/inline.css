@@ -588,62 +588,7 @@ p.postdate h3 {
   grid-area: image;
 }
 
-.polaroid, main .polaroid:first-child , main > article .polaroid:first-child {
-/*  background: var(--white);
-  padding: 1em;
-  margin-bottom: 1em;*/
-}
 
-.polaroid.animations {
-  background: url(/static/img/animations/160628_waver_600.gif) center center no-repeat;
-}
-
-.polaroid.designs {
-  background: url(/static/img/designs/TalbotAdamsAlbum.jpg) center center no-repeat;
-}
-
-.polaroid.forsale {
-  background: url(/static/img/designs/Bottle-CapTeeTurquoise.jpg) center center no-repeat;
-}
-
-.polaroid.illustrations {
-  background: url(/static/img/illustrations/harbo.jpg) center center no-repeat;
-}
-
-.polaroid.paintings {
-  background: url(/static/img/paintings/organicform5-chromeyellow-sq.jpg) center center no-repeat;
-}
-
-.polaroid.rock {
-  background: url(/static/img/rock/all-night-movers/all-night-movers-dave-jul-27-2002.jpg) center center no-repeat;
-}
-
-.polaroid.sketchbook {
-  background: url(/static/img/sketchbook/aah-guy.jpg) center center no-repeat;
-}
-
-.polaroid.timeline {
-  background: url(/static/img/paintings/bigface_sq.jpg) center center no-repeat;
-}
-
-.polaroid.web {
-  background: url(/static/img/web/edison.jpg) center center no-repeat;
-}
-
-.polaroid {
-  background-size: cover;
-  display: grid;
-  align-content: center;
-  justify-content: center;
-  padding: 12em 0;
-}
-
-.polaroid div {
-  background: white;
-  padding: 1em;
-  margin:  0 auto;
-  width:  90%;
-}
 
 /******* BEGIN PHOTO-TIMELINE *******/
 
@@ -785,6 +730,7 @@ span.fade:hover {
 }
 
 .year {
+  margin-top: 10px;
   outline: 2px solid #eeeeee;
   position: relative;
 }
@@ -839,11 +785,6 @@ span.fade:hover {
     margin-left: auto;
     margin-right: auto;
     width: 90vw;
-  }
-
-  .timeline .container-wide {
-    border-top:  1px solid #efefef;
-    margin-top:  2em;
   }
 
   .flex {
@@ -926,11 +867,6 @@ span.fade:hover {
 
   .home .intro-home p {
     line-height: 1.5;
-  }
-
-  .polaroid.paintings {
-    margin:  0 auto;
-    width:  50%;
   }
 
   .chevron {
@@ -1016,56 +952,6 @@ span.fade:hover {
     margin: 0 2em;
     width: auto;
   }
-
-  #timeline-detail {
-    background: var(--white);
-    display: flex;
-    height: 200px;
-    margin: 1em auto;
-    padding: 1em;
-    position: fixed;
-    left: 0;
-    top: 45px;
-    width: 100%;
-    z-index: 10;
-  }
-
-  #timeline-detail h3 {
-    margin: 0;
-    max-width: 1000px;
-  }
-
-  #timeline-detail .summary {
-    margin-left: 1rem;
-  }
-
-  #timeline-detail .thumbnail-container {
-    height: 160px;
-    overflow: hidden;
-    position: relative;
-    text-align:center;
-    width: 320px;
-  }
-
-  #timeline-detail .thumbnail-container a img {
-    max-height: 160px;
-    max-width: 320px;
-  }
-
-/*  .text-timeline {
-    grid-template-rows: auto;
-    grid-template-columns: repeat(60, 250px);
-    margin-top: 130px;
-  }*/
-
-  .text-timeline-link a {
-    color: var(--black);
-  }
-
-/*  .year {
-    height: max-content;
-    width: 250px;
-  }*/
 
   a.post-tag {
     display: inline;
