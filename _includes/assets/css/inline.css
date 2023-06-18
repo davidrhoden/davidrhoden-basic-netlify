@@ -495,6 +495,10 @@ footer small {
   width: 100%;
 }
 
+.about .left img {
+  width: 320px;
+}
+
 .tiny-thumbnail img {
   min-height: 128px;
   width: auto;
@@ -754,13 +758,13 @@ span.fade:hover {
 
 /******* BEGIN TEXT-TIMELINE *******/
 
-.text-timeline {
+/*.text-timeline {
   display: grid;
   grid-template-rows: repeat(60, auto);
   grid-template-columns: auto;
   grid-gap: 1em;
   margin-top: 0;
-}
+}*/
 
 .text-timeline.flex {
   flex-wrap: wrap;
@@ -770,13 +774,6 @@ span.fade:hover {
   color:  white;
   background-color: var(--blue);
 }
-
-/*.text-timeline-post-year {
-    display: inline-block;
-    padding: 0;
-    width: 100%;
-    font-size: .75em;
-}*/
 
 .text-timeline-link {
   padding:  .25em .5em;
@@ -819,7 +816,6 @@ span.fade:hover {
   .bullet {
     display: inline;
   }
-
 }
 
 @media screen and (min-width:960px) {
@@ -1056,20 +1052,20 @@ span.fade:hover {
     max-width: 320px;
   }
 
-  .text-timeline {
-  grid-template-rows: auto;
-  grid-template-columns: repeat(60, 250px);
-  margin-top: 130px;
-}
+/*  .text-timeline {
+    grid-template-rows: auto;
+    grid-template-columns: repeat(60, 250px);
+    margin-top: 130px;
+  }*/
 
   .text-timeline-link a {
     color: var(--black);
   }
 
-  .year {
+/*  .year {
     height: max-content;
     width: 250px;
-  }
+  }*/
 
   a.post-tag {
     display: inline;
