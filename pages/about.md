@@ -57,13 +57,13 @@ David Rhoden, Selfie, Bushwick, 2008
 
 ---
 
-![David Rhoden with MAXIMVS! (Trey Ledford, Jeff Pounds) at Circle Bar, New Orleans, 2004](static/img/rock/maximvs/maximvs-big-top-feb-18-2004/david-drumming-feb-18-2004.jpg)
+![David Rhoden with MAXIMVS! (Trey Ledford, Jeff Pounds) at Circle Bar, New Orleans, 2004](/static/img/rock/maximvs/maximvs-big-top-feb-18-2004/david-drumming-feb-18-2004.jpg)
 
 David Rhoden with MAXIMVS! (Trey Ledford, Jeff Pounds) at Circle Bar, New Orleans, 2004
 
 ---
 
-![David Rhoden with All-Night Movers, New Orleans, 2003](/static/img/rock/all-night-movers/circle-bar-oct-3-2002/all-night-movers-davetalktoit.jpg)
+![David Rhoden with All-Night Movers, New Orleans, 2003](/static/img/rock/all-night-movers/circle-bar-oct-3-2002/anm-circle-bar-talktoit.jpg))
 
 David Rhoden with All-Night Movers at Circle Bar New Orleans, 2003?
 
