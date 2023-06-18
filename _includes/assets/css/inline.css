@@ -382,11 +382,10 @@ main > section > article > * {
 
 main img {
   max-width:  1000px;
-  width: 100% /* this is temporary by design */;
 }
 
 main img.thumbnail {
-  width: 280px;
+/*  width: 280px;*/
 }
 
 a.tiny-thumbnail {
