@@ -70,7 +70,25 @@
     color: var(--black);
   }
 
-/*  .year {
-    height: max-content;
-    width: 250px;
-  }*/
+.text-timeline.flex {
+  flex-wrap: wrap;
+}
+
+.text-timeline .post-year {
+  color:  white;
+  background-color: var(--blue);
+}
+
+.text-timeline-link {
+  padding:  .25em .5em;
+}
+
+.text-timeline-link a, .text-timeline-link a[href]:visited {
+  color: var(--black);
+}
+
+.year {
+  margin-top: 20px;
+  outline: 2px solid #eeeeee;
+  position: relative;
+}
