@@ -59,11 +59,14 @@ article {
 h1 {
   font-family: var(--font-secondary);
   font-weight: 700;
+  font-size: 2em;
+  margin: 0;
 }
 
 h2 {
   font-family: var(--font-secondary);
   font-weight: 200;
+  font-size: 2em;
 }
 
 h3 {

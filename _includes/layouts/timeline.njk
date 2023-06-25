@@ -5,8 +5,9 @@ section: timeline
 ---
 
 <article>
+
   <h1>{{ title }}</h1>
-  <p>
+    <p>
     <small>
       <time datetime="{{ date | machineDate }}"><span id="todays-date">{{ date | readableDate }}</span></time>. Day <span id="days"></span>.
     </small>
@@ -25,7 +26,7 @@ section: timeline
     </p>
   {% endif %}
 
-</article>
+
 
 {% if prevPost.url %}
   <p class="ctr">
@@ -45,7 +46,7 @@ section: timeline
   <a href="/timeline/{{ url }}">← back to timeline</a>
 </nav>
 
-</div> {# closes div "container" that was started in the base layout. #}
+</article>
 
 <script>
 $(document).ready(function(){
