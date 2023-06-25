@@ -175,8 +175,8 @@ footer {
 footer {
   background: var(--orangered);
   clear: both;
-  margin: 1em auto 0;
-  width: 100%;
+  margin: 1em 0 auto;
+  width: calc(100% - 2em);
 }
 
 footer .search-box-container{
@@ -252,6 +252,11 @@ main {
 }
 
 @media screen and (min-width:600px) {
+
+  footer {
+    width: 100%;
+  }
+
   .grid-home {
     display: grid;
     grid-gap: 10px;
