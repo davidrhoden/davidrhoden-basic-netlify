@@ -89,14 +89,20 @@
     max-width: 320px;
   }
 
-  .grid-item, .year {
+  .grid-item {
     height: min-content;
     max-height: calc(100vh - 400px);
     width: fit-content;
-    min-width: 250px; /* Adjust this value as needed */
+    min-width: 250px;
     max-width: 1000px;
   }
 
+  .year {
+    height: min-content;
+    width: fit-content;
+    min-width: 250px;
+    max-width: 1000px;
+  }
 
 }
 

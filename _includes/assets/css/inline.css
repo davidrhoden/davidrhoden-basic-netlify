@@ -102,6 +102,11 @@ header nav.is-active {
   margin-top: 1em;
 }
 
+.tagslist a span {
+  display: block;
+  margin-top: .5em;
+}
+
 .container {
   margin-top: 4em;
   width: 100vw;
@@ -945,6 +950,7 @@ span.fade:hover {
 
   .tagslist a {color: black; position: relative;}
   .tagslist a span { position:absolute; display:none; top: -50px; left: -300px; z-index:99; }
+  .tagslist a span img { width: 240px; }
   .tagslist a:hover {text-decoration: none;}
   .tagslist a:hover span { display:block; }
 }
