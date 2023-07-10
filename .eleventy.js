@@ -6,7 +6,7 @@ const slugify = require("slugify");
 const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
 const pluginSEO = require("eleventy-plugin-seo");
 const path = require("path");
-// const pluginRss = require("@11ty/eleventy-plugin-rss");
+const pluginRss = require("@11ty/eleventy-plugin-rss");
 
 module.exports = function(eleventyConfig) {
 
@@ -24,7 +24,11 @@ module.exports = function(eleventyConfig) {
     }
   });
 
-  // eleventyConfig.addPlugin(pluginRss);
+  eleventyConfig.addPlugin(pluginRss);
+
+  eleventyConfig.addLiquidFilter("dateToRfc3339", pluginRss.dateToRfc3339);
+  // New in RSS 1.2.0
+  eleventyConfig.addLiquidFilter("dateToRfc822", pluginRss.dateToRfc822);
 
   // https://www.11ty.dev/docs/data-deep-merge/
   eleventyConfig.setDataDeepMerge(true);
