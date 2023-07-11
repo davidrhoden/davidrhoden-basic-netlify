@@ -56,6 +56,10 @@ article {
   grid-template-columns: 100%;
 }
 
+.notes article {
+  height: auto;
+}
+
 h1 {
   font-family: var(--font-secondary);
   font-weight: 700;

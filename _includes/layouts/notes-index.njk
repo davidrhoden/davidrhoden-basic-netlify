@@ -10,7 +10,7 @@ section: notes
 {% for note in notes %}
 <article class="flex">
   <div class="left">
-    {% if note.data.image %}<img class="thumbnail" src="/static/img/{{ note.data.image }}?nf_resize=fit&w=160">{% endif %}
+    {% if note.data.image %}<img style="width: 160px;" class="thumbnail" src="/static/img/{{ note.data.image }}?nf_resize=fit&w=160">{% endif %}
   </div>
   <div>
   <h3>
