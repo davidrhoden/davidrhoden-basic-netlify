@@ -1,7 +1,7 @@
 ---
 title: Can I still call myself a painter?
-date: 2023-07021T10:00:00.000Z
-image:
+date: 2023-07-21T10:00:00.000Z
+image: /notes/one-fat-summer-jul-20-2023.jpg
 tags:
   - note 
   - post
@@ -31,5 +31,7 @@ The story is about Bob Marks, age fifteen, a kid whose family lives in New York 
 Bob shapes up because of the lawn work, which I think is why my mom suggested read this book years ago. He also becomes more able to control situations he finds himself in. That's the moral I guess, get in shape so you don't get pushed around. Aside from that, there's just a lot to this book. Racism is an issue. Disordered eating is mentioned. PTSD, while not named, is a major aspect of the story. There are women characters in the book who aren't cardboard and who affect the plot.
 
 It's a book for young adults, probably boys in particular. I thought it was great then, and on this second reading. It was like Judy Blume but with more fighting. (Maybe like S.E. Hinton with less fighting, if my movie-watching tells me anything.) It was originally published in 1967, over half a century ago, but you can hardly tell. The main giveaway is the frequent mention of popular songs by the likes of Eddie Fisher. Otherwise it's 100% relevant. Recommended.
+
+![One Fat Summer cover](/static/img/notes/one-fat-summer-jul-20-2023.jpg "One Fat Summer cover")
 
 
