@@ -14,17 +14,17 @@ tags:
 
 It's been a long time since I completed a painting. Nobody was buying anything during COVID, and my wall space was all full, so I sort of got out of the habit.
 
-I really enjoyed painting the Unimog and the Rayco Stumpgrinder, so I picked out another iustrial machine to paint: a snowmobile. I work from pictures on these, and it should really, in the end, be as easy as paint-by-numbers.
+I really enjoyed painting the Unimog and the Rayco Stumpgrinder, so I picked out another industrial machine to paint: a snowmobile. I work from pictures on these, and it should really, in the end, be as easy as paint-by-numbers.
 
-Unfortunately, my hands have gotten shaky. I can't do the clean lines like I want to. There's still a painting there, but it's mot what I wanted, exactly.
+Unfortunately, my hands have gotten shaky. I can't do the clean lines like I want to. There's still a painting there, but it's not what I wanted, exactly.
 
 The weather was terrible for this--we were going through a heatwave and the humidity was near 100 percent. My paint could stay wet for two days. (This is One-Shot sign paint, it's made to dry in a couple of hours.) I don't think I did the best job of preparing the wood, and that's something that can be fixed on future work. So maybe this is just a one-off mess-up. Everybody is permitted an off day. I just hope I can continue doing this, shaky hands or not.
 
----
+-----
 
 I recently read a book with the intriguing title _No One Left to Come Looking for You_ by Sam Lipsyte. I don't understand why that was the title, but maybe I skimmed over it. It was a book about Lower East Side punk rockers. I didn't quite believe it. I liked it but didn't love it. It was Pynchonesque in that there was a plot about a murder that didn't really mean much in terms of the actual story, and that plot was hard to follow. It's O.K. though.
 
-It got me thinking about a book I read when I was about twelve or thirteen called _One Fat Summer_, by Robert Lipsyte, a New York Times sports columnist for years, and Sam Lipsyte's father. I remember really liking the book so I got it from the library. Last night I read it again, cover to cover in one sitting. I think it's still in print, and it should be.
+It got me thinking about a book I read when I was about twelve or thirteen called _One Fat Summer_, by Robert Lipsyte, a New York Times sports columnist for years, and Sam Lipsyte's father. I remember really liking the book, so I got it from the library. Last night I read it again, cover to cover, in one sitting. I think it's still in print, and it should be.
 
 The story is about Bob Marks, age fifteen, a kid whose family lives in New York City but spends summers in a lake community. The locals don't like the summer people already, but they pick on Bob especially, because he's fat. And by "pick on" I mean they beat him up, repeatedly. One of the locals wants his job, which is cutting grass every weekday for a picky old man who pays fifty cents an hour.
 
