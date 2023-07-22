@@ -33,6 +33,8 @@ Bob shapes up because of the lawn work, which I think is why my mom suggested I 
 It's a book for young adults, probably boys in particular. I thought it was great then, and on this second reading. It was like Judy Blume but with more fighting. (Maybe like S.E. Hinton with less fighting, if my movie-watching tells me anything.) <s>It was originally published in 1967, over half a century ago, but you can hardly tell.  The main giveaway is the frequent mention of popular songs by the likes of Eddie Fisher.</s> _My mistake: it was published in 1977, but it's set in the Fifties._ Otherwise it's 100% relevant.
 Recommended.
 
+[Interesting article about the book getting take out of a Long Island middle school's curriculum in 1997. Great quote from the author at the end.](https://www.nytimes.com/1997/06/08/nyregion/a-1977-comes-under-scrutiny.html)
+
 ![One Fat Summer cover](/static/img/notes/one-fat-summer-jul-20-2023.jpg "One Fat Summer cover")
 
 
