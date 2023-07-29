@@ -1,0 +1,12 @@
+@media screen and (min-width:960px) {
+   main #bricks img {
+    height: 260px
+  }
+
+  #bricks ol li {
+      margin: .2em 0;
+      display: inline-block;
+      position: relative;
+      counter-increment: inst;
+  }
+}
