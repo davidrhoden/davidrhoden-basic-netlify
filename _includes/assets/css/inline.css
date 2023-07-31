@@ -42,18 +42,8 @@ body {
 }
 
 body {
-  display: grid;
   font-family: var(--font-primary);
-  height: 100vh;
   background-color: var(--white);
-}
-
-article {
-  height: 100vh;
-  min-height: 100%;
-  display: grid;
-  grid-template-rows: 1fr auto;
-  grid-template-columns: 100%;
 }
 
 .notes article {
@@ -77,16 +67,6 @@ h3 {
   clear: both;
   font-family: var(--font-secondary); 
   font-size: 2em;
-}
-
-header {
-  display: flex;
-  background: var(--white);
-  border-bottom: 1px solid #efefef;
-  flex-wrap: wrap;
-  position: fixed;
-  width: 100vw;
-  z-index: 2;
 }
 
 header .flex-container {

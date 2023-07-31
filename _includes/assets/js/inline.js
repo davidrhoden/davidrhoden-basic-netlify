@@ -27,7 +27,7 @@ function showHidden() {
 
 $(document).ready(function(){
   $( ".photo-timeline" ).on( "mouseover", ".photo-timeline-link", showHidden );
-  $( ".text-timeline" ).on( "mouseover", ".text-timeline-link", showHidden );
+  $( "#text-timeline" ).on( "mouseover", ".text-timeline-link", showHidden );
 });
 
 
@@ -54,7 +54,6 @@ $(document).ready(function() {
   var totalImages = images.length;
   var firstImage = $('#viewport img:first');
   var altText = $(firstImage).attr("alt");
-  console.log(altText);
   firstImage.addClass("fadedIn");
   $('#caption').html(altText);
 

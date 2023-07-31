@@ -1,0 +1,33 @@
+#app {
+  /* grid container settings */
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: auto 1fr auto;
+  grid-template-areas: 
+    'header'
+    'main'
+    'footer';
+}
+
+#app > header {
+  grid-area: header;
+}
+
+#app > main {
+  grid-area: main;
+  paddi
+  ng: 15px 5px 10px 5px;
+}
+#app > footer {
+  grid-area: footer;
+}
+
+header {
+  display: flex;
+  background: var(--white);
+  border-bottom: 1px solid #efefef;
+  flex-wrap: wrap;
+  position: fixed;
+  width: 100vw;
+  z-index: 2;
+}

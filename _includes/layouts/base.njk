@@ -2,26 +2,19 @@
 <html {% if section %}data-current="{{ section }}"{% endif %} lang="en">
   {% include "components/head.njk" %}
   <body class="{% if pageType %}{{ pageType }}{% endif %} {{ page.fileSlug }} {{ pageClasses }}">
-      <header>
-          <div class="flex-container">
-              <a class="main-link" href="/{{ url }}">{{ metadata.title }}</a>
-              <div class="mobile-menu">
-                  <button class="hamburger hamburger--squeeze" aria-label="Menu" aria-controls="primary-menu" aria-expanded="false" type="button">
-                      <span class="hamburger-box">
-                          <span class="hamburger-inner"></span>
-                      </span>
-                  </button>
-              </div>
-          </div>
-          {% include "components/nav.njk" %}
-      </header>
-    <article>
+    <div id="app">
+      {% include "components/header.njk" %}
       <main>
-        <div class="container">
-            {{ layoutContent | safe }}
-        </div>
+        <article>
+
+            <div class="container">
+                {{ layoutContent | safe }}
+            </div>
+
+        </article>
+
       </main>
       {% include "components/footer.njk" %}
-    </article>
+    </div>
   </body>
 </html>
