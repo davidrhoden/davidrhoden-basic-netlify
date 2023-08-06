@@ -3,7 +3,7 @@
     margin-top: 6em;
   }
 
-  #bricks ol li {
+  #bricks ol li,   #bricks ul li  {
       margin: .2em;
       display: inline-block;
       position: relative;
