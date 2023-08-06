@@ -12,13 +12,13 @@ eleventyNavigation:
 
 ---
 
-- [![For a petition for more BMX parks in Seattle.](/static/img/illustrations/harbo.jpg?nf_resize=smartcrop&w=260&h=260)](/static/img/illustrations/harbo.jpg?nf_resize=smartcrop&w=260&h=260)
-- [![Album cover illustration for Talbot Adams.](/static/img/designs/TalbotAdamsAlbum.jpg?nf_resize=smartcrop&w=260&h=260)](/static/img/designs/TalbotAdamsAlbum.jpg?nf_resize=smartcrop&w=260&h=260)
+- [![For a petition for more BMX parks in Seattle.](/static/img/illustrations/harbo.jpg?nf_resize=smartcrop&w=260&h=260)](/static/img/illustrations/harbo.jpg)
+- [![Album cover illustration for Talbot Adams.](/static/img/designs/TalbotAdamsAlbum.jpg?nf_resize=smartcrop&w=260&h=260)](/static/img/designs/TalbotAdamsAlbum.jpg)
 - [![Jimmy and The Wolfpack.](/static/img/illustrations/jandtwpilloonly.jpg)](/static/img/illustrations/jandtwpilloonly.jpg)
-- [![The Hi-Balls album sleeve.](/static/img/illustrations/coverLoveMusic.jpg?nf_resize=smartcrop&w=260&h=260)](/static/img/illustrations/coverLoveMusic.jpg?nf_resize=smartcrop&w=260&h=260)
-- [![For _Louisiana Life_ magazine.](/static/img/illustrations/cars.jpg?nf_resize=smartcrop&w=260&h=260)](/static/img/illustrations/cars.jpg?nf_resize=smartcrop&w=260&h=260)
-- [!["Bio boards" to introduce conference speakers by showing the industry they work in.](/static/img/illustrations/narayandas.jpg?nf_resize=smartcrop&w=260&h=260)](/static/img/illustrations/narayandas.jpg?nf_resize=smartcrop&w=260&h=260)
-- [!["Bio boards" to introduce conference speakers by showing the industry they work in.](/static/img/illustrations/wwf.jpg?nf_resize=smartcrop&w=260&h=260)](/static/img/illustrations/wwf.jpg?nf_resize=smartcrop&w=260&h=260)
-- [!["Worst of New Orleans", for _New Orleans_ magazine.](/static/img/illustrations/baggyfinal.jpg?nf_resize=smartcrop&w=260&h=260)](/static/img/illustrations/baggyfinal.jpg?nf_resize=smartcrop&w=260&h=260)
+- [![The Hi-Balls album sleeve.](/static/img/illustrations/coverLoveMusic.jpg?nf_resize=smartcrop&w=260&h=260)](/static/img/illustrations/coverLoveMusic.jpg)
+- [![For _Louisiana Life_ magazine.](/static/img/illustrations/cars.jpg?nf_resize=smartcrop&w=260&h=260)](/static/img/illustrations/cars.jpg)
+- [!["Bio boards" to introduce conference speakers by showing the industry they work in.](/static/img/illustrations/narayandas.jpg?nf_resize=smartcrop&w=260&h=260)](/static/img/illustrations/narayandas.jpg)
+- [!["Bio boards" to introduce conference speakers by showing the industry they work in.](/static/img/illustrations/wwf.jpg?nf_resize=smartcrop&w=260&h=260)](/static/img/illustrations/wwf.jpg)
+- [!["Worst of New Orleans", for _New Orleans_ magazine.](/static/img/illustrations/baggyfinal.jpg?nf_resize=smartcrop&w=260&h=260)](/static/img/illustrations/baggyfinal.jpg)
 - [!["Best of New Orleans", for _New Orleans_ magazine.](/static/img/illustrations/stloufinal.jpg?nf_resize=smartcrop&w=260&h=260)](/static/img/illustrations/stloufinal.jpg?nf_resize=smartcrop&w=260&h=260)
 

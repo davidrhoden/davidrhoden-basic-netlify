@@ -6,6 +6,7 @@ image: /static/img/animations/guytripping.gif
 excerpt: Digital and analog animations by New Orleans-based artist David Rhoden.
 summary: Digital and analog animations by New Orleans-based artist David Rhoden.
 navtitle: Animations
+layout: layouts/page.njk
 eleventyNavigation:
   key: Animations 
   order: 5
