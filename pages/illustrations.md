@@ -20,5 +20,5 @@ eleventyNavigation:
 - [!["Bio boards" to introduce conference speakers by showing the industry they work in.](/static/img/illustrations/narayandas.jpg?nf_resize=smartcrop&w=260&h=260)](/static/img/illustrations/narayandas.jpg)
 - [!["Bio boards" to introduce conference speakers by showing the industry they work in.](/static/img/illustrations/wwf.jpg?nf_resize=smartcrop&w=260&h=260)](/static/img/illustrations/wwf.jpg)
 - [!["Worst of New Orleans", for _New Orleans_ magazine.](/static/img/illustrations/baggyfinal.jpg?nf_resize=smartcrop&w=260&h=260)](/static/img/illustrations/baggyfinal.jpg)
-- [!["Best of New Orleans", for _New Orleans_ magazine.](/static/img/illustrations/stloufinal.jpg?nf_resize=smartcrop&w=260&h=260)](/static/img/illustrations/stloufinal.jpg?nf_resize=smartcrop&w=260&h=260)
+- [!["Best of New Orleans", for _New Orleans_ magazine.](/static/img/illustrations/stloufinal.jpg?nf_resize=smartcrop&w=260&h=260)](/static/img/illustrations/stloufinal.jpg)
 

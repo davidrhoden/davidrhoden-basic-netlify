@@ -36,7 +36,7 @@ $('.scroll-container').scroll(function() {
 }); 
 
 $(document).ready(function() {
-  $('#bricks ul li').magnificPopup({
+  $('#bricks ul li, #bricks ol li').magnificPopup({
     delegate: 'a',
     gallery: {
           enabled:true,

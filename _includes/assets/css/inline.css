@@ -92,7 +92,6 @@ header nav.is-active {
 }
 
 .container {
-  margin-top: 4em;
   width: 100vw;
   width: 100dvw;
 }
@@ -731,7 +730,6 @@ span.fade:hover {
   }
 
   .container {
-    margin-top: 6em;
     margin-left: auto;
     margin-right: auto;
     width: 60%;

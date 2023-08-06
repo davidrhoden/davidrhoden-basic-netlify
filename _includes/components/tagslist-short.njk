@@ -1,11 +1,28 @@
-<section class="postslist tagslist">
-    {% for post in postslist %}
-            <a href="{{ post.url }}">{{ post.data.title }}{% if post.data.image %}
-                <span><img class="thumbnail" src="/static/img/{{ post.data.image }}?nf_resize=fit&w=240"></span>
-            {% endif %}</a>
-            {% if post.data.summary %}
-                {{ post.data.summary }}
-            {% endif %}
-            <br>
+<section class="postslist tagslist foo">
+  {% set showYear = true %}
+  {% set currentYear = "" %}
+  {% for post in postslist %}
+    {% if showYear %}
+      {% set postYear = "" %}
+      {% if currentYear != postYear %}
+        {% if currentYear != "" %}
+          </div> <!-- END YEAR -->
+        {% endif %}
+        {% set currentYear = postYear %}
+        <div class="year">
+          <span class="post-year">year: {{ postYear }}</span>
+     {% endif %}
+    {% endif %}
+    <time datetime="{{ post.date | machineDate }}">
+      <small>{{ post.date | readableDate }}</small>
+    </time><br>
+    <a href="{{ post.url }}">{{ post.data.title }}
+    {% if post.data.image %}
+        <span><img class="thumbnail" src="/static/img/{{ post.data.image }}?nf_resize=fit&w=240"></span>
+    {% endif %}</a>
+    {% if post.data.summary %}
+        {{ post.data.summary }}
+    {% endif %}
+    <br>
     {% endfor %}
 </section>
