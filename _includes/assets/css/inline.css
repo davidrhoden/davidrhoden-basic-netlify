@@ -94,6 +94,7 @@ header nav.is-active {
 .container {
   margin-top: 4em;
   width: 100vw;
+  width: 100dvw;
 }
 
 .full-width {
@@ -611,9 +612,7 @@ p.postdate h3 {
 
 .post-year {
     display: grid;
-    place-items: center;
-    padding: 0;
-    width: 40px;
+    padding: .5em 0;
     font-family: var(--font-secondary);
     font-size: .75em;
     font-weight: 600;
@@ -903,12 +902,6 @@ span.fade:hover {
     margin: 2px;
     overflow: hidden;
     width: 128px;
-  }
-
-  .post-year {
-    margin: 2px;
-    padding: .5em;
-    width: 50px;
   }
 
   .self-portrait {

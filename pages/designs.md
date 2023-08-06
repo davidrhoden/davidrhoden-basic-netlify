@@ -5,7 +5,7 @@ permalink: /designs/index.html
 excerpt: Design work by New Orleans web and graphic designer David Rhoden.
 summary: Design work by New Orleans web and graphic designer David Rhoden.
 image: /static/img/designs/TalbotAdamsAlbum.jpg
-layout: layouts/page-gallery.njk
+layout: layouts/page-bricks.njk
 eleventyNavigation:
   key: Designs 
   order: 7
