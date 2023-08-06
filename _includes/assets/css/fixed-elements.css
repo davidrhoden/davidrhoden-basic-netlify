@@ -15,8 +15,8 @@
 
 #app > main {
   grid-area: main;
-  padding: 15px 5px 10px 5px;
 }
+
 #app > footer {
   grid-area: footer;
 }
