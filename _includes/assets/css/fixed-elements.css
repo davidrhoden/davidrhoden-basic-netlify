@@ -28,5 +28,5 @@ header {
   flex-wrap: wrap;
   position: fixed;
   width: 100vw;
-  z-index: 2;
+  z-index: 3;
 }

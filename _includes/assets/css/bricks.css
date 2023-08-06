@@ -1,7 +1,4 @@
 @media screen and (min-width:960px) {
-  #bricks {
-    margin-top: 6em;
-  }
 
   #bricks ol li,   #bricks ul li  {
       margin: .2em;
@@ -11,5 +8,9 @@
       height: 260px;
       width: 260px;
       overflow:hidden;
+  }
+
+  .margin-top-3em {
+    margin-top: 3em;
   }
 }
