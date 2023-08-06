@@ -35,6 +35,18 @@ $('.scroll-container').scroll(function() {
     $('#scroll-text').fadeOut();
 }); 
 
+$(document).ready(function() {
+  $('#bricks ul li').magnificPopup({
+    delegate: 'a',
+    gallery: {
+          enabled:true,
+          navigateByImgClick: true,
+          preload: [0, 1]
+        },
+    type: 'image'
+    // other options
+  });
+});
 
 $(document).ready(function(){
   $('.link').each( function(i) {
