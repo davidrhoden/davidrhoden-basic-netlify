@@ -1,6 +1,25 @@
+
+
+  #bricks ol, #bricks ul {
+    padding: 0;
+  }
+
+  #bricks ol li, #bricks ul li  {
+      counter-increment: inst;
+      display: inline-block;
+      margin: .2em auto;
+      padding: 0;
+      position: relative;
+      list-style: none;
+  }
+
+  .container-wide {
+     margin: 0;
+}
+
 @media screen and (min-width:960px) {
 
-  #bricks ol li,   #bricks ul li  {
+  #bricks ol li, #bricks ul li  {
       margin: .2em;
       display: inline-block;
       position: relative;
