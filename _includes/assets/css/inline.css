@@ -92,8 +92,8 @@ header nav.is-active {
 }
 
 .container {
-  width: 100vw;
-  width: 100dvw;
+/*  width: 100vw;
+  width: 100dvw;*/
 }
 
 .full-width {
