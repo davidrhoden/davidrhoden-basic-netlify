@@ -172,7 +172,7 @@ footer {
   background: var(--orangered);
   clear: both;
   margin: 1em 0 auto;
-  width: calc(100% - 2em);
+/*  width: calc(100% - 2em);*/
 }
 
 footer .search-box-container{
