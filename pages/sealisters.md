@@ -48,7 +48,4 @@ Label, Side B with printer's template.
 ___
 
 
-Label, Side B with alternate design I was kicking around.
-[![Label, Side B with alternate design I was kicking around.](/static/img/designs/sealisters/sunrise-sunset-centerlabel-tire-SIDE-B.jpg?nf_resize=fit&w=750)](/static/img/designs/sealisters/sunrise-sunset-centerlabel-tire-SIDE-B.jpg)
-
 
