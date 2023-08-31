@@ -2,19 +2,17 @@
 <html {% if section %}data-current="{{ section }}"{% endif %} lang="en">
   {% include "components/head.njk" %}
   <body class="{% if pageType %}{{ pageType }}{% endif %} {{ page.fileSlug }} {{ pageClasses }}">
-    <div id="app">
-      {% include "components/header.njk" %}
-      <main>
-        <article>
+    {% include "components/header.njk" %}
+    <main>
+      <article>
 
-            <div class="container">
-                {{ layoutContent | safe }}
-            </div>
+          <div class="container">
+              {{ layoutContent | safe }}
+          </div>
 
-        </article>
+      </article>
 
-      </main>
-      {% include "components/footer.njk" %}
-    </div>
+    </main>
+    {% include "components/footer.njk" %}
   </body>
 </html>
