@@ -7,8 +7,6 @@
     "watch": "npx eleventy --watch",
     "debug": "DEBUG=* npx eleventy",
     "postbuild": "npx pagefind --source _site"
-  }
-}
   },
   "repository": {
     "type": "git",
