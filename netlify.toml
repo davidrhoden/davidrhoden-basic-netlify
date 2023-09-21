@@ -3,7 +3,7 @@
   command = "eleventy"
 
 #[build.environment]
-# NODE_VERSION="16.14.0"
+# NODE_VERSION="18.18.0"
 # NODE_OPTIONS="--max-old-space-size=4096"
 
 # [[plugins]]
