@@ -43,7 +43,7 @@ eleventyNavigation:
 1. ![Rupert sketchbook entry by David Rhoden](/static/img/sketchbook/rupertside.jpg?nf_resize=fit&h=550)
 1. ![Rupert sketchbook entry by David Rhoden](/static/img/sketchbook/rupertfront.jpg?nf_resize=fit&h=550)
 1. ![Right On sketchbook entry by David Rhoden](/static/img/sketchbook/RightOn190930.jpg?nf_resize=fit&h=550)
-1. ![yuh Huh sketchbook entry by David Rhoden](/static/img/sketchbook/yuhhuh190928.jpg?nf_resize=fit&h=550)
+1. ![Yuh Huh sketchbook entry by David Rhoden](/static/img/sketchbook/yuhhuh190928.jpg?nf_resize=fit&h=550)
 1. ![most women agree sketchbook entry by David Rhoden](/static/img/sketchbook/mostwomenagree.jpg?nf_resize=fit&h=550)
 1. ![happy alien sketchbook entry by David Rhoden](/static/img/sketchbook/little-happy-alien.jpg?nf_resize=fit&h=550)
 1. ![dandy highwayman sketchbook entry by David Rhoden](/static/img/sketchbook/dandyhighwayman.jpg?nf_resize=fit&h=550)
