@@ -6,7 +6,7 @@
     "build": "npx eleventy",
     "watch": "npx eleventy --watch",
     "debug": "DEBUG=* npx eleventy",
-    "postbuild": "npx pagefind --source _site"
+    "postbuild": "npx pagefind --site _site"
   },
   "repository": {
     "type": "git",
