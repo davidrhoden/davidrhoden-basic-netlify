@@ -752,6 +752,10 @@ span.fade:hover {
     width: 60%;
   }
 
+  article {
+    margin-top: 7em;
+  }
+
   main img {
     max-width: 1000px;
   }
