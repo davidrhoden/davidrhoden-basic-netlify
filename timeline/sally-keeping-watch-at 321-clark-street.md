@@ -1,5 +1,5 @@
 ---
-title: Sally keeps watch at 321 Clark Street.
+title: Sally kept watch at 321 Clark Street.
 date: 2017-12-14T11:00:00.000Z
 summary: I liked living here until I got the light bill.
 excerpt: I liked living here until I got the light bill.
@@ -16,6 +16,6 @@ tags:
 
 ![Sally keeping watch at 321 Clark Street](/static/img/sally/sally-profile-by-fence-dec-14-2017.jpg "Sally keeping watch at 321 Clark Street")
 
-I got this house uptown for about a thousand a month rent. Unfortunately it was so big that the heat bill was about $300 a month. Also it was in a flood zone.
+I got this house uptown for about a thousand a month rent. Unfortunately it was so big that the heat bill was about $300 a month. Also it was [in a flood zone](https://davidrhoden.com/timeline/clark-street-flooded-my-neighbor-came-in-the-house-to-wake-me-up-and-tell-me/).
 
 Sally liked it all right.

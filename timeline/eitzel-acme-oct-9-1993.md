@@ -9,6 +9,7 @@ tags:
   - Manhattan
   - rock
   - Mark Eitzel
+  - Adam Schlesinger
 
 ---
 

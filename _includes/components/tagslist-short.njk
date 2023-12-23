@@ -21,8 +21,9 @@
         <span><img class="thumbnail" src="/static/img/{{ post.data.image }}?nf_resize=fit&w=240"></span>
     {% endif %}</a>
     {% if post.data.summary %}
-        {{ post.data.summary }}
+        {#  # post.data.summary #}
     {% endif %}
+      {{ layoutContent | safe }}
     <br>
     {% endfor %}
 </section>
