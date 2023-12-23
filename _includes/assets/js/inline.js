@@ -1,3 +1,4 @@
+/*jshint esversion: 6 */
 if (window.netlifyIdentity) {
   window.netlifyIdentity.on("init", user => {
     if (!user) {
@@ -23,7 +24,7 @@ $(document).ready(function(){
 function showHidden() {
   var hiddenText = $(this).find(".hidden").html();
   $("#timeline-detail").html(hiddenText);
-};
+}
 
 $(document).ready(function(){
   $( ".photo-timeline" ).on( "mouseover", ".photo-timeline-link", showHidden );
