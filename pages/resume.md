@@ -22,7 +22,7 @@ eleventyNavigation:
         <br>
         <div class="resume-body">
             <p class="date">Dec 2019–present</p>
-            <p class="highlights">I currently design and develop websites as a freelancer, using the business name Happening Interactive LLC. In this role, I’m creative director, art director, and lead developer, as well as new business director and business manager. Recent clients include  Herman, Herman & Katz, Tempt Films, and author Mike Edison.</p>
+            <p class="highlights">I currently design and develop websites as a freelancer, using the business name Happening Interactive LLC. In this role, I’m creative director, art director, and lead developer, as well as new business director and business manager. Recent clients include The University of California, Tempt Films, and author Mike Edison.</p>
             <p class="tech">Eleventy, Netlify, PHP/MySQL, Javascript, jQuery, CSS, HTML, Wordpress, Photoshop, Illustrator, Adobe Animate, Google Web Designer.</p>
             <p class="date">Oct 2018 – Dec 2019</p>
             <p class="position"><b>Web developer at Online Optimism</b> in New Orleans, Louisiana.</p>
