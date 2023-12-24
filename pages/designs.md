@@ -12,7 +12,7 @@ eleventyNavigation:
 
 ---
 
-- [![Show poster design.](/static/img/designs/Sister-Street-Fest-2023-times.jpg?nf_resize=smartcrop&w=260&h=260)](/static/img/designs/Sister-Street-Fest-2023-times.jpg)
+- [![Show poster design.](/static/img/designs/Sister-Street-Fest-2023-times.png?nf_resize=smartcrop&w=260&h=260)](/static/img/designs/Sister-Street-Fest-2023-times.png)
 - [![Show poster design.](/static/img/designs/SisterStreetStage-Apr-17-2021.jpg?nf_resize=smartcrop&w=260&h=260)](/static/img/designs/SisterStreetStage-Apr-17-2021.jpg)
 - [![Album cover design for Talbot Adams.](/static/img/designs/TalbotAdamsAlbum.jpg?nf_resize=smartcrop&w=260&h=260)](/static/img/designs/TalbotAdamsAlbum.jpg)
 - [![Album cover design for The Hi-Balls.](/static/img/designs/tubecover.jpg?nf_resize=smartcrop&w=260&h=260)](/static/img/designs/tubecover.jpg)
