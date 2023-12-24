@@ -6,8 +6,12 @@
  */
 
 button.hamburger {
+  align-items: center;
   border: 0px solid var(--white);
   background-color: var(--white);
+  display: flex;
+  margin: 0 0 0 1em;
+  width: 40px;
 }
 
 .hamburger {
@@ -102,4 +106,9 @@ button.hamburger {
     bottom: 0;
     transform: rotate(-90deg);
     transition: bottom 0.075s ease, transform 0.075s 0.12s cubic-bezier(0.215, 0.61, 0.355, 1); 
+}
+
+@media screen and (min-width:960px) {
+  button.hamburger {
+    margin: 0 1em;
 }

@@ -64,7 +64,11 @@ body {
 }
 
 .home article,.timeline article, .sealisters-final article, .tags article {
-  margin-top: 4em;
+/*  margin-top: 4em;*/
+}
+
+article {
+  margin-top: 7em;
 }
 
 h1 {
@@ -87,8 +91,10 @@ h3 {
 }
 
 header .flex-container {
-  flex-basis: 98%;
-  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
 }
 
 header nav {
@@ -222,7 +228,7 @@ small {
 
 .pagination {
   list-style: none;
-  margin: .5 em 0 0 0;
+  margin: .5em 0 0 0;
   padding: 0;
 }
 
@@ -361,8 +367,9 @@ header nav li a[data-current="current item"] {
 
 .mobile-menu {
   display: flex;
-  float: right;
-  padding: 6px 0;
+  align-items: center;
+  justify-content: right;
+/*  padding: 6px 0;*/
 }
 
 .gcse-search {
@@ -752,10 +759,6 @@ span.fade:hover {
     width: 60%;
   }
 
-  article {
-    margin-top: 7em;
-  }
-
   main img {
     max-width: 1000px;
   }
@@ -964,5 +967,5 @@ span.fade:hover {
 }
 
 [class^="pagefind-"] {
-  display: none;
+/*  display: none;*/
 }

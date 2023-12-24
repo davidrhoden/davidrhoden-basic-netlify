@@ -38,12 +38,10 @@
     {% include "assets/js/inline.js" %}
   {% endset %}
   <script>{{ js | safe }}</script>
-
-<div id="search"></div>
 <script>
-    // window.addEventListener('DOMContentLoaded', (event) => {
-    //     new PagefindUI({ element: "#search", showSubResults: true });
-    // });
+    window.addEventListener('DOMContentLoaded', (event) => {
+        new PagefindUI({ element: "#search", showSubResults: true });
+    });
 </script>
   {% seo "" %}
 </head>
