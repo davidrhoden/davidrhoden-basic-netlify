@@ -8,6 +8,7 @@
   height: 75vh;
   position:relative;
   text-align: center;
+  width: 768px;
 }
 
 #viewport p, #viewport li {

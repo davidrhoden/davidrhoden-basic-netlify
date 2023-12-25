@@ -177,7 +177,7 @@ a.active {
 }
 
 nav ul li a.main-link[href],
-a.main-link[href]:visited {
+nav ul li a.main-link[href]:visited {
   color: black;
   font-family: "ShadowGrotesque", sans-serif, "Avenir";
   font-size: 2em;
