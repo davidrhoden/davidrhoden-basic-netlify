@@ -39,7 +39,7 @@ Bus. $360.
 ![Long Legs painting by David Rhoden](/static/img/paintings/long-legs-20200101.jpg?nf_resize=fit&w=640)
 Long Legs. $180.
 
-![KISS Guy painting by David Rhoden](/static/img/paintings/kissguy.jpg?nf_resize=fit&w=640)
+![KISS Guy painting by David Rhoden](/static/img/paintings/kissguy2.jpg?nf_resize=fit&w=640)
 'Scuse Me. $180
 
 ![Keys painting by David Rhoden](/static/img/paintings/keys1200.jpg?nf_resize=fit&w=640)
