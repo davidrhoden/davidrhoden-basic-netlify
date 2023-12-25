@@ -203,11 +203,6 @@ footer .search-box-container{
   width: 100%;
 }
 
-.gsc-control-cse {
-    border-color: var(--orangered) !important;
-    background-color: var(--orangered) !var(--white);
-}
-
 figcaption {
   font-size: .9em;
   transform: translateY(-1em);
