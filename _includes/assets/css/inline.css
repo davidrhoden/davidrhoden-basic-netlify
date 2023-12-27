@@ -9,19 +9,7 @@
 
   --font-primary: 'Source Serif Pro', serif;
   --font-secondary: 'Libre Franklin', Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
-  --font-decorative: "ShadowGrotesque", sans-serif ;
-
-/*  --pagefind-ui-scale: 1;
-  --pagefind-ui-primary: #034ad8;
-  --pagefind-ui-text: #393939;
-  --pagefind-ui-background: #ffffff;
-  --pagefind-ui-border: #eeeeee;
-  --pagefind-ui-tag: #eeeeee;
-  --pagefind-ui-border-width: 2px;
-  --pagefind-ui-border-radius: 8px;
-  --pagefind-ui-image-border-radius: 8px;
-  --pagefind-ui-image-box-ratio: 3 / 2;
-  --pagefind-ui-font: sans-serif;*/
+  --font-decorative: 'ShadowGrotesque', 'Libre Franklin', sans-serif ;
 }
 
 *, *:before, *:after {
@@ -63,10 +51,6 @@ body {
   height: auto;
 }
 
-.home article,.timeline article, .sealisters-final article, .tags article {
-/*  margin-top: 4em;*/
-}
-
 article {
   margin-top: 7em;
 }
@@ -103,27 +87,6 @@ header nav {
 
 header nav.is-active {
   display: block;
-}
-
-.tags nav {
-  margin-top: 1em;
-}
-
-.tagslist a span {
-  display: block;
-  margin-top: .5em;
-}
-
-.container {
-/*  width: 100vw;
-  width: 100dvw;*/
-}
-
-.full-width {
-  background: black;
-  color: white;
-  margin-top: 6em;
-  width: 100vw;
 }
 
 p,
@@ -176,15 +139,6 @@ a.active {
   color: var(--orangered) !important;
 }
 
-nav ul li a.main-link[href],
-nav ul li a.main-link[href]:visited {
-  color: black;
-  font-family: "ShadowGrotesque", sans-serif, "Avenir";
-  font-size: 2em;
-  text-decoration: none;
-  transition: color 0.3s ease;
-}
-
 header,
 main,
 footer {
@@ -209,6 +163,20 @@ figcaption {
   color: gray;
 }
 
+main {
+  padding-bottom: 2em;
+  margin: 0 auto;
+}
+
+main > section > article > * {
+  margin-top: 0;
+  margin-bottom: .5em;
+}
+
+main img {
+  max-width: 90vw;
+}
+
 small {
   font-size: .7em;
 }
@@ -221,29 +189,11 @@ small {
   color: lightgray;
 }
 
-.pagination {
-  list-style: none;
-  margin: .5em 0 0 0;
-  padding: 0;
-}
-
-.pagination li {
-  display: inline-block;
-  float: left;
-  padding: 0 .5em 0 0;
-}
-
-.page-numbers {
-  display: block;
-  margin: .5em 0;
-}
-
-main {
-  padding-bottom: 2em;
-}
-
-.timeline main {
-  padding-bottom: 0;
+.full-width {
+  background: black;
+  color: white;
+  margin-top: 6em;
+  width: 100vw;
 }
 
 .grid-square {
@@ -263,6 +213,36 @@ main {
 
 .grid-square img {
     width: 90.5vw;
+}
+
+.pagination {
+  list-style: none;
+  margin: .5em 0 0 0;
+  padding: 0;
+}
+
+.pagination li {
+  display: inline-block;
+  float: left;
+  padding: 0 .5em 0 0;
+}
+
+.page-numbers {
+  display: block;
+  margin: .5em 0;
+}
+
+.tags nav {
+  margin-top: 1em;
+}
+
+.tagslist a span {
+  display: block;
+  margin-top: .5em;
+}
+
+.timeline main {
+  padding-bottom: 0;
 }
 
 @media screen and (min-width:600px) {
@@ -360,17 +340,6 @@ header nav li a[data-current="current item"] {
   text-decoration: underline;
 }
 
-.mobile-menu {
-  display: flex;
-  align-items: center;
-  justify-content: right;
-/*  padding: 6px 0;*/
-}
-
-.gcse-search {
-  display: inline-block;
-}
-
 .home {
   overflow-x: hidden;
 }
@@ -387,6 +356,51 @@ header nav li a[data-current="current item"] {
   margin: 0;
 }
 
+.home main {
+  background: white;
+  position: relative;
+    margin: 0 auto;
+    width: 100%;
+}
+
+.home main p img {
+    width: 100%;
+}
+
+.home .intro-home {
+  font-size: 1.5rem;
+  text-align: left;
+  display: block;
+}
+
+.home .intro-home p {
+  line-height: 1.25;
+}
+
+.home .intro-home a {
+  color: white;
+}
+
+.mobile-menu {
+  display: flex;
+  align-items: center;
+  justify-content: right;
+/*  padding: 6px 0;*/
+}
+
+.pagefind-ui {
+  position: relative;
+}
+
+.pagefind-ui__drawer {
+  background: white;
+  box-shadow: 5px 5px 15px -5px rgba(0,0,0,0.75);
+  position: absolute;
+  margin-left: -8em;
+  padding: 0 1em 1em .5em;
+  width: 20em;
+}
+
 .self-portrait {
   border-radius: 2em; 
   height: auto; 
@@ -394,15 +408,6 @@ header nav li a[data-current="current item"] {
 }
 
 /* Posts List */
-
-main > section > article > * {
-  margin-top: 0;
-  margin-bottom: .5em;
-}
-
-main img {
-  max-width: 90vw;
-}
 
 a.tiny-thumbnail {
   display: block;
@@ -507,19 +512,6 @@ footer small {
   text-transform: uppercase;
 }
 
-.about img {
-  width: 100%;
-}
-
-.about .left img {
-  width: 320px;
-}
-
-.tiny-thumbnail img {
-  min-height: 128px;
-  width: auto;
-}
-
 ol {
   clear: both;
   list-style: none;
@@ -550,42 +542,23 @@ ol li::before {
   z-index: 2;
 }
 
-/******* HOME *******/
-
-.home main {
-  background: white;
-  position: relative;
-    margin: 0 auto;
-    width: 100%;
+.about img {
+  width: 100%;
 }
 
-.home main p img {
-    width: 100%;
+.about .left img {
+  width: 320px;
 }
 
-.home .intro-home {
-  font-size: 1.5rem;
-  text-align: left;
-  display: block;
+.animation-individual, .animation-individual video {
+  text-align: center;
+  max-width: 100%;
 }
 
-.home .intro-home p {
-  line-height: 1.25;
+.animations article p, .animations article p img {
+  text-align: center;
+  max-width: 100%;
 }
-
-.home .intro-home a {
-  color: white;
-}
-
-/******* ANIMATIONS *******/
-
-.animations article {
-  display: grid;
-  grid-template-columns: 1fr 3fr;
-  grid-template-areas: "text image";
-}
-
-/******* END ANIMATIONS *******/
 
 .postslist h3 {
   margin-top: 0;
@@ -595,14 +568,10 @@ p.postdate h3 {
   margin-bottom: 0;
 }
 
-.text {
-  grid-area: text;
+.tiny-thumbnail img {
+  min-height: 128px;
+  width: auto;
 }
-
-.image {
-  grid-area: image;
-}
-
 
 
 /******* BEGIN PHOTO-TIMELINE *******/
@@ -748,14 +717,49 @@ span.fade:hover {
     font-size: 1.1rem;
   }
 
-  .container {
-    margin-left: auto;
-    margin-right: auto;
-    width: 60%;
+   header nav li {
+    display: block;
+    margin: 0;
+    padding: 1em 0 1em 10vw;
+  }
+
+  header nav li a {
+    font-family: var(--font-secondary);
+    font-size: 1.5em;
+  }
+
+  footer {
+    padding: 2em;
+  }
+
+  footer.home {
+      width: 100%;
+      padding: 0;
+  }
+
+  footer .search-box-container {
+    margin-top: .5em;
+    width: 40vw;
   }
 
   main img {
     max-width: 1000px;
+  }
+
+  .animation-individual, .animation-individual video {
+    text-align: center;
+    max-width: 768px;
+  }
+
+  .animations article p, .animations article p img {
+    text-align: center;
+    max-width: 768px;
+  }
+
+  .container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
   }
 
   .home .container {
@@ -798,31 +802,6 @@ span.fade:hover {
 
   .image {
     flex-basis: 50%;
-  }
-
-  header nav li {
-    display: block;
-    margin: 0;
-    padding: 1em 0 1em 10vw;
-  }
-
-  header nav li a {
-    font-family: var(--font-secondary);
-    font-size: 1.5em;
-  }
-
-  footer {
-    padding: 2em;
-  }
-
-  footer.home {
-      width: 100%;
-      padding: 0;
-  }
-
-  footer .search-box-container {
-    margin-top: .5em;
-    width: 40vw;
   }
 
   .home main {
@@ -959,8 +938,4 @@ span.fade:hover {
     margin-right: auto;
     width: 768px;
   }
-}
-
-[class^="pagefind-"] {
-/*  display: none;*/
 }
