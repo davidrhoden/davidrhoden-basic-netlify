@@ -13,7 +13,7 @@ eleventyNavigation:
   
 ---
 
-<div style="width: 100%; text-align: center;">
+<div class="animation-individual">
 <video controls loop>
   <source type="video/mp4" src="/static/img/animations/mp4s/animated-face-mar-5-2021-wm.mp4"></source>
   <p>Your browser does not support the video element.</p>
@@ -22,7 +22,7 @@ eleventyNavigation:
 
 ---
 
-<div style="width: 100%; text-align: center;">
+<div class="animation-individual">
 <video controls loop>
   <source type="video/mp4" src="/static/img/animations/mp4s/bunnyface.mp4"></source>
   <p>Your browser does not support the video element.</p>
@@ -39,7 +39,7 @@ eleventyNavigation:
 
 ---
 
-<div style="width: 100%; text-align: center;">
+<div class="animation-individual">
 <video controls loop>
   <source type="video/mp4" src="/static/img/animations/mp4s/Siberia-180929-640.mp4"></source>
   <p>Your browser does not support the video element.</p>
@@ -52,7 +52,7 @@ eleventyNavigation:
 
 ---
 
-<div style="width: 100%; text-align: center;">
+<div class="animation-individual">
 <video autoplay loop>
   <source type="video/mp4" src="/static/img/animations/mp4s/alienandfriend720x720.mp4"></source>
   <p>Your browser does not support the video element.</p>
@@ -61,18 +61,20 @@ eleventyNavigation:
 
 ---
 
-<div style="width: 100%; text-align: center;">
+<div class="animation-individual">
 <video autoplay loop>
   <source type="video/mp4" src="/static/img/animations/mp4s/head-shaker.mp4"></source>
   <p>Your browser does not support the video element.</p>
 </video>
 </div>
 
+---
+
 ![Cochon de Lait animation by David Rhoden](/static/img/animations/cochondelait.gif)
 
 ---
 
-<div style="width: 100%; text-align: center;">
+<div class="animation-individual">
 <video controls loop>
   <source type="video/mp4" src="/static/img/animations/mp4s/StacksCircleBar.mp4"></source>
   <p>Your browser does not support the video element.</p>
@@ -84,7 +86,7 @@ eleventyNavigation:
 ![Scratch animation by David Rhoden](/static/img/animations/ampuscratch.gif)
 
 ---
-<div style="width: 100%; text-align: center;">
+<div class="animation-individual">
 <video controls="controls">
   <source type="video/mp4" src="/static/img/animations/mp4s/lemondrop640.mp4"></source>
   <p>Your browser does not support the video element.</p>
