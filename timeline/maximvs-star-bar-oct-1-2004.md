@@ -36,7 +36,7 @@ More about this in the next tour diary installment.
     <button id="buttonPrevious">&#10094;</button>
     <button id="buttonNext">&#10095;</button>
 
-![Jim Stacy and Trey Ledford (in toga), Star Bar, Atlanta, Georgia, October 1, 2004](/static/img/rock/maximvs/maximvs-atlanta-oct-1-2004/trey-and-jim-star-bar-oct-1-2004.jpg "Jim Stacy and Trey Ledford (in toga), Star Bar, Atlanta, Georgia, October 1, 2004")
+![Jim Stacy and Trey Ledford (in toga), Star Bar, Atlanta, Georgia, October 1, 2004](/static/img/rock/maximvs/maximvs-atlanta-oct-1-2004/maximvs-trey-and-jim-star-bar-oct-1-2004.jpg "Jim Stacy and Trey Ledford (in toga), Star Bar, Atlanta, Georgia, October 1, 2004")
 
 ![The band Lust, Star Bar, Atlanta, Georgia, October 1, 2004](/static/img/rock/maximvs/maximvs-atlanta-oct-1-2004/maximvs-bothlusts-oct-1-2004.jpg)
 
