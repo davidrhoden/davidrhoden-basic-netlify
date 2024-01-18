@@ -5,10 +5,6 @@ date: 2020-04-12T00:00:00.000Z
 permalink: /web/index.html
 image: /static/img/web/ginasite.jpg
 excerpt: Web design and development by New Orleans web developer and designer David Rhoden.
-eleventyNavigation:
-  key: Websites
-  order: 8
-
 ---
 
 I started working as a web developer in 2000, when the business itself was pretty new.
