@@ -5,7 +5,7 @@
   summary: With Redondo Beat and Luxurious Faux Furs.
   image: /rock/stacks/stacks-holy-diver-flyer-2-jan-25-2024.png
   tags:
-    - notes
+    - note
     - rock
     - shows
     - Holy Diver

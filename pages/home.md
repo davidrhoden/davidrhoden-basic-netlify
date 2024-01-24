@@ -101,11 +101,11 @@ image: /static/img/homepage-featured/bottlecap.jpg
   <div class="grid-square">
     <a href="/paintings/">
     <div class="overlay">What can I say? The guy loves KISS.</div>
-    <img src="/static/img/homepage-featured/kissguy2.jpg"></a></div>
+    <img src="/static/img/homepage-featured/kissguy2-sized.jpg"></a></div>
   <div class="grid-square">
     <a href="/paintings/">
     <div class="overlay">Pink face.</div>
-    <img src="/static/img/homepage-featured/pink-face.jpg"></a></div>
+    <img src="/static/img/homepage-featured/pink-face-sized.jpg"></a></div>
   <div class="grid-square">
     <a href="/tags/house-shows/">
     <div class="overlay">I will play your house party.</div>
@@ -117,7 +117,7 @@ image: /static/img/homepage-featured/bottlecap.jpg
   <div class="grid-square">
     <a href="/paintings/">
     <div class="overlay">Stumpgrinder.</div>
-    <img src="/static/img/homepage-featured/rayco-completed-feb-2-2021.jpg"></a></div>
+    <img src="/static/img/homepage-featured/rayco-completed-sized-feb-2-2021.jpg"></a></div>
   <div class="grid-square">
     <a href="/paintings/">
     <div class="overlay">Organic form.</div>
@@ -125,7 +125,7 @@ image: /static/img/homepage-featured/bottlecap.jpg
   <div class="grid-square">
     <a href="/paintings/">
     <div class="overlay">Seriously?</div>
-    <img src="/static/img/homepage-featured/seriously-dec-29-2020.jpg"></a></div>
+    <img src="/static/img/homepage-featured/seriously-sized-dec-29-2020.jpg"></a></div>
   <div class="grid-square">
     <a href="/illustrations/">
     <div class="overlay">St. Louis Cathedral, New Orleans.</div>
