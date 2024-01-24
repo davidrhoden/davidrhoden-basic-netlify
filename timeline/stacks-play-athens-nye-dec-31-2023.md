@@ -16,6 +16,6 @@ dateposted: 2024-01-10
 
 We played, it was great.
 
-![digital flyer for Mercyand/Shehehe/Stacks show](/timeline/stacks-athens-dec-31-2023.jpg)
+![digital flyer for Mercyand/Shehehe/Stacks show](/static/img/timeline/stacks-athens-dec-31-2023.jpg)
 
 

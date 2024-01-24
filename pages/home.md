@@ -37,7 +37,7 @@ image: /static/img/homepage-featured/bottlecap.jpg
   <div class="grid-square">
   <a href="/paintings/">
     <div class="overlay">I wanted to paint a bus I might want to ride on.</div>
-    <img src="/static/img/homepage-featured/bus-painting-sep-24-2019.jpg" alt="bus painting by David Rhoden"></a></div>
+    <img src="/static/img/homepage-featured/bus-painting-sep-24-2019.webp" alt="bus painting by David Rhoden"></a></div>
   <div class="grid-square">
     <a href="/paintings/">
     <div class="overlay">It's fun to contemplate things.</div>
@@ -45,7 +45,7 @@ image: /static/img/homepage-featured/bottlecap.jpg
   <div class="grid-square">
     <a href="/paintings/">
     <div class="overlay">I like corn.<br>Do you like corn?</div>
-    <img src="/static/img/homepage-featured/cornmanreadyfortheworld.jpg" alt="corn-eating creature by David Rhoden"></a></div>
+    <img src="/static/img/homepage-featured/cornmanreadyfortheworld.webp" alt="corn-eating creature by David Rhoden"></a></div>
   <div class="grid-square">
     <a href="/tags/hi-balls/">
     <div class="overlay">I was in a band called the Hi-Balls. (Also did this album artwork.)</div>
@@ -73,11 +73,11 @@ image: /static/img/homepage-featured/bottlecap.jpg
   <div class="grid-square">
     <a href="/illustrations/">
     <div class="overlay">Illustration for a BMX park in beautiful Seattle.</div>
-    <img src="/static/img/homepage-featured/harbo-edit.jpg"></a></div>
+    <img src="/static/img/homepage-featured/harbo-edit.webp"></a></div>
   <div class="grid-square">
     <a href="/paintings/">
     <div class="overlay">Is further explanation needed?</div>
-    <img src="/static/img/homepage-featured/i-dont-like-this-edit.jpg"></a></div>
+    <img src="/static/img/homepage-featured/i-dont-like-this-edit.webp"></a></div>
   <div class="grid-square">
     <a href="/paintings/">
     <div class="overlay">Organic form.</div>
