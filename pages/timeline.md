@@ -7,7 +7,7 @@ pagination:
   data: collections.post
   size: 8
   alias: posts
-  reverse: true
+  reverse: false
 eleventyNavigation:
   key: Timeline
   order: 15

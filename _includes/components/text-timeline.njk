@@ -6,7 +6,7 @@
 <div id="timeline-list">
   {% set showYear = true %}
   {% set currentYear = "" %}
-  {% for post in collections.post %}
+  {% for post in collections.post | reverse %}
     {% if showYear %}
       {% set postYear = post.date.getFullYear() %}
       {% if currentYear != postYear %}
