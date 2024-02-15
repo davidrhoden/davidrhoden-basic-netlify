@@ -12,17 +12,7 @@ module.exports = function(eleventyConfig) {
 
   eleventyConfig.addPlugin(eleventyNavigationPlugin);
 
-  eleventyConfig.addPlugin(pluginSEO, {
-    title: "David Rhoden",
-    description: "The website of New Orleans-based artist David Rhoden.",
-    url: "https://davidrhoden.com",
-    author: "David Rhoden",
-    twitter: "davidrhoden",
-    image: "/static/img/paintings/bigface-wide.jpg",
-    options: {
-      imageWithBaseUrl: true
-    }
-  });
+  eleventyConfig.addPlugin(pluginSEO, require("./_data/seo.json"));
 
   eleventyConfig.addPlugin(pluginRss);
 

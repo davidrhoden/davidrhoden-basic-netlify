@@ -16,4 +16,4 @@ tags:
 
 Just looking at this picture reminds me how high my utility bills for this house were.
 
-[Sally stretching](/static/img/sally/sally-stretching-may-14-2018.jpg "Sally stretching")
+![Sally stretching](/static/img/sally/sally-stretching-may-14-2018.jpg "Sally stretching")

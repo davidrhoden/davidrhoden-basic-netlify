@@ -1,0 +1,11 @@
+{
+  "title": "David Rhoden",
+  "description": "The website of New Orleans-based artist David Rhoden.",
+  "url": "https://davidrhoden.com/static/img/",
+  "author": "David Rhoden",
+  "twitter": "davidrhoden",
+  "image": "/static/img/paintings/bigface-wide.jpg",
+  "options": {
+    "imageWithBaseUrl": true
+  }
+}
