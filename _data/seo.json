@@ -6,6 +6,6 @@
   "twitter": "davidrhoden",
   "image": "/static/img/paintings/bigface-wide.jpg",
   "options": {
-    "imageWithBaseUrl": false
+    "imageWithBaseUrl": true
   }
 }
