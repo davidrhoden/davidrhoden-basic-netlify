@@ -28,7 +28,7 @@ He was one of those people that is just made out of music. He was alone on his p
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3765294581/size=large/bgcol=ffffff/linkcol=de270f/tracklist=false/artwork=small/track=1827416177/transparent=true/" seamless><a href="https://dexcrash66.bandcamp.com/album/dex-crash-15-unearthed-burners">Dex &amp; Crash 15 Unearthed Burners ! by Dex &amp; Crash (the post &quot;Flat Duo Jets&quot; duo that has been tearing it up together since 1995)</a></iframe>
 
-![Picture of Dex Romweber from his label Yep Roc's site](/static/img/timeline/dex-romweber-yep-roc.jpg)
+<img src="/static/img/timeline/dex-romweber-yep-roc.jpg" alt="Picture of Dex Romweber from his label Yep Roc's site" style="max-width:768px;">
 
 
   
