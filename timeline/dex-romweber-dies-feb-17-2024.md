@@ -1,5 +1,4 @@
-
-  ---
+---
   title: A few words about Dexter Romweber
   date: 2024-02-17T00:00:00
   excerpt: If you go listen today, please note how a lot of it is garage/rock/rockabilly, but a lot of it isn't.
@@ -9,7 +8,7 @@
     - Dexter Romweber
     - Flat Duo Jets
     - Knoxville
-    - Arnold's
+    - "Arnold's"
     - New Orleans
     - Hi-Ho Lounge
     - All-Night Movers
@@ -17,7 +16,7 @@
     - post
     - rock
 
-  ---
+---
 
 A few words about Dexter Romweber:
 
