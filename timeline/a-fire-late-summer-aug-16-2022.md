@@ -4,6 +4,7 @@ date: 2022-08-16T14:00:00.000Z
 image: timeline/bonfire-backyard-aug-16-2022.jpg
 tags:
   - note 
+  - post
   - New Orleans
   - fires
   - frogs
