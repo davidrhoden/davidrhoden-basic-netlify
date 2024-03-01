@@ -1,6 +1,6 @@
 ---
   title:  I just need the exact date something changed. Is that so much to ask from a computer?
-  date: yyyy-mm-ddT00:00:00
+  date: 2024-03-01T00:00:00
   excerpt: The computer could easily tell me the exact date, but the people programming the app want it to seem friendly.
   summary: The computer could easily tell me the exact date, but the people programming the app want it to seem friendly.
   image: /timeline/cloudcannon-date-formatting.png
