@@ -1,5 +1,4 @@
-
-  ---
+---
   title: Can we do something about images in other peoples' email signatures?
   date: 2024-02-29T00:00:00
   excerpt: I want to block my client's email signature; that's correct.
@@ -14,7 +13,7 @@
     - note
     - post
 
-  ---
+---
 
 I'm trying to find a client's email in my Gmail mailbox, because it has an important attachment. So, I figure, I'll sort by emails with attachments, But when I do, I see that _all_ of her emails contain attchments! Specifically they all include a 40KB image that the client uses as an email signature.
 
