@@ -1,5 +1,4 @@
-
-  ---
+---
   title: Shadow was camouflaged on the roof of my car.
   date: 2024-03-07T00:00:00
   excerpt: She lives down the street, but she eats food here.
@@ -10,8 +9,10 @@
     - Blackie
     - Redondo Beat
     - Holy Diver
+    - post
+    - notes
 
-  ---
+---
 
 I love this little cat. Found her on top of my car as I was leaving to go see Redondo Beat at Holy Diver. I took more pictures but she's not sitting still in any of them.
 
