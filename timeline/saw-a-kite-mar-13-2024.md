@@ -10,6 +10,7 @@
     - walking
     - New Orleans
     - kites
+    - note
 
 ---
 
