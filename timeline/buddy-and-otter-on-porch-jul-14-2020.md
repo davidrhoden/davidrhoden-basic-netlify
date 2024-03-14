@@ -7,6 +7,7 @@ category: buddy
 image: buddy/buddy-and-otter-on-porch-jul-14-2020.jpg
 tags:
   - post
+  - note
   - New Orleans
   - Tricou Street
   - Buddy
