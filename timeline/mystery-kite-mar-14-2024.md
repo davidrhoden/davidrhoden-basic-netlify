@@ -8,7 +8,7 @@
     - kites
     - The Levee
     - post
-    - note
+    - notes
 
 ---
 
