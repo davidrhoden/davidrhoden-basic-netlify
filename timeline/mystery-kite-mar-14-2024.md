@@ -1,6 +1,6 @@
 ---
   title: I saw another mystery kite in the same place as yesterday.
-  date: 2024-03=14T00:00:00
+  date: 2024-03-14T00:00:00
   excerpt:  I took another walk on the levee this afternoon, and once again there was a kite being flown by no one.
   summary:  I took another walk on the levee this afternoon, and once again there was a kite being flown by no one.
   image: timeline/abandoned-kite-mar-14-2024.jpeg
