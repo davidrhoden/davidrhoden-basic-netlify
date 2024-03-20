@@ -5,7 +5,8 @@
   summary: 
   image: timeline/sunrise-sunset-siberia-mar-18-2024.jpg
   tags:
-    - now
+    - note
+    - post
     - shows
     - rock
     - Sunrise:Sunset
