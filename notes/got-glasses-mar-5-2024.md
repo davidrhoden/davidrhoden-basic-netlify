@@ -3,8 +3,7 @@
   date: 2024-03-05T00:00:00
   excerpt: they had some interesting side effects.
   summary: they had some interesting side effects.
-  image: 
-  tags:
+  image: timeline/david-glasses-mar-5-2024.jpeg
     - note
     - now
     - glasses
@@ -21,4 +20,4 @@
   I guess it's kid of neat, but it's not what I wanted from glasses.
 
 
-  
+  ![Dave Rhoden got glasses](/static/img/timeline/david-glasses-mar-5-2024.jpeg)
