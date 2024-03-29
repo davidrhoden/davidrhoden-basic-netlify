@@ -1,8 +1,8 @@
 ---
   title: I finally got glasses.
   date: 2024-03-05T00:00:00
-  excerpt: they had some interesting side effects.
-  summary: they had some interesting side effects.
+  excerpt: They had some interesting side effects.
+  summary: They had some interesting side effects.
   image: timeline/david-glasses-mar-5-2024.jpeg
     - note
     - now
