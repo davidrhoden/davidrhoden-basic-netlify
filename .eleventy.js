@@ -8,8 +8,7 @@ const pluginSEO = require("eleventy-plugin-seo");
 const path = require("path");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 
-module.exports = function(eleventyConfig) {
-
+module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(eleventyNavigationPlugin);
 
   eleventyConfig.addPlugin(pluginSEO, require("./_data/seo.json"));
@@ -23,24 +22,25 @@ module.exports = function(eleventyConfig) {
   // https://www.11ty.dev/docs/data-deep-merge/
   eleventyConfig.setDataDeepMerge(true);
 
-  eleventyConfig.addFilter("readableDate", dateObj => {
+  eleventyConfig.addFilter("readableDate", (dateObj) => {
     return DateTime.fromJSDate(dateObj).toFormat("LLLL d, yyyy");
   });
 
-  eleventyConfig.addFilter("machineDate", dateObj => {
+  eleventyConfig.addFilter("machineDate", (dateObj) => {
     return DateTime.fromJSDate(dateObj).toFormat("yyyy-MM-dd");
   });
 
-  eleventyConfig.addFilter("justYear", dateObj => {
+  eleventyConfig.addFilter("justYear", (dateObj) => {
     return DateTime.fromJSDate(dateObj).toFormat("yyyy");
   });
 
   eleventyConfig.addFilter(
     "relative",
-    (page, root = "/") => '${require("path").relative(page.filePathStem, root)}/'
+    (page, root = "/") =>
+      '${require("path").relative(page.filePathStem, root)}/',
   );
 
-  eleventyConfig.addCollection('bySize', (collectionApi) => {
+  eleventyConfig.addCollection("bySize", (collectionApi) => {
     const allPosts = collectionApi.getAll();
 
     const countPostsByTag = new Map();
@@ -50,17 +50,17 @@ module.exports = function(eleventyConfig) {
       tags.forEach((tag) => {
         const count = countPostsByTag.get(tag) || 0;
         countPostsByTag.set(tag, count + 1);
-      })
+      });
     });
-    
-    const sortedArray = [...countPostsByTag].sort((a, b) => b[1] - a[1])
+
+    const sortedArray = [...countPostsByTag].sort((a, b) => b[1] - a[1]);
     return sortedArray;
   });
 
-  eleventyConfig.addCollection("posts", function(collection) {
+  eleventyConfig.addCollection("posts", function (collection) {
     const coll = collection.getFilteredByTag("post");
 
-      for(let i = 0; i < coll.length ; i++) {
+    for (let i = 0; i < coll.length; i++) {
       const prevPost = coll[i - 1];
       const nextPost = coll[i + 1];
 
@@ -71,11 +71,11 @@ module.exports = function(eleventyConfig) {
     return coll;
   });
 
-  eleventyConfig.addCollection("notes", function(collection) {
+  eleventyConfig.addCollection("notes", function (collection) {
     const allNotes = collection.getFilteredByTag("note");
 
-    for(let i = 0; i < allNotes.length ; i++) {
-      const prevNote = allNotes[i-1];
+    for (let i = 0; i < allNotes.length; i++) {
+      const prevNote = allNotes[i - 1];
       const nextNote = allNotes[i + 1];
 
       allNotes[i].data["prevNote"] = prevNote;
@@ -86,28 +86,30 @@ module.exports = function(eleventyConfig) {
   });
 
   function filterTagList(tags) {
-    return (tags || []).filter(tag => ["all", "nav", "post", "posts"].indexOf(tag) === -1);
+    return (tags || []).filter(
+      (tag) => ["all", "nav", "post", "posts"].indexOf(tag) === -1,
+    );
   }
 
-  eleventyConfig.addFilter("filterTagList", filterTagList)
+  eleventyConfig.addFilter("filterTagList", filterTagList);
 
   // Create an array of all tags
-  eleventyConfig.addCollection("tagList", function(collection) {
+  eleventyConfig.addCollection("tagList", function (collection) {
     let tagSet = new Set();
-    collection.getAll().forEach(item => {
-      (item.data.tags || []).forEach(tag => tagSet.add(tag));
+    collection.getAll().forEach((item) => {
+      (item.data.tags || []).forEach((tag) => tagSet.add(tag));
     });
 
     return filterTagList([...tagSet]);
   });
 
   // Universal slug filter strips unsafe chars from URLs
-  eleventyConfig.addFilter("slugify", function(str) {
+  eleventyConfig.addFilter("slugify", function (str) {
     // console.log(str); use this to find empty tags if the slugify string expected error happens again
     return slugify(str, {
       lower: true,
       replacement: "-",
-      remove: /[*+~.·,()'"`´%!?¿:@]/g
+      remove: /[*+~.·,()'"`´%!?¿:@]/g,
     });
   });
 
@@ -128,14 +130,15 @@ module.exports = function(eleventyConfig) {
   let options = {
     html: true,
     breaks: true,
-    linkify: true
+    linkify: true,
   };
   let opts = {
-    permalink: false
+    permalink: false,
   };
 
-  eleventyConfig.setLibrary("md", markdownIt(options)
-    .use(markdownItAnchor, opts)
+  eleventyConfig.setLibrary(
+    "md",
+    markdownIt(options).use(markdownItAnchor, opts),
   );
 
   return {
@@ -148,7 +151,7 @@ module.exports = function(eleventyConfig) {
       input: ".",
       includes: "_includes",
       data: "_data",
-      output: "_site"
-    }
+      output: "_site",
+    },
   };
 };
