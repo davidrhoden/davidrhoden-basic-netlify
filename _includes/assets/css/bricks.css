@@ -26,6 +26,11 @@
     overflow: hidden;
   }
 
+  #bricks ol li img,
+  #bricks ul li img{
+    height: 260px;
+  }
+
   .margin-top-3em {
     margin-top: 0;
   }
