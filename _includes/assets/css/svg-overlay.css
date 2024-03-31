@@ -4,7 +4,8 @@
 }
 
 #svg-overlay-container {
-  background: url(/static/img/web/iStock-453310465-2800.jpg) center center no-repeat;
+  background: url("/static/img/web/iStock-453310465-2800.jpg") center center
+    no-repeat;
   background-size: cover;
   position: relative;
   width: 100%;
@@ -24,7 +25,7 @@
 }
 
 #svg-overlay-container #product-shape {
-  fill: #ffffff;
+  fill: #fff;
 }
 
 #svg-overlay-container .colors {
@@ -40,12 +41,12 @@
   width: 36px;
   margin-left: 0.5em;
   border-radius: 18px;
-  box-shadow: 0px 4px 10px rgba(0,0,0,0.3);
+  box-shadow: 0 4px 10px rgb(0 0 0 / 30%);
   border: 2px solid #aaa;
   cursor: pointer;
 }
 
-@media screen and (min-width:960px) {
+@media screen and (width >=960px) {
   .demo-container {
     width: 50vw;
   }

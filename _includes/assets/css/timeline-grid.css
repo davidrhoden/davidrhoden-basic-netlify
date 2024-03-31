@@ -3,7 +3,8 @@
   width: 90vw;
 }
 
-.grid-container, .text-timeline {
+.grid-container,
+.text-timeline {
   display: grid;
   margin-top: 0;
 }
@@ -17,33 +18,34 @@
 }
 
 .text-timeline .post-year {
-  color:  white;
+  color: white;
   background-color: var(--blue);
 }
 
 .text-timeline-link {
-  padding:  .25em .5em;
+  padding: 0.25em 0.5em;
 }
 
-.text-timeline-link a, .text-timeline-link a[href]:visited {
+.text-timeline-link a,
+.text-timeline-link a[href]:visited {
   color: var(--black);
 }
 
 .year {
   margin-top: 20px;
-  outline: 2px solid #eeeeee;
+  outline: 2px solid #eee;
   position: relative;
 }
 
-@media screen and (min-width:960px) {
-
+@media screen and (width >=960px) {
   .timeline .container-wide {
-    border-top:  1px solid #efefef;
-    margin-top:  7em;
+    border-top: 1px solid #efefef;
+    margin-top: 7em;
     width: auto;
   }
 
-  .grid-container, .text-timeline {
+  .grid-container,
+  .text-timeline {
     display: grid;
     grid-auto-flow: column;
     grid-gap: 16px;
@@ -79,7 +81,7 @@
     height: 160px;
     overflow: hidden;
     position: relative;
-    text-align:center;
+    text-align: center;
     width: 320px;
   }
 
@@ -102,6 +104,4 @@
     min-width: 250px;
     max-width: 1000px;
   }
-
 }
-
