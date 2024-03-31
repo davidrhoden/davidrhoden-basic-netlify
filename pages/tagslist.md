@@ -6,5 +6,4 @@ permalink: tagslist/index.html
 eleventyNavigation:
   key: Tags List
   order: 17
-
 ---

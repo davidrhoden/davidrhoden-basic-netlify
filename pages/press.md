@@ -7,15 +7,13 @@ summary: Every once in a while, _The New York Times_ or _The Washington Post_ wa
 eleventyNavigation:
   key: Press
   order: 10
-
 ---
 
 Every once in a while, _The New York Times_ or _The Washington Post_ want to talk to me. It usually has to do with something I don't know that much about.
 
 ---
 
-*["For Some Fans, Accusations of Rape Crumble Bill Cosby’s Wholesome Image"](https://www.nytimes.com/2014/11/23/arts/bill-cosby.html)*, Kate Zernike, _The New York Times_, November 22, 2014.
-
+_["For Some Fans, Accusations of Rape Crumble Bill Cosby’s Wholesome Image"](https://www.nytimes.com/2014/11/23/arts/bill-cosby.html)_, Kate Zernike, _The New York Times_, November 22, 2014.
 
 ![screenshot of excerpt from interview with David Rhoden about Bill Cosby](/static/img/press/cosby-article-screenshot.png)
 
@@ -40,13 +38,8 @@ i can't believe I said some of ths sh\*t and somebody printed it. I am still goo
 
 ["O Little Town of Rock 'n' Roll"](https://www.washingtonpost.com/archive/lifestyle/1984/08/29/o-little-town-of-rock-n-roll/73724f2b-8b49-4db9-b586-c6607ee265a5/), Art Harris, _The Washington Post_, August 29, 1984.
 
-
 ![screenshot of excerpt from article interviewing David Rhoden about Athens music](/static/img/press/athens-article-screenshot.png)
 
-![old xerox of article interviewing David Rhoden about Athens music, page 1](/static/img/press/olittletownp1lg.jpg
-)
+![old xerox of article interviewing David Rhoden about Athens music, page 1](/static/img/press/olittletownp1lg.jpg)
 
-![old xerox of article interviewing David Rhoden about Athens music, page 1](/static/img/press/olittletownp2lg.jpg
-)
-
-
+![old xerox of article interviewing David Rhoden about Athens music, page 1](/static/img/press/olittletownp2lg.jpg)

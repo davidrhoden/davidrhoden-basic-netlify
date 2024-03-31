@@ -6,7 +6,6 @@ permalink: /animation-demo/index.html
 image: /static/img/animations/guytripping.gif
 excerpt: Demo of on-scroll animations by David Rhoden.
 summary: Demo of on-scroll animations by David Rhoden.
-
 ---
 
 <script src="/_includes/assets/js/scrolling.js"></script>

@@ -11,5 +11,4 @@ pagination:
 eleventyNavigation:
   key: Timeline
   order: 15
-
 ---

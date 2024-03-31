@@ -7,9 +7,8 @@ excerpt: Digital and analog sketches and doodles from the sketchbook of New Orle
 layout: layouts/page-gallery.njk
 navtitle: sketchbook
 eleventyNavigation:
-  key: Sketchbook 
+  key: Sketchbook
   order: 5
- 
 ---
 
 1. ![egghead sketchbook entry by David Rhoden](/static/img/sketchbook/egghead-jan-21-2020.jpg?nf_resize=fit&h=550)

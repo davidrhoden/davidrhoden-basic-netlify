@@ -6,7 +6,6 @@ permalink: /
 excerpt: Paintings, illustrations, animations, fun. Based in New Orleans, Louisiana.
 summary: Paintings, illustrations, animations, fun. Based in New Orleans, Louisiana.
 image: /static/img/homepage-featured/bottlecap.jpg
-
 ---
 
 <div class="grid-home">

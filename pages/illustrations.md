@@ -7,9 +7,8 @@ summary: Illustrations by New Orleans illustrator David Rhoden. Need illustratio
 image: /static/img/illustrations/harbo.jpg
 layout: layouts/page-bricks.njk
 eleventyNavigation:
-  key: Illustrations 
+  key: Illustrations
   order: 5
-
 ---
 
 - [![For a petition for more BMX parks in Seattle.](/static/img/illustrations/harbo.jpg?nf_resize=smartcrop&w=260&h=260)](/static/img/illustrations/harbo.jpg)
@@ -21,4 +20,3 @@ eleventyNavigation:
 - [!["Bio boards" to introduce conference speakers by showing the industry they work in.](/static/img/illustrations/wwf.jpg?nf_resize=smartcrop&w=260&h=260)](/static/img/illustrations/wwf.jpg)
 - [!["Worst of New Orleans", for _New Orleans_ magazine.](/static/img/illustrations/baggyfinal.jpg?nf_resize=smartcrop&w=260&h=260)](/static/img/illustrations/baggyfinal.jpg)
 - [!["Best of New Orleans", for _New Orleans_ magazine.](/static/img/illustrations/stloufinal.jpg?nf_resize=smartcrop&w=260&h=260)](/static/img/illustrations/stloufinal.jpg)
-

@@ -1,14 +1,13 @@
 ---
-title: Stories 
+title: Stories
 date: 2021-10-01T00:00:00.000Z
 permalink: /stories/index.html
 # eleventyNavigation:
 #   key: Press
 #   order: 10
-
 ---
 
-If you've found this page, these are notes for stories I want to write down, but haven't yet. 
+If you've found this page, these are notes for stories I want to write down, but haven't yet.
 
 Dates are approximate and subject to change.
 
@@ -44,7 +43,6 @@ Saw _Star Wars_.
 
 We had a neighborhood Olympics and a I won a few medals, though no golds. A kid named Tony Bianchino, a relative of our neighbors came to play in a tri-corner hat. He would say "I came to jump!" but he could hardly jump at all. Still, I came to jump!" became a commonly heard phrase in our neighborhood."
 
-
 November 7, 1976: Saw Georgia Tech beat Notre Dame without completing or attempting a forward pass.
 https://ramblinwreck.com/beat-notre-dame-without-throwing-a-pass-georgia-tech-did-it-in-1976/
 Had boiled peanuts.
@@ -67,12 +65,11 @@ March 2: Soul Man is a madeleine for me. Went to get the Blues Bros 45 on my 11t
 
 Went to Camp Lookout. Met Danny Castor. He thought my namme was "Broden". He often callled me Broden, but I thought it was just a nickname. Then he said he couldn't find our nuber in the phone book. That's how we figured it out. I'd known him for quite a while by then.
 
-
-## 1979 
+## 1979
 
 Started McCallie, had a silly Bible class.
 
-Went to Camp Lookout. 
+Went to Camp Lookout.
 
 ## 1980
 
@@ -218,7 +215,6 @@ Ran into Wendy Farmer while I was hanging out with Kip and introduced them, forg
 
 This was a wild year and yet it's hard to remember everything that happened and when.
 
-
 ## 1987
 
 Took the bus to Boston (24-hours plus on a bus) and lived in a tent (indoors).
@@ -238,7 +234,6 @@ Get money back for free theater tickets.
 Worked at Copy Cop.
 
 Walked around Boston noting down strange graffiti like "THE POPE WENT TO COLLEGE".
-
 
 ## 1988
 
@@ -496,7 +491,6 @@ May 17: JandTWP at Rock and Bowl.
 
 September 17th: Bobby Bare, Jr at Union Pool.
 
-
 ## 2006
 
 Jan 1: went to Kellogg Diner with Kirstin.
@@ -612,7 +606,6 @@ https://www.timesfreepress.com/news/chattanooganow/music/story/2018/jan/17/who-a
 
 Found a dead possum on Gina's path.
 
-
 ## 2021
 
 May 15, 2021: Doctor Aprill funeral.
@@ -621,7 +614,7 @@ Ben Pearson funeral.
 
 Threw an apple core to a possum on mom's roof.
 
-----
+---
 
 ## Date unknown
 
@@ -644,7 +637,6 @@ Saw International Noise Conspiracy and Rocket From The Crypt at House of Blues.
 Watched The Tush Show on WTBS.
 
 Day before I left to move to N.O. again. My co-worker pretty clearly had a kidney stone. He was writhing on the floor. Hi very friendly boss came to check on him. He said "aah, you just need to fart. Go on, fart it out," while rubbing the guy's shoulders.
-
 
 ## Acted in:
 

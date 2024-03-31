@@ -7,9 +7,8 @@ summary: Design work by New Orleans web and graphic designer David Rhoden.
 image: /static/img/designs/TalbotAdamsAlbum.jpg
 layout: layouts/page-bricks.njk
 eleventyNavigation:
-  key: Designs 
+  key: Designs
   order: 7
-
 ---
 
 - [![Show poster design.](/static/img/designs/stacks-holy-diver-flyer-2-sq-jan-25-2024.png?nf_resize=smartcrop&w=260&h=260)](/static/img/designs/stacks-holy-diver-flyer-2-sq-jan-25-2024.png)

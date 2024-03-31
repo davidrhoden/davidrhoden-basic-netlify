@@ -8,9 +8,8 @@ summary: Digital and analog animations by New Orleans-based artist David Rhoden.
 navtitle: Animations
 layout: layouts/page.njk
 eleventyNavigation:
-  key: Animations 
+  key: Animations
   order: 5
-  
 ---
 
 <div class="animation-individual">
@@ -86,6 +85,7 @@ eleventyNavigation:
 ![Scratch animation by David Rhoden](/static/img/animations/ampuscratch.gif)
 
 ---
+
 <div class="animation-individual">
 <video controls="controls">
   <source type="video/mp4" src="/static/img/animations/mp4s/lemondrop640.mp4"></source>
@@ -101,7 +101,7 @@ eleventyNavigation:
 
 ![Slappers animation by David Rhoden](/static/img/animations/slappers.gif)
 
---- 
+---
 
 ![Walk cycle animation by David Rhoden](/static/img/animations/walkcycle.gif)
 
@@ -124,5 +124,3 @@ eleventyNavigation:
 ---
 
 ![Kickball animation by David Rhoden](/static/img/animations/160518_kickball.gif)
-
-

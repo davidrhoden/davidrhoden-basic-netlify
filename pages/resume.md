@@ -7,7 +7,6 @@ excerpt: "The resume of David Rhoden, a digital art director, web designer, and 
 eleventyNavigation:
   key: Résumé
   order: 12
-  
 ---
 
 <article>

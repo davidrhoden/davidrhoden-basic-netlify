@@ -9,7 +9,6 @@ image: /static/img/about/davechartroomcrop.jpg
 eleventyNavigation:
   key: About
   order: 0
-  
 ---
 
 <div class="about flex">
@@ -18,11 +17,12 @@ eleventyNavigation:
   </div>
   <div class="right">
 
-  David Rhoden is a painter, animator, and illustrator, currently based in New Orleans. And I'm David Rhoden.
+David Rhoden is a painter, animator, and illustrator, currently based in New Orleans. And I'm David Rhoden.
 
-  Not only do I paint, illustrate, and animate, I also work for a living.
+Not only do I paint, illustrate, and animate, I also work for a living.
 
-  I have had more jobs than you can count, including being an ice cream man and an oyster shucker for one day each. I started my post-collegiate work career as a freelance writer and an assistant editor at Golden Books, spent some years toiling in various departments at Citibank and Goldman Sachs, then, through a series of temp jobs, found my way into the business of design and marketing, where I work as a web developer and (infrequently) designer.
+I have had more jobs than you can count, including being an ice cream man and an oyster shucker for one day each. I started my post-collegiate work career as a freelance writer and an assistant editor at Golden Books, spent some years toiling in various departments at Citibank and Goldman Sachs, then, through a series of temp jobs, found my way into the business of design and marketing, where I work as a web developer and (infrequently) designer.
+
   </div>
 </div>
 

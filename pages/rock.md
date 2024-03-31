@@ -8,7 +8,6 @@ excerpt: "A brief history of bands David Rhoden has played in, including the Sta
 eleventyNavigation:
   key: Rock Music
   order: 9
-
 ---
 
 ## The Stacks
@@ -68,12 +67,15 @@ Fun little band I was briefly the drummer of. We rehearsed a bunch but I think w
 We did one terrific recording with Daniel Rey (Ramones producer, member of The Martinets currently and Masters Of Reality formerly). I was the drummer. Daniel made the cymbals sound great, he could probably find work just doing that. Members went on to be in Luxurious Faux Furs, Chicken Snake, and The Nato Coles Band.
 
 <audio src="/static/audio/headless-hookers/AnxiousBoogie.mp3" autobuffer autoloop loop controls></audio>
+
 <figcaption>Headless Hookers, "Anxious Boogie"</figcaption>
 
 <audio src="/static/audio/headless-hookers/YouNeverTakeMeAnywhere.mp3" autobuffer autoloop loop controls></audio>
+
 <figcaption>Headless Hookers, "You Never Take Me Anywhere"</figcaption>
 
 <audio src="/static/audio/headless-hookers/SilenceAndTears.mp3" autobuffer autoloop loop controls></audio>
+
 <figcaption>Headless Hookers, "Silence and Tears"</figcaption>
 
 <a href="/tags/headless-hookers/">All posts tagged "Headless Hookers"</a>
@@ -85,6 +87,7 @@ We did one terrific recording with Daniel Rey (Ramones producer, member of The M
 Fun band I played drums in with "Benny" (real name Mark) and Kelly Vaughn (now Kelly Vaughn-Kaufmann). We just played one show at a miserable club called 169 Bar and it was a disaster. But the Stacks song "I'm Wild" came out of a jam at one of our rehearsals.
 
 <audio src="/static/audio/ImWildOriginalDemo.mp3" autobuffer autoloop loop controls></audio>
+
 <figcaption>Shocks & Struts, "I'm Wild"</figcaption>
 
 (Warning: unfriendly audio!)
@@ -129,6 +132,7 @@ A really terrific band that started because I wanted to do some of Chan's song b
 Short-lived band that actually toured around some. The spectacle was the thing with this trio, but there's a recording somewhere. We're on a DVD somebody made called Blackbeard's Lost Weekend (part of a live show at The Cave in Chapel Hill, N.C.).
 
 <audio src="/static/audio/maximvs/maximvs-cough.mp3" autobuffer autoloop loop controls></audio>
+
 <figcaption>MAXIMVS!, "Cough Syrup Boogie"</figcaption>
 
 <a href="/tags/maximvs/">All posts tagged "MAXIMVS"</a>
@@ -218,18 +222,20 @@ Lots of recordings, very disorganized. Coming soon or at least someday.
 
 We did record some good stuff with Mitro Valsamis but I don't appear to have a copy. (EDIT: Jahna sent me copies of the recording, so here they are!)
 
-
-
 <audio src="/static/audio/innuendos/01-All-I-Want.mp3" autobuffer autoloop loop controls></audio>
+
 <figcaption>The Innuendos, "All I Want"</figcaption>
 
 <audio src="/static/audio/innuendos/02-I-Want-More.mp3" autobuffer autoloop loop controls></audio>
+
 <figcaption>The Innuendos, "I Want More"</figcaption>
 
 <audio src="/static/audio/innuendos/04-Shut-Up-and-Kiss-Me.mp3" autobuffer autoloop loop controls></audio>
+
 <figcaption>The Innuendos, "Shut Up And Kiss Me"</figcaption>
 
 <audio src="/static/audio/innuendos/05-When-You-Comin-Home.mp3" autobuffer autoloop loop controls></audio>
+
 <figcaption>The Innuendos, "When You Comin' Home"</figcaption>
 
 ---
@@ -252,7 +258,7 @@ Pictured: David Rhoden, Mike Hueston, Dave DiBiasio, Yod Crewsy
 
 One show; we went to SXSW to play a daytine show on 6th Street. I was standing in for the regular guitarist, who couldn't make it. The bassist was also a stand-in, and he came from Holland, we literally met at the gig. I hope it was a good show. No recordings of me with this band but I will link to some.
 
-___
+---
 
 ## Hi-Balls
 
@@ -303,14 +309,15 @@ I don't know what happened to Rick's version.
 Pretty fun band where I was at first the most accompished musician, which is a bad, bad sign. We played a show on a slippery floor where me and Ed Wright, the other guitarist, fell down repeatedly even though we were just trying to stand still. We rehearsed in a house where the litterboxes where just flat beer boxes with piles of litter that were never cleaned, at least not to my knowledge. I left because Everything Tool had an out-of-town show that caused me to miss practice. An ultimatum was issued. I guess they were ready to forge ahead without me. This band became the Flying Polecats (without me).
 
 Surely no recordings or pictures exist.
-___
+
+---
 
 ## Everything Tool
 
 ![Sam from Everything tool](/static/img/rock/everything-tool-sam.jpg)
 ![Everything tool flyer](/static/img/rock/everything-tool-with-37-targets.jpg)
 
-First "real" college band. I thought we were pretty good though I'm embarrassed by the lyrics now. We made a cassette called "Mystic Crystal Revelation" but I don't have a copy. we toured as far west as Memphis and as far south as Huntsville, Alabama. 
+First "real" college band. I thought we were pretty good though I'm embarrassed by the lyrics now. We made a cassette called "Mystic Crystal Revelation" but I don't have a copy. we toured as far west as Memphis and as far south as Huntsville, Alabama.
 
 <a href="/tags/everything-tool/">All posts tagged "Everything Tool"</a>
 

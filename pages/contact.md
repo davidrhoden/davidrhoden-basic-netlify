@@ -9,6 +9,4 @@ image: /static/img/rock/jawpdaviddrumminglakeside.jpg
 eleventyNavigation:
   key: Get in touch
   order: 14
-
 ---
-

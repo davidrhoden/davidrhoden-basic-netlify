@@ -1,5 +1,4 @@
 ---
-
 title: Paintings
 date: 2020-04-11T00:00:00.000Z
 permalink: /paintings/index.html
@@ -10,8 +9,8 @@ layout: layouts/page-bricks.njk
 eleventyNavigation:
   key: Paintings
   order: 3
-
 ---
+
 <div class="column left">
 
 These are all my paintings I took pictures of.
@@ -80,8 +79,7 @@ To see my paintings I currently want to sell, please visit [thisismyhappening.co
 1. [![Pipes painting by David Rhoden](/static/img/paintings/thepipesfullsizeoutdoors.jpg?nf_resize=smartcrop&w=260&h=260)](/static/img/paintings/thepipesfullsizeoutdoors.jpg)
 1. [![painting by David Rhoden](/static/img/paintings/torsoman1000.jpg?nf_resize=smartcrop&w=260&h=260)](/static/img/paintings/torsoman1000.jpg)
 1. [![Picnic Pal painting by David Rhoden](/static/img/paintings/picnicpal.jpg?nf_resize=smartcrop&w=260&h=260)](/static/img/paintings/picnicpal.jpg)
-1. [![Blue Luchador painting by David Rhoden](/static/img/paintings/161108blueluchacliffd.jpg?nf_resize=smartcrop&w=260&h=260)](/static/img/paintings/161108blueluchacliffd.jpg)
-1.[![Blue Squiggle painting by David Rhoden](/static/img/paintings/160917bluesquiggle.jpg?nf_resize=smartcrop&w=260&h=260)](/static/img/paintings/160917bluesquiggle.jpg)
+1. [![Blue Luchador painting by David Rhoden](/static/img/paintings/161108blueluchacliffd.jpg?nf_resize=smartcrop&w=260&h=260)](/static/img/paintings/161108blueluchacliffd.jpg) 1.[![Blue Squiggle painting by David Rhoden](/static/img/paintings/160917bluesquiggle.jpg?nf_resize=smartcrop&w=260&h=260)](/static/img/paintings/160917bluesquiggle.jpg)
 1. [![Yellow squiggle painting by David Rhoden](/static/img/paintings/160807squiggleyelobig.jpg?nf_resize=smartcrop&w=260&h=260)](/static/img/paintings/160807squiggleyelobig.jpg)
 1. [![Funny Man painting by David Rhoden](/static/img/paintings/funnyman-feb-17-2015.jpg?nf_resize=smartcrop&w=260&h=260)](/static/img/paintings/funnyman-feb-17-2015.jpg)
 1. [![Betty and Luchador painting by David Rhoden](/static/img/paintings/bettyandlucha.jpg?nf_resize=smartcrop&w=260&h=260)](/static/img/paintings/bettyandlucha.jpg)

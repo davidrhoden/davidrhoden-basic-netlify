@@ -8,7 +8,6 @@ image: https://davidrhoden.com/static/img/representative-paintings.jpg
 eleventyNavigation:
   key: Art For Sale
   order: 1
-
 ---
 
 These are the paintings and things I currently have for sale. I take American money or its equivalents; PayPal, Venmo, Bitcoin, stock certificates, pound notes, loose change, personal checks, anything. Contact me if you're interested (there's an easy form at the foot of the page).
@@ -26,7 +25,7 @@ Lighter, $150
 
 ![Organic form painting by David Rhoden](/static/img/paintings/organicform5-chromeyellow-sq.jpg?nf_resize=fit&w=640)
 Organic Form. $360
- 
+
 ![Give Me Your Money painting by David Rhoden](/static/img/paintings/Give-Me-Your-Money.jpg?nf_resize=fit&w=640)
 Give Me Your Money. $360
 
@@ -47,5 +46,3 @@ Keys. $180
 
 ![Pink Face painting by David Rhoden](/static/img/paintings/pink-face.jpg)
 Pink Face. $90
-
-
