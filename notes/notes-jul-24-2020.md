@@ -5,13 +5,12 @@ summary: I really feel for this frog.
 excerpt: I really feel for this frog.
 image: notes/froggy.jpg
 tags:
-  - note 
+  - note
   - post
   - Gina
   - TV
   - Kentucky
   - Happy and Froggy
-
 ---
 
 Gina told me about Happy and Froggy, whom she watched on TV as a kid growing up near Lexington. Then she showed me this, the final episode of the show. I feel so bad for the frog. He doesn't mention the kids. His grief is personal. It's like watching someone go from bargaining to acceptance.

@@ -3,13 +3,12 @@ title: Can I still call myself a painter?
 date: 2023-07-21T10:00:00.000Z
 image: /notes/one-fat-summer-jul-20-2023.jpg
 tags:
-  - note 
+  - note
   - post
   - One Fat Summer
   - Robert Lipsyte
   - painting
   - shaky hands
-
 ---
 
 It's been a long time since I completed a painting. Nobody was buying anything during COVID, and my wall space was all full, so I sort of got out of the habit.
@@ -20,7 +19,7 @@ Unfortunately, my hands have gotten shaky. I can't do the clean lines like I wan
 
 The weather was terrible for this--we were going through a heatwave and the humidity was near 100 percent. My paint could stay wet for two days. (This is One-Shot sign paint, it's made to dry in a couple of hours.) I don't think I did the best job of preparing the wood, and that's something that can be fixed on future work. So maybe this is just a one-off mess-up. Everybody is permitted an off day. I just hope I can continue doing this, shaky hands or not.
 
-***
+---
 
 I recently read a book with the intriguing title _No One Left to Come Looking for You_ by Sam Lipsyte. I don't understand why that was the title, but maybe I skimmed over it. It was a book about Lower East Side punk rockers. I didn't quite believe it. I liked it but didn't love it. It was Pynchonesque in that there was a plot about a murder that didn't really mean much in terms of the actual story, and that plot was hard to follow. It's O.K. though.
 
@@ -30,11 +29,9 @@ The story is about Bob Marks, age fifteen, a kid whose family lives in New York 
 
 Bob shapes up because of the lawn work, which I think is why my mom suggested I read this book years ago. He also becomes more able to control situations he finds himself in. That's the moral I guess, get in shape so you don't get pushed around. Aside from that, there's just a lot to this book. Racism is an issue. Disordered eating is mentioned. PTSD, while not named, is a major aspect of the story. There are women characters in the book who aren't cardboard and who affect the plot.
 
-It's a book for young adults, probably boys in particular. I thought it was great then, and on this second reading. It was like Judy Blume but with more fighting. (Maybe like S.E. Hinton with less fighting, if my movie-watching tells me anything.) <s>It was originally published in 1967, over half a century ago, but you can hardly tell.  The main giveaway is the frequent mention of popular songs by the likes of Eddie Fisher.</s> _My mistake: it was published in 1977, but it's set in the Fifties._ Otherwise it's 100% relevant.
+It's a book for young adults, probably boys in particular. I thought it was great then, and on this second reading. It was like Judy Blume but with more fighting. (Maybe like S.E. Hinton with less fighting, if my movie-watching tells me anything.) <s>It was originally published in 1967, over half a century ago, but you can hardly tell. The main giveaway is the frequent mention of popular songs by the likes of Eddie Fisher.</s> _My mistake: it was published in 1977, but it's set in the Fifties._ Otherwise it's 100% relevant.
 Recommended.
 
 [Interesting article about the book getting take out of a Long Island middle school's curriculum in 1997. Great quote from the author at the end.](https://www.nytimes.com/1997/06/08/nyregion/a-1977-comes-under-scrutiny.html)
 
 ![One Fat Summer cover](/static/img/notes/one-fat-summer-jul-20-2023.jpg "One Fat Summer cover")
-
-

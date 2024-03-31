@@ -5,7 +5,7 @@ summary: The Pandemic Reboot Independence Day Edition
 excerpt: The Pandemic Reboot Independence Day Edition
 image: notes/milton-glaser-lightnin.jpg
 tags:
-  - note 
+  - note
   - post
   - Milton Glaser
   - Grand Theft Auto IV
@@ -13,7 +13,6 @@ tags:
   - Eleventy
   - Wordpress
   - Gina Phillips
-
 ---
 
 ![Milton Glaser: Lightnin' cover](/static/img/notes/milton-glaser-lightnin.jpg "Milton Glaser: Lightnin' cover")
@@ -24,13 +23,13 @@ Milton Glaser died last week on his 91st birthday. I love his illustration style
 
 I got a new television to replace the one that was [stolen](/timeline/i-got-robbed-probably-by-some-shady-women/), and I've been playing GTA IV again, or trying to. I can't drive the damn cars! I keep pushing the stick forward, which changes the camera view for some reason. This seems like a problem with the game and not me. If you know how to get around this, can you [get in touch with me](mailto:david@davidrhoden.com)?
 
-___
+---
 
 I'm really leaning more toward the idea of the website as document store, especially for small things, or important things. Most sites don't need a database. Not the kind of sites I work on anyway. Simpler content and a simpler aesthetic is what I'm striving for, though the less simple the content, the simpler the aesthetic needs to be.
 
 I'm a big fan of [Eleventy](https://www.11ty.dev/), especially when hosted on [Netlify](https://www.netlify.com/). This site is an example.
 
-___
+---
 
 Gina Phillips is doing a series of videos in anticipation of her upcoming show at [Jonathan Ferrara Gallery](http://www.jonathanferraragallery.com/artists/gina-phillips), now rescheduled for October.
 

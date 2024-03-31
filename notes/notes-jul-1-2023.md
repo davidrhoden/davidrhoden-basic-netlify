@@ -5,14 +5,13 @@ image: timeline/splash-and-chill-island-jul-1-2023.jpg
 summary: I spent the weekend of the Fourth in Pensacola.
 excerpt: I spent the weekend of the Fourth in Pensacola.
 tags:
-  - note 
+  - note
   - post
   - Perdido Bay
   - Pensacola
   - Florida
   - Fourth of July
   - Dana D.
-
 ---
 
 I went out of town to relax with friends near the water and relax I did.

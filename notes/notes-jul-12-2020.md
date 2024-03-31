@@ -5,16 +5,16 @@ summary: I'm doing all right, despite the pandemic. I am okay not seeing too man
 excerpt: I'm doing all right, despite the pandemic. I am okay not seeing too many people. Saving money, I guess.
 image: sketchbook/oh-my-jul-12-2020.jpg
 tags:
-  - note 
+  - note
   - post
   - pandemic
   - The Stacks
   - Andre Marquette
   - Grand Theft Auto IV
-
 ---
 
 ![Oh My sketch by David Rhoden](/static/img/sketchbook/oh-my-jul-12-2020.jpg "Oh My sketch by David Rhoden")
+
 <figcaption>Oh My sketch by David Rhoden</figcaption>
 
 I'm doing all right, despite the pandemic. I am okay not seeing too many people. Saving money, I guess.

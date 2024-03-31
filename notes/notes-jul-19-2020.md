@@ -5,10 +5,9 @@ summary: I painted a lighter. Also enjoying Doxology by Nell Zink.
 excerpt: I painted a lighter. Also enjoying Doxology by Nell Zink.
 image: paintings/lighter-jul-19-2020.jpg
 tags:
-  - note 
+  - note
   - painting
   - Nell Zink
-
 ---
 
 New painting. Let's say $150.

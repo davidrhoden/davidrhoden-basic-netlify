@@ -5,7 +5,7 @@ image: /timeline/lemon-twigs-oct-14-2021.jpg
 excerpt: The Lemon Twigs are good on record but what really shines is the live show.
 summary: The Lemon Twigs are good on record but what really shines is the live show.
 tags:
-  - note 
+  - note
   - rock
   - New Orleans
   - Louisiana
@@ -13,7 +13,6 @@ tags:
   - Bad Misters
   - Saturn Bar
   - The Lemon Twigs
-
 ---
 
 The Stacks are playing a show at the rejuvenated Saturn Bar!
@@ -26,7 +25,6 @@ Thursday, October 28, opening for [Bad Misters](https://badmisters.bandcamp.com)
   <p>Your browser does not support the video element.</p>
 </video>
 </div>
-
 
 I thought "Small Victories" was one of the best Lemon Twigs songs, then I heard this version of "The Fire". The singer is embarrassing to watch, I don't know what to say about his posture, but also he's GREAT. Both guitar players tear it up (as does the rest of the band). I hardly ever see anything like this.
 
