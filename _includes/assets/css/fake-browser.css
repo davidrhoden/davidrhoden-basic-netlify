@@ -47,7 +47,7 @@ section.browser-mockup-section {
   border: solid 10px #e8e8e8;
   border-top-width: 45px;
   border-radius: 6px;
-  box-shadow: 3px 12px 30px -8px rgba(0, 0, 0, 0.4);
+  box-shadow: 3px 12px 30px -8px rgb(0 0 0 / 40%);
   margin-bottom: 2rem;
   transform: rotateX(0deg) rotateY(-20deg) rotateZ(0deg);
   transition: all ease 0.4s;
@@ -73,10 +73,8 @@ section.browser-mockup-section {
   width: 10px;
   top: -27px;
   left: 30px;
-  background: #000;
-  background: #FEC031;
+  background: #fec031;
   border-radius: 50%;
-  opacity: 0.12;
   opacity: 1;
 }
 
@@ -86,8 +84,7 @@ section.browser-mockup-section {
   height: 100%;
   width: 100%;
   left: -20px;
-  background: #000;
-  background: #FF6054;
+  background: #ff6054;
   border-radius: 50%;
 }
 
@@ -97,8 +94,7 @@ section.browser-mockup-section {
   height: 100%;
   width: 100%;
   right: -20px;
-  background: #000;
-  background: #00CE4A;
+  background: #00ce4a;
   border-radius: 50%;
 }
 
@@ -106,16 +102,16 @@ section.browser-mockup-section {
   position: absolute;
   width: 60px;
   padding: 10px;
-  background: #6D69E2;
+  background: #6d69e2;
   fill: #fff;
   z-index: 9999;
   top: 340px;
   left: 40px;
-  box-shadow: 0 10px 20px -4px rgba(0, 0, 0, 0.5);
+  box-shadow: 0 10px 20px -4px rgb(0 0 0 / 50%);
 }
 
 .link {
-  margin: .5em 0;
+  margin: 0.5em 0;
 }
 
 .link.is-active {
@@ -135,7 +131,7 @@ section.browser-mockup-section {
 }
 
 @keyframes scrollIcon {
-/*  0% {
+  /*  0% {
     transform: translateY(15px);
     opacity: 0;
   }
@@ -146,26 +142,29 @@ section.browser-mockup-section {
   100% {
     transform: translateY(0);
     opacity: 0;
-  }*/
+  } */
   0% {
     transform: translateY(0);
     opacity: 1;
   }
+
   49% {
     transform: translateY(-10px);
     opacity: 0;
   }
+
   51% {
     transform: translateY(10px);
     opacity: 0;
   }
+
   100% {
     transform: translateY(0);
     opacity: 1;
   }
 }
 
-@media only screen and (max-width: 990px) {
+@media only screen and (width <= 990px) {
   .mockup-col {
     perspective: none;
   }
@@ -203,21 +202,19 @@ section.browser-mockup-section {
   transform: translate(-50%, -50%);
   color: #fff;
   padding: 10px 15px;
-  background: rgba(0, 0, 0, 0.7);
+  background: rgb(0 0 0 / 70%);
   border-radius: 4px;
 }
 
-@media screen and (min-width:960px) {
+@media screen and (width >=960px) {
   .col-lg-4 {
-      -ms-flex: 0 0 33.333333%;
-      flex: 0 0 33.333333%;
-      max-width: 33.333333%;
+    flex: 0 0 33.333333%;
+    max-width: 33.333333%;
   }
 
   .col-lg-8 {
-      -ms-flex: 0 0 66.666667%;
-      flex: 0 0 66.666667%;
-      max-width: 66.666667%;
-      padding: 2rem 0;
+    flex: 0 0 66.666667%;
+    max-width: 66.666667%;
+    padding: 2rem 0;
   }
 }

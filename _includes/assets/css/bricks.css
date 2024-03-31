@@ -1,32 +1,30 @@
-
-
-  #bricks ol, #bricks ul {
-    padding: 0;
-  }
-
-  #bricks ol li, #bricks ul li  {
-      counter-increment: inst;
-      display: inline-block;
-      margin: .2em auto;
-      padding: 0;
-      position: relative;
-      list-style: none;
-  }
-
-  .container-wide {
-     margin: 0 auto;
+#bricks ol,
+#bricks ul {
+  padding: 0;
 }
 
-@media screen and (min-width:960px) {
+#bricks ol li,
+#bricks ul li {
+  counter-increment: inst;
+  display: inline-block;
+  margin: 0.2em auto;
+  padding: 0;
+  position: relative;
+  list-style: none;
+  outline: 4px dotted yellowgreen;
+}
 
-  #bricks ol li, #bricks ul li  {
-      margin: .2em;
-      display: inline-block;
-      position: relative;
-      counter-increment: inst;
-      height: 260px;
-      width: 260px;
-      overflow:hidden;
+.container-wide {
+  margin: 0 auto;
+}
+
+@media screen and (width >=960px) {
+  #bricks ol li,
+  #bricks ul li {
+    margin: 0.2em;
+    height: 260px;
+    width: 260px;
+    overflow: hidden;
   }
 
   .margin-top-3em {
