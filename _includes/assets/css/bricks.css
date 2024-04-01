@@ -24,6 +24,7 @@
     height: 260px;
     width: 260px;
     overflow: hidden;
+    text-align: center;
   }
 
   #bricks ol li img,
