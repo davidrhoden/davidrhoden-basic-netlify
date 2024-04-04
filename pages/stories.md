@@ -618,6 +618,15 @@ Threw an apple core to a possum on mom's roof.
 
 ## Date unknown
 
+"HOW IT FREE??!?"
+
+I'm a Goethe."
+Have you read any of his works?"
+"Only the ones we have framed."
+
+Goethere "I know just the perfect book! The Frim by John Grisham."
+
+Tried out for Tennessee Vols Football as kicker.
 I was a groomsman in Mark and Emily's wedding. 1992?
 
 Tee Eva: "I twisted my left buttock." 2014?
