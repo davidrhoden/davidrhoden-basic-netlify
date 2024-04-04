@@ -279,7 +279,7 @@ small {
     display: flex;
     height: 24vw;
     font-family: "Cooper Black", var(--font-secondary);
-    font-size: 1em;
+    font-size: 2em;
     background-color: rgb(255 255 255 / 100%);
     position: absolute;
     align-items: center;
