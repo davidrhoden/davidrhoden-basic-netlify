@@ -950,4 +950,8 @@ span.fade:hover {
     margin-right: auto;
     width: 768px;
   }
+
+  .container img {
+    max-width: 768px;
+  }
 }
