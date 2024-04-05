@@ -31,4 +31,6 @@ ZZ Top had these nifty invisible conveyor belts as part of their stage set, so e
 
 Anyway, great show. Afterwards as we were driving away in my old Volvo, we got in traffic on the left of an F250. My boss leaned out the window and yelled at the driver. "Hey, what are you drivin' that American Steel for? You need to get in one of these Swedish automobiles!" That was pretty interesting, waiting to see what would happen next. Fortunately nothing did.
 
+We wound up at the Trolley Stop Cafe, on St. Charles Avenue. May people have fond memories of it. I don't really have any memories of it except we were trying to get some food into the real drunk guy. It was fine at the time. Later Gordon Ramsey and his TV show would wipe it off the map while claiming to help it.
+
 ![ZZ Top flyer](/static/img/timeline/zztop-skynyrd-nov-5-1999.jpg)
