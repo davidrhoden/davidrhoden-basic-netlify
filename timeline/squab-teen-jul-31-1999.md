@@ -1,6 +1,6 @@
 ---
 title: I saw a musical group called Squab Teen.
-date: 1999-07-31T11:00:00.000Z
+date: 2000-07-31T11:00:00.000Z
 summary: It wasn't my kind of music but I found the show memorable.
 excerpt: It wasn't my kind of music but I found the show memorable.
 category: timeline

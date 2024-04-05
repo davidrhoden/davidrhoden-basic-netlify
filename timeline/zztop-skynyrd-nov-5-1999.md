@@ -23,7 +23,7 @@ tags:
 
 It was the end of my first week working at my new job. We decided it would be fun to head to the new bar around the corner, the [Circle Bar](https://davidrhoden.com/tags/circle-bar/) for some after works drinks. We might have stayed a little too long. My new boss got the idea we should try to get last minute, night-of-show tickets to the inaugural show at what would later be called the Smoothie King Center. The band were ZZ Top and Lynyrd Skynyrd so of course Sara and I said yes.
 
-We went in my car as my boss had had a bit to drink. As soon as we got there he was able to buy tickets from a scalper for his wife and himself. That left me and Sara to fend for ourselves. Fortunately, this was still the 20th Century and there was a smoking area set up outside. A guy I knew from a record store, named Jason Craft, let us in (the area was delineated with police barriers). He just disconnected the barriers for a minute, which was a really nice thinig to do for a new acquaintance.
+We went in my car as my boss had had a bit to drink. As soon as we got there he was able to buy tickets from a scalper for his wife and himself. That left me and Sara to fend for ourselves. Fortunately, this was still the 20th Century and there was a smoking area set up outside. A guy I knew from a record store, named Jason Craft, let us in (the area was delineated with police barriers). He just disconnected the barriers for a minute, which was a really nice thing to do for a new acquaintance.
 
 Once we were in there were no problems. Plenty of empty seats. We missed Skynyrd, which was probably fine.
 

@@ -21,4 +21,4 @@ tags:
 
 We recorded down in the basement and while we were recording the home heating oil got delivered. Somehow the oil leaked and soaked Joe's drum cases. I brought them to my house, for some reason but they were so noxious and unsalvageable Sara made me throw them out. She was right to do that. I'm sorry.
 
-See also [The Innuendos second date recording with Mitro](/the-innuendos-second-date-recording-with-mitro) to hear the recordings.
+See also [The Innuendos second date recording with Mitro](/timeline/the-innuendos-second-date-recording-with-mitro/) to hear the recordings.
