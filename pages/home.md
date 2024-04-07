@@ -52,47 +52,47 @@ image: /static/img/homepage-featured/bottlecap.jpg
   <div class="grid-square">
     <a href="/tags/animations/">
     <div class="overlay">Needs work. Where do his ears go?</div>
-    <img src="/static/img/homepage-featured/dailyRar02-redo-improve.gif"></a></div>
+    <img src="/static/img/homepage-featured/dailyRar02-redo-improve.gif" alt="little goblin illustration"></a></div>
   <div class="grid-square">
     <a href="/paintings/">
     <div class="overlay">No.</div>
-    <img src="/static/img/homepage-featured/negatorygoodbuddy-edit.jpg"></a></div>
+    <img src="/static/img/homepage-featured/negatorygoodbuddy-edit.jpg" alt="painting by david rhoden of a guy saying NO"></a></div>
   <div class="grid-square">
     <a href="/tags/the-stacks/">
     <div class="overlay">I play in a band called The Stacks. Like &ldquo;stacks of records.&rdquo;</div>
-    <img src="/static/img/homepage-featured/stacks-at-gasa-gasa-edit.jpg"></a></div>
+    <img src="/static/img/homepage-featured/stacks-at-gasa-gasa-edit.jpg" alt="Stacks on stage at Gasa Gasa"></a></div>
   <div class="grid-square">
     <a href="/animations/">
     <div class="overlay">You can't hide your flyin&rsquo; eyes.</div>
-    <img src="/static/img/homepage-featured/flyingeyes140709.gif"></a></div>
+    <img src="/static/img/homepage-featured/flyingeyes140709.gif" alt="animation of man removing eyes and throwing them, and they bounce."></a></div>
   <div class="grid-square">
     <a href="/tags/paintings/">
     <div class="overlay">Kinda speaks for itself.</div>
-    <img src="/static/img/homepage-featured/fuckhead.jpg"></a></div>
+    <img src="/static/img/homepage-featured/fuckhead.jpg" alt="David Rhoden painting of face saying FUCK"></a></div>
   <div class="grid-square">
     <a href="/illustrations/">
     <div class="overlay">Illustration for a BMX park in beautiful Seattle.</div>
-    <img src="/static/img/homepage-featured/harbo-edit.webp"></a></div>
+    <img src="/static/img/homepage-featured/harbo-edit.webp"  alt="David Rhoden Illustration of skate park in Seattle."></a></div>
   <div class="grid-square">
     <a href="/paintings/">
     <div class="overlay">Is further explanation needed?</div>
-    <img src="/static/img/homepage-featured/i-dont-like-this-edit.webp"></a></div>
+    <img src="/static/img/homepage-featured/i-dont-like-this-edit.webp"  alt="Painting by David Rhoden fo fella saying I don't like this and I don't want to do it."></a></div>
   <div class="grid-square">
     <a href="/paintings/">
     <div class="overlay">Organic form.</div>
-    <img src="/static/img/homepage-featured/organicform5-chromeyellow-sq.jpg"></a></div>
+    <img src="/static/img/homepage-featured/organicform5-chromeyellow-sq.jpg" alt="Dave Rhoden painting of yellow squiggle"></a></div>
   <div class="grid-square">
     <a href="/paintings/">
     <div class="overlay">It's a go-anywhere vehicle called a Unimog.</div>
-    <img src="/static/img/homepage-featured/unimog-feb-20-2022.jpg"></a></div>
+    <img src="/static/img/homepage-featured/unimog-feb-20-2022.jpg"  alt="David Rhoden painting of Unimog truck."></a></div>
   <div class="grid-square">
     <a href="/animations/">
     <div class="overlay">I can draw the same thing for hours.</div>
-    <img src="/static/img/homepage-featured/head-shaker.gif"></a></div>
+    <img src="/static/img/homepage-featured/head-shaker.gif"  alt="Animation by David Rhoden of woman shaking her head."></a></div>
   <div class="grid-square">
     <a href="/rock/">
     <div class="overlay">This might be my favorite picture of me.</div>
-    <img src="/static/img/homepage-featured/all-night-movers-ferrara-window-by-jeff-pounds-edit.jpg"></a></div>
+    <img src="/static/img/homepage-featured/all-night-movers-ferrara-window-by-jeff-pounds-edit.jpg" alt="Stacks on stage at Gasa Gasa"></a></div>
   <div class="grid-square">
     <a href="/tags/jimmy-and-the-wolfpack/">
     <div class="overlay">I played in a band called Jimmy and The Wolfpack.</div>

@@ -17,6 +17,3 @@
 Very good band, soon to be replaced for some reason.
 
 ![St. Lorelei at Siberia.](/static/img/timeline/st-lorelei-dec-6-2022.jpeg)
-
-
-  
