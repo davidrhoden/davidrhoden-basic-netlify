@@ -3,7 +3,7 @@
   date: 2024-04-07T00:00:00
   excerpt: It's 24 pages, staple-bound. Laser printed on, let's see... 20lb copy paper. Good stuff. It's black-and-white, but so are the originals.
   summary: It's 24 pages, staple-bound. Laser printed on, let's see... 20lb copy paper. Good stuff. It's black-and-white, but so are the originals.
-  image: designs/karaoke-booklet-apr-7-2024.jpg
+  image: designs/karaoke-booklet-apr-7-2024.jpeg
   tags:
     - post
     - note
@@ -21,11 +21,11 @@ THey're just drawings of people singing karaoke songs into a home karaoke-type m
 
 It's 24 pages, staple-bound. Laser printed on, let's see... 20lb copy paper. Good stuff. It's black-and-white, but so are the originals.
 
-![front cover of karaoke booklet by David Rhoden](/static/img/designs/karaoke-booklet-apr-7-2024.jpg)
+![front cover of karaoke booklet by David Rhoden](/static/img/designs/karaoke-booklet-apr-7-2024.jpeg)
 
-![interior spread of karaoke booklet by David Rhoden](/static/img/designs/karaoke-booklet-interior-1-apr-7-2024.jpg)
+![interior spread of karaoke booklet by David Rhoden](/static/img/designs/karaoke-booklet-interior-1-apr-7-2024.jpeg)
 
-![back of karaoke booklet by David Rhoden](/static/img/designs/karaoke-booklet-back-apr-7-2024.jpg)
+![back of karaoke booklet by David Rhoden](/static/img/designs/karaoke-booklet-back-apr-7-2024.jpeg)
 
 I'd love to send you one. If you want one, just email me your mailing address. If you want to get money involved, you can Venmo me an amount not to exceed four dollars at [@davidrhoden](https://venmo.com/u/davidrhoden). (If you're curious, the minimum transaction on Venmo is $0.01. And a "FOREVER" postage stamp costs 68 cents these days, did you know that? I was shocked.)
 

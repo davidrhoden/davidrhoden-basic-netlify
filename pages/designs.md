@@ -11,7 +11,7 @@ eleventyNavigation:
   order: 7
 ---
 
-- ![karaoke booklet, April 7 2024](/static/img/designs/karaoke-booklet-apr-7-2024.jpg "karaoke cartoon booklet")
+- ![karaoke booklet, April 7 2024](/static/img/designs/karaoke-booklet-apr-7-2024.jpeg "karaoke cartoon booklet")
 - ![Show poster Stacks and Happy Talk at Checkpoint Charlie April 1 2024](/static/img/designs/Stacks-HTB-checkpoints-apr-14-2024.jpg "Stacks and Happy Talk at Checkpoint Charlie April 1 2024")
 - [![Show poster design.](/static/img/designs/stacks-holy-diver-flyer-2-sq-jan-25-2024.png)](/static/img/designs/stacks-holy-diver-flyer-2-sq-jan-25-2024.png)
 - [![Show poster design.](/static/img/designs/Sister-Street-Fest-2023-times.png)](/static/img/designs/Sister-Street-Fest-2023-times.png)
