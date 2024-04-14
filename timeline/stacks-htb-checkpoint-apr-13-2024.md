@@ -30,4 +30,4 @@ This was just a little part of the excellent, fun crowd that came out to see The
 
 Before the show, the cat frenemies tolerated each other nicely.
 
-![cat frenemies tolerating each other.](/static/img/timeline/buddy-and-otther-together-apr-13-2024.jpeg)
+![cat frenemies tolerating each other.](/static/img/timeline/buddy-and-otter-together-apr-13-2024.jpeg)
