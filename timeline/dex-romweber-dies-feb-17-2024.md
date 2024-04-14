@@ -1,5 +1,5 @@
 ---
-  title: A few words about Dexter Romweber
+  title: A few words about Dexter Romweber.
   date: 2024-02-17T00:00:00
   excerpt: If you go listen today, please note how a lot of it is garage/rock/rockabilly, but a lot of it isn't.
   summary: If you go listen today, please note how a lot of it is garage/rock/rockabilly, but a lot of it isn't.

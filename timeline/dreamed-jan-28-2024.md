@@ -1,11 +1,11 @@
 ---
-  title: a trip to a thrift shop
+  title: 'Dreamed: a trip to a thrift shop.'
   date: 2024-01-28T00:00:00
   excerpt: I was an adult, basically present-day me, but I was starting a new school and I had an advisor, and we went to the mall.
   summary: I was an adult, basically present-day me, but I was starting a new school and I had an advisor, and we went to the mall.
   image: 
   tags:
-    - dreamed
+    - dreams
     - thrift shops
 ---
 
