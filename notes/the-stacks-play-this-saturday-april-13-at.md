@@ -1,3 +1,23 @@
+---
+  title:
+  date: 2024-04-08T00:00:00
+  excerpt:
+  summary:
+  image:
+  tags:
+    - rock
+    - shows
+    - The Stacks
+    - Checkpoint Charlie
+    - painting
+    - karaoke
+    - zines
+    - newsletter
+
+---
+
+
+
 Hello, Dear Dave Rhoden's Computer Newsletter subscriber! Just a few bits of news:
 
 [The Stacks](https://thestackswebsite.com) (my band, or a band with me in it) are playing this Saturday, April 13, 2024, at Checkpoint Charlie, with [Happy Talk Band](https://lukespurrallen.com). Show at 9 p.m. We play in the French Quarter once a decade or less, so please don't miss it.
