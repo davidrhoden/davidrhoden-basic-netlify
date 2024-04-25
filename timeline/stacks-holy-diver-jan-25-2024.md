@@ -1,5 +1,5 @@
 ---
-  title: The Stacks play September 25 at Holy Diver (the old Sidney's Saloon).
+  title: The Stacks play January 25 at Holy Diver (the old Sidney's Saloon).
   date: 2024-01-25T00:00:00
   excerpt: With Redondo Beat and Luxurious Faux Furs.
   summary: With Redondo Beat and Luxurious Faux Furs.
