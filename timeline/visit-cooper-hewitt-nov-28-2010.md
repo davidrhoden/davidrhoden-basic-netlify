@@ -7,7 +7,7 @@
   tags:
     - New York City
     - museums
-    _ Cooper-Hewitt
+    - Cooper-Hewitt
     - design
 
 ---
