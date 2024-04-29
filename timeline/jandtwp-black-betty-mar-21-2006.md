@@ -27,7 +27,7 @@ tags:
 
 ![exterior of Black Betty, 366 Metropolitan Avenue, Brooklyn](/static/img/rock/black-betty-366-metropolitan.png)
 
-We had set up this weeknight show for Al's birthday. We were wown the street eating (and drinking) at M Shanghai, one of my favorite eating places of my lifetime, but it was getting kinda late so we packed up a lot of the chow to go and headed down the street, eating dumplings on the way.
+We had set up this weeknight show for Al's birthday. We were down the street eating (and drinking) at M Shanghai, one of my favorite eating places of my lifetime, but it was getting kinda late so we packed up a lot of the chow to go and headed down the street, eating dumplings on the way.
 
 When we got to the club, turns out we had plenty of time because some wimpy indie band had just...showed up and asked to be on the bill. I guess that's one way to book a show. Anyway, we had to wait (and drink) till like eleven o'clock to play.
 
