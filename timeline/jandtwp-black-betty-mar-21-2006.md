@@ -11,6 +11,7 @@ tags:
   - Brooklyn
   - Black Betty
   - Metropolitan Avenue
+  - Williamsburg
   - M Shanghai
   - restaurants
   - Alan Dorsey
