@@ -22,7 +22,7 @@
 
   I don't think it affects his vision much. He doesn't act like there's anything wrong. 
 
-  ![alt text](/static/img/timeline/buddy-cloudy-eye-mar-9-2024.jpeg)
+  ![Buddy the cat's cloudy eye](/static/img/timeline/buddy-cloudy-eye-mar-9-2024.jpeg)
 
 
   
