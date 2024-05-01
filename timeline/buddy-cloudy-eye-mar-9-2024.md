@@ -1,4 +1,5 @@
 ---
+
   title: Buddy let me see his cloudy eye.
   date: 2024-03-09T00:00:00
   excerpt: Buddy finally let me get a picture of his cloudy eye.

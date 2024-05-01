@@ -1,15 +1,15 @@
 ---
-  title: I finally got glasses.
-  date: 2024-03-05T00:00:00
-  excerpt: They had some interesting side effects.
-  summary: They had some interesting side effects.
-  image: timeline/david-glasses-mar-5-2024.jpeg
-    - note
-    - now
-    - glasses
-    - vision
-    - riding bikes
-
+title: I finally got glasses.
+date: 2024-03-05T00:00:00
+excerpt: They had some interesting side effects.
+summary: They had some interesting side effects.
+image: timeline/david-glasses-mar-5-2024.jpeg
+tags:
+  - note
+  - now
+  - glasses
+  - vision
+  - riding bikes
 
 ---
 
