@@ -157,7 +157,7 @@ Short-lived band that actually toured around some. The spectacle was the thing w
 
 ![The Sleepy Heads played the Circle Bar.](/static/img/rock/sleepyheads/sleepy-heads-circle-bar/sleepyheads-circle-bar-7.jpg "The Sleepy Heads played the Circle Bar.")
 
-![The Sleepy Heads played the Circle Bar.](/static/img/rock/sleepyheads/sleepy-heads-circle-bar/sleepyheads-circle-bar-8jpg "The Sleepy Heads played the Circle Bar.")
+![The Sleepy Heads played the Circle Bar.](/static/img/rock/sleepyheads/sleepy-heads-circle-bar/sleepyheads-circle-bar-8.jpg "The Sleepy Heads played the Circle Bar.")
 
 ![The Sleepy Heads played the Circle Bar.](/static/img/rock/sleepyheads/sleepy-heads-circle-bar/sleepyheads-circle-bar-12.jpg "The Sleepy Heads played the Circle Bar.")
 
