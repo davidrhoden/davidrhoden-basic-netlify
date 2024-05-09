@@ -1,15 +1,15 @@
 ---
   title: Notes for May 9, 2024
   date: 2024-05-09T00:00:00
-  excerpt: I thought Terry Gross said tomorrow's Fresh Air guest would be novelist Calm Toebeans.
-  summary: I thought Terry Gross said tomorrow's Fresh Air guest would be novelist Calm Toebeans.
+  excerpt: I thought Terry Gross said tomorrow's Fresh Air guest would be novelist Calm Toebean.
+  summary: I thought Terry Gross said tomorrow's Fresh Air guest would be novelist Calm Toebean.
   image: /notes/toe-beans-may-9-2024.jpg
   tags:
     - notes
 
 ---
 
-I thought Terry Gross said tomorrow's Fresh Air guest would be novelist Calm Toebeans.
+I thought Terry Gross said tomorrow's Fresh Air guest would be novelist Calm Toebean.
 
 <table>
   <tr>
@@ -22,7 +22,7 @@ I thought Terry Gross said tomorrow's Fresh Air guest would be novelist Calm Toe
   </tr>
     <tr>
     <td style="width:250px; text-align: center;">
-      Calm Toebeans
+      calm toebeans
     </td>
     <td style="width:250px; text-align: center;">
       Colm Tóibín
