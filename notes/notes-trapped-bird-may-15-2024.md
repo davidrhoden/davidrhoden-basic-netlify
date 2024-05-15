@@ -21,13 +21,13 @@ First, make sure there's just one way out or the bird will be confused. Try to m
 
 A couple of sketches made during a phone call, before all this bird business:
 
-<table>
+<table cellspacing=10px>
 <tr>
   <td style="width:250px; text-align: center;">
-    <img src="/static/img/sketchbook/standing-man-may-15-2024.jpeg" alt= "typical man sketch by David Rhoden" style="width: 216px;">
+    <img src="/static/img/sketchbook/standing-man-may-15-2024.jpeg" alt= "typical man sketch by David Rhoden" style="width: 280px; outline: 1px dotted rgba(0,0,0,.1);">
   </td>
   <td style="width:250px; text-align: center;">
-    <img src="/static/img/sketchbook/standing-woman-may-15-2024.jpeg" alt="typical woman sketch by David Rhoden" style="width: 216px;">
+    <img src="/static/img/sketchbook/standing-woman-may-15-2024.jpeg" alt="typical woman sketch by David Rhoden" style="width: 280px;outline: 1px dotted rgba(0,0,0,.1);">
   </td>
 </tr>
 </table>
