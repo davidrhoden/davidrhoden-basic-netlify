@@ -18,13 +18,13 @@ The fluorescent paint? Very expensive.
     <button id="buttonPrevious">&#10094;</button>
     <button id="buttonNext">&#10095;</button>
 
-![Rings, in progress.](/static/img/timeline/rings-in-progress-1-jul-19-2018.jpg "Rings, in progress.")
+![Rings, in progress.](/static/img/paintings/rings-in-progress-1-jul-19-2018.jpg "Rings, in progress.")
 
-![Rings, in progress.](/static/img/timeline/rings-in-progress-2-jul-19-2018.jpg "Rings, in progress.")
+![Rings, in progress.](/static/img/paintings/rings-in-progress-2-jul-19-2018.jpg "Rings, in progress.")
 
-![Rings, in progress.](/static/img/timeline/rings-in-progress-3-jul-19-2018.jpg "Rings, in progress.")
+![Rings, in progress.](/static/img/paintings/rings-in-progress-3-jul-19-2018.jpg "Rings, in progress.")
 
-![Rings, completed.](/static/img/timeline/rings-on-wall-jul-19-2018.jpg "Rings, completed.")
+![Rings, completed.](/static/img/paintings/rings-on-wall-jul-19-2018.jpg "Rings, completed.")
 
 </div>
 <div id="caption"></div>
