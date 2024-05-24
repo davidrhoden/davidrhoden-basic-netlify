@@ -22,23 +22,23 @@ Our band Everything Tool played China King on the Cumberland Avenue strip a lot.
     <button id="buttonPrevious">&#10094;</button>
     <button id="buttonNext">&#10095;</button>
 
-![Everything Tool played at China King](/static/img/rock/everything-tool-china-king-1988/everything-tool-china-king-1.jpg "Everything Tool played at China King")
+![Everything Tool played at China King](/static/img/rock/everything-tool/everything-tool-china-king-1988/everything-tool-china-king-1.jpg "Everything Tool played at China King")
 
-![Everything Tool played at China King](/static/img/rock/everything-tool-china-king-1988/everything-tool-china-king-3.jpg "Everything Tool played at China King")
+![Everything Tool played at China King](/static/img/rock/everything-tool/everything-tool-china-king-1988/everything-tool-china-king-3.jpg "Everything Tool played at China King")
 
-![Everything Tool played at China King](/static/img/rock/everything-tool-china-king-1988/everything-tool-china-king-4.jpg "Everything Tool played at China King")
+![Everything Tool played at China King](/static/img/rock/everything-tool/everything-tool-china-king-1988/everything-tool-china-king-4.jpg "Everything Tool played at China King")
 
-![Everything Tool played at China King](/static/img/rock/everything-tool-china-king-1988/everything-tool-china-king-5.jpg "Everything Tool played at China King")
+![Everything Tool played at China King](/static/img/rock/everything-tool/everything-tool-china-king-1988/everything-tool-china-king-5.jpg "Everything Tool played at China King")
 
-![Everything Tool played at China King](/static/img/rock/everything-tool-china-king-1988/everything-tool-china-king-6.jpg "Everything Tool played at China King")
+![Everything Tool played at China King](/static/img/rock/everything-tool/everything-tool-china-king-1988/everything-tool-china-king-6.jpg "Everything Tool played at China King")
 
-![Everything Tool played at China King](/static/img/rock/everything-tool-china-king-1988/everything-tool-china-king-7.jpg "Everything Tool played at China King")
+![Everything Tool played at China King](/static/img/rock/everything-tool/everything-tool-china-king-1988/everything-tool-china-king-7.jpg "Everything Tool played at China King")
 
-![Everything Tool played at China King](/static/img/rock/everything-tool-china-king-1988/everything-tool-china-king-8.jpg "Everything Tool played at China King")
+![Everything Tool played at China King](/static/img/rock/everything-tool/everything-tool-china-king-1988/everything-tool-china-king-8.jpg "Everything Tool played at China King")everything-tool/
 
-![Everything Tool played at China King: Dave, Matt](/static/img/rock/everything-tool-china-king-1988/everything-tool-china-king-9.jpg "Everything Tool played at China King: Dave Matt") 
+![Everything Tool played at China King: Dave, Matt](/static/img/rock/everything-tool/everything-tool-china-king-1988/everything-tool-china-king-9.jpg "Everything Tool played at China King: Dave Matt")
 
-![Everything Tool played with Across The Yard at China King flyer](/static/img/rock/everything-tool-china-king-nov-5-1988.jpg "Everything Tool played with Across The Yard at China King flyer")
+![Everything Tool played with Across The Yard at China King flyer](/static/img/rock/everything-tool/everything-tool-china-king-nov-5-1988.jpg "Everything Tool played with Across The Yard at China King flyer")
 
 </div>
 <div id="caption"></div>

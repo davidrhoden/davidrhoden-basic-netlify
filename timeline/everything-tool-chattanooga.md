@@ -4,7 +4,7 @@ date: 1990-04-01T22:00:00.000Z
 summary: I remember this show or these shows but I really wonder when they happened.
 excerpt:  I remember this show or these shows but I really wonder when they happened.
 category: rock
-image: rock/everything-tool-with-37-targets.jpg
+image: rock/everything-tool/everything-tool-with-37-targets.jpg
 tags:
   - post 
   - Everything Tool
@@ -16,7 +16,7 @@ tags:
 
 ---
 
-![Everything Tool show in Chattanooga flyer](/static/img/rock/everything-tool-with-37-targets.jpg "Everything Tool show in Chattanooga flyer")
+![Everything Tool show in Chattanooga flyer](/static/img/rock/everything-tool/everything-tool-with-37-targets.jpg "Everything Tool show in Chattanooga flyer")
 
 I love this flyer because not only does it omit the year (like all rock flyers), it also omits the date! The date I'm putting down is a wild, wild guess. Did we really play two nights? 
 

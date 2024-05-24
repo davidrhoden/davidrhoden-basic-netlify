@@ -298,8 +298,8 @@ Surely no recordings or pictures exist.
 
 ## Everything Tool
 
-![Sam from Everything tool](/static/img/rock/everything-tool-sam.jpg)
-![Everything tool flyer](/static/img/rock/everything-tool-with-37-targets.jpg)
+![Sam from Everything tool](/static/img/rock/everything-tool/everything-tool-sam.jpg)
+![Everything tool flyer](/static/img/rock/everything-tool/everything-tool-with-37-targets.jpg)
 
 First "real" college band. I thought we were pretty good though I'm embarrassed by the lyrics now. We made a cassette called "Mystic Crystal Revelation" but I don't have a copy. we toured as far west as Memphis and as far south as Huntsville, Alabama.
 
