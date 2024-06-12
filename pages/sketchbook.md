@@ -83,7 +83,7 @@ eleventyNavigation:
 1. ![sketchbook entry by David Rhoden](/static/img/sketchbook/161217guysayinghawhaw.jpg?nf_resize=fit&h=550)
 1. ![sketchbook entry by David Rhoden](/static/img/sketchbook/mrokra.jpg?nf_resize=fit&h=550)
 1. ![sketchbook entry by David Rhoden](/static/img/sketchbook/161218pottersketch.jpg?nf_resize=fit&h=550)
-1. ![sketchbook entry by David Rhoden](/static/img/timeline/weekly-meeting-jul-8-2016.jpg?nf_resize=fit&h=550)
+1. ![sketchbook entry by David Rhoden](/static/img/timeline/weekly-meeting-jun-8-2016.jpg?nf_resize=fit&h=550)
 1. ![sketchbook entry by David Rhoden](/static/img/sketchbook/161219holyfuckthisisfun.jpg?nf_resize=fit&h=550)
 1. ![sketchbook entry by David Rhoden](/static/img/sketchbook/pattypickle.jpg?nf_resize=fit&h=550)
 1. ![sketchbook entry by David Rhoden](/static/img/sketchbook/selfportrait161216.jpg?nf_resize=fit&h=550)
