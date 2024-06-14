@@ -1,6 +1,6 @@
 ---
 title: Damn you autocorrect, plus a Stacks show Saturday.
-date: 2024-06014T00:00:00
+date: 2024-06-14T00:00:00
 excerpt: 
 summary: 
 image: 
