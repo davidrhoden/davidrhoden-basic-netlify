@@ -1,9 +1,9 @@
 ---
 title: Damn you autocorrect, plus a Stacks show Saturday.
 date: 2024-06-14T00:00:00
-excerpt: 
-summary: 
-image: 
+excerpt: Autocorrect just changed my invoice.
+summary: Autocorrect just changed my invoice.
+image: rock/stacks/stacks-flyer-pirogues-jun-15-2024.jpg
 tags:
   - notes
   - rock
@@ -15,7 +15,7 @@ tags:
 
 Autocorrect just changed my invoice. Instead of billing for a conversation about ‘query caching’, I billed for ‘queer coaching’.
 I caught it but I wonder what the invoice payer would have thought we were doing on this website. 
-Do they not understand I don’t look at the screen when I type? Eyes firmly fixed on the keyboard.
+Do they (they being the autocorrect implementers) not understand I don’t look at the screen when I type? Eyes firmly fixed on the keyboard.
 
 ----
 
