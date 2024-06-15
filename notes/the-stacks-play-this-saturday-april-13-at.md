@@ -3,7 +3,7 @@
   date: 2024-04-08T00:00:00
   excerpt: My newsletter.
   summary: My newsletter.
-  image: designs/Stacks-HTB-checkpoints-apr-13-2024.jpg
+  image: designs/Stacks-HTB-checkpoints-apr-13-2024.jpeg
   tags:
     - rock
     - shows
@@ -22,7 +22,7 @@ Hello, Dear Dave Rhoden's Computer Newsletter subscriber! Just a few bits of new
 
 [The Stacks](https://thestackswebsite.com) (my band, or a band with me in it) are playing this Saturday, April 13, 2024, at Checkpoint Charlie, with [Happy Talk Band](https://lukespurrallen.com). Show at 9 p.m. We play in the French Quarter once a decade or less, so please don't miss it.
 
-![The Stacks and Happy Talk at Checkpoint Charlie, April 13, 2024](https://davidrhoden.com/static/img/designs/Stacks-HTB-checkpoints-apr-13-2024.jpg)
+![The Stacks and Happy Talk at Checkpoint Charlie, April 13, 2024](https://davidrhoden.com/static/img/designs/Stacks-HTB-checkpoints-apr-13-2024.jpeg)
 
 Also, you can follow [The Stacks on Instagram](https://www.instagram.com/thestacksnola) to get these important announcements the moment they happen.
 
