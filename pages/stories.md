@@ -513,7 +513,7 @@ Jan 16: Worked on Sara's site. Why, I don't know. Spoke to Debbie D.
 
 Jan 17: L'Express with Alison F. Watched TV with Alison and Iris.
 
-Jan 19: I don't kow, but I wrote "STILL HAVE IT" in my datebook. Oh--probably the groin pain.
+Jan 19: I don't know, but I wrote "STILL HAVE IT" in my datebook. Oh--probably the groin pain.
 
 Jan 20: Woodhull Emergency Room. Probably last day at Citibank.
 
@@ -521,7 +521,7 @@ Jan 21: Went out with Jeanne S.
 
 Jan 22: Dumont with Alison F., then Tainted Lady. Bad talk with KM.
 
-Jan 23: still working at Citibank. Went to Von, Tom & Jerry, and Castillo de Jagua with Kristin. She felt my hads to see if I had washed them. (I had.)
+Jan 23: still working at Citibank. Went to Von, Tom & Jerry, and Castillo de Jagua with Kristin. She felt my hands to see if I had washed them. (I had.)
 
 Jan 24: Last day at Citi.
 
@@ -599,7 +599,7 @@ June 27: Dave Rosser died.
 
 An owl killed a bird about a foot from my face.
 
-January 17: Barry Courter wrote an article that mentioned my earleist bands. This is like the most recognition they got.
+January 17: Barry Courter wrote an article that mentioned my earliest bands. This is like the most recognition they got.
 https://www.timesfreepress.com/news/chattanooganow/music/story/2018/jan/17/who-are-local-bands-rocked-your-world/461397/
 
 ## 2019
@@ -645,7 +645,7 @@ Saw International Noise Conspiracy and Rocket From The Crypt at House of Blues.
 
 Watched The Tush Show on WTBS.
 
-Day before I left to move to N.O. again. My co-worker pretty clearly had a kidney stone. He was writhing on the floor. Hi very friendly boss came to check on him. He said "aah, you just need to fart. Go on, fart it out," while rubbing the guy's shoulders.
+Day before I left to move to N.O. again. My co-worker pretty clearly had a kidney stone. He was writhing on the floor. His very friendly boss came to check on him. He said "aah, you just need to fart. Go on, fart it out," while rubbing the guy's shoulders.
 
 ## Acted in:
 
