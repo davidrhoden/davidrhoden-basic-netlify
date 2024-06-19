@@ -26,7 +26,7 @@ This fan kept moving and not pointing in the right direction so they had to send
 
 Before the show, my friend Melanie (who just moved to town!) told me she's seen Echo and The Bunnymen at least 20 times. She clued me in that: 1, we wouldn't understand a word Ian McCulloch said, and 2. the whole show would be backlit, so we would also never see his face.
 
-Will Sergeant, the original guitarist, sounded great. He plays with a lot of effects and his sound is comparable to The Edge from US, which makes me wonder what's the difference that has U2 playing the Sphere in Vegas and these lads playing a big movie theater in inconvenient New Orleans. I guess Bono doesn't show up drunk demanding a milkshake.
+Will Sergeant, the original guitarist, sounded great. He plays with a lot of effects and his sound is comparable to The Edge from U2, which makes me wonder what's the difference that has U2 playing the Sphere in Vegas and these lads playing a big movie theater in inconvenient New Orleans. I guess Bono doesn't show up drunk demanding a milkshake.
 
 <div style="text-align: center;" class="setlistImage"><a href="https://www.setlist.fm/setlist/echo-and-the-bunnymen/2024/joy-theater-new-orleans-la-7bab52cc.html" title="Echo &amp; the Bunnymen Setlist Joy Theater, New Orleans, LA, USA, Songs to Learn &amp; Sing 2024" target="_blank"><img src="https://www.setlist.fm/widgets/setlist-image-v1?id=7bab52cc" alt="Echo &amp; the Bunnymen Setlist Joy Theater, New Orleans, LA, USA, Songs to Learn &amp; Sing 2024" style="border: 0;" /></a>
 <div><a href="https://www.setlist.fm/edit?setlist=7bab52cc&amp;step=song">Edit this setlist</a> | <a href="https://www.setlist.fm/setlists/echo-and-the-bunnymen-73d6b231.html">More Echo & the Bunnymen setlists</a></div></div>
