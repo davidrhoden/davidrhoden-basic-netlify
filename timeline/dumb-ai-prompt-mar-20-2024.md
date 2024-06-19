@@ -10,7 +10,6 @@
     - Google
     - writing
     - note
-    - post
 ---
 
 My Google Chrome updated itself, and there was a splash screen to explain the new "help me write" feature. Apparently people can no longer write simple notes without the help of a computer. See this example:
