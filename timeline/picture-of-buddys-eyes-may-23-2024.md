@@ -5,6 +5,7 @@ excerpt: I wanted pictures that might show a little bit of what's going on with 
 summary: I wanted pictures that might show a little bit of what's going on with his cloudy left eye.
 image: buddy/buddy-on-table-eyes-visible-may-23-2024.jpg
 tags:
+  - post
   - Buddy
   - cats
   - 315 Tricou
