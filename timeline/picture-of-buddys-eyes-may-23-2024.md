@@ -1,6 +1,6 @@
 ---
 title: I took a good picture of Buddy's eyes.
-date: 2024-05023T00:00:00
+date: 2024-05-23T00:00:00
 excerpt: I wanted pictures that might show a little bit of what's going on with his cloudy left eye.
 summary: I wanted pictures that might show a little bit of what's going on with his cloudy left eye.
 image: buddy/buddy-on-table-eyes-visible-may-23-2024.jpg
