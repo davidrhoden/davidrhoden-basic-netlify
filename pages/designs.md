@@ -12,7 +12,7 @@ eleventyNavigation:
 ---
 
 - ![The Stacks New Orleans: Holy Diver, June 27 2024](/static/img/designs/stacks-flyer-lufofu-color-1-jun-27-2024.jpg "The Stacks New Orleans: Holy Diver, June 27 2024")
-![The Stacks New Orleans: Pirogue's Whiskey Bayou](/static/img/flyers/stacks-flyer-pirogues-jun-15-2024.jpg "The Stacks New Orleans: Pirogue's Whiskey Bayou")
+![The Stacks New Orleans: Pirogue's Whiskey Bayou](/static/img/designs/stacks-flyer-pirogues-960w-jun-15-2024.jpg "The Stacks New Orleans: Pirogue's Whiskey Bayou")
 - ![karaoke booklet, April 7 2024](/static/img/designs/karaoke-booklet-apr-7-2024.jpeg "karaoke cartoon booklet")
 
 - ![Show poster Stacks and Happy Talk at Checkpoint Charlie April 1 2024](/static/img/designs/Stacks-HTB-checkpoints-apr-13-2024.jpeg "Stacks and Happy Talk at Checkpoint Charlie April 1 2024")
