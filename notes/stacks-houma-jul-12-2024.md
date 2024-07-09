@@ -14,15 +14,9 @@ tags:
   - Mercyland
 ---
 
-
-
-----
-
-Also, Stacks have a show this weekend.
+# Next show: Friday, July 12, 2024, at the Intracoastal Club in Houma, Louisiana, opening for Mercyland.
 
 <img style="width: 100%; max-width: 37.5em" src="/static/img/rock/stacks/stacks-flyer-mercyland-houma-jul-12-2024.jpg" alt="Mercyland and The Stacks: Intracoastal Club, Houma, Louisiana)">
-
-# Next show: Friday, July 12, 2024, at the Intracoastal Club in Houma, Louisiana, opening for Mercyland.
 
 And while I'm thinking about it, would you please join our mailing list? I promise to never let you miss another show.
 
