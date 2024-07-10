@@ -17,10 +17,8 @@ tags:
 
 ---
 
-Gina and I went to a bonfire to send off a friend who is moving away annd thking her horse with her. The horse was inviteed. The horse mostly enjoyed the party, it kissed everybody, but it was startled by the dried bamboo we put on the fire, because it heats up and exploses (don't worry, it just pops.)
+Gina and I went to a bonfire to send off a friend who is moving away and taking her horse with her. The horse was invited. The horse mostly enjoyed the party, it kissed everybody, but it was startled by the dried bamboo we put on the fire, because it heats up and exploses (don't worry, it just pops.)
 
 I took photos, but this one by Kathleen Kraus is better than mine.
 
 ![Bonfire, Caffin and Royal, May 25, 2021](/static/img/timeline/horse-at-bonfire-by-kkraus-may-25-2021.jpg 'Bonfire, Caffin and Royal, May 25, 2021')
-
-
