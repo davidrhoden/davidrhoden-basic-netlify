@@ -3,7 +3,7 @@
   date: 2022-12-06T00:00:00
   excerpt: Very good band, soon to be replaced for some reason.
   summary: Very good band, soon to be replaced for some reason.
-  image: timeline/st-lorelei-dec-6-2022.jpe
+  image: timeline/st-lorelei-dec-6-2022.jpeg
   tags:
     - rock
     - shows
