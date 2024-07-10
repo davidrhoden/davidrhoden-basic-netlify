@@ -1,5 +1,5 @@
 ---
-title: "The gigs we played at Mr. Liu's China King: Notes for May 23, 2024"
+title: "The gigs we played at Mr. Liu's China King: Notes for May 23, 2024."
 date: 2024-05-23T00:00:00
 excerpt: 
 summary: 

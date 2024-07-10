@@ -1,5 +1,5 @@
 ---
-  title: Notes for May 9, 2024
+  title: Notes for May 9, 2024.
   date: 2024-05-09T00:00:00
   excerpt: I thought Terry Gross said tomorrow's Fresh Air guest would be novelist Calm Toebean.
   summary: I thought Terry Gross said tomorrow's Fresh Air guest would be novelist Calm Toebean.
