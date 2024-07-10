@@ -17,6 +17,3 @@ Buddy's acting more like himself, in that he's lying on the bed instead of under
 Also, I've gotten better at removing the cone and putting it back on. You unclip it. You don't have to yank it over his head.
 
 ![Buddy rested, three days after his eye surgery.](/static/img/buddy/buddy-resting-three-days-after-surgery-jun-30-2024.jpeg)
-
-
-  
