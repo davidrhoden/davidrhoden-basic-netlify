@@ -113,6 +113,12 @@ eleventyNavigation:
 
 -----
 
+<div class="animation-individual">
+ <img src="/static/img/animations/stacks-animation-jun-15-2024-v7.gif" alt="Stacks at Pirogue's animation" style="width: 100%; max-width: 640px;"/>
+</div>
+
+-----
+
 ![Clockface animation by David Rhoden](/static/img/animations/clockface.gif)
 
 -----
