@@ -36,7 +36,7 @@ image: /static/img/homepage-featured/bottlecap.jpg
   <div class="grid-square">
   <a href="/paintings/">
     <div class="overlay">I wanted to paint a bus I might want to ride on.</div>
-    <img src="/static/img/homepage-featured/bus-painting-sep-24-2019.webp" alt="bus painting by David Rhoden"></a></div>
+    <img src="/static/img/homepage-featured/bus-painting-sep-24-2019.webp" width="400" height="400" alt="bus painting by David Rhoden"></a></div>
   <div class="grid-square">
     <a href="/paintings/">
     <div class="overlay">It's fun to contemplate things.</div>
@@ -44,11 +44,11 @@ image: /static/img/homepage-featured/bottlecap.jpg
   <div class="grid-square">
     <a href="/paintings/">
     <div class="overlay">I like corn.<br>Do you like corn?</div>
-    <img src="/static/img/homepage-featured/cornmanreadyfortheworld.webp" alt="corn-eating creature by David Rhoden"></a></div>
+    <img src="/static/img/homepage-featured/cornmanreadyfortheworld.webp" width="400" height="400" alt="corn-eating creature by David Rhoden"></a></div>
   <div class="grid-square">
     <a href="/tags/hi-balls/">
     <div class="overlay">I was in a band called the Hi-Balls. (Also did this album artwork.)</div>
-    <img src="/static/img/homepage-featured/coverLoveMusic.jpg"  alt="Love Music by The Hi-Balls album cover art"></a></div>
+    <img src="/static/img/homepage-featured/coverLoveMusic.jpg" width="400" height="400" alt="Love Music by The Hi-Balls album cover art"></a></div>
   <div class="grid-square">
     <a href="/tags/animations/">
     <div class="overlay">Needs work. Where do his ears go?</div>
@@ -56,11 +56,11 @@ image: /static/img/homepage-featured/bottlecap.jpg
   <div class="grid-square">
     <a href="/paintings/">
     <div class="overlay">No.</div>
-    <img src="/static/img/homepage-featured/negatorygoodbuddy-edit.webp" alt="painting by david rhoden of a guy saying NO"></a></div>
+    <img src="/static/img/homepage-featured/negatorygoodbuddy-edit.webp" width="400" height="400" alt="painting by david rhoden of a guy saying NO"></a></div>
   <div class="grid-square">
     <a href="/tags/the-stacks/">
     <div class="overlay">I play in a band called The Stacks. Like &ldquo;stacks of records.&rdquo;</div>
-    <img src="/static/img/homepage-featured/stacks-at-gasa-gasa-edit.webp" alt="Stacks on stage at Gasa Gasa"></a></div>
+    <img src="/static/img/homepage-featured/stacks-at-gasa-gasa-edit.webp" width="400" height="400" alt="Stacks on stage at Gasa Gasa"></a></div>
   <div class="grid-square">
     <a href="/animations/">
     <div class="overlay">You can't hide your flyin&rsquo; eyes.</div>
@@ -68,15 +68,15 @@ image: /static/img/homepage-featured/bottlecap.jpg
   <div class="grid-square">
     <a href="/tags/paintings/">
     <div class="overlay">Kinda speaks for itself.</div>
-    <img src="/static/img/homepage-featured/fuckhead.webp" alt="David Rhoden painting of face saying FUCK"></a></div>
+    <img src="/static/img/homepage-featured/fuckhead.webp" width="400" height="400" alt="David Rhoden painting of face saying FUCK"></a></div>
   <div class="grid-square">
     <a href="/illustrations/">
     <div class="overlay">Illustration for a BMX park in beautiful Seattle.</div>
-    <img src="/static/img/homepage-featured/harbo-edit.webp"  alt="David Rhoden Illustration of skate park in Seattle."></a></div>
+    <img src="/static/img/homepage-featured/harbo-edit.webp" width="400" height="400" alt="David Rhoden Illustration of skate park in Seattle."></a></div>
   <div class="grid-square">
     <a href="/paintings/">
     <div class="overlay">Is further explanation needed?</div>
-    <img src="/static/img/homepage-featured/i-dont-like-this-edit.webp"  alt="Painting by David Rhoden fo fella saying I don't like this and I don't want to do it."></a></div>
+    <img src="/static/img/homepage-featured/i-dont-like-this-edit.webp" width="400" height="400" alt="Painting by David Rhoden fo fella saying I don't like this and I don't want to do it."></a></div>
   <div class="grid-square">
     <a href="/paintings/">
     <div class="overlay">Organic form.</div>
