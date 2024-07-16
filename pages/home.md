@@ -56,11 +56,11 @@ image: /static/img/homepage-featured/bottlecap.jpg
   <div class="grid-square">
     <a href="/paintings/">
     <div class="overlay">No.</div>
-    <img src="/static/img/homepage-featured/negatorygoodbuddy-edit.jpg" alt="painting by david rhoden of a guy saying NO"></a></div>
+    <img src="/static/img/homepage-featured/negatorygoodbuddy-edit.webp" alt="painting by david rhoden of a guy saying NO"></a></div>
   <div class="grid-square">
     <a href="/tags/the-stacks/">
     <div class="overlay">I play in a band called The Stacks. Like &ldquo;stacks of records.&rdquo;</div>
-    <img src="/static/img/homepage-featured/stacks-at-gasa-gasa-edit.jpg" alt="Stacks on stage at Gasa Gasa"></a></div>
+    <img src="/static/img/homepage-featured/stacks-at-gasa-gasa-edit.webp" alt="Stacks on stage at Gasa Gasa"></a></div>
   <div class="grid-square">
     <a href="/animations/">
     <div class="overlay">You can't hide your flyin&rsquo; eyes.</div>
@@ -68,7 +68,7 @@ image: /static/img/homepage-featured/bottlecap.jpg
   <div class="grid-square">
     <a href="/tags/paintings/">
     <div class="overlay">Kinda speaks for itself.</div>
-    <img src="/static/img/homepage-featured/fuckhead.jpg" alt="David Rhoden painting of face saying FUCK"></a></div>
+    <img src="/static/img/homepage-featured/fuckhead.webp" alt="David Rhoden painting of face saying FUCK"></a></div>
   <div class="grid-square">
     <a href="/illustrations/">
     <div class="overlay">Illustration for a BMX park in beautiful Seattle.</div>
