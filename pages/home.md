@@ -96,45 +96,45 @@ image: /static/img/homepage-featured/bottlecap.jpg
   <div class="grid-square">
     <a href="/tags/jimmy-and-the-wolfpack/">
     <div class="overlay">I played in a band called Jimmy and The Wolfpack.</div>
-    <img src="/static/img/homepage-featured/jatwp_illustrationonly.png"></a></div>
+    <img src="/static/img/homepage-featured/jatwp_illustrationonly.png" alt="Jimmy and The Wolfpack illustration"></a></div>
   <div class="grid-square">
     <a href="/paintings/">
     <div class="overlay">What can I say? The guy loves KISS.</div>
-    <img src="/static/img/homepage-featured/kissguy2-sized.jpg"></a></div>
+    <img src="/static/img/homepage-featured/kissguy2-sized.jpg" alt="painting of guy in shirt that says KISS"></a></div>
   <div class="grid-square">
     <a href="/paintings/">
     <div class="overlay">Pink face.</div>
-    <img src="/static/img/homepage-featured/pink-face-sized.jpg"></a></div>
+    <img src="/static/img/homepage-featured/pink-face-sized.jpg" alt="painting of pink face"></a></div>
   <div class="grid-square">
     <a href="/tags/house-shows/">
     <div class="overlay">I will play your house party.</div>
-    <img src="/static/img/homepage-featured/all-night-movers-dave-jul-27-2002.jpg"></a></div>
+    <img src="/static/img/homepage-featured/all-night-movers-dave-jul-27-2002.jpg" alt="All-Night Movers at house party"></a></div>
   <div class="grid-square">
     <a href="/animations/">
     <div class="overlay">Hours and hours.</div>
-    <img src="/static/img/homepage-featured/clockface.gif"></a></div>
+    <img src="/static/img/homepage-featured/clockface.gif" alt="animated face where features rotate clockwise"></a></div>
   <div class="grid-square">
     <a href="/paintings/">
     <div class="overlay">Stumpgrinder.</div>
-    <img src="/static/img/homepage-featured/rayco-completed-sized-feb-2-2021.jpg"></a></div>
+    <img src="/static/img/homepage-featured/rayco-completed-sized-feb-2-2021.jpg" alt="painting of Rayco stump grinder"></a></div>
   <div class="grid-square">
     <a href="/paintings/">
     <div class="overlay">Organic form.</div>
-    <img src="/static/img/homepage-featured/organic-form-something-jan-17-2021.jpg"></a></div>
+    <img src="/static/img/homepage-featured/organic-form-something-jan-17-2021.jpg" alt="painting of organic form by david rhoden"></a></div>
   <div class="grid-square">
     <a href="/paintings/">
     <div class="overlay">Seriously?</div>
-    <img src="/static/img/homepage-featured/seriously-sized-dec-29-2020.jpg"></a></div>
+    <img src="/static/img/homepage-featured/seriously-sized-dec-29-2020.jpg" alt="painting of guy saying seriously?"></a></div>
   <div class="grid-square">
     <a href="/illustrations/">
     <div class="overlay">St. Louis Cathedral, New Orleans.</div>
-    <img src="/static/img/homepage-featured/stloufinal.jpg"></a></div>
+    <img src="/static/img/homepage-featured/stloufinal.jpg" alt="watercolor illustration of St. Louis Cathedral in New Orleans by illustrator David Rhoden"></a></div>
   <div class="grid-square">
     <a href="/paintings/">
     <div class="overlay">My work is featured in many private collections.</div>
-    <img src="/static/img/homepage-featured/upsetguyinbathroom.jpg"></a></div>
+    <img src="/static/img/homepage-featured/upsetguyinbathroom.jpg" alt="painting by David Rhoden is a collector's bathroom"></a></div>
   <div class="grid-square">
     <a href="/animations/">
     <div class="overlay">Eternally searching.</div>
-    <img src="/static/img/homepage-featured/walkcycle.gif"></a></div>
+    <img src="/static/img/homepage-featured/walkcycle.gif" alt="Animated walkcycle by David Rhoden"></a></div>
 </div>
