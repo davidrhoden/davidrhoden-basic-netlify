@@ -19,6 +19,9 @@ tags:
   - Louisiana
   - Houma
   - New Orleans
+  - Cool Ghouls
+  - Daisy
+  - karaoke sketches
 
 ---
 
@@ -40,7 +43,11 @@ We had a blast at both shows, though I have to say....the Intracoastal Club in H
 
 Andrew's crew of suburban dads from Destrehan showed up in Houma, and as funny as that may sound to some, they were great fans to have. Another guy named Ian, who Steve invited, said he came to the Intracoastal because it has a great vibe. He came to the other show too, so: thanks Ian.
 
-![mercyland setlist](static/img/timeline/mercyland-poor-boys-jul-13-2024.jpg)
+![mercyland in houma](static/img/timeline/mercyland-houma-1-jul-12-2024.jpg)
+
+![mercyland in houma](static/img/timeline/mercyland-houma-3-jul-12-2024.jpg)
+
+![mercyland in houma](static/img/timeline/mercyland-cctv-houma-jul-12-2024.jpg)
 
 Poor Boys is cool. Their Instagram has 35,000 followers, which must cover the whole Bywater and Treme (I'm kidding, I have no idea where their followers are from). They didn't mention our show which is....all right, I get it; we're not the target audience. I would have liked to have the show promoted but why would a bar bother, it's a lot of work. It probably would have not attracted even one person in the door. Maybe I was supposed to pay the instagram poster. (Was I? If so, drop me a line so I know what to do next time.) They also don't give any deals to the band, like, not even dollar High Lifes, like every other club in the Milky Way. I guess it's a very exclusive gig.  Whatever; we had fun. It reminded me of a show my band played in 1984 at a community ceter where I'm not sure the management even knew we were playing.
 
@@ -52,18 +59,26 @@ Poor Boys is cool. Their Instagram has 35,000 followers, which must cover the wh
 
 Last and best: Buddy, my cat who had eye surgery (enucleation, or removal), got his stiches out today. The incision is still not fully healed; it's closed up but I think the removal of the sutures actually left him with a lot of redness that needs to come down before he can safely go out. But Buddy listened to and remembered my promises that he could go out today, and naturally, he's mad. I feel like a politician. Buddy: I _promise_: tomorrow. I like that he's trying to defy me. I think it's the best sign.
 
-
 ![alt text](/static/img/buddy/buddy-stitches-out-1-jul-15-2024.jpeg)
 
 -----
 
 Last: here are a couple of doodles I did yesterday while I was recovering from a big weekend.
 
-
 ![play that funky music karaoke](/static/img/sketchbook/funky-music-jul-14-2024.jpeg)
 
 ![on broadway karaoke](/static/img/sketchbook/on-broadway-jul-14-2024.jpeg)
 
+-----
 
+And, really last:
+
+Social media reminded me that Daisy's been gone less than a year. Here we are walking together, a year ago today.
+
+![daisy on a leash](/static/img/timeline/daisy-jul-13-2023.jpeg)
+
+Plus, as a bonus, heres a flyer from the first time I went to Poor Boys, in May 2017, to see a band called Cool Ghouls.
+
+![cool ghouls poor boys flyer may 9, 2017](static/img/timeline/cool-ghouls-poorboys-may-9-2017.jpg)
 
 
