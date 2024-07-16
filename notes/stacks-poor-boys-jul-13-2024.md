@@ -5,6 +5,7 @@ excerpt: End of the tour.
 summary: End of the tour.
 image: rock/stacks/stacks-flyer-mercyland-poor-boys-jul-13-2024.jpg
 tags:
+  - post
   - notes
   - rock
   - Stacks

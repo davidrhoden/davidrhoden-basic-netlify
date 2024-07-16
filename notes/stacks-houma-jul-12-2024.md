@@ -5,6 +5,7 @@ excerpt: Our first time playing in Houma.
 summary: Our first time playing in Houma.
 image: rock/stacks/stacks-flyer-mercyland-houma-jul-12-2024.jpg
 tags:
+  - post
   - notes
   - rock
   - Stacks
