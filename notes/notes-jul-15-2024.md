@@ -3,7 +3,7 @@ title: Notes for July 15, 2024.
 date: 2024-07-15T00:00:00
 excerpt: Buddy got his stitches out, The Stacks had a great weekend, and somebody tried to kill the former President.
 summary: Buddy got his stitches out, The Stacks had a great weekend, and somebody tried to kill the former President.
-image: 
+image: timeline/mercyland-jul-2024/mercyland-houma-1-jul-12-2024.jpg
 tags:
   - cats
   - Buddy
@@ -33,7 +33,7 @@ First: the assassination attempt on Donald Trump. I've seen a couple of people t
 
 This was a suicide-by-cop, by a kid whose personality was the gun he owned (or had control of). If it had been Biden on that stage, he would have shot Biden. There was nothing personal or political about it. This was an attempt to create the greatest internet troll post or meme ever, or die trying. The kid just missed.
 
-It wasn't Joe Biden's fault for saying Trump should be in the "bull's eye"; nobody knew about that until the soft-spoken christo-fascist Mike Johnson mentioned it. It wasn't Biden's plan either. This was a by-product of the world boys live in now.
+It wasn't Joe Biden's fault for saying Trump should be in the "bull's eye"; nobody knew about that until the soft-spoken christo-fascist Mike Johnson mentioned it. And this shooting wasn't Biden's plan either. This was a by-product of the world boys live in now.
 
 -----
 
@@ -43,17 +43,23 @@ We had a blast at both shows, though I have to say....the Intracoastal Club in H
 
 Andrew's crew of suburban dads from Destrehan showed up in Houma, and as funny as that may sound to some, they were great fans to have. Another guy named Ian, who Steve invited, said he came to the Intracoastal because it has a great vibe. He came to the other show too, so: thanks Ian.
 
-![mercyland in houma](static/img/timeline/mercyland-houma-1-jul-12-2024.jpg)
+![mercyland in houma](/static/img/timeline/mercyland-jul-2024/mercyland-houma-1-jul-12-2024.jpg)
 
-![mercyland in houma](static/img/timeline/mercyland-houma-3-jul-12-2024.jpg)
+![mercyland in houma](/static/img/timeline/mercyland-jul-2024/mercyland-houma-2-jul-12-2024.jpg)
 
-![mercyland in houma](static/img/timeline/mercyland-cctv-houma-jul-12-2024.jpg)
+![mercyland in houma](/static/img/timeline/mercyland-jul-2024/mercyland-houma-3-jul-12-2024.jpg)
 
-Poor Boys is cool. Their Instagram has 35,000 followers, which must cover the whole Bywater and Treme (I'm kidding, I have no idea where their followers are from). They didn't mention our show which is....all right, I get it; we're not the target audience. I would have liked to have the show promoted but why would a bar bother, it's a lot of work. It probably would have not attracted even one person in the door. Maybe I was supposed to pay the instagram poster. (Was I? If so, drop me a line so I know what to do next time.) They also don't give any deals to the band, like, not even dollar High Lifes, like every other club in the Milky Way. I guess it's a very exclusive gig.  Whatever; we had fun. It reminded me of a show my band played in 1984 at a community ceter where I'm not sure the management even knew we were playing.
+![mercyland in houma](/static/img/timeline/mercyland-jul-2024/mercyland-cctv-houma-jul-12-2024.jpg)
 
-![mercyland on stage](static/img/timeline/mercyland-poor-boys-jul-13-2024.jpg)
+![mercyland in houma](/static/img/timeline/mercyland-jul-2024/donaldson-mercyland-houma-1-jul-12-2024.jpg)
 
-![mercyland setlist](static/img/timeline/mercyland-setlist-jul-13-2024.jpeg)
+![mercyland in houma](/static/img/timeline/mercyland-jul-2024/barbe-mercyland-houma-1-jul-12-2024.jpg)
+
+Poor Boys is cool. Their Instagram has 35,000 followers, which must cover the whole Bywater and Treme (I'm kidding, I have no idea where their followers are from). They didn't mention our show which is....all right, I get it; we're not the target audience. I would have liked to have the show promoted to 35,000 followers, but why would a bar bother, it's an IG post, it's a lot of work. It probably would have not attracted even one person in the door. Maybe I was supposed to pay the instagram poster. (Was I? If so, drop me a line so I know what to do next time.) They also don't give any deals to the band, like, not even two-dollar High Lifes, like every other club in the Milky Way. I guess it's a very exclusive gig.  Whatever; we had fun. But the room, despite its mirror ball, reminded me of a show my band played in 1984, at a community center where I'm not sure the management even knew we were playing.
+
+![mercyland on stage](/static/img/timeline/mercyland-jul-2024/mercyland-poor-boys-jul-13-2024.jpg)
+
+![mercyland setlist](/static/img/timeline/mercyland-jul-2024/mercyland-setlist-jul-13-2024.jpg)
 
 -----
 
@@ -75,10 +81,10 @@ And, really last:
 
 Social media reminded me that Daisy's been gone less than a year. Here we are walking together, a year ago today.
 
-![daisy on a leash](/static/img/timeline/daisy-jul-13-2023.jpeg)
+![daisy on a leash](/static/img/timeline/daisy-jul-15-2023.jpg)
 
 Plus, as a bonus, heres a flyer from the first time I went to Poor Boys, in May 2017, to see a band called Cool Ghouls.
 
-![cool ghouls poor boys flyer may 9, 2017](static/img/timeline/cool-ghouls-poorboys-may-9-2017.jpg)
+![cool ghouls poor boys flyer may 9, 2017](/static/img/timeline/cool-ghouls-poorboys-may-9-2017.jpg)
 
 
