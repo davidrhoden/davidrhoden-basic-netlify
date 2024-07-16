@@ -63,7 +63,7 @@ Poor Boys is cool. Their Instagram has 35,000 followers, which must cover the wh
 
 -----
 
-Last and best: Buddy, my cat who had eye surgery (enucleation, or removal), got his stiches out today. The incision is still not fully healed; it's closed up but I think the removal of the sutures actually left him with a lot of redness that needs to come down before he can safely go out. But Buddy listened to and remembered my promises that he could go out today, and naturally, he's mad. I feel like a politician. Buddy: I _promise_: tomorrow. I like that he's trying to defy me. I think it's the best sign.
+Last and best: Buddy, my cat who had eye surgery (enucleation, or removal), got his stitches out today. The incision is still not fully healed; it's closed up but I think the removal of the sutures actually left him with a lot of redness that needs to come down before he can safely go out. But Buddy listened to and remembered my promises that he could go out today, and naturally, he's mad. I feel like a politician. Buddy: I _promise_: tomorrow. I like that he's trying to defy me. I think it's the best sign.
 
 ![alt text](/static/img/buddy/buddy-stitches-out-1-jul-15-2024.jpeg)
 
