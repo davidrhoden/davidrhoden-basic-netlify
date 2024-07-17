@@ -1,6 +1,8 @@
 ---
 title: I lost my leaf.
 date: 2021-10-07T12:00:00
+excerpt: Gina and I were eating breakfast at Satsuma on Burgundy Street, and she said "You have a leaf on your shirt." I saw that it was true, it was perched on my left shoulder.
+summary: Gina and I were eating breakfast at Satsuma on Burgundy Street, and she said "You have a leaf on your shirt." I saw that it was true, it was perched on my left shoulder.
 tags:
   - post 
   - now
