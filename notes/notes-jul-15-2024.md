@@ -86,5 +86,3 @@ Social media reminded me that Daisy's been gone less than a year. Here we are wa
 Plus, as a bonus, heres a flyer from the first time I went to Poor Boys, in May 2017, to see a band called Cool Ghouls.
 
 ![cool ghouls poor boys flyer may 9, 2017](/static/img/timeline/cool-ghouls-poorboys-may-9-2017.jpg)
-
-
