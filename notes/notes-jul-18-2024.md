@@ -36,9 +36,9 @@ Buddy's still recovering from his eye removal. His incision's really still too r
 
 ![Buddy's stitches](/static/img/buddy/buddy-stitches-out-1-jul-16-2024.jpeg)
 
-![Buddy's stitches](/static/img/buddy/buddy-stitches-out-2-jul-16-2024.jpeg)
-
 ![Buddy's stitches](/static/img/buddy/buddy-stitches-out-3-jul-16-2024.jpeg)
+
+![Buddy's stitches](/static/img/buddy/buddy-stitches-out-5-jul-16-2024.jpeg)
 
 -----
 
