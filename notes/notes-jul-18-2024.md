@@ -42,9 +42,9 @@ Buddy's still recovering from his eye removal. His incision's really still too r
 
 -----
 
-Some new sketches
+Some new sketches:
 
-![play that funky music karaoke](/static/img/sketchbook/cant-fight-this-feeling-jul-16-2024.jpeg)
+![can't fight this feeling karaoke](/static/img/sketchbook/cant-fight-this-feeling-jul-16-2024.jpeg)
 
 ![on broadway karaoke](/static/img/sketchbook/goody-two-shoes-jul-18-2024.jpeg)
 
