@@ -33,7 +33,7 @@ New sketches:
 
 ![play that funky music karaoke](/static/img/sketchbook/funky-music-jul-14-2024.jpeg)
 
-![what the actual sketch by Dave Rhoden](/static/img/sketchbook/what-the-actual-jul-18-2024.jpeg)
+![what the actual sketch by Dave Rhoden](/static/img/sketchbook/what-the-actual-jul-19-2024.jpeg)
 
 ![no way way sketch by Dave Rhoden](/static/img/sketchbook/no-way-way-jul-17-2024.jpeg)
 
@@ -41,8 +41,12 @@ New sketches:
 
 Last and probably least:
 
-Someoobdy on the HC Neighbors (Holy Cross) Facebook group was asking for something like a plastic campaign sign to make a makeshift stop sign out of, for the corner of Andry and Burgundy, where the city-issued one disappeared. I suggested I would make one out of plywood, as I had a sort of water-affected piece I could spare. She said that'd be great, and could I also make a 311 request about it? So I started cutting, sanding, and priming on Friday, and I started painting this morning (Saturday) but I looked at Facebook and it turns out the city replaced the sign.
+Somebody on the HC Neighbors (Holy Cross) Facebook group was asking for something like a plastic campaign sign to make a makeshift stop sign out of, for the corner of Andry and Burgundy, where the city-issued one disappeared. I suggested I would make one out of plywood, as I had a sort of water-affected piece I could spare. She said that'd be great, and could I also make a 311 request about it? So I started cutting, sanding, and priming on Friday, and I started painting this morning (Saturday) but I looked at Facebook and it turns out the city replaced the sign.
 
 So now I've got this ridiculous thing. Well, it's ridiculous unless somebody wants it. I'll accept any reasonable offer.
 
-![partly-completed stop sign painting by Dave Rhoden](/static/img/paintings/stop-sign-white-paint-jul-20-2024.jpeg)
+![partly-completed stop sign painting by Dave Rhoden](/static/img/paintings/stop-sign-white-paint-jul-20-2024.jpg)
+
+![partly-completed stop sign painting by Dave Rhoden](/static/img/paintings/stop-sign-red-paint-partial-jul-20-2024.jpg)
+
+![partly-completed stop sign painting by Dave Rhoden](/static/img/paintings/stop-sign-red-paint-jul-20-2024.jpg)
