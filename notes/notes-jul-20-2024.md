@@ -10,6 +10,7 @@ tags:
   - Willam Shakespeare
   - Julius Caesar
   - James Bartelle
+  - Tulane
   - stop signs
   - Facebook
 
@@ -17,7 +18,7 @@ tags:
 
 I saw William Shakespeare's _Julius Caesar_ last night on the Tulane campus. I thought it was good. I felt like some of the lines (Brutus and Cassius' dialogues) were delivered too seriously, too passionately, like they were words of the utmost seriousness, but as I listened to them, using my little powers of reading comprehension, I felt like they should be delivered more like witty banter. I feel like the story isn't meant to be taken entirely seriously. I need to get a copy and find the passages I'm talking about. Maybe my way of interpreting it turns it too much into a comedy. But there are comic elements that I felt like they missed.
 
-On the other hand, I liked the comic relief character (Decius, played by Ryan Hayes), he seemed to get it right, and we were amazed by James Bartelle as Marc Antony. He read the part for maximum ironic impact, like how I imagine Dave Chapelle or maybe Richard Pryor would read it. Sometimes actors in Shakespeare seem to struggle with the language, like they are really just trying to remember their lines, and the meaning gets lost. This Marc Antony was quite the opposite. Every line stuck the landing. It made you understand why the "I have come not to praise Caesar, but to bury him" is still so famous.
+On the other hand, I liked the comic relief character (Decius, played by Ryan Hayes), he seemed to get it right, and we were amazed by James Bartelle as Marc Antony. He read the part for maximum ironic impact, like how I imagine Dave Chapelle or maybe Richard Pryor would read it. Sometimes actors in Shakespeare seem to struggle with the language, like they are really just trying to remember their lines, and the meaning gets lost. This Marc Antony was quite the opposite. Every line stuck the landing. It made you understand why the speech "I have come not to praise Caesar, but to bury him" is still so famous.
 
 ![James Bartelle from Julius Caesar program](/static/img/notes/james-bartelle-julius-caesar-program-jul-19-2024.jpeg)
 
