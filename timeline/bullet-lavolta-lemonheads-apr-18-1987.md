@@ -9,6 +9,8 @@ tags:
   - post 
   - Boston
   - Harvard
+  - Boston
+  - Massachusetts
   - shows
   - Dave Walker
   - Bullet LaVolta

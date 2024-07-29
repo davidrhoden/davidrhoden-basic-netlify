@@ -11,7 +11,7 @@ eleventyNavigation:
   order: 5
 ---
 
-- [![For a petition for more BMX parks in Seattle.](/static/img/illustrations/out-of-the-boil-card-jun-25-2024.jpg?nf_resize=smartcrop&w=260&h=260)](/static/img/illustrations/out-of-the-boil-card-jun-25-2024.jpg)
+- [![postcard for "Out Of The Boil".](/static/img/illustrations/out-of-the-boil-card-jun-25-2024.jpg?nf_resize=smartcrop&w=260&h=260)](/static/img/illustrations/out-of-the-boil-card-jun-25-2024.jpg)
 - [![Album cover illustration for Talbot Adams.](/static/img/illustrations/talbot-adams-album.jpg?nf_resize=smartcrop&w=260&h=260)](/static/img/illustrations/talbot-adams-album.jpg)
 - [![For a petition for more BMX parks in Seattle.](/static/img/illustrations/harbo.jpg?nf_resize=smartcrop&w=260&h=260)](/static/img/illustrations/harbo.jpg)
 - [![Jimmy and The Wolfpack.](/static/img/illustrations/jandtwp-illustration-only.png)](/static/img/illustrations/jandtwp-illustration-only.png)

@@ -11,6 +11,8 @@ tags:
   - rock
   - shows
   - Williams College
+  - Williamstown
+  - Massachusetts
   - Dave Walker
   - Chris Johanson
   - the infirmary

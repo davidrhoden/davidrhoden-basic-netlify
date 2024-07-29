@@ -17,7 +17,7 @@ tags:
 
 ---
 
-![pay stub from Williams College dining hal, 1986.](/static/img/timeline/dining-hall-pay-stub-feb-22-1986.jpg)
+![pay stub from Williams College dining hall, 1986.](/static/img/timeline/dining-hall-pay-stub-feb-22-1986.jpg)
 
 I worked side-by-side with a developmentally disabled man named Al. When I was doing a sloppy job on the dish line, the boss, Paul, would say "you're acting like Al."
 

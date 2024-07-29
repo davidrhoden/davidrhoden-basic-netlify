@@ -11,6 +11,8 @@ tags:
   - shows
   - Future Of The Left
   - Williamsburg
+  - Brooklyn
+  - New York
 
 ---
 
