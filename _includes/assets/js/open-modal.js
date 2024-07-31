@@ -6,7 +6,7 @@ $(function(){
   var shouldOpen = $.cookie(modalCookie);
 
   $("#setCookieButton").click(function(){
-    $.cookie(modalCookie, 'see', options);
+    $.cookie(modalCookie, 'seen', options);
     return false;
   });
   $("#deleteCookieButton").click(function(){
@@ -17,6 +17,6 @@ $(function(){
   $('#dialog').jqm();
   if (shouldOpen != "seen") {
     $('#dialog').jqmShow();
-    $.cookie(modalCookie, 'see', options);
+    $.cookie(modalCookie, 'seen', options);
   };
 });
