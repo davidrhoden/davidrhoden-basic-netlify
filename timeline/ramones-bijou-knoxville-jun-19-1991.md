@@ -7,7 +7,7 @@
   tags:
     - rock
     - shows
-    - The Ramones
+    - Ramones
     - Knoxville
     - Tennessee
     - Bijou Theatre
