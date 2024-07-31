@@ -4,24 +4,10 @@
       http://css-tricks.com
 */
 
-* {
-    margin: 0;
-    padding: 0;
-}
 
-body {
-/*    font: 12px Helvetica;*/
-}
-
-#page-wrap {
-    width: 500px;
-    margin: 25px auto;
-}
-
-a {
+.jqmWindow a {
     font: bold 18px Helvetica;
 }
-
 
 /* jqModal base Styling courtesy of;
      Brice Burgess <bhb@iceburg.net> */
@@ -48,7 +34,6 @@ a {
 .jqmOverlay {
     background-color: #000;
 }
-
 
 .jqmWindow .embeddable-buttondown-form input {
      border: 1px solid #eee;
