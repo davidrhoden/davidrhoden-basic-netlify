@@ -14,7 +14,7 @@ tags:
   - Mardi Gras
   - amplifiers
   - drums
-  - Buffas
+  - "Buffa's"
   - Esplanade Avenue
   - "Get Down On It"
 
@@ -22,6 +22,6 @@ tags:
 
 It was freezing cold, I wore a tweed blazer over my toga. We walked around and played all over. Trey and Jeff had little bitty battery powered amps and I rigged up a thing to carry a snare, no stand.
 
-Late in the evening (meaning around 7 o'clock, probably) we stopped in Buff's Bar on Esplanane and asked if we could play. I don't think they said yes but we did it anyway.
+Late in the evening (meaning around 7 o'clock, probably) we stopped in Buffa's Bar on Esplanane and asked if we could play. I don't think they said yes but we did it anyway.
 
 At some point were were just beating a snare and singing "Get Down On It" and some gorgeous tall woman came and danced to it, I will never forget it.

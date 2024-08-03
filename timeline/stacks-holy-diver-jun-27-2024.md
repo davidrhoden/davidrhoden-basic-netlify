@@ -16,7 +16,7 @@ tags:
 
 ---
 
-![The Stacks New Orleans: Holy Diver, June 27 2024](/static/images/rock/stacks/stacks-flyer-holy-diver-lufofu-jun-27-2024/stacks-flyer-lufofu-color-1-jun-27-2024.jpg "The Stacks New Orleans: Holy Diver, June 27 2024")
+![The Stacks New Orleans: Holy Diver, June 27 2024](/static/img/rock/stacks/stacks-flyer-holy-diver-lufofu-jun-27-2024/stacks-flyer-lufofu-color-1-jun-27-2024.jpg "The Stacks New Orleans: Holy Diver, June 27 2024")
 
 Advance tickets ($8): https://tickets.holdmyticket.com/tickets/434961
 
