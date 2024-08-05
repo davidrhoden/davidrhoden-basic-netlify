@@ -1,0 +1,31 @@
+<form name="contact" method="POST" netlify>
+  <label for="name">Name</label>
+  <input type="text" name="fullname" id="fullname" autocomplete="fullname" title="Please enter your name" required>
+  <label for="email">Email</label>
+  <input type="email" name="email" id="email" autocomplete="email" title="The domain portion of the email address is invalid (the portion after the @)." pattern="^([^\x00-\x20\x22\x28\x29\x2c\x2e\x3a-\x3c\x3e\x40\x5b-\x5d\x7f-\xff]+|\x22([^\x0d\x22\x5c\x80-\xff]|\x5c[\x00-\x7f])*\x22)(\x2e([^\x00-\x20\x22\x28\x29\x2c\x2e\x3a-\x3c\x3e\x40\x5b-\x5d\x7f-\xff]+|\x22([^\x0d\x22\x5c\x80-\xff]|\x5c[\x00-\x7f])*\x22))*\x40([^\x00-\x20\x22\x28\x29\x2c\x2e\x3a-\x3c\x3e\x40\x5b-\x5d\x7f-\xff]+|\x5b([^\x0d\x5b-\x5d\x80-\xff]|\x5c[\x00-\x7f])*\x5d)(\x2e([^\x00-\x20\x22\x28\x29\x2c\x2e\x3a-\x3c\x3e\x40\x5b-\x5d\x7f-\xff]+|\x5b([^\x0d\x5b-\x5d\x80-\xff]|\x5c[\x00-\x7f])*\x5d))*(\.\w{2,})+$" required>
+  <label for="street">Street Address</label>
+  <input type="text" name="street" id="street" autocomplete="address-1"  title="Enter your street address" required>
+
+  <div class="flex space-between" style="margin-bottom: 1em">
+    <div style="flex: 5; margin-right: 1em">
+      <label for="city">City</label>
+      <input type="text" name="city" id="city" title="Enter your city" required>
+    </div>
+    <div  style="flex: 1; margin-right: 1em">
+      <label for="name">State</label>
+      <input type="text" name="name" id="name" autocomplete="state" title="Please enter your state" required>
+    </div>
+    <div style="flex: 3">
+      <label for="city">ZIP Code</label>
+      <input type="text" name="zip" id="zip" autocomplete="zip" title="Enter your ZIP" required>
+    </div>
+  </div>
+
+  <label for="message">Message (not required)</label>
+  <textarea name="message" id="message" placeholder="Write a message here, if you want to." rows="4" required></textarea>
+  <div class="flex space-between" style="margin-bottom: 1em">
+    <label style="flex: 4" for="add-to-the-mailing-list">Check this box if you would like your name and address added to the (very fun) David Rhoden Computer Newsletter mailing list.</label>
+    <input style="flex: 1" type="checkbox" name="add-to-the-mailing-list" id="add-to-the-mailing-list"  title="add-to-the-mailing-list">
+  </div>
+  <button class="submit button" type="submit" name="submit">Place Order</button>
+</form>

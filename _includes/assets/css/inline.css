@@ -483,7 +483,8 @@ form.gsc-search-box {
 }
 
 form label {
-  display: none;
+/*  display: none;*/
+  font-family: var(--font-secondary), sans-serif;
 }
 
 input,
