@@ -1,29 +1,40 @@
-<section class="postslist tagslist">
-  {% set showYear = true %}
-  {% set currentYear = "" %}
-  {% for post in postslist %}
-    {% if showYear %}
-      {% set postYear = "" %}
-      {% if currentYear != postYear %}
-        {% if currentYear != "" %}
-          </div> <!-- END YEAR -->
-        {% endif %}
-        {% set currentYear = postYear %}
-        <div class="year">
-          <span class="post-year">year: {{ postYear }}</span>
-     {% endif %}
-    {% endif %}
-    <time datetime="{{ post.date | machineDate }}">
-      <small>{{ post.date | readableDate }}</small>
-    </time><br>
-    <a href="{{ post.url }}">{{ post.data.title }}
-    {% if post.data.image %}
-        <span><img class="thumbnail" src="/static/img/{{ post.data.image }}?nf_resize=fit&w=240"></span>
-    {% endif %}</a>
-    {% if post.data.summary %}
-        {#  # post.data.summary #}
-    {% endif %}
-      {{ layoutContent | safe }}
-    <br>
-    {% endfor %}
+<section class="postslist tagslist grid-4-across">
+    {% set showYear = true %}
+    {% set currentYear = "" %}
+    {% for post in postslist %}
+
+      {% if showYear %}
+        {% set postYear = "" %}
+        {% if currentYear != postYear %}
+          {% if currentYear != "" %}
+            </div> <!-- END YEAR -->
+          {% endif %}
+          {% set currentYear = postYear %}
+          <div class="year">
+            <p class="post-year">year: {{ postYear }}</p>
+       {% endif %}
+      {% endif %}
+        <div style="position: relative;">
+          <a href="{{ post.url }}">
+          <div style="position: absolute; top:0; left:0; background: white; padding: 4px; width: 100%; opacity: .75;">
+            <time datetime="{{ post.date | machineDate }}">
+              <small>{{ post.date | readableDate }}</small>
+            </time><br>
+            {{ post.data.title }}
+            {% if post.data.summary %}
+                {#  # post.data.summary #}
+            {% endif %}
+            </div>
+
+
+          {% if post.data.image %}
+              <span style="max-height: 240px; overflow: hidden;  position: relative; text-align: center;">
+              <img class="thumbnail" src="/static/img/{{ post.data.image }}?nf_resize=fit&w=240">
+              </span>
+          {% endif %}
+
+            {{ layoutContent | safe }}
+            </a>
+        </div>
+      {% endfor %}
 </section>

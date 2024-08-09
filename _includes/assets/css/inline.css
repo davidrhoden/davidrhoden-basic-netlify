@@ -936,12 +936,13 @@ span.fade:hover {
     position: relative;
   }
   .tagslist a span {
-    position: absolute;
+/*    position: absolute;
     display: none;
     top: -50px;
     left: -300px;
-    z-index: 99;
+    z-index: 99;*/
   }
+
   .tagslist a span img {
     width: 240px;
   }
@@ -950,6 +951,14 @@ span.fade:hover {
   }
   .tagslist a:hover span {
     display: block;
+  }
+
+
+  .grid-4-across {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(5, 1fr);
+    gap: 5px;
   }
 }
 
