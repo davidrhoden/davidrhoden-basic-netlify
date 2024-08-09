@@ -5,7 +5,7 @@
   summary: The computer could easily tell me the exact date, but the people programming the app want it to seem friendly.
   image: /timeline/cloudcannon-date-formatting.png
   tags:
-    - note
+    - notes
     - date formatting
     - relative dates
     - gripes
