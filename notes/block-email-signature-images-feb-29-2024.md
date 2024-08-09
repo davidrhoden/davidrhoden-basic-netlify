@@ -10,8 +10,8 @@
     - clients
     - attachments
     - Gmail
-    - note
-    - post
+    - notes
+    - Mission of Burma
 
 ---
 
@@ -20,7 +20,7 @@ I'm trying to find a client's email in my Gmail mailbox, because it has an impor
 Now, Google stores these for me on my Gmail, so it's not a giant problem for my local storage but...: I just hate it. I hate that I'm storing those anywhere. I want them all gone, and I don't want to download any more of them. I want to block my client's email signature. That's correct. That's the way I wanna do business.
 
 I figure there must be a Google setting, or a Chrome extension, or maybe an IFTTT applet to block and/or delete them. I'm not finding anything, though.
-I don't know of a find/replace or find/delete that would work across Gmail storage (another great opprtunity for Gmail itself, or somebody, to make one).
+I don't know of a find/replace or find/delete that would work across Gmail storage (another great opp0rtunity for Gmail itself, or somebody, to make one).
 
 Has anybody done this? I could ask the client to just stop sending them but I think I'd get further asking Google to fix this.
 
