@@ -5,15 +5,6 @@ $(function(){
 
   var shouldOpen = $.cookie(modalCookie);
 
-  $("#setCookieButton").click(function(){
-    $.cookie(modalCookie, 'seen', options);
-    return false;
-  });
-  $("#deleteCookieButton").click(function(){
-    $.cookie(modalCookie, null, options);
-    return false;
-  });
-
   $('#dialog').jqm();
   if (shouldOpen != "seen") {
     $('#dialog').jqmShow();
