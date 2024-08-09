@@ -16,9 +16,15 @@
       {% endif %}
         <div style="position: relative;">
           <a href="{{ post.url }}" style="display: block;">
+        </style>
 
-          </style>>
-          <div style="position: absolute; top:0; left:0; background: white; padding: 4px; width: 100%; opacity: .75;">
+          {% if post.data.image %}
+              <span style="max-height: 240px; overflow: hidden; text-align: center;">
+              <img class="thumbnail" src="/static/img/{{ post.data.image }}?nf_resize=smartcrop&w=240&h=240">
+              </span>
+          {% endif %}
+
+          <div style="background: white; padding: 4px; width: 100%;">
             <time datetime="{{ post.date | machineDate }}">
               <small>{{ post.date | readableDate }}</small>
             </time><br>
@@ -26,14 +32,7 @@
             {% if post.data.summary %}
                 {#  # post.data.summary #}
             {% endif %}
-            </div>
-
-
-          {% if post.data.image %}
-              <span style="max-height: 240px; overflow: hidden; text-align: center;">
-              <img class="thumbnail" src="/static/img/{{ post.data.image }}?nf_resize=smartcrop&w=240&h=240">
-              </span>
-          {% endif %}
+          </div>
 
             {{ layoutContent | safe }}
             </a>
