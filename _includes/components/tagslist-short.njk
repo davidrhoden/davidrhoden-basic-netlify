@@ -28,8 +28,8 @@
 
 
           {% if post.data.image %}
-              <span style="max-height: 240px; overflow: hidden;  position: relative; text-align: center;">
-              <img class="thumbnail" src="/static/img/{{ post.data.image }}?nf_resize=fit&w=240">
+              <span style="max-height: 240px; overflow: hidden; text-align: center;">
+              <img class="thumbnail" src="/static/img/{{ post.data.image }}?nf_resize=smartcrop&w=240&h=240">
               </span>
           {% endif %}
 
