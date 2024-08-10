@@ -935,13 +935,6 @@ span.fade:hover {
     color: black;
     position: relative;
   }
-  .tagslist a span {
-/*    position: absolute;
-    display: none;
-    top: -50px;
-    left: -300px;
-    z-index: 99;*/
-  }
 
   .tagslist a span img {
     width: 240px;
@@ -953,6 +946,11 @@ span.fade:hover {
     display: block;
   }
 
+  .tagslist-image-container {
+    height: 240px;
+    overflow: hidden;
+    text-align: center;
+  }
 
   .grid-4-across {
     display: grid;
