@@ -954,11 +954,14 @@ span.fade:hover {
 
   .grid-4-across {
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
     grid-template-rows: repeat(5, 1fr);
     gap: 5px;
   }
-}
+
+  .grid-square-4-across {
+    position: relative;
+  }
 
 @media screen and (width >=1400px) {
   :root {

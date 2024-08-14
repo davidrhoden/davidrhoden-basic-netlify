@@ -7,7 +7,7 @@ excerpt: "Order a copy of my 'I'm holding in a lot of anger' print."
 summary: "Order a copy of my 'I'm holding in a lot of anger' print."
 image: /static/img/illustrations/holding-anger-paper-print-aug-4-2024.jpg
 eleventyNavigation:
-  key: Get in touch
+  key: Order a print
   order: 14
 ---
 
