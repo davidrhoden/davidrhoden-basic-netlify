@@ -7,11 +7,14 @@ category: gina
 image: gina/gina-on-harrison-mar-10-2020.jpg
 tags:
   - post 
-  - NYC
-  - Brooklyn
-  - 181 Irving Avenue
-  - moving
-  - stories
+  - Gina
+  - Harrison Avenue
+  - Lakeview
+  - New Orleans
+  - Louisiana
+  - Cerberus
+  - lunch
+  - coronavirus
 
 ---
 
