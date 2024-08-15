@@ -3,7 +3,7 @@
   date: 2024-06-27T00:00:00
   excerpt: It was a scary and sad time but he'll be all right.
   summary: It was a scary and sad time but he'll be all right.
-  image: buddy/buddy-coming-home-in-crate-jun-27-2024.jpeg
+  image: buddy/buddy-coming-home-in-crate-jun-27-2024.jpg
   tags:
     - cats
     - Buddy
@@ -17,4 +17,4 @@ It was a big day. Buddy had surgery on both eyes. The laser surgery to treat the
 
 He's such a sweet guy. I hate that this had to happen.
 
-![Buddy coming home from surgery, asleep in his crate.](/static/img/buddy/buddy-coming-home-in-crate-jun-27-2024.jpeg)
+![Buddy coming home from surgery, asleep in his crate.](/static/img/buddy/buddy-coming-home-in-crate-jun-27-2024.jpg)

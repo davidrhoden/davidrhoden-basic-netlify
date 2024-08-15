@@ -10,7 +10,7 @@ tags:
   - cats
   - 315 Tricou
   - vision
-  - Dr. DaCosta
+  - Dr. Paul DaCosta
 ---
 
 It's been hard to get Buddy to sit still for pictures. I wanted pictures that might show a little bit of what's going on with his cloudy left eye.

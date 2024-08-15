@@ -10,7 +10,7 @@ tags:
   - cats
   - New Orleans
   - 315 Tricou
-  - Dr. Paul daCosta
+  - Dr. Paul DaCosta
 
 ---
 
