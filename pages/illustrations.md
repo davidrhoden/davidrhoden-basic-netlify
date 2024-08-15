@@ -11,7 +11,7 @@ eleventyNavigation:
   order: 5
 ---
 
-- [![postcard for "Out Of The Boil".](/static/img/designs/out-of-the-boil-4x6-may-16-2024.jpg)](/static/img/designs/out-of-the-boil-4x6-may-16-2024.jpg)
+- [![postcard for "Out Of The Boil".](/static/img/designs/out-of-the-boil-4x6-may-16-2024.png)](/static/img/designs/out-of-the-boil-4x6-may-16-2024.png)
 - [![postcard for "Out Of The Boil".](/static/img/illustrations/out-of-the-boil-card-jun-25-2024.jpg?nf_resize=smartcrop&w=260&h=260)](/static/img/illustrations/out-of-the-boil-card-jun-25-2024.jpg)
 - [![Album cover illustration for Talbot Adams.](/static/img/illustrations/talbot-adams-album.jpg?nf_resize=smartcrop&w=260&h=260)](/static/img/illustrations/talbot-adams-album.jpg)
 - [![For a petition for more BMX parks in Seattle.](/static/img/illustrations/harbo.jpg?nf_resize=smartcrop&w=260&h=260)](/static/img/illustrations/harbo.jpg)
