@@ -17,4 +17,4 @@ It was a big day. Buddy had surgery on both eyes. The laser surgery to treat the
 
 He's such a sweet guy. I hate that this had to happen.
 
-![Buddy coming home from surgery, asleep in his crate.](/static/img/buddy/buddy-coming-home-in-crate-jun-27-2024.jpg)
+![Buddy coming home from surgery, asleep in his crate.](/static/img/buddy/buddy-coming-home-in-crate-jun-27-2024.jpg
