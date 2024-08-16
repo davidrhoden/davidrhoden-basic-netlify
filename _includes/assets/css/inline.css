@@ -966,7 +966,7 @@ span.fade:hover {
     grid-template-rows: repeat(5, 1fr);
     gap: 5px;
   }
-
+}
 
 @media screen and (width >=1400px) {
   :root {
