@@ -9,6 +9,8 @@ tags:
   - art
   - paintings
   - Eighties
+  - "I.J. Reilly's Cabinet of Curiosities"
+  - creatures
 
 
 ---
@@ -17,4 +19,4 @@ tags:
 
 It might as well have one mouth since both mouths sing Eighties lyrics.
 
-Sold through a stoore called I.J. Reilly's Cabinet of Curiosities (I think...!?) that sold a lot of my work.
+Sold through a store called I.J. Reilly's Cabinet of Curiosities (I think...!?) that sold a lot of my work.
