@@ -11,7 +11,7 @@ eleventyNavigation:
   order: 7
 ---
 
-- [![postcard for "Out Of The Boil".](/static/img/designs/out-of-the-boil-4x6-may-16-2024.jpg)](/static/img/designs/out-of-the-boil-4x6-may-16-2024.jpg)
+- [![postcard for "Out Of The Boil".](/static/img/designs/out-of-the-boil-4x6-may-16-2024.pn)](/static/img/designs/out-of-the-boil-4x6-may-16-2024.png)
 - [![postcard for "Out Of The Boil".](/static/img/designs/out-of-the-boil-card-jun-25-2024.jpg)](/static/img/designs/out-of-the-boil-card-jun-25-2024.jpg)
 - ![The Stacks New Orleans: Holy Diver, June 27 2024](/static/img/designs/stacks-flyer-lufofu-color-1-jun-27-2024.jpg "The Stacks New Orleans: Holy Diver, June 27 2024")
 - ![The Stacks New Orleans: Pirogue's Whiskey Bayou](/static/img/designs/stacks-flyer-pirogues-960w-jun-15-2024.jpg "The Stacks New Orleans: Pirogue's Whiskey Bayou")
