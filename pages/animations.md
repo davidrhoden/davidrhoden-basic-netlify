@@ -52,9 +52,6 @@ eleventyNavigation:
 
 -----
 
-![The Stacks New Orleans: Pirogue's Whiskey Bayou](/static/img/animations/stacks-animation-jun-15-2024-v7.gif  "The Stacks New Orleans: Pirogue's Whiskey Bayou")
-
------
 
 <div class="animation-individual">
 <video autoplay loop>
@@ -84,10 +81,6 @@ eleventyNavigation:
   <p>Your browser does not support the video element.</p>
 </video>
 </div>
-
------
-
-![Scratch animation by David Rhoden](/static/img/animations/ampuscratch.gif)
 
 -----
 
@@ -139,11 +132,9 @@ eleventyNavigation:
 
 -----
 
-![Talker animation by David Rhoden](/static/img/animations/talkers.gif)
+<!-- ![Talker animation by David Rhoden](/static/img/animations/talkers.gif) -->
 
------
-
-![Rar animation by David Rhoden](/static/img/animations/dailyRar02.gif)
+<!-- ![Rar animation by David Rhoden](/static/img/animations/dailyRar02.gif) -->
 
 -----
 
