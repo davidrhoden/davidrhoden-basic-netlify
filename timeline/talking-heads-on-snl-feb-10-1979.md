@@ -11,9 +11,12 @@ tags:
   - Saturday Night Live
   - Talking Heads
   - "Take Me To The River"
+  - Judy
 
 ---
 
-<iframe src="https://player.vimeo.com/video/65211394?h=8d57e4cd40" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+![Talking Heads photo from SNL](/static/img/timeline/talking-heads-on-snl-feb-10-1979.jpg)
 
 Our mom seemed appalled that we even liked this, much less that we were enthusiastic about it.
+
+<iframe src="https://player.vimeo.com/video/65211394?h=8d57e4cd40" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>

@@ -30,4 +30,4 @@ I need to take better pictures, and I need to get earphones that hang on some ho
 
 I guess this picture is O.K.
 
-![sunset on the levee](/static/img/timeline/sunset-over-miss-river-aug-29-2022.jpg)
+![sunset on the levee](/static/img/timeline/sunsets/sunset-over-miss-river-aug-29-2022.jpg)
