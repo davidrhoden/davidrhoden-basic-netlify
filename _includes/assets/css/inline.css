@@ -7,8 +7,7 @@
   --orangered: orangered;
   --gray: rgb(0 0 0 / 50%);
   --font-primary: "Source Serif Pro", serif;
-  --font-secondary: "Libre Franklin", oxygen-sans, ubuntu, cantarell,
-    "Helvetica Neue", sans-serif;
+  --font-secondary: "Libre Franklin", "Helvetica Neue", sans-serif;
   --font-decorative: "ShadowGrotesque", "Libre Franklin", sans-serif;
 }
 
