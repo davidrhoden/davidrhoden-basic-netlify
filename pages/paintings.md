@@ -25,7 +25,6 @@ To see my paintings I currently want to sell, please visit [thisismyhappening.co
 1. [![conventionality painting by David Rhoden](/static/img/paintings/forklift-nov-19-2023.jpg?nf_resize=smartcrop&w=260&h=260)](/static/img/paintingsforklift-nov-19-2023.jpg)
 1. [![Critter painting by David Rhoden](/static/img/paintings/aah-critter-may-21-2023-edit.jpg?nf_resize=smartcrop&w=260&h=260)](/static/img/paintings/aah-critter-may-21-2023.jpg)
 1. [![Aah Guy painting by David Rhoden](/static/img/paintings/aah-guy-preview-may-27-2023-edit.jpg?nf_resize=smartcrop&w=260&h=260)](/static/img/paintings/aah-guy-preview-may-27-2023.jpg)
-1. [![Conventionality painting by David Rhoden](/static/img/paintings/forklift-nov-19-2023.jpg?nf_resize=smartcrop&w=260&h=260)](/static/img/paintings/unimog-feb-20-2022.jpg)
 1. [![Unimog painting by David Rhoden](/static/img/paintings/unimog-feb-20-2022.jpg?nf_resize=smartcrop&w=260&h=260)](/static/img/paintings/unimog-feb-20-2022.jpg)
 1. [![Rayco stumpgrinder painting by David Rhoden](/static/img/paintings/rayco-flat-feb-1-2021.jpg?nf_resize=smartcrop&w=260&h=260)](/static/img/paintings/rayco-flat-feb-1-2021.jpg)
 1. [![Reporter painting by David Rhoden](/static/img/paintings/reporter-feb-11-2021.jpg?nf_resize=smartcrop&w=260&h=260)](/static/img/paintings/reporter-feb-11-2021.jpg)
