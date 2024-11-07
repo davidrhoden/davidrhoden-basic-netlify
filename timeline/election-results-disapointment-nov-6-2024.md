@@ -25,7 +25,7 @@ People just didn't show up to the polls. Those long lines we saw here and there 
 
 No media got this right. They were still talking about massive turnout into last night. But the turnout was bad. All the enthusiasm we saw for KH/TW was because we were watching and listening to selective reporting. Basically, we got lied to.
 
-I'd like to thnk we'll hear tomorrow that the Trump team, with the help of Musk and Putin, somehow rigged voted to change from blue to red, but we won't.
+I'd like to thnk we'll hear tomorrow that the Trump team, with the help of Musk and Putin, somehow rigged votes to change from blue to red, but we won't.
 
 ![fucking idiot undecided voter in 2024 Presidential election](/static/img/timeline/undecided-voter-nov-6-2024.png)
-<figcaption>Apparently the Harris campaign thought that instead of motivating the base they could get fifteen million undecided Republicans like this one pictured here to stand in line to vote Democrat.</figcaption>
+<figcaption><i>Apparently the Harris campaign thought that instead of motivating the base they could get fifteen million undecided Republicans like this one pictured here to stand in line to vote Democrat.</i></figcaption>
