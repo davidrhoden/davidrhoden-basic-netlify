@@ -21,7 +21,7 @@
         <div class="hidden">
             <div class="thumbnail-container">
               {% if post.data.image %}
-               <a href="{{ post.url }}"><img onerror="this.style.display='none'" class="thumbnail" src="/static/img/{{ post.data.image }}?nf_resize=fit&w=320" alt="{{post.data.title}}"></a>
+               <a href="{{ post.url }}"><img onerror="this.style.display='none'" class="thumbnail" src="{{ post.data.image }}?nf_resize=fit&w=320" alt="{{post.data.title}}"></a>
               {% endif %}
             </div>
             <div class="summary">
