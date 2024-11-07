@@ -3,7 +3,7 @@ title: Damn you autocorrect, plus a Stacks show Saturday.
 date: 2024-06-14T00:00:00
 excerpt: Autocorrect just changed my invoice.
 summary: Autocorrect just changed my invoice.
-image: rock/stacks/stacks-flyer-pirogues-jun-15-2024.jpg
+image: /static/img/rock/stacks/stacks-flyer-pirogues-jun-15-2024.jpg
 tags:
   - notes
   - rock

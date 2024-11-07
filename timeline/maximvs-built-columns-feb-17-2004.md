@@ -4,7 +4,7 @@ date: 2004-02-17T16:00:00.000Z
 summary: We thought we really needed these.
 excerpt: We thought we really needed these.
 category: timeline
-image: rock/maximvs/maximvs-big-top-feb-18-2004/jeff-and-trey-feb-18-2004.jpg
+image: /static/img/rock/maximvs/maximvs-big-top-feb-18-2004/jeff-and-trey-feb-18-2004.jpg
 tags:
   - post 
   - New Orleans

@@ -1,7 +1,7 @@
 ---
 title: Buddy slept in the sunlight.
 date: 2022-07-22T11:00:00.000Z
-image: buddy/buddy-belly-jul-22-2022.jpg
+image: /static/img/buddy/buddy-belly-jul-22-2022.jpg
 tags:
   - post 
   - New Orleans

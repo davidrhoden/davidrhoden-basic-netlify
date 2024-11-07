@@ -3,7 +3,7 @@ title: The Stacks play Friday, July 12, 2024, at the Intracoastal Club in Houma,
 date: 2024-07-12T00:00:00
 excerpt: Our first time playing in Houma.
 summary: Our first time playing in Houma.
-image: rock/stacks/stacks-flyer-mercyland-houma-jul-12-2024.jpg
+image: /static/img/rock/stacks/stacks-flyer-mercyland-houma-jul-12-2024.jpg
 tags:
   - post
   - notes

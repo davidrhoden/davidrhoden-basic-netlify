@@ -1,7 +1,7 @@
 ---
 title: Dirty Knives played Checkpoint's with The Wednesdays.
 date: 2001-09-07T22:00:00.000Z
-image: rock/dirty-knives/dirty-knives-checkpoint-wednesdays-sep-7-2001.jpg
+image: /static/img/rock/dirty-knives/dirty-knives-checkpoint-wednesdays-sep-7-2001.jpg
 tags:
   - post 
   - rock

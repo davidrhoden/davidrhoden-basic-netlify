@@ -1,7 +1,7 @@
 ---
 title: The Sleepyheads played another show at Circle Bar.
 date: 2002-01-26T22:00:00.000Z
-image: rock/sleepyheads/sleepy-heads-circle-bar-jan-26-2002/sleepy-heads-jan-26-2002-049.jpg
+image: /static/img/rock/sleepyheads/sleepy-heads-circle-bar-jan-26-2002/sleepy-heads-jan-26-2002-049.jpg
 tags:
   - post 
   - New Orleans

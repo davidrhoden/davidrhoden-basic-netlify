@@ -1,7 +1,7 @@
 ---
 title: Jimmy and The Wolfpack played at Under Acme.
 date: 2011-01-06T22:00:00.000Z
-image: rock/jandtwp-cd-cover.jpg
+image: /static/img/rock/jandtwp-cd-cover.jpg
 tags:
   - post
   - rock

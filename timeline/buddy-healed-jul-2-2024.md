@@ -3,7 +3,7 @@ title: Buddy continued to heal after his eye surgery.
 date: 2024-07-02T00:00:00
 excerpt: He really refused to wear the cone at this point.
 summary: He really refused to wear the cone at this point.
-image: buddy/buddy-healing-jul-2-2024.jpg
+image: /static/img/buddy/buddy-healing-jul-2-2024.jpg
 tags:
   - cats
   - Buddy

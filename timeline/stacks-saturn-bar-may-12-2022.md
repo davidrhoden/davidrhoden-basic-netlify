@@ -1,7 +1,7 @@
 ---
 title: Stacks played the Saturn Bar on a stormy Spring night.
 date: 2022-05-12T11:00:00.000Z
-image: rock/stacks/stacks-saturn-may-12-2022/stacks-saturn-may-12-2022-01.jpg
+image: /static/img/rock/stacks/stacks-saturn-may-12-2022/stacks-saturn-may-12-2022-01.jpg
 tags:
   - post 
   - New Orleans

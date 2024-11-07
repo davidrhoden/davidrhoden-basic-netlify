@@ -3,7 +3,7 @@ title: I saw Devo on Saturday Night Live.
 date: 1978-10-14T20:57:00.000Z
 summary: I liked the effects pedals taped to the guitar, though I had to ask Bruce what that was.
 excerpt: I liked the effects pedals taped to the guitar, though I had to ask Bruce what that was.
-image: timeline/devo-snl-oct-14-1978.png
+image: /static/img/timeline/devo-snl-oct-14-1978.png
 tags:
   - post
   - Chattanooga

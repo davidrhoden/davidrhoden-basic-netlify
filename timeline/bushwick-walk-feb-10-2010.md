@@ -1,7 +1,7 @@
 ---
 title: I went for a walk in Bushwick.
 date: 2010-02-10T11:00:00.000Z
-image: timeline/bushwick-walk-feb-10-2010/brick-school-2-feb-10-2010.jpg
+image: /static/img/timeline/bushwick-walk-feb-10-2010/brick-school-2-feb-10-2010.jpg
 tags:
   - post 
   - New York

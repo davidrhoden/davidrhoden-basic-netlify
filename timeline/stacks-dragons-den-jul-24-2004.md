@@ -3,7 +3,7 @@ title: Stacks played Dragon's Den with Bipolaroid and Ratty Scurvics.
 date: 2004-07-17T11:00:00.000Z
 summary: The venue gives me the willies but it was a fun show.
 excerpt: The venue gives me the willies but it was a fun show.
-image: rock/stacks/stacks-pandemic-recordings-with-andre-red.jpg
+image: /static/img/rock/stacks/stacks-pandemic-recordings-with-andre-red.jpg
 tags:
   - post 
   - rock

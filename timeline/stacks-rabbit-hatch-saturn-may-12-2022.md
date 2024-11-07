@@ -1,7 +1,7 @@
 ---
 title: The Stacks played the Saturn Bar on a rainy Thursday night.
 date: 2022-05-12T21:00:00.000Z
-image: rock/stacks-rabbit-hatch-may-12-2022.jpg
+image: /static/img/rock/stacks-rabbit-hatch-may-12-2022.jpg
 tags:
   - post 
   - New Orleans

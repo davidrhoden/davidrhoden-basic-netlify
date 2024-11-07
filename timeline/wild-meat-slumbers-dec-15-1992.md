@@ -4,7 +4,7 @@ date: 1992-12-15T13:00:00.000Z
 summary: These were the unhip bands of 1992. We were too old!
 excerpt: These were the unhip bands of 1992. We were too old!
 category: timeline
-image: rock/WMSITN_JcardA-kcrothers.jpg
+image: /static/img/rock/WMSITN_JcardA-kcrothers.jpg
 tags:
   - post
   - Knoxville

@@ -3,7 +3,7 @@ title: All-Night Movers played at Jonathan Ferrara Gallery on Carondelet Street.
 date: 2002-10-09T19:00:00.000Z
 summary: It was insanely loud inside, so we took the show out to the sidewalk.
 excerpt: It was insanely loud inside, so we took the show out to the sidewalk.
-image: rock/all-night-movers/ferrara-gallery-oct-9-2002/all-night-movers-ferrara-window-by-jeff-pounds.jpg
+image: /static/img/rock/all-night-movers/ferrara-gallery-oct-9-2002/all-night-movers-ferrara-window-by-jeff-pounds.jpg
 tags:
   - post 
   - All-Night Movers

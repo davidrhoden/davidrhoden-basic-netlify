@@ -1,7 +1,7 @@
 ---
 title: I used photo editing software to create a Nancy comic strip.
 date: 2022-07-26T02:00:00.000Z
-image: timeline/doof-tram-jul-27-2022.jpg
+image: /static/img/timeline/doof-tram-jul-27-2022.jpg
 tags:
   - post 
   - Nancy

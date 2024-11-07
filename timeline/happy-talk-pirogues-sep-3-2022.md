@@ -1,7 +1,7 @@
 ---
 title: I hung out with Happy Talk Band and other friends at Pirogue's.
 date: 2022-09-03T11:00:00.000Z
-image: timeline/happy-talk-pirogues-sep-3-2022.jpg
+image: /static/img/timeline/happy-talk-pirogues-sep-3-2022.jpg
 tags:
   - post 
   - rock

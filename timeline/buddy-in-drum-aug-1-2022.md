@@ -1,7 +1,7 @@
 ---
 title: Buddy got in the bass drum.
 date: 2022-08-01T11:00:00.000Z
-image: buddy/buddy-in-drum-aug-1-2022.jpg
+image: /static/img/buddy/buddy-in-drum-aug-1-2022.jpg
 tags:
   - post 
   - New Orleans

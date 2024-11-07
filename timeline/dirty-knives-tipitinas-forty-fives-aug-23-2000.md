@@ -3,7 +3,7 @@ title: Dirty Knives played Tipitina's with The Forty Fives.
 date: 2000-08-23T22:00:00.000Z
 summary: We recorded the show.
 excerpt: We recorded the show.
-image: rock/dirty-knives/dirty-knives-flyer-tips-aug-23-2000.gif
+image: /static/img/rock/dirty-knives/dirty-knives-flyer-tips-aug-23-2000.gif
 tags:
   - post 
   - rock

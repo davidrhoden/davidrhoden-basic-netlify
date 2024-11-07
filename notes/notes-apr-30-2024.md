@@ -3,7 +3,7 @@
   date: 2024-04-30T00:00:00
   excerpt: The Formosan termites made their first appearance of the year.
   summary: The Formosan termites made their first appearance of the year.
-  image: sketchbook/and-lady-apr-30-2024.jpeg
+  image: /static/img/sketchbook/and-lady-apr-30-2024.jpeg
   tags:
     - now
     - notes

@@ -4,7 +4,7 @@ date: 2012-07-12T11:00:00.000Z
 summary: This was a fantastic porch for man and cat alike.
 excerpt: This was a fantastic porch for man and cat alike.
 category: timeline
-image: sally/sally-orchid-porch-jul-6-2012.jpg
+image: /static/img/sally/sally-orchid-porch-jul-6-2012.jpg
 tags:
   - post 
   - cats

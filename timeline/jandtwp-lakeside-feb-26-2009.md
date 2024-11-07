@@ -4,7 +4,7 @@ date: 2009-01-23T22:00:00.000Z
 summary: Looks like I had a good time at least.
 excerpt: Looks like I had a good time at least.
 category: timeline
-image: rock/jandtwp-lakeside-feb-26-2009/davedrummingatlakeside_sq.jpg
+image: /static/img/rock/jandtwp-lakeside-feb-26-2009/davedrummingatlakeside_sq.jpg
 tags:
   - post 
   - rock

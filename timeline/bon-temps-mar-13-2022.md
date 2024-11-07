@@ -1,7 +1,7 @@
 ---
 title: Went with Gina to the Bon Temps and played pool with friends from Florida.
 date: 2022-03-13T16:00:00.000Z
-image: timeline/dana-bon-temps-mar-13-2022.jpg
+image: /static/img/timeline/dana-bon-temps-mar-13-2022.jpg
 tags:
   - post 
   - New Orleans

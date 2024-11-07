@@ -3,7 +3,7 @@ title: I saw Public Image Limited on American Bandstand.
 date: 1980-05-17T11:00:00.000Z
 summary: We rarely watched Bandstand but we were at a friend's house.
 excerpt: We rarely watched Bandstand but we were at a friend's house.
-image: timeline/PIL-john-brian-king-may-17-1980.jpg
+image: /static/img/timeline/PIL-john-brian-king-may-17-1980.jpg
 tags:
   - post
   - rock

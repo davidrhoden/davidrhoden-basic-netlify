@@ -1,7 +1,7 @@
 ---
 title: Buddy tried to help me with my Unimog painting.
 date: 2021-09-10T11:00:00.000Z
-image: buddy/buddy-unimog/20210910_100808.jpg
+image: /static/img/buddy/buddy-unimog/20210910_100808.jpg
 tags:
   - post 
   - New Orleans

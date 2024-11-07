@@ -4,7 +4,7 @@ date: 2021-07-05T11:00:00.000Z
 summary: It was nice to see everybody.
 excerpt: It was nice to see everybody.
 category: timeline
-image: timeline/regatta-jul-2021/regatta-spent-fireworks-jul-5-2021.jpg
+image: /static/img/timeline/regatta-jul-2021/regatta-spent-fireworks-jul-5-2021.jpg
 tags:
   - post 
   - regattas

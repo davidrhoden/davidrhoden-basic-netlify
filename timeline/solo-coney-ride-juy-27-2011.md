@@ -3,7 +3,7 @@ title: I did a solo morning bike ride to Coney Island.
 date: 2011-07-27T08:00:00.000Z
 summary: My first experience wtih Texas' blue laws.
 excerpt: My first experience wtih Texas' blue laws.
-image: timeline/solo-coney-ride-jul-27-2011/wonderwheel_am-jul-27-2011.jpg  
+image: /static/img/timeline/solo-coney-ride-jul-27-2011/wonderwheel_am-jul-27-2011.jpg
 tags:
   - post
   - New York

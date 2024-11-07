@@ -3,7 +3,7 @@ title: Stacks played at the compound on Rendon Street.
 date: 2012-10-27T22:00:00.000Z
 summary: "Was this a Hallowe'en show?"
 excerpt: "Was this a Hallowe'en show?"
-image: rock/stacks/stacks-pandemic-recordings-with-andre-red.jpg
+image: /static/img/rock/stacks/stacks-pandemic-recordings-with-andre-red.jpg
 category: rock
 tags:
   - post 

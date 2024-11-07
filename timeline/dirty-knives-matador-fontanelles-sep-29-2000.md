@@ -1,7 +1,7 @@
 ---
 title: Dirty Knives played at El Matador with Fontanelles UK.
 date: 2001-09-29T22:00:00.000Z
-image: rock/dirty-knives/dirty-knives-matador-fontanelles-sep-29-2001.jpg
+image: /static/img/rock/dirty-knives/dirty-knives-matador-fontanelles-sep-29-2001.jpg
 tags:
   - post 
   - rock

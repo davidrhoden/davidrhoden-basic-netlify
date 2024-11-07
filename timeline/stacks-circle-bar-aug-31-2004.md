@@ -2,7 +2,7 @@
 title: The Stacks played the Circle Bar on a really hot night.
 date: 2004-08-31T21:00:00.000Z
 category: rock
-image: rock/stacks/stacks-circle-bar-aug-31-2004/stacks-flyer-circle-aug-31-2004.jpg
+image: /static/img/rock/stacks/stacks-circle-bar-aug-31-2004/stacks-flyer-circle-aug-31-2004.jpg
 tags:
   - post
   - New Orleans

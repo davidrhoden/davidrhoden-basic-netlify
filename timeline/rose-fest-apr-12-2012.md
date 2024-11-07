@@ -4,7 +4,7 @@ date: 2014-04-05T18:00:00.000Z
 excerpt: The Stacks played.
 summary: The Stacks played.
 category: designs
-image: designs/rose-fest-flyer-apr-7-2012.jpg
+image: /static/img/designs/rose-fest-flyer-apr-7-2012.jpg
 tags:
   - post 
   - New Orleans

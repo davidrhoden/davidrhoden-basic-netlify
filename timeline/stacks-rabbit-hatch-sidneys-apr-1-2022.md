@@ -3,7 +3,7 @@ title: The Stacks and Rabbit Hatch play at Sidney's Saloon.
 date: 2022-04-01T22:00:00.000Z
 summary: It's a reunion for Rabbit Hatch, who last played in 2005.
 excerpt: It's a reunion for Rabbit Hatch, who last played in 2005.
-image: rock/stacks/stacks-flyer-apr-1-2022.jpg
+image: /static/img/rock/stacks/stacks-flyer-apr-1-2022.jpg
 tags:
   - post
   - rock

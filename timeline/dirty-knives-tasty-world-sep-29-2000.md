@@ -3,7 +3,7 @@ title: Dirty Knives played with The Woggles at Tasty World in Athens.
 date: 2000-09-29T22:00:00.000Z
 summary: I guess the Woggles had a guarantee and we didn't but they gave us ten bucks for gas.
 excerpt: I guess the Woggles had a guarantee and we didn't but they gave us ten bucks for gas.
-image: rock/dirty-knives/dirty-knives-tasty-world-sep-29-2000.jpg
+image: /static/img/rock/dirty-knives/dirty-knives-tasty-world-sep-29-2000.jpg
 tags:
   - post 
   - rock

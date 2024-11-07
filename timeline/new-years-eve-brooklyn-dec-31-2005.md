@@ -2,7 +2,7 @@
 title: I went to Union Pool for New Year's and met Hannibal.
 date: 2005-12-31T23:59:00.000Z
 category: timeline
-image: timeline/hannibal-nye-dec-31-2005/mighty-hannibal-dec-31-2005.jpg
+image: /static/img/timeline/hannibal-nye-dec-31-2005/mighty-hannibal-dec-31-2005.jpg
 tags:
   - post 
   - parties

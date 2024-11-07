@@ -1,7 +1,7 @@
 ---
 title: Clark Street flooded. My neighbor came in the house to wake me up and tell me.
 date: 2017-07-22T02:00:00.000Z
-image: timeline/flood-clark-st-jul-22-2017.jpg
+image: /static/img/timeline/flood-clark-st-jul-22-2017.jpg
 tags:
   - post 
   - New Orleans

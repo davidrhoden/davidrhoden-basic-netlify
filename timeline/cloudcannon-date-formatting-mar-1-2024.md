@@ -3,7 +3,7 @@
   date: 2024-03-01T00:00:00
   excerpt: The computer could easily tell me the exact date, but the people programming the app want it to seem friendly.
   summary: The computer could easily tell me the exact date, but the people programming the app want it to seem friendly.
-  image: /timeline/cloudcannon-date-formatting.png
+  image: /static/img/timeline/cloudcannon-date-formatting.png
   tags:
     - noates
     - date formatting

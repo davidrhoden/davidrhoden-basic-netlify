@@ -1,7 +1,7 @@
 ---
 title: Happened on a train-trailer collision in Arabi.
 date: 2022-03-11T11:00:00.000Z
-image: timeline/train-collision-arabi-mar-11-2022.jpg
+image: /static/img/timeline/train-collision-arabi-mar-11-2022.jpg
 tags:
   - post 
   - trains

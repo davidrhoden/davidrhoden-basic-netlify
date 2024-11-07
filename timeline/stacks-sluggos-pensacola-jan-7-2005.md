@@ -3,7 +3,7 @@ title: The Stacks played Sluggo's in Pensacola.
 date: 2005-01-07T22:00:00.000Z
 summary: I sort of made an ass of myself.
 excerpt: I sort of made an ass of myself.
-image: rock/stacks/stacks-pandemic-recordings-with-andre-red.jpg
+image: /static/img/rock/stacks/stacks-pandemic-recordings-with-andre-red.jpg
 tags:
   - post
   - rock

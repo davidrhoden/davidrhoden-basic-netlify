@@ -3,7 +3,7 @@ title: I went walking on the levee and snapped a sympathy card-worthy sunset.
 date: 2024-09-23T00:00:00
 excerpt: 
 summary: 
-image: timeline/sympathy-card-sunset-sep-23-2024.jpg
+image: /static/img/timeline/sympathy-card-sunset-sep-23-2024.jpg
 tags:
   - The Levee
   - sunsets

@@ -1,7 +1,7 @@
 ---
 title: Dirty Knives played Mermaid Lounge with Westbury Squares and Astroblast.
 date: 2001-03-01T22:00:00.000Z
-image: rock/dirty-knives/dirty-knives-mermaid-mar-1-2001.jpg
+image: /static/img/rock/dirty-knives/dirty-knives-mermaid-mar-1-2001.jpg
 tags:
   - post 
   - rock

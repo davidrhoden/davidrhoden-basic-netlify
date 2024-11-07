@@ -3,7 +3,7 @@ title: We had a great return to Mardi Gras.
 date: 2022-03-01T21:00:00.000Z
 summary: I hurt my foot though, and couldn't really walk the next day.
 excerpt: I hurt my foot though, and couldn't really walk the next day.
-image: timeline/mardi-gras-mar-1-2022/gina-david-mar-1-2022.jpg
+image: /static/img/timeline/mardi-gras-mar-1-2022/gina-david-mar-1-2022.jpg
 tags:
   - post
   - New Orleans

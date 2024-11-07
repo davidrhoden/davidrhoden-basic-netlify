@@ -1,7 +1,7 @@
 ---
 title: Gina went to City Hall and sent me a picture of a map.
 date: 2021-10-15T14:00:00.000Z
-image: /timeline/map-of-tricou-1893-oct-15-2021.jpg
+image: /static/img/timeline/map-of-tricou-1893-oct-15-2021.jpg
 excerpt: The street names around here have changed since 1893.
 summary:
 tags:

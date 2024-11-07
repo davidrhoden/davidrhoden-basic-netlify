@@ -2,7 +2,7 @@
 title: Stacks play Thursday, June 27 at Holy Diver with Luxurious Faux Furs and Blue Shades.
 date: 2024-06-27T17:00:00.000Z
 summary: June 29, 2024. 9 - 12 p.m.
-image: rock/stacks/stacks-flyer-holy-diver-lufofu-jun-27-2024/stacks-flyer-lufofu-color-1-jun-27-2024.jpg
+image: /static/img/rock/stacks/stacks-flyer-holy-diver-lufofu-jun-27-2024/stacks-flyer-lufofu-color-1-jun-27-2024.jpg
 tags:
   - post 
   - news

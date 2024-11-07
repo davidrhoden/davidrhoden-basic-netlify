@@ -2,7 +2,7 @@
 title: Stacks played at Circle Bar.
 date: 2013-12-28T22:00:00.000Z
 category: rock
-image: rock/stacks/stacks-pandemic-recordings-with-andre-red.jpg
+image: /static/img/rock/stacks/stacks-pandemic-recordings-with-andre-red.jpg
 tags:
   - post 
   - rock

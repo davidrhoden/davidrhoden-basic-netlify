@@ -4,7 +4,7 @@ date: 2003-08-30T21:00:00.000Z
 summary: A huge handful of people came.
 excerpt: A huge handful of people came.
 category: timeline
-image: rock/all-night-movers/hi-ho-lounge-aug-30-2003/anmhiholounge02.jpg
+image: /static/img/rock/all-night-movers/hi-ho-lounge-aug-30-2003/anmhiholounge02.jpg
 tags:
   - post
   - rock

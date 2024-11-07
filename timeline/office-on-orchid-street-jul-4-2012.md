@@ -3,7 +3,7 @@ title: I had a nice office on Orchid Street.
 date: 2012-04-04T12:00:00.000Z
 excerpt: I just gave the drawing board away, eventually.
 summary: I just gave the drawing board away, eventually.
-image: timeline/my-nice-office-on-orchid-jul-4-2012/my-nice-office-on-orchid-jul-4-2012-1.jpg
+image: /static/img/timeline/my-nice-office-on-orchid-jul-4-2012/my-nice-office-on-orchid-jul-4-2012-1.jpg
 tags:
   - post 
   - New Orleans

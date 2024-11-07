@@ -4,7 +4,7 @@ date: 2012-07-01T12:00:00.000Z
 excerpt: Trey is a good sport to keep sailing with me.
 summary: Trey is a good sport to keep sailing with me.
 category: timeline
-image: timeline/regatta-jul-1-2012/regatta-jul-1-2012-on-boat.jpg
+image: /static/img/timeline/regatta-jul-1-2012/regatta-jul-1-2012-on-boat.jpg
 tags:
   - post 
   - Pensacola

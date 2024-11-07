@@ -4,7 +4,7 @@ date: 2007-09-18T16:00:00.000Z
 summary: I knew she would be mine, there was never any doubt.
 excerpt: I knew she would be mine, there was never any doubt.
 category: sally
-image: sally/sally-first-day-sep-18-2007/sally-first-day-sep-18-2007-sallycloseup.jpg
+image: /static/img/sally/sally-first-day-sep-18-2007/sally-first-day-sep-18-2007-sallycloseup.jpg
 tags:
   - post 
   - cats 

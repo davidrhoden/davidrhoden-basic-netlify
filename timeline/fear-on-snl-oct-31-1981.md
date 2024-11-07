@@ -3,7 +3,7 @@ title: I saw Fear on Saturday Night Live.
 date: 1981-10-31T20:57:00.000Z
 summary: This really did seem wild at the time. 
 excerpt: This really did seem wild at the time. 
-image: timeline/fear-snl-oct-31-1981.webp
+image: /static/img/timeline/fear-snl-oct-31-1981.webp
 tags:
   - post
   - Chattanooga

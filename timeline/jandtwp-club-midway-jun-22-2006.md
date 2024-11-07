@@ -3,7 +3,7 @@ title: Jimmy and The Wolfpack played Club Midway.
 date: 2006-06-22T22:00:00.000Z
 excerpt: This wasn't a happy show.
 summary: This wasn't a happy show.
-image: rock/jandtwp-cd-cover.jpg
+image: /static/img/rock/jandtwp-cd-cover.jpg
 tags:
   - post
   - rock

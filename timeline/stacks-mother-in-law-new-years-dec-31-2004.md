@@ -3,7 +3,7 @@ title: Stacks played New Year's Eve at Ernie K-Doe's Mother-In-Law Lounge with L
 date: 2003-12-31T22:00:00.000Z
 summary: We had nothing to hold the kick drum in place so for a while I sat in front of it.
 excerpt: We had nothing to hold the kick drum in place so for a while I sat in front of it.
-image: rock/stacks/stacks-pandemic-recordings-with-andre-red.jpg
+image: /static/img/rock/stacks/stacks-pandemic-recordings-with-andre-red.jpg
 category: rock
 tags:
   - post 

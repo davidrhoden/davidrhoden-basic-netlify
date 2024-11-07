@@ -4,7 +4,7 @@ date: 2008-01-11T08:00:00.000Z
 summary: I stayed up all night to catch a morning plane.
 excerpt: I stayed up all night to catch a morning plane.
 category: rock
-image: rock/headless-hookers-saint-poster-jan-11-2008.jpg
+image: /static/img/rock/headless-hookers-saint-poster-jan-11-2008.jpg
 tags:
   - post 
   - New Orleans

@@ -3,7 +3,7 @@
   date: 2024-03-13T00:00:00
   excerpt: I think it's a Missisippi Kite, but maybe it's too big for that?
   summary: I think it's a Missisippi Kite, but maybe it's too big for that?
-  image: timeline/kite-or-hawk-1-mar-13-2024.jpeg
+  image: /static/img/timeline/kite-or-hawk-1-mar-13-2024.jpeg
   tags:
     - The Levee
     - birds

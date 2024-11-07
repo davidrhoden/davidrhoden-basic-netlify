@@ -3,7 +3,7 @@ title: Sally slept in a sunbeam.
 date: 2015-03-27T13:00:00.000Z
 summary: This apartment was comfortable. I hardly left it.
 excerpt: This apartment was comfortable. I hardly left it.
-image: sally/sally-in-sunbeam-austin-mar-27-2015/sally-in-sunbeam-austin-mar-27-2015-6.jpg
+image: /static/img/sally/sally-in-sunbeam-austin-mar-27-2015/sally-in-sunbeam-austin-mar-27-2015-6.jpg
 tags:
   - post 
   - cats 

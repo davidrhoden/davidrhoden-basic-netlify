@@ -2,7 +2,7 @@
 title: A raccoon tried to crash our bonfire.
 date: 2021-10-18T18:00:00.000Z
 category: timeline
-image: timeline/raccoon-1-oct-18-2021.jpg
+image: /static/img/timeline/raccoon-1-oct-18-2021.jpg
 tags:
   - post 
   - fires

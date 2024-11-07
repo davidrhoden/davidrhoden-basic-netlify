@@ -4,7 +4,7 @@ date: 2003-01-09T21:00:00.000Z
 summary: We played with a band called The A-Sides.
 excerpt: We played with a band called The A-Sides.
 category: timeline
-image: rock/all-night-movers/us-tour-jan-9-11-2003/anm-georgia-07.jpg
+image: /static/img/rock/all-night-movers/us-tour-jan-9-11-2003/anm-georgia-07.jpg
 tags:
   - post
   - rock

@@ -3,7 +3,7 @@ title: I saw Talking Heads on Saturday Night Live.
 date: 1979-02-10T20:57:00.000Z
 summary: I wish I still had the More Songs About Buildings And Food album.
 excerpt: I wish I still had the More Songs About Buildings And Food album.
-image: timeline/talking-heads-snl-feb-10-1979.jpg
+image: /static/img/timeline/talking-heads-snl-feb-10-1979.jpg
 tags:
   - post
   - Chattanooga

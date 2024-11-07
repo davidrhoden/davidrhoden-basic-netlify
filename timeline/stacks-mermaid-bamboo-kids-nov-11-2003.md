@@ -3,7 +3,7 @@ title: The Stacks played The Mermaid Lounge with Bamboo Kids.
 date: 2003-11-11T22:00:00.000Z
 summary: We did an interview on WTUL before the show.
 excerpt: We did an interview on WTUL before the show.
-image: rock/stacks/stacks-pandemic-recordings-with-andre-red.jpg
+image: /static/img/rock/stacks/stacks-pandemic-recordings-with-andre-red.jpg
 category: rock
 tags:
   - post

@@ -1,7 +1,7 @@
 ---
 title: Dirty Knives played Bandito Burrito in Huntsville, Alabama.
 date: 2001-09-14T22:00:00.000Z
-image: rock/dirty-knives/dirty-knives-bandito-burrito-1990.jpg
+image: /static/img/rock/dirty-knives/dirty-knives-bandito-burrito-1990.jpg
 summary: The picture is from 1990, found on a website.
 excerpt: The picture is from 1990, found on a website.
 tags:

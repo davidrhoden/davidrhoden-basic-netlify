@@ -4,7 +4,7 @@ date: 2009-01-25T22:00:00.000Z
 summary: One of my coworkers really made an impression on me.
 excerpt: One of my coworkers really made an impression on me.
 category: rock
-image: rock/jandtwp-lakeside-red-shirt/david-drumming-at-lakeside-red-shirt-1.jpg
+image: /static/img/rock/jandtwp-lakeside-red-shirt/david-drumming-at-lakeside-red-shirt-1.jpg
 tags:
   - post
   - Jimmy and The Wolfpack

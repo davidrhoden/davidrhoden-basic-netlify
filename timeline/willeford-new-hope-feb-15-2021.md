@@ -2,7 +2,7 @@
 title: I read a Charles Willeford book out loud to Gina.
 date: 2021-02-15T21:00:00.000Z
 category: timeline
-image: timeline/willeford-new-hope-feb-15-2021.jpg
+image: /static/img/timeline/willeford-new-hope-feb-15-2021.jpg
 tags:
   - post
   - New Orleans

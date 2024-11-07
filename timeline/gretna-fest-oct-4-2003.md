@@ -4,7 +4,7 @@ date: 2003-10-04T13:00:00.000Z
 summary: It was as if they designed this show specifically for me.
 excerpt: It was as if they designed this show specifically for me.
 category: timeline
-image: timeline/clarence-carter-gretna-fest-oct-4-2003.jpg
+image: /static/img/timeline/clarence-carter-gretna-fest-oct-4-2003.jpg
 tags:
   - post
   - rock

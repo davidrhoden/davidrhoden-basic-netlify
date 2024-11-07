@@ -4,7 +4,7 @@ date: 2014-11-22T20:00:00.000Z
 summary: I thought the interviewer was trying to get info out of me to steal my identity.
 excerpt: I thought the interviewer was trying to get info out of me to steal my identity.
 category: press
-image: timeline/cosby-article-screenshot.png
+image: /static/img/timeline/cosby-article-screenshot.png
 tags:
   - post 
   - Austin

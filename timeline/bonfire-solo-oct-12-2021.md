@@ -4,7 +4,7 @@ date: 2021-10-12T18:00:00.000Z
 summary: Still getting rid of Ida debris.
 excerpt: Still getting rid of Ida debris.
 category: timeline
-image: timeline/bonfire-solo-oct-12-2021.jpg
+image: /static/img/timeline/bonfire-solo-oct-12-2021.jpg
 tags:
   - post 
   - note

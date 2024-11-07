@@ -4,7 +4,7 @@
   date: 2024-03-09T00:00:00
   excerpt: Buddy finally let me get a picture of his cloudy eye.
   summary: Buddy finally let me get a picture of his cloudy eye.
-  image: timeline/buddy-cloudy-eye-mar-9-2024.jpeg
+  image: /static/img/timeline/buddy-cloudy-eye-mar-9-2024.jpeg
   tags:
     - cats
     - Buddy

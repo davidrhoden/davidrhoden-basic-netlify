@@ -3,7 +3,7 @@ title: "The Stacks played at Dr. Cliff Davis's garage again."
 date: 2005-06-04T20:00:00.000Z
 summary: The second of a couple of excellent garage shows.
 excerpt: The second of a couple of excellent garage shows.
-image: timeline/burning_barbie.jpg
+image: /static/img/timeline/burning_barbie.jpg
 category: rock
 tags:
   - post

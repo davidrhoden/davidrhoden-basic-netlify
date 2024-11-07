@@ -3,7 +3,7 @@ title: Notes for July 20, 2024.
 date: 2024-07-20T00:00:00
 excerpt: Buddy continued getting better and better, I saw a Shakespeare play, and for some reason I painted a stop sign.
 summary: Buddy continued getting better and better, I saw a Shakespeare play, and for some reason I painted a stop sign.
-image: buddy/buddy-eye-healing-jul-19-2024.jpg
+image: /static/img/buddy/buddy-eye-healing-jul-19-2024.jpg
 tags:
   - cats
   - Buddy

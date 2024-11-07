@@ -1,7 +1,7 @@
 ---
 title: All-Night movers got a song on a compilation.
 date: 2003-11-15T11:00:00.000Z
-image: rock/all-night-movers/it-came-from-uranus-nov-2003.jpg
+image: /static/img/rock/all-night-movers/it-came-from-uranus-nov-2003.jpg
 tags:
   - post 
   - rock

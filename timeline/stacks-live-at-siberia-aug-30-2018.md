@@ -3,7 +3,7 @@ title: The Stacks played Siberia.
 date: 2018-08-30T17:00:00.000Z
 summary: Here's the recording from that show.
 excerpt: Here's the recording from that show.
-image: rock/stacks/stacks-siberia-aug-30-2018.jpg
+image: /static/img/rock/stacks/stacks-siberia-aug-30-2018.jpg
 tags:
   - post 
   - rock

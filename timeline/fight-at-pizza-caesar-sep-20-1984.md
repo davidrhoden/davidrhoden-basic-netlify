@@ -4,7 +4,7 @@ date: 1984-09-20T22:00:00.000Z
 summary: Very hard to recreate the date on this event.
 excerpt: Very hard to recreate the date on this event.
 category: timeline
-image: timeline/embassy-bombing-beirut-nancy-wong-sep-20-1984.jpg
+image: /static/img/timeline/embassy-bombing-beirut-nancy-wong-sep-20-1984.jpg
 tags:
   - post 
   - Chattanooga

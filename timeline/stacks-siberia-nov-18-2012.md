@@ -3,7 +3,7 @@ title: Stacks at Siberia with Happy Talk and a play.
 date: 2012-11-18T11:00:00.000Z
 summary: a very quickly drawn flyer
 category: rock
-image: rock/stacks/stacks-flyer-luchador-11-18-2012.jpg
+image: /static/img/rock/stacks/stacks-flyer-luchador-11-18-2012.jpg
 tags:
   - post
   - rock

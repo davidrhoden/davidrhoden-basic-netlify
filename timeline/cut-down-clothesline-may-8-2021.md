@@ -2,7 +2,7 @@
 title: I cut down an old clothesline support and it was a lot harder than I thought it would be.
 date: 2021-05-08T14:00:00.000Z
 category: timeline
-image: timeline/clothesline-may-8-2021/cut-down-clothesline-may-8-2021.jpg
+image: /static/img/timeline/clothesline-may-8-2021/cut-down-clothesline-may-8-2021.jpg
 tags:
   - post 
   - New Orleans

@@ -3,7 +3,7 @@
   date: 2024-03-29T00:00:00
   excerpt: 
   summary: 
-  image: sketchbook/your-dune-edit-mar-29-2024.jpeg
+  image: /static/img/sketchbook/your-dune-edit-mar-29-2024.jpeg
   tags:
     - dreamed
     - Dune

@@ -1,7 +1,7 @@
 ---
 title: Dirty Knives played the Mermaid with Fireballs of Freedom.
 date: 2001-05-16T22:00:00.000Z
-image: timeline/fireballs-of-freedom-may-16-2001.jpg
+image: /static/img/timeline/fireballs-of-freedom-may-16-2001.jpg
 tags:
   - post 
   - rock

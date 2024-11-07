@@ -1,7 +1,7 @@
 ---
 title: Saw Tyler Keith and Redondo Beat at Santos, our last show before the pandemic.
 date: 2020-03-08T08:00:00.000Z
-image: timeline/tyler-keith-by-chris-g-mar-8-2020.jpg
+image: /static/img/timeline/tyler-keith-by-chris-g-mar-8-2020.jpg
 tags:
   - post 
   - rock

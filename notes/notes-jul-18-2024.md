@@ -3,7 +3,7 @@ title: Notes for July 18, 2024.
 date: 2024-07-18T00:00:00
 excerpt: Buddy continued getting better, Google Photos vs Apple Photos, and we said goodbye to Bob Newhart.
 summary: Buddy continued getting better, Google Photos vs Apple Photos, and we said goodbye to Bob Newhart.
-image: buddy/buddy-stitches-out-1-jul-16-2024.jpeg
+image: /static/img/buddy/buddy-stitches-out-1-jul-16-2024.jpeg
 tags:
   - cats
   - Buddy

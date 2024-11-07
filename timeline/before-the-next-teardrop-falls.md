@@ -4,7 +4,7 @@ date: 2020-02-24T18:00:00.000Z
 summary: Once when I was a teenager, maybe fifteen, I answered the phone. It was my mom's mother, Grandma Vada. She asked me a question. 
 excerpt: Once when I was a teenager, maybe fifteen, I answered the phone. It was my mom's mother, Grandma Vada. She asked me a question. 
 category: timeline
-image: timeline/freddy-fender-facesleeve.jpg
+image: /static/img/timeline/freddy-fender-facesleeve.jpg
 tags:
   - post
   - stories

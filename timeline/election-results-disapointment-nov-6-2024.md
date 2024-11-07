@@ -3,7 +3,7 @@ title: I'm very disappointed about the election, and how the media lied to us an
 date: 2024-11-06T00:00:00
 excerpt: Apparently the Harris campaign thought that instead of motivating the base they could get fifteen million Republicans like this one pictured here to stand in line to vote Democrat.
 summary: Apparently the Harris campaign thought that instead of motivating the base they could get fifteen million Republicans like this one pictured here to stand in line to vote Democrat.
-image: /timeline/election-live-harris-concession-nov-6-2024.webp
+image: /static/img/timeline/election-live-harris-concession-nov-6-2024.webp
 tags:
   - 2024 Election
   - elections

@@ -3,7 +3,7 @@ title: I found a shed snake skin in my fire pit.
 date: 2021-08-21T16:00:00.000Z
 summary: Which probably means there's a snake in my fire pit.
 excerpt: Which probably means there's a snake in my fire pit.
-image: timeline/shed-snakeskin-aug-21-2021.jpg
+image: /static/img/timeline/shed-snakeskin-aug-21-2021.jpg
 tags:
   - post 
   - snakes

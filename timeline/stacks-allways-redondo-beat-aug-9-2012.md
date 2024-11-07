@@ -3,7 +3,7 @@ title: Stacks played at Allways Lounge with Redondo Beat.
 date: 2012-08-09T21:00:00.000Z
 summary: Attendance was sparse.
 excerpt: Attendance was sparse.
-image: rock/stacks/stacks-pandemic-recordings-with-andre-red.jpg
+image: /static/img/rock/stacks/stacks-pandemic-recordings-with-andre-red.jpg
 category: rock
 tags:
   - post

@@ -3,7 +3,7 @@ title: Stacks played the Mermaid Lounge.
 date: 2003-09-06T22:00:00.000Z
 summary: I don't remember it, somebody remind me.
 excerpt: I don't remember it, somebody remind me.
-image: rock/stacks/stacks-pandemic-recordings-with-andre-red.jpg
+image: /static/img/rock/stacks/stacks-pandemic-recordings-with-andre-red.jpg
 category: rock
 tags:
   - post 

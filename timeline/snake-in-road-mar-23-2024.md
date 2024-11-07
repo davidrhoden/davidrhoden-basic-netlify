@@ -3,7 +3,7 @@
   date: 2024-03-23T00:00:00
   excerpt: They're overall harmless but they will bite. Mostly they're good at getting away.
   summary: They're overall harmless but they will bite. Mostly they're good at getting away.
-  image: timeline/black-racer-in-road-mar-23-2024.jpeg
+  image: /static/img/timeline/black-racer-in-road-mar-23-2024.jpeg
   tags:
     - 315 Tricou
     - New Orleans

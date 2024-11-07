@@ -4,7 +4,7 @@ date: 2020-08-07T12:00:00.000Z
 summary: Just fooling around.
 excerpt: Just fooling around.
 category: animations
-image: timeline/stretchy-face.jpg
+image: /static/img/timeline/stretchy-face.jpg
 tags:
   - post 
   - animation

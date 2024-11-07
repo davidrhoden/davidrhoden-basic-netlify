@@ -1,7 +1,7 @@
 ---
 title: Sleepy Heads played Circle Bar.
 date: 2001-10-06T22:00:00.000Z
-image: rock/sleepyheads/sleepyheads-circle-bar-12.jpg
+image: /static/img/rock/sleepyheads/sleepyheads-circle-bar-12.jpg
 tags:
   - post 
   - rock

@@ -3,7 +3,7 @@ title: The Stacks played at the Brooklyn Lyceum for a Katrina benefit.
 date: 2006-09-16T20:00:00.000Z
 summary: Not sure if we benefited from it, but it was a good time.
 excerpt: Not sure if we benefited from it, but it was a good time.
-image: rock/stacks/stacks-in-photo-booth-sep-16-2006.jpg
+image: /static/img/rock/stacks/stacks-in-photo-booth-sep-16-2006.jpg
 category: rock
 tags:
   - post

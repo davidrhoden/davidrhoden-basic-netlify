@@ -3,7 +3,7 @@ title: We waited for Hurricane Francine.
 date: 2024-09-11T00:00:00
 excerpt: This one knocked our power out for a day.
 summary: This one knocked our power out for a day.
-image: timeline/francine-track-sep-11-2024.png
+image: /static/img/timeline/francine-track-sep-11-2024.png
 tags:
   - New Orleans
   - 315 Tricou Street

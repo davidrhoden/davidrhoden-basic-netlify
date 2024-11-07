@@ -4,7 +4,7 @@ date: 2021-09-06T11:00:00.000Z
 summary: He fell out first.
 excerpt: He fell out first.
 category: timeline
-image: buddy/buddy-napping-sep-6-2021.jpg
+image: /static/img/buddy/buddy-napping-sep-6-2021.jpg
 tags:
   - post 
   - New Orleans

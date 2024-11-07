@@ -4,7 +4,7 @@ date: 1999-06-11T11:00:00.000Z
 summary: The Innuendos played a gig with a couple of favorite NYC bands.
 excerpt: The Innuendos played a gig with a couple of favorite NYC bands.
 category: rock
-image: rock/innuendos-chimpcard.jpg
+image: /static/img/rock/innuendos-chimpcard.jpg
 tags:
   - post 
   - rock

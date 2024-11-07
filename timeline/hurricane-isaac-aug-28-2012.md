@@ -4,7 +4,7 @@ date: 2012-08-28T16:00:00.000Z
 summary: My power was out for days.
 excerpt: My power was out for days.
 category: timeline
-image: timeline/hurricane-isaac-aug-28-2012/isaac1.jpg
+image: /static/img/timeline/hurricane-isaac-aug-28-2012/isaac1.jpg
 tags:
   - post 
   - New Orleans

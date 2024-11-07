@@ -4,7 +4,7 @@ date: 2019-01-11T12:00:00.000Z
 summary: Shared the space with Karen Ocker.
 excerpt: Shared the space with Karen Ocker.
 category: paintings
-image: timeline/paintings-at-bywater-bakery-jan-11-2019.jpg
+image: /static/img/timeline/paintings-at-bywater-bakery-jan-11-2019.jpg
 tags:
   - post 
   - paintings

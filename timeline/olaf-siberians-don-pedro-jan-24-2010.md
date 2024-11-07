@@ -3,7 +3,7 @@ title: I played drums for one show with Olaf and The Siberians.
 date: 2010-02-04T22:00:00.000Z
 summary: I'm not sure about the date on this.
 excerpt: I'm not sure about the date on this.
-image: rock/dave-todd-colberg-don-pedro-feb-4-2010.jpg
+image: /static/img/rock/dave-todd-colberg-don-pedro-feb-4-2010.jpg
 category: rock
 tags:
   - post

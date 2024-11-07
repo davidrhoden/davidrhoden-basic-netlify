@@ -3,7 +3,7 @@
   date: 2024-04-08T00:00:00
   excerpt: My newsletter.
   summary: My newsletter.
-  image: designs/Stacks-HTB-checkpoints-apr-13-2024.jpeg
+  image: /static/img/designs/Stacks-HTB-checkpoints-apr-13-2024.jpeg
   tags:
     - rock
     - shows

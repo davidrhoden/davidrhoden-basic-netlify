@@ -1,7 +1,7 @@
 ---
 title: Jimmy and The Wolfpack played Don Pedro's.
 date: 2008-01-12T22:00:00.000Z
-image: rock/jandtwp-cd-cover.jpg
+image: /static/img/rock/jandtwp-cd-cover.jpg
 tags:
   - post
   - rock

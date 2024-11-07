@@ -4,7 +4,7 @@ date: 2021-12-03T12:00:00.000Z
 summary: I should have planned the party a little better.
 excerpt: I should have planned the party a little better.
 category: timeline
-image: sketchbook/20000-days-old-dec-2-2021.jpg
+image: /static/img/sketchbook/20000-days-old-dec-2-2021.jpg
 tags:
   - post 
   - age

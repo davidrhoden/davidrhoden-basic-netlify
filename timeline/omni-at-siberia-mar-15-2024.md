@@ -3,7 +3,7 @@
   date: 2024-03-15T00:00:00
   excerpt: Bands from Atlanta aren't usually as audience-friendly as these guys were.
   summary: Bands from Atlanta aren't usually as audience-friendly as these guys were.
-  image: timeline/omni-3-mar-15-2024.jpeg
+  image: /static/img/timeline/omni-3-mar-15-2024.jpeg
   tags:
     - rock
     - shows

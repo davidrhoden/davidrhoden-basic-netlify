@@ -3,7 +3,7 @@ title: I saw The Big Lebowski on opening night.
 date: 1998-03-06T00:00:00
 excerpt: You have to remember this was opening night. There was no lore yet. 
 summary: You have to remember this was opening night. There was no lore yet. 
-image: timeline/The-Big-Lebowski-mar-6-1998.jpg
+image: /static/img/timeline/The-Big-Lebowski-mar-6-1998.jpg
 tags:
   - NYC
   - movies

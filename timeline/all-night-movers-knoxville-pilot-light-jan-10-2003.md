@@ -3,7 +3,7 @@ title: All-Night Movers played the Pilot Light in Knoxville.
 date: 2003-01-10T12:00:00.000Z
 summary: A comedian opened the show.
 excerpt: A comedian opened the show.
-image: rock/all-night-movers/us-tour-jan-9-11-2003/anm-georgia-08.jpg
+image: /static/img/rock/all-night-movers/us-tour-jan-9-11-2003/anm-georgia-08.jpg
 tags:
   - post 
   - rock

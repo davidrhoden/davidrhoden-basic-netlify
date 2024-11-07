@@ -2,7 +2,7 @@
 title: Another bonfire in my yard.
 date: 2021-04-07T18:00:00.000Z
 category: timeline
-image: timeline/bonfire-my-yard-1-apr-7-2021.jpg
+image: /static/img/timeline/bonfire-my-yard-1-apr-7-2021.jpg
 tags:
   - post 
   - New Orleans

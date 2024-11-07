@@ -1,7 +1,7 @@
 ---
 title: Dirty Knives played the Mermaid with the Quaalords.
 date: 2001-06-09T22:00:00.000Z
-image: rock/dirty-knives/dirty-knives-dixie-taverne.jpg
+image: /static/img/rock/dirty-knives/dirty-knives-dixie-taverne.jpg
 tags:
   - post 
   - rock

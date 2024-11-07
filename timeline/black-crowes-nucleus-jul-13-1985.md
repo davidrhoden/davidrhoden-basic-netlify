@@ -4,7 +4,7 @@ date: 1985-07-13T21:00:00.000Z
 excerpt: They were the opening band. They were pretty good.
 summary: They were the opening band. They were pretty good.
 category: rock
-image: timeline/black-crowes-nucleus-jul-13-1985.jpg
+image: /static/img/timeline/black-crowes-nucleus-jul-13-1985.jpg
 tags:
   - post 
   - rock

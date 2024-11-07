@@ -3,7 +3,7 @@ title: I saw the Rolling Stones do "Shattered" on Saturday Night Live.
 date: 1978-10-14T20:57:00.000Z
 summary: Our mom switched it off halfway through though.
 excerpt: Our mom switched it off halfway through though.
-image: timeline/stones-snl-oct-7-1978.png
+image: /static/img/timeline/stones-snl-oct-7-1978.png
 tags:
   - post
   - Chattanooga

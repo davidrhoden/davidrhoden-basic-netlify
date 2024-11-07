@@ -3,7 +3,7 @@ title: All-Night Movers started a Southern tour.
 date: 2003-01-09T12:00:00.000Z
 summary: We started in Athens but we didn't actually play there.
 excerpt:  We started in Athens but we didn't actually play there.
-image: rock/all-night-movers/us-tour-jan-9-11-2003/anm-georgia-01.jpg
+image: /static/img/rock/all-night-movers/us-tour-jan-9-11-2003/anm-georgia-01.jpg
 tags:
   - post 
   - Georgia

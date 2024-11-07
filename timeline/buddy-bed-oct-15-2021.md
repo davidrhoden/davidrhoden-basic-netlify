@@ -2,7 +2,7 @@
 title: I took a picture of Buddy on the bed.
 date: 2021-10-15T12:00:00.000Z
 category: timeline
-image: buddy/buddy-bed-oct-15-2021.jpg
+image: /static/img/buddy/buddy-bed-oct-15-2021.jpg
 tags:
   - post
   - New Orleans

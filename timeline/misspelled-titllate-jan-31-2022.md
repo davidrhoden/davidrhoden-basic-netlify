@@ -4,7 +4,7 @@ date: 2022-01-31T18:00:00.000Z
 summary: I'm really questioning everything now.
 excerpt: I'm really questioning everything now.
 category: timeline
-image: timeline/misspelled-titillate-jan-31-2022.png
+image: /static/img/timeline/misspelled-titillate-jan-31-2022.png
 tags:
   - post 
   - spelling

@@ -4,7 +4,7 @@ date: 2022-02-19T11:00:00.000Z
 summary: The lady who sold them looked at me like I was too dumb to care for a plant.
 excerpt: The lady who sold them looked at me like I was too dumb to care for a plant.
 category: timeline
-image: timeline/dwarf-bottlebrush-1-feb-19-2022.jpg
+image: /static/img/timeline/dwarf-bottlebrush-1-feb-19-2022.jpg
 tags:
   - post 
   - New Orleans

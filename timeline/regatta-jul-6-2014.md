@@ -2,7 +2,7 @@
 title: I went to the 22nd Perdido Bay Intergalactic Sunfish Regatta.
 date: 2014-07-06T12:00:00.000Z
 
-image: timeline/regatta-jul-6-2014/regatta-jul-6-2014-9.jpg
+image: /static/img/timeline/regatta-jul-6-2014/regatta-jul-6-2014-9.jpg
 tags:
   - post 
   - regattas

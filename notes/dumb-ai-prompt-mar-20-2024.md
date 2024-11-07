@@ -3,7 +3,7 @@
   date: 2024-03-20T00:00:00
   excerpt: Apparently people can no longer write simple notes without the help of a computer.
   summary: Apparently people can no longer write simple notes without the help of a computer.
-  image: timeline/screenshot-of-dumb-ai-prompt-mar-20-2024.png
+  image: /static/img/timeline/screenshot-of-dumb-ai-prompt-mar-20-2024.png
   tags:
     - artificial intelligence
     - Gmail

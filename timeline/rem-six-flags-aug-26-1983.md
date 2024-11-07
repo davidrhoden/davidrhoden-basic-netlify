@@ -5,7 +5,7 @@ dateposted: 2021-03-04
 summary: I think The Judys opened.
 excerpt: I think The Judys opened.
 category: timeline
-image: timeline/rem-six-flags-aug-26-1983.jpg
+image: /static/img/timeline/rem-six-flags-aug-26-1983.jpg
 tags:
   - post 
   - rock

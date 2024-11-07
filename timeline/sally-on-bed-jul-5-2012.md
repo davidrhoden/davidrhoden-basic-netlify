@@ -2,7 +2,7 @@
 title: Sally relaxed.
 date: 2012-07-05T21:00:00.000Z
 category: sally
-image: sally/sally-on-bed-jul-5-2012.jpg
+image: /static/img/sally/sally-on-bed-jul-5-2012.jpg
 tags:
   - post
   - Sally

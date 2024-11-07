@@ -4,7 +4,7 @@ date: 2010-07-29T13:00:00.000Z
 summary: Friendly service, delicious gyros.
 excerpt: Friendly service, delicious gyros.
 category: timeline
-image: timeline/shady-halal-food-jul-28-2010.jpg
+image: /static/img/timeline/shady-halal-food-jul-28-2010.jpg
 tags:
   - post 
   - NYC

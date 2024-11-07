@@ -4,7 +4,7 @@ date: 1984-07-04T22:00:00.000Z
 summary: We went through so many drummers.
 excerpt: We went through so many drummers.
 category: rock
-image: rock/dial-a-miracle-band-photo.jpg
+image: /static/img/rock/dial-a-miracle-band-photo.jpg
 tags:
   - post 
   - rock

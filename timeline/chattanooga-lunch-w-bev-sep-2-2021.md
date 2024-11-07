@@ -4,7 +4,7 @@ date: 2021-09-02T12:00:00.000Z
 summary: Took a little tour of her office afterward. 
 excerpt: Took a little tour of her office afterward. 
 category: timeline
-image: timeline/bev-mini-drumstick-sep-2-2021.jpg
+image: /static/img/timeline/bev-mini-drumstick-sep-2-2021.jpg
 tags:
   - post 
   - Chattanooga

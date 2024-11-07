@@ -4,7 +4,7 @@ date: 2004-02-12T20:00:00.000Z
 summary: I said I would only be in the band if I could play drums. The thing is, I didn't know how to play drums.
 excerpt: I said I would only be in the band if I could play drums. The thing is, I didn't know how to play drums.
 category: timeline
-image: rock/maximvs/maximvs-big-top-feb-18-2004/maximvs-big-top-1-feb-18-2004.jpg
+image: /static/img/rock/maximvs/maximvs-big-top-feb-18-2004/maximvs-big-top-1-feb-18-2004.jpg
 tags:
   - post 
   - rock

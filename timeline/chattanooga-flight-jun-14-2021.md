@@ -4,7 +4,7 @@ date: 2021-06-14T13:00:00.000Z
 summary: I hate flying, especially Delta. Hard crosswords help, but only to a degree.
 excerpt:  I hate flying, especially Delta. Hard crosswords help, but only to a degree.
 category: timeline
-image: timeline/chattanooga/chattanooga-flight-jun-14-2021.jpg
+image: /static/img/timeline/chattanooga/chattanooga-flight-jun-14-2021.jpg
 tags:
   - post 
   - flying

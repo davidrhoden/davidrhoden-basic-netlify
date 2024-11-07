@@ -4,7 +4,7 @@ date: 2003-01-31T21:00:00.000Z
 summary: The Bangs had a song called "Dirty Knives".
 excerpt: The Bangs had a song called "Dirty Knives".
 category: timeline
-image: timeline/HiHoLoungeExterior.jpg
+image: /static/img/timeline/HiHoLoungeExterior.jpg
 tags:
   - post
   - rock

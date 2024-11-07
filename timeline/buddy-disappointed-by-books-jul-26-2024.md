@@ -3,7 +3,7 @@
   date: 2024-07-26T00:00:00
   excerpt: It sounded like food.
   summary: It sounded like food.
-  image: buddy/buddy-thinks-this-bag-is-food-jul-26-2024.jpeg
+  image: /static/img/buddy/buddy-thinks-this-bag-is-food-jul-26-2024.jpeg
   tags:
     - cats
     - Buddy

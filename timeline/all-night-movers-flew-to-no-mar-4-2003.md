@@ -3,7 +3,7 @@ title: Slade and I flew to New Orleans on Mardi Gras.
 date: 2003-03-04T12:30:00.000Z
 summary: Concluding our first and only New York tour.
 excerpt: Concluding our first and only New York tour.
-image: rock/all-night-movers/hangman-mar-4-2003/anm-skymall-mar-4-2003.jpg
+image: /static/img/rock/all-night-movers/hangman-mar-4-2003/anm-skymall-mar-4-2003.jpg
 tags:
   - post
   - rock

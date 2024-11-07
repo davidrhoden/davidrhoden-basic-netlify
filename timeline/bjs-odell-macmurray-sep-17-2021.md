@@ -4,7 +4,7 @@ date: 2021-09-17T21:00:00.000Z
 summary: I don't know why it took so long for B.J.'s to start putting on shows in the yard.
 excerpt:  I don't know why it took so long for B.J.'s to start putting on shows in the yard.
 category: timeline
-image: timeline/julie-odell-sep-17-2021.jpg
+image: /static/img/timeline/julie-odell-sep-17-2021.jpg
 tags:
   - post
   - New Orleans

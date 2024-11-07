@@ -3,7 +3,7 @@ title: Found a snazzy nest in Gina's yard.
 date: 2021-06-17T08:00:00.000Z
 summary: Had some of the same striped tarp fiber that was in the last snazzy nest I saw.
 excerpt: Had some of the same striped tarp fiber that was in the last snazzy nest I saw.
-image: timeline/snazzy-nest-jun-17-2021.jpg
+image: /static/img/timeline/snazzy-nest-jun-17-2021.jpg
 tags:
   - post 
   - Gina

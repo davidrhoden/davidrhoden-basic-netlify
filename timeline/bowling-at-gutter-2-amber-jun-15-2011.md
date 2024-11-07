@@ -4,7 +4,7 @@ date: 2011-06-15T21:00:00.000Z
 summary: Featuring the obligatory bowling posterior shot.
 excerpt: Featuring the obligatory bowling posterior shot. 
 category: timeline
-image: timeline/bowling-at-gutter-2-amber-jun-15-2011.jpg
+image: /static/img/timeline/bowling-at-gutter-2-amber-jun-15-2011.jpg
 tags:
   - post
   - NYC

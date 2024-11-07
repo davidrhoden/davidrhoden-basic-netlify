@@ -4,7 +4,7 @@ date: 2012-06-17T16:00:00.000Z
 summary: My colleague Alex Hemard did the excellent, Bourbon Street inspired design.
 excerpt: My colleague Alex Hemard did the excellent, Bourbon Street inspired design.
 category: timeline
-image: timeline/jazzy-crawfish-shirt-1-jun-17-2012.jpg
+image: /static/img/timeline/jazzy-crawfish-shirt-1-jun-17-2012.jpg
 tags:
   - post
   - iSeatz

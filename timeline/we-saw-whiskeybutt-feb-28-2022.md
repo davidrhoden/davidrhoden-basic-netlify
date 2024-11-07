@@ -1,7 +1,7 @@
 ---
 title: We saw Whiskeybutt.
 date: 2022-02-28T13:00:00.000Z
-image: timeline/whiskeybutt-feb-28-2022/whiskeybutt-by-gina-1-feb-28-2022.jpg
+image: /static/img/timeline/whiskeybutt-feb-28-2022/whiskeybutt-by-gina-1-feb-28-2022.jpg
 tags:
   - post
   - New Orleans

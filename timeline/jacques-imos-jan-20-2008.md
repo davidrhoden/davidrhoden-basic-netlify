@@ -1,7 +1,7 @@
 ---
 title: We went to Jacques-Imo's for Melanie's birthday.
 date: 2008-01-20T11:00:00.000Z
-image: timeline/jacques-imos-jan-20-2008/jacques-imos-jan-20-2008-bday.jpg
+image: /static/img/timeline/jacques-imos-jan-20-2008/jacques-imos-jan-20-2008-bday.jpg
 tags:
   - post 
   - New Orleans

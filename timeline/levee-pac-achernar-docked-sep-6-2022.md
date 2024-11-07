@@ -1,7 +1,7 @@
 ---
 title: I've been walking two miles a day now for a week.
 date: 2022-09-07T11:00:00.000Z
-image: timeline/sunset-over-miss-river-aug-29-2022.jpg
+image: /static/img/timeline/sunset-over-miss-river-aug-29-2022.jpg
 tags:
   - note
   - post 

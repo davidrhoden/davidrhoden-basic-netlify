@@ -4,7 +4,7 @@ date: 2016-11-25T17:17:00.000Z
 excerpt: Nobody was hurt.
 summary: Nobody was hurt.
 category: timeline
-image: timeline/chattanooga/chattanooga-fire-nov-25-2016-1.jpg
+image: /static/img/timeline/chattanooga/chattanooga-fire-nov-25-2016-1.jpg
 tags:
   - post
   - Chattanooga

@@ -4,7 +4,7 @@ date: 2022-04-20T19:00:00.000Z
 summary: This big ol' scamp is growing on me.
 excerpt: This big ol' scamp is growing on me.
 category: timeline
-image: buddy/i-caught-buddy-apr-20-2022.jpg
+image: /static/img/buddy/i-caught-buddy-apr-20-2022.jpg
 tags:
   - post 
   - New Orleans

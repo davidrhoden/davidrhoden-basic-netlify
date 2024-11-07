@@ -4,7 +4,7 @@ date: 2021-06-20T17:00:00.000Z
 summary: I was sure it would storm, but it turned out really nice.
 excerpt: I was sure it would storm, but it turned out really nice.
 category: timeline
-image: timeline/tom-noy-wed-jun-20-2021/tom-noy-wed-1-jun-20-2021.jpg
+image: /static/img/timeline/tom-noy-wed-jun-20-2021/tom-noy-wed-1-jun-20-2021.jpg
 layout: layouts/page-gallery.njk
 tags:
   - post 

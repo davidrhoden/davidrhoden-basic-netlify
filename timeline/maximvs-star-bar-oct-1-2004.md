@@ -4,7 +4,7 @@ date: 2004-10-01T22:00:00.000
 excerpt: Trey got punched in the face, but it wasn't his fault.  
 summary: Trey got punched in the face, but it wasn't his fault.  
 category: rock
-image: rock/maximvs/maximvs-atlanta-oct-1-2004/maximvs-trey-and-jim-star-bar-oct-1-2004.jpg
+image: /static/img/rock/maximvs/maximvs-atlanta-oct-1-2004/maximvs-trey-and-jim-star-bar-oct-1-2004.jpg
 tags:
   - post 
   - rock

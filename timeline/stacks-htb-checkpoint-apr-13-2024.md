@@ -3,7 +3,7 @@
   date: 2024-04-13T00:00:00
   excerpt: Excellent crowd, excellent sound.
   summary: Excellent crowd, excellent sound.
-  image: rock/stacks/stacks-checkpoints-apr-13-2024/stacks-checkpoints-apr-13-2024-e-holt-1.jpeg
+  image: /static/img/rock/stacks/stacks-checkpoints-apr-13-2024/stacks-checkpoints-apr-13-2024-e-holt-1.jpeg
   tags:
     - rock
     - shows

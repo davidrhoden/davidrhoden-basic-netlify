@@ -4,7 +4,7 @@ date: 2003-02-21T18:00:00.000Z
 summary: This was our first time meeting the Ka-Nives. The club was a coffee shop but they paid us in beer (Killian's Red).
 excerpt: This was our first time meeting the Ka-Nives. The club was a coffee shop but they paid us in beer (Killian's Red).
 category: rock
-image: rock/all-night-movers/all-night-movers-cafe-cottage-flyer-feb-21-2003.jpg
+image: /static/img/rock/all-night-movers/all-night-movers-cafe-cottage-flyer-feb-21-2003.jpg
 tags:
   - post
   - Ka-Nives

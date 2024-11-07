@@ -3,7 +3,7 @@ title: I saw Echo and The Bunnymen at the Joy Theater.
 date: 2024-05-11T05:00:00
 excerpt: The band went on at least thirty minutes late, leaving us to just stand there while a stagehand tuned the guitars about thirty times.
 summary: The band went on at least thirty minutes late, leaving us to just stand there while a stagehand tuned the guitars about thirty times.
-image: timeline/echo-bunnymen-sergeant-mcculloch-may-11-2024.jpeg
+image: /static/img/timeline/echo-bunnymen-sergeant-mcculloch-may-11-2024.jpeg
 tags:
   - rock
   - shows

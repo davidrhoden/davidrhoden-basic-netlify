@@ -4,7 +4,7 @@ date: 2021-12-08T17:00:00.000Z
 summary: Recorded for the sake of an uncaring posterity.
 excerpt: Recorded for the sake of an uncaring posterity.
 category: timeline
-image: rock/golden-ray/golden-ray-dec-8-2021.png
+image: /static/img/rock/golden-ray/golden-ray-dec-8-2021.png
 tags:
   - post 
   - New Orleans

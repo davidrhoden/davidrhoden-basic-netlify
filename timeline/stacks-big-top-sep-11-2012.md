@@ -3,7 +3,7 @@ title: The Stacks played at the Big Top another time.
 date: 2012-09-11T22:00:00.000Z
 summary: We went on real late if I recall.
 excerpt: We went on real late if I recall.
-image: rock/stacks/stacks-big-top-sep-11-2012/flyer120911.png
+image: /static/img/rock/stacks/stacks-big-top-sep-11-2012/flyer120911.png
 tags:
   - post 
   - rock

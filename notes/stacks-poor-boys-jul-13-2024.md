@@ -3,7 +3,7 @@ title: The Stacks play Saturday, July 13, 2024, at Poor Boys Bar in New Orleans,
 date: 2024-07-13T00:00:00
 excerpt: End of the tour.
 summary: End of the tour.
-image: rock/stacks/stacks-flyer-mercyland-poor-boys-jul-13-2024.jpg
+image: /static/img/rock/stacks/stacks-flyer-mercyland-poor-boys-jul-13-2024.jpg
 tags:
   - post
   - notes

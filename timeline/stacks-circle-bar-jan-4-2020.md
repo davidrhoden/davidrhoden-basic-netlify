@@ -3,7 +3,7 @@ title: The Stacks played the Circle Bar with Chef Menteur and Good Sugar.
 date: 2020-01-04T20:00:00.000Z
 summary: "This was Court Batson's first appearance with Chef Menteur."
 excerpt: "This was Court Batson's first appearance with Chef Menteur."
-image: rock/stacks/stacks-circle-bar-gus-haugh-jan-4-2020.jpg
+image: /static/img/rock/stacks/stacks-circle-bar-gus-haugh-jan-4-2020.jpg
 category: rock
 tags:
   - post 

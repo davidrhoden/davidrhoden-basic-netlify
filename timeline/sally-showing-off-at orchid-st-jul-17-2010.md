@@ -3,7 +3,7 @@ title: Sally showed off on Orchid Street.
 date: 2010-07-17T11:00:00.000Z
 summary: She made herself at home, for sure.
 excerpt: She made herself at home, for sure.
-image: sally/sally-showing-off-at-irving-jul-17-2010/sally-showing-off-at-irving-jul-17-2010-43.jpg
+image: /static/img/sally/sally-showing-off-at-irving-jul-17-2010/sally-showing-off-at-irving-jul-17-2010-43.jpg
 tags:
   - post 
   - Sally

@@ -4,7 +4,7 @@ date: 2004-05-01T12:00:00.000Z
 summary: It's a magazine that covers events and listings in new Orleans.
 excerpt: It's a magazine that covers events and listings in new Orleans.
 category: illustrations
-image: timeline/whereyat-cover-may-2004.jpg
+image: /static/img/timeline/whereyat-cover-may-2004.jpg
 tags:
   - post 
   - New Orleans

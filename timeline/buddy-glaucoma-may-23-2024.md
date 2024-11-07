@@ -3,7 +3,7 @@ title: Buddy has glaucoma and melanoma in his eyes, but he'll be okay.
 date: 2024-05-24T00:00:00
 excerpt: Close to a month after I took this picture, Buddy got a diagnosis. He has glaucoma in his left eye (the one to the viewer's right).
 summary: Close to a month after I took this picture, Buddy got a diagnosis. He has glaucoma in his left eye (the one to the viewer's right).
-image: buddy/buddy-on-table-eyes-visible-may-23-2024.jpg
+image: /static/img/buddy/buddy-on-table-eyes-visible-may-23-2024.jpg
 tags:
   - post
   - Buddy

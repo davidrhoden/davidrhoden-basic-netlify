@@ -4,7 +4,7 @@ date: 2000-07-31T11:00:00.000Z
 summary: It wasn't my kind of music but I found the show memorable.
 excerpt: It wasn't my kind of music but I found the show memorable.
 category: timeline
-image: timeline/squab-teen-jul-31-1999.jpg
+image: /static/img/timeline/squab-teen-jul-31-1999.jpg
 tags:
   - post 
   - New Orleans

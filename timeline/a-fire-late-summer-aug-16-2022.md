@@ -1,7 +1,7 @@
 ---
 title: I had a late summer fire. Nature decided to come in the house.
 date: 2022-08-16T14:00:00.000Z
-image: timeline/bonfire-backyard-aug-16-2022.jpg
+image: /static/img/timeline/bonfire-backyard-aug-16-2022.jpg
 tags:
   - note 
   - post

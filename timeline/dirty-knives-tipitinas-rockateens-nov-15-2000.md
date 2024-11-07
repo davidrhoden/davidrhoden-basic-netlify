@@ -3,7 +3,7 @@ title: Dirty Knives played with Rock*A*Teens at Tipitina's, I think.
 date: 2000-11-15T22:00:00.000Z
 summary: I honestly don't recall playing Tip's twice but I guess we did.
 excerpt: I honestly don't recall playing Tip's twice but I guess we did.
-image: rock/dirty-knives/dirty-knives-tips-rockateens-nov-15-2000.jpg
+image: /static/img/rock/dirty-knives/dirty-knives-tips-rockateens-nov-15-2000.jpg
 tags:
   - post 
   - rock

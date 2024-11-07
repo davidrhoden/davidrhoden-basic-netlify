@@ -3,7 +3,7 @@ title: Ate a lot of tacos in Texas.
 date: 2014-10-16T12:00:00.000Z
 summary: Most of the time I went to a food truck called Jefe's near the UT campus.
 excerpt: Most of the time I went to a food truck called Jefe's near the UT campus.
-image: timeline/jefes-tacos-trailer-oct-16-2014.jpg
+image: /static/img/timeline/jefes-tacos-trailer-oct-16-2014.jpg
 tags:
   - post 
   - Austin

@@ -4,7 +4,7 @@ date: 2017-11-19T19:00:00.000Z
 summary: Daisy is a skinny little pit bull Gina found on the levee.
 excerpt: Daisy is a skinny little pit bull Gina found on the levee.
 category: timeline
-image: timeline/daisy-sketch-nov-18-2017.jpg
+image: /static/img/timeline/daisy-sketch-nov-18-2017.jpg
 tags:
   - post
   - Gina

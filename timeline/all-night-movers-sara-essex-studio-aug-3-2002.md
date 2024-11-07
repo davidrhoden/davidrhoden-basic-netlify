@@ -3,7 +3,7 @@ title: "All-Night Movers played a show at Sara Essex's studio."
 date: 2002-08-03T20:00:00.000Z
 summary: It was downtown on Carondelet Street.
 excerpt: It was downtown on Carondelet Street.
-image: rock/all-night-movers/sara-essex-studio-aug-3-2002/amen-aug-3-2002.jpg
+image: /static/img/rock/all-night-movers/sara-essex-studio-aug-3-2002/amen-aug-3-2002.jpg
 tags:
   - post 
   - rock

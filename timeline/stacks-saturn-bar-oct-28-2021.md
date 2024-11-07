@@ -2,7 +2,7 @@
 title: The Stacks played the Saturn Bar with Bad Misters.
 date: 2021-10-28T21:00:00.000Z
 category: rock
-image: rock/stacks/stacks-drawing-aleksey-nelipa-oct-28-2021.jpg
+image: /static/img/rock/stacks/stacks-drawing-aleksey-nelipa-oct-28-2021.jpg
 tags:
   - post 
   - rock

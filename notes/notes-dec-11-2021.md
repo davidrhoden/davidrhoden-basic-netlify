@@ -1,7 +1,7 @@
 ---
 title: I saw two movies last week.
 date: 2021-12-11T10:00:00.000Z
-image: timeline/durning-turkey-disaster-dec-11-2021.jpg
+image: /static/img/timeline/durning-turkey-disaster-dec-11-2021.jpg
 tags:
   - note
   - post

@@ -4,7 +4,7 @@ date: 2017-09-19T16:00:00.000Z
 summary: Nice place to work. Too bad it flooded so much.
 excerpt: nice place to work. Too bad it flooded so much.
 category: timeline
-image: timeline/my-clark-street-shed-in-the-rain-sep-19-2017.jpg
+image: /static/img/timeline/my-clark-street-shed-in-the-rain-sep-19-2017.jpg
 tags:
   - post 
   - art

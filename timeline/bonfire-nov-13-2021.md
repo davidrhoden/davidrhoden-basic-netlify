@@ -4,7 +4,7 @@ date: 2021-11-13T17:00:00.000Z
 summary: I don't know why, I just like making a record of these.
 excerpt: I don't know why, I just like making a record of these.
 category: timeline
-image: timeline/bonfire-knifeblock-feb-21-2021.jpg
+image: /static/img/timeline/bonfire-knifeblock-feb-21-2021.jpg
 tags:
   - post 
   - New Orleans

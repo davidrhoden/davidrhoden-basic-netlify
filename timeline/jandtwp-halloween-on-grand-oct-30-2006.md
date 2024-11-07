@@ -4,7 +4,7 @@ date: 2006-10-30T11:00:00.000Z
 summary: Jimmy And the Wolfpack played.
 excerpt: Jimmy And the Wolfpack played.
 category: jandtwp-grand-st-halloween-oct-29-2006
-image: rock/jandtwp-grand-st-halloween-oct-29-2006/halloween-grand-street-oct-30-2006.jpg
+image: /static/img/rock/jandtwp-grand-st-halloween-oct-29-2006/halloween-grand-street-oct-30-2006.jpg
 tags:
   - post 
   - NYC

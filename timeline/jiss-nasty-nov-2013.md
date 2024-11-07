@@ -4,7 +4,7 @@ date: 2013-11-20T13:00:00.000Z
 summary: A car I saw while walking around the business end of New Orleans.
 excerpt: A car I saw while walking around the business end of New Orleans.
 category: timeline
-image: timeline/cars/jissnasty1.jpg
+image: /static/img/timeline/cars/jissnasty1.jpg
 tags:
   - post
   - cars

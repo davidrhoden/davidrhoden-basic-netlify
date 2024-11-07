@@ -4,7 +4,7 @@ date: 1971-03-01T10:00:00.000Z
 summary: I could use some help with the date. Matt's more than one year old.
 excerpt: I could use some help with the date. Matt's more than one year old.
 category: timeline
-image: timeline/rhoden-kids-on-bike-1971.jpg
+image: /static/img/timeline/rhoden-kids-on-bike-1971.jpg
 tags:
   - post 
   - Knoxville

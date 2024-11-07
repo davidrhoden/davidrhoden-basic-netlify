@@ -3,7 +3,7 @@
   date: 2024-03-19T00:00:00
   excerpt: 
   summary: 
-  image: timeline/sunrise-sunset-siberia-mar-18-2024.jpg
+  image: /static/img/timeline/sunrise-sunset-siberia-mar-18-2024.jpg
   tags:
     - note
     - post

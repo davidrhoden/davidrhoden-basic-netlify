@@ -3,7 +3,7 @@ title: Red Hot.
 date: 2002-11-28T11:00:00.000Z
 summary: We start a ritual regarding a sign in Laurel, Mississippi.
 category: timeline
-image: timeline/red-hot-thanksgiving-2000.jpg
+image: /static/img/timeline/red-hot-thanksgiving-2000.jpg
 tags:
   - post
   - Chattanooga

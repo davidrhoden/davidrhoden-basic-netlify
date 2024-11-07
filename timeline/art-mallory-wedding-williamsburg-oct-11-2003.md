@@ -3,7 +3,7 @@ title: I attended a wedding in Williamsburg, Virginia.
 date: 2003-10-11T12:00:00.000Z
 summary: I remember hanging out in the hotel's game room, among other nice things.
 excerpt: I remember hanging out in the hotel's game room, among other nice things.
-image: timeline/art-mallory-wedding-oct-11-2003/DSC_0150.jpg
+image: /static/img/timeline/art-mallory-wedding-oct-11-2003/DSC_0150.jpg
 category: timeline
 tags:
   - post 

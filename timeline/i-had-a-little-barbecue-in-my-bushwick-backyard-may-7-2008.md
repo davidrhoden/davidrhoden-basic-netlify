@@ -2,7 +2,7 @@
 title: I had a little barbecue in my Bushwick backyard.
 date: 2008-05-17T23:00:15.927Z
 summary: I had some people over and I made potato salad.
-image: timeline/bbq-bushwick-may-17-2008/bbq-bushwick-may-17-2008-david-with-potato-salad.jpg
+image: /static/img/timeline/bbq-bushwick-may-17-2008/bbq-bushwick-may-17-2008-david-with-potato-salad.jpg
 tags:
   - post
   - food

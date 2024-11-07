@@ -2,7 +2,7 @@
 title: Saw a house fire in the neighborhood, on Caffin Avenue.
 date: 2021-11-20T17:00:00.000Z
 category: timeline
-image: timeline/housefire-caffin-nov-20-2021.jpg
+image: /static/img/timeline/housefire-caffin-nov-20-2021.jpg
 tags:
   - post 
   - New Orleans

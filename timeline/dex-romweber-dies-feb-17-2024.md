@@ -3,7 +3,7 @@
   date: 2024-02-17T00:00:00
   excerpt: If you go listen today, please note how a lot of it is garage/rock/rockabilly, but a lot of it isn't.
   summary: If you go listen today, please note how a lot of it is garage/rock/rockabilly, but a lot of it isn't.
-  image: timeline/dex-romweber-yep-roc.jpg
+  image: /static/img/timeline/dex-romweber-yep-roc.jpg
   tags:
     - Dexter Romweber
     - Flat Duo Jets

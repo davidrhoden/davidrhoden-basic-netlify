@@ -4,7 +4,7 @@ date: 2020-06-17T12:00:00.000Z
 summary: He's a gentle giant, except that he bites.
 excerpt: He's a gentle giant, except that he bites.
 category: buddy
-image: buddy/buddy-backporch-jun-17-2020.jpg
+image: /static/img/buddy/buddy-backporch-jun-17-2020.jpg
 tags:
   - post 
   - Buddy

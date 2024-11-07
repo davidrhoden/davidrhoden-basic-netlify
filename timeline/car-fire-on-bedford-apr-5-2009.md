@@ -2,7 +2,7 @@
 title: I saw a car fire on Bedford Avenue.
 date: 2009-04-05T11:00:00.000Z
 category: timeline
-image: timeline/car-fire-on-bedford-apr-5-2009.jpg
+image: /static/img/timeline/car-fire-on-bedford-apr-5-2009.jpg
 tags:
   - post 
   - NYC

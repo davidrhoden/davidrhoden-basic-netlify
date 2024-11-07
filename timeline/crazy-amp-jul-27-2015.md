@@ -2,7 +2,7 @@
 title: Check out this crazy amp I bought.
 date: 2015-07-27T16:00:00.000Z
 category: timeline
-image: timeline/amp-grille-damage-jul-27-2015.jpg
+image: /static/img/timeline/amp-grille-damage-jul-27-2015.jpg
 tags:
   - post 
   - Austin

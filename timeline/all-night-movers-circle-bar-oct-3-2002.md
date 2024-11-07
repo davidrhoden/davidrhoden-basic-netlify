@@ -3,7 +3,7 @@ title: All-Night Movers played to a crowded house at the Circle Bar.
 date: 2002-10-03T22:00:00.000Z
 summary: This is probably the apotheosis of my New Orleans social life, back when I had one.
 excerpt: This is probably the apotheosis of my New Orleans social life, back when I had one.
-image: rock/all-night-movers/circle-bar-oct-3-2002/anm-davetalktoit.jpg
+image: /static/img/rock/all-night-movers/circle-bar-oct-3-2002/anm-davetalktoit.jpg
 tags:
   - post 
   - rock

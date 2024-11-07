@@ -4,7 +4,7 @@ date: 2009-05-24T21:00:00.000Z
 summary: We also shot guns at cans and bottles. 
 excerpt: We also shot guns at cans and bottles.
 category: timeline
-image: timeline/doug-shooting-cans-may-24-2009.jpg
+image: /static/img/timeline/doug-shooting-cans-may-24-2009.jpg
 tags:
   - post 
   - Jimmy and The Wolfpack

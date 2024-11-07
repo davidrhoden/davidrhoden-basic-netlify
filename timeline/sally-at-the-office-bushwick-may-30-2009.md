@@ -3,7 +3,7 @@ title: Sally spent the day with me at the office.
 date: 2009-05-30T11:00:00.000Z
 summary: She had a really good attitude.
 excerpt: She had a really good attitude.
-image: sally/sally-in-bushwick-may-30-2009/sally-in-bushwick-may-30-2009-75.jpg
+image: /static/img/sally/sally-in-bushwick-may-30-2009/sally-in-bushwick-may-30-2009-75.jpg
 tags:
   - post 
   - cats 

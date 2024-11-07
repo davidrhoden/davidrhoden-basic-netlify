@@ -3,7 +3,7 @@ title: Stacks played Ernie K-Doe's Mother-In-Law Lounge with Whiskeyfoot.
 date: 2004-07-17T11:00:00.000Z
 summary: A summer saturday.
 excerpt: A summer saturday.
-image: rock/stacks/stacks-mother-in-law-jul-17-2004/stacks-flyer-mother-in-law-jul-17-2004.jpg
+image: /static/img/rock/stacks/stacks-mother-in-law-jul-17-2004/stacks-flyer-mother-in-law-jul-17-2004.jpg
 tags:
   - post 
   - rock

@@ -2,7 +2,7 @@
 title: I tested positive for COVID.
 date: 2022-07-12T14:00:00.000Z
 excerpt: I would say I had a mild case, but it also seemed to last for a month.
-image: timeline/tested-positive-for-covid-jul-12-2022.jpg
+image: /static/img/timeline/tested-positive-for-covid-jul-12-2022.jpg
 tags:
   - note 
   - New Orleans

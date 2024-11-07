@@ -2,7 +2,7 @@
 title: Buddy interfered with my work.
 date: 2020-06-06T12:00:00.000Z
 category: timeline
-image: buddy/buddy-on-kybd-it-begins-jul-6-2020.jpg
+image: /static/img/buddy/buddy-on-kybd-it-begins-jul-6-2020.jpg
 tags:
   - post
   - New Orleans

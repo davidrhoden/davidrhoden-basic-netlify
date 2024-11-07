@@ -1,7 +1,7 @@
 ---
 title: I walked Daisy and we found an offering of rotting fruit.
 date: 2022-08-09T14:00:00.000Z
-image: timeline/daisy-with-rotting-produce-aug-9-2022.jpg
+image: /static/img/timeline/daisy-with-rotting-produce-aug-9-2022.jpg
 tags:
   - note 
   - New Orleans

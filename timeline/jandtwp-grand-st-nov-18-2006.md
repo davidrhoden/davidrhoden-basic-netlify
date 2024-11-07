@@ -3,7 +3,7 @@ title: Jimmy and The Wolfpack played another show at 276 Grand Street (I think).
 date: 2006-11-18T20:00:00.000Z
 summary: I remember so little about this. We ended up getting Korean food, I think.
 excerpt: I remember so little about this. We ended up getting Korean food, I think.
-image: rock/jandtwp-grand-st-nov-18-2006/wolfpackderienzowhelmet.jpg
+image: /static/img/rock/jandtwp-grand-st-nov-18-2006/wolfpackderienzowhelmet.jpg
 tags:
   - post 
   - Jimmy and The Wolfpack

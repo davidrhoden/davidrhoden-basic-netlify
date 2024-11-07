@@ -1,7 +1,7 @@
 ---
 title: Jimmy and The Wolfpack played a house party at 276 Grand Street.
 date: 2006-12-16T22:00:00.000Z
-image: rock/jandtwp-cd-cover.jpg
+image: /static/img/rock/jandtwp-cd-cover.jpg
 tags:
   - post
   - rock

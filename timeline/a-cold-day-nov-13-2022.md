@@ -1,7 +1,7 @@
 ---
 title: The first cold day of the year.
 date: 2022-11-14T11:00:00.000Z
-image: timeline/riverbank-nov-14-2022.jpg
+image: /static/img/timeline/riverbank-nov-14-2022.jpg
 tags:
   - post 
   - New Orleans

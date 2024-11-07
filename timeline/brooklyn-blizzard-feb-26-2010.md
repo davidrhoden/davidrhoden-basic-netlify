@@ -1,7 +1,7 @@
 ---
 title: We had a bit of a blizzard.
 date: 2010-02-26T13:00:00.000Z
-image: timeline/blizzard-1-feb-26-2010.jpg
+image: /static/img/timeline/blizzard-1-feb-26-2010.jpg
 tags:
   - post
   - snow

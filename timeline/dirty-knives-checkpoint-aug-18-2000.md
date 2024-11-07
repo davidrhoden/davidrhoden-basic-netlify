@@ -1,7 +1,7 @@
 ---
 title: Dirty Knives played Checkpoint Charlie's with Dinteen.
 date: 2000-08-18T22:00:00.000Z
-image: rock/dirty-knives/dirty-knives-checkpoint-dinteen-aug-18-2000.jpg
+image: /static/img/rock/dirty-knives/dirty-knives-checkpoint-dinteen-aug-18-2000.jpg
 tags:
   - post 
   - rock

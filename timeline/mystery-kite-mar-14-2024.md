@@ -3,7 +3,7 @@
   date: 2024-03-14T00:00:00
   excerpt:  I took another walk on the levee this afternoon, and once again there was a kite being flown by no one.
   summary:  I took another walk on the levee this afternoon, and once again there was a kite being flown by no one.
-  image: timeline/abandoned-kite-mar-14-2024.jpeg
+  image: /static/img/timeline/abandoned-kite-mar-14-2024.jpeg
   tags:
     - kites
     - The Levee

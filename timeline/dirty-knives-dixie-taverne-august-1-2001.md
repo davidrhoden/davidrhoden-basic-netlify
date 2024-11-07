@@ -4,7 +4,7 @@ date: 2001-08-01T02:00:00.000Z
 summary: The cops took all the money.
 excerpt: The cops took all the money.
 category: rock
-image: rock/dirty-knives/dirty-knives-dixie-taverne-aug-1-2001.jpg
+image: /static/img/rock/dirty-knives/dirty-knives-dixie-taverne-aug-1-2001.jpg
 tags:
   - post
   - rock

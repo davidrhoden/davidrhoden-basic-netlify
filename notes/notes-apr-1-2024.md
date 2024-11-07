@@ -3,7 +3,7 @@ title: Stacks show coming up Saturday April 13.
 date: 2024-04-01T10:00:00.000Z
 summary: At Checkpoint Charlie. With Happy Talk Band.
 excerpt: At Checkpoint Charlie. With Happy Talk Band.
-image: designs/Stacks-HTB-checkpoints-apr-13-2024.jpeg
+image: /static/img/designs/Stacks-HTB-checkpoints-apr-13-2024.jpeg
 tags:
   - note
   - rock

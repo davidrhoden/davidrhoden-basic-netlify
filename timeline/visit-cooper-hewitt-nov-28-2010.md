@@ -3,7 +3,7 @@
   date: 2010-11-28T00:00:00
   excerpt: Usually I like it, but on this day, if I had to describe it in a sentence, I’d say it was like a field trip to a Muji.
   summary: Usually I like it, but on this day, if I had to describe it in a sentence, I’d say it was like a field trip to a Muji.
-  image: timeline/cooper-hewitt-exterior.jpg
+  image: /static/img/timeline/cooper-hewitt-exterior.jpg
   tags:
     - New York City
     - museums

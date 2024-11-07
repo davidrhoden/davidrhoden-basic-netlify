@@ -4,7 +4,7 @@ date: 2009-10-19T22:00:00.000Z
 summary: It was a bar in Williamsburg Brooklyn.
 excerpt: It was a bar in Williamsburg Brooklyn.
 category: rock
-image: rock/headless-hookers-zablozkis-oct-19-2009.jpg
+image: /static/img/rock/headless-hookers-zablozkis-oct-19-2009.jpg
 tags:
   - post 
   - NYC

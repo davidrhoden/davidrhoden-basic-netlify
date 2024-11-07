@@ -4,7 +4,7 @@ date: 2015-10-21T18:00:00.000Z
 excerpt: Lovely dentition.
 summary: Lovely dentition.
 category: sally
-image: sally/sally-big-yawn-oct-21-2015.jpg
+image: /static/img/sally/sally-big-yawn-oct-21-2015.jpg
 tags:
   - post 
   - New Orleans

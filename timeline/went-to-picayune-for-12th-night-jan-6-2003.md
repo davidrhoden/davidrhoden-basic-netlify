@@ -4,7 +4,7 @@ date: 2003-01-06T19:00:00.000Z
 summary: We played guitars.
 excerpt: We played guitars.
 category: timeline
-image: rock/maximvs/maximvs-jan-6-2003.jpg
+image: /static/img/rock/maximvs/maximvs-jan-6-2003.jpg
 tags:
   - post 
   - Mississippi

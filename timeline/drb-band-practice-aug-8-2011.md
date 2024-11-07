@@ -1,7 +1,7 @@
 ---
 title: The Dave Rhoden Band planned a rehearsal.
 date: 2011-08-08T10:00:00.000Z
-image: timeline/drb-rehearsal-email-aug-8-2011.jpg
+image: /static/img/timeline/drb-rehearsal-email-aug-8-2011.jpg
 tags:
   - post
   - New York City

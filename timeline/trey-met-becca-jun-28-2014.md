@@ -4,7 +4,7 @@ date: 2014-06-28T20:00:00.000Z
 summary: Nothing indicated this would be a remarkable date at the time.
 excerpt: Nothing indicated this would be a remarkable date at the time.
 category: timeline
-image: timeline/becca-brunch-mar-12-2017.jpg
+image: /static/img/timeline/becca-brunch-mar-12-2017.jpg
 tags:
   - post 
   - New Orleans

@@ -3,7 +3,7 @@ title: I found an adolescent possum in my kitchen.
 date: 2024-09-20T00:00:00
 excerpt: I opened the front door and turned out the lights, hoping she’d be brave enough to leave before Buddy came home (though he has no interest in possums, no play value).
 summary: I opened the front door and turned out the lights, hoping she’d be brave enough to leave before Buddy came home (though he has no interest in possums, no play value).
-image: timeline/hall-table-sep-21-2024.jpg
+image: /static/img/timeline/hall-table-sep-21-2024.jpg
 tags:
   - post
   - possums

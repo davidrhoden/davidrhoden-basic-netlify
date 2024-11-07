@@ -4,7 +4,7 @@ date: 2021-09-26T22:00:00.000Z
 summary: Also FR and a band from Brooklyn called TDA.
 excerpt: Also FR and a band from Brooklyn called TDA.
 category: timeline
-image: timeline/bipolaroid-sidneys-sep-26-2021.jpg
+image: /static/img/timeline/bipolaroid-sidneys-sep-26-2021.jpg
 tags:
   - post 
   - New Orleans

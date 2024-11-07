@@ -3,7 +3,7 @@
   date: 1991-06-19T00:00:00
   excerpt: 
   summary: 
-  image: timeline/bijou-theatre-knoxville.jpg
+  image: /static/img/timeline/bijou-theatre-knoxville.jpg
   tags:
     - rock
     - shows

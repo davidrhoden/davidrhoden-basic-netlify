@@ -4,7 +4,7 @@ date: 2006-08-20T21:00:00.000Z
 summary: Great show. He talked to Kool-Aid.
 excerpt: Great show. He talked to Kool-Aid.
 category: timeline
-image: timeline/archie-bell-by-gary-wong-jun-6-2006.jpg
+image: /static/img/timeline/archie-bell-by-gary-wong-jun-6-2006.jpg
 tags:
   - post
   - NYC

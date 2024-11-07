@@ -3,7 +3,7 @@ title: The Stacks played Lounge Lizards with The Sutures.
 date: 2004-10-08T22:00:00.000Z
 summary: I'm sorry, I don't remember The Sutures at all.
 excerpt: I'm sorry, I don't remember The Sutures at all.
-image: rock/stacks/stacks-flyer-sutures-oct-8-2004.jpg
+image: /static/img/rock/stacks/stacks-flyer-sutures-oct-8-2004.jpg
 category: rock
 tags:
   - post

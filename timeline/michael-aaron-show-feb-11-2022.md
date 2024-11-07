@@ -4,7 +4,7 @@ date: 2022-02-11T21:00:00.000Z
 summary: I knew and liked Michael a lot.
 excerpt: I knew and liked Michael a lot.
 category: timeline
-image: timeline/michael-aaron-memorial-feb-11-2022/eyj-john-thiry-feb-11-2022.jpg
+image: /static/img/timeline/michael-aaron-memorial-feb-11-2022/eyj-john-thiry-feb-11-2022.jpg
 tags:
   - post 
   - New Orleans

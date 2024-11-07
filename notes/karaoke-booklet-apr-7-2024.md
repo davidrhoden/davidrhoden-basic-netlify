@@ -3,7 +3,7 @@
   date: 2024-04-07T00:00:00
   excerpt: It's 24 pages, staple-bound. Laser printed on, let's see... 20lb copy paper. Good stuff. It's black-and-white, but so are the originals.
   summary: It's 24 pages, staple-bound. Laser printed on, let's see... 20lb copy paper. Good stuff. It's black-and-white, but so are the originals.
-  image: designs/karaoke-booklet-apr-7-2024.jpeg
+  image: /static/img/designs/karaoke-booklet-apr-7-2024.jpeg
   tags:
     - post
     - note

@@ -3,7 +3,7 @@ title: All-Night Movers played at Hank's Saloon in Brooklyn.
 date: 2003-03-03T22:00:00.000Z
 summary: Very fun show and we recorded it.
 excerpt: Very fun show and we recorded it.
-image: rock/all-night-movers/anm-at-hanks-saloon-mar-3-2003.jpg
+image: /static/img/rock/all-night-movers/anm-at-hanks-saloon-mar-3-2003.jpg
 tags:
   - post
   - rock

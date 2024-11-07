@@ -4,7 +4,7 @@ date: 1972-09-15T12:00:00.000Z
 summary: Guessing a date based on the fact that I started school a little after the start of the year.
 excerpt: Guessing a date based on the fact that I started school a little after the start of the year.
 category: timeline
-image: timeline/asbury-drive-front.jpg
+image: /static/img/timeline/asbury-drive-front.jpg
 tags:
   - post 
   - Chattanooga

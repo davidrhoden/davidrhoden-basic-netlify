@@ -4,7 +4,7 @@ date: 2017-02-20T11:00:00.000Z
 summary: text
 excerpt: text
 category: timeline
-image: sketchbook/fresh-meat-feb-20-2017.jpg
+image: /static/img/sketchbook/fresh-meat-feb-20-2017.jpg
 tags:
   - post 
   - sketchbook

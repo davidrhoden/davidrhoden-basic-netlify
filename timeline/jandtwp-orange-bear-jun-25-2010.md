@@ -1,7 +1,7 @@
 ---
 title: Jimmy and The Wolfpack played the Orange Bear in downtown Manhattan.
 date: 2010-06-25T21:00:00.000Z
-image: rock/jandtwp-orange-bear-jun-25-2010.jpg
+image: /static/img/rock/jandtwp-orange-bear-jun-25-2010.jpg
 tags:
   - post 
   - rock

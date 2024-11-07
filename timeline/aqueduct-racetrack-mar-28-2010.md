@@ -4,7 +4,7 @@ date: 2010-03-28T11:00:00.000Z
 summary: I didn't win anything.
 excerpt: I didn't win anything.
 category: timeline
-image: timeline/aqueduct-refreshments-mar-28-2010.jpg
+image: /static/img/timeline/aqueduct-refreshments-mar-28-2010.jpg
 tags:
   - post
   - NYC

@@ -4,7 +4,7 @@ date: 2018-04-19T11:00:00.000Z
 summary: Just silhouettes, but you can tell who it is.
 excerpt: Just silhouettes, but you can tell who it is.
 category: gina
-image: timeline/dave-gina-in-fog-dec-7-2017.jpg
+image: /static/img/timeline/dave-gina-in-fog-dec-7-2017.jpg
 tags:
   - post 
   - Gina

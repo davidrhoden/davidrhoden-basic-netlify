@@ -1,7 +1,7 @@
 ---
 title: sara took a bunch of Polaroids at a Hallowe'en party.
 date: 1998-10-31T18:00:00.000Z
-image: timeline/polaroids/polaroids-halloween.jpg
+image: /static/img/timeline/polaroids/polaroids-halloween.jpg
 tags:
   - post 
   - New York

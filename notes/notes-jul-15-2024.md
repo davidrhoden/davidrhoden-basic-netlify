@@ -3,7 +3,7 @@ title: Notes for July 15, 2024.
 date: 2024-07-15T00:00:00
 excerpt: Buddy got his stitches out, The Stacks had a great weekend, and somebody tried to kill the former President.
 summary: Buddy got his stitches out, The Stacks had a great weekend, and somebody tried to kill the former President.
-image: timeline/mercyland-jul-2024/mercyland-houma-1-jul-12-2024.jpg
+image: /static/img/timeline/mercyland-jul-2024/mercyland-houma-1-jul-12-2024.jpg
 tags:
   - cats
   - Buddy

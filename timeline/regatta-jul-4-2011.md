@@ -4,7 +4,7 @@ date: 2011-07-04T16:00:00.000Z
 summary: Maybe Trey could remember it better than me.
 excerpt: Maybe Trey could remember it better than me.
 category: timeline
-image: timeline/regatta-jul-3-4-2011/regatta-jul-4-2011-instruments.jpg
+image: /static/img/timeline/regatta-jul-3-4-2011/regatta-jul-4-2011-instruments.jpg
 tags:
   - post 
   - regattas

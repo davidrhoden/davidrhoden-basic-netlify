@@ -3,7 +3,7 @@
   date: 1996-01-06T00:00:00
   excerpt: We saw....CB4.
   summary: We saw....CB4.
-  image: timeline/blizzard-nyc-jan-6-1996.jpeg
+  image: /static/img/timeline/blizzard-nyc-jan-6-1996.jpeg
   tags:
     - New York City
     - Manhattan

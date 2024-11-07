@@ -3,7 +3,7 @@ title: All-Night Movers played Sound Exchange in Houston with Ka-Nives.
 date: 2003-04-24T21:00:00.000Z
 summary: We were fine. Ka-Nives were over the top.
 excerpt: We were fine. Ka-Nives were over the top.
-image: rock/all-night-movers/anm-houston-apr-24-2003/anm-houston-apr-24-2003-01.jpg 
+image: /static/img/rock/all-night-movers/anm-houston-apr-24-2003/anm-houston-apr-24-2003-01.jpg
 tags:
   - post
   - rock

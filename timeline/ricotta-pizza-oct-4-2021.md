@@ -4,7 +4,7 @@ date: 2021-10-04T11:00:00.000Z
 summary: I was out of mozzarella.
 excerpt: I was out of mozzarella.
 category: timeline
-image: timeline/ricotta-pizza-oct-4-2021.jpg
+image: /static/img/timeline/ricotta-pizza-oct-4-2021.jpg
 tags:
   - post 
   - New Orleans

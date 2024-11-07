@@ -2,7 +2,7 @@
 title: Sally scowled.
 date: 2015-06-05T21:00:00.000Z
 category: sally
-image: sally/sally-scowling-jun-5-2015.jpg
+image: /static/img/sally/sally-scowling-jun-5-2015.jpg
 tags:
   - post
   - Sally

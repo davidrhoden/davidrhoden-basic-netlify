@@ -4,7 +4,7 @@ date: 2021-05-28T19:00:00.000Z
 summary: She made this in 1993.
 excerpt: She made this in 1993.
 category: timeline
-image: timeline/view-from-outhouse-door-may-28-2021.jpg
+image: /static/img/timeline/view-from-outhouse-door-may-28-2021.jpg
 tags:
   - post 
   - New Orleans

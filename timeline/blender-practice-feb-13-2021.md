@@ -4,7 +4,7 @@ date: 2021-02-13T23:00:00.000Z
 summary: I can learn this software a lot faster than my computers can.
 excerpt: I can learn this software a lot faster than my computers can.
 category: timeline
-image: timeline/blender-practice-feb-13-2021.png
+image: /static/img/timeline/blender-practice-feb-13-2021.png
 tags:
   - post 
   - animation

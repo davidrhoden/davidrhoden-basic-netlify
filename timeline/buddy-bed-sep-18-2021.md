@@ -2,7 +2,7 @@
 title: An average day for Bubba.
 date: 2021-09-18T12:00:00.000Z
 category: timeline
-image: buddy/buddy-napping-sep-18-2021.jpg
+image: /static/img/buddy/buddy-napping-sep-18-2021.jpg
 tags:
   - post
   - New Orleans

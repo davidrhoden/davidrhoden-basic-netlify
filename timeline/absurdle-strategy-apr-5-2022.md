@@ -1,7 +1,7 @@
 ---
 title: I developed a pretty good Absurdle strategy.
 date: 2022-04-05T11:00:00.000Z
-image: timeline/absurdle/absurdle-1-apr-5-2022.png
+image: /static/img/timeline/absurdle/absurdle-1-apr-5-2022.png
 tags:
   - post 
   - note

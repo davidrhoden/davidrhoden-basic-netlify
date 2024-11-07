@@ -4,7 +4,7 @@ date: 2021-03-21T10:00:00.000Z
 summary: We've had a lot of cold strange weather.
 excerpt: We've had a lot of cold strange weather.
 category: timeline
-image: timeline/spooky-sky-in-arabi-mar-21-2021.jpg
+image: /static/img/timeline/spooky-sky-in-arabi-mar-21-2021.jpg
 tags:
   - post
   - weather

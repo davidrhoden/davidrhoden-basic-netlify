@@ -1,7 +1,7 @@
 ---
 title: I saw Ted Leo and Future Of The Left at Webster Hall.
 date: 2008-10-11T12:00:00.000Z
-image: timeline/fotl-oct-11-2008.jpg
+image: /static/img/timeline/fotl-oct-11-2008.jpg
 tags:
   - post 
   - NYC

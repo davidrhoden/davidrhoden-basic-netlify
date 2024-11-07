@@ -4,7 +4,7 @@ date: 2011-07-20T18:00:00.000Z
 summary: 4e loved this elevated front porch.
 excerpt: We loved this elevated front porch.
 category: timeline
-image: sally/sally-facepalm-orchid-jul-20-2014.jpg
+image: /static/img/sally/sally-facepalm-orchid-jul-20-2014.jpg
 tags:
   - post 
   - cats

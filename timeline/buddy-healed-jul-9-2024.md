@@ -1,7 +1,7 @@
 ---
 title: Buddy's eye is still healing.
 date: 2024-07-09T00:00:00
-image: buddy/buddy-healing-jul-9-2024.jpg
+image: /static/img/buddy/buddy-healing-jul-9-2024.jpg
 tags:
   - cats
   - Buddy

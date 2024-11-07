@@ -4,7 +4,7 @@ date: 1994-10-01T03:00:00.000Z
 summary: As with almost all fanzines, the third time's the charm.
 excerpt: As with almost all fanzines, the third time's the charm.
 category: designs
-image: designs/bachelor-no1-no3.jpg
+image: /static/img/designs/bachelor-no1-no3.jpg
 tags:
   - post
   - NYC

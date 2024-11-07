@@ -4,7 +4,7 @@ date: 2017-12-05T18:00:00.000Z
 summary: It was cold and the people that were there stayed around the fire.
 excerpt: It was cold and the people that were there stayed around the fire.
 category: rock
-image: rock/stacks/stacks-on-sister-street-cover-dec-5-2017.jpg
+image: /static/img/rock/stacks/stacks-on-sister-street-cover-dec-5-2017.jpg
 tags:
   - post 
   - New Orleans

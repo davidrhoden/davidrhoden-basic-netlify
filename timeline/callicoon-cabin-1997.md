@@ -4,7 +4,7 @@ date: 1995-07-04T11:00:00.000Z
 summary: It had an outhouse, very rustic, but was actually in somebody's side yard.
 excerpt: It had an outhouse, very rustic, but was actually in somebody's side yard.
 category: timeline
-image: timeline/callicoon-cabin-1997.jpg
+image: /static/img/timeline/callicoon-cabin-1997.jpg
 tags:
   - post 
   - New York

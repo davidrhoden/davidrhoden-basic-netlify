@@ -4,7 +4,7 @@ date: 2011-07-11T18:00:00.000Z
 summary: We had nice light in the Irving Avenue place.
 excerpt: We had nice light in the Irving Avenue place.
 category: timeline
-image: sally/sally-sassy-on-desk-irving-jul-11-2011.jpg
+image: /static/img/sally/sally-sassy-on-desk-irving-jul-11-2011.jpg
 tags:
   - post 
   - cats

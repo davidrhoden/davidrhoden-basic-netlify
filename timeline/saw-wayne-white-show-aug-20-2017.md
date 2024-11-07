@@ -4,7 +4,7 @@ date: 2017-08-20T17:00:00.000Z
 excerpt: A really fun show.
 summary: A really fun show.
 category: timeline
-image: timeline/wayne-white-aug-20-2017/wayne-white-louvins-aug-20-2017.jpg
+image: /static/img/timeline/wayne-white-aug-20-2017/wayne-white-louvins-aug-20-2017.jpg
 tags:
   - post
   - Wayne White

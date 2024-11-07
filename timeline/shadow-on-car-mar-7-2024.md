@@ -3,7 +3,7 @@
   date: 2024-03-07T00:00:00
   excerpt: She lives down the street, but she eats food here.
   summary: She lives down the street, but she eats food here.
-  image: timeline/shadow-on-blackie-mar-7-2024.jpeg
+  image: /static/img/timeline/shadow-on-blackie-mar-7-2024.jpeg
   tags:
     - Shadow
     - Blackie

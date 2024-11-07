@@ -3,7 +3,7 @@ title: I visited a strange bar called Marlene's.
 date: 2012-07-05T00:00:00
 excerpt: It's on Tchoupitoulas. It's not the Rock Bottom (another bar on Tchoupitoulas), but it's close.
 summary:  It's on Tchoupitoulas. It's not the Rock Bottom (another bar on Tchoupitoulas), but it's close.
-image: timeline/marlenes-ballroom-jul-5-2011.jpg
+image: /static/img/timeline/marlenes-ballroom-jul-5-2011.jpg
 tags:
   - Marlene's Bar
   - New Orleans
