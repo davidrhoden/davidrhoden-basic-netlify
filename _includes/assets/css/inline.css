@@ -864,6 +864,10 @@ span.fade:hover {
     width: 20px;
   }
 
+  .container img {
+    max-width: 768px;
+  }
+
   @keyframes pulse {
     0% {
       transform: translate(0, 0);
@@ -933,7 +937,6 @@ span.fade:hover {
   .bullet {
     display: inline;
   }
-
 
   .side-by-side {
     display: flex;

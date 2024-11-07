@@ -6,7 +6,6 @@ summary: We'll be back at Pirogue's on Saturday.
 excerpt:  We'll be back at Pirogue's on Saturday.
 tags:
   - note
-  - post
   - The Stacks
   - Pirogue's Whiskey Bayou
   - Chan
