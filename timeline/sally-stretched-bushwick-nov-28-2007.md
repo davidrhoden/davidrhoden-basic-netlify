@@ -27,7 +27,7 @@ Sally stretched on our plywood floor.
 
 ![Sally stretched on our plywood floor.](/static/img/sally/sally-stretching-on-floor-nov-28-2007/sally-stretching-on-floor-nov-28-2007-sally-sniffs-a-bug.jpg)
 
-![Sally stretched on our plywood floor.](/static/img/sally/sally-stretching-on-floor-nov-28-2007/sally-stretching-on-floor-nov-28-2007-sally-sthe-queen.jpg)
+![Sally stretched on our plywood floor.](/static/img/sally/sally-stretching-on-floor-nov-28-2007/sally-stretching-on-floor-nov-28-2007-sallys-the-queen.jpg)
 
 ![Sally stretched on our plywood floor.](/static/img/sally/sally-stretching-on-floor-nov-28-2007/sally-stretching-on-floor-nov-28-2007-sally-thinking.jpg)
 
