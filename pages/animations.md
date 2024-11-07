@@ -120,6 +120,10 @@ eleventyNavigation:
 
 -----
 
+![3D-Animated Car animation by David Rhoden](/static/img/animations/72-frame-turnaround.gif)
+
+-----
+
 ![Walk cycle animation by David Rhoden](/static/img/animations/walkcycle.gif)
 
 -----
@@ -130,7 +134,6 @@ eleventyNavigation:
 
 ![Trippin' animation by David Rhoden](/static/img/animations/guytripping.gif)
 
------
 
 <!-- ![Talker animation by David Rhoden](/static/img/animations/talkers.gif) -->
 
