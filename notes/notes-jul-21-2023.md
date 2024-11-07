@@ -1,7 +1,7 @@
 ---
 title: Can I still call myself a painter?
 date: 2023-07-21T10:00:00.000Z
-image: /notes/one-fat-summer-jul-20-2023.jpg
+image: /static/img/notes/one-fat-summer-jul-20-2023.jpg
 tags:
   - note
   - post

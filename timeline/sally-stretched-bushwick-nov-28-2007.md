@@ -3,8 +3,7 @@ title: Sally stretched on our plywood floor.
 date: 2007-11-28T16:00:00.000Z
 summary: This was in Bushwick on our gray-painted floors.
 excerpt: This was in Bushwick on our gray-painted floors.
-category: sally
-image: /static/img/sally/sally-stretching-on-floor-nov-28-2007/sally-stretching-on-floor-nov-28-2007-sally_thepaw.jpg
+image: /static/img/sally/sally-stretching-on-floor-nov-28-2007/sally-stretching-on-floor-nov-28-2007-talk-to-the-paw.jpg
 tags:
   - post 
   - cats 
@@ -15,30 +14,31 @@ tags:
 
 ---
 
+Sally stretched on our plywood floor.
+
 <div id="viewport">
     <button id="buttonPrevious">&#10094;</button>
     <button id="buttonNext">&#10095;</button>
 
-![Sally stretched on our plywood floor.](/static/img/sally/sally-stretching-on-floor-nov-28-2007/sally-stretching-on-floor-nov-28-2007-
-sally_thepaw.jpg "Sally stretched on our plywood floor.")
+
 
 ![Sally stretched on our plywood floor.](/static/img/sally/sally-stretching-on-floor-nov-28-2007/sally-stretching-on-floor-nov-28-2007-
-sallynaps.jpg "Sally stretched on our plywood floor.")
+sally-naps.jpg)
 
 ![Sally stretched on our plywood floor.](/static/img/sally/sally-stretching-on-floor-nov-28-2007/sally-stretching-on-floor-nov-28-2007-
-sallyshowsscar.jpg "Sally stretched on our plywood floor.")
+sally-shows-scar.jpg)
 
 ![Sally stretched on our plywood floor.](/static/img/sally/sally-stretching-on-floor-nov-28-2007/sally-stretching-on-floor-nov-28-2007-
-sallysniffsabug.jpg "Sally stretched on our plywood floor.")
+sally-sniffs-a-bug.jpg)
 
 ![Sally stretched on our plywood floor.](/static/img/sally/sally-stretching-on-floor-nov-28-2007/sally-stretching-on-floor-nov-28-2007-
-sallysthequeen.jpg "Sally stretched on our plywood floor.")
+sally-sthe-queen.jpg)
 
 ![Sally stretched on our plywood floor.](/static/img/sally/sally-stretching-on-floor-nov-28-2007/sally-stretching-on-floor-nov-28-2007-
-sallythinking.jpg "Sally stretched on our plywood floor.")
+sally-thinking.jpg)
 
 ![Sally stretched on our plywood floor.](/static/img/sally/sally-stretching-on-floor-nov-28-2007/sally-stretching-on-floor-nov-28-2007-
-talktothepaw.jpg "Sally stretched on our plywood floor.")
+talk-to-the-paw.jpg)
 
 </div>
 <div id="caption"></div>

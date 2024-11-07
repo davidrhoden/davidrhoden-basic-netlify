@@ -3,7 +3,7 @@
   date: 2024-05-09T00:00:00
   excerpt: I thought Terry Gross said tomorrow's Fresh Air guest would be novelist Calm Toebean.
   summary: I thought Terry Gross said tomorrow's Fresh Air guest would be novelist Calm Toebean.
-  image: /notes/toe-beans-may-9-2024.jpg
+  image: /static/img/notes/toe-beans-may-9-2024.jpg
   tags:
     - notes
 
