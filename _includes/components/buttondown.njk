@@ -6,12 +6,15 @@
   onsubmit="window.open('https://buttondown.email/davidrhoden', 'popupwindow')"
   class="embeddable-buttondown-form"
 >
-  <label for="bd-email">Enter your email</label>
+    <label for="bd-email">Enter your email (required)</label>
   <input type="email" name="email" id="bd-email" />
-  <input class="button" type="submit" value="Subscribe" />
-  <input type="hidden" name="tag" value="us" />
-  <input type="hidden" name="tag" value="website-contact" />
+  <label for="full_name">Your name</label>
+  <input type="text" name="metadata__full_name" id="full_name" />
+  <label for="mailing_address">Your mailing address (if you want occasional snail mail)</label>
+  <input type="text" name="metadata__mailing_address" id="mailing_address" />
+  <input type="submit" value="Subscribe" />
   <p>
     <a href="https://buttondown.email" target="_blank">Powered by Buttondown.</a>
   </p>
 </form>
+
