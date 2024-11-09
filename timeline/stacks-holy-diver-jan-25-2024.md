@@ -3,7 +3,7 @@
   date: 2024-01-25T00:00:00
   excerpt: With Redondo Beat and Luxurious Faux Furs.
   summary: With Redondo Beat and Luxurious Faux Furs.
-  image: /rock/stacks/stacks-holy-diver-flyer-2-jan-25-2024.png
+  image: /static/img/rock/stacks/stacks-holy-diver-flyer-2-jan-25-2024.png
   tags:
     - note
     - rock

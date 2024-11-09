@@ -7,6 +7,7 @@ category: timeline
 image: /static/img/timeline/the-day-after-nov-20-1983.jpg
 tags:
   - post 
+  - The Day After
   - TV
   - Chattanooga
   - Reagan

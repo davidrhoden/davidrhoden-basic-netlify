@@ -1,7 +1,7 @@
 ---
 title: Notes for October 23, 2024.
 date: 2024-10-23T10:00:00.000Z
-image: /rock/stacks/flyers/stacks-flyer-pirogues-oct-26-2024.jpg
+image: /static/img/rock/stacks/flyers/stacks-flyer-pirogues-oct-26-2024.jpg
 summary: We'll be back at Pirogue's on Saturday.
 excerpt:  We'll be back at Pirogue's on Saturday.
 tags:
