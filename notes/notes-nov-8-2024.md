@@ -25,7 +25,7 @@ If you ever hear me grumbling about not being able to find my reading glasses, r
 
 _Greetings from Asbury Park N.J._ is a top-notch Bruce Springsteen album, especially if you consider how new his sound was when the album came out. Nothing like it. It's great top to bottom.
 
-Except for "Mary, Queen of Arkansas". Bruce, what were you thinking? Surely you had something else on tape. Did you need the art-cred that bad?
+Except for ["Mary, Queen of Arkansas"](https://www.youtube.com/watch?v=HQ2CR7S5Q4A). Bruce, what were you thinking? Surely you had something else on tape. Did you need the art-cred that bad?
 
 -----
 
