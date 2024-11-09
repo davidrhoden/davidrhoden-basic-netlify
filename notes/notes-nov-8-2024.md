@@ -12,7 +12,6 @@ tags:
   - Mary, Queen of Arkansas
   - reading glasses
   - Twitter
-  - United States Postal Service
   - The War Game
   - Peter Watkins
   - The Day After
@@ -41,7 +40,7 @@ You won't like the answer. It is makeup, of course, but the wounded people and t
 
 Trey asked me how it compared to [_The Day After_](/timeline/i-saw-the-day-after-on-tv/). _The Day After_ left a permanent mark on me; I think everyone my age has some background fear of nuclear conflict. But it had a hopeful ending, and just the way it was made, it was easy to back up and say "hey, this is just a movie". There's really no political propagandizing I can see in _The War Game_. There's no "If we stick together we can get through this", instead there are firing squads of cops to deal with "looters" (survivors). It's awful even after the bombs stop falling.
 
-[You can watch it for free on the Internet Archive.](https://archive.org/details/TheWarGame_201405)
+[You can watch _The War Game_ for free on the Internet Archive.](https://archive.org/details/TheWarGame_201405)
 
 -----
 
