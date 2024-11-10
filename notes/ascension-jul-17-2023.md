@@ -1,6 +1,6 @@
 ---
 title: I got the news that my dad had to go into a nursing home.
-date: yyyy-mm-ddT00:00:00
+date: 2023-06-17T00:00:00
 excerpt: It seems like huge news now but that day it just felt like a little thing
 summary: It seems like huge news now but that day it just felt like a little thing
 image: /static/img/timeline/ascension-jul-17-2023.jpeg

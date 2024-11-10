@@ -15,6 +15,7 @@ tags:
   - The War Game
   - Peter Watkins
   - The Day After
+  - sunsets
 
 ---
 
@@ -53,3 +54,7 @@ Did I dream that I mansplained Alvin Kamara's salary structure to someone, or di
 (But in general, running backs get paid less than other stars because they are more replaceable.)
 
 ![cover of Springsteen album with my lost reading glasses](/static/img/timeline/asbury-park-sleeve-nov-8-2024.jpeg)
+
+And here's last night's very November sunset, seen from the levee.
+
+![last night's very November sunset, seen from the levee.](/static/img/timeline/november-sunset-nov-7-2024.jpeg)
