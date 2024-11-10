@@ -1,17 +1,22 @@
 ---
-title: Notes for Novmber 9, 2024.
+title: Notes for November 9, 2024.
 date: 2024-11-09T00:00:00
-excerpt: 
-summary: 
-image: 
+excerpt: A cool household hint! Plus, I don't believe the election returns.
+summary: A cool household hint! Plus, I don't believe the election returns.
+image: /static/img/timeline/cold-brew-shot-dispenser-nov-9-2024.jpg
 tags:
-  - 
+  - The New York Times
+  - Doxidan
+  - 2024 Election
+  - coffee
+  - Twitter
+  - Bluesky
 
 ---
 
 “Doxidan, gentle Doxidan” appeared in my head upon waking like I heard it yesterday. Why does my brain store this stuff?
 
-<iframe width="100%" height="auto" src="https://www.youtube.com/embed/qsKXEFtILSY?si=Bcg3kbdDvyJysHVm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="450" src="https://www.youtube.com/embed/qsKXEFtILSY?si=Bcg3kbdDvyJysHVm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 The comments on this are funny and relatable.
 
@@ -31,7 +36,7 @@ If you get those Cold Brew shot dispensers from the grocery store, don't toss th
 
 Actually, this is my first time doing that. I might get poisoned. I'll let you know.
 
-![Cold brew shot dispenser](/static/img/timeline/strikle-nov-8-2024.jpg)
+![Cold brew shot dispenser](/static/img/timeline/cold-brew-shot-dispenser-nov-9-2024.jpg)
 
 -----
 
@@ -45,3 +50,11 @@ I played the Strikle instead of the Wordle yesterday. If you didn't know, the te
 I wish they would just do a rogue Wordle, though I reckon there are a hundred trademark reasons they didn't. But they did create Strikle, and at risk of giving out a spoiler, here's yesterday's:
 
 ![Strikle result, November 8 2024](/static/img/timeline/strikle-nov-8-2024.jpg)
+
+
+-----
+
+This is an interesting link: [Russian interference in the 2024 United States elections](https://w.wiki/BsVN)
+
+-----
+
