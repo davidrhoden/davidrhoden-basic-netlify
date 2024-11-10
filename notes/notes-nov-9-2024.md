@@ -47,7 +47,7 @@ You can follow me on [Bluesky](https://bsky.app/profile/davidrhoden.bsky.social)
 
 I played the Strikle instead of the Wordle yesterday. If you didn't know, the tech workers at the NYT (the paper that shall not be named) have a union, and they are striking for better terms of employment. They've asked the public to disengage from NYT Games (hard to do) and NYT Cooking (so easy I forgot I did it).
 
-I wish they would just do a rogue Wordle, though I reckon there are a hundred trademark reasons they didn't. But they did create Strikle, and at risk of giving out a spoiler, here's yesterday's:
+I wish they would just do a rogue Wordle, though I reckon there are a hundred trademark reasons they didn't. But they did create Strikle, and at risk of giving out a spoiler, here's yesterday's. I got it in 3!!
 
 ![Strikle result, November 8 2024](/static/img/timeline/strikle-nov-8-2024.jpg)
 
