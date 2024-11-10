@@ -22,7 +22,7 @@ The comments on this are funny and relatable.
 
 -----
 
-I know it's ridiculous to say it, but I don't believe the election results. Sorry. I don't think people believed Trump's bullshit enough that FIfTEEN MILLION of them who voted for Biden stayed home. I know I life in a self-created bubble where I don't hear a lot of right-wing propaganda, and maybe I should start listening to it so I'm not so surprised when the votes come in.
+I know it's ridiculous to say it, but I don't believe the election results. Sorry. I don't think people believed Trump's bullshit enough that FIFTEEN MILLION of them who voted for Biden stayed home. I know I life in a self-created bubble where I don't hear a lot of right-wing propaganda, and maybe I should start listening to it so I'm not so surprised when the votes come in.
 
 But I really want to know more about how the votes are counted. How do we really know what happens the the electronic files between the ballot box and the counters and the final tally sent to....I'm sorry, I don't know where it goes. Is there a Federal master of elections? If so, who is she or he?
 
