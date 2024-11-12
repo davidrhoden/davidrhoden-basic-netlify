@@ -3,7 +3,7 @@ title: "The Stacks played at Dr. Cliff Davis's garage again."
 date: 2005-06-04T20:00:00.000Z
 summary: The second of a couple of excellent garage shows.
 excerpt: The second of a couple of excellent garage shows.
-image: /static/img/timeline/burning_barbie.jpg
+image: /static/img/timeline/burning-barbie.jpg
 category: rock
 tags:
   - post
@@ -21,7 +21,7 @@ tags:
 
 ---
 
-![Eli U. holding a burning Barbie doll, New Orleans, Louisiana](/static/img/timeline/burning_barbie.jpg)
+![Eli U. holding a burning Barbie doll, New Orleans, Louisiana](/static/img/timeline/burning-barbie.jpg)
 
 <figcaption>Eli holding a burning Barbie, New Orleans, Louisiana.</figcaption>
 
