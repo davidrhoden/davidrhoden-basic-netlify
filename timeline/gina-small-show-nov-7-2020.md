@@ -4,7 +4,7 @@ date: 2020-11-07T18:00:00.000Z
 summary: First art show I'd seen druing the pandemic.
 excerpt: First art show I'd seen druing the pandemic.
 category: gina
-image: gina/gina-small-show-nov-7-2020.jpg
+image: /static/img/gina/gina-small-show-nov-7-2020.jpg
 tags:
   - post 
   - Gina

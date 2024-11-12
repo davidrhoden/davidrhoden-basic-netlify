@@ -4,7 +4,7 @@ date: 2021-06-19T20:00:00.000Z
 summary: It would be a great story if they had happened in the same place.
 excerpt: It would be a great story if they had happened in the same place.
 category: timeline
-image: gina/gina-kitten-jun-19-2021.jpg
+image: /static/img/gina/gina-kitten-jun-19-2021.jpg
 tags:
   - post 
   - weddings

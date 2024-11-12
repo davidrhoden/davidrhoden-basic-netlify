@@ -1,7 +1,7 @@
 ---
 title: Went with Gina to see Lonnie Holley at the Music Box Village.
 date: 2022-03-12T16:00:00.000Z
-image: gina/gina-walking-to-lonnie-holley-mar-12-2022.jpg
+image: /static/img/gina/gina-walking-to-lonnie-holley-mar-12-2022.jpg
 tags:
   - post 
   - New Orleans

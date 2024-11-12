@@ -26,4 +26,4 @@ There was the adorable little critter by the front door. She had knocked a muffi
 I don't know why I don't like to touch possums with my bare hands, they're nice creatures. But I just don't. So I gently pushed her out the open door with a book.
 Buddy watched all this with mild interest.
 
-![The hall table from which the possum fell.](/static/img/timeline/hall-table-sep-21-2024.jpeg)
+![The hall table from which the possum fell.](/static/img/timeline/hall-table-sep-21-2024.jpg)

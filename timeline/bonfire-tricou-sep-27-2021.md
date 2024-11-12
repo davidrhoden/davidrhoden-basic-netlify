@@ -1,7 +1,7 @@
 ---
 title: We had a Monday evening bonfire at my place.
 date: 2021-09-27T17:00:00.000Z
-image: gina/gina-bonfire-tricou-sep-27-2021.jpg
+image: /static/img/gina/gina-bonfire-tricou-sep-27-2021.jpg
 tags:
   - post
   - fires

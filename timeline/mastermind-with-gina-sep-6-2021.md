@@ -4,7 +4,7 @@ date: 2021-09-06T19:00:00.000Z
 summary: We remembered most things the same.
 excerpt: We remembered most things the same.
 category: timeline
-image: gina/gina-the-mastermind-2-sep-6-2021.jpg
+image: /static/img/gina/gina-the-mastermind-2-sep-6-2021.jpg
 tags:
   - post 
   - New Orleans

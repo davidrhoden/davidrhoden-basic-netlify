@@ -4,7 +4,7 @@ date: 2020-12-27T16:00:00.000Z
 summary: I can't believe I'd never been.
 excerpt: I can't believe I'd never been.
 category: gina
-image: gina/gina-david-battlefield-selfie-dec-27-2020.jpg
+image: /static/img/gina/gina-david-battlefield-selfie-dec-27-2020.jpg
 tags:
   - post 
   - Gina
