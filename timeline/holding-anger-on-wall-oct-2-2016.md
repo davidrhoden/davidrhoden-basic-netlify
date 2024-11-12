@@ -4,7 +4,7 @@ date: 2016-10-02T17:00:00.000Z
 summary: I couldn't move it when I left Texas so I sold it for peanuts.
 excerpt: I couldn't move it when I left Texas so I sold it for peanuts.
 category: timeline
-image: paintings/holding-anger-on-wall-oct-2-2016.jpg
+image: /static/img/paintings/holding-anger-on-wall-oct-2-2016.jpg
 tags:
   - post 
   - painting

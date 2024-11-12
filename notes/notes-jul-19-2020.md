@@ -3,7 +3,7 @@ title: New painting
 date: 2020-07-12T10:00:00.000Z
 summary: I painted a lighter. Also enjoying Doxology by Nell Zink.
 excerpt: I painted a lighter. Also enjoying Doxology by Nell Zink.
-image: paintings/static/img//lighter-jul-19-2020.jpg
+image: /static/img/paintings/static/img//lighter-jul-19-2020.jpg
 tags:
   - note
   - painting

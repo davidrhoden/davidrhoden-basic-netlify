@@ -1,7 +1,7 @@
 ---
 title: I painted these four luchador heads while I was in New Orleans.
 date: 2007-09-24T12:00:00.000Z
-image: paintings/four-heads-new-orleans-sep-24-2007.jpg
+image: /static/img/paintings/four-heads-new-orleans-sep-24-2007.jpg
 tags:
   - post
   - paintings

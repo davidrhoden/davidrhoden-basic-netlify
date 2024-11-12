@@ -1,7 +1,7 @@
 ---
 title: I painted a funny man.
 date: 2015-02-15T12:00:00.000Z
-image: paintings/funnyman-feb-17-2015.jpg
+image: /static/img/paintings/funnyman-feb-17-2015.jpg
 tags:
   - post
   - paintings

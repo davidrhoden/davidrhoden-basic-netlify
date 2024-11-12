@@ -1,7 +1,7 @@
 ---
 title: I painted an angry woman's calm face.
 date: 2016-05-15T12:00:00.000Z
-image: paintings/holding-in-a-lot-of-anger-may-15-2016.jpg
+image: /static/img/paintings/holding-in-a-lot-of-anger-may-15-2016.jpg
 tags:
   - post
   - paintings

@@ -4,7 +4,7 @@ date: 2021-02-24T11:00:00.000Z
 summary: Kind of silly but I felt like it.
 excerpt: Kind of silly but I felt like it.
 category: timeline
-image: paintings/football-feb-24-2021.jpg
+image: /static/img/paintings/football-feb-24-2021.jpg
 tags:
   - post 
   - New Orleans

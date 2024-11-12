@@ -4,7 +4,7 @@ date: 2023-05-27T11:00:00.000Z
 summary: Aah not pictured.
 excerpt: Aah not pictured.
 category: timeline
-image: paintings/aah-critter-may-21-2023.jpg
+image: /static/img/paintings/aah-critter-may-21-2023.jpg
 tags:
   - post 
   - New Orleans
