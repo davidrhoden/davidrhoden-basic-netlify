@@ -2,7 +2,7 @@
 title: I tested negative for COVID.
 date: 2022-02-28T11:00:00.000Z
 image: /static/img/timeline/covid-negative-feb-28-2022.jpg
-summary: I guess I got the symptoms for othing.
+summary: I guess I got the symptoms for nothing.
 tags:
   - post 
   - New Orleans
