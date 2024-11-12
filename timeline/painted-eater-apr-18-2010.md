@@ -3,7 +3,7 @@
   date: 2010-04-18T00:00:00
   excerpt: While in New Orleans on a visit.
   summary: While in New Orleans on a visit.
-  image: paintings/eater.jpg
+  image: /static/img/paintings/eater.jpg
   tags:
     - paintings
     - "Eater"
