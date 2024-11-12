@@ -4,7 +4,7 @@ date: 1996-11-11T21:00:00.000Z
 summary: Let me tell you how I got this cat.
 excerpt: Let me tell you how I got this cat.
 category: betty
-image: betty/betty-1.jpg
+image: /static/img/betty/betty-1.jpg
 tags:
   - post
   - cats
