@@ -3,7 +3,7 @@ title: finally finished this painting of a Unimog.
 date: 2022-02-20T11:00:00.000Z
 summary: The more I worked on it the simpler I made it.
 excerpt: The more I worked on it the simpler I made it.
-image: paintings/unimog-feb-20-2022.jpg
+image: /static/img/paintings/unimog-feb-20-2022.jpg
 tags:
   - post
   - New Orleans

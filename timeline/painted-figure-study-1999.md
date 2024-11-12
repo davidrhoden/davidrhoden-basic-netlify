@@ -1,7 +1,7 @@
 ---
 title: I painted a figure study.
 date: 1999-09-15T12:00:00.000Z
-image: paintings/figure-study-1999.jpg
+image: paintings/static/img//figure-study-1999.jpg
 tags:
   - post
   - paintings

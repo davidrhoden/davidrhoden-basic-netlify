@@ -1,7 +1,7 @@
 ---
 title: Painted "Slow Your Roll".
 date: 2013-11-24T11:00:00.000Z
-image: paintings/slow-your-roll-nov-24-2013.jpg
+image: /static/img/paintings/slow-your-roll-nov-24-2013.jpg
 tags:
   - post 
   - New Orleans

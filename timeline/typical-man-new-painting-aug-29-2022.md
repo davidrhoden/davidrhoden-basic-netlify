@@ -1,7 +1,7 @@
 ---
 title: I painted a typical man.
 date: 2022-08-29T11:00:00.000Z
-image: paintings/typical-man-new-painting-aug-29-2022.jpg
+image: /static/img/paintings/typical-man-new-painting-aug-29-2022.jpg
 tags:
   - post 
   - New Orleans
