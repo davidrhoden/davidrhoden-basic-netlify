@@ -35,7 +35,7 @@ Also, I work with software. It's...fallible.
 
 I listened to a little NPR today, but I don't think I can take All Things Considered seriously anymore. They're just doing the work of making their Democratic listeners feel bad about the Democratic loss (that I don't think was a loss, really). The failed so badly at predicting, I don't know why we should listen to their post-mortems.
 
-I saw some of our local news and that seemed better. All they had to do to make a salient political point do was show footage of RFK Jr, looking dark green and sounding near death, talking about how we're poisoned by fluoride and bemoaning the terrible things Americans eat. Like roadkill, I guess.
+I saw some of our local news and that seemed better. All they had to do to make a salient political point was show footage of RFK Jr, looking dark green and sounding near death, talking about how we're poisoned by fluoride and bemoaning the terrible things Americans eat. Like roadkill, I guess.
 
 -----
 
