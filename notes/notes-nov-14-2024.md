@@ -1,0 +1,28 @@
+---
+title: Notes for November 14, 2024.
+date: yyyy-mm-ddT00:00:00
+excerpt: If there is a good story, please use thinner paint. Please pour water on me.
+summary: If there is a good story, please use thinner paint. Please pour water on me.
+image: /static/img/timeline/toffy-miniature-figure-vol-9.jpg)
+tags:
+  - gachapon
+  - Japanese in translation
+
+---
+
+Never put the home country island in your mouth. There is a cold space such as an unused biological quality and promotion. It is spacious because it is thought of Ashina and Mete. Please give me a lot of time and a lot of things. Manori Station and, receive. Please refrain from eating like a wind, such as putting it on. Again. Do not remove seeds, etc. from the movable part. Please use light. Please do not spend food on the book or receive something you love. Choya Skayan Food. It will be a study of the squid. If there is a good story, please use thinner paint. Please pour water on me.
+
+![Toffy miniature gachapon of household items](/static/img/timeline/toffy-miniature-figure-vol-9.jpg)
+
+-----
+
+An article about a letter sent to VP Harris about reasons to ask for a recount. (Mainly that a lot of people have copies of the software that maybe shouldn't.)
+The article contains a PDF of the letter laying out the reasoning.
+
+"A group of computer security experts have written to Vice President Kamala Harris to alert her to the fact that voting systems were breached by Trump allies in 2021 and 2022 and to urge her to seek recounts in key states to ensure election verification. \"
+
+[Computer Scientists: Breaches of Voting System Software Warrant Recounts to Ensure Election Verification](https://freespeechforpeople.org/computer-scientists-breaches-of-voting-system-software-warrant-recounts-to-ensure-election-verification/)
+
+I want a recount because I don't believe that many people voted for trump from the groups he claims to have made inroads with.
+
+Also, I work with software. It's...fallible.
