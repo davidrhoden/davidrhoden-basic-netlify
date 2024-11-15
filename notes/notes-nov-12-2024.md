@@ -9,7 +9,7 @@ tags:
   - Russia
   - Donald Trump
   - Joe Biden
-  - Gachapon
+  - gachapon
   - Japan
   - weather
 
