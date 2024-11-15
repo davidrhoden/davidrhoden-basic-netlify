@@ -26,3 +26,11 @@ The article contains a PDF of the letter laying out the reasoning.
 I want a recount because I don't believe that many people voted for trump from the groups he claims to have made inroads with.
 
 Also, I work with software. It's...fallible.
+
+-----
+
+I listened to a little NPR today, but I don't think I can ever take All Thing Considered seriously anymore. They're just doing the work of making their Democratic listeners feel bad about the Democratic loss (that I don't think was a loss, really). I saw some of our local news and that seemed better. All they had to to make a political point do was show footage of RFK Jr, sounding near death, talking about how we're poisoned by fluoride and bemoaning the terrible things Americans eat. Like roadkill, I guess.
+
+-----
+
+No drawings today.
