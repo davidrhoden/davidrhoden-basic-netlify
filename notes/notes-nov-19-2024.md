@@ -34,7 +34,7 @@ I am enjoying _Reservation Dogs_. I'm on to Season 2. I had to watch a couple ep
 
 I still don't believe the election results. Just quietly joining the conspiracy theories while I can. Today's cool link:
 
-[America needs an official forensic audit into the US presidential election to save its democracy]https://www.thecanary.co/global/world-analysis/2024/11/19/forensic-audit-us-presidential-election/), by Erryl Davies
+[America needs an official forensic audit into the US presidential election to save its democracy](https://www.thecanary.co/global/world-analysis/2024/11/19/forensic-audit-us-presidential-election/), by Erryl Davies
 
 -----
 
