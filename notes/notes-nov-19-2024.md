@@ -14,9 +14,9 @@ tags:
 
 ---
 
-I'd sorta forgotten about this great tune, "Lives of the Saints, no. 135" by Honor Role. I got a copy of _Human Music_ a Homestead Records 2LP compilation I had, maybe in high school, but got rid of somewhere along the way. I don't think this is my copy. (It has a cut corner and no initials n the inside of the jacket, as was my mark back then.)
+I'd sorta forgotten about this great tune, "Lives of the Saints, no. 135" by Honor Role. I got a copy of _Human Music_ a Homestead Records 2LP compilation I had, maybe in high school, but got rid of somewhere along the way. I don't think this is my copy. (It has a cut corner and no initials on the inside of the jacket, as was my mark back then.)
 
-Honor Role were from Richmond, Virginia. They didn't fit any genre too well, but you hafta remember they were before Dinosaur, before Jesus Lizard, etc. I also had their album _Rictus_ which was a gloomy, tough listen but also very good. The singer, Bob Schick, sounded like he was getting strangled a lot. Like he was saying something people didn't want to hear. Maybe they didn't. I don't know if you could consider tham a "success" or "popular" other than on their own terms, and among people who thought they were just great.
+Honor Role were from Richmond, Virginia. They didn't fit any genre too well. I also had their album _Rictus_ which was a gloomy, tough listen but also very good. I don't know if you could consider tham a "success" or "popular" other than on their own terms, and among people who thought they were just great.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qjDr0RkTCT8?si=CVuu72CjavyqvphE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
