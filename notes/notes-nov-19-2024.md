@@ -22,7 +22,7 @@ Honor Role were from Richmond, Virginia. They didn't fit any genre too well. I a
 
 Here's a live show of Honor Role from C.B.G.B. in 1986.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qjDr0RkTCT8?si=CVuu72CjavyqvphE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CR15gw-10Ic?si=yypq5ZEOmbSfjNwK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 -----
 
