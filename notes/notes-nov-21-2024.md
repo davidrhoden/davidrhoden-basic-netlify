@@ -55,3 +55,9 @@ And yesterday's:
 -----
 
 I love "Wonderful Christmastime" and I look forward to hearing it a few times every year.
+
+-----
+
+Gratuitous Buddy picture.
+
+![cartoon of man singing "Big Shot" at karaoke, by David Rhoden](/static/img/buddy/buddy-on-desk-nov-20-2024.jpg)
