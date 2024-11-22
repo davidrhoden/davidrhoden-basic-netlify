@@ -40,7 +40,7 @@ Something something something something something_
 Rat-infested Lundy Cabin, where we stick the life guard
 And the mountaintop is our great big backyard.
 
-![Vesper Point at Camp Lookout](/static/img/timeline/camp-lookout-vespers.jpg)
+![Vesper Point at Camp Lookout](/static/img/notes/camp-lookout-vespers.jpg)
 
 -----
 
