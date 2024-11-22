@@ -9,8 +9,10 @@ tags:
   - C.B.G.B.
   - Reservation Dogs
   - Nymphomaniac Part 1
+  - Lars von Trier
   - 2924 Election
   - forensic audit
+  - Anora
 
 ---
 
