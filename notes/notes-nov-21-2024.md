@@ -60,4 +60,4 @@ I love "Wonderful Christmastime" and I look forward to hearing it a few times ev
 
 Gratuitous Buddy picture.
 
-![cartoon of man singing "Big Shot" at karaoke, by David Rhoden](/static/img/buddy/buddy-on-desk-nov-20-2024.jpg)
+![cat Buddy lying on desk](/static/img/buddy/buddy-on-desk-nov-20-2024.jpg)
