@@ -1,16 +1,19 @@
 ---
 title: Notes for December 12, 2024.
 date: 2024-12-12T00:00:00
-excerpt: 
-summary: 
-image: 
+excerpt: In which I ruminate on the covers of The New Yorker.
+summary: In which I ruminate on the covers of The New Yorker.
+image: /static/img/notes/new-yorker-blitt-aug-26-2024.jpg
 tags:
   - The New Yorker
   - Tom Toro
+  - Barry Blitt
   - Pretenders
   - "Show Me"
   - Wilco
   - I Am Trying To Break Your Heart
+  - /r/somethingiswrong2024
+  -
 
 ---
 
@@ -28,19 +31,19 @@ I'll get scorned for saying this, but I think it _was_ true. I think America vot
 
 I don't care. Call me crazy, call me stupid; I'll be fine. I'm following the subreddit [/r/somethingiswrong2024/](https://www.reddit.com/r/somethingiswrong2024/), where me and all the other idiot cranks can talk about how this might have happened. We listen for new missives from one Stephen Spoonamore (silly-sounding name, I know), the guy with the best theories and the most passion about the subject. He wrote an often-linked-to "Duty To Warn" letter to Kamala Harris begging her to demand hand recounts. You might have read it. It doesn't sound crazy. [Here it is](https://substack.com/home/post/p-151721941). And for my friends who say I'm a kook, here's [Snopes' debunking of it](https://www.snopes.com/news/2024/11/21/stephen-spoonamore-letter-harris/), in which they say he doesn't have enough concrete evidence for the statements he makes, which is why he's asking Harris to demand a recount, to look at what concrete evidence there is.
 
-I don't think the American people got what they voted for. We're too smart to vote for that fascist pile of garbage again. We voted for Harris/Walz. We kept hearing there was "reord turnout" and there's no way Trump, the dotard, could get that many people out, with his dwindling audiences and his terrible performance. But money is a powerful tool, as is access to voting machines. I think Musk had something to do with it.
+I don't think the American people got what they voted for. We're too smart to vote for that fascist pile of garbage again. We voted for Harris/Walz. We kept hearing there was "record turnout", and there's no way Trump, the dotard, could get that many people out, with his dwindling audiences and his frankly terrible performance. But money is a powerful tool, as is access to voting machines. I think Musk had something to do with it.
 
-And I'll probably never know. I'll just have to live with this. But I doubt a Democrat will ever be elected President again.
+And I'll probably never know. I'll just have to live with this. But Iwonder if a Democrat will ever be elected President again.
 
 O.k., that's enough about that. We were talking about _New Yorker_ covers, not alternate realities that probably exist only in my head. So here's another _New Yorker_ I need to bring to your attention.
 
 ![Tom Toro cover of The New Yorker, August 26, 2024](/static/img/notes/new-yorker-toro-dec-2-2024.jpg)
 
-My reaction on seeing this cover slide out of my mailbox was one of visceral disgust. What the hell is this? _Highlights for Children_? Ha ha, the turkeys want to hide their identities with those funny nose-glasses, that don't really look like that, and which you rarely ever see anymore! They were a twentieth-century thing. What a joke. It's on par with those kooky Chik-Fil-A billboards where the semi-literate cows encourage you to kill and eat a chicken instead of them. I hate it.
+My reaction on seeing this cover slide out of my mailbox was one of visceral disgust. What the hell is this? _Highlights for Children_? Ha ha, the turkeys want to hide their identities with those funny nose-glasses, that don't really look like that, and which you rarely ever see anymore! They were a twentieth-century thing. What a joke. It's on par with those kooky Chik-Fil-A billboards where the semi-literate cows encourage you to kill and eat a chicken instead of them. I hate it. More dappled sunlight, less of this!
 
 Also, what's wrong with the farmer's eyes? And why is she carrying so many turnips like that? She should have a basket. It is funny, however, that he illustrated a silo over the publication's name.
 
-The illustrator's name is Tom Toro, another silly-sounding alliterative name. I'm sure he's done better work. I think I've seen some. Wait, I definitely have! This was great:
+The illustrator's name is Tom Toro, another silly-sounding alliterative name. (Big sale on Os that day?) I'm sure he's done better work. I think I've seen some. Wait, I definitely have! This was great:
 
 ![Tom Toro cartoon](/static/img/notes/a-man-and-3-children-sit-around-a-fire-tom-toro.jpg)
 
