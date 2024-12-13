@@ -9,11 +9,10 @@ tags:
   - Tom Toro
   - Barry Blitt
   - Pretenders
-  - "Show Me"
+  - Show Me
   - Wilco
   - I Am Trying To Break Your Heart
-  - /r/somethingiswrong2024
-  -
+  - somethingiswrong2024
 
 ---
 
