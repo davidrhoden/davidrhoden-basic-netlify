@@ -1,6 +1,6 @@
 ---
-title: Notes for December 12, 2024.
-date: 2024-12-12T00:00:00
+title: Notes for December 11, 2024.
+date: 2024-12-11T00:00:00
 excerpt: I sent an email to Norfolk Southern Railroad today to ask them about this project they are planning in my neighborhood.
 summary: I sent an email to Norfolk Southern Railroad today to ask them about this project they are planning in my neighborhood.
 image: /static/img/notes/norfolk-southern-track-rehab-detail-dec-11-2024.jpg
