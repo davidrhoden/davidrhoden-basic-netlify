@@ -32,7 +32,7 @@ I don't care. Call me crazy, call me stupid; I'll be fine. I'm following the sub
 
 I don't think the American people got what they voted for. We're too smart to vote for that fascist pile of garbage again. We voted for Harris/Walz. We kept hearing there was "record turnout", and there's no way Trump, the dotard, could get that many people out, with his dwindling audiences and his frankly terrible performance. But money is a powerful tool, as is access to voting machines. I think Musk had something to do with it.
 
-And I'll probably never know. I'll just have to live with this. But Iwonder if a Democrat will ever be elected President again.
+And I'll probably never know. I'll just have to live with this. But I wonder if a Democrat will ever be elected President again.
 
 O.k., that's enough about that. We were talking about _New Yorker_ covers, not alternate realities that probably exist only in my head. So here's another _New Yorker_ I need to bring to your attention.
 
@@ -46,7 +46,9 @@ The illustrator's name is Tom Toro, another silly-sounding alliterative name. (B
 
 ![Tom Toro cartoon](/static/img/notes/a-man-and-3-children-sit-around-a-fire-tom-toro.jpg)
 
-So, Tom, I'm sorry I hated your "turkey" of a cover, but wow. Oh, by the way, I was able to plumb the depths of Condé Nast's website and cancel my _New Yorker_ subscription. They've even promised to refund me $5.22.
+So, Tom, you've done some good work. I'm sorry I hated your "turkey" of a cover, but wow.
+
+By the way, I was able to plumb the depths of Condé Nast's website and cancel my _New Yorker_ subscription. They've even promised to refund me $5.22.
 
 -----
 
@@ -70,6 +72,6 @@ Not one funny thing happens in it, except they draw a stupid face around Jeff Tw
 
 There’s a _little_ drama, which is that one member of Wilco at the time, Jay Bennett, is acting like a little whiner and bringing musical elements to the band that detract from what made the band good (if you liked them. Maybe it’s possible to prefer the Jay Bennett part of Wilco.) He's obtuse and touchy and the band react to him with patience, but also with increasingly obvious frustration. And then they fire him.
 
-Of course all documentaries are edited to tell a story the director wants, but the movie really takes out its frustrations on Bennett. They cut from a post-firing interview with him where he’s saying Tweedy wants to keep the band centered around himself (how surprising), to a shot of Bennett alone on stage at a lame acoustic gig, singing with his eyes shut to an unseen audience. That's it for him.
+Of course all documentaries are edited to tell a story the director wants, but the movie really takes out its frustrations on Bennett. They cut from a post-firing interview with him where he’s complaining Tweedy wants to keep the band centered around himself (how surprising), to a shot of Bennett alone on stage at a lame acoustic gig, singing with his eyes shut to an unseen audience. That's it for him.
 
 And that’s really most of the movie. After that there's some "on the road again" footage of Tweedy with his wife and small kids doing things like going to Arby's. I don’t know what made me keep watching, I was frustrated with it the whole time. No hearts were broken in the making of this film, except maybe that one guy.
