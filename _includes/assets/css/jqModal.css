@@ -20,14 +20,19 @@
     left: 50%;
     margin-left: -40%;
     width: 80%;
-    background-color: yellow;
+    background-color: white;
     color: #333;
     border: 1px solid black;
     padding: 12px;
+    animation: FadeSlowlyIn 3s 1 forwards;
+    animation-delay: 3s;
 }
 
 .jqmOverlay {
     background-color: #000;
+    opacity: 0;
+    animation: FadeSlowlyIn 3s 1 forwards;
+    animation-delay: 2s;
 }
 
 .jqmWindow .embeddable-buttondown-form input {
@@ -39,4 +44,17 @@
      border: 0px solid black;
      color: white;
      font-weight: 900;
+}
+
+
+@keyframes FadeSlowlyIn {
+    0% {
+        opacity: 0;
+    }
+    80% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
 }

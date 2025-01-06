@@ -8,17 +8,16 @@
     {% include "assets/css/hamburgers.css" %}
     {% include "assets/css/svg-overlay.css" %}
     {% include "assets/css/magnific-popup.css" %}
-    {% include "assets/css/fake-browser.css" %}
     {% include "assets/css/bricks.css" %}
     {% include "assets/css/timeline-two-sections.css" %}
-    {% include "assets/css/pagefind-ui.css" %}
     {% include "assets/css/jqModal.css" %}
     {% include "static/webfonts/ShadowGrotesque/stylesheet.css" %}
     {% if davidrhodenbasicnetlify.environment == "development" %}
       {% include "assets/css/development.css" %}
     {% endif %}
   {% endset %}
-  <style>{{ css | cssmin | safe }}</style>
+  <style>{{ css | safe }}</style>
+  <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Libre+Franklin:ital,wght@0,300;0,700;1,300;1,700&display=swap" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css2?family=Source+Serif+Pro:ital,wght@0,300;0,400;0,700;1,400&display=swap" rel="stylesheet">
@@ -27,7 +26,6 @@
 
   <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
   {% set js %}
-    {% include "assets/js/pagefind-ui.js"%}
     {% include "assets/js/jquery.min.js" %}
     {% include "assets/js/jqModal.js" %}
     {% include "assets/js/jquery-cookie.js" %}
@@ -36,9 +34,11 @@
     {% include "assets/js/inline.js" %}
   {% endset %}
   <script>{{ js | safe }}</script>
+  <script src="/pagefind/pagefind-ui.js"></script>
+
 <script>
     window.addEventListener('DOMContentLoaded', (event) => {
-        new PagefindUI({ element: "#search", showSubResults: false });
+        new PagefindUI({ element: "#search", showSubResults: true, showImages: true });
     });
 </script>
   {% seo "" %}

@@ -1,14 +1,20 @@
 const { DateTime } = require("luxon");
-const CleanCSS = require("clean-css");
-const UglifyJS = require("uglify-js");
-const htmlmin = require("html-minifier");
+// const CleanCSS = require("clean-css");
+// const UglifyJS = require("uglify-js");
+// const htmlmin = require("html-minifier");
 const slugify = require("slugify");
 const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
 const pluginSEO = require("eleventy-plugin-seo");
 const path = require("path");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
+const { execSync } = require('child_process')
 
 module.exports = function (eleventyConfig) {
+
+  eleventyConfig.on('eleventy.after', () => {
+      execSync(`npx pagefind --site _site --glob \"**/*.html\"`, { encoding: 'utf-8' })
+    })
+
   eleventyConfig.addPlugin(eleventyNavigationPlugin);
 
   eleventyConfig.addPlugin(pluginSEO, require("./_data/seo.json"));
@@ -22,19 +28,19 @@ module.exports = function (eleventyConfig) {
   // https://www.11ty.dev/docs/data-deep-merge/
   eleventyConfig.setDataDeepMerge(true);
 
-  eleventyConfig.addFilter("cssmin", function(code) {
-    return new CleanCSS({}).minify(code).styles;
-  });
+  // eleventyConfig.addFilter("cssmin", function(code) {
+  //   return new CleanCSS({}).minify(code).styles;
+  // });
 
   // Minify JS
-  eleventyConfig.addFilter("jsmin", function(code) {
-    let minified = UglifyJS.minify(code);
-    if (minified.error) {
-      console.log("UglifyJS error: ", minified.error);
-      return code;
-    }
-    return minified.code;
-  });
+  // eleventyConfig.addFilter("jsmin", function(code) {
+  //   let minified = UglifyJS.minify(code);
+  //   if (minified.error) {
+  //     console.log("UglifyJS error: ", minified.error);
+  //     return code;
+  //   }
+  //   return minified.code;
+  // });
 
   eleventyConfig.addFilter("readableDate", (dateObj) => {
     return DateTime.fromJSDate(dateObj).toFormat("LLLL d, yyyy");
