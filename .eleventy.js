@@ -7,7 +7,7 @@ const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
 const pluginSEO = require("eleventy-plugin-seo");
 const path = require("path");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
-const { execSync } = require('child_process')
+const { execSync } = require('child_process');
 
 module.exports = function (eleventyConfig) {
 

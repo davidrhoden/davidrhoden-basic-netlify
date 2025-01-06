@@ -15,7 +15,7 @@ tags:
 
 ---
 
-![Talking Heads photo from SNL](/static/img/timeline/talking-heads-on-snl-feb-10-1979.jpg)
+![Talking Heads photo from SNL](/static/img/timeline/talking-heads-snl-feb-10-1979.jpg)
 
 Our mom seemed appalled that we even liked this, much less that we were enthusiastic about it.
 
