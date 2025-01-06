@@ -10,13 +10,13 @@ tags:
   - rock
   - shows
   - Chattanooga
-  - Dales
+  - Dale's
   - Brain Wash
   - The Value
   - Raging Fire
 
 ---
 
-![Thanksgiving Punk Fest flyer](/static/img/rock/thanksgiving-punk-fest-nov-23-1984.jpg "Thanksgiving Punk Fest flyer")
+![Thanksgiving Punk Fest flyer](/static/img/timeline/thanksgiving-punk-fest-nov-23-1984.jpg "Thanksgiving Punk Fest flyer")
 
 I guess I saved this? Maybe Kip copied it for me later.
