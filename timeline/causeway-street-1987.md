@@ -25,4 +25,4 @@ Here's the video where I found the picture. It's a band called The Eels (way bef
 
 And this is the building. We called our place "Watson Studios" but I never knew the building said "Watson" on it. Remember at this time the T (Boston' subway) ran on elevated tracks down the middle of Causeway Street. We were on the tird floor, upstairs from the kung fu dojo.
 
-![Loft at 117 Causeway Street, Boston, now demolished.](/static/img/timeline/c117-causeway-boston.jpg)
+![Loft at 117 Causeway Street, Boston, now demolished.](/static/img/timeline/117-causeway-boston.jpg)
