@@ -23,6 +23,6 @@ Here's the video where I found the picture. It's a band called The Eels (way bef
 
 <iframe width="640" height="350" src="https://www.youtube.com/embed/ezXcMf1LEgs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-And this is the building. We called our place "Watson Studios" but I never knew the building said "Watson" on it. Remember at this time the T (Boston' subway) ran on elevated tracks down the middle of Causeway Street. We were on the tird floor, upstairs from the kung fu dojo.
+And this is the building. We called our place "Watson Studios" but I never knew the building said "Watson" on it. Remember at this time the T (Boston's subway) ran on elevated tracks down the middle of Causeway Street. We were on the third floor, upstairs from the kung fu dojo.
 
 ![Loft at 117 Causeway Street, Boston, now demolished.](/static/img/timeline/117-causeway-boston.jpg)
