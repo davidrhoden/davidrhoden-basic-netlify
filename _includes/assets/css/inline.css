@@ -64,6 +64,11 @@ article {
   height: auto;
 }
 
+article video {
+  max-width: 100%;
+  text-align: center;
+}
+
 h1 {
   font-family: var(--font-secondary);
   font-weight: 700;
@@ -759,6 +764,10 @@ span.fade:hover {
   main img {
     max-width: 1000px;
   }
+
+  article video {
+  width: auto;
+}
 
   .animation-individual,
   .animation-individual video {
