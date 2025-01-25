@@ -20,6 +20,7 @@ tags:
 
 And while I'm thinking about it, would you please join our mailing list? You can do it.
 
+<div style=" margin: 0 auto; max-width: 900px;">
 <iframe
     scrolling="no"
     style="width:100%!important;height:220px;border:1px #ccc solid !important"
