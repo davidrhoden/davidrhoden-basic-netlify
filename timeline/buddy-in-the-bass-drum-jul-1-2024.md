@@ -1,8 +1,8 @@
 ---
-title: Buddy got in the bass drum.
+title: Buddy got in the bass drum again.
 date: 2024-07-01T00:00:00
-excerpt: He looked prretty comfortable in there
-summary: He looked prretty comfortable in there
+excerpt: He looked pretty comfortable in there.
+summary: He looked pretty comfortable in there.
 image: /static/img/buddy-bass-drum-1-jul-1-2024.jpg
 tags:
   - cats
