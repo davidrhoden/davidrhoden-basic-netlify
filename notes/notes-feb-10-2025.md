@@ -15,7 +15,7 @@ tags:
 
 ---
 
-I turned on the Super Bowl about a half-hour late, but when I did the television was showing an ad for an oil company, bragging about how they plan to do a lot of drilling in the "Gulf of America", and I was so disgusted I turned it off again. I used the time I suddenly got back to make a whole new website for my web design and development business, [Happening Interactive](https://happeninginteractive.com.
+I turned on the Super Bowl about a half-hour late, but when I did the television was showing an ad for an oil company, bragging about how they plan to do a lot of drilling in the "Gulf of America", and I was so disgusted I turned it off again. I used the time I suddenly got back to make a whole new website for my web design and development business, [Happening Interactive](https://happeninginteractive.com).
 
 Here's what the homepage looks like on a desktop computer:
 ![Happening Interactive homepage screenshot](/static/img/notes/hi-home-screenshot-feb-9-2025.png)
