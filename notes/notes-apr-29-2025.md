@@ -12,4 +12,4 @@ tags:
 
 The Lemon Twigs album arrived.
 
-![Lemon Twigs album came in the mail.](static/img/notes/lemon-twigs-album-arrived-apr-29-2024.jpg)
+![Lemon Twigs album came in the mail.](/static/img/notes/lemon-twigs-album-arrived-apr-29-2024.jpg)
