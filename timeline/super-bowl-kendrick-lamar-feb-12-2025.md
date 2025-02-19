@@ -3,7 +3,7 @@ title: I watched the Super Bowl halftime featuring Kendrick Lamar.
 date: 2025-02-12T00:00:00
 excerpt: There was an ad on the Super Bowl about Chevron drilling in the "Gulf of America" and I was too disgusted to leave the TV on.
 summary: There was an ad on the Super Bowl about Chevron drilling in the "Gulf of America" and I was too disgusted to leave the TV on.
-image: static/img/timeline/kendrick-lamar-super-bowl-feb-9-2025.png
+image: /static/img/timeline/kendrick-lamar-super-bowl-feb-9-2025.png
 tags:
   - Super Bowl
   - Kendrick Lamar
