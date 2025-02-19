@@ -3,7 +3,7 @@ title: January seems like a long time ago.
 date: 2025-02-19T00:00:00
 excerpt: It’s the middle of the month, which seems like as good a time as any to rap at ya, even though nothing is new in my world except WE ARE IN THE MIDDLE OF A FASCIST COUP LED BY A NAZI.
 summary: It’s the middle of the month, which seems like as good a time as any to rap at ya, even though nothing is new in my world except WE ARE IN THE MIDDLE OF A FASCIST COUP LED BY A NAZI.
-image: (https://assets.buttondown.email/images/1c6f8b4a-6574-412e-ad97-307ede1783b3.jpg
+image: https://assets.buttondown.email/images/1c6f8b4a-6574-412e-ad97-307ede1783b3.jpg
 tags:
   - newsletter
   - dioramas
@@ -47,7 +47,7 @@ tags:
 
 <span>I’ll have a new booklet or ‘zine of these pretty soon. If you don’t have one or both of the previous two, just drop me a line.</span>
 
-# <span style="font-family: monospace"><br></span><span>Reading</span>
+## <span>Reading</span>
 
 <span><em>Edwin Mullhouse: The Life and Death of an American Writer 1943-1954 by Jeffrey Cartwright</em> by Steven Millhauser</span>
 
