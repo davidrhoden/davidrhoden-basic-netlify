@@ -1,10 +1,8 @@
 ---
 title: I went to Camp Lookout and behaved like a jerk.
 date: 1979-07-05T00:00:00
-excerpt: As you may know Methodists have a pretty good history of featuring graphically strong felt/fabric banners as part of the worship experience.
-I guess they hoped we’d move that craft forward a little bit.
-summary: As you may know Methodists have a pretty good history of featuring graphically strong felt/fabric banners as part of the worship experience.
-I guess they hoped we’d move that craft forward a little bit.
+excerpt: "As you may know Methodists have a pretty good history of featuring graphically strong felt/fabric banners as part of the worship experience. I guess they hoped we’d move that craft forward a little bit."
+summary: "As you may know Methodists have a pretty good history of featuring graphically strong felt/fabric banners as part of the worship experience. I guess they hoped we’d move that craft forward a little bit."
 image: /static/img/timeline/i-have-an-idea-feb-27-2025.jpg
 tags:
   - Camp Lookout
@@ -14,6 +12,7 @@ tags:
   - bad behavior
   - unkindness
   - Beverly
+  - date approximate
 
 ---
 When I went to Camp Lookout, there was a kid named Ronnie with a huge “how-is-babby-formed" forehead. Very slow on the uptake.
