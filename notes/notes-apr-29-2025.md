@@ -1,5 +1,5 @@
 ---
-title: Notes for April 29, 2024
+title: Notes for April 29, 2024.
 date: 2024-04-29T00:00:00
 excerpt: The Lemon Twigs album arrived.
 summary: The Lemon Twigs album arrived.

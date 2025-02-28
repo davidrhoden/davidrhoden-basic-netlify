@@ -1,5 +1,5 @@
 ---
-title: oh my (and notes on Grand Theft Auto IV)
+title: Oh my (and notes on Grand Theft Auto IV).
 date: 2020-07-12T10:00:00.000Z
 summary: I'm doing all right, despite the pandemic. I am okay not seeing too many people. Saving money, I guess.
 excerpt: I'm doing all right, despite the pandemic. I am okay not seeing too many people. Saving money, I guess.

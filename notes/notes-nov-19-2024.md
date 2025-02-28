@@ -1,5 +1,5 @@
 ---
-title: Notes for November 19, 2024
+title: Notes for November 19, 2024.
 date: 2024-11-19T00:00:00
 excerpt: Watching Reservation Dogs. And I still don't believe the election results. Just quietly joining the conspiracy theories while I can.
 summary: Watching Reservation Dogs. And I still don't believe the election results. Just quietly joining the conspiracy theories while I can.

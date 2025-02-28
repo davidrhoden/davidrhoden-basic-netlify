@@ -1,5 +1,5 @@
 ---
-title: Notes for November 16, 2024
+title: Notes for November 16, 2024.
 date: 2024-11-16T00:00:00
 excerpt: "Bob! I love what you've done with your face!"
 summary: "Bob! I love what you've done with your face!"

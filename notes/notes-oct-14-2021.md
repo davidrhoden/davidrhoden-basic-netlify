@@ -1,5 +1,5 @@
 ---
-title: a Stacks show later this month, a reason to watch TV
+title: "Notes for October 13, 2021: Stacks show later this month, a reason to watch TV."
 date: 2021-10-13T14:00:00.000Z
 image: /static/img/timeline/lemon-twigs-oct-14-2021.jpg
 excerpt: The Lemon Twigs are good on record but what really shines is the live show.

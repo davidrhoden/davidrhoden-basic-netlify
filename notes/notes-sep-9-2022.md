@@ -1,5 +1,5 @@
 ---
-title: I kept up my two-mile walks for another day.
+title: "Notes for September 9, 2022: I kept up my two-mile walks for another day."
 date: 2022-09-09T10:00:00.000Z
 image: /static/img/timeline/bullet-casings-on-levee-sep-9-2022.jpg
 excerpt: I found some artifacts on the levee.
