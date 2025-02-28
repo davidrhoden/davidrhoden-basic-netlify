@@ -8,7 +8,7 @@ tags:
   - paintings
   - mummies
   - Melanie K.
-  - Halloween
+  - Hallowe'en
   - Ursulines Avenue
 
 ---
