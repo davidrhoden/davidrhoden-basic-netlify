@@ -8,7 +8,7 @@ image: /static/img/timeline/mummies-dec-5-2015.jpg
 tags:
   - post 
   - rock
-  - Mummies
+  - The Mummies
   - OBNIIIS
   - Austin
   - Hotel Vegas
