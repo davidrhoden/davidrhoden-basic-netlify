@@ -31,4 +31,4 @@ I won't give the rest of the story away, but maybe that bootlegger turns out to 
 
 ![Still from Night Nurse featuring Barbara Stanwyck and Joan Blondell](/static/img/notes/night-nurse-still-3-mar-5-2025.jpg#full-width)
 
-![Still from Night Nurse featuring Barbara Stanwyck and Joan Blondell](/static/img/notes/night-nurse-still-4-mar-5-2025.jpg)
+![Still from Night Nurse featuring Barbara Stanwyck and Joan Blondell](/static/img/notes/night-nurse-still-4-mar-5-2025.jpg#full-width)
