@@ -19,7 +19,7 @@ Terrific 70-min pre-code movie. Young Barbara Stanwyck and Joan Blondell are nur
 
 The plot is, in a word, insane. Stanwyck & Blondell are sent to nurse to the children of a drunken high society lady. ("I'm a dipsomaniac! I'm a dipsomaniac and I'm proud of it!" the lady avers, loudly.) Her two adorable little girls are dying, you see, because they have been forbidden to have food, on the orders of a drug-addicted society doctor with a give-away eye twitch, Dr. Ranger.
 
-Rather than just sneak the little tykes some food, Stanwyck tries to go to the police, or get a nice doctor to go to the police, but everybody says don't do that, no one will believe her; such is Dr. Ranger’s reputation. And the old housekeeper sees to it that the doctor's orders, and the orders of Nick the Chauffeur, are followed, despite the girls' woeful comments like "I wish we had something to eat."  Meanwhile Stanwyck shows no compunction about breaking some different rules (possibly more sensible ones) by treating a bloody but presumably handsome bootlegger’s bullet wound.
+Rather than just sneak the little tykes some food, Stanwyck tries to go to the police, or get a nice drug-free doctor to go to the police, but everybody says don't do that, no one will believe her; such is Dr. Ranger’s reputation. And the old housekeeper sees to it that the doctor's orders, and the orders of Nick the Chauffeur, are followed, despite the girls' woeful comments like "I wish we had something to eat."  Meanwhile Stanwyck shows no compunction about breaking some different rules (possibly more sensible ones) by treating a bloody but presumably handsome bootlegger’s bullet wound.
 
 I won't give the rest of the story away, but maybe that bootlegger turns out to be a swell fella after all, and the scary chauffeur turns out to be not quite on the up-and-up. It all ends very, very satisfyingly, except you don’t get to see the little girls eat any food.
 
@@ -27,8 +27,8 @@ I won't give the rest of the story away, but maybe that bootlegger turns out to 
 
 ![Still from Night Nurse featuring Barbara Stanwyck and Joan Blondell](/static/img/notes/night-nurse-still-1-mar-5-2025.jpg)
 
-![Still from Night Nurse featuring Barbara Stanwyck and Joan Blondell](/static/img/notes/night-nurse-still-2-mar-5-2025.jpg)
+![Still from Night Nurse featuring Barbara Stanwyck and Joan Blondell](/static/img/notes/night-nurse-still-2-mar-5-2025.jpg#full-width)
 
-![Still from Night Nurse featuring Barbara Stanwyck and Joan Blondell](/static/img/notes/night-nurse-still-3-mar-5-2025.jpg)
+![Still from Night Nurse featuring Barbara Stanwyck and Joan Blondell](/static/img/notes/night-nurse-still-3-mar-5-2025.jpg#full-width)
 
 ![Still from Night Nurse featuring Barbara Stanwyck and Joan Blondell](/static/img/notes/night-nurse-still-4-mar-5-2025.jpg)

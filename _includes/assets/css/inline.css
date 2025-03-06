@@ -36,6 +36,10 @@ img[src*="half-width"] {
    width:350px;
 }
 
+img[src*="full-width"] {
+   width:100%;
+}
+
 .inline-block {
   display: inline-block;
 }
