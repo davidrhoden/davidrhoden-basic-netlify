@@ -3,7 +3,7 @@ title: Notes for March 5, 2025.
 date: 2025-03-05T00:00:00
 excerpt: Terrific 70-min pre-code movie. Young Barbara Stanwyck and Joan Blondell are nurses Lora Hart and "Maloney", learning the ropes of the profession, and constantly changing their clothes and each other’s clothes on screen.
 summary: Terrific 70-min pre-code movie. Young Barbara Stanwyck and Joan Blondell are nurses Lora Hart and "Maloney", learning the ropes of the profession, and constantly changing their clothes and each other’s clothes on screen.
-image: /static/img/notes/night-nurse-still-mar-5-2025.jpg
+image: /static/img/notes/night-nurse-still-1-mar-5-2025.jpg
 tags:
   - movies
   - pre-Code Hollywood
@@ -24,3 +24,11 @@ Rather than just sneak the little tykes some food, Stanwyck tries to go to the p
 I won't give the rest of the story away, but maybe that bootlegger turns out to be a swell fella after all, and the scary chauffeur turns out to be not quite on the up-and-up. It all ends very, very satisfyingly, except you don’t get to see the little girls eat any food.
 
 ![Still from Night Nurse featuring Barbara Stanwyck and Joan Blondell](/static/img/notes/night-nurse-still-mar-5-2025.jpg)
+
+![Still from Night Nurse featuring Barbara Stanwyck and Joan Blondell](/static/img/notes/night-nurse-still-1-mar-5-2025.jpg)
+
+![Still from Night Nurse featuring Barbara Stanwyck and Joan Blondell](/static/img/notes/night-nurse-still-2-mar-5-2025.jpg)
+
+![Still from Night Nurse featuring Barbara Stanwyck and Joan Blondell](/static/img/notes/night-nurse-still-3-mar-5-2025.jpg)
+
+![Still from Night Nurse featuring Barbara Stanwyck and Joan Blondell](/static/img/notes/night-nurse-still-4-mar-5-2025.jpg)
