@@ -1,8 +1,8 @@
 ---
 title: I got some paintings back that I thought were long gone.
 date: 2025-03-17T00:00:00
-excerpt: Eleven years later! I was thrilled to get them back
-summary: Eleven years later! I was thrilled to get them back
+excerpt: Eleven years later! I was thrilled to get them back.
+summary: Eleven years later! I was thrilled to get them back.
 image: /static/img/paintings/blackeye-reclaimed-mar-17-2025.jpeg
 tags:
   - paintings
