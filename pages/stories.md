@@ -125,6 +125,8 @@ Played the vicar Lionel Toop in See How They Run.
 
 Aug 25, 1983: Odetta at Bessie Smith Strut.
 
+If you go to Gatlinburg, let me know if "Hauntings" is still there. It's a spookhouse, basically, on a second floor above something more popular. It's both a total ripoff and the most extreme jump-scare terror I've ever felt. Skip if you have cardiac or continence issues.
+
 ## 1984
 
 Took city-wide French exam.
