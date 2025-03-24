@@ -16,7 +16,7 @@ tags:
 
 ---
 
-A place I worked hired a lot of programmers straight from China (you don't have to pay people as much if they depend on an H1B).  They were a quiet, insular bunch, some of them never spoke English. One day they all got excited about some food someone brought, they really brightened up, they seemed so happy. 
+A place I worked hired a lot of programmers straight from China (you don't have to pay people as much if they depend on an H1B).  They were a quiet, insular bunch, some of them never spoke English. One day they all got excited about some food someone brought, they really brightened up, they seemed so happy. I was excited for them! I love learning about new foods. I kept trying to get a glimpse of what it was they were so excited about.
 
 So they put this food in the microwave. In seconds, it smelled like someone burned a truck tire in the office. I had to open a window. But they were all eating and laughing. And one of the quietest guys, seeing a look of horror on my face, just smiled and said "Strong cheese." 
 I think it was the first and last words I heard him say.
