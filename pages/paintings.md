@@ -20,7 +20,9 @@ To see my paintings I currently want to sell, please visit [thisismyhappening.co
 
 <div class="column right">
 
-1. [![forest painting by David Rhoden](/static/img/paintings/forest-wizard-oct-19-2024.jpg?nf_resize=smartcrop&w=260&h=260)](/static/img/paintings/forest-wizard-oct-19-2024.jpg)
+1. [![woman in workout clothes painting by David Rhoden](/static/img/paintings/woman-in-workout-clothes-apr-0-2025.jpeg?nf_resize=smartcrop&w=260&h=260)](/static/img/paintings/woman-in-workout-clothes-apr-0-2025.jpeg)
+1. [![purple organic form by David Rhoden](/static/img/paintings/organic-form-march-30-2025.jpeg?nf_resize=smartcrop&w=260&h=260)](/static/img/paintings/organic-form-march-30-2025.jpeg)
+1. [![forest wizard painting by David Rhoden](/static/img/paintings/forest-wizard-oct-19-2024.jpg?nf_resize=smartcrop&w=260&h=260)](/static/img/paintings/forest-wizard-oct-19-2024.jpg)
 1. [![forklift painting by David Rhoden](/static/img/paintings/conventionality-oct-2023-1200.jpg?nf_resize=smartcrop&w=260&h=260)](/static/img/paintings/conventionality-oct-2023-1200.jpg)
 1. [![conventionality painting by David Rhoden](/static/img/paintings/forklift-nov-19-2023.jpg?nf_resize=smartcrop&w=260&h=260)](/static/img/paintingsforklift-nov-19-2023.jpg)
 1. [![Critter painting by David Rhoden](/static/img/paintings/aah-critter-may-21-2023-edit.jpg?nf_resize=smartcrop&w=260&h=260)](/static/img/paintings/aah-critter-may-21-2023.jpg)
