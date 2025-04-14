@@ -12,7 +12,7 @@ tags:
   - The Stacks
   - Checkpoint Charlie
   - Global Poster
-  - Nola Nacular
+  - Nola 'Nacular
   - karaoke
   - zines
   - Pensacola
