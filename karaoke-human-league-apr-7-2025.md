@@ -1,5 +1,5 @@
 ---
-title: drew a little karaoke hit by the Human League.
+title: Drew a little karaoke hit by the Human League.
 date: 2025-04-07T00:00:00
 excerpt: That much is true.
 summary: That much is true.
