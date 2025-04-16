@@ -5,7 +5,7 @@ excerpt: Not many people could identify this song, but that's not my problem.
 summary: Not many people could identify this song, but that's not my problem.
 image: /static/img/karaoke/tin-man-dec-12-2024.jpg
 tags:
-  - Karaoke
+  - karaoke
   - America (the group)
   - '"Tin Man" (song)'
 ---
