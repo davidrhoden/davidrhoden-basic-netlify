@@ -16,7 +16,7 @@ tags:
 
 Tom Beeman invited me to a party at the Truck Farm. It felt sort of like a gathering of multiple smaller parties. I didn't know many people besides Tom. but there were sort of converdational circles forming, and I mingled.
 
-At one point a few of use were sitting on the grass in a loose circle. There was a really pretty girl with small glass to my left. I didn't know who she was. (This was Gina.) She was talking to this guy James Martin, a local artist. I wanted to get in the conversation so I could meet the girl but James was really holding forth. The girl was listening actively. I figured I didn't have a chance. It looked like she maybe kinda liked this guy. I got kind of tired of listening to him go on.
+At one point a few of use were sitting on the grass in a loose circle. There was a really pretty girl with small glasses to my left. I didn't know who she was. (This was Gina.) She was talking to this guy James Martin, a local artist. I wanted to get in the conversation so I could meet the girl but James was really holding forth. The girl was listening actively. I figured I didn't have a chance. It looked like she maybe kinda liked this guy. I got kind of tired of listening to him go on.
 
 Then James paused mid-sentence, leaned over, and farted, loudly, in her direction. She looked a bit shocked.
 
