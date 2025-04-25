@@ -1,19 +1,19 @@
 ---
-  title: I found out Thomas Berger died.
-  date: 2014-07-25T00:00:00
-  excerpt:  If I had to describe a typical Berger novel (there are atypical ones) I’d say he sets up a conflict, immediately, and pushes it to a logical or maybe an illogical conclusion.
-  summary:  If I had to describe a typical Berger novel (there are atypical ones) I’d say he sets up a conflict, immediately, and pushes it to a logical or maybe an illogical conclusion.
-  image: /static/img/timeline/thomas-berger-jul-24-2014.jpeg
-  tags:
-    - literature
-    - Thomas Berger
-    - The Feud
-    - Neighbors
-    - Little Big Man
-    - Sneaky People
-    - obituaries
+title: I found out Thomas Berger died.
+date: 2014-07-25T00:00:00
+excerpt:  If I had to describe a typical Berger novel (there are atypical ones) I’d say he sets up a conflict, immediately, and pushes it to a logical or maybe an illogical conclusion.
+summary:  If I had to describe a typical Berger novel (there are atypical ones) I’d say he sets up a conflict, immediately, and pushes it to a logical or maybe an illogical conclusion.
+image: /static/img/timeline/thomas-berger-jul-24-2014.jpeg
+tags:
+  - literature
+  - Thomas Berger
+  - The Feud
+  - Neighbors (film)
+  - Little Big Man
+  - Sneaky People
+  - obituaries
 
-  ---
+---
 
 Thomas Berger, ‘_Little Big Man_’ Author, Is Dead at 89
 
@@ -32,7 +32,4 @@ He may have been the ultimate mid-list author: no fanfare about the books coming
 I recommend everything. _Sneaky People_ was a favorite, as was _Arthur Rex_ (a retelling of the Arthur legend in which Arthur is forced to deal with all manner of domestic concerns around Camelot, like why his brother is a crummy knight but a gourmet cook). The Houseguest is like a faster, meaner Neighbors. Regiment of Women describes a dystopian (for the guys) world where men are pretty much fattened up and used as breeding stock, and only allowed to perform jobs like being a woman’s secretary. (I think it might have a first-person narrator too.) All these are good. _Little Big Man_ might be his least typical book but it’s excellent (and funny. One of the subplots has Crabb’s sister chasing after a man for years, unsuccessfully; the man is Walt Whitman). I can just keep naming them. The Reinhart books are the only ones that seem dated (his first book, Crazy In Berlin, concerns Reinhart, a character he returned to four times. _Crazy In Berlin_ is loooong, and really more like a war memoir than a Berger novel. It’s a Berger book but he developed and streamlined his style after that.) _Killing Time_, which deals with time somehow, and the insanity plea, was good but confusing. Don’t start there. Everything else: take it to the beach.
 
 
-  ![Thomas Berger author photo by Jerry Bauer](/static/img/timeline/thomas-berger-jul-24-2014.jpeg)
-
-
-  ]
+![Thomas Berger author photo by Jerry Bauer](/static/img/timeline/thomas-berger-jul-24-2014.jpeg)
