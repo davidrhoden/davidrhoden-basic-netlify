@@ -10,7 +10,6 @@ tags:
   - Cintiq
   - Adobe Illustrator
   - drawing tablets
-
 ---
 
 I got a Wacom Cintiq tablet, you draw right on the screen.
@@ -19,4 +18,4 @@ I got this great new drawing tool. It’s actually old, and I got it super-cheap
 
 Look at the wonderful stuff I’ve done with it so far (in Adobe Illustrator).
 
-![alt text](/static/img/timeline/wacom-cintiq-first-jul-26-2014.jpg)
+![first drawing done on my Cintiq](/static/img/timeline/wacom-cintiq-first-jul-26-2014.jpg)
