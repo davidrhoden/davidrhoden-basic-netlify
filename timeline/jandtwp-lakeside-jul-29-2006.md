@@ -1,5 +1,5 @@
 ---
-title: Jimmy and The Wolfpack returned to Lakeside Lounge.
+title: Jimmy and The Wolfpack returned to Lakeside Lounge once again.
 date: 2006-07-29T22:00:00.000Z
 image: /static/img/rock/jandtwp-cd-cover.jpg
 tags:
