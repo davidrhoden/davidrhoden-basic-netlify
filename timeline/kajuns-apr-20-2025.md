@@ -27,3 +27,6 @@ Chan said I had to do "To Love Somebody", so I did, but he and Della left in the
 
 Andrew knocked out the crowd with his (single edit) "Thunder Road".
 
+And how about a shoutout to this guy who gave us a fine rendition of a song from _Jesus Christ Superstar_!
+
+![this guy who gave us a fine rendition of a song from Jesus Christ Superstar](/static/img/timeline/jc-superstar-karaoke-guy-apr-20-2025.jpeg)
