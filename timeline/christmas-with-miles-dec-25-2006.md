@@ -7,7 +7,7 @@ image: /static/img/timeline/miles-in-cage-dec-25-2006.jpg
 tags:
   - Miles the rabbit
   - Christmas
-  - WIlliamsburg
+  - Williamsburg
   - Brooklyn
   - NYC
 
