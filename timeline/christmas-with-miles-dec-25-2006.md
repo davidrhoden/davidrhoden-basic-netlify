@@ -6,6 +6,7 @@ summary: He was a good rabbit. You just had to make sure he didn't eat the drywa
 image: /static/img/timeline/miles-in-cage-dec-25-2006.jpg
 tags:
   - Miles the rabbit
+  - Val
   - Christmas
   - Williamsburg
   - Brooklyn
@@ -15,4 +16,4 @@ tags:
 
 He was a good rabbit. He belonged to my housemate Val. She was rarely around so I did of lot of caretaking for Miles. It was fine. As I said, he was a good rabbit. You just had to make sure he didn't eat the drywall.
 
-![alt text](/static/img/timeline/miles-in-cage-dec-25-2006.jpg)
+![Miles the rabbit on Christmas 2006. 276 Grand Street, BK.](/static/img/timeline/miles-in-cage-dec-25-2006.jpg)

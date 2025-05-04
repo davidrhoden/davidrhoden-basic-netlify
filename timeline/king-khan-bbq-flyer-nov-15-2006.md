@@ -14,4 +14,4 @@ tags:
 
 I snagged this terrific flyer on the way to a show at Don Pedro's. I didn't draw it and I don't know who did. If you know, please let me know.
 
-![alt text](/static/img/timeline/king-khan-don-pedro-nov-15-2006.md)
+![flyer for King Khan and BBQ show at Don Pedro's.](/static/img/timeline/king-khan-don-pedro-nov-15-2006.md)
