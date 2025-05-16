@@ -62,19 +62,17 @@ eleventyNavigation:
             <p class="tech">ASP.net, Javascript, jQuery, CSS, HTML, Photoshop, Illustrator.</p>
             <p class="highlights">Other experience:</p>
             <p class="highlights">Freelance web work in New York for <b>Huffington Post</b>, <b>IAC</b> (match.com, College Humor), <b>GoMobo</b>, <b>Mirren Business Development</b>, and <b>Bajibot</b> (digital animators).</p>
-	        <p class="highlights">Attended <b>Loyola New Orleans School Of Law</b> and graduated with a JD, despite the school closing for a semester due to Hurricane Katrina, when I relocated to New York City. Chose not to practice law.</p>
             <p class="highlights">Learned basics of web development and animation on the job at <b>Bent Media</b>, New Orleans, working with Tabasco and Oreck Vacuum.</p>
             <p class="highlights">Graphic design, typesetting, and pre-press of full-color IBM server sales brochures and other corporate sales collateral for <b>Roman/Thayer Design</b>, New York.</p>
             <p class="highlights">Print layout for a mutual fund report with a 20,000 per month circulation and Visual Basic database front ends for <b>Goldman Sachs</b>, New York.</p>
             <p class="highlights">Presentation design and complex process mapping (large format visual documentation of banking processes) for <b>Citibank</b>.</p>
             <p class="highlights">Co-wrote a book of state-based trivia for a young adult audience called <i>Awesome Almanac: New York</i> for <b>B&amp;B Publishing</b>, Walworth, Wisconsin.</p> 
             <p class="highlights">Freelance writer for the online version of <b><i>Men’s Health</i></b>.</p>
-            <p class="highlights">Assistant Editor at <b>Golden Books</b>, New York.<br>
             <p class="highlights">Freelance writer for <b><i>Storytelling</i></b> magazine, Jonesborough, Tennessee.</p>
+            <p class="highlights">Assistant Editor at <b>Golden Books</b>, New York.<br>
             <p class="highlights">Many published illustrations for New Orleans publications including <i>New Orleans</i>, <i>Louisiana Life</i>, and <i>Kingfish</i> magazines.</p>
             <p class="highlights">Showed and sold paintings in galleries in New York and New Orleans.</p>
             <p class="highlights">Education:<br>
-            JD, Loyola New Orleans School of Law<br>
             BA, English, University of Tennessee, Knoxville</p>
         </div>
     </div>
