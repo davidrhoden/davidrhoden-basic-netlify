@@ -1,6 +1,6 @@
 ---
-title: My new banfdfor now called The Unbelievables, played our first show at a house party in Destrehan, Louisiana.
-date: 2026-05-17T00:00:00
+title: My new band, for now called The Unbelievables, played our first show at a house party in Destrehan, Louisiana.
+date: 2025-05-17T00:00:00
 excerpt: We had to sing "Happy Birthday" to a little tyke (Andrew started it).
 summary: We had to sing "Happy Birthday" to a little tyke (Andrew started it).
 image: /static/img/rock/unbelievables/unbelievables-scott-wagners-2-may-17-2025.jpeg
@@ -8,12 +8,14 @@ tags:
   - shows
   - Destrehan
   - The Unbelievables
+  - Scott Wagner
   - Formosan termites
+  - "Happy Birthday"
 
 ---
 ![Unbelievables playing in Scott Wagner's yard](/static/img/rock/unbelievables/unbelievables-scott-wagners-2-may-17-2025.jpeg)
 
-My new band, for now called The Unbelievables, played a big yard party yesterday, in Destrehan. It went great, crowd liked it. People danced. Somebody let a cute little girl take the tip jar around, adorable but then we had to sing "Happy Birthday" to the little tyke (Andrew started it). We got swarmed by Formosan termites as the sun went down but it only lasted a song or two.
+My new band, for now called The Unbelievables, played a big yard party yesterday, in Destrehan. It went great, crowd liked it. People danced. Somebody let a cute little girl take the tip jar around, adorable; but then we had to sing "Happy Birthday" to the little tyke (Andrew started it). We got swarmed by Formosan termites as the sun went down but it only lasted a song or two.
 
 Set list:
 Can I Change My Mind
@@ -32,4 +34,4 @@ Running Back To You (I dedicated it to Alvin Kamara but I don't think the crowd 
 First I Look At The Purse
 Dark End Of The Street
 
-![Unbelievables playing in Scott Wagner's yard](/static/img/rock/unbelievables/unbelievables-scott-wagners-1-may-17-2025.jpeg)
+![Unbelievables playing in Scott Wagner's yard](/static/img/rock/unbelievables/unbelievables-scott-wagners-may-17-2025.jpeg)
