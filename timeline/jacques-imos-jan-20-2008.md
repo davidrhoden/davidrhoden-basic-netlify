@@ -22,9 +22,9 @@ tags:
 
 ![people at Jacques-Imo's](/static/img/timeline/jacques-imos-jan-20-2008/jacques-imos-jan-20-2008-bj-and-scott.jpg)
 
-![people at Jacques-Imo's](/static/img/timeline/jacques-imos-jan-20-2008/jacques-imos-jan-20-2008-c-&-b2.jpg)
+![people at Jacques-Imo's](/static/img/timeline/jacques-imos-jan-20-2008/jacques-imos-jan-20-2008-c-and-b2.jpg)
 
-![people at Jacques-Imo's](/static/img/timeline/jacques-imos-jan-20-2008/jacques-imos-jan-20-2008-c-&-b.jpg)
+![people at Jacques-Imo's](/static/img/timeline/jacques-imos-jan-20-2008/jacques-imos-jan-20-2008-c-and-b.jpg)
 
 ![people at Jacques-Imo's](/static/img/timeline/jacques-imos-jan-20-2008/jacques-imos-jan-20-2008-class.jpg)
 
@@ -34,7 +34,7 @@ tags:
 
 ![people at Jacques-Imo's](/static/img/timeline/jacques-imos-jan-20-2008/jacques-imos-jan-20-2008-howl.jpg)
 
-![Is this his third time gambling?](/static/img/timeline/jacques-imos-jan-20-2008/jacques-imos-jan-20-2008-is-this-his-first-time-gambling.jpg)
+![Is this his third time gambling?](/static/img/timeline/jacques-imos-jan-20-2008/jacques-imos-jan-20-2008-is-this-his-3rd-time-gambling.jpg)
 
 ![people at Jacques-Imo's](/static/img/timeline/jacques-imos-jan-20-2008/jacques-imos-jan-20-2008-mania.jpg)
 
