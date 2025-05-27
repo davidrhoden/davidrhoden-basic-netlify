@@ -17,10 +17,11 @@ tags:
   - Brian Manning
   - Melanie Koch
   - Michael Jastroch
+  - Jimmy Glickman
 
 ---
 
-This was a sort of thrown together show. Chan and I were actually visiting New Orleans for BJ's birthday. Somehow we threw a show toagether. I had to buy a lefty Strat copy (for $79!) to do the gig. Obviously no rehearsal. I bet we were sort of a Wolfpack/Stacks hybrid. I wish I had the set list.
+Chan and I were actually visiting New Orleans for BJ's birthday. Somehow we threw a show together. I had to buy a lefty Strat copy (for $79!) from Jimmy Glickman to do the gig. Obviously no rehearsal. I bet we were sort of a Wolfpack/Stacks hybrid. I wish I had the set list.
 
 Oh, the best part? We wanted Doug to play but he was in Oklahoma. We assumed he was out but he asked "what time does the show start?" We told him 10 and damn if he didn't roll in at 10 on the dot.
 
@@ -57,8 +58,6 @@ Oh, the best part? We wanted Doug to play but he was in Oklahoma. We assumed he 
 ![Stacks played the Saturn Bar January 21, 2008.](/static/img/rock/stacks/stacks-saturn-jan-21-2008/stacks-saturn-jan-21-2008-saturn-bar.jpg "Stacks played the Saturn Bar January 21, 2008.")
 
 ![Stacks played the Saturn Bar January 21, 2008.](/static/img/rock/stacks/stacks-saturn-jan-21-2008/stacks-saturn-jan-21-2008-two-legends.jpg "Stacks played the Saturn Bar January 21, 2008.")
-
-![Stacks played the Saturn Bar January 21, 2008.](/static/img/rock/stacks/stacks-saturn-jan-21-2008/stacks-cool-drum-head-jul-8-what-a-change-in-the-saturn.jpg "Stacks played the Saturn Bar January 21, 2008.")
 
 </div>
 <div id="caption"></div>

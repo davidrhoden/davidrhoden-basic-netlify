@@ -10,6 +10,7 @@ tags:
   - Christmas
   - "Happy Xmas (War Is Over)"
   - John Lennon & Yoko Ono
+  - "Simply Having A Wonderful Christmas Time"
 
 ---
 
