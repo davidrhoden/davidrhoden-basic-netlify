@@ -6,7 +6,7 @@ summary: I met tons of cool girls who had boyfriends I didn't meet.
 image: 
 tags:
   - dreams
-  - Pavement
+  - Pavement (band)
   - Stephen Malkmus
   - WFMU
 
