@@ -1,7 +1,7 @@
 <!-- Pagination links -->
   <div class="page-selector data-pagefind-ignore">
     {% if pagination.previousPageHref %}
-      <a href="{{ pagination.previousPageHref }}" class="page-numbers">Back to the future.</a>
+      <a data-umami-event="back-to-the-future" href="{{ pagination.previousPageHref }}" class="page-numbers">Back to the future.</a>
     {% else %}
       <span class="page-numbers disabled">You've reached the present.</span>
     {% endif %}
@@ -9,7 +9,7 @@
       Page {{ pagination.pageNumber + 1 }} of {{ pagination.links | length  }}.
     </span>
     {% if pagination.nextPageHref %}
-      <a href="{{ pagination.nextPageHref }}" class="page-numbers">Forward to the past.</a>
+      <a data-umami-event="forward-to-the-past" href="{{ pagination.nextPageHref }}" class="page-numbers">Forward to the past.</a>
     {% else %}
       <span class="page-numbers disabled">You've reached the beginning.</span>
     {% endif %}
