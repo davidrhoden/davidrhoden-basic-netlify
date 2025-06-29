@@ -20,7 +20,7 @@ section: timeline
     {% for tag in tags %}
       {%- if tag != "post" -%}
         {% set tagUrl %}/tags/{{ tag | slugify }}/{% endset %}
-        <a href="{{ tagUrl }}" rel="tag">{{ tag }}</a>
+        <a data-umami-event="{{ tag }}" href="{{ tagUrl }}" rel="tag">{{ tag }}</a>
       {%- endif -%}
     {% endfor %}
     </p>
@@ -30,18 +30,18 @@ section: timeline
 {% if prevPost.url %}
   <p class="ctr">
     <strong>Previous</strong>:
-    <a class="previous" href="{{ prevPost.url }}">{{ prevPost.data.date | readableDate }}: {{ prevPost.data.title }}</a>
+    <a data-umami-event="{{ prevPost.data.title }}" class="previous" href="{{ prevPost.url }}">{{ prevPost.data.date | readableDate }}: {{ prevPost.data.title }}</a>
   </p>
 {% endif %}
 {% if nextPost.url %}
   <p class="ctr">
     <strong>Next</strong>: 
-    <a class="next" href="{{ nextPost.url }}">{{ nextPost.data.date | readableDate }}: {{ nextPost.data.title }}</a>
+    <a data-umami-event="{{ nextPost.data.title }}" class="next" href="{{ nextPost.url }}">{{ nextPost.data.date | readableDate }}: {{ nextPost.data.title }}</a>
   </p>
 {% endif %}
 
 <nav>
-  <a href="/timeline/{{ url }}">← back to timeline</a>
+  <a data-umami-event="Back to Timeline" href="/timeline/{{ url }}">← back to timeline</a>
 </nav>
 
 <script>

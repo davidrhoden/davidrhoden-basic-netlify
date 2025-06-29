@@ -10,13 +10,13 @@ layout: layouts/base-with-wide-container.njk
 <section class="tags-list active" id="tags-alpha">
 {% for tag in collections.tagList | sort %}
   {% set tagUrl %}/tags/{{ tag | slugify }}/{% endset %}
-  <a href="{{ tagUrl }}" class="post-tag">{{ tag }}</a> <span class="bullet">&bullet;</span> 
+  <a data-umami-event="{{ tag }} from Tags Alphabetical list"  href="{{ tagUrl }}" class="post-tag">{{ tag }}</a> <span class="bullet">&bullet;</span>
 {% endfor %}
 </section>
 
 <section class="tags-list" id="tags-number-of-posts">
     {% for tag, count in collections.bySize %}
         {% set tagUrl %}/tags/{{ tag | slugify }}/{% endset %}
-        <a href="{{ tagUrl }}">{{ tag }} ({{ count }})</a> <span class="bullet">&bullet;</span>  
+        <a data-umami-event="{{ tag }} from Tags Number of Posts list" href="{{ tagUrl }}">{{ tag }} ({{ count }})</a> <span class="bullet">&bullet;</span>
     {% endfor %}
 </section>
