@@ -9,7 +9,7 @@ tags:
   - karaoke
   - elderly people
   - Procol Harum
-  "A Whiter Shade Of Pale"
+  - "A Whiter Shade Of Pale"
 
 ---
 
