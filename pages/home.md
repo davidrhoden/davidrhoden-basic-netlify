@@ -10,63 +10,63 @@ image: /static/img/homepage-featured/bottlecap.jpg
 
 <div class="grid-home">
   <div class="grid-square">
-  <a href="/animations/">
+  <a data-umami-event="home-animation-1-link" href="/animations/">
     <div class="overlay">Somebody once called me the King of Doodles.</div>
     <img src="/static/img/homepage-featured/160628_waver_600.gif" alt="handwaving creature animation"></a></div>
   <div class="grid-square">
-    <a href="/tags/all-night-movers/">
+    <a data-umami-event="-home-all-night-movers-link" href="/tags/all-night-movers/">
     <div class="overlay">I was in a band called All-Night Movers.</div>
     <img src="/static/img/homepage-featured/all-night-movers-cover-aug-3-2002.jpg" alt="All-Night Movers band photo"></a></div>
   <div class="grid-square">
-  <a href="/tags/paintings/">
+  <a data-umami-event="home-paintings-1-link" href="/tags/paintings/">
     <div class="overlay">I paint these &ldquo;organic forms&rdquo;.</div>
     <img src="/static/img/homepage-featured/organicforms.jpg" alt="painting of organic forms by David Rhoden"></a></div>
   <div class="grid-square">
-  <a href="/illustrations/">
+  <a data-umami-event="home-illustrations-link" href="/illustrations/">
     <div class="overlay">I do an occasional illustration.</div>
     <img src="/static/img/homepage-featured/baggyfinal.jpg" alt="illustration of man wearing ridiculous baggy jeans"></a></div>
   <div class="grid-square">
-    <a href="/paintings/">
+    <a data-umami-event="home-paintings-2-link" href="/paintings/">
     <div class="overlay">I call it...&ldquo;Orange Squiggle&rdquo;.</div>
     <img src="/static/img/homepage-featured/orangesquiggle02-edit.jpg" alt="painting of orange squiggle by David Rhoden"></a></div>
   <div class="grid-square">
-    <a href="/animations/">
+    <a data-umami-event="home-animation-2-link" href="/animations/">
     <div class="overlay">I have many diverse interests.</div>
     <img src="/static/img/homepage-featured/bunnyface-jan-10-2021.gif" alt="bunnyface creature animation by David Rhoden"></a></div>
   <div class="grid-square">
-  <a href="/paintings/">
+  <a data-umami-event="home-paintings-3-link" href="/paintings/">
     <div class="overlay">I wanted to paint a bus I might want to ride on.</div>
     <img src="/static/img/homepage-featured/bus-painting-sep-24-2019.webp" width="400" height="400" alt="bus painting by David Rhoden"></a></div>
   <div class="grid-square">
-    <a href="/paintings/">
+    <a data-umami-event="home-paintings-4-link" href="/paintings/">
     <div class="overlay">It's fun to contemplate things.</div>
     <img src="/static/img/homepage-featured/bottlecap.jpg" alt="bottlecap painting by David Rhoden"></a></div>
   <div class="grid-square">
-    <a href="/paintings/">
+    <a data-umami-event="home-paintings-5-link" href="/paintings/">
     <div class="overlay">I like corn.<br>Do you like corn?</div>
     <img src="/static/img/homepage-featured/cornmanreadyfortheworld.webp" width="400" height="400" alt="corn-eating creature by David Rhoden"></a></div>
   <div class="grid-square">
-    <a href="/tags/hi-balls/">
+    <a data-umami-event="home-hi-balls-link" href="/tags/hi-balls/">
     <div class="overlay">I was in a band called the Hi-Balls. (Also did this album artwork.)</div>
     <img src="/static/img/homepage-featured/coverLoveMusic.jpg" width="400" height="400" alt="Love Music by The Hi-Balls album cover art"></a></div>
   <div class="grid-square">
-    <a href="/tags/animations/">
+    <a data-umami-event="home-animation-3-link" href="/tags/animations/">
     <div class="overlay">Needs work. Where do his ears go?</div>
     <img src="/static/img/homepage-featured/dailyRar02-redo-improve.gif" alt="little goblin illustration"></a></div>
   <div class="grid-square">
-    <a href="/paintings/">
+    <a data-umami-event="home-paintings-6-link" href="/paintings/">
     <div class="overlay">No.</div>
     <img src="/static/img/homepage-featured/negatorygoodbuddy-edit.webp" width="400" height="400" alt="painting by david rhoden of a guy saying NO"></a></div>
   <div class="grid-square">
-    <a href="/tags/the-stacks/">
+    <a data-umami-event="home-stacks-link" href="/tags/the-stacks/">
     <div class="overlay">I play in a band called The Stacks. Like &ldquo;stacks of records.&rdquo;</div>
     <img src="/static/img/homepage-featured/stacks-at-gasa-gasa-edit.webp" width="400" height="400" alt="Stacks on stage at Gasa Gasa"></a></div>
   <div class="grid-square">
-    <a href="/animations/">
+    <a data-umami-event="home-animation-4-link" href="/animations/">
     <div class="overlay">You can't hide your flyin&rsquo; eyes.</div>
     <img src="/static/img/homepage-featured/flyingeyes140709.gif" alt="animation of man removing eyes and throwing them, and they bounce."></a></div>
   <div class="grid-square">
-    <a href="/tags/paintings/">
+    <a data-umami-event="home-paintings-7-link" href="/tags/paintings/">
     <div class="overlay">Kinda speaks for itself.</div>
     <img src="/static/img/homepage-featured/fuckhead.webp" width="400" height="400" alt="David Rhoden painting of face saying FUCK"></a></div>
   <div class="grid-square">
