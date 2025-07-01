@@ -7,7 +7,7 @@ image: /static/img/sketchbook/who-farted-tshirt.jpg
 tags:
   - post 
   - sketchbook
-  - post-its
+  - Post-Its
   - t-shirts
 
 ---

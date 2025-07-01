@@ -5,7 +5,7 @@ excerpt: It seems like huge news now but that day it just felt like a little thi
 summary: It seems like huge news now but that day it just felt like a little thing
 image: /static/img/timeline/ascension-jul-17-2023.jpeg
 tags:
-  - post-its
+  - Post-Its
   - Pop
   - Ascension on Mountain Creek Road
   - sketches
