@@ -22,7 +22,7 @@ I had to drop something at the UPS Store so I decided I'd walk around the shoppi
 
 ![piles of merchandise at Deals in Chalmette](/static/img/timeline/deals-merch-2-jul-12-2005.jpeg)
 
-It reminded me of being twenty, living in Boston, and taking someone's advice to visit "Zapato Shoe". It was a "shoe store" but it only opened once a week, at 9 a.m. on Saturday or something. The shoppers waited by a conveyor belt that came through a window into the basement. After a while, shoes came down the belt. Not shoes in shoeboxes, or even pairs of shoes. Just individual shoes that went in to a big bin, If you saw one show you liked, you grabbed it, checked the size, and if it was right you waited or dug around in the bin for its mate. I got a good cheap pair of Converse All-Stars that way.
+It reminded me of being twenty, living in Boston, and taking someone's advice to visit "Zapato Shoe". It was a "shoe store" but it only opened once a week, at 9 a.m. on Saturday or something. The shoppers waited by a conveyor belt that came through a window into the basement. After a while, shoes came down the belt. Not shoes in shoeboxes, or even pairs of shoes. Just individual shoes that went in to a big bin, If you saw one shoe you liked, you grabbed it, checked the size, and if it was right you waited or dug around in the bin for its mate. I got a good cheap pair of Converse All-Stars that way.
 
 ![piles of merchandise at Deals in Chalmette](/static/img/timeline/deals-merch-1-jul-12-2005.jpeg)
 
