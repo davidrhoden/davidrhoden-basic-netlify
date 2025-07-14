@@ -41,6 +41,8 @@ Here are some more pictures from purchase day:
 
 ![rear view of 1993 Ford Ranger.](/static/img/timeline/cars/reddy-redwing-rear-jun-14-2025.jpeg)
 
+It looks like I left some DeCecco pasta on the roof of the cab, but I think that's really a blue dumpster in a parking lot across the street.
+
 ![interior view of 1993 Ford Ranger.](/static/img/timeline/cars/reddy-redwing-interior-jun-14-2025.jpeg)
 
 ![motor view of 1993 Ford Ranger.](/static/img/timeline/cars/reddy-redwing-motor-jun-14-2025.jpeg)
