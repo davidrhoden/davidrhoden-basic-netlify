@@ -1,6 +1,6 @@
 ---
 title: I replaced the XTerra in Chattanooga with a 1993 Ford Ranger.
-date: yyyy-mm-ddT00:00:00
+date: 2025-06-14T00:00:00
 excerpt: 220,000 miles already, but the price was right.
 summary: 220,000 miles already, but the price was right.
 image: /static/img/timeline/cars/reddy-redwing-front-jun-14-2025.jpeg
@@ -21,6 +21,7 @@ tags:
   - stories
 
 ---
+
 ![front view of 1993 Ford Ranger.](/static/img/timeline/cars/reddy-redwing-front-jun-14-2025.jpeg)
 
 So, I made it to Chattanooga for my mom's birthday weekend, despite the loss of my car, but already I was sweating at the idea of having to maybe fly home.
