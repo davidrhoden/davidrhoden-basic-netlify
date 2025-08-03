@@ -25,27 +25,27 @@ I wrote "wasted" in my journal.
     <button id="buttonPrevious">&#10094;</button>
     <button id="buttonNext">&#10095;</button>
 
-![MAXIMVS! at Circle Bar, June 22, 2004.](/static/img/rock/maximvs/maximvs-circle-bar-jul-11-2006/maximvs-csbhoursign-jun-22-2004.jpg "MAXIMVS! at Circle Bar, June 22, 2004.")
+![MAXIMVS! at Circle Bar, June 22, 2004.](/static/img/rock/maximvs/maximvs-circle-bar-jun-22-2004/maximvs-csbhoursign-jun-22-2004.jpg "MAXIMVS! at Circle Bar, June 22, 2004.")
 
-![MAXIMVS! at Circle Bar, June 22, 2004.](/static/img/rock/maximvs/maximvs-circle-bar-jul-11-2006/maximvs-allthree-jun-22-2004.jpg "MAXIMVS! at Circle Bar, June 22, 2004.")
+![MAXIMVS! at Circle Bar, June 22, 2004.](/static/img/rock/maximvs/maximvs-circle-bar-jun-22-2004/maximvs-allthree-jun-22-2004.jpg "MAXIMVS! at Circle Bar, June 22, 2004.")
 
-![MAXIMVS! at Circle Bar, June 22, 2004.](/static/img/rock/maximvs/maximvs-circle-bar-jul-11-2006/maximvs-andruntre-jun-22-2004.jpg "MAXIMVS! at Circle Bar, June 22, 2004.")
+![MAXIMVS! at Circle Bar, June 22, 2004.](/static/img/rock/maximvs/maximvs-circle-bar-jun-22-2004/maximvs-andruntre-jun-22-2004.jpg "MAXIMVS! at Circle Bar, June 22, 2004.")
 
-![MAXIMVS! at Circle Bar, June 22, 2004.](/static/img/rock/maximvs/maximvs-circle-bar-jul-11-2006/maximvs-armpit-jun-22-2004.jpg "MAXIMVS! at Circle Bar, June 22, 2004.")
+![MAXIMVS! at Circle Bar, June 22, 2004.](/static/img/rock/maximvs/maximvs-circle-bar-jun-22-2004/maximvs-armpit-jun-22-2004.jpg "MAXIMVS! at Circle Bar, June 22, 2004.")
 
-![MAXIMVS! at Circle Bar, June 22, 2004.](/static/img/rock/maximvs/maximvs-circle-bar-jul-11-2006/maximvs-cash-jun-22-2004.jpg "MAXIMVS! at Circle Bar, June 22, 2004.")
+![MAXIMVS! at Circle Bar, June 22, 2004.](/static/img/rock/maximvs/maximvs-circle-bar-jun-22-2004/maximvs-cash-jun-22-2004.jpg "MAXIMVS! at Circle Bar, June 22, 2004.")
 
-![MAXIMVS! at Circle Bar, June 22, 2004.](/static/img/rock/maximvs/maximvs-circle-bar-jul-11-2006/maximvs-dandt-jun-22-2004.jpg "MAXIMVS! at Circle Bar, June 22, 2004.")
+![MAXIMVS! at Circle Bar, June 22, 2004.](/static/img/rock/maximvs/maximvs-circle-bar-jun-22-2004/maximvs-dandt-jun-22-2004.jpg "MAXIMVS! at Circle Bar, June 22, 2004.")
 
-![MAXIMVS! at Circle Bar, June 22, 2004.](/static/img/rock/maximvs/maximvs-circle-bar-jul-11-2006/maximvs-elinme-jun-22-2004.jpg "MAXIMVS! at Circle Bar, June 22, 2004.")
+![MAXIMVS! at Circle Bar, June 22, 2004.](/static/img/rock/maximvs/maximvs-circle-bar-jun-22-2004/maximvs-elinme-jun-22-2004.jpg "MAXIMVS! at Circle Bar, June 22, 2004.")
 
-![MAXIMVS! at Circle Bar, June 22, 2004.](/static/img/rock/maximvs/aximvs-circle-bar-jul-11-2006/maximvs-jeffvert500-jun-22-2004.jpg "MAXIMVS! at Circle Bar, June 22, 2004.")
+![MAXIMVS! at Circle Bar, June 22, 2004.](/static/img/rock/maximvs/aximvs-circle-bar-jun-22-2004/maximvs-jeffvert500-jun-22-2004.jpg "MAXIMVS! at Circle Bar, June 22, 2004.")
 
-![MAXIMVS! at Circle Bar, June 22, 2004.](/static/img/rock/maximvs/maximvs-circle-bar-jul-11-2006/maximvs-maximvsclavnjeff-jun-22-2004.jpg "MAXIMVS! at Circle Bar, June 22, 2004.")
+![MAXIMVS! at Circle Bar, June 22, 2004.](/static/img/rock/maximvs/maximvs-circle-bar-jun-22-2004/maximvs-maximvsclavnjeff-jun-22-2004.jpg "MAXIMVS! at Circle Bar, June 22, 2004.")
 
-![MAXIMVS! at Circle Bar, June 22, 2004.](/static/img/rock/maximvs/maximvs-circle-bar-jul-11-2006/maximvs-pickanoser-jun-22-2004.jpg "MAXIMVS! at Circle Bar, June 22, 2004.")
+![MAXIMVS! at Circle Bar, June 22, 2004.](/static/img/rock/maximvs/maximvs-circle-bar-jun-22-2004/maximvs-pickanoser-jun-22-2004.jpg "MAXIMVS! at Circle Bar, June 22, 2004.")
 
-![MAXIMVS! at Circle Bar, June 22, 2004.](/static/img/rock/maximvs/maximvs-circle-bar-jul-11-2006/maximvs-truckintro-jun-22-2004.jpg "MAXIMVS! at Circle Bar, June 22, 2004.")
+![MAXIMVS! at Circle Bar, June 22, 2004.](/static/img/rock/maximvs/maximvs-circle-bar-jun-22-2004/maximvs-truckintro-jun-22-2004.jpg "MAXIMVS! at Circle Bar, June 22, 2004.")
 
 </div>
 <div id="caption"></div>
