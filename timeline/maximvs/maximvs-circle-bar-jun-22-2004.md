@@ -12,12 +12,14 @@ tags:
   - Trey Ledford
   - Jeff Pounds
   - Eli 
+  - Andrew Donaldson
+  - Truck (band hypeman)
   - drums
   - date approximate
 
 ---
 
-Another triumph in the Forum for MAXIMVS! I wrecked my drums, which were trash to begin with.
+Another triumph in the Forum for MAXIMVS! I wrecked my drums, which were trash to begin with. A guy named "Truck" introduced us. Guy with dark glasses, a mustache, and a wig.
 
 I wrote "wasted" in my journal.
 
@@ -39,7 +41,7 @@ I wrote "wasted" in my journal.
 
 ![MAXIMVS! at Circle Bar, June 22, 2004.](/static/img/rock/maximvs/maximvs-circle-bar-jun-22-2004/maximvs-elinme-jun-22-2004.jpg "MAXIMVS! at Circle Bar, June 22, 2004.")
 
-![MAXIMVS! at Circle Bar, June 22, 2004.](/static/img/rock/maximvs/aximvs-circle-bar-jun-22-2004/maximvs-jeffvert500-jun-22-2004.jpg "MAXIMVS! at Circle Bar, June 22, 2004.")
+![MAXIMVS! at Circle Bar, June 22, 2004.](/static/img/rock/maximvs/maximvs-circle-bar-jun-22-2004/maximvs-jeffvert500-jun-22-2004.jpg "MAXIMVS! at Circle Bar, June 22, 2004.")
 
 ![MAXIMVS! at Circle Bar, June 22, 2004.](/static/img/rock/maximvs/maximvs-circle-bar-jun-22-2004/maximvs-maximvsclavnjeff-jun-22-2004.jpg "MAXIMVS! at Circle Bar, June 22, 2004.")
 
