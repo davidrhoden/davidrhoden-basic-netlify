@@ -108,7 +108,7 @@ Slade Nash auditioned for The Stacks with a stand-up kit that included a snow sh
 
 ## The Dave Rhoden Band
 
-We played one show. John Vignault, Brian Manning, Chan Menon, Al Dorsey, Doug De Rienzo, me, and a young drummer who we lost track of and never heard from again. His dad loved us though. We did a killer "Total Destruction To Your Mind".
+We played one show. John Vignault, Brian Manning, Chandar, Al Dorsey, Doug De Rienzo, me, and a young drummer who we lost track of and never heard from again. His dad loved us though. We did a killer "Total Destruction To Your Mind".
 No recordings exist that I know of. Would love to know the date of that show, but if anyone would know it, I would.
 
 ---

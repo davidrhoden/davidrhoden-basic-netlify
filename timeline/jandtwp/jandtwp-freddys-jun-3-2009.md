@@ -8,7 +8,7 @@ tags:
   - post
   - Jimmy and The Wolfpack
   - Alan Dorsey
-  - Chan Menon
+  - Chandar
   - Doug DeRienzo
   - Amber Sexton
   - Freddy's Back Room

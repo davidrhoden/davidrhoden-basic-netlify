@@ -9,7 +9,7 @@ tags:
   - post
   - rock
   - Jimmy and The Wolfpack
-  - Chan Menon
+  - Chandar
   - Doug DeRienzo
   - Alan Dorsey
   - Amber Sexton

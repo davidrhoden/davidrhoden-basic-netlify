@@ -13,7 +13,7 @@ tags:
   - Parkside Lounge
   - Houston Street
   - Jimmy and The Wolfpack
-  - Chan Menon
+  - Chandar
   - Doug DeRienzo
 
 ---
