@@ -1,0 +1,20 @@
+---
+layout: layouts/base.njk
+---
+<h1>Image Gallery</h1>
+
+<div id="gallery">
+{% for image in collections.images %}
+  <div class="cssbox">
+    <a href="#image{{image.index}}" id="image{{image.index}}"><img src="{{image.thumbpath}}" class="cssbox_thumb">
+    <span class="cssbox_full"><img src="{{image.path}}"></span></a>
+    <a class="cssbox_close" href="#void"></a>
+    {% if image.first == false %}
+    <a class="cssbox_prev" href="#image{{ image.index | minus: 1 }}">&lt;</a>
+    {% endif %}
+    {% if image.last == false %}
+    <a class="cssbox_next" href="#image{{ image.index | plus: 1}}">&gt;</a>
+    {% endif %}
+  </div>
+{% endfor %}
+</div>
