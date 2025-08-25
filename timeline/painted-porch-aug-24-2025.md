@@ -1,6 +1,6 @@
 ---
 title: I painted my front porch.
-date: 2025=08=24T00:00:00
+date: 2025-08-24T00:00:00
 excerpt: I didn't take any before pictures, but I bet I have a couple by accident.
 summary: I didn't take any before pictures, but I bet I have a couple by accident.
 image: /static/img/timeline/painted-porch-first-coat-aug-24-2025.jpg
