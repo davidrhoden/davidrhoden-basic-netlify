@@ -2,7 +2,8 @@
 layout: layouts/base.njk
 pageType: page
 section: page
+generator: {{metadata.generator}}
 ---
 <h1>{{ title }}</h1>
 
-{{ layoutContent | safe }}
+{{ content | safe }}
