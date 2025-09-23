@@ -46,6 +46,10 @@ module.exports = function (eleventyConfig) {
     return DateTime.fromJSDate(dateObj).toFormat("LLLL d, yyyy");
   });
 
+  // eleventyConfig.addFilter("readableDate", (dateObj) => {
+  //   return DateTime.fromJSDate(dateObj).toFormat("cccc, MMMM dd, yyyy");
+  // });
+
   eleventyConfig.addFilter("machineDate", (dateObj) => {
     return DateTime.fromJSDate(dateObj).toFormat("yyyy-MM-dd");
   });
