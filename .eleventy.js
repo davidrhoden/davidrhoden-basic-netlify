@@ -12,15 +12,15 @@ const { execSync } = require('child_process');
 
 const is_production = typeof process.env.NODE_ENV === "string" && process.env.NODE_ENV === "production";
 
-function do_minifycss(source, output_path) {
-    if(!output_path.endsWith(".css") || !is_production) return source;
+// function do_minifycss(source, output_path) {
+//     if(!output_path.endsWith(".css") || !is_production) return source;
 
-const result = new CleanCSS({
-        level: 2
-    }).minify(source).styles.trim();
-    console.log(`MINIFY ${output_path}`, source.length, `→`, result.length, `(${((1 - (result.length / source.length)) * 100).toFixed(2)}% reduction)`);
-    return result;
-}
+// const result = new CleanCSS({
+//         level: 2
+//     }).minify(source).styles.trim();
+//     console.log(`MINIFY ${output_path}`, source.length, `→`, result.length, `(${((1 - (result.length / source.length)) * 100).toFixed(2)}% reduction)`);
+//     return result;
+// }
 
 module.exports = function (eleventyConfig) {
 
@@ -176,8 +176,6 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("static/webfonts/ShadowGrotesque");
   eleventyConfig.addPassthroughCopy("admin");
   eleventyConfig.addPassthroughCopy("_includes/assets/");
-  eleventyConfig.addPassthroughCopy("api/");
-  eleventyConfig.addPassthroughCopy("sitemap.njk");
 
   /* Markdown Plugins */
   let markdownIt = require("markdown-it");
