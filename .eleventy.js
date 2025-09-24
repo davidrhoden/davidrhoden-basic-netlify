@@ -1,13 +1,26 @@
 const { DateTime } = require("luxon");
-// const CleanCSS = require("clean-css");
 // const UglifyJS = require("uglify-js");
-// const htmlmin = require("html-minifier");
 const slugify = require("slugify");
 const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
 const pluginSEO = require("eleventy-plugin-seo");
+const htmlmin = require("html-minifier");
+const CleanCSS = require("clean-css");
+const { minify } = require("terser");
 const path = require("path");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 const { execSync } = require('child_process');
+
+const is_production = typeof process.env.NODE_ENV === "string" && process.env.NODE_ENV === "production";
+
+function do_minifycss(source, output_path) {
+    if(!output_path.endsWith(".css") || !is_production) return source;
+
+const result = new CleanCSS({
+        level: 2
+    }).minify(source).styles.trim();
+    console.log(`MINIFY ${output_path}`, source.length, `→`, result.length, `(${((1 - (result.length / source.length)) * 100).toFixed(2)}% reduction)`);
+    return result;
+}
 
 module.exports = function (eleventyConfig) {
 
@@ -28,19 +41,35 @@ module.exports = function (eleventyConfig) {
   // https://www.11ty.dev/docs/data-deep-merge/
   eleventyConfig.setDataDeepMerge(true);
 
-  // eleventyConfig.addFilter("cssmin", function(code) {
-  //   return new CleanCSS({}).minify(code).styles;
-  // });
+  eleventyConfig.addFilter("cssmin", function (code) {
+    return new CleanCSS({}).minify(code).styles;
+  });
 
-  // Minify JS
-  // eleventyConfig.addFilter("jsmin", function(code) {
-  //   let minified = UglifyJS.minify(code);
-  //   if (minified.error) {
-  //     console.log("UglifyJS error: ", minified.error);
-  //     return code;
-  //   }
-  //   return minified.code;
-  // });
+  eleventyConfig.addTransform("htmlmin", (content, outputPath) => {
+    if (outputPath.endsWith(".html")) {
+      return htmlmin.minify(content, {
+        collapseWhitespace: true,
+        removeComments: true,
+        useShortDoctype: true,
+      });
+    }
+    return content;
+  });
+
+  eleventyConfig.addNunjucksAsyncFilter("jsmin", async function (
+    code,
+    callback
+  ) {
+    try {
+      const minified = await minify(code);
+      callback(null, minified.code);
+    } catch (err) {
+      console.error("Terser error: ", err);
+      // Fail gracefully.
+      callback(null, code);
+    }
+  });
+
 
   eleventyConfig.addFilter("readableDate", (dateObj) => {
     return DateTime.fromJSDate(dateObj).toFormat("LLLL d, yyyy");
@@ -147,6 +176,8 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("static/webfonts/ShadowGrotesque");
   eleventyConfig.addPassthroughCopy("admin");
   eleventyConfig.addPassthroughCopy("_includes/assets/");
+  eleventyConfig.addPassthroughCopy("api/");
+  eleventyConfig.addPassthroughCopy("sitemap.njk");
 
   /* Markdown Plugins */
   let markdownIt = require("markdown-it");
