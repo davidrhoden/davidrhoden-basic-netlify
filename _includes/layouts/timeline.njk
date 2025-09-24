@@ -2,8 +2,9 @@
 layout: layouts/base.njk
 pageType: timeline
 section: timeline
----
+generator: {{metadata.generator}}
 
+---
 
 <article data-pagefind-body>
   <h1>{{ title }}</h1>
@@ -13,7 +14,7 @@ section: timeline
     </small>
   </p>
 
-  {{ layoutContent | safe }}
+  {{ content | safe }}
 
   {% if tags %}
     <p>

@@ -4,6 +4,7 @@
   "author": {
     "name": "David Rhoden",
     "email": "david@davidrhoden.com",
-    "github": "https://github.com/davidrhoden"
+    "github": "https://github.com/davidrhoden",
+    "generator": "Eleventy"
   }
 }
