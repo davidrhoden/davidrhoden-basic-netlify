@@ -22,7 +22,7 @@ const is_production = typeof process.env.NODE_ENV === "string" && process.env.NO
 // }
 
 module.exports = function (eleventyConfig) {
-
+  eleventyConfig.setUseGitIgnore(false);
   eleventyConfig.on('eleventy.after', () => {
       execSync(`npx pagefind --site _site --glob \"**/*.html\"`, { encoding: 'utf-8' })
     })
