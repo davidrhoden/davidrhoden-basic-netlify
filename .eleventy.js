@@ -1,5 +1,4 @@
 const { DateTime } = require("luxon");
-// const UglifyJS = require("uglify-js");
 const slugify = require("slugify");
 const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
 const pluginSEO = require("eleventy-plugin-seo");

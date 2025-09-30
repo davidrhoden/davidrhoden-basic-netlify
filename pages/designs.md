@@ -11,7 +11,6 @@ eleventyNavigation:
   order: 7
 ---
 
-- [![postcard for "Out Of The Boil".](/static/img/designs/out-of-the-boil-4x6-may-16-2024.png)](/static/img/designs/out-of-the-boil-4x6-may-16-2024.png)
 - [![postcard for "Out Of The Boil".](/static/img/designs/out-of-the-boil-card-jun-25-2024.jpg)](/static/img/designs/out-of-the-boil-card-jun-25-2024.jpg)
 - ![The Stacks New Orleans: Holy Diver, June 27 2024](/static/img/designs/stacks-flyer-lufofu-color-1-jun-27-2024.jpg "The Stacks New Orleans: Holy Diver, June 27 2024")
 - ![The Stacks New Orleans: Pirogue's Whiskey Bayou](/static/img/designs/stacks-flyer-pirogues-960w-jun-15-2024.jpg "The Stacks New Orleans: Pirogue's Whiskey Bayou")
@@ -20,6 +19,7 @@ eleventyNavigation:
 - [![Show poster design.](/static/img/designs/stacks-holy-diver-flyer-2-sq-jan-25-2024.png)](/static/img/designs/stacks-holy-diver-flyer-2-sq-jan-25-2024.png)
 - [![Show poster design.](/static/img/designs/Sister-Street-Fest-2023-times.png)](/static/img/designs/Sister-Street-Fest-2023-times.png)
 - [![Show poster design.](/static/img/designs/SisterStreetStage-Apr-17-2021.jpg)](/static/img/designs/SisterStreetStage-Apr-17-2021.jpg)
+- [![Lecture program.](/static/img/designs/all-borders-are-fake-nov-7-2019.jpg)](/static/img/designs/all-borders-are-fake-nov-7-2019.jpg)
 - [![Album cover design for Talbot Adams.](/static/img/designs/TalbotAdamsAlbum.jpg)](/static/img/designs/TalbotAdamsAlbum.jpg)
 - [![Album cover design for The Hi-Balls.](/static/img/designs/tubecover.jpg)](/static/img/designs/tubecover.jpg)
 - [![Album cover design for the Hi-Balls.](/static/img/designs/coverclr.jpg)](/static/img/designs/coverclr.jpg)
