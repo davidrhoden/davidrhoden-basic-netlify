@@ -3,12 +3,21 @@
 command = "npm run build"
 # command = "npm run build && npm run postbuild"
 
-#[build.environment]
-# NODE_VERSION="18.18.0"
+[build.environment]
+NODE_VERSION="22.20.0"
 # NODE_OPTIONS="--max-old-space-size=4096"
+
+[functions]
+  node_bundler = "esbuild"
+
+[build.processing]
+  skip_processing = true
 
 [build.cache]
   paths = ["node_modules", ".cache", "_site"]
+
+[[plugins]]
+  package = "@netlify/plugin-cache"
 
 # [[plugins]]
 # package = "@netlify/plugin-sitemap"
