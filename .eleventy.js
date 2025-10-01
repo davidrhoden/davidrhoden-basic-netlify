@@ -6,7 +6,7 @@ const htmlmin = require("html-minifier");
 const CleanCSS = require("clean-css");
 const { minify } = require("terser");
 const path = require("path");
-// const pluginRss = require("@11ty/eleventy-plugin-rss");
+const pluginRss = require("@11ty/eleventy-plugin-rss");
 const { execSync } = require('child_process');
 
 const is_production = typeof process.env.NODE_ENV === "string" && process.env.NODE_ENV === "production";
@@ -32,11 +32,11 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addPlugin(pluginSEO, require("./_data/seo.json"));
 
-  // eleventyConfig.addPlugin(pluginRss);
+  eleventyConfig.addPlugin(pluginRss);
 
-  // eleventyConfig.addLiquidFilter("dateToRfc3339", pluginRss.dateToRfc3339);
+  eleventyConfig.addLiquidFilter("dateToRfc3339", pluginRss.dateToRfc3339);
   // New in RSS 1.2.0
-  // eleventyConfig.addLiquidFilter("dateToRfc822", pluginRss.dateToRfc822);
+  eleventyConfig.addLiquidFilter("dateToRfc822", pluginRss.dateToRfc822);
 
   // https://www.11ty.dev/docs/data-deep-merge/
   eleventyConfig.setDataDeepMerge(true);
