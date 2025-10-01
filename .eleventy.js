@@ -24,6 +24,7 @@ const is_production = typeof process.env.NODE_ENV === "string" && process.env.NO
 module.exports = function (eleventyConfig) {
 
   eleventyConfig.setUseGitIgnore(false);
+
   eleventyConfig.on('eleventy.after', () => {
       execSync(`npx pagefind --site _site --glob \"**/*.html\"`, { encoding: 'utf-8' })
     })
@@ -45,16 +46,16 @@ module.exports = function (eleventyConfig) {
     return new CleanCSS({}).minify(code).styles;
   });
 
-  eleventyConfig.addTransform("htmlmin", (content, outputPath) => {
-    if (outputPath.endsWith(".html")) {
-      return htmlmin.minify(content, {
-        collapseWhitespace: true,
-        removeComments: true,
-        useShortDoctype: true,
-      });
-    }
-    return content;
-  });
+  // eleventyConfig.addTransform("htmlmin", (content, outputPath) => {
+  //   if (outputPath.endsWith(".html")) {
+  //     return htmlmin.minify(content, {
+  //       collapseWhitespace: true,
+  //       removeComments: true,
+  //       useShortDoctype: true,
+  //     });
+  //   }
+  //   return content;
+  // });
 
   eleventyConfig.addNunjucksAsyncFilter("jsmin", async function (
     code,
