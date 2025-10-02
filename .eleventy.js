@@ -46,16 +46,16 @@ module.exports = function (eleventyConfig) {
     return new CleanCSS({}).minify(code).styles;
   });
 
-  // eleventyConfig.addTransform("htmlmin", (content, outputPath) => {
-  //   if (outputPath.endsWith(".html")) {
-  //     return htmlmin.minify(content, {
-  //       collapseWhitespace: true,
-  //       removeComments: true,
-  //       useShortDoctype: true,
-  //     });
-  //   }
-  //   return content;
-  // });
+  eleventyConfig.addTransform("htmlmin", (content, outputPath) => {
+    if (outputPath.endsWith(".html")) {
+      return htmlmin.minify(content, {
+        collapseWhitespace: true,
+        removeComments: true,
+        useShortDoctype: true,
+      });
+    }
+    return content;
+  });
 
   eleventyConfig.addNunjucksAsyncFilter("jsmin", async function (
     code,
