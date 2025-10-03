@@ -10,7 +10,7 @@ tags:
   - Reservation Dogs
   - Nymphomaniac Part 1
   - Lars von Trier
-  - 2924 Election
+  - 2024 Election
   - forensic audit
   - Anora
 
@@ -30,7 +30,7 @@ Here's a live show of Honor Role from C.B.G.B. in 1986.
 
 I am enjoying _Reservation Dogs_. I'm on to Season 2. I had to watch a couple episodes after finishing Lars von Trier's depressing movie _Nymphomaniac Part 1_.
 
-![Jackie and lora from Reservation Dogs](/static/img/notes/reservation-dogs-season-2.jpg)
+![Jackie and Lora from Reservation Dogs](/static/img/notes/reservation-dogs-season-2.jpg)
 
 -----
 
