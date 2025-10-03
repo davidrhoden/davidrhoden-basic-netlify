@@ -12,9 +12,9 @@ tags:
   - M
   - "Pop Muzik"
   - William Steig
-  - _Dominic_ (William Steig book)
-  - _The Real Thief_ (William Steig book)
-  - _Separation Sunday_
+  - Dominic (William Steig book)
+  - The Real Thief (William Steig book)
+  - Separation Sunday
   - The Hold Steady
   - 315 Tricou Street
   - United States Postal Service
