@@ -25,4 +25,4 @@ tags:
 
 ![cartoon by Dave Rhoden of a woman singing lyrics from "Pop Muzik" on a home karaoke machine](/static/img/karaoke/pop-muzik-sep-29-2025.jpg)
 
-Otherwise not a remarkable day. I got two William Steig books in the mail (_Dominic_ and "The Real Thief_). Made pizza dough. Listened to _Separation Sunday_ by The Hold Steady. Listened to a football game. Barely left the house. The postal woman hollered at me from her Jeep, "There's a package for you, David!" I thought that was nice but the package was for the woman who lives in the other half of the house.
+Otherwise not a remarkable day. I got two William Steig books in the mail (_Dominic_ and _The Real Thief_). Made pizza dough. Listened to _Separation Sunday_ by The Hold Steady. Listened to a football game. Barely left the house. The postal woman hollered at me from her Jeep, "There's a package for you, David!" I thought that was nice but the package was for the woman who lives in the other half of the house.
