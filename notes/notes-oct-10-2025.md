@@ -8,7 +8,10 @@ tags:
   - notes
   - impostor syndrome
   - web development
+  - Yii 1.1
   - The Levee
+  - boats
+  - sunsets
 
 ---
 
@@ -24,4 +27,4 @@ I was brought onto the project to redo the front end, make it look good, and wor
 
 I guess I still have my job. I suppose I'll be getting back to the front end now. Things could be worse. I just feel chastened.
 
-Picture is from the levee last night, with a bunch of boats I wish I were sailing away on.
+Picture is from the levee last night at sunset, with a bunch of boats I wish I were sailing away on.
