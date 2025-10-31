@@ -1,6 +1,6 @@
 ---
 title: Changes come around real soon.
-date: yyyy-mm-ddT00:00:00
+date: 2025-10-22T00:00:00
 excerpt: Make us women and men.
 summary: Make us women and men.
 image: /static/img/karaoke/hold-on-to-sixteen-oct-22-2025.jpeg
