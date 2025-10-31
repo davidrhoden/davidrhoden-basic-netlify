@@ -17,7 +17,7 @@
       {% include "assets/css/development.css" %}
     {% endif %}
   {% endset %}
-  <style>{{ css | cssmin | safe }}</style>
+  <style>{{ css | safe }}</style>
   <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Libre+Franklin:ital,wght@0,300;0,700;1,300;1,700&display=swap" rel="stylesheet">
@@ -34,7 +34,7 @@
     {% include "assets/js/jquery.magnific-popup.min.js" %}
     {% include "assets/js/inline.js" %}
   {% endset %}
-  <script>{{ js | jsmin | safe }}</script>
+  <script>{{ js | safe }}</script>
   <script src="/pagefind/pagefind-ui.js"></script>
 
 <script>

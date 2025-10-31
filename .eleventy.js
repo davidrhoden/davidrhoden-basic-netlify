@@ -2,9 +2,9 @@ const { DateTime } = require("luxon");
 const slugify = require("slugify");
 const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
 const pluginSEO = require("eleventy-plugin-seo");
-const htmlmin = require("html-minifier");
-const CleanCSS = require("clean-css");
-const { minify } = require("terser");
+// const htmlmin = require("html-minifier");
+// const CleanCSS = require("clean-css");
+// const { minify } = require("terser");
 const path = require("path");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 const { execSync } = require('child_process');
@@ -42,34 +42,34 @@ module.exports = function (eleventyConfig) {
   // https://www.11ty.dev/docs/data-deep-merge/
   eleventyConfig.setDataDeepMerge(true);
 
-  eleventyConfig.addFilter("cssmin", function (code) {
-    return new CleanCSS({}).minify(code).styles;
-  });
+  //eleventyConfig.addFilter("cssmin", function (code) {
+  //  return new CleanCSS({}).minify(code).styles;
+  //});
 
-  eleventyConfig.addTransform("htmlmin", (content, outputPath) => {
-    if (outputPath.endsWith(".html")) {
-      return htmlmin.minify(content, {
-        collapseWhitespace: true,
-        removeComments: true,
-        useShortDoctype: true,
-      });
-    }
-    return content;
-  });
+  // eleventyConfig.addTransform("htmlmin", (content, outputPath) => {
+  //   if (outputPath.endsWith(".html")) {
+  //     return htmlmin.minify(content, {
+  //       collapseWhitespace: true,
+  //       removeComments: true,
+  //       useShortDoctype: true,
+  //     });
+  //   }
+  //   return content;
+  // });
 
-  eleventyConfig.addNunjucksAsyncFilter("jsmin", async function (
-    code,
-    callback
-  ) {
-    try {
-      const minified = await minify(code);
-      callback(null, minified.code);
-    } catch (err) {
-      console.error("Terser error: ", err);
-      // Fail gracefully.
-      callback(null, code);
-    }
-  });
+  // eleventyConfig.addNunjucksAsyncFilter("jsmin", async function (
+  //   code,
+  //   callback
+  // ) {
+  //   try {
+  //     const minified = await minify(code);
+  //     callback(null, minified.code);
+  //   } catch (err) {
+  //     console.error("Terser error: ", err);
+  //     // Fail gracefully.
+  //     callback(null, code);
+  //   }
+  // });
 
 
   eleventyConfig.addFilter("readableDate", (dateObj) => {
