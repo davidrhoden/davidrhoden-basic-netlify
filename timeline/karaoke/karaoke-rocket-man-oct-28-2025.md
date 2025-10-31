@@ -7,7 +7,6 @@ image: /static/img/karaoke/rocket-man-oct-25-2025.jpg
 tags:
   - cartoons
   - karaoke
-  - "Rocket Man"
   - Elton John
   - misheard lyrics
 
