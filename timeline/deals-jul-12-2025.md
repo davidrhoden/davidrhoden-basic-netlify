@@ -4,6 +4,7 @@ date: 2025-07-12T00:00:00
 excerpt: I was a bit interested in some bookshelf speakers but I opened the box and there was just a Conair hairdryer inside.
 summary: I was a bit interested in some bookshelf speakers but I opened the box and there was just a Conair hairdryer inside.
 image: /static/img/timeline/deals-exterior-jul-12-2005.jpeg
+pinned: true
 tags:
   - Louisiana
   - Chalmette
