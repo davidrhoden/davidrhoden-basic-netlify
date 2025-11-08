@@ -498,7 +498,7 @@ a.post-tag {
 /* Contact Form */
 form {
   display: grid;
-  padding: 2em 0;
+  padding: 2em 0 1em;
 }
 
 form.gsc-search-box {

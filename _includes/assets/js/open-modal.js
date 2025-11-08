@@ -5,9 +5,11 @@ $(function(){
 
   var shouldOpen = $.cookie(modalCookie);
 
-  $('#dialog').jqm();
   if (shouldOpen != "seen") {
-    $('#dialog').jqmShow();
-    $.cookie(modalCookie, 'seen', options);
+    // Wait 5 seconds before showing the modal
+    setTimeout(function() {
+      $('#dialog').jqm().jqmShow();
+      $.cookie(modalCookie, 'seen', options);
+    }, 5000);
   };
 });
