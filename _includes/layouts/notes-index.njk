@@ -28,6 +28,8 @@ section: notes
     </p>
   {% endif %}
   <p>
+  {{ note.data.content | safe }}
+
     <time datetime="{{ note.date | machineDate }}">
       <small>{{ note.date | readableDate }}</small>
     </time>

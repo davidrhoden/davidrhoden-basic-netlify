@@ -339,7 +339,7 @@ header nav ul {
 
 header nav li {
   display: block;
-  margin: 1em 0;
+  margin: .2em 0;
 }
 
 header nav li a {
@@ -354,6 +354,17 @@ header nav li a[href]:not(:hover) {
 header nav li a[data-current="current item"] {
   font-weight: 700;
   text-decoration: underline;
+}
+
+.menu-header {
+  background-color: var(--orangered);
+  color: white;
+  font-family: var(--font-secondary);
+  font-size: 0.9em;
+  font-weight: 600;
+  padding: 8px;
+  width: 100%;
+
 }
 
 .home {
