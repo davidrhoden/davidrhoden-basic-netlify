@@ -1,3 +1,10 @@
+@font-face {
+  font-family: "Clarendon-Regular";
+  src: url("/static/webfonts/Clarendon-Regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
 :root {
   --black: black;
   --white: #fff;
@@ -7,7 +14,7 @@
   --orangered: orangered;
   --gray: rgb(0 0 0 / 50%);
   --font-primary: "Source Serif Pro", serif;
-  --font-secondary: "Libre Franklin", "Helvetica Neue", sans-serif;
+  --font-secondary: "Clarendon-Regular", "Libre Franklin", "Helvetica Neue", sans-serif;
   --font-decorative: "ShadowGrotesque", "Libre Franklin", sans-serif;
 }
 
@@ -75,8 +82,8 @@ article video {
 
 h1 {
   font-family: var(--font-secondary);
-  font-weight: 700;
-  font-size: 2em;
+  font-weight: 500;
+  font-size: 1em;
   margin: 0;
 }
 
@@ -715,6 +722,102 @@ span.fade:hover {
 }
 
 /******* END PHOTO-TIMELINE *******/
+
+/******* BEGIN HOME TIMELINE SECTION *******/
+
+.timeline-section {
+  margin-bottom: 3em;
+}
+
+.timeline-section h2 {
+  color: var(--orangered);
+  font-family: var(--font-secondary);
+  font-weight: 600;
+  font-size: 2em;
+  margin-bottom: 1.5em;
+}
+
+.timeline-item {
+  border: 2px solid #8B4513;
+  margin-bottom: 2em;
+  overflow: hidden;
+  background: var(--white);
+}
+
+.timeline-item.pinned {
+  border-color: var(--orangered);
+  border-width: 3px;
+}
+
+.timeline-item-image {
+  width: 100%;
+  line-height: 0;
+}
+
+.timeline-item-image img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.timeline-item-content {
+  padding: 1.5em;
+}
+
+.timeline-item h3 {
+  font-family: var(--font-primary);
+  font-weight: 600;
+  font-size: 1.8em;
+  margin-top: 0;
+  margin-bottom: 0.5em;
+  line-height: 1.2;
+}
+
+.timeline-item h3 a {
+  color: var(--black);
+  text-decoration: none;
+}
+
+.timeline-item h3 a:hover {
+  color: var(--orangered);
+}
+
+.pinned-badge {
+  display: inline-block;
+  font-size: 0.6em;
+  margin-left: 0.5em;
+  opacity: 0.8;
+  vertical-align: middle;
+}
+
+.timeline-item time {
+  color: var(--gray);
+  font-style: italic;
+}
+
+.timeline-item p {
+  margin-bottom: 0.75em;
+}
+
+.timeline-item p:last-child {
+  margin-bottom: 0;
+}
+
+@media screen and (width >= 960px) {
+  .timeline-item-image img {
+    max-width: 960px;
+    width: auto;
+    margin: 0 auto;
+  }
+
+  .timeline-item-image {
+    display: flex;
+    justify-content: center;
+    background: #f5f5f5;
+  }
+}
+
+/******* END HOME TIMELINE SECTION *******/
 
 .newspaper {
   background: url("/static/img/timeline/paper-light.jpg") center center

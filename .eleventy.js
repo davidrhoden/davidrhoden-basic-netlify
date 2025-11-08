@@ -139,6 +139,20 @@ module.exports = function (eleventyConfig) {
     return allNotes;
   });
 
+  // Collection for pinned timeline posts
+  eleventyConfig.addCollection("pinnedTimeline", function (collection) {
+    return collection.getFilteredByTag("post")
+      .filter(item => item.data.pinned === true)
+      .sort((a, b) => b.date - a.date);
+  });
+
+  // Collection for most recent timeline post
+  eleventyConfig.addCollection("recentTimeline", function (collection) {
+    const posts = collection.getFilteredByTag("post")
+      .sort((a, b) => b.date - a.date);
+    return posts.length > 0 ? [posts[0]] : [];
+  });
+
   function filterTagList(tags) {
     return (tags || []).filter(
       (tag) => ["all", "nav", "post", "posts"].indexOf(tag) === -1,
@@ -174,7 +188,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("static/audio");
   eleventyConfig.addPassthroughCopy("static/video");
   eleventyConfig.addPassthroughCopy("static/banners");
-  eleventyConfig.addPassthroughCopy("static/webfonts/ShadowGrotesque");
+  eleventyConfig.addPassthroughCopy("static/webfonts");
   eleventyConfig.addPassthroughCopy("admin");
   eleventyConfig.addPassthroughCopy("_includes/assets/");
 

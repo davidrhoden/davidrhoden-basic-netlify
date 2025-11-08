@@ -1,0 +1,103 @@
+---
+layout: layouts/base.njk
+section: notes
+---
+
+{{ content | safe }}
+
+<!-- timeline section -->
+{% if collections.recentTimeline.length > 0 or collections.pinnedTimeline.length > 0 %}
+<section class="timeline-section">
+  <h2>From the Timeline</h2>
+  
+  {% set timelineItems = [] %}
+  {% set addedUrls = [] %}
+  
+  {# Add pinned items first #}
+  {% for item in collections.pinnedTimeline %}
+    {% set timelineItems = (timelineItems.push(item), timelineItems) %}
+    {% set addedUrls = (addedUrls.push(item.url), addedUrls) %}
+  {% endfor %}
+  
+  {# Add most recent if not already added #}
+  {% for item in collections.recentTimeline %}
+    {% if item.url not in addedUrls %}
+      {% set timelineItems = (timelineItems.push(item), timelineItems) %}
+    {% endif %}
+  {% endfor %}
+  
+  {% for item in timelineItems %}
+  <article class="timeline-item{% if item.data.pinned %} pinned{% endif %}">
+    {% if item.data.image %}
+    <div class="timeline-item-image">
+      <img src="{{ item.data.image }}" alt="{{ item.data.title }}">
+    </div>
+    {% endif %}
+    <div class="timeline-item-content">
+      <h3>
+        <a href="{{ item.url }}">{{ item.data.title }}</a>
+        {% if item.data.pinned %}<span class="pinned-badge" title="Pinned">📌</span>{% endif %}
+      </h3>
+      {% if item.data.summary %}
+        <p>
+          {{ item.data.summary }}
+        </p>
+      {% endif %}
+      <p>
+        <time datetime="{{ item.date | machineDate }}">
+          <small>{{ item.date | readableDate }}</small>
+        </time>
+      </p>
+      {% if item.data.tags %}
+        <p>
+          {% for tag in item.data.tags %}
+            {%- if tag != "post" -%}
+              {% set tagUrl %}/tags/{{ tag | slugify }}/{% endset %}
+            <a href="{{ tagUrl }}" rel="tag">{{ tag }}</a>
+            {%- endif -%}
+          {% endfor %}
+        </p>
+      {% endif %}
+    </div>
+  </article>
+  {% endfor %}
+</section>
+{% endif %}
+
+<!-- note loop -->
+
+{% for note in notes %}
+<article class="flex">
+  <div class="left">
+    {% if note.data.image %}<img style="width: 160px;" class="thumbnail" src="{{ note.data.image }}?nf_resize=fit&w=160">{% endif %}
+  </div>
+  <div>
+  <h3>
+    <a href="{{ note.url }}">{{ note.data.title }}</a>
+  </h3>
+  {% if note.data.summary %}
+    <p>
+      {{ note.data.summary }}
+    </p>
+  {% endif %}
+  <p>
+    <time datetime="{{ note.date | machineDate }}">
+      <small>{{ note.date | readableDate }}</small>
+    </time>
+  </p>
+    {{ content | safe }}
+
+    {% if note.data.tags %}
+      <p>
+        {% for tag in note.data.tags %}
+          {%- if tag != "note" -%}
+            {% set tagUrl %}/tags/{{ tag | slugify }}/{% endset %}
+          <a href="{{ tagUrl }}" rel="tag">{{ tag }}</a>
+          {%- endif -%}
+        {% endfor %}
+      </p>
+    {% endif %}
+</div>
+</article>
+{% endfor %}
+{% include "components/pagination.njk" %}
