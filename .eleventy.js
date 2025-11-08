@@ -181,6 +181,50 @@ module.exports = function (eleventyConfig) {
     });
   });
 
+  // Filter to get all images from a directory
+  eleventyConfig.addFilter("getImagesFromDir", function(dirPath) {
+    const fs = require('fs');
+    const path = require('path');
+    const imageExtensions = ['.jpg', '.jpeg', '.png', '.gif', '.webp', '.svg', '.bmp'];
+    
+    try {
+      // Convert web path to filesystem path
+      const fsPath = dirPath.startsWith('/static') 
+        ? path.join(__dirname, dirPath.replace(/^\//, ''))
+        : path.join(__dirname, 'static', dirPath);
+      
+      if (!fs.existsSync(fsPath)) {
+        console.log(`Directory not found: ${fsPath}`);
+        return [];
+      }
+      
+      const files = fs.readdirSync(fsPath);
+      
+      return files
+        .filter(file => {
+          const ext = path.extname(file).toLowerCase();
+          return imageExtensions.includes(ext);
+        })
+        .map(file => {
+          const stats = fs.statSync(path.join(fsPath, file));
+          // Convert back to web path
+          const webPath = dirPath.startsWith('/') ? dirPath : '/static/' + dirPath;
+          return {
+            filename: file,
+            path: webPath + (webPath.endsWith('/') ? '' : '/') + file,
+            name: path.basename(file, path.extname(file)),
+            ext: path.extname(file),
+            created: stats.birthtime,
+            modified: stats.mtime
+          };
+        })
+        .sort((a, b) => b.created - a.created); // Sort by creation date, newest first
+    } catch (err) {
+      console.error(`Error reading directory ${dirPath}:`, err);
+      return [];
+    }
+  });
+
   // Don't process folders with static assets e.g. images
   eleventyConfig.addPassthroughCopy("favicon.ico");
   eleventyConfig.addPassthroughCopy("static/img");
