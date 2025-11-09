@@ -146,11 +146,11 @@ module.exports = function (eleventyConfig) {
       .sort((a, b) => b.date - a.date);
   });
 
-  // Collection for most recent timeline post
+  // Collection for most recent timeline posts
   eleventyConfig.addCollection("recentTimeline", function (collection) {
     const posts = collection.getFilteredByTag("post")
       .sort((a, b) => b.date - a.date);
-    return posts.length > 0 ? [posts[0]] : [];
+    return posts.slice(0, 3); // Return the 3 most recent posts
   });
 
   function filterTagList(tags) {
