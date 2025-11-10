@@ -14,6 +14,9 @@ generator: {{metadata.generator}}
         <time datetime="{{ date | machineDate }}"><span id="todays-date">{{ date | readableDate }}</span></time>. Day <span id="days"></span>.
       </small>
     </p>
+    {% if description %}
+      <p>{{ description }}</p>
+    {% endif %}
     {% if tags %}
       <p>
       {% for tag in tags %}
