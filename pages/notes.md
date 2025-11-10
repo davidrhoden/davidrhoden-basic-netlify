@@ -1,5 +1,5 @@
 ---
-layout: layouts/notes-index.njk
+layout: layouts/timeline-index.njk
 title: Notes/Now
 date: 2020-07-01
 excerpt: "Notes about what's on my mind at this particular moment."
@@ -15,5 +15,3 @@ eleventyNavigation:
   key: Notes/Now
   order: 13
 ---
-
-## Notes:
