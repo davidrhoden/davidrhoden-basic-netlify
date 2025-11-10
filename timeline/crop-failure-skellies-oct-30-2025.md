@@ -1,6 +1,9 @@
 ---
 title: On the occasion of Hallowe'en...
 date: 2025-10-30T00:00:00
+description: "My friend Rel wrote a scary short story in which there were spooky walking skeletons, but not only that, they came to warn us of worldwide catastrophic crop failure in the not-far-off year 2038.
+
+I sketched these at the reading a year or so ago but just cut out these big ones in time, just in time, for Hallowe'en. The glow-in-the-dark paint showed up a day early."
 excerpt: ...and in commemoration of the expected catastrophic famine on Earth in 2038.
 summary: ...and in commemoration of the expected catastrophic famine on Earth in 2038.
 image: /static/img/paintings/crop-failure-2038-porch-oct-30-2025.jpeg
@@ -17,9 +20,5 @@ tags:
 ---
 
 ![Skeleton paintings by David Rhoden](/static/img/paintings/crop-failure-2038-porch-oct-30-2025.jpeg)
-
-My friend Rel wrote a scary short story in which there were spooky walking skeletons, but not only that, they came to warn us of worldwide catastrophic crop failure in the not-far-off year 2038.
-
-I sketched these at the reading a year or so ago but just cut out these big ones in time, just in time, for Hallowe'en. The glow-in-the-dark paint showed up a day early.
 
 ![Glowing skeleton paintings by David Rhoden](/static/img/paintings/crop-failure-2038-porch-glowing-oct-30-2025.jpeg)
