@@ -6,21 +6,22 @@ section: notes
 {{ content | safe }}
 
 <!-- timeline section -->
-{% if collections.recentTimeline.length > 0 or collections.pinnedTimeline.length > 0 %}
+{% if timelinePosts.length > 0 or collections.pinnedTimeline.length > 0 %}
 <section class="timeline-section">
-  <h2>From the Timeline</h2>
-  
+
   {% set timelineItems = [] %}
   {% set addedUrls = [] %}
   
-  {# Add pinned items first #}
-  {% for item in collections.pinnedTimeline %}
-    {% set timelineItems = (timelineItems.push(item), timelineItems) %}
-    {% set addedUrls = (addedUrls.push(item.url), addedUrls) %}
-  {% endfor %}
+  {# Add pinned items first (only on page 1) #}
+  {% if pagination.pageNumber == 0 %}
+    {% for item in collections.pinnedTimeline %}
+      {% set timelineItems = (timelineItems.push(item), timelineItems) %}
+      {% set addedUrls = (addedUrls.push(item.url), addedUrls) %}
+    {% endfor %}
+  {% endif %}
   
-  {# Add most recent if not already added #}
-  {% for item in collections.recentTimeline %}
+  {# Add paginated posts if not already added #}
+  {% for item in timelinePosts %}
     {% if item.url not in addedUrls %}
       {% set timelineItems = (timelineItems.push(item), timelineItems) %}
     {% endif %}
@@ -34,9 +35,9 @@ section: notes
     </div>
     {% endif %}
     <div class="timeline-item-content">
+    {% if item.data.pinned %}<span class="pinned-badge" title="Pinned">📌</span>{% endif %}
       <h3>
         <a href="{{ item.url }}">{{ item.data.title }}</a>
-        {% if item.data.pinned %}<span class="pinned-badge" title="Pinned">📌</span>{% endif %}
       </h3>
       {% if item.data.summary %}
         <p>
