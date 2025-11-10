@@ -139,6 +139,13 @@ module.exports = function (eleventyConfig) {
     return allNotes;
   });
 
+  // Collection that combines posts and notes for timeline display
+  eleventyConfig.addCollection("timeline", function (collection) {
+    const posts = collection.getFilteredByTag("post");
+    const notes = collection.getFilteredByTag("note");
+    return [...posts, ...notes].sort((a, b) => b.date - a.date);
+  });
+
   // Collection for pinned timeline posts
   eleventyConfig.addCollection("pinnedTimeline", function (collection) {
     return collection.getFilteredByTag("post")
