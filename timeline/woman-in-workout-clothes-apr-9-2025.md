@@ -3,15 +3,16 @@ title: I painted a woman in workout clothes.
 date: 2025-04-09T00:00:00
 excerpt: I wanted to have someone to talk to.
 summary: I wanted to have someone to talk to.
-image: /static/img/paintings/workout-clothes-apr-9-2025.jpeg
+image: /static/img/paintings/workout-clothes-apr-9-2025.jpg
 tags:
   - paintings
+  - loneliness
   - women
   - workout clothes
 
 ---
 
 
-![Painting of woman in workout clothes by David Rhoden](/static/img/paintings/workout-clothes-apr-9-2025.jpeg)
+![Painting of woman in workout clothes by David Rhoden](/static/img/paintings/workout-clothes-apr-9-2025.jpg)
 
 I wanted to have someone to talk to.
