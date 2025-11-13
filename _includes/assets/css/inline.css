@@ -75,7 +75,7 @@ article video {
 }
 
 h1 {
-  font-family: var(--font-secondary);
+  font-family: var(--font-decorative);
   font-weight: 500;
   font-size: 2em;
   margin: 0;
@@ -93,11 +93,23 @@ h3 {
   font-size: 2em;
 }
 
+header {
+  overflow: visible;
+}
+
 header .flex-container {
   display: flex;
   align-items: center;
   justify-content: space-between;
   width: 100%;
+  gap: 0.5em;
+  overflow: visible;
+}
+
+header .search-container {
+  margin-left: auto;
+  position: relative;
+  overflow: visible;
 }
 
 header nav {
@@ -335,18 +347,6 @@ header nav li a[data-current="current item"] {
   /*  padding: 6px 0; */
 }
 
-.pagefind-ui {
-  position: relative;
-}
-
-.pagefind-ui__drawer {
-  background: white;
-  box-shadow: 5px 5px 15px -5px rgb(0 0 0 / 75%);
-  position: absolute;
-  margin-left: -8em;
-  padding: 0 1em 1em 0.5em;
-  width: 20em;
-}
 
 .self-portrait {
   border-radius: 2em;
@@ -461,6 +461,10 @@ button,
   cursor: pointer;
 }
 
+.order-form input {
+  padding: .15em;
+}
+
 footer small {
   display: block; /* for line-height reasons! */
   font-size: 0.7em;
@@ -496,16 +500,6 @@ ol li::before {
   transition: all 0.2s ease-in-out;
   z-index: 2;
 }
-
-/*.about.flex {
-  margin-bottom: 2em;
-  overflow: hidden;
-  background: var(--offwhite);
-}
-
-.about.left {
-  text-align: right;
-}*/
 
 .animation-individual,
 .animation-individual video {
@@ -768,7 +762,7 @@ span.fade:hover {
   .timeline-item-content {
     max-width: 600px;
     flex-shrink: 0;
-    padding: 2em;
+    padding: 1em 2em;
   }
 
   /* About page specific styles */
@@ -782,6 +776,72 @@ span.fade:hover {
   }
 
   .about img {
+    width: 600px !important;
+    height: auto;
+  }
+
+    /* For Sale page specific styles */
+  .forsale .container {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+
+  .forsale .timeline-item {
+    flex-direction: row;
+  }
+
+  .forsale img {
+    width: 600px !important;
+    height: auto;
+  }
+
+  /* Animations page specific styles */
+  .animations .container {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+
+  .animations .timeline-item {
+    flex-direction: row;
+  }
+
+  .animations img, .animations video {
+    width: 600px !important;
+    height: auto;
+  }
+
+  /* Rock Music page specific styles */
+  .rock .container {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+
+  .rock .timeline-item {
+    flex-direction: row;
+  }
+
+  .rock img, .rock video {
+    width: 600px !important;
+    height: auto;
+  }
+
+   .rock audio {
+    width: 100%;
+    height: auto;
+    margin-bottom: 1em;
+  }
+
+/* Press page specific styles */
+  .press .container {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+
+  .press .timeline-item {
+    flex-direction: row;
+  }
+
+  .press img, .press video {
     width: 600px !important;
     height: auto;
   }
@@ -812,6 +872,7 @@ span.fade:hover {
   }
 
   .timeline-item-images {
+    background: #f5f5f5;
     flex: 1;
     display: flex;
     flex-direction: column;
@@ -1104,7 +1165,8 @@ span.fade:hover {
   }
 
   .join-my-mailing-list-form {
-    background-color: yellow;
+    margin-left: auto;
+    margin-right: auto;
     width: 50%;
   }
 }

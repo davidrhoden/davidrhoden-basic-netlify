@@ -36,6 +36,11 @@ section: notes
     {% endif %}
     <div class="timeline-item-content">
     {% if item.data.pinned %}<span class="pinned-badge" title="Pinned">📌</span>{% endif %}
+      <p>
+        <time datetime="{{ item.date | machineDate }}">
+          <small>{{ item.date | readableDate }}</small>
+        </time>
+      </p>
       <h3>
         <a href="{{ item.url }}">{{ item.data.title }}</a>
       </h3>
@@ -44,11 +49,6 @@ section: notes
           {{ item.data.summary }}
         </p>
       {% endif %}
-      <p>
-        <time datetime="{{ item.date | machineDate }}">
-          <small>{{ item.date | readableDate }}</small>
-        </time>
-      </p>
       {% if item.data.tags %}
         <p>
           {% for tag in item.data.tags %}

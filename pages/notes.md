@@ -1,5 +1,5 @@
 ---
-layout: layouts/timeline-index.njk
+layout: layouts/notes-index.njk
 title: Notes/Now
 date: 2020-07-01
 excerpt: "Notes about what's on my mind at this particular moment."
