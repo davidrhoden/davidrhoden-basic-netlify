@@ -8,7 +8,7 @@ tags:
   - cartoons
   - karaoke
   - Lou Reed
-  "Walk On the Wild Side"
+  - "Walk On the Wild Side"
 
 ---
 
