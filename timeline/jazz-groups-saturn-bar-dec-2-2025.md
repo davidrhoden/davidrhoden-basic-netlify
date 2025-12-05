@@ -1,8 +1,8 @@
 ---
-title: I went to see three jazz groups at Saturn Bar and I didn't eve hate it.
+title: I went to see three jazz groups at Saturn Bar and I didn't even hate it.
 date: 2025-12-02T00:00:00
-excerpt: None of them said what the ames of their groups were but two of the three were quite pleasant to listen to.
-summary: None of them said what the ames of their groups were but two of the three were quite pleasant to listen to.
+excerpt: None of them said what the names of their groups were but two of the three were quite pleasant to listen to.
+summary: None of them said what the names of their groups were but two of the three were quite pleasant to listen to.
 image: /static/img/timeline/jazz-group-saturn-bar-dec-2-2025.png
 tags:
   - shows
