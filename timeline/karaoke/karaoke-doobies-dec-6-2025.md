@@ -13,6 +13,6 @@ tags:
 
 ---
 
-![two dudes with pony tails singing "Black Water" togeether at karaoke](/static/img/karaoke/doobies-dec-6-2025.jpg)
+![two dudes with ponytails singing "Black Water" togeether at karaoke](/static/img/karaoke/doobies-dec-6-2025.jpg)
 
 Kind of a different direction, karaoke-wise. The words took up all the room.
