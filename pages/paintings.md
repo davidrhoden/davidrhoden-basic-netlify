@@ -125,7 +125,7 @@ To see my paintings I currently want to sell, please visit [thisismyhappening.co
 1. [![painting by David Rhoden](/static/img/paintings/blueflame1.jpg?nf_resize=smartcrop&w=260&h=260)](/static/img/paintings/blueflame1.jpg)
 1. [![painting by David Rhoden](/static/img/paintings/blueflame2.jpg?nf_resize=smartcrop&w=260&h=260)](/static/img/paintings/blueflame2.jpg)
 1. [![Many eyed monster painting by David Rhoden](/static/img/paintings/manyeyedmonster.jpg?nf_resize=smartcrop&w=260&h=260)](/static/img/paintings/manyeyedmonster.jpg)
-1. [![Screaming guy painting by David Rhoden](/static/img/paintings/screaming-guy.jpg?nf_resize=smartcrop&w=260&h=260)](static/img/paintings/screaming-guy.jpg)
+1. [![Screaming guy painting by David Rhoden](/static/img/paintings/screaming-guy.jpg?nf_resize=smartcrop&w=260&h=260)](/static/img/paintings/screaming-guy.jpg)
 1. [![painting by David Rhoden](/static/img/paintings/twowhitefigures.jpg?nf_resize=smartcrop&w=260&h=260)](/static/img/paintings/twowhitefigures.jpg)
 1. [![Slow Your Roll painting by David Rhoden](/static/img/paintings/slowyourroll.jpg?nf_resize=smartcrop&w=260&h=260)](/static/img/paintings/slowyourroll.jpg)
 1. [![Boy With Knife painting by David Rhoden](/static/img/paintings/boywithknife.jpg?nf_resize=smartcrop&w=260&h=260)](/static/img/paintings/boywithknife.jpg)
