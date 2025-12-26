@@ -5,7 +5,7 @@ excerpt: They had some kind of shelter built down there, like somebody planned t
 summary: They had some kind of shelter built down there, like somebody planned to stay overnight.
 image: /static/img/timeline/levee/riverbank-fire-and-passing-cruiseship-dec-21-2025.png
 tags:
-  - the levee
+  - The Levee
   - fire
   - bonfires
   - cruise ships
