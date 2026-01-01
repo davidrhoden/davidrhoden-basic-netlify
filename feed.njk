@@ -18,11 +18,11 @@
   <channel>
     <title>{{ metadata.title }}</title>
     <link>{{ metadata.base }}</link>
-    {# <atom:link href="{{ permalink | metadata.base }}" rel="self" type="application/rss+xml" /> #}
+    <atom:link href="https://davidrhoden.com/feed.xml" rel="self" type="application/rss+xml" />
     <description>{{ metadata.description }}</description>
     <language>{{ metadata.language or page.lang }}</language>
     {%- for post in collections.posts | reverse %}
-    {%- set absolutePostUrl = post.url %}
+    {%- set absolutePostUrl = metadata.base /post.url %}
     <item>
       <title>{{ post.data.title }}</title>
       <link>{{ metadata.base }}/{{ absolutePostUrl }}</link>
