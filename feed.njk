@@ -24,11 +24,11 @@
     {%- for post in collections.posts | reverse %}
     <item>
       <title>{{ post.data.title }}</title>
-      <link>{{ metadata.base }}/{{post.url }}</link>
-      <description>{{ post.content | renderTransforms(post.data.page, metadata.base) }}</description>
+      <link>{{ metadata.base }}{{post.url }}</link>
+      <description>{{ post.data.excerpt | renderTransforms(post.data.page, metadata.base) }}</description>
       <pubDate>{{ post.date | dateToRfc822 }}</pubDate>
       <dc:creator>{{ metadata.author.name }}</dc:creator>
-      <guid>{{ metadata.base }}/{{ post.url }}</guid>
+      <guid>{{ metadata.base }}{{ post.url }}</guid>
     </item>
     {%- endfor %}
   </channel>
