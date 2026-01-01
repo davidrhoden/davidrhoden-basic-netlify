@@ -6,9 +6,11 @@ const pluginSEO = require("eleventy-plugin-seo");
 // const CleanCSS = require("clean-css");
 // const { minify } = require("terser");
 const path = require("path");
-const pluginRss = require("@11ty/eleventy-plugin-rss");
 const { execSync } = require('child_process');
 const Webmentions = require("eleventy-plugin-webmentions");
+const pluginRss = require("@11ty/eleventy-plugin-rss");
+// const { feedPlugin } = require("@11ty/eleventy-plugin-rss");
+
 
 const is_production = typeof process.env.NODE_ENV === "string" && process.env.NODE_ENV === "production";
 
@@ -35,15 +37,44 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(pluginSEO, require("./_data/seo.json"));
 
   eleventyConfig.addPlugin(pluginRss);
+  //eleventyConfig.addPlugin(feedPlugin);
 
-  eleventyConfig.addLiquidFilter("dateToRfc3339", pluginRss.dateToRfc3339);
+  // eleventyConfig.addLiquidFilter("dateToRfc3339", pluginRss.dateToRfc3339);s
   // New in RSS 1.2.0
-  eleventyConfig.addLiquidFilter("dateToRfc822", pluginRss.dateToRfc822);
+  // eleventyConfig.addLiquidFilter("dateToRfc822", pluginRss.dateToRfc822);
+
+module.exports = function (eleventyConfig) {
+  eleventyConfig.addPlugin(pluginRss, {
+    posthtmlRenderOptions: {
+      closingSingleTag: "default", // opt-out of <img/>-style XHTML single tags
+    },
+  });
+};
 
   eleventyConfig.addPlugin(Webmentions, {
     domain: "davidrhoden.com",
     token: "YZxr-EcFN3AWMkyDcbhXGQ",
   });
+
+  eleventyConfig.addPlugin(pluginRss, {
+    type: "rss", // or "atom", "json"
+    outputPath: "/feed.xml",
+    collection: {
+      name: "posts",
+      limit: 10,
+    },
+    metadata: {
+      language: "en",
+      title: "David Rhoden: Painter and Drawer. New Orleans, Louisiana.",
+      subtitle: "New paintings, new drawings, occasional opinions.",
+      base: "https://davidrhoden.com/",
+      author: {
+        name: "David Rhoden",
+        email: "david@davidrhoden.com", // Optional
+      }
+    }
+  });
+
 
   // https://www.11ty.dev/docs/data-deep-merge/
   eleventyConfig.setDataDeepMerge(true);
@@ -81,10 +112,6 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addFilter("readableDate", (dateObj) => {
     return DateTime.fromJSDate(dateObj).toFormat("LLLL d, yyyy");
   });
-
-  // eleventyConfig.addFilter("readableDate", (dateObj) => {
-  //   return DateTime.fromJSDate(dateObj).toFormat("cccc, MMMM dd, yyyy");
-  // });
 
   eleventyConfig.addFilter("machineDate", (dateObj) => {
     return DateTime.fromJSDate(dateObj).toFormat("yyyy-MM-dd");
