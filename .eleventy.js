@@ -8,6 +8,7 @@ const pluginSEO = require("eleventy-plugin-seo");
 const path = require("path");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 const { execSync } = require('child_process');
+const Webmentions = require("eleventy-plugin-webmentions");
 
 const is_production = typeof process.env.NODE_ENV === "string" && process.env.NODE_ENV === "production";
 
@@ -38,6 +39,11 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addLiquidFilter("dateToRfc3339", pluginRss.dateToRfc3339);
   // New in RSS 1.2.0
   eleventyConfig.addLiquidFilter("dateToRfc822", pluginRss.dateToRfc822);
+
+  eleventyConfig.addPlugin(Webmentions, {
+    domain: "davidrhoden.com",
+    token: "YZxr-EcFN3AWMkyDcbhXGQ",
+  });
 
   // https://www.11ty.dev/docs/data-deep-merge/
   eleventyConfig.setDataDeepMerge(true);
