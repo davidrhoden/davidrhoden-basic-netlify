@@ -6,7 +6,7 @@
     "title": "David Rhoden: Painter and Drawer. New Orleans, Louisiana.",
     "description": "New paintings, new drawings, occasional opinions. I post about my days.",
     "language": "en",
-    "base": "https://davidrhoden.com/",
+    "base": "https://davidrhoden.com",
     "author": {
       "name": "David Rhoden"
     }
@@ -22,14 +22,13 @@
     <description>{{ metadata.description }}</description>
     <language>{{ metadata.language or page.lang }}</language>
     {%- for post in collections.posts | reverse %}
-    {%- set absolutePostUrl = metadata.base/post.url %}
     <item>
       <title>{{ post.data.title }}</title>
-      <link>{{ absolutePostUrl }}</link>
+      <link>{{ metadata.base/post.url }}</link>
       <description>{{ post.content | renderTransforms(post.data.page, metadata.base) }}</description>
       <pubDate>{{ post.date | dateToRfc822 }}</pubDate>
       <dc:creator>{{ metadata.author.name }}</dc:creator>
-      <guid>{{ absolutePostUrl }}</guid>
+      <guid>{{ metadata.base/post.url }}</guid>
     </item>
     {%- endfor %}
   </channel>
