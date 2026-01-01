@@ -22,10 +22,10 @@
     <description>{{ metadata.description }}</description>
     <language>{{ metadata.language or page.lang }}</language>
     {%- for post in collections.posts | reverse %}
-    {%- set absolutePostUrl = metadata.base /post.url %}
+    {%- set absolutePostUrl = metadata.base/post.url %}
     <item>
       <title>{{ post.data.title }}</title>
-      <link>{{ metadata.base }}/{{ absolutePostUrl }}</link>
+      <link>{{ absolutePostUrl }}</link>
       <description>{{ post.content | renderTransforms(post.data.page, metadata.base) }}</description>
       <pubDate>{{ post.date | dateToRfc822 }}</pubDate>
       <dc:creator>{{ metadata.author.name }}</dc:creator>
