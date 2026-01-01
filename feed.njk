@@ -4,7 +4,7 @@
   "eleventyExcludeFromCollections": true,
   "metadata": {
     "title": "David Rhoden: Painter and Drawer. New Orleans, Louisiana.",
-    "description": "New paintings, new drawings, occasional opinions. I post about my days.",
+    "description": "New paintings, new drawings, occasional opinions. I post about my days. Thoughts on web development.",
     "language": "en",
     "base": "https://davidrhoden.com",
     "author": {
@@ -25,7 +25,8 @@
     <item>
       <title>{{ post.data.title }}</title>
       <link>{{ metadata.base }}{{post.url }}</link>
-      <description>{{ post.data.excerpt | renderTransforms(post.data.page, metadata.base) }}</description>
+      <description>{{ post.data.excerpt }}</description>
+      <content:encoded>{{ post.content | renderTransforms(post.data.page, metadata.base) }}</content:encoded>
       <pubDate>{{ post.date | dateToRfc822 }}</pubDate>
       <dc:creator>{{ metadata.author.name }}</dc:creator>
       <guid>{{ metadata.base }}{{ post.url }}</guid>
