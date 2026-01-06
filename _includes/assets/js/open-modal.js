@@ -9,7 +9,7 @@ $(function(){
     // Wait 5 seconds before showing the modal
     setTimeout(function() {
       $('#dialog').jqm().jqmShow();
-      $.cookie(modalCookie, 'seen', options);
+      $.cookie(modalCookie, 'seenxxxxx', options);
     }, 5000);
   };
 });

@@ -3,7 +3,7 @@
       by Chris Coyier
       http://css-tricks.com
 */
-.jqmWindow a {
+.jqmWindow a.jqmClose {
     font: bold 18px Helvetica;
 }
 
@@ -16,14 +16,14 @@
 .jqmWindow {
     display: none;
     position: fixed;
-    top: 12%;
+    top: 2%;
     left: 50%;
-    margin-left: -12.5%;
-    width: 25%;
+    margin-left: -40%;
+    width: 80%;
     background-color: white;
     color: #333;
     border: 1px solid black;
-    padding: 12px;
+    padding: 2em;
 }
 
 .jqmOverlay {

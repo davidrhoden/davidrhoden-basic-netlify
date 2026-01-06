@@ -7,3 +7,11 @@ Tell the publicity story.
 
 It seems sometimes my thinking was "Alcohol can't get the better of me", but rather than that meaning "I can decide whether and when to drink alcohol", it was more like "I will show Alcohol that I can drink a bunch of it every day, no matter what."
 
+
+curl
+
+    --url https://api.cloudflare.com/client/v4/accounts/d9826ea0d724ba75abb8c773d27c12ba/request-tracer/tracer     --header 'Content-Type: application/json'
+
+    --header 'Authorization: Bearer $CF_AUTH_TOKEN'
+
+    --data '{"url":"https://davidrhoden.com","method":"GET","context":{"geoloc":{"iso_code":"SG"},"bot_score":""},"body":""}'
