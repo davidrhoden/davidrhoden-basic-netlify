@@ -12,7 +12,7 @@ tags:
 
 ---
 
-Played a great show at Saturn Bar to a crowd of 17 or so. Some tourist requested "Get Back", so I said "you must have mistaken us for the Beatles due to our appearance", but we did fake our way through that and a bit of "the Long and Winding Road" for good measure. Andrew provided the strings and horns.
+Played a great show at Saturn Bar to a crowd of 17 or so. Some tourist requested "Get Back", so I said "you must have mistaken us for the Beatles due to our appearance", but we did fake our way through that and a bit of "The Long and Winding Road" for good measure. Andrew provided the strings and horns.
 
 Another guy named Gary who said he played bass in bands around here in the 90s seemed to be a fan, he gave us an opinion on every song.
 

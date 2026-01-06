@@ -1,0 +1,32 @@
+<div class="jqmWindow" id="dialog">
+  <a href="#" class="jqmClose">Close</a>
+  <div><img src="static/img/site/latest-post-edit-jan-4-2026.jpg" alt="latest post"></div>
+  {% set latest_post = collections.posts | last %}
+  <article>
+      <small>{{ latest_post.data.date }}</small>
+      <h1>{{ latest_post.data.title }}</h1>
+      {{ latest_post.content | safe }}
+      {% if latest_post.data.tags %}
+          <p>Read more posts about:
+              {% for tag in latest_post.data.tags %}
+              {%- if tag != "post" -%}
+              {% set tagUrl %}/tags/{{ tag | slugify }}/{% endset %}
+              <a href="{{ tagUrl }}" rel="tag">{{ tag }}</a>
+              {%- endif -%}
+              {% endfor %}
+          </p>
+      {% endif %}
+      {% if latest_post.data.nextPost.url %}
+        <p class="ctr">
+          <strong>Next</strong>:
+          <a class="next" href="{{ latest_post.data.nextPost.url }}">{{ latest_post.data.nextPost.data.date | readableDate }}: {{ latest_post.data.nextPost.data.title }}</a>
+        </p>
+      {% endif %}
+      {% if latest_post.data.prevPost.url %}
+        <p class="ctr">
+          <strong>Previous</strong>:
+          <a class="previous" href="{{ latest_post.data.prevPost.url }}">{{ latest_post.data.prevPost.data.date | readableDate }}: {{ latest_post.data.prevPost.data.title }}</a>
+        </p>
+      {% endif %}
+  </article>
+</div>
