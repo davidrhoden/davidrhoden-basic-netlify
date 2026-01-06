@@ -7,9 +7,11 @@ image: /static/img/karaoke/sound-of-silence-jan-5-2026.jpg
 tags:
   - cartoons
   - karaoke
-  - Simon & Grarfunkel
+  - Simon & Garfunkel
   - "The Sound Of Silence"
 
 ---
 
 ![cartoon of woman singing "The Sound Of Silence" on home karaoke machine](/static/img/karaoke/sound-of-silence-jan-5-2026.jpg)
+
+See also [June 9, 2023](/timeline/i-drew-a-karaoke-cartoon-and-promptly-hid-it-from-myself/).
