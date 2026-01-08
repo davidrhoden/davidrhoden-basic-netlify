@@ -1,7 +1,7 @@
 <!doctype html>
 <html {% if section %}data-current="{{ section }}"{% endif %} lang="en">
   {% include "components/head.njk" %}
-  <body class="{% if pageType %}{{ pageType }}{% endif %} {{ page.fileSlug }} {{ pageClasses }}">
+  <body class="{% if pageType %}{{ pageType }}{% endif %} {{ page.fileSlug }} {{ pageClasses }}" id="{{ pageClasses }}"  rel="modal:open">
     {% include "components/header.njk" %}
     <main>
       <article data-pagefind-body>
@@ -11,9 +11,6 @@
           </div>
 
       </article>
-      <link rel="webmention" href="https://webmention.io/davidrhoden.com/webmention" />
-      {# Get the webmentions for the current page #}
-      {%- set currentPostMentions = webmentions | webmentionsForPage -%}
     </main>
 
     {% include "components/footer.njk" %}

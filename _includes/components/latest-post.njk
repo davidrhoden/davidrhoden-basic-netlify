@@ -1,5 +1,6 @@
-<div class="jqmWindow" id="dialog">
-  <a href="#" class="jqmClose">Close</a>
+
+<div class="jquery-modal">
+<div class="modal" id="dialog">
   <div><img src="static/img/site/latest-post-edit-jan-4-2026.jpg" alt="latest post"></div>
   {% set latest_post = collections.posts | last %}
   <article>
@@ -29,4 +30,8 @@
         </p>
       {% endif %}
   </article>
+  <a href="#close-modal" rel="modal:close" class="close-modal">Close</a>
 </div>
+<a href="#dialog" rel="modal:open">example</a>
+</div>
+

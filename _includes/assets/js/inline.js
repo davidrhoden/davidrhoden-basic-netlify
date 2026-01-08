@@ -110,4 +110,12 @@ $(document).ready(function () {
     $(".tab-selector").toggleClass("active");
     $(".tab").toggleClass("active");
   });
+
+  $(document).ready(function () {
+    console.log("read it");
+    $(window).on("load", function(event) {
+      console.log("on load happened");
+        $('#dialog').modal();
+    });
+  });
 });
