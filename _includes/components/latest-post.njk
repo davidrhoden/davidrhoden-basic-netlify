@@ -1,9 +1,8 @@
 
 <div class="jquery-modal">
 <div class="modal" id="dialog">
-  <div><img src="static/img/site/latest-post-edit-jan-4-2026.jpg" alt="latest post"></div>
   {% set latest_post = collections.posts | last %}
-  <article>
+  <article style="overflow: hidden;">
       <small>{{ latest_post.data.date }}</small>
       <h1>{{ latest_post.data.title }}</h1>
       {{ latest_post.content | safe }}
@@ -32,6 +31,5 @@
   </article>
   <a href="#close-modal" rel="modal:close" class="close-modal">Close</a>
 </div>
-<a href="#dialog" rel="modal:open">example</a>
 </div>
 
