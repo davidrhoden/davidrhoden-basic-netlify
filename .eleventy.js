@@ -4,7 +4,7 @@ const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
 const pluginSEO = require("eleventy-plugin-seo");
 const path = require("path");
 const { execSync } = require('child_process');
-const Webmentions = require("eleventy-plugin-webmentions");
+// const Webmentions = require("eleventy-plugin-webmentions");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 // const htmlmin = require("html-minifier");
 // const CleanCSS = require("clean-css");
@@ -39,10 +39,10 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addPlugin(pluginRss);
   };
 
-  eleventyConfig.addPlugin(Webmentions, {
-    domain: "davidrhoden.com",
-    token: "YZxr-EcFN3AWMkyDcbhXGQ",
-  });
+  // eleventyConfig.addPlugin(Webmentions, {
+  //   domain: "davidrhoden.com",
+  //   token: "YZxr-EcFN3AWMkyDcbhXGQ",
+  // });
 
   eleventyConfig.addPlugin(pluginRss, {
     type: "rss", // or "atom", "json"
