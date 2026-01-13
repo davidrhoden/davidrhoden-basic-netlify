@@ -1,8 +1,7 @@
 <header>
     <div class="flex-container">
         <a class="main-link" href="/{{ url }}">{{ metadata.title }}</a>
-        <div class="search-container">
-             <div id="search" class="search"></div>
+             <a id="nav-link-search" class="nav-link-search" href="javascript:;"><img style="height: 36px; width: 36px;" src="/static/img/site/icon-search.svg" alt="click magnifying glass icon to search">
         </div>
         <div class="mobile-menu">
             <button data-umami-event="hamburger" class="hamburger hamburger--squeeze" aria-label="Menu" aria-controls="primary-menu" aria-expanded="false" type="button">
@@ -14,3 +13,5 @@
     </div>
     {% include "components/nav.njk" %}
 </header>
+
+

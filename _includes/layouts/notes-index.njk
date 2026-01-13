@@ -8,7 +8,7 @@ section: notes
 <!-- note loop -->
 
 {% for note in notes %}
-<article class="flex">
+<article class="flex" data-pagefind-ignore>
   <div class="left">
     {% if note.data.image %}<img style="width: 160px;" class="thumbnail" src="{{ note.data.image }}?nf_resize=fit&w=160">{% endif %}
   </div>

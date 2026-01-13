@@ -110,4 +110,16 @@ $(document).ready(function () {
     $(".tab-selector").toggleClass("active");
     $(".tab").toggleClass("active");
   });
+
+    MicroModal.init();
+
+    $('#nav-link-search').click(function(ev) {
+      ev.preventDefault();
+      console.log("clicked nav-link-search")
+      MicroModal.show('modal-search', {
+          onClose: function() { $('.nav-link-contact').blur(); },
+          disableFocus: true
+      });
+      document.querySelector('.pagefind-ui__search-input').focus();
+    });
 });
