@@ -114,8 +114,6 @@ $(document).ready(function () {
     MicroModal.init();
 
     $('#nav-link-search').click(function(ev) {
-      ev.preventDefault();
-      console.log("clicked nav-link-search")
       MicroModal.show('modal-search', {
           onClose: function() { $('.nav-link-contact').blur(); },
           disableFocus: true

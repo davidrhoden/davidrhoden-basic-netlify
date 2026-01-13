@@ -23,7 +23,7 @@
 
 .modal__container {
   background-color: #fff;
-  padding: 30px;
+  padding: 0 30px;
   max-width: 900px;    /* wider */
   width: 90vw;         /* scale with viewport, but capped by max-width */
   max-height: calc(100vh - 140px); /* leave room above and below */
@@ -39,8 +39,11 @@
   position: sticky;
   top: 0;
   z-index: 1;
-  background: #fff;
-  padding-bottom: 0.5rem;
+  margin: 0 -30px;
+  padding: 12px 30px;
+  background: var(--blue);
+  color: #fff;
+  border-radius: 4px 4px 0 0;
 }
 
 .modal__title {

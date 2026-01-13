@@ -1,17 +1,31 @@
 <header>
-    <div class="flex-container">
-        <a class="main-link" href="/{{ url }}">{{ metadata.title }}</a>
-             <a id="nav-link-search" class="nav-link-search" href="javascript:;"><img style="height: 36px; width: 36px;" src="/static/img/site/icon-search.svg" alt="click magnifying glass icon to search">
-        </div>
-        <div class="mobile-menu">
-            <button data-umami-event="hamburger" class="hamburger hamburger--squeeze" aria-label="Menu" aria-controls="primary-menu" aria-expanded="false" type="button">
-                <span class="hamburger-box">
-                    <span class="hamburger-inner"></span>
-                </span>
-            </button>
-        </div>
+  <div class="flex-container">
+    <a class="main-link" href="/{{ url }}">{{ metadata.title }}</a>
+    <div class="header-right">
+      <button id="nav-link-search"
+              class="nav-link-search"
+              type="button"
+              aria-label="Open site search">
+        <svg class="nav-link-search__icon"
+             viewBox="144 144 512 512"
+             aria-hidden="true" focusable="false">
+          <path d="m442.33 190c-92.34 0-167.65 75.309-167.65 167.65 0 38.641 13.32 74.176 35.426 102.58l-113.94 113.94c-3.9336 3.9375-6.1445 9.2773-6.1445 14.844 0 5.5664 2.2109 10.906 6.1445 14.844 3.9375 3.9336 9.2773 6.1445 14.844 6.1445 5.5664 0 10.906-2.2109 14.84-6.1445l113.94-113.94c28.398 22.082 63.922 35.383 102.54 35.383 92.34 0 167.65-75.309 167.65-167.65s-75.309-167.65-167.65-167.65zm0 41.984c69.652 0 125.66 56.016 125.66 125.66 0 69.652-56.016 125.66-125.66 125.66-69.652 0-125.66-56.016-125.66-125.66 0-69.652 56.016-125.66 125.66-125.66z"/>
+        </svg>
+      </button>
+
+      <div class="mobile-menu">
+        <button data-umami-event="hamburger"
+                class="hamburger hamburger--squeeze"
+                aria-label="Menu"
+                aria-controls="primary-menu"
+                aria-expanded="false"
+                type="button">
+          <span class="hamburger-box">
+            <span class="hamburger-inner"></span>
+          </span>
+        </button>
+      </div>
     </div>
-    {% include "components/nav.njk" %}
+  </div>
+  {% include "components/nav.njk" %}
 </header>
-
-
