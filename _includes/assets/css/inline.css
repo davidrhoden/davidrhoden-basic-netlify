@@ -157,23 +157,18 @@ a.active {
   color: var(--orangered) !important;
 }
 
-header,
-main,
-footer {
+body > header,
+body >main,
+body > footer {
   padding: 1em;
 }
 
-footer {
+body > footer {
   background: var(--orangered);
   clear: both;
   margin: 1em 0 auto;
 
   /*  width: calc(100% - 2em); */
-}
-
-footer .search-box-container {
-  margin-top: 0.5em;
-  width: 100%;
 }
 
 figcaption {
@@ -182,7 +177,7 @@ figcaption {
   color: gray;
 }
 
-main {
+body > main {
   padding-bottom: 2em;
   margin: 0 auto;
 }
@@ -273,7 +268,7 @@ small {
 }
 
 @media screen and (width >=600px) {
-  footer {
+  body > footer {
     width: 100%;
   }
 
@@ -762,7 +757,7 @@ span.fade:hover {
     font-size: 1.5em;
   }
 
-  footer {
+  body > footer {
     padding: 2em;
   }
 
