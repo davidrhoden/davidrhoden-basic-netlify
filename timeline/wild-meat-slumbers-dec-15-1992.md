@@ -33,7 +33,7 @@ tags:
 
 Two of my bands (Snake Oil and The Hi- Balls) were included on this compilation of Knoville bands. The confusing title was a take off on a more "official" WUTK compliation (which did _not_ include us) called _Meanwhile, Somewhere In The 90s_.
 
-I was pretty pleased to be on here with the likes of Taoist Cowbows ("Falling Up" was a live favorite) and the Swamis, whose guitarist Daniel Moore loaned me the 4-track recorder that started the whole Hi-Balls thing.
+I was pretty pleased to be on here with the likes of Taoist Cowboys ("Falling Up" was a live favorite) and the Swamis, whose guitarist Daniel Moore loaned me the 4-track recorder that started the whole Hi-Balls thing.
 
 Here's a link to Kevin Crothers's blogpost about the tape (the source of my information): http://audioarchives.blogspot.com/2015/04/mild-wheat-numbers-in-slightie.html
 
