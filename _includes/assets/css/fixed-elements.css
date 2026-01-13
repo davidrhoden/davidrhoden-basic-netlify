@@ -26,18 +26,23 @@ body > footer {
 #app > main {
   grid-area: main;
   overflow: auto;
+  padding-top: 100px;
 }
 
 #app > footer {
   grid-area: footer;
 }
 
-header {
+body > header {
   display: flex;
   background: var(--white);
   border-bottom: 1px solid #efefef;
   flex-wrap: wrap;
   position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: auto;
   width: 100vw;
   z-index: 3;
 }

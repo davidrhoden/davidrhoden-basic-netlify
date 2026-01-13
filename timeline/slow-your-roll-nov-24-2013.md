@@ -12,6 +12,6 @@ tags:
 
 ---
 
-Paintined a canvas, "Slow Your Roll". I'm told this hangs in Verret's Lounge in New Orleans.
+Painted a canvas, "Slow Your Roll". I'm told this hangs in Verret's Lounge in New Orleans.
 
 ![painting Slow Your Roll by David Rhoden](/static/img/paintings/slow-your-roll-nov-24-2013.jpg)

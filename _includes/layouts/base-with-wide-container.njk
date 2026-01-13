@@ -47,11 +47,10 @@
     </div>
       {% include "components/header.njk" %}
       <main>
-        <article data-pagefind-body>
+        <article data-pagefind-ignore>
           <div class="container-wide">
             {{ content | safe }}
           </div>
-
         </article>
 
       </main>
