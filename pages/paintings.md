@@ -20,7 +20,7 @@ To see my paintings I currently want to sell, please visit [thisismyhappening.co
 
 <div class="column right">
 
-1. [![Chap painting by David Rhoden](//static/img/paintings/chap-jan-4-2026.jpg?nf_resize=smartcrop&w=260&h=260)](/static/img/paintings/chap-jan-4-2026.jpg)
+1. [![Chap painting by David Rhoden](/static/img/paintings/chap-jan-4-2026.jpg?nf_resize=smartcrop&w=260&h=260)](/static/img/paintings/chap-jan-4-2026.jpg)
 1. [![woman in workout clothes painting by David Rhoden](/static/img/paintings/workout-clothes-apr-9-2025.jpg?nf_resize=smartcrop&w=260&h=260)](/static/img/paintings/workout-clothes-apr-9-2025.jpg)
 1. [![purple organic form by David Rhoden](/static/img/paintings/organic-form-march-30-2025.jpeg?nf_resize=smartcrop&w=260&h=260)](/static/img/paintings/organic-form-march-30-2025.jpeg)
 1. [![forest wizard painting by David Rhoden](/static/img/paintings/forest-wizard-oct-19-2024.jpg?nf_resize=smartcrop&w=260&h=260)](/static/img/paintings/forest-wizard-oct-19-2024.jpg)
@@ -148,7 +148,7 @@ To see my paintings I currently want to sell, please visit [thisismyhappening.co
 1. [![Betty painting by David Rhoden](/static/img/paintings/bigbetty1000.jpg?nf_resize=smartcrop&w=260&h=260)](/static/img/paintings/bigbetty1000.jpg)
 1. [![I'm Holding In A Lot Of Anger painting by David Rhoden](/static/img/paintings/holding-anger-on-wall-oct-2-2016.jpg?nf_resize=smartcrop&w=260&h=260)](/static/img/paintings/holding-anger-on-wall-oct-2-2016.jpg)
 1. [![blue squiggle painting by David Rhoden](/static/img/paintings/bluesquiggle.jpg?nf_resize=smartcrop&w=260&h=260)](/static/img/paintings/bluesquiggle.jpg)
-1. [![Picnic Pal painting by David Rhoden](/static/img/paintings/cornmanreadyfortheworld.jpg?nf_resize=smartcrop&w=260&h=260)](/static/img/paintings/cornmanreadyfortheworld.jpg)
+1. [![Picnic Pal painting by David Rhoden](/static/img/paintings/cornman-ready-for-the-world-feb-4-2017.jpg?nf_resize=smartcrop&w=260&h=260)](/static/img/paintings/cornman-ready-for-the-world-feb-4-2017.jpg)
 1. [![Oh No Never painting by David Rhoden](/static/img/paintings/ohnonever.jpg?nf_resize=smartcrop&w=260&h=260)](/static/img/paintings/ohnonever.jpg)
 1. [![painting by David Rhoden](/static/img/paintings/pieceatgogobs.jpg?nf_resize=smartcrop&w=260&h=260)](/static/img/paintings/pieceatgogobs.jpg)
 1. [![Big Pink Squiggle painting by David Rhoden](/static/img/paintings/bigpink.jpg?nf_resize=smartcrop&w=260&h=260)](/static/img/paintings/bigpink.jpg)
