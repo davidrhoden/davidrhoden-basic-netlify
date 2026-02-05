@@ -11,6 +11,7 @@ eleventyNavigation:
   order: 5
 ---
 
+1. ![stop laughing at my sixty-nine t-shirt sketchbook entry by David Rhoden](/static/img/sketchbook/stop-laughing-at-my-sixty-nine-t-shirt-feb-5-2026.jpeg?nf_resize=fit&h=550)
 1. ![egghead sketchbook entry by David Rhoden](/static/img/sketchbook/egghead-jan-21-2020.jpg?nf_resize=fit&h=550)
 1. ![cars fan sketchbook entry by David Rhoden](/static/img/sketchbook/cars-fan-dec-11-2020.jpg?nf_resize=fit&h=550)
 1. ![egress sketchbook entry by David Rhoden](/static/img/sketchbook/egress-dec-10-2020.jpg?nf_resize=fit&h=550)
