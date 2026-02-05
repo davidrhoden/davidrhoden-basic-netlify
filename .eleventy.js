@@ -5,22 +5,8 @@ const pluginSEO = require("eleventy-plugin-seo");
 const path = require("path");
 const { execSync } = require('child_process');
 const pluginRss = require("@11ty/eleventy-plugin-rss");
-// const htmlmin = require("html-minifier");
-// const CleanCSS = require("clean-css");
-// const { minify } = require("terser");
-
 
 const is_production = typeof process.env.NODE_ENV === "string" && process.env.NODE_ENV === "production";
-
-function do_minifycss(source, output_path) {
-    if(!output_path.endsWith(".css") || !is_production) return source;
-
-const result = new CleanCSS({
-        level: 2
-    }).minify(source).styles.trim();
-    console.log(`MINIFY ${output_path}`, source.length, `→`, result.length, `(${((1 - (result.length / source.length)) * 100).toFixed(2)}% reduction)`);
-    return result;
-}
 
 module.exports = function (eleventyConfig) {
 
@@ -31,12 +17,6 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(eleventyNavigationPlugin);
 
   eleventyConfig.addPlugin(pluginSEO, require("./_data/seo.json"));
-
-  eleventyConfig.addPlugin(pluginRss);
-
-  module.exports = function (eleventyConfig) {
-    eleventyConfig.addPlugin(pluginRss);
-  };
 
   eleventyConfig.addPlugin(pluginRss, {
     type: "rss", // or "atom", "json"
@@ -150,35 +130,6 @@ module.exports = function (eleventyConfig) {
       remove: /[*+~.·,()'"`´%!?¿:@]/g,
     });
   });
-
-  //eleventyConfig.addFilter("cssmin", function (code) {
-  //  return new CleanCSS({}).minify(code).styles;
-  //});
-
-  // eleventyConfig.addTransform("htmlmin", (content, outputPath) => {
-  //   if (outputPath.endsWith(".html")) {
-  //     return htmlmin.minify(content, {
-  //       collapseWhitespace: true,
-  //       removeComments: true,
-  //       useShortDoctype: true,
-  //     });
-  //   }
-  //   return content;
-  // });
-
-  // eleventyConfig.addNunjucksAsyncFilter("jsmin", async function (
-  //   code,
-  //   callback
-  // ) {
-  //   try {
-  //     const minified = await minify(code);
-  //     callback(null, minified.code);
-  //   } catch (err) {
-  //     console.error("Terser error: ", err);
-  //     // Fail gracefully.
-  //     callback(null, code);
-  //   }
-  // });
 
   // Don't process folders with static assets e.g. images
   eleventyConfig.addPassthroughCopy("favicon.ico");
