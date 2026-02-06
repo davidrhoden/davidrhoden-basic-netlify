@@ -42,7 +42,7 @@
     "jsmin": "^1.0.1",
     "magnific-popup": "^1.1.0",
     "moment": "^2.29.2",
-    "netlify-cli": "^23.14.0",
+    "netlify-cli": "^23.15.1",
     "path": "^0.12.7",
     "sharp": "^0.32.6",
     "slugify": "^1.6.3",
