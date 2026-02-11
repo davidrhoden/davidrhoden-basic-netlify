@@ -11,7 +11,7 @@
     {% include "assets/css/magnific-popup.css" %}
     {% include "assets/css/bricks.css" %}
     {% include "assets/css/timeline-two-sections.css" %}
-    {% include "assets/css/jqModal.css" %}
+    {% include "assets/css/micromodal.css" %}
     {% include "static/webfonts/ShadowGrotesque/stylesheet.css" %}
     {% if davidrhodenbasicnetlify.environment == "development" %}
       {% include "assets/css/development.css" %}
@@ -28,9 +28,8 @@
 
   {% set js %}
     {% include "assets/js/jquery.min.js" %}
-    {# {% include "assets/js/jqModal.js" %} #}
+    {% include "assets/js/micromodal.min.js" %}
     {% include "assets/js/jquery-cookie.js" %}
-    {# {% include "assets/js/open-modal.js" %} #}
     {% include "assets/js/jquery.magnific-popup.min.js" %}
     {% include "assets/js/inline.js" %}
   {% endset %}
@@ -42,8 +41,13 @@
 
 <script>
     window.addEventListener('DOMContentLoaded', (event) => {
-        new PagefindUI({ element: "#search", showSubResults: true, showImages: true });
+    new PagefindUI({
+        element: "#search",
+        showSubResults: true,
+        showImages: true,
+        excerptLength: 40
     });
+});
 </script>
   {% seo "" %}
 </head>

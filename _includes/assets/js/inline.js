@@ -111,11 +111,13 @@ $(document).ready(function () {
     $(".tab").toggleClass("active");
   });
 
-  $(document).ready(function () {
-    console.log("read it");
-    $(window).on("load", function(event) {
-      console.log("on load happened");
-        $('#dialog').modal();
+    MicroModal.init();
+
+    $('#nav-link-search').click(function(ev) {
+      MicroModal.show('modal-search', {
+          onClose: function() { $('.nav-link-contact').blur(); },
+          disableFocus: true
+      });
+      document.querySelector('.pagefind-ui__search-input').focus();
     });
-  });
 });

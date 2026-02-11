@@ -1,6 +1,6 @@
 <section class="postslist">
     {% for post in postslist | reverse %}
-        <article{% if post.url == url %} data-current="current item"{% endif %} class="flex">
+        <article{% if post.url == url %} data-current="current item"{% endif %} class="flex" data-pagefind-ignore>
             <div class="left">
                 {% if post.data.image %}
                     <img class="thumbnail" src="{{ post.data.image }}?nf_resize=fit&w=280">
