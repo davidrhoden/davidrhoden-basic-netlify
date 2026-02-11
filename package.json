@@ -36,7 +36,7 @@
   "dependencies": {
     "@11ty/eleventy-navigation": "^0.3.2",
     "aos": "^2.3.4",
-    "axios": "^1.12.0",
+    "axios": "^1.13.5",
     "clean-css": "^5.3.3",
     "eleventy-plugin-seo": "^0.5.2",
     "jsmin": "^1.0.1",
