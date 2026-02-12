@@ -18,6 +18,7 @@
   padding-top: 120px;       /* keep top of modal ~120px from top of screen */
   padding-bottom: 20px;
   justify-content: center;
+  z-index: 10;
   /*align-items: center;*/
 }
 
@@ -185,4 +186,42 @@
 
 #dialog.is-open {
   display: block;
+}
+
+/* Make the latest-post modal a bit wider */
+#modal-latest-post .modal__container {
+  max-width: 1000px;      /* wider than default 900px if you like */
+  width: 95vw;
+  max-height: calc(100vh - 140px);
+  overflow-y: auto;
+}
+
+/* Two-column layout inside the latest-post modal */
+#modal-latest-post .latest-post-layout {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+/* On larger screens, switch to side-by-side columns */
+@media screen and (min-width: 768px) {
+  #modal-latest-post .latest-post-layout {
+    flex-direction: row;
+    align-items: flex-start;
+  }
+
+  #modal-latest-post .latest-post-image {
+    flex: 0 0 40%;
+  }
+
+  #modal-latest-post .latest-post-text {
+    flex: 1;
+  }
+}
+
+/* Make sure the image scales nicely */
+#modal-latest-post .latest-post-image img {
+  display: block;
+  max-width: 100%;
+  height: auto;
 }
