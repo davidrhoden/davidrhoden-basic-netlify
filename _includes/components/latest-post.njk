@@ -1,35 +1,64 @@
+{% set latest_post = collections.posts | last %}
 
-<div class="jquery-modal">
-<div class="modal" id="dialog">
-  {% set latest_post = collections.posts | last %}
-  <article style="overflow: hidden;">
-      <small>{{ latest_post.data.date }}</small>
-      <h1>{{ latest_post.data.title }}</h1>
-      {{ latest_post.content | safe }}
-      {% if latest_post.data.tags %}
-          <p>Read more posts about:
-              {% for tag in latest_post.data.tags %}
-              {%- if tag != "post" -%}
-              {% set tagUrl %}/tags/{{ tag | slugify }}/{% endset %}
-              <a href="{{ tagUrl }}" rel="tag">{{ tag }}</a>
-              {%- endif -%}
-              {% endfor %}
-          </p>
-      {% endif %}
-      {% if latest_post.data.nextPost.url %}
-        <p class="ctr">
-          <strong>Next</strong>:
-          <a class="next" href="{{ latest_post.data.nextPost.url }}">{{ latest_post.data.nextPost.data.date | readableDate }}: {{ latest_post.data.nextPost.data.title }}</a>
-        </p>
-      {% endif %}
-      {% if latest_post.data.prevPost.url %}
-        <p class="ctr">
-          <strong>Previous</strong>:
-          <a class="previous" href="{{ latest_post.data.prevPost.url }}">{{ latest_post.data.prevPost.data.date | readableDate }}: {{ latest_post.data.prevPost.data.title }}</a>
-        </p>
-      {% endif %}
-  </article>
-  <a href="#close-modal" rel="modal:close" class="close-modal">Close</a>
-</div>
-</div>
+<div class="modal micromodal-slide" id="modal-latest-post" aria-hidden="true">
+  <div class="modal__overlay" tabindex="-1" data-micromodal-close>
+    <div class="modal__container" role="dialog" aria-modal="true" aria-labelledby="modal-latest-post-title">
 
+      <header class="modal__header">
+        <span class="modal__title" id="modal-latest-post-title">
+          Latest post
+        </span>
+        <button class="modal__btn modal__btn-primary" data-micromodal-close aria-label="Close latest post">
+          Close
+        </button>
+      </header>
+
+      <main class="modal__content" id="modal-latest-post-content">
+        <article class="latest-post-article">
+          <div class="latest-post-layout">
+            {% if latest_post.data.image %}
+              <div class="latest-post-image">
+                <img src="{{ latest_post.data.image }}" alt="{{ latest_post.data.title }}">
+              </div>
+            {% endif %}
+
+            <div class="latest-post-text">
+              <small>{{ latest_post.data.date  | readableDate  }}</small>
+              <h1>{{ latest_post.data.title }}</h1>
+              {{ latest_post.content | safe }}
+
+              {% if latest_post.data.tags %}
+                <p>
+                  {% for tag in latest_post.data.tags %}
+                    {%- if tag != "post" -%}
+                      {% set tagUrl %}/tags/{{ tag | slugify }}/{% endset %}
+                      <a href="{{ tagUrl }}" rel="tag">{{ tag }}</a>
+                    {%- endif -%}
+                  {% endfor %}
+                </p>
+              {% endif %}
+
+              {% if latest_post.data.nextPost.url %}
+                <p class="ctr">
+                  <strong>Next</strong>:
+                  <a class="next" href="{{ latest_post.data.nextPost.url }}">
+                    {{ latest_post.data.nextPost.data.date | readableDate }}: {{ latest_post.data.nextPost.data.title }}
+                  </a>
+                </p>
+              {% endif %}
+              {% if latest_post.data.prevPost.url %}
+                <p class="ctr">
+                  <strong>Previous</strong>:
+                  <a class="previous" href="{{ latest_post.data.prevPost.url }}">
+                    {{ latest_post.data.prevPost.data.date | readableDate }}: {{ latest_post.data.prevPost.data.title }}
+                  </a>
+                </p>
+              {% endif %}
+            </div>
+          </div>
+        </article>
+      </main>
+
+    </div>
+  </div>
+</div>

@@ -113,6 +113,12 @@ $(document).ready(function () {
 
     MicroModal.init();
 
+    if (document.body.classList.contains('home')) {
+      MicroModal.show('modal-latest-post', {
+        disableFocus: true
+      });
+    }
+
     $('#nav-link-search').click(function(ev) {
       MicroModal.show('modal-search', {
           onClose: function() { $('.nav-link-contact').blur(); },
