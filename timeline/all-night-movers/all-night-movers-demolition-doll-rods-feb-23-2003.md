@@ -15,6 +15,6 @@ tags:
 
 ---
 
-[Demolition Doll Rods LP](/static/img/timeline/demolition-doll-rods-tasty-jan-24-2003.jpg)
+![Demolition Doll Rods LP](/static/img/timeline/demolition-doll-rods-tasty-jan-24-2003.jpg)
 
 Dan Kroha (ex-Gories!) had a nifty "diddley-bow". I had forgotten we played on this show.

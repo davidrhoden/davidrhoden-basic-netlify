@@ -4,6 +4,7 @@ date: 2002-12-10T22:00:00.000Z
 summary: We went out for fried chicken after.
 excerpt:  We went out for fried chicken after.
 category: timeline
+image: /static/img/timeline/mondo-topless-lp-dec-10-2002.jpg
 tags:
   - post 
   - rock
@@ -16,6 +17,8 @@ tags:
   - Kris Alutius
 
 ---
+
+![Mondo Topless LP](/static/img/timeline/mondo-topless-lp-dec-10-2002.jpg)
 
 I don't remember the show too much. I do remember Mondo Topless was staying at my place and I rode in their van with them and we went to Chicken Box, which they were amazed at. Poor Sam, the lead singer, had gone vegetarian and had to eat food out of his electric cooler while the rest of us had a feast.
 
