@@ -13,5 +13,3 @@ tags:
 ---
 
 ![Painting called "Stop Laughing" by David Rhoden of boy wearing a shirt bearing the number 69, and a cartoon word balloon staying stop laughing.](/static/img/paintings/stop-laughing-painting-final-feb-19-2026.jpg)
-
-
