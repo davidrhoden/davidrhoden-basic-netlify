@@ -8,8 +8,11 @@ tags:
   - Paul McCartney & Wings
   - "Nineteen Hundred and Eighty Five"
   - _Band On the Run_
+  - "A Super-Spectacular Day"
 
 ---
 
 ![cartoon by Dave Rhoden of a man singing lyrics from "Nineteen Hundred and Eighty Five" by Paul McCartney & Wings on a home karaoke machine](/static/img/karaoke/nineteen-hundred-and-eighty-five-feb-13-2026.png)
+
+Other than the time spent creating this masterpiece, it was _not_ such a super-spectacular day.
 
