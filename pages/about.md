@@ -190,12 +190,38 @@ David Rhoden in Sleepy Heads T-Shirt, holding Betty, early 2000s
 
 <div class="about flex">
   <div class="left">
+    <img alt="David Rhoden in Pensacola, around 2001" src="/static/img/about/david-in-pensacola-i-think-probably-2001.jpeg?nf_resize=fit&w=320">
+  </div>
+  <div class="right">
+    <caption>
+David Rhoden visiting Pensacola, I think, around 2001.
+</caption>
+  </div>
+</div>
+
+---
+
+<div class="about flex">
+  <div class="left">
     <img alt="David Rhoden on Coney Island holding a penny loafer, 1990s" src="/static/img/about/davidonconeyiwithloafer.jpg?nf_resize=fit&w=320">
   </div>
   <div class="right">
     <caption>
 David Rhoden on Coney Island holding a penny loafer, 1990s
 </caption>
+  </div>
+</div>
+
+---
+
+<div class="about flex">
+  <div class="left">
+    <img alt="David Rhoden at party with unknown cat, about 1994" src="/static/img/about/david-with-unknown-cat-probably-1994.jpeg?nf_resize=fit&w=320">
+  </div>
+  <div class="right">
+    <caption>
+    David Rhoden at party with unknown cat, about 1994
+    </caption>
   </div>
 </div>
 
