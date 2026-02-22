@@ -9,13 +9,14 @@ tags:
   - rock
   - New Orleans
   - All-Night Movers
+  - Slade Nash
   - Sara Essex
   - Mimi Kersting
   - Sarah Z.
 
 ---
 
-Just a nifty little show in my then-wife's photography studio.
+Just a nifty little show in an airy, light-filled photography studio.
 
 (17 photos)
 
