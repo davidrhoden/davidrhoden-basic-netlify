@@ -107,11 +107,26 @@ header .flex-container {
 }
 
 header nav {
-  display: none;
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.75);
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+
+  opacity: 0;
+  visibility: hidden;
+  pointer-events: none;
+  transition:
+    opacity 0.2s ease,
+    visibility 0.2s ease;
+  z-index: 20;
 }
 
 header nav.is-active {
-  display: block;
+  opacity: 1;
+  visibility: visible;
+  pointer-events: auto;
 }
 
 .nav-link-search {
@@ -348,19 +363,14 @@ small {
 /* Header Nav */
 header nav ul {
   padding: 0;
+  margin: 0;
   list-style: none;
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  grid-template-rows: repeat(5, 1fr);
-  gap: 1px 1px;
-  grid-template-areas:
-    ". . ."
-    ". . ."
-    ". . ."
-    ". . ."
-    ". . .";
-  grid-auto-flow: column;
-  width: 100vw;
+  grid-auto-flow: row;
+  row-gap: 0.5em;
+  width: 100%;
+  padding-top: 5rem;
+  padding-left: 10vw;
 }
 
 header nav li {
