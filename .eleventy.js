@@ -103,6 +103,16 @@ module.exports = function (eleventyConfig) {
     return allNotes;
   });
 
+  eleventyConfig.addCollection("postsAndNotes", function (collectionApi) {
+      const posts = collectionApi.getFilteredByTag("post");
+      const notes = collectionApi.getFilteredByTag("note");
+
+      // Combine and sort by date (oldest → newest)
+      const combined = posts.concat(notes).sort((a, b) => a.date - b.date);
+
+      return combined;
+    });
+
   function filterTagList(tags) {
     return (tags || []).filter(
       (tag) => ["all", "nav", "post", "posts"].indexOf(tag) === -1,
