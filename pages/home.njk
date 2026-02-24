@@ -1,0 +1,81 @@
+---
+layout: layouts/home.njk
+title: Home
+date: 2023-05-11T00:00:00.000Z
+permalink: /
+excerpt: Paintings, illustrations, animations, fun. Based in New Orleans, Louisiana.
+summary: Paintings, illustrations, animations, fun. Based in New Orleans, Louisiana.
+image: /static/img/homepage-featured/bottlecap.jpg
+---
+{% set latestItem = collections.postsAndNotes | last %}
+<section class="home-latest">
+  {% if latestItem %}
+    {% set isPost = latestItem.data.tags and ('post' in latestItem.data.tags) %}
+    {% set isNote = latestItem.data.tags and ('note' in latestItem.data.tags) %}
+    <div class="home-latest-inner">
+      <div class="home-latest-text">
+        <h1>
+          {% if isPost %}Latest post{% elseif isNote %}Latest note{% else %}Latest update{% endif %}
+        </h1>
+        <article>
+          {% if latestItem.date %}
+            <p class="postdate">
+              <time datetime="{{ latestItem.date | machineDate }}">
+                <small>{{ latestItem.date | readableDate }}</small>
+              </time>
+            </p>
+          {% endif %}
+          <h2>
+            <a href="{{ latestItem.url }}">{{ latestItem.data.title }}</a>
+          </h2>
+          {% if latestItem.templateContent %}
+            <div class="home-latest-body">
+              {{ latestItem.templateContent | safe }}
+            </div>
+          {% endif %}
+        </article>
+      </div>
+      <div class="home-latest-image">
+        {% if latestItem.data.image %}
+          <img
+            src="{{ latestItem.data.image }}?nf_resize=fit&w=700"
+            alt="{{ latestItem.data.title }}"
+          >
+        {% endif %}
+      </div>
+    </div>
+  {% else %}
+    <p>No posts or notes yet.</p>
+  {% endif %}
+</section>
+
+{% if latestItem %}
+  {% set allItems = collections.postsAndNotes | reverse %}
+  {% set currentIndex = allItems.indexOf(latestItem) %}
+  {% set prevItem = allItems[currentIndex + 1] %}
+  {% set nextItem = allItems[currentIndex - 1] %}
+
+  <nav class="home-nav-links">
+    {% if prevItem %}
+      <p class="home-nav-prev">
+        <strong>Previous</strong>:
+        <a data-umami-event="{{ prevItem.data.title }}"
+           href="{{ prevItem.url }}"
+           class="previous">
+          {{ prevItem.data.date | readableDate }}: {{ prevItem.data.title }}
+        </a>
+      </p>
+    {% endif %}
+
+    {% if nextItem %}
+      <p class="home-nav-next">
+        <strong>Next</strong>:
+        <a data-umami-event="{{ nextItem.data.title }}"
+           href="{{ nextItem.url }}"
+           class="next">
+          {{ nextItem.data.date | readableDate }}: {{ nextItem.data.title }}
+        </a>
+      </p>
+    {% endif %}
+  </nav>
+{% endif %}

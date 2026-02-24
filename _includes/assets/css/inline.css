@@ -60,10 +60,6 @@ body {
   background-color: var(--white);
 }
 
-article {
-  margin-top: 7em;
-}
-
 .notes article {
   height: auto;
 }
@@ -80,10 +76,18 @@ h1 {
   margin: 0;
 }
 
+body.home h1 {
+  font-size: 1em;
+}
+
 h2 {
   font-family: var(--font-secondary);
   font-weight: 200;
   font-size: 2em;
+}
+
+body.home h2 {
+  font-size: 1em;
 }
 
 h3 {
@@ -225,7 +229,7 @@ figcaption {
 
 body > main {
   padding-bottom: 2em;
-  margin: 0 auto;
+  margin: 3em auto 0;
 }
 
 main > section > article > * {
@@ -419,10 +423,32 @@ header nav li a[data-current="current item"] {
   margin: 0;
 }
 
+.home-latest {
+  margin-top: 2rem;
+}
+
+.home-latest-inner {
+  display: block;        /* stacked by default (mobile) */
+}
+
+.home-latest-text {
+  /* inherits normal typography */
+}
+
+.home-latest-image {
+  margin-top: 1.5rem;    /* image below text on mobile */
+}
+
+.home-latest-image img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
 body > .home main {
   background: white;
   position: relative;
-  margin: 0 auto;
+  margin: 3em auto;
   width: 100%;
 }
 
@@ -900,6 +926,23 @@ span.fade:hover {
 
   .home .intro-home p {
     line-height: 1.5;
+  }
+
+   .home-latest-inner {
+    display: flex;
+    align-items: flex-start;
+    gap: 2rem;
+  }
+
+  .home-latest-text {
+    flex: 1 1 0;
+  }
+
+  .home-latest-image {
+    flex: 0 0 40%;
+    padding-left: 2rem;
+    border-left: 1px solid #ccc;   /* vertical rule from top to bottom of this column */
+    margin-top: 0;                 /* align with text top */
   }
 
   .chevron {
