@@ -27,7 +27,7 @@ tags:
 
 <figcaption>Wild Meat Slumbers In The Nightie front cover. Photo by Kevin Crothers.</figcaption>
 
-![Wild Meat Slumbers In The Nightie inside cover. Photo by Kevin Crothers.](/static/img/rock/WMSITN_Jcardb-kcrothers.jpg)
+![Wild Meat Slumbers In The Nightie inside cover. Photo by Kevin Crothers.](/static/img/rock/WMSITN_JcardB-kcrothers.jpg)
 
 <figcaption>Wild Meat Slumbers In The Nightie front cover. Photo by Kevin Crothers.</figcaption>
 
@@ -37,6 +37,6 @@ I was pretty pleased to be on here with the likes of Taoist Cowboys ("Falling Up
 
 Here's a link to Kevin Crothers's blogpost about the tape (the source of my information): http://audioarchives.blogspot.com/2015/04/mild-wheat-numbers-in-slightie.html
 
-![Wild Meat Slumbers In The Nightie front cover. Photo by Kevin Crothers.](/static/img/rock/WMSITN_JcardA-kcrothers.jpg)
+![Wild Meat Slumbers In The Nightie cassette. Photo by Kevin Crothers.](/static/img/rock/WMSITN_tape-kcrothers.jpg)
 
 <figcaption>Wild Meat Slumbers In The Nightie cassette. Photo by Kevin Crothers.</figcaption>
