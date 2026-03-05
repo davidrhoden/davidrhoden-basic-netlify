@@ -3,7 +3,7 @@ title: Eleventy is changing its name, among other things, and I don't love it.
 date: 2026-03-04T00:00:00
 excerpt: "Maybe it's just gatekeeping, but I'm not looking forward to an Eleventy ecosystem that caters more to the end clients than the developers. Catering to clients is the developer's job!"
 summary: "Maybe it's just gatekeeping, but I'm not looking forward to an Eleventy ecosystem that caters more to the end clients than the developers. Catering to clients is the developer's job!"
-image: /static/img/notes/brennan-brown-header-11ty.jpg
+image: /static/img/notes/possum-eleventy-mar-4-2026.png
 tags:
   - Eleventy
   - web development
@@ -15,6 +15,8 @@ tags:
   - post
 
 ---
+
+![Eleventy possum mascot illustration by David Rhoden](/static/img/notes/possum-eleventy-mar-4-2026.png)
 
 I heard today that [Eleventy](https://www.11ty.dev/), the beloved static site generator used by all the best web developers (the site you're looking at is built using Eleventy), is not "going away", but it's been absorbed by the company behind [Font Awesome](https://fontawesome.com) (should be called Font Okay, or Font Tiresome maybe) and will now have the embarrassing name "Build Awesome".
 
