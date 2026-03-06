@@ -22,7 +22,7 @@ It was such a great birthday party! A lot of people came, a lot of people did a 
 
 <div style="width: 640px; text-align: center;">
 <video style="width: 640px; text-align: center;" controls loop>
-  <source type="video/mp4" src="/static/video/karaoke-birthday-feb-28-2026/karaoke-love-land-feb-28-2026.webm"></source>
+  <source type="video/mp4" src="/static/video/karaoke-birthday-feb-28-2026/karaoke-love-land-feb-28-2026.mp4"></source>
   <p>Your browser does not support the video element.</p>
 </video>
 </div>
@@ -31,7 +31,7 @@ Here's me doing "Love Land" by Charles Wright and the Watts 103rd St. Rhythm Ban
 
 <div style="width: 640px; text-align: center;">
 <video style="width: 640px; text-align: center;" controls loop>
-  <source type="video/mp4" src="/static/video/karaoke-birthday-feb-28-2026/karaoke-rhode-island-feb-28-2026.webm"></source>
+  <source type="video/mp4" src="/static/video/karaoke-birthday-feb-28-2026/karaoke-rhode-island-feb-28-2026.mp4"></source>
   <p>Your browser does not support the video element.</p>
 </video>
 </div>
