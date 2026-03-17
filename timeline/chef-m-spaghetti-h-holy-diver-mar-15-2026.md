@@ -1,5 +1,5 @@
 ---
-title: I saw Chef Menteur, Spagetti Heist, and Brewing Means at Holy Diver.
+title: I saw Chef Menteur, Spaghetti Heist, and Brewing Means at Holy Diver.
 date: 2026-03-15T00:00:00
 excerpt: Also found myself standing between two of my exes for a while.
 summary: Also found myself standing between two of my exes for a while. 
