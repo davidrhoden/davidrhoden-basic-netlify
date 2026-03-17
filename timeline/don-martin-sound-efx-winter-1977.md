@@ -11,9 +11,12 @@ tags:
   - art
   - influences
   - Don Martin
-  - Mad magazine
+  - MAD Magazine
   - Matt
   - sound effects
+  - poit
+  - thwapp
+  - shtoink
 
 ---
 I was blown away by this illustration of an old man in a sleeveless T with armpit hair trying to get our attention.
