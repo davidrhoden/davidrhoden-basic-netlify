@@ -24,8 +24,7 @@ Terry did this to Harrison Ford the other day, asking him (I'm paraphrasing) if 
 
 I also think their tv-and-movie reviewer David Chang is kind of pretentious and overdone, but it might be because he reminds me of a Greek Orthodox priest I worked with at a bookstore. I liked this priest-who-had-a-side-hustle a lot, good co-worker, but whenever he spoke it was like he was speaking from a pulpit. When David Chang tells you a movie is good, it sounds like he's saying it's a sure-fire Best Picture winner. Sometimes I think he's praising a movie, only for the review to turn out to be a pan.
 
-Anyway, it's still a radio show I leave on if I tune in unless it's a subject I really don't have the time for.
+Anyway, it's Fresh Air. It's still pretty good. It's still a radio show I leave on if I tune in unless it's a subject I really don't have the time for.
 
-![alt text](/static/img/filename)
 
 
