@@ -1,5 +1,5 @@
 ---
-title: I dreamed I was an architect whose client had robtic AI assistants.
+title: I dreamed I was an architect whose client had robotic AI assistants.
 date: 2026-03-17T00:00:00
 excerpt: The assistants were indistinguishable from people, except their feelings were more easily hurt, and they had to be in physical contact with the person they were assisting at all times.
 summary: The assistants were indistinguishable from people, except their feelings were more easily hurt, and they had to be in physical contact with the person they were assisting at all times.
