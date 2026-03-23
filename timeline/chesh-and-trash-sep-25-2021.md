@@ -47,4 +47,4 @@ We had a bonfire with Gina's young friends in the evening.
 
 ![Gina Phillips playing with kids, September 25, 2021.](/static/img/gina/gina-bonfire-marshmallows-sep-25-2021.jpg "Gina playing with kids, September, 25, 2021.")
 
-![Kids playing at Gina's bonfire, September 25, 2021.](/static/img/timeline/bonfire-kids-sep-25-2021.jpg "Gina playing with kids, September, 25, 2021.")
+![Kids playing at Gina's bonfire, September 25, 2021.](/static/img/timeline/bonfires/bonfire-kids-sep-25-2021.jpg "Gina playing with kids, September, 25, 2021.")

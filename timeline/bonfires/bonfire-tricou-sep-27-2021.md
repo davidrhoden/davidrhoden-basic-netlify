@@ -17,5 +17,5 @@ tags:
 
 We're still getting rid of the fallen limbs from Hurricane Ida.
 
-![Gina Phillips and Daisy the dog at a bonfire, Tricou Stret, New Orleans, September 27, 2021.](/static/img/timeline/bonfire-tricou-sep-27-2021.jpg)
+![Gina Phillips and Daisy the dog at a bonfire, Tricou Stret, New Orleans, September 27, 2021.](/static/img/timeline/bonfires/bonfire-tricou-sep-27-2021.jpg)
 

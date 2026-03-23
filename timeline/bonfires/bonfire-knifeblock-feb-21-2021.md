@@ -4,7 +4,7 @@ date: 2020-03-27T11:00:00.000Z
 summary: We burned up a stinky knifeblock.
 excerpt: We burned up a stinky knifeblock.
 category: timeline
-image: /static/img/timeline/bonfire-knifeblock-feb-21-2021.jpg
+image: /static/img/timeline/bonfires/bonfire-knifeblock-feb-21-2021.jpg
 tags:
   - post 
   - New Orleans
@@ -15,7 +15,7 @@ tags:
 
 ---
 
-![a knifeblock smoking in a bonfire](/static/img/timeline/bonfire-knifeblock-feb-21-2021.jpg "a knifeblock smoking in a bonfire")
+![a knifeblock smoking in a bonfire](/static/img/timeline/bonfires/bonfire-knifeblock-feb-21-2021.jpg "a knifeblock smoking in a bonfire")
 
 This knifeblock absorbed some cleaning product that made it smell really strong, along with the knives in it. It burned up pretty well.
 

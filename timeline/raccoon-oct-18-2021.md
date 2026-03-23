@@ -20,4 +20,4 @@ We were having yet another bonfire when we noticed this guy observing us from ac
 
 Gina and her little friends carved some nifty pumpkins that were rotten and swarming with gnats just days later.
 
-!Bonfire at Gina's place, with jack o'lanterns](/static/img/timeline/bonfire-oct-18-2021.jpg)
+!Bonfire at Gina's place, with jack o'lanterns](/static/img/timeline/bonfires/bonfire-oct-18-2021.jpg)
