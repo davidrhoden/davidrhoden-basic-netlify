@@ -67,6 +67,7 @@
 .modal__title {
   margin-top: 0;
   margin-bottom: 0;
+  font-family: var(--font-decorative);
   font-weight: 600;
   font-size: 1.25rem;
   line-height: 1.25;
