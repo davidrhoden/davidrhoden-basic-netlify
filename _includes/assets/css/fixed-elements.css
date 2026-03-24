@@ -4,8 +4,7 @@ body {
 }
 
 body > footer {
-  position: sticky;
-  top: 100vh;
+  position: relative;
 }
 
 #app {
