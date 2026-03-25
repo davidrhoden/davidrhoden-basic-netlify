@@ -323,6 +323,8 @@ small {
 
   .grid-square img {
     width: 24.5vw; /* that little extra is need to fullfilly the grid squares. */
+    height: 24.5vw;
+    object-fit: cover;
   }
 
   .grid-square .overlay {
