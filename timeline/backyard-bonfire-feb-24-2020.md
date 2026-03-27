@@ -16,4 +16,4 @@ tags:
 
 Another day with nothing else to post about.
 
-![bonfire on Tricou Street](/static/img/timeline/backyard-bonfire-feb-24-2020.jpg "bonfire on Tricou Street")
+![bonfire on Tricou Street](/static/img/timeline/bonfires/ackyard-bonfire-feb-24-2020.jpg "bonfire on Tricou Street")
