@@ -24,7 +24,11 @@ I did have to untangle the ones I found, which worked for two out of the four.
 
 ![bag of ratchet straps](/static/img/timeline/ratchet-strap-red-ruined-mar-26-2026.jpg)
 
+Eventual success.
+
 ![bag of ratchet straps](/static/img/timeline/ratchet-strap-blue-ruined-mar-26-2026.jpg)
+
+Eventual failure.
 
 -----
 
