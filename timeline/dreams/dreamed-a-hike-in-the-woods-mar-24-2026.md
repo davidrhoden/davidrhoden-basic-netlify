@@ -13,6 +13,3 @@ tags:
 ---
 
 I dramed I went on a long daytime hike in the woods in Tennessee, to go see this place people had told me about. It was a few miles of hiking, on dirt roads, and when I got there I found a neatly kept store that sold one thing: big, oily Greek salads in a cardboard box. They put a plastic bag in it. You were supposed to bring your own box but it wasn't mandatory.
-
-
-
