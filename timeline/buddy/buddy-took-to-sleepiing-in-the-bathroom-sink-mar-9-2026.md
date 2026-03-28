@@ -1,6 +1,6 @@
 ---
 title: Buddy took to sleeping in the bathroom sink for two days.
-date: 226-03-0900:00:00
+date: 2026-03-09T00:00:00
 excerpt: I'll just post one picture.
 summary: I'll just post one picture.
 image: /static/img/buddy/buddy-in-bathroom-sink-mar-9-2026.jpg
