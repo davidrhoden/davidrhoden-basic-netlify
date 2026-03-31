@@ -8,6 +8,7 @@ tags:
   - notes
   - trucks
   - ratchet straps
+  - Lowe's
   - cartoons
   - karaoke
   - Frankie Valli and The Four Seasons
