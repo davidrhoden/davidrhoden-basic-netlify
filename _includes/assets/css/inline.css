@@ -294,10 +294,6 @@ small {
   margin-top: 0.5em;
 }
 
-.timeline main {
-  padding-bottom: 0;
-}
-
 @media screen and (width >=600px) {
   body > footer {
     width: 100%;
