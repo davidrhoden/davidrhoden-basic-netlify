@@ -12,13 +12,14 @@ tags:
   - Rachael Wood
   - David Gedge
   - Christopher Hardwick
-  - Seamonsters (Wedding Present album)
+  - _Seamonsters_ (Wedding Present album)
   - Mark Robinson
   - Unrest
   - Discogs
   - Melanie K.
   - Wade Hammett
   - Alec V.
+  - guitars
   - capo
 
 ---
@@ -39,9 +40,9 @@ I didn't take many pictures, because it feels rude. (I watched one whole song th
 
 ![The Wedding Present at Gasa Gasa, March 31 2026.](/static/img/timeline/wedding-present-mar-31-2026/wedding-present-2-mar-31-2026.jpeg)
 
-I've always admired David Gedge as a performer and singer. He sounds like he's expressing the point of view of a self-centered, not quite chauvinistic, man whose girlfriend is younger than he is and doesn't always do what he wants. I can't understand all the words, but that's what they all sound like. His song "My Favorite Dress", which they did not play, is a pretty remarkable song about jealousy ("Jealousy is an essential part of love"). It's not metaphorical, it's simply descriptive, or argumentative. He sounds angry, mostly. He growls.
+I've always admired David Gedge as a performer and singer. He sounds like he's expressing the point of view of a self-centered, not quite chauvinistic, man whose girlfriend is younger than he is and doesn't always do what he wants. I can't understand all the words, but that's what they all sound like. His song "My Favourite Dress", which they did not play, is a pretty remarkable song about jealousy ("Jealousy is an essential part of love"). It's not metaphorical, it's simply descriptive, or argumentative. He sounds angry, mostly. He growls.
 
-I was sort of not a fan of the production of their records (generally a wall of grunge), and I thought I had hearing loss because the words were mixed so low. On this show, though, I really loved how it sounded. His (mostly) clean guitar mixed with Rachael Wood's (mostly) dirty complicated sound was powerful, and combined with drummer Christopher Hardwick's "machine gun snare rolls" (description by Alec V.), it reminded me of when I could really get excited by music that was mostly just guitars. I guess they could have made the choice to couch Gedge's words in something more sensitive (and they made a [couple](https://www.discogs.com/master/2009413-The-Wedding-Present-Locked-Down-And-Stripped-Back) of records that are ["semi-acoustic demos"](https://www.discogs.com/master/2693711-The-Wedding-Present-Locked-Down-And-Stripped-Back-Volume-Two) of their already released material; I like those), but for this show the noise seemed to be the exact right sound to carry the words' meaning.
+I was sort of not a fan of the production of their records (generally a wall of grunge), and I thought I had hearing loss because the words were mixed so low. On this show, though, I really loved how it sounded. His (mostly) clean guitar mixed with Rachael Wood's (mostly) dirty complicated sound was powerful, and combined with drummer Christopher Hardwick's "machine gun snare rolls" (description by Alec V.), it reminded me of when I could really get excited by music that was mostly just guitars. I guess they could have made the choice to couch Gedge's words in something more sensitive (and they made a [couple](https://www.discogs.com/master/2009413-The-Wedding-Present-Locked-Down-And-Stripped-Back) of records that are ["semi-acoustic demos"](https://www.discogs.com/master/2693711-The-Wedding-Present-Locked-Down-And-Stripped-Back-Volume-Two) of their already released material; I like those), but for this show the noise seemed to be the exact sound to carry the words' meaning, or at least their attitude.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qiEIEYONbhY?si=Bx4QcGUAx-4AUtpO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
