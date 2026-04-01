@@ -9,7 +9,7 @@ body > footer {
   z-index: 3;
 }
 
-#app {
+body {
   /* grid container settings */
   display: grid;
   grid-template-columns: 1fr;
@@ -20,18 +20,18 @@ body > footer {
     "footer";
 }
 
-#app > header {
+body > header {
   grid-area: header;
 }
 
-#app > main {
+body > main {
   grid-area: main;
   overflow: auto;
   padding-top: 100px;
   padding-bottom: 150px;
 }
 
-#app > footer {
+body > footer {
   grid-area: footer;
 }
 

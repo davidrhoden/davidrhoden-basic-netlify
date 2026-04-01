@@ -209,7 +209,7 @@ figcaption {
 }
 
 body > main {
-  padding-bottom: 2em;
+  padding-bottom: 150px;
   margin: 0 auto;
 }
 
@@ -784,7 +784,7 @@ span.fade:hover {
   }
 
   body > footer {
-    padding: 2em;
+    padding: 2em 2em 1em;
   }
 
   footer.home {
