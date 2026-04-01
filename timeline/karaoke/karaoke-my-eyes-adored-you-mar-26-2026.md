@@ -1,5 +1,5 @@
 ---
-title: I found my "lost" ratchet straps; that's pretty exciting. Also drew a karaoke cartoon.
+title: I found my "lost" ratchet straps; that's pretty exciting.
 date: 2026-03-26T00:00:00
 excerpt: I did have to untangle the ones I found, which worked for two out of the four.
 summary: I did have to untangle the ones I found, which worked for two out of the four.
@@ -9,11 +9,7 @@ tags:
   - trucks
   - ratchet straps
   - Lowe's
-  - cartoons
-  - karaoke
-  - Frankie Valli and The Four Seasons
-  - "My Eyes Adored You"
-  - Barnegat Bridge and Bay
+  - failure
 
 ---
 
@@ -31,9 +27,3 @@ Eventual success.
 ![tangled blue ratchet strap](/static/img/timeline/ratchet-strap-blue-ruined-mar-26-2026.jpg)
 
 Eventual failure.
-
------
-
-Also, I heard Frankie Valli's horrendous-but-catchy "My Eyes Adored You" and had to do a cartoon of my favorite line from it.
-
-![cartoon of guy doing home karaoke to "My Eyes Adored You", specifically the line "Walking home every day/over Barnegat Bridge and Bay"](/static/img/karaoke/barnegat-bridge-and-bay-mar-26-2026.png)
