@@ -36,7 +36,7 @@ The Wedding Present was here to play their entire album "Seamonsters", but they 
 
 ![The Wedding Present at Gasa Gasa, March 31 2026.](/static/img/timeline/wedding-present-mar-31-2026/wedding-present-1-mar-31-2026.jpeg)
 
-I didn't take many pictures, because it feels rude. (I watched one whole song through a guy's elevated phone, it was just easier that way.) So this was the only picture I got where excellent lead guitarist Rachael Wood is visible. Her playing was terrific. Creative, loud and crunchy, appropriate for making the songs into something more than their somewhat simple frameworks could do on their own. She played some songs while capoed up to the tenth or twelfth fret.
+I didn't take many pictures, because it feels rude. (I watched one whole song through a guy's elevated phone. It was just easier that way.) So this was the only picture I got where excellent lead guitarist Rachael Wood is visible. Her playing was terrific. Creative, loud and crunchy, appropriate for making the songs into something more than their somewhat simple frameworks could do on their own. She played some songs while capoed up to the tenth or twelfth fret.
 
 ![The Wedding Present at Gasa Gasa, March 31 2026.](/static/img/timeline/wedding-present-mar-31-2026/wedding-present-2-mar-31-2026.jpeg)
 
