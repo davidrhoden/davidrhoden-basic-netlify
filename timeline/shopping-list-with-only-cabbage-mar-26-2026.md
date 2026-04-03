@@ -8,7 +8,6 @@ tags:
   - sketches
   - cabbage
   - groceries
-  - attractive women
 
 ---
 
@@ -17,3 +16,5 @@ tags:
 I made this whole fancy shopping list, and I went to the store, and you know what I _didn't_ get?
 
 That's right. Cabbage.
+
+Didn't get the lady either, come to think of it.
