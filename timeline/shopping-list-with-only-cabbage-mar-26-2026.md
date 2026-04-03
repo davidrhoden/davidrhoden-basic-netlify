@@ -1,5 +1,5 @@
 ---
-title: I made a short shopping lis.
+title: I made, and illustrated, a short shopping list.
 date: 2026-03-26T00:00:00
 excerpt: I made this whole fancy shopping list, and I went to the store, and you know what I _didn't_ get?
 summary: I made this whole fancy shopping list, and I went to the store, and you know what I _didn't_ get?
@@ -8,6 +8,7 @@ tags:
   - sketches
   - cabbage
   - groceries
+  - attractive women
 
 ---
 
