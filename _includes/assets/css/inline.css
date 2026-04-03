@@ -226,6 +226,13 @@ small {
   font-size: 0.7em;
 }
 
+small.timeline-footnote {
+  display: block;
+  margin-top: 1em;
+  padding: 1em 0;
+  line-height: 1.5;
+}
+
 .container-wide {
   margin: 0 1em;
 }
