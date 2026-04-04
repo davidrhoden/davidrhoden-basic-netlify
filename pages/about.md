@@ -203,6 +203,19 @@ David Rhoden visiting Pensacola, I think, around 2001.
 
 <div class="about flex">
   <div class="left">
+    <img alt="David Rhoden holding his guitar in Deposit, New York, July 1998." src="/static/img/about/dave-red-barn-jul-1998.jpg?nf_resize=fit&w=320">
+  </div>
+  <div class="right">
+    <caption>
+David Rhoden in Deposit, New York, July 1998.
+</caption>
+  </div>
+</div>
+
+---
+
+<div class="about flex">
+  <div class="left">
     <img alt="David Rhoden on Coney Island holding a penny loafer, 1990s" src="/static/img/about/davidonconeyiwithloafer.jpg?nf_resize=fit&w=320">
   </div>
   <div class="right">
