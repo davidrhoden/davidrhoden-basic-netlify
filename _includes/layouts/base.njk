@@ -1,7 +1,7 @@
 <!doctype html>
 <html {% if section %}data-current="{{ section }}"{% endif %} lang="en">
   {% include "components/head.njk" %}
-  <body class="{% if pageType %}{{ pageType }}{% endif %} {{ page.fileSlug }} {{ pageClasses }}" id="{{ pageClasses }}"  rel="modal:open">
+  <body class="{% if pageType %}{{ pageType }}{% endif %} {{ page.fileSlug }} {{ pageClasses }}">
     {% include "components/header.njk" %}
     <main>
       <article data-pagefind-body>
@@ -15,5 +15,20 @@
 
     {% include "components/footer.njk" %}
     {% include "components/modal-search.njk" %}
+    
+    <!-- MicroModal for mailing list signup -->
+    <div class="modal micromodal-slide micromodal-slide-up" id="modal-onetalker" aria-hidden="true">
+      <div class="modal__overlay" tabindex="-1" data-micromodal-close>
+        <div class="modal__container onetalker-modal-container" role="dialog" aria-modal="true" aria-labelledby="modal-onetalker-title">
+          <header class="modal__header">
+            <span class="modal__title" id="modal-onetalker-title">Join My Mailing List</span>
+            <button class="modal__btn modal__btn-primary" data-micromodal-close aria-label="Close">Close</button>
+          </header>
+          <main class="modal__content" id="modal-onetalker-content">
+            {% include "components/buttondown.njk" %}
+          </main>
+        </div>
+      </div>
+    </div>
   </body>
 </html>

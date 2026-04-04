@@ -126,4 +126,35 @@ $(document).ready(function () {
       });
       document.querySelector('.pagefind-ui__search-input').focus();
     });
+
+    $('#onetalker-trigger').on('click', function() {
+      var isMobile = window.innerWidth <= 767;
+      var $trigger = $(this);
+      
+      if (isMobile) {
+        // On mobile: two-step interaction
+        if (!$trigger.hasClass('active')) {
+          // First click: show bubble and talking state
+          $trigger.addClass('active');
+        } else {
+          // Second click: open modal
+          $trigger.addClass('modal-open').removeClass('active');
+          MicroModal.show('modal-onetalker', {
+            onClose: function() {
+              $('#onetalker-trigger').removeClass('modal-open');
+            },
+            disableFocus: true
+          });
+        }
+      } else {
+        // On desktop: one click opens modal
+        $trigger.addClass('modal-open');
+        MicroModal.show('modal-onetalker', {
+          onClose: function() {
+            $('#onetalker-trigger').removeClass('modal-open');
+          },
+          disableFocus: true
+        });
+      }
+    });
 });

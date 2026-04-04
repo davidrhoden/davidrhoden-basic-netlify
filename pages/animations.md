@@ -134,6 +134,9 @@ eleventyNavigation:
 
 ![Trippin' animation by David Rhoden](/static/img/animations/guytripping.gif)
 
+-----
+
+![scratch animation by David Rhoden](/static/img/animations/ampuscratch.gif)
 
 <!-- ![Talker animation by David Rhoden](/static/img/animations/talkers.gif) -->
 

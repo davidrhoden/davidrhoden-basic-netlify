@@ -12,14 +12,31 @@
   left: 0;
   right: 0;
   bottom: 0;
+  width: 100vw;
+  height: 100vh;
   background: rgba(0,0,0,0.6);
   display: flex;
-  align-items: flex-start;  /* top-align vertically */
-  padding-top: 120px;       /* keep top of modal ~120px from top of screen */
-  padding-bottom: 20px;
+  align-items: flex-start;  /* top-align vertically (default for search modal) */
+  padding: 120px 0 20px 0;  /* top padding for search modal */
   justify-content: center;
-  z-index: 10;
-  /*align-items: center;*/
+  overflow-y: auto;
+  z-index: 999;
+}
+
+/* Onetalker modal specific bottom-alignment */
+.micromodal-slide-up .modal__overlay {
+  align-items: flex-end;  /* bottom-align for onetalker modal */
+  padding: 20px 0 70px 0;  /* space at bottom for fixed onetalker */
+}
+
+@media screen and (max-width: 767px) {
+  .modal__overlay {
+    padding: 60px 0 20px 0;  /* reduce top padding on mobile for search modal */
+  }
+  
+  .micromodal-slide-up .modal__overlay {
+    padding: 20px 0 70px 0;  /* same bottom padding on mobile for onetalker */
+  }
 }
 
 .modal__container {
@@ -50,6 +67,7 @@
 .modal__title {
   margin-top: 0;
   margin-bottom: 0;
+  font-family: var(--font-decorative);
   font-weight: 600;
   font-size: 1.25rem;
   line-height: 1.25;
@@ -188,40 +206,37 @@
   display: block;
 }
 
-/* Make the latest-post modal a bit wider */
-#modal-latest-post .modal__container {
-  max-width: 1000px;      /* wider than default 900px if you like */
-  width: 95vw;
-  max-height: calc(100vh - 140px);
-  overflow-y: auto;
+/* Onetalker modal slide-up animation */
+@keyframes mmslideInFromBottom {
+  from { transform: translateY(100%); }
+  to { transform: translateY(0); }
 }
 
-/* Two-column layout inside the latest-post modal */
-#modal-latest-post .latest-post-layout {
-  display: flex;
-  flex-direction: column;
-  gap: 1.5rem;
+@keyframes mmslideOutToBottom {
+  from { transform: translateY(0); }
+  to { transform: translateY(100%); }
 }
 
-/* On larger screens, switch to side-by-side columns */
+.micromodal-slide-up[aria-hidden="false"] .modal__container {
+  animation: mmslideInFromBottom .4s cubic-bezier(0, 0, .2, 1);
+}
+
+.micromodal-slide-up[aria-hidden="true"] .modal__container {
+  animation: mmslideOutToBottom .4s cubic-bezier(0, 0, .2, 1);
+}
+
+/* Onetalker modal container sizing */
+.onetalker-modal-container {
+  max-width: 90vw;
+  width: 90vw;
+  margin: 0;
+  font-size: calc(1em - 1px);
+}
+
 @media screen and (min-width: 768px) {
-  #modal-latest-post .latest-post-layout {
-    flex-direction: row;
-    align-items: flex-start;
+  .onetalker-modal-container {
+    max-width: 50vw;
+    width: 50vw;
+    font-size: 1em;
   }
-
-  #modal-latest-post .latest-post-image {
-    flex: 0 0 40%;
-  }
-
-  #modal-latest-post .latest-post-text {
-    flex: 1;
-  }
-}
-
-/* Make sure the image scales nicely */
-#modal-latest-post .latest-post-image img {
-  display: block;
-  max-width: 100%;
-  height: auto;
 }

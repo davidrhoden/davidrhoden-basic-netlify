@@ -202,6 +202,10 @@ body > footer {
   /*  width: calc(100% - 2em); */
 }
 
+body > footer > * {
+  pointer-events: auto;
+}
+
 figcaption {
   font-size: 0.9em;
 /*  transform: translateY(-1em);*/
@@ -209,7 +213,7 @@ figcaption {
 }
 
 body > main {
-  padding-bottom: 2em;
+  padding-bottom: 150px;
   margin: 0 auto;
 }
 
@@ -224,6 +228,13 @@ main img {
 
 small {
   font-size: 0.7em;
+}
+
+small.timeline-footnote {
+  display: block;
+  margin-top: 1em;
+  padding: 1em 0;
+  line-height: 1.5;
 }
 
 .container-wide {
@@ -294,10 +305,6 @@ small {
   margin-top: 0.5em;
 }
 
-.timeline main {
-  padding-bottom: 0;
-}
-
 @media screen and (width >=600px) {
   body > footer {
     width: 100%;
@@ -323,6 +330,8 @@ small {
 
   .grid-square img {
     width: 24.5vw; /* that little extra is need to fullfilly the grid squares. */
+    height: 24.5vw;
+    object-fit: cover;
   }
 
   .grid-square .overlay {
@@ -786,7 +795,7 @@ span.fade:hover {
   }
 
   body > footer {
-    padding: 2em;
+    padding: 2em 2em 1em;
   }
 
   footer.home {
@@ -804,8 +813,8 @@ span.fade:hover {
   }
 
   article video {
-  width: auto;
-}
+    width: auto;
+  }
 
   .animation-individual,
   .animation-individual video {
@@ -1030,5 +1039,149 @@ span.fade:hover {
 
   .container img {
     max-width: 768px;
+  }
+}
+
+/* Onetalker mailing list trigger */
+.onetalker-trigger {
+  position: fixed;
+  bottom: 0;
+  right: 10px;
+  width: 50px;
+  text-align: center;
+  cursor: pointer;
+  transition: transform 0.3s ease;
+  z-index: 100;
+  pointer-events: auto;
+}
+
+.onetalker-image {
+  width: 100%;
+  height: 0;
+  padding-bottom: 200%;
+  background-image: url('/static/img/site/onetalker-quiet.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center bottom;
+  transition: opacity 0.2s ease;
+  position: relative;
+}
+
+@keyframes talking {
+  0%, 6% { opacity: 0; }
+  8%, 14% { opacity: 1; }
+  16%, 22% { opacity: 0; }
+  24%, 30% { opacity: 1; }
+  32%, 38% { opacity: 0; }
+  40%, 46% { opacity: 1; }
+  48%, 54% { opacity: 0; }
+  56%, 62% { opacity: 1; }
+  64%, 70% { opacity: 0; }
+  72%, 78% { opacity: 1; }
+  80%, 86% { opacity: 0; }
+  88%, 94% { opacity: 1; }
+  96%, 100% { opacity: 0; }
+}
+
+.onetalker-image::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: url('/static/img/site/onetalker-talking.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center bottom;
+  opacity: 0;
+}
+
+.onetalker-trigger:hover .onetalker-image::after {
+  opacity: 1;
+}
+
+.onetalker-bubble {
+  position: absolute;
+  bottom: 65%;
+  right: 0;
+  width: 200px;
+  height: 133px;
+  background-image: url('/static/img/site/onetalker-speech-bubble-var-blue.png');
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  padding: 1.75rem 1rem 0.75rem 1rem;
+  margin-bottom: 0.5rem;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  white-space: normal;
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.3s ease, visibility 0.3s ease;
+  font-size: calc(1.1rem + 2px);
+  font-weight: 600;
+  text-align: center;
+  color: white;
+}
+
+.onetalker-trigger.modal-open .onetalker-bubble {
+  opacity: 0;
+  visibility: hidden;
+}
+
+/* Desktop: hover shows bubble and talking animation */
+@media screen and (min-width: 768px) {
+  .onetalker-trigger:hover .onetalker-bubble {
+    opacity: 1;
+    visibility: visible;
+  }
+
+  .onetalker-trigger:hover .onetalker-image::after {
+    animation: talking 1s ease-in-out forwards;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .onetalker-trigger {
+    width: 50px;
+  }
+
+  .onetalker-image {
+    height: 100px;
+    padding-bottom: 0;
+  }
+
+  .onetalker-bubble {
+    width: 180px;
+    height: 120px;
+    font-size: 1.3rem;
+    padding: 1.5rem 0.75rem 0.5rem 0.75rem;
+  }
+
+  /* Mobile: disable hover */
+  .onetalker-trigger:hover .onetalker-bubble {
+    opacity: 0;
+    visibility: hidden;
+  }
+
+  .onetalker-trigger:hover .onetalker-image::after {
+    opacity: 0;
+  }
+
+  /* Mobile: first click shows bubble and talking animation */
+  .onetalker-trigger.active .onetalker-bubble {
+    opacity: 1;
+    visibility: visible;
+  }
+
+  .onetalker-trigger.active .onetalker-image::after {
+    animation: talking 1s ease-in-out forwards;
+  }
+
+  /* Mobile: modal open hides bubble and shows quiet state */
+  .onetalker-trigger.modal-open .onetalker-image::after {
+    opacity: 0;
   }
 }
