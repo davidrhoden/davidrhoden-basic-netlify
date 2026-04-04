@@ -40,7 +40,7 @@ eleventyNavigation:
 -----
 
 <div class="animation-individual">
-<video controls loop>
+<video controls loop muted>
   <source type="video/mp4" src="/static/img/animations/mp4s/Siberia-180929-640.mp4"></source>
   <p>Your browser does not support the video element.</p>
 </video>
@@ -54,7 +54,7 @@ eleventyNavigation:
 
 
 <div class="animation-individual">
-<video autoplay loop>
+<video autoplay loop muted>
   <source type="video/mp4" src="/static/img/animations/mp4s/alienandfriend720x720.mp4"></source>
   <p>Your browser does not support the video element.</p>
 </video>
@@ -63,7 +63,7 @@ eleventyNavigation:
 -----
 
 <div class="animation-individual">
-<video autoplay loop>
+<video autoplay loop muted>
   <source type="video/mp4" src="/static/img/animations/mp4s/head-shaker.mp4"></source>
   <p>Your browser does not support the video element.</p>
 </video>
@@ -85,7 +85,7 @@ eleventyNavigation:
 -----
 
 <div class="animation-individual">
-<video controls="controls">
+<video controls loop>
   <source type="video/mp4" src="/static/img/animations/mp4s/lemondrop640.mp4"></source>
   <p>Your browser does not support the video element.</p>
 </video>
@@ -138,7 +138,6 @@ eleventyNavigation:
 
 ![scratch animation by David Rhoden](/static/img/animations/ampuscratch.gif)
 
-<!-- ![Talker animation by David Rhoden](/static/img/animations/talkers.gif) -->
 
 <!-- ![Rar animation by David Rhoden](/static/img/animations/dailyRar02.gif) -->
 
