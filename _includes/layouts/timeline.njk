@@ -8,7 +8,12 @@ generator: {{metadata.generator}}
 
 <article data-pagefind-body>
   <h1>{{ title }}</h1>
-    <p>
+
+  {% if excerpt %}
+      <p class="latest-post-excerpt">{{ excerpt }}</p>
+  {% endif %}
+
+  <p>
     <small>
       <time datetime="{{ date | machineDate }}"><span id="todays-date">{{ date | readableDate }}</span></time>. Day <span id="days"></span>.
     </small>
