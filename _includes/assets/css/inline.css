@@ -414,7 +414,7 @@ header nav li a[data-current="current item"] {
 .home h2 {
   font-family: var(--font-secondary);
   font-weight: 600;
-  font-size: 3em;
+  font-size: 2em;
   margin: 0;
 }
 
