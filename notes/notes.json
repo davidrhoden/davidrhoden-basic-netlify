@@ -1,5 +1,6 @@
 {
-  "layout": "layouts/notes.njk",
+  "layout": "layouts/timeline.njk",
   "permalink": "notes/{{ title | slugify }}/index.html",
-  "tags": ["note"]
+  "tags": ["note"],
+  "section": "notes"
 }
