@@ -2,7 +2,7 @@
   <div class="recent-posts-container">
     <h2 class="recent-posts-title">Read more</h2>
     <div class="recent-posts-grid">
-      {% for post in collections.posts | reverse %}
+      {% for post in collections[collectionName] | reverse %}
         {% if loop.index > 1 and loop.index <= 4 %}
         <article class="recent-post-card">
           <a class="recent-post-link" href="{{ post.url }}">
