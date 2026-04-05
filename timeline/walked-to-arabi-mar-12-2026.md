@@ -43,7 +43,7 @@ Looks even better as the sun is low in the sky, at sunset.
 After I took these pictures I stopped in the Lighthouse record store, on Mehle Avenue. 
 I wasn't planning to buy anything, but I looked in the "cheap" bins.
 
-regarding the cheap bins, let me preface:
+Regarding the cheapo bins, let me preface:
 I'm reading the Cars Biography by [Bill Janovitz](https://billjanovitz.com/blog/). It's so interesting because:
 1. Bill Janovitz is a musician, and he gives a little serious thought to just about every song on every Cars album;
 2. It's a story about five talented men who could have been happy for a lifetime, but somehow they didn't, and I'm thinking it was because the most talented of them just thought or decided he was the _only_ talented one.
@@ -55,5 +55,5 @@ I bought a book called _On-The-Spot Drawing_ by [Nick Meglin](https://www.nytime
 
 All three of these items were five bucks each. _Three?_ The third, you ask?
 
-The last thing I bought was a vinyl copy of R.E.M.'s _Fables Of The Reconstruction_, the first R.E.M. album I was a little bit disappointed by. It's still one of their best. Unfortunately, song one on both sides has invisble skips. Also, the sleeve was on that non-glossy paper, and it was hamdled a lot, so the spine is soft and white, like cotton, illegible; and the opening is kind of splayed out, and somebody used a three-hole punch to punch three holes in the sleeve. Perhaps the previous owner kept her or his LPs in a notebook. Still, as damaged as it is, I'm glad to have it, and listening to it skip all over the place inspired [this karaoke cartoon](https://davidrhoden.com/timeline/cartooned-an-rem-song/).
+The last thing I bought was a vinyl copy of R.E.M.'s _Fables Of The Reconstruction_, the first R.E.M. album I was a little bit disappointed by. It's still one of their best. Unfortunately, song one on both sides has invisble skips. Also, the sleeve was on that non-glossy paper, and it was handled a lot, so the spine is soft and white, like cotton, illegible; and the opening is kind of splayed out, and somebody used a three-hole punch to punch three holes in the sleeve. Perhaps the previous owner kept her or his LPs in a notebook. Still, as damaged as it is, I'm glad to have it, and listening to it skip all over the place inspired [this karaoke cartoon](https://davidrhoden.com/timeline/cartooned-an-rem-song/).
 
