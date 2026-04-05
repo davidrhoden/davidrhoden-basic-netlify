@@ -57,16 +57,28 @@ body {
 }
 
 body {
-  font-family: var(--font-primary);
   background-color: var(--white);
+  font-family: var(--font-primary);
+}
+
+/* Article layout - 1120px outer container */
+article.latest-post-article {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 1120px;
+  padding: 0 1em;
 }
 
 article {
-  margin-top: 7em;
+  max-width: 768px;
 }
 
-.notes article {
+article img {
+  display: block;
   height: auto;
+  margin: 2em auto;
+  max-width: 768px;
+  width: 100%;
 }
 
 article video {
@@ -74,11 +86,121 @@ article video {
   text-align: center;
 }
 
+/* Content width - 768px for readable text */
+.latest-post-content {
+  color: var(--black);
+  font-family: var(--font-primary);
+  font-size: 1.1rem;
+  line-height: 1.75;
+  margin: 0 auto;
+  max-width: 768px;
+}
+
+.latest-post-content p {
+  margin: 1.5em 0;
+}
+
+.latest-post-content img {
+  height: auto;
+  max-width: 100%;
+  margin: 2em 0;
+  border-radius: 0.5em;
+}
+
+.latest-post-content h2,
+.latest-post-content h3 {
+  margin-top: 2em;
+  margin-bottom: 1em;
+}
+
 h1 {
-  font-family: var(--font-decorative);
-  font-weight: 500;
-  font-size: 2em;
-  margin: 0;
+  color: var(--black);
+  font-family: var(--font-secondary);
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.2;
+  margin: 0.5em 0;
+}
+
+/* Timeline index section */
+.timeline section {
+  margin: 0 auto;
+}
+
+.text-timeline-entry {
+  display: flex;
+  gap: 1em;
+  margin-bottom: 0.5em;
+}
+
+.entry-date {
+  flex-shrink: 0;
+  width: 120px;
+  text-align: right;
+}
+
+.entry-content {
+  flex-grow: 1;
+}
+
+/* Latest post article layout styles */
+.latest-post-header {
+  margin-bottom: 2em;
+  text-align: left;
+}
+
+.latest-post-title {
+  color: var(--black);
+  font-family: var(--font-secondary);
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.2;
+  margin: 0.5em 0;
+}
+
+.latest-post-excerpt {
+  color: var(--gray);
+  font-family: var(--font-secondary);
+  font-size: 1.25rem;
+  line-height: 1.5;
+  margin: 1em 0 2em;
+}
+
+.latest-post-image {
+  margin: 2em 0;
+  text-align: center;
+}
+
+.latest-post-image img {
+  border-radius: 0.5em;
+  height: auto;
+  max-width: 768px;
+  width: 100%;
+}
+
+.latest-post-tags {
+  margin-bottom: 1em;
+}
+
+.latest-post-tag {
+  background-color: transparent;
+  border: 1px solid var(--blue);
+  border-radius: 0.25em;
+  color: var(--blue);
+  display: inline-block;
+  font-family: var(--font-secondary);
+  font-size: 0.75rem;
+  letter-spacing: 0.1em;
+  margin-right: 0.5em;
+  padding: 0.4em 0.8em;
+  text-decoration: none;
+  text-transform: uppercase;
+  transition: all 0.3s ease;
+}
+
+.latest-post-tag:hover {
+  background-color: var(--blue);
+  color: var(--white);
 }
 
 h2 {
@@ -226,8 +348,8 @@ figcaption {
 }
 
 body > main {
+  margin: 7em auto 0;
   padding-bottom: 150px;
-  margin: 0 auto;
 }
 
 main > section > article > * {
@@ -268,7 +390,6 @@ small.timeline-footnote {
 }
 
 .pagination li {
-  display: inline-block;
   float: left;
   padding: 0 0.5em 0 0;
 }
@@ -483,12 +604,36 @@ textarea {
   border: 1px solid black;
 }
 
-button,
-.button {
-  border: 1px solid var(--blue);
-  background-color: var(--blue);
-  color: var(--white);
+#subscribe-to-buttondown-list {
+  background-color: var(--blue) !important;
+  border: 1px solid var(--blue) !important;
+  color: var(--white) !important;
   cursor: pointer;
+  transition: background-color 0.3s ease, border-color 0.3s ease;
+}
+
+#subscribe-to-buttondown-list:hover {
+  background-color: var(--orangered) !important;
+  border-color: var(--orangered) !important;
+}
+
+button,
+button[type="submit"],
+input[type="submit"],
+.button {
+  background-color: lightgreen !important;
+  border: 1px solid lightgreen !important;
+  color: var(--white) !important;
+  cursor: pointer;
+  transition: background-color 0.3s ease, border-color 0.3s ease;
+}
+
+button:hover,
+button[type="submit"]:hover,
+input[type="submit"]:hover,
+.button:hover {
+  background-color: var(--orangered) !important;
+  border-color: var(--orangered) !important;
 }
 
 .order-form input {
@@ -587,9 +732,7 @@ p.postdate h3 {
   font-weight: 600;
 }
 
-#timeline-detail {
-  display: none;
-}
+/* #timeline-detail display handled in timeline-two-sections.css */
 
 .tabs {
   position: relative;
@@ -790,14 +933,14 @@ span.fade:hover {
   }
 
   .timeline-item-content {
-    max-width: 600px;
+    max-width: 768px;
     flex-shrink: 0;
     padding: 1em 2em;
   }
 
   /* About page specific styles */
   .about .container {
-    max-width: 1200px;
+    max-width: 1120px;
     margin: 0 auto;
   }
 
@@ -806,13 +949,13 @@ span.fade:hover {
   }
 
   .about img {
-    width: 600px !important;
+    width: 768px !important;
     height: auto;
   }
 
     /* For Sale page specific styles */
   .forsale .container {
-    max-width: 1200px;
+    max-width: 1120px;
     margin: 0 auto;
   }
 
@@ -821,13 +964,13 @@ span.fade:hover {
   }
 
   .forsale img {
-    width: 600px !important;
+    width: 768px !important;
     height: auto;
   }
 
   /* Animations page specific styles */
   .animations .container {
-    max-width: 1200px;
+    max-width: 1120px;
     margin: 0 auto;
   }
 
@@ -836,13 +979,13 @@ span.fade:hover {
   }
 
   .animations img, .animations video {
-    width: 600px !important;
+    width: 768px !important;
     height: auto;
   }
 
   /* Rock Music page specific styles */
   .rock .container {
-    max-width: 1200px;
+    max-width: 1120px;
     margin: 0 auto;
   }
 
@@ -851,7 +994,7 @@ span.fade:hover {
   }
 
   .rock img, .rock video {
-    width: 600px !important;
+    width: 768px !important;
     height: auto;
   }
 
@@ -863,7 +1006,7 @@ span.fade:hover {
 
 /* Press page specific styles */
   .press .container {
-    max-width: 1200px;
+    max-width: 1120px;
     margin: 0 auto;
   }
 
@@ -872,7 +1015,7 @@ span.fade:hover {
   }
 
   .press img, .press video {
-    width: 600px !important;
+    width: 768px !important;
     height: auto;
   }
 
@@ -980,10 +1123,6 @@ span.fade:hover {
     width: 40vw;
   }
 
-  main img {
-    max-width: 1000px;
-  }
-
   article video {
     width: auto;
   }
@@ -1003,13 +1142,8 @@ span.fade:hover {
   .container {
     margin-left: auto;
     margin-right: auto;
-    max-width: 1560px;
+    max-width: 1120px;
   }
-
-  .home .container {
-    width: 100%;
-  }
-
 
   .container-wide {
     margin-left: auto;
@@ -1198,18 +1332,6 @@ span.fade:hover {
     margin-left: auto;
     margin-right: auto;
     width: 50%;
-  }
-}
-
-@media screen and (width >=1400px) {
-  :root {
-    font-size: 1.1rem;
-  }
-
-  .container {
-    margin-left: auto;
-    margin-right: auto;
-    max-width: 1560px;
   }
 }
 
