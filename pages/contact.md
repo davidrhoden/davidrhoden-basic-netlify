@@ -10,5 +10,3 @@ eleventyNavigation:
   key: Get in touch
   order: 14
 ---
-
-  ![cartoon of man asking are ya gonna sign up or aren't ya?](/static/img/site/gonna-sign-up-jan-9-2024.jpg)

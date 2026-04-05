@@ -15,5 +15,3 @@ eleventyNavigation:
   key: Notes/Now
   order: 13
 ---
-
-## Notes:

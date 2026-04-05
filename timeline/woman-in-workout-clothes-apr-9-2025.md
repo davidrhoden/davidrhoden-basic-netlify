@@ -6,6 +6,7 @@ summary: I wanted to have someone to talk to.
 image: /static/img/paintings/workout-clothes-apr-9-2025.jpg
 tags:
   - paintings
+  - loneliness
   - women
   - workout clothes
 

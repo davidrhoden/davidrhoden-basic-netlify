@@ -30,8 +30,24 @@ generator: {{metadata.generator}}
       {%- endif -%}
     {% endfor %}
     </p>
-  {% endif %}
-</article>
+    {% if description %}
+      <p>{{ description }}</p>
+    {% endif %}
+    {% if tags %}
+      <p>
+      {% for tag in tags %}
+        {%- if tag != "post" -%}
+          {% set tagUrl %}/tags/{{ tag | slugify }}/{% endset %}
+          <a data-umami-event="{{ tag }}" href="{{ tagUrl }}" rel="tag">{{ tag }}</a>
+        {%- endif -%}
+      {% endfor %}
+      </p>
+    {% endif %}
+  </div>
+  <div class="timeline-item-images">
+    {{ content | safe }}
+  </div>
+</div>
 
 {% if prevPost.url %}
   <p class="ctr">

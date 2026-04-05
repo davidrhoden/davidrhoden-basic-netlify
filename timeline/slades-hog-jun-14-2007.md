@@ -1,6 +1,7 @@
 ---
 title: Slade's Hog.
 date: 2007-06-14T19:53:00.000Z
+description: Slade Nash is the drummer in All-Night Movers. He is like a drum machine that can mix drinks. Also an incredible mensch. Drummer jokes don't apply to him.
 summary: Slade Nash is the drummer in All-Night Movers. He is like a drum machine that can mix drinks. Also an incredible mensch. Drummer jokes don't apply to him.
 excerpt: Slade Nash is the drummer in All-Night Movers. He is like a drum machine that can mix drinks. Also an incredible mensch. Drummer jokes don't apply to him.
 category: timeline
