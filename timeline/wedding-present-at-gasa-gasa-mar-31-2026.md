@@ -1,8 +1,8 @@
 ---
 title: I saw The Wedding Present and Mark Robinson.
 date: 2026-03-31T00:00:00
-excerpt: 
-summary: 
+excerpt: The Wedding Present was the draw, but a few people had to be excited to see "Mark Robinson plays Unrest". I was.
+summary: He announced "I'm going to play fifty-one songs", and then basically played a "mega-medley" (word coined by Wade Hammett) that was just the hooks from every good Unrest song.
 image: /static/img/timeline/wedding-present-mar-31-2026/wedding-present-1-mar-31-2026.jpeg
 tags:
   - shows
