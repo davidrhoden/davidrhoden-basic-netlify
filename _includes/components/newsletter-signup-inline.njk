@@ -1,0 +1,26 @@
+<section class="newsletter-signup-section">
+  <div class="newsletter-signup-container">
+    <div class="newsletter-signup-content">
+      <h2 class="newsletter-signup-heading">Are you getting David Rhoden's Computer Newsletter?</h2>
+          <p>Sign up to receive infrequent e-mail about new art, shows I'm playing, and other interesting things. Also, occasional discounts on my online store. You can unsubscribe anytime and your e-mail won't be shared.</p></div>
+          <form
+          action="https://buttondown.email/api/emails/embed-subscribe/davidrhoden"
+          method="post"
+          target="popupwindow"
+          onsubmit="window.open('https://buttondown.email/davidrhoden', 'popupwindow')"
+          class="embeddable-buttondown-form"
+        >
+          <label for="bd-email">Enter your email (required)</label>
+          <input type="email" name="email" id="bd-email" />
+          <label for="full_name">Your name (not required)</label>
+          <input type="text" name="metadata__full_name" id="full_name" />
+          <label for="mailing_address">Your mailing address (optional, if you want occasional snail mail. Put the whole thing in there, on one line!)</label>
+          <input type="text" name="metadata__mailing_address" id="mailing_address" />
+          <input data-umami-event="subscribe-to-buttondown-list" type="submit" value="Subscribe" />
+          <p>
+            <a href="https://buttondown.email" target="_blank">Powered by Buttondown.</a>
+          </p>
+        </form>
+    </div>
+  </div>
+</section>

@@ -1,0 +1,35 @@
+<section class="recent-posts-section">
+  <div class="recent-posts-container">
+    <h2 class="recent-posts-title">Read more</h2>
+    <div class="recent-posts-grid">
+      {% for post in collections.posts | reverse %}
+        {% if loop.index > 1 and loop.index <= 4 %}
+        <article class="recent-post-card">
+          <a class="recent-post-link" href="{{ post.url }}">
+            {% if post.data.image %}
+              <figure class="recent-post-image">
+                <img
+                  src="{{ post.data.image }}"
+                  alt="{{ post.data.title }}"
+                  loading="lazy"
+                >
+              </figure>
+            {% endif %}
+            <div class="recent-post-content">
+              <h3 class="recent-post-title">{{ post.data.title }}</h3>
+              {% if post.data.excerpt %}
+                <p class="recent-post-excerpt">{{ post.data.excerpt }}</p>
+              {% endif %}
+              <footer class="recent-post-meta">
+                <time class="recent-post-date" datetime="{{ post.date | machineDate }}">
+                  {{ post.date | readableDate }}
+                </time>
+              </footer>
+            </div>
+          </a>
+        </article>
+        {% endif %}
+      {% endfor %}
+    </div>
+  </div>
+</section>
