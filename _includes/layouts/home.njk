@@ -4,7 +4,8 @@ section: home
 pageType: page
 pageClasses: home
 ---
+{% set collectionName = "posts" %}
 {% include "components/latest-post-inline.njk" %}
 {% include "components/recent-posts-grid.njk" %}
-{% include "components/newsletter-signup-inline.njk" %}
+{% include "components/buttondown.njk" %}
 {{ content | safe }}
