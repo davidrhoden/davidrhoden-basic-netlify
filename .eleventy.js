@@ -52,6 +52,10 @@ module.exports = function (eleventyConfig) {
     return DateTime.fromJSDate(dateObj).toFormat("yyyy");
   });
 
+  eleventyConfig.addFilter("shortDate", (dateObj) => {
+    return DateTime.fromJSDate(dateObj).toFormat("LLLL d");
+  });
+
   eleventyConfig.addFilter(
     "relative",
     (page, root = "/") =>
