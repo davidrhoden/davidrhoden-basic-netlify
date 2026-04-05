@@ -1,4 +1,4 @@
-{% set latest_post = collections.posts | last %}
+{% set latest_post = collections[collectionName] | last %}
 
 <article class="latest-post-article">
   <header class="latest-post-header">
