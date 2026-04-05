@@ -24,4 +24,4 @@ tags:
 
 ![cartoon by Dave Rhoden of a woman singing lyrics from "Paint It, Black" on a home karaoke machine](/static/img/karaoke/paint-it-black-sep-29-2025.jpg)
 
-![cartoon by Dave Rhoden of a woman singing lyrics from "Pop Muzik" on a home karaoke machine](/static/img/karaoke/pop-muzik-sep-29-2025.jpg)
+![cartoon by Dave Rhoden of a woman singing lyrics from "Pop Muzik" on a home karaoke machine](/static/img/karaoke/pop-muzik-sep-29-2025.jpeg)
