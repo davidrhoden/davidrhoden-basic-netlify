@@ -1,50 +1,11 @@
 ---
 layout: layouts/base.njk
 section: notes
+pageClasses: notes-index
 ---
 
+{% set collectionName = "notes" %}
+{% include "components/latest-post-inline.njk" %}
+{% include "components/recent-posts-grid.njk" %}
+{% include "components/newsletter-signup-inline.njk" %}
 {{ content | safe }}
-
-<!-- note loop -->
-
-{% for note in notes %}
-<article class="flex" data-pagefind-ignore>
-  <div class="left">
-    {% if note.data.image %}<img style="width: 160px;" class="thumbnail" src="{{ note.data.image }}?nf_resize=fit&w=160">{% endif %}
-  </div>
-  <div>
-  <h3>
-    <a href="{{ note.url }}">
-      {% if note.data.title %}
-        {{ note.data.title }}
-      {% else %}
-        Untitled
-      {% endif %}
-    </a>
-  </h3>
-  {% if note.data.summary %}
-    <p>
-      {{ note.data.summary }}
-    </p>
-  {% endif %}
-  <p>
-  {{ note.data.content | safe }}
-
-    <time datetime="{{ note.date | machineDate }}">
-      <small>{{ note.date | readableDate }}</small>
-    </time>
-  </p>
-    {% if note.data.tags %}
-      <p>
-        {% for tag in note.data.tags %}
-          {%- if tag != "note" -%}
-            {% set tagUrl %}/tags/{{ tag | slugify }}/{% endset %}
-          <a href="{{ tagUrl }}" rel="tag">{{ tag }}</a>
-          {%- endif -%}
-        {% endfor %}
-      </p>
-    {% endif %}
-</div>
-</article>
-{% endfor %}
-{% include "components/pagination.njk" %}
