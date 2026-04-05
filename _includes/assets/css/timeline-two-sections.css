@@ -1,13 +1,18 @@
 #timeline-list a[href],
 #timeline-list a[href]:visited {
-  color: var(--black);
+  color: var(--blue);
   transition: all 0.3s ease;
 }
 
 #timeline-list a[href]:hover,
 #timeline-list a[href]:active {
-  color: var(--blue);
+  color: var(--orangered);
   text-decoration: none;
+}
+
+/* Hide timeline-detail on mobile */
+#timeline-detail {
+  display: none;
 }
 
 @media screen and (width >=960px) {
@@ -20,33 +25,36 @@
       "timeline-detail";
   }
 
-  .text-timeline > div {
-  }
-
   #timeline-detail {
-    display: grid;
-    grid-auto-flow: column;
-    grid-template-columns: 1fr 1fr;
-    grid-template-areas:
-      "thumbnail-container"
-      "summary";
-    margin: 0 auto;
-    padding: 0;
+    display: block;
     grid-area: timeline-detail;
-    position: fixed;
     height: auto;
+    margin: 0 auto;
+    padding: 1em;
+    position: fixed;
+    right: 2em;
+    top: 10em;
+    width: 45%;
   }
 
   #timeline-detail .thumbnail-container {
-    text-align: center;
-
-    /*    min-width: 750px;
-        width: 750px; */
+    align-items: center;
+    display: flex;
     grid-area: thumbnail-container;
+    justify-content: center;
+  }
+
+  #timeline-detail .thumbnail-container a {
+    display: block;
+    line-height: 0;
   }
 
   #timeline-detail .thumbnail-container img {
+    display: block;
     height: 500px;
+    margin: 0 auto;
+    max-width: 100%;
+    object-fit: contain;
   }
 
   #timeline-detail .summary {
