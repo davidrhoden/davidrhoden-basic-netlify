@@ -17,7 +17,7 @@ tags:
 
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/04pbtf5t_LU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="768" height="432" src="https://www.youtube.com/embed/04pbtf5t_LU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 We were just starting to be allowed to watch _Saturday Night Live_. We bargained for it, since at church on Sunday all the kids were talking about it and we felt left out. 
 

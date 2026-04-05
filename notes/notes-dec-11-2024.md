@@ -42,7 +42,7 @@ Also noted: Eric from Goner Records sent this around, so, thanks to him for catc
 
 The Fall, "Blindness":
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/I_OitJ52NHI?si=GHGoCwJGCjGD41wA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="768" height="432" src="https://www.youtube.com/embed/I_OitJ52NHI?si=GHGoCwJGCjGD41wA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 -----
 

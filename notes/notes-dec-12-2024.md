@@ -62,7 +62,7 @@ Anyway, I only bring it up to remind you that even though it was not the single 
 
 That guitar bit by Robbie MacIntosh during the fade out is super, as well. So, here ya go, "Show Me":
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oXs4N2j4CvA?si=age0_LNvA0CciK6K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="768" height="432" src="https://www.youtube.com/embed/oXs4N2j4CvA?si=age0_LNvA0CciK6K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 -----
 

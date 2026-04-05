@@ -20,11 +20,11 @@ I'd sorta forgotten about this great tune, "Lives of the Saints, no. 135" by Hon
 
 Honor Role were from Richmond, Virginia. They didn't fit any genre too well. I also had their album _Rictus_ which was a gloomy, tough listen but also very good. I don't know if you could consider tham a "success" or "popular" other than on their own terms, and among people who thought they were just great.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qjDr0RkTCT8?si=CVuu72CjavyqvphE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="768" height="432" src="https://www.youtube.com/embed/qjDr0RkTCT8?si=CVuu72CjavyqvphE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Here's a live show of Honor Role from C.B.G.B. in 1986.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CR15gw-10Ic?si=yypq5ZEOmbSfjNwK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="768" height="432" src="https://www.youtube.com/embed/CR15gw-10Ic?si=yypq5ZEOmbSfjNwK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 -----
 

@@ -25,12 +25,12 @@ You know the original video for this is just incredible, so I'll embed it here. 
 
 Hundred-Dollar Budget:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Dc4n8EuK78?si=irzGY0nSip7aCUxp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="768" height="432" src="https://www.youtube.com/embed/0Dc4n8EuK78?si=irzGY0nSip7aCUxp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ...and, as a bonus, Hundred-Thousand-Dollar Budget:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aobIboK_z34?si=mvYizZSDKNEJUXZd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="768" height="432" src="https://www.youtube.com/embed/aobIboK_z34?si=mvYizZSDKNEJUXZd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 -----
 

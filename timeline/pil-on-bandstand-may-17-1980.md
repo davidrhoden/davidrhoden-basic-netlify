@@ -22,4 +22,4 @@ In the morning we got up and turned on the TV. I wasn't a fan of Bandstand but w
 
 Here's the video. Check out John Lydon squirting nasal spray (I'm sure!) at around 9:40.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZLhqTzjpUM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="768" height="432" src="https://www.youtube.com/embed/hZLhqTzjpUM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -21,7 +21,7 @@ And then I got in a conversation about _gachapon_, which are stores in Japan (mo
 
 I like how these stores acknowledge the pleasure of buying (buying anything) and the pleasures of fandom, AND the pleasure of creating nonsense! Can you imagine if your job was to design these toys??
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_86afKFPFWM?si=XC2rwqbJ02zvQZIt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="768" height="432" src="https://www.youtube.com/embed/_86afKFPFWM?si=XC2rwqbJ02zvQZIt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ![gachapon of airplane food](/static/img/timeline/ana-international-economy-class-in-flight-meal-figure-collection-2.jpg)
 

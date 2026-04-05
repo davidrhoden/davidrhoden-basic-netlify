@@ -29,4 +29,4 @@ I remember we also got to go to an ice house before the cerwemony and buy a bunc
 
 After the wedding I went and got jerk chicken with one of the other groomsmen and he explained his theory of the white man and the black man and the red man and the yellow man, which in the end seemed to shed light on one thing: why so many American sushi chefs are Mexican. It didn't sound that bad. It was just somebody's attempt to categorize things that probably can't be categorized.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DNfksIHBLaA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="768" height="432" src="https://www.youtube.com/embed/DNfksIHBLaA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

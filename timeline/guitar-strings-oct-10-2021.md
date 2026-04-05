@@ -18,6 +18,6 @@ I put new strings on my Telecaster and Stratocaster. I put "nines" on the Tele (
 
 One of the guys who gave me advice was a soft-spoken, kindly expert, and one was Joe Bonamassa. I think they're both wrong. Actually I don't know what I think.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1JEQ9LWyoQg?start=180" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="768" height="432" src="https://www.youtube.com/embed/1JEQ9LWyoQg?start=180" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bfK8lQZaq_8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="768" height="432" src="https://www.youtube.com/embed/bfK8lQZaq_8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

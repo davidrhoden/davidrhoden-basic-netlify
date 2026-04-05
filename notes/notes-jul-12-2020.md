@@ -23,4 +23,4 @@ Obviously not playing any shows, but how many shows was I playing before? Not ma
 
 I'm getting better at Grand Theft Auto IV. Still can't finish the mission "Hung Out To Dry" but I've been taking a lot of cab fares, so I'm getting better at driving and changing the radio station without thinking. I think maybe I need to be using the view where the camera is outside of the car....
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iEyaUdjOVEY?start=66" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="768" height="432" src="https://www.youtube.com/embed/iEyaUdjOVEY?start=66" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

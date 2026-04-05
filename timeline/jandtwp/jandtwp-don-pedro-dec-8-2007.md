@@ -22,7 +22,7 @@ I'm finally on you tube...and of course you can't see me at all.
 
 But do watch this excellent film of Jimmy and the Wolfpack's "I'm Wild" from our record release show at Don Pedro's, Saurday, December 8.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CCiQNfB7tXQ?si=8worDogoReZTEcgn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="768" height="432" src="https://www.youtube.com/embed/CCiQNfB7tXQ?si=8worDogoReZTEcgn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 George Casey put this show on (and shot this video). I think it was the first show for Big Fun. Spring forward a few years and George and the drummer from Big Fun are married with a kid, living in New Mew Mexico, running a record store. Nice story arc.
 
