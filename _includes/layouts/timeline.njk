@@ -1,69 +1,64 @@
 ---
 layout: layouts/base.njk
-pageType: timeline
-section: timeline
 generator: {{metadata.generator}}
-
 ---
 
-<article data-pagefind-body>
-  <h1>{{ title }}</h1>
+<article class="latest-post-article" data-pagefind-body>
+  <header class="latest-post-header">
+    <h1 class="latest-post-title">{{ title }}</h1>
 
-  {% if excerpt %}
+    {% if excerpt %}
       <p class="latest-post-excerpt">{{ excerpt }}</p>
-  {% endif %}
-
-  <p>
+    {% endif %}
+        <p>
     <small>
-      <time datetime="{{ date | machineDate }}"><span id="todays-date">{{ date | readableDate }}</span></time>. Day <span id="days"></span>.
-    </small>
-  </p>
+        <time datetime="{{ date | machineDate }}"><span id="todays-date">{{ date | readableDate }}</span>.</time> Day <span id="days"></span>.
+      </small>
+    </p>
+  </header>
 
-  {{ content | safe }}
+  <section class="latest-post-content">
+    {{ content | safe }}
+  </section>
 
   {% if tags %}
-    <p>
-    {% for tag in tags %}
-      {%- if tag != "post" -%}
-        {% set tagUrl %}/tags/{{ tag | slugify }}/{% endset %}
-        <a data-umami-event="{{ tag }}" href="{{ tagUrl }}" rel="tag">{{ tag }}</a>
-      {%- endif -%}
-    {% endfor %}
-    </p>
-    {% if description %}
-      <p>{{ description }}</p>
-    {% endif %}
-    {% if tags %}
-      <p>
+    <div class="latest-post-tags">
       {% for tag in tags %}
-        {%- if tag != "post" -%}
+        {%- if tag != "post" and tag != "note" -%}
           {% set tagUrl %}/tags/{{ tag | slugify }}/{% endset %}
-          <a data-umami-event="{{ tag }}" href="{{ tagUrl }}" rel="tag">{{ tag }}</a>
+          <a class="latest-post-tag" data-umami-event="{{ tag }}" href="{{ tagUrl }}" rel="tag">{{ tag }}</a>
         {%- endif -%}
       {% endfor %}
-      </p>
-    {% endif %}
-  </div>
-  <div class="timeline-item-images">
-    {{ content | safe }}
-  </div>
-</div>
+    </div>
+  {% endif %}
+</article>
 
-{% if prevPost.url %}
+{% set prevItem = prevPost or prevNote %}
+{% set nextItem = nextPost or nextNote %}
+
+{% if prevItem.url %}
   <p class="ctr">
     <strong>Previous</strong>:
-    <a data-umami-event="{{ prevPost.data.title }}" class="previous" href="{{ prevPost.url }}">{{ prevPost.data.date | readableDate }}: {{ prevPost.data.title }}</a>
+    <a data-umami-event="{{ prevItem.data.title }}" class="previous" href="{{ prevItem.url }}">
+      {{ prevItem.data.date | readableDate }}: {{ prevItem.data.title }}
+    </a>
   </p>
 {% endif %}
-{% if nextPost.url %}
+{% if nextItem.url %}
   <p class="ctr">
     <strong>Next</strong>: 
-    <a data-umami-event="{{ nextPost.data.title }}" class="next" href="{{ nextPost.url }}">{{ nextPost.data.date | readableDate }}: {{ nextPost.data.title }}</a>
+    <a data-umami-event="{{ nextItem.data.title }}" class="next" href="{{ nextItem.url }}">
+      {{ nextItem.data.date | readableDate }}: {{ nextItem.data.title }}
+    </a>
   </p>
 {% endif %}
 
 <nav>
-  <a data-umami-event="Back to Timeline" href="/timeline/{{ url }}">← back to timeline</a>
+  {% if section == "notes" %}
+    <a data-umami-event="Back to Notes" href="/notes/">← Notes index</a>
+  {% else %}
+    <a data-umami-event="Back to Timeline" href="/timeline/">← Timeline index</a>
+  {% endif %}
 </nav>
 
 <script>
