@@ -1,111 +1,9 @@
 /* ============================================
-   HOMEPAGE.CSS - Ghost-style Homepage Layout
+   HOMEPAGE.CSS - Component-specific styles
    ============================================
-   All styles specific to the homepage redesign.
-   Consolidated in one file for easier editing.
+   Styles for homepage components (grids, newsletter).
+   Global article layout styles are in inline.css.
    ============================================ */
-
-/* OVERRIDE: inline.css:63-65 - article margin-top */
-/* Original: article { margin-top: 7em; } */
-/* Homepage articles need different spacing for inline display */
-.home article.latest-post-article {
-  margin-top: 2em;
-  max-width: 1120px;
-  margin-left: auto;
-  margin-right: auto;
-  padding: 0 1em;
-}
-
-/* ============================================
-   LATEST POST SECTION
-   ============================================ */
-
-.latest-post-header {
-  margin-bottom: 2em;
-  text-align: left;
-}
-
-.latest-post-tags {
-  margin-bottom: 1em;
-}
-
-.latest-post-tag {
-  display: inline-block;
-  font-family: var(--font-secondary);
-  font-size: 0.75rem;
-  text-transform: uppercase;
-  letter-spacing: 0.1em;
-  padding: 0.4em 0.8em;
-  background-color: transparent;
-  color: var(--blue);
-  border: 1px solid var(--blue);
-  border-radius: 0.25em;
-  text-decoration: none;
-  margin-right: 0.5em;
-  transition: all 0.3s ease;
-}
-
-.latest-post-tag:hover {
-  background-color: var(--blue);
-  color: var(--white);
-}
-
-/* OVERRIDE: inline.css:76-81 - h1 styling for latest post */
-/* Original: h1 { font-family: var(--font-secondary); font-weight: 700; font-size: 2em; margin: 0; } */
-.latest-post-title {
-  font-family: var(--font-secondary);
-  font-weight: 700;
-  font-size: 2rem;
-  line-height: 1.2;
-  margin: 0.5em 0;
-  color: var(--black);
-}
-
-.latest-post-excerpt {
-  font-family: var(--font-secondary);
-  font-size: 1.25rem;
-  line-height: 1.5;
-  color: var(--gray);
-  margin: 1em 0 2em;
-}
-
-.latest-post-image {
-  margin: 2em 0;
-  text-align: center;
-}
-
-.latest-post-image img {
-  width: 100%;
-  max-width: 768px;
-  height: auto;
-  border-radius: 0.5em;
-}
-
-.latest-post-content {
-  color: var(--black);
-  font-family: var(--font-primary);
-  font-size: 1.1rem;
-  line-height: 1.75;
-  margin: 0 auto;
-  width: 768px;
-}
-
-.latest-post-content p {
-  margin: 1.5em 0;
-}
-
-.latest-post-content img {
-  height: auto;
-  max-width: 100%;
-  margin: 2em 0;
-  border-radius: 0.5em;
-}
-
-.latest-post-content h2,
-.latest-post-content h3 {
-  margin-top: 2em;
-  margin-bottom: 1em;
-}
 
 /* ============================================
    RECENT POSTS GRID SECTION
@@ -281,26 +179,6 @@
 .newsletter-signup-input:focus {
   outline: none;
   border-color: var(--blue);
-}
-
-.newsletter-signup-button {
-  padding: 0.875em 2em;
-  margin: 0;
-  font-size: 1rem;
-  font-family: var(--font-secondary);
-  font-weight: 600;
-  background-color: var(--blue);
-  color: var(--white);
-  border: 1px solid var(--blue);
-  border-radius: 0.25em;
-  cursor: pointer;
-  transition: all 0.3s ease;
-  white-space: nowrap;
-}
-
-.newsletter-signup-button:hover {
-  background-color: var(--darkblue);
-  border-color: var(--darkblue);
 }
 
 .newsletter-signup-disclaimer {
