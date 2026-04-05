@@ -22,7 +22,7 @@ $(document).ready(function () {
 });
 
 function showHidden() {
-  var hiddenText = $(this).find(".hidden").html();
+  var hiddenText = $(this).closest(".text-timeline-entry").find(".hidden").html();
   $("#timeline-detail").html(hiddenText);
 }
 
