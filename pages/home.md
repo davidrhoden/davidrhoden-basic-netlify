@@ -64,7 +64,7 @@ image: /static/img/homepage-featured/bottlecap.jpg
   <div class="grid-square">
     <a data-umami-event="home-animation-4-link" href="/animations/">
     <div class="overlay">You can't hide your flyin&rsquo; eyes.</div>
-    <img src="/static/img/homepage-featured/flyingeyes140709.gif" alt="animation of man removing eyes and throwing them, and they bounce."></a></div>
+    <img src="/static/img/homepage-featured/flying-eyes-july-9-2014.gif" alt="animation of man removing eyes and throwing them, and they bounce."></a></div>
   <div class="grid-square">
     <a data-umami-event="home-paintings-7-link" href="/tags/paintings/">
     <div class="overlay">Kinda speaks for itself.</div>

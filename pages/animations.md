@@ -137,7 +137,9 @@ eleventyNavigation:
 
 ![scratch animation by David Rhoden](/static/img/animations/ampuscratch.gif)
 
-<!-- ![Talker animation by David Rhoden](/static/img/animations/talkers.gif) -->
+-----
+
+![Bugs animation by David Rhoden](/static/img/animations/bugs-apr-12-2014.gif
 
 <!-- ![Rar animation by David Rhoden](/static/img/animations/dailyRar02.gif) -->
 
