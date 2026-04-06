@@ -52,7 +52,6 @@ eleventyNavigation:
 
 -----
 
-
 <div class="animation-individual">
 <video autoplay loop muted>
   <source type="video/mp4" src="/static/img/animations/mp4s/alienandfriend720x720.mp4"></source>
@@ -138,6 +137,9 @@ eleventyNavigation:
 
 ![scratch animation by David Rhoden](/static/img/animations/ampuscratch.gif)
 
+-----
+
+![Bugs animation by David Rhoden](/static/img/animations/bugs-apr-12-2014.gif
 
 <!-- ![Rar animation by David Rhoden](/static/img/animations/dailyRar02.gif) -->
 

@@ -23,4 +23,4 @@ Eric and Robin asked me to be part of their 'tit Rex float. (If you don't know, 
 
 Here's what I made: magnetic miniature Roman-themed rock flyers.
 
-![miniature rock fliers designed by David Rhoden for tee Rex parade, February 17, 2017](/static/img/design/tinyrockfliers.jpg "miniature rock fliers designed by David Rhoden for tee Rex parade, February 17, 2017")
+![miniature rock fliers designed by David Rhoden for tee Rex parade, February 17, 2017](/static/img/designs/tinyrockfliers.jpg "miniature rock fliers designed by David Rhoden for tee Rex parade, February 17, 2017")

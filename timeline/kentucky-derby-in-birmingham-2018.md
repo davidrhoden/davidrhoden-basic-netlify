@@ -18,14 +18,14 @@ tags:
 
 ---
 
-![a rail at the Birmingham dog track](/static/img/timeline/dogtrackrail-may-5-2018.jpg "a rail at the Birmingham dog track")
+![a rail at the Birmingham dog track](/static/img/timeline/birmingham-may-5-2018/dog-track-rail-may-5-2018.jpg "a rail at the Birmingham dog track")
 
 Gina and I went to Birmingham to deliver a commissioned piece to the buyer but also for fun.
 
 The Kentucky Derby fell on the day we were there and we went to the city dog track to watch it. It was absolutely desolate. Broken glass everywhere. The race was on inside, projected on a white wall. Outside, the dogs were racing but the only other people in the stands were three black guys about our age. We stopped to talk to them. When we said we were from New Orleans one of them said he'd been there and paid twenty dollars for a hot dog on New Years Eve and would never go back.
 
-![a tractor at the Birmingham dog track](/static/img/timeline/dogtracktractor-may-5-2018.jpg "a tractor at the Birmingham dog track")
+![a tractor at the Birmingham dog track](/static/img/timeline/birmingham-may-5-2018/dog-track-tractor-may-5-2018.jpg "a tractor at the Birmingham dog track")
 
 Justify was the winner. I don't remember who we bet on (not Justify) but we did not win anything. We played pool and when we went to pay for our table they said don't worry, it's on the house. So I guess we _did_ win.
 
-![a window at the Birmingham dog track](/static/img/timeline/dogtrackwindow-may-5-2018.jpg "a window at the Birmingham dog track")
+![a window at the Birmingham dog track](/static/img/timeline/birmingham-may-5-2018/dog-track-window-may-5-2018.jpg "a window at the Birmingham dog track")
