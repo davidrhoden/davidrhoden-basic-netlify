@@ -40,6 +40,11 @@
   margin-bottom: 2em;
 }
 
+.recent-posts-grid article {
+  margin-top: 2em;
+}
+
+
 .recent-post-card {
   background-color: var(--white);
   border-radius: 0.5em;
