@@ -48,10 +48,6 @@ eleventyNavigation:
 
 -----
 
-![Thumbs Up animation by David Rhoden](/static/img/animations/thumbs-up.gif)
-
------
-
 
 <div class="animation-individual">
 <video autoplay loop>
