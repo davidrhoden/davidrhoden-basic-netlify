@@ -92,15 +92,11 @@ When I go to Holt, I see where Gina gets some of her inspiration from.
 
 ![With Gina Phillips at Holt Cemetery in New Orleans](/static/img/timeline/holt-cemetery-dec-20-2021/holt-cemetery-dec-20-2021-33.jpg)
 
-![With Gina Phillips at Holt Cemetery in New Orleans](/static/img/timeline/holt-cemetery-dec-20-2021/holt-cemetery-dec-20-2021-34.jpg)
-
 ![With Gina Phillips at Holt Cemetery in New Orleans](/static/img/timeline/holt-cemetery-dec-20-2021/holt-cemetery-dec-20-2021-35.jpg)
 
 ![With Gina Phillips at Holt Cemetery in New Orleans](/static/img/timeline/holt-cemetery-dec-20-2021/holt-cemetery-dec-20-2021-36.jpg)
 
 ![With Gina Phillips at Holt Cemetery in New Orleans](/static/img/timeline/holt-cemetery-dec-20-2021/holt-cemetery-dec-20-2021-37.jpg)
-
-![With Gina Phillips at Holt Cemetery in New Orleans](/static/img/timeline/holt-cemetery-dec-20-2021/holt-cemetery-dec-20-2021-38.jpg)
 
 ![With Gina Phillips at Holt Cemetery in New Orleans](/static/img/timeline/holt-cemetery-dec-20-2021/holt-cemetery-dec-20-2021-39.jpg)
 
