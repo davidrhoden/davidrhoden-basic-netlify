@@ -605,35 +605,35 @@ textarea {
 }
 
 #subscribe-to-buttondown-list {
-  background-color: var(--blue) !important;
-  border: 1px solid var(--blue) !important;
-  color: var(--white) !important;
+  background-color: var(--blue);
+  border: 1px solid var(--blue);
+  color: var(--white);
   cursor: pointer;
   transition: background-color 0.3s ease, border-color 0.3s ease;
 }
 
 #subscribe-to-buttondown-list:hover {
-  background-color: var(--orangered) !important;
-  border-color: var(--orangered) !important;
+  background-color: var(--orangered);
+  border-color: var(--orangered);
 }
 
 button,
 button[type="submit"],
 input[type="submit"],
 .button {
-  background-color: lightgreen !important;
-  border: 1px solid lightgreen !important;
-  color: var(--white) !important;
+  background-color: transparent;
+  border: 1px solid transparent;
+  color: var(--white);
   cursor: pointer;
   transition: background-color 0.3s ease, border-color 0.3s ease;
 }
 
-button:hover,
+button:hover:not(.nav-link-search):not(.hamburger),
 button[type="submit"]:hover,
 input[type="submit"]:hover,
 .button:hover {
-  background-color: var(--orangered) !important;
-  border-color: var(--orangered) !important;
+  background-color: var(--orangered);
+  border-color: var(--orangered);
 }
 
 .order-form input {
