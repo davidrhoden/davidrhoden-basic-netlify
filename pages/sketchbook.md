@@ -6,9 +6,6 @@ image: /static/img/sketchbook/aah-guy-wide.jpg
 excerpt: Digital and analog sketches and doodles from the sketchbook of New Orleans-based artist David Rhoden.
 layout: layouts/page-gallery.njk
 navtitle: sketchbook
-eleventyNavigation:
-  key: Sketchbook
-  order: 5
 ---
 
 1. ![stop laughing at my sixty-nine t-shirt sketchbook entry by David Rhoden](/static/img/sketchbook/stop-laughing-at-my-sixty-nine-t-shirt-feb-5-2026.jpeg?nf_resize=fit&h=550)
