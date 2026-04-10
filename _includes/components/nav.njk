@@ -1,3 +1,9 @@
 <nav>
-  {{ collections.all | eleventyNavigation | eleventyNavigationToHtml | safe }}
+  <ul>
+  {%- for entry in collections.all | eleventyNavigation %}
+    <li>
+      <a href="{{ entry.url }}"{% if entry.tooltip %} data-tooltip="{{ entry.tooltip }}"{% endif %}{% if entry.url.startsWith('http') %} target="_blank" rel="noopener noreferrer"{% endif %}>{{ entry.title }}</a>
+    </li>
+  {%- endfor %}
+  </ul>
 </nav>

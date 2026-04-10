@@ -1,15 +1,9 @@
 ---
-layout: layouts/home-index.njk
-title: Notes/Now
-date: 2025-10-25
-excerpt: "Notes about what's on my mind at this particular moment."
-summary: "Notes about what's on my mind at this particular moment."
-image: /static/img/notes/gtaIV.jpg
-permalink: "/{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber + 1 }}/{% endif %}index.html"
-pagination:
-  data: collections.timeline
-  size: 3
-  alias: timelinePosts
+layout: layouts/home.njk
+title: Home
+date: 2023-05-11T00:00:00.000Z
+permalink: /
+excerpt: Paintings, illustrations, animations, fun. Based in New Orleans, Louisiana.
+summary: Paintings, illustrations, animations, fun. Based in New Orleans, Louisiana.
+image: /static/img/homepage-featured/bottlecap.jpg
 ---
-<div>
-</div>
