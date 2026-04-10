@@ -8,6 +8,8 @@ image: https://davidrhoden.com/static/img/representative-paintings.jpg
 eleventyNavigation:
   key: Art For Sale
   order: 1
+  url: https://thisismyhappening.com
+  tooltip: "See my paintings for sale at my other site, thisismyhappening.com."
 ---
 
 <div class="timeline-item">

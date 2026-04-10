@@ -14,4 +14,5 @@ pagination:
 eleventyNavigation:
   key: Notes/Now
   order: 13
+  tooltip: "Thoughts and current interests"
 ---

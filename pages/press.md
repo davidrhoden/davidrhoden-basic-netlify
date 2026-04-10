@@ -7,6 +7,7 @@ summary: Every once in a while, _The New York Times_ or _The Washington Post_ wa
 eleventyNavigation:
   key: Press
   order: 10
+  tooltip: "I get interviewed by newspapers and magazines from time to time."
 ---
 
 <div class="timeline-item">

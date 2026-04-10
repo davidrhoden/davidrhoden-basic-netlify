@@ -7,6 +7,7 @@ excerpt: "The resume of David Rhoden, a web developer, web designer, and digital
 eleventyNavigation:
   key: Résumé
   order: 12
+  tooltip: "I have worked so many more jobs than this, but these are the jobs that paid the most."
 ---
 
 <article>

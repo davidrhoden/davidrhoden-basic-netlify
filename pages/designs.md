@@ -9,6 +9,7 @@ layout: layouts/page-bricks.njk
 eleventyNavigation:
   key: Designs
   order: 7
+  tooltip: "Graphic design is my passion."
 ---
 
 - [![postcard for "Out Of The Boil".](/static/img/designs/out-of-the-boil-card-jun-25-2024.jpg)](/static/img/designs/out-of-the-boil-card-jun-25-2024.jpg)

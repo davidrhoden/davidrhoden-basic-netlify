@@ -9,6 +9,7 @@ layout: layouts/page-bricks.njk
 eleventyNavigation:
   key: Illustrations
   order: 5
+  tooltip: "I was a commercial illustrator in New York City and New Orleans around the turn of the 21st century."
 ---
 
 - [![postcard for "Out Of The Boil".](/static/img/designs/out-of-the-boil-4x6-may-16-2024.png)](/static/img/designs/out-of-the-boil-4x6-may-16-2024.png)

@@ -9,6 +9,7 @@ layout: layouts/page-bricks.njk
 eleventyNavigation:
   key: Paintings
   order: 3
+  tooltip: "View original paintings"
 ---
 
 <div class="column left">

@@ -9,6 +9,7 @@ image: /static/img/illustrations/holding-anger-paper-print-aug-4-2024.jpg
 eleventyNavigation:
   key: Order a print
   order: 14
+  tooltip: "Purchase 'I'm holding in a lot of anger' print"
 ---
 
 # Order a print
