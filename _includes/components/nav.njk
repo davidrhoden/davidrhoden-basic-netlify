@@ -1,9 +1,14 @@
 <nav>
   <ul>
-  {%- for entry in collections.all | eleventyNavigation %}
+  {%- for section in navigation %}
+    {%- if section.heading %}
+    <li class="menu-header">{{ section.heading }}</li>
+    {%- endif %}
+    {%- for link in section.links %}
     <li>
-      <a href="{{ entry.url }}"{% if entry.tooltip %} data-tooltip="{{ entry.tooltip }}"{% endif %}{% if entry.url.startsWith('http') %} target="_blank" rel="noopener noreferrer"{% endif %}>{{ entry.title }}</a>
+      <a href="{{ link.url }}"{% if link.tooltip %} data-tooltip="{{ link.tooltip }}"{% endif %}{% if link.external %} target="_blank" rel="noopener noreferrer"{% endif %}>{{ link.title }}</a>
     </li>
+    {%- endfor %}
   {%- endfor %}
   </ul>
 </nav>
