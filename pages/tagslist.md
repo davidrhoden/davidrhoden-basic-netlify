@@ -6,5 +6,5 @@ permalink: tagslist/index.html
 eleventyNavigation:
   key: Tags List
   order: 17
-  tooltip: "find posts sorted by every subject I've covered on this website."
+  tooltip: "All posts, sorted by every subject I've covered on this website."
 ---

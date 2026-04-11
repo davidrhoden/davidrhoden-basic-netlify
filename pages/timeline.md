@@ -11,5 +11,5 @@ pagination:
 eleventyNavigation:
   key: Timeline
   order: 15
-  tooltip: "Chronological archive of posts"
+  tooltip: "My whole life story, in blog posts."
 ---

@@ -9,5 +9,5 @@ image: /static/img/site/gonna-sign-up-jan-9-2024.jpg
 eleventyNavigation:
   key: Get in touch
   order: 14
-  tooltip: "Send me a message or sign up for my (very fun) online newsletter."
+  tooltip: "Send me a message, or sign up for my (very fun) online newsletter."
 ---

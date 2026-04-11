@@ -14,5 +14,5 @@ pagination:
 eleventyNavigation:
   key: Notes/Now
   order: 13
-  tooltip: "Thoughts and current interests"
+  tooltip: "Immediate thoughts on the news, technology, or whatever I want to write about."
 ---

@@ -477,6 +477,11 @@ header nav li a {
   font-size: 1.8rem;
 }
 
+header nav li a[href],
+header nav li a[href]:visited {
+  color: var(--blue);
+}
+
 header nav li a[href]:not(:hover) {
   text-decoration: none;
 }
@@ -484,6 +489,12 @@ header nav li a[href]:not(:hover) {
 header nav li a[data-current="current item"] {
   font-weight: 700;
   text-decoration: underline;
+}
+
+header nav li.menu-header {
+  margin-top: 0.5em;
+  opacity: 1;
+  transform: none;
 }
 
 .menu-header {
@@ -1151,12 +1162,21 @@ span.fade:hover {
     position: relative;
   }
 
+  header nav li a[href],
+  header nav li a[href]:visited {
+    color: var(--blue);
+  }
+
+  header nav li.menu-header {
+    padding: 0.4em 0 0.4em 10vw;
+  }
+
   /* Desktop only: tooltip slides out to the right */
   header nav li a::after {
     content: attr(data-tooltip);
     display: inline-block;
     font-family: var(--font-secondary);
-    font-size: 2rem;
+    font-size: 1.6rem;
     color: var(--gray);
     line-height: 1.4;
     margin-left: 1em;

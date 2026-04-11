@@ -10,7 +10,7 @@ layout: layouts/page.njk
 eleventyNavigation:
   key: Animations
   order: 5
-  tooltip: "In law school a professor asked the class if we had dream jobs, and I wrote down 'animation'."
+  tooltip: "In law school a professor asked us if we had dream jobs. I wrote down 'animation'."
 ---
 
 

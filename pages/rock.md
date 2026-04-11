@@ -4,7 +4,7 @@ date: 2020-04-14T00:00:00.000Z
 permalink: /rock/index.html
 bodyClass: "rock"
 image: /static/img/rock/stacks/stacks-at-gasa-gasa-aug-11-2018.jpg
-excerpt: "A brief history of bands David Rhoden has played in, including the Stacks, All-Night Movers, Jimmy and The Wolfpack, and The Hi-Balls."
+excerpt: "Most of my bands are here. Includes The Stacks, All-Night Movers, Jimmy and The Wolfpack, and The Hi-Balls."
 ---
 
 ## The Stacks

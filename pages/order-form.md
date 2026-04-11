@@ -9,7 +9,7 @@ image: /static/img/illustrations/holding-anger-paper-print-aug-4-2024.jpg
 eleventyNavigation:
   key: Order a print
   order: 14
-  tooltip: "Purchase 'I'm holding in a lot of anger' print"
+  tooltip: "Buy my 'I'm Holding In A Lot Of Anger' print. It's $25 with shipping."
 ---
 
 # Order a print
@@ -24,7 +24,7 @@ eleventyNavigation:
 
   These prints are on 140lb. Strathmore Mixed Media sheets measuring 11" x 14" (the image is about 7" x 10", so you can trim the sheet if you want to).
 
-  They are signed but not numbered. Edition of 27. Hand printed by me and Melanie Koch.
+  They are signed but not numbered. Edition of 27. Hand printed (silkscreened) by me and Melanie Koch.
 
   To order, please Venmo $25 ($20 plus $5 P&H) to @davidrhoden, and please fill out the form below so I have your mailing information.
 

@@ -9,7 +9,7 @@ image: /static/img/about/davechartroomcrop.jpg
 eleventyNavigation:
   key: About
   order: 0
-  tooltip: "A brief narrative about what I think I was put on the planet for, and some pictures of me that I anm not embarrassed about."
+  tooltip: "A brief narrative about what I think I was put on the planet for. With pictures."
 ---
 
 <div class="timeline-item">
