@@ -99,8 +99,42 @@ $(document).ready(function () {
     $("#caption").html(altText);
   });
 
+  // Cookie helper functions
+  function setCookie(name, value, days) {
+    const date = new Date();
+    date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+    const expires = "expires=" + date.toUTCString();
+    document.cookie = name + "=" + value + ";" + expires + ";path=/";
+  }
+
+  function getCookie(name) {
+    const nameEQ = name + "=";
+    const ca = document.cookie.split(';');
+    for(let i = 0; i < ca.length; i++) {
+      let c = ca[i];
+      while (c.charAt(0) == ' ') c = c.substring(1, c.length);
+      if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
+    }
+    return null;
+  }
+
+  // Apply saved preference on page load
+  const savedSort = getCookie('tagsListSort');
+  if (savedSort) {
+    if (savedSort === 'sort_by_count') {
+      $(".tag-lists").toggleClass("active");
+      $(".tags-list").toggleClass("active");
+    }
+  }
+
   $(".tag-lists").on("click", function (event) {
     event.preventDefault();
+    const clickedHref = $(this).attr("href");
+    const sortPreference = clickedHref === "#tags-number-of-posts" ? "sort_by_count" : "sort_alphabetical";
+    
+    // Set cookie for 6 months (180 days)
+    setCookie('tagsListSort', sortPreference, 180);
+    
     $(".tag-lists").toggleClass("active");
     $(".tags-list").toggleClass("active");
   });
