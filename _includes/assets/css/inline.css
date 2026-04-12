@@ -71,7 +71,9 @@ article.latest-post-article {
 }
 
 article {
-  max-width: 768px;
+  max-width: 1120px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 article img {
@@ -474,7 +476,7 @@ header nav.is-active li:nth-child(15) { transition-delay: 1.32s; }
 
 header nav li a {
   font-family: var(--font-secondary);
-  font-size: 1.8rem;
+  font-size: 1.75rem;
 }
 
 header nav li a[href],
@@ -492,20 +494,10 @@ header nav li a[data-current="current item"] {
 }
 
 header nav li.menu-header {
-  margin-top: 0.5em;
-  opacity: 1;
-  transform: none;
-}
-
-.menu-header {
-  background-color: var(--orangered);
-  color: white;
+  color: var(--black);
   font-family: var(--font-secondary);
-  font-size: 0.9em;
-  font-weight: 600;
-  padding: 8px;
-  width: 100%;
-
+  font-size: 1.75rem;
+  margin-top: 0.3em;
 }
 
 .home {
@@ -990,21 +982,6 @@ span.fade:hover {
     padding: 1em 2em;
   }
 
-  /* About page specific styles */
-  .about .container {
-    max-width: 1120px;
-    margin: 0 auto;
-  }
-
-  .about .timeline-item {
-    flex-direction: row;
-  }
-
-  .about img {
-    width: 768px;
-    height: auto;
-  }
-
     /* For Sale page specific styles */
   .forsale .container {
     max-width: 1120px;
@@ -1145,6 +1122,34 @@ span.fade:hover {
   }
 }
 
+/* About page layout */
+.about-intro {
+  margin-bottom: 2rem;
+}
+
+.about.flex {
+  border-bottom: 1px solid #e0e0e0;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 2rem;
+  padding-bottom: 2rem;
+}
+
+.about .left {
+  order: 2;
+}
+
+.about .right {
+  order: 1;
+  margin-bottom: 1rem;
+}
+
+.about img {
+  display: block;
+  height: auto;
+  max-width: 100%;
+}
+
 @media screen and (width >=960px) {
   :root {
     font-size: 1.1rem;
@@ -1153,12 +1158,12 @@ span.fade:hover {
   header nav li {
     display: block;
     margin: 0;
-    padding: 0.4em 0 0.4em 10vw;
+    padding: 0.3em 0 0.3em 1em;
   }
 
   header nav li a {
     font-family: var(--font-secondary);
-    font-size: 2rem;
+    font-size: 1.75rem;
     position: relative;
   }
 
@@ -1168,7 +1173,8 @@ span.fade:hover {
   }
 
   header nav li.menu-header {
-    padding: 0.4em 0 0.4em 10vw;
+    font-size: 1.75rem;
+    padding: 0.3em 0;
   }
 
   /* Desktop only: tooltip slides out to the right */
@@ -1176,7 +1182,7 @@ span.fade:hover {
     content: attr(data-tooltip);
     display: inline-block;
     font-family: var(--font-secondary);
-    font-size: 1.6rem;
+    font-size: 1.5rem;
     color: var(--gray);
     line-height: 1.4;
     margin-left: 1em;
@@ -1265,6 +1271,29 @@ span.fade:hover {
 
   .left {
     margin-right: 1em;
+  }
+
+  /* About page desktop layout */
+  .about-intro {
+    max-width: 768px;
+  }
+
+  .about.flex {
+    align-items: center;
+    display: grid;
+    gap: 2rem;
+    grid-template-columns: 1fr 2fr;
+    margin-bottom: 3rem;
+    max-width: 1120px;
+  }
+
+  .about .left {
+    order: 0;
+  }
+
+  .about .right {
+    margin-bottom: 0;
+    order: 0;
   }
 
   .image {
@@ -1483,28 +1512,34 @@ span.fade:hover {
 }
 
 .onetalker-bubble {
-  position: absolute;
-  bottom: 65%;
-  right: 0;
-  width: 200px;
-  height: 133px;
+  align-items: center;
   background-image: url('/static/img/site/onetalker-speech-bubble-var-blue.png');
-  background-size: 100% 100%;
-  background-repeat: no-repeat;
   background-position: center;
-  padding: 1.75rem 1rem 0.75rem 1rem;
-  margin-bottom: 0.5rem;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  bottom: 65%;
   display: flex;
-  align-items: flex-start;
+  height: 133px;
   justify-content: center;
-  white-space: normal;
+  margin-bottom: 0.5rem;
   opacity: 0;
-  visibility: hidden;
+  padding: 1rem;
+  position: absolute;
+  right: 0;
   transition: opacity 0.3s ease, visibility 0.3s ease;
+  visibility: hidden;
+  width: 200px;
+}
+
+.onetalker-bubble-text {
+  color: white;
   font-size: calc(1.1rem + 2px);
   font-weight: 600;
+  line-height: 1;
+  margin: 0;
+  margin-top:-1rem;
   text-align: center;
-  color: white;
+  white-space: normal;
 }
 
 .onetalker-trigger.modal-open .onetalker-bubble {
