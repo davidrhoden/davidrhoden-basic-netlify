@@ -720,6 +720,14 @@ ol li::before {
   z-index: 2;
 }
 
+/* Paintings page - square images */
+.column.right ol li img {
+  display: block;
+  height: 300px;
+  object-fit: cover;
+  width: 300px;
+}
+
 .animation-individual,
 .animation-individual video {
   text-align: center;
