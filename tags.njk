@@ -14,7 +14,7 @@ eleventyComputed:
 
 ---
 
-<h1>{{ tag }}</h1>
+<h1>Posts that mention {{ tag }}.</h1>
 
 {% set postslist = collections[ tag ] %}
 
@@ -23,3 +23,6 @@ eleventyComputed:
 <nav>
   <a href="/timeline/{{ url }}">← Timeline index</a>
 </nav>
+<div class="container">
+{% include "components/buttondown.njk" %}
+</div>

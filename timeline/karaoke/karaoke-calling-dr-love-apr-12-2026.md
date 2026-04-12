@@ -7,7 +7,7 @@ image: /static/img/karaoke/calling-dr-love-apr-12-2026.png
 tags:
   - cartoons
   - karaoke
-  - Kiss
+  - KISS
   - "Calling Dr. Love"
 
 ---
