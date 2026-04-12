@@ -71,7 +71,7 @@ module.exports = [
       {
         title: "Press",
         url: "/press/",
-        tooltip: "I get interviewed by newspapers and magazines from time to time."
+        tooltip: "I get interviewed by newspapers and magazines from time to time. Really!"
       }
     ]
   },
