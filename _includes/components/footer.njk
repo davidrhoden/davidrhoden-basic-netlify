@@ -2,7 +2,9 @@
   <!-- Onetalker trigger positioned relative to footer -->
   <div id="onetalker-trigger" class="onetalker-trigger">
     <div class="onetalker-image" role="img" aria-label="One Talker"></div>
-    <div class="onetalker-bubble">Are you on my<br>mailing list?</div>
+    <div class="onetalker-bubble">
+      <p class="onetalker-bubble-text">{% if section == 'contact' %}Do it! Sign up!<br>You know you want to!{% else %}Are you on my<br>mailing list?{% endif %}</p>
+    </div>
   </div>
 
   <div class="flex">
