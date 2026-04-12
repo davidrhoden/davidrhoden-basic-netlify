@@ -720,8 +720,9 @@ ol li::before {
   z-index: 2;
 }
 
-/* Paintings page - square images */
-.column.right ol li img {
+/* Paintings and Designs pages - square images */
+.column.right ol li img,
+.column.right ul li img {
   display: block;
   height: 300px;
   object-fit: cover;
