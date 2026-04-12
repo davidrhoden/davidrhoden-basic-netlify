@@ -18,6 +18,7 @@ tags:
 ---
 
 ![David Rhoden at his booth at Arabi Arts Park, April 11, 2026.](/static/img/timeline/david-at-arabi-arts-park-apr-11-2026.jpeg)
+Photo by Aimee S.
 
 I participated in an art market at the Arts Park on St. Claude Avenue in Arabi. My "booth" turned out to be the most elaborate one, in terms of visual splendor.
 
@@ -26,3 +27,12 @@ It was a pretty quiet day. They had no signs for this event! People passing by m
 ![Many-Eyed Monster painting by David Rhoden](/static/img/paintings/many-eyes-dec-13-2020.jpg)
 
 I sold this guy. I think he went to a good home.
+
+-----
+
+There was a little bit too much down time, especially early in the day. So I sketched on my iPad.
+
+![Mr. Pop sketches by David Rhoden](/static/img/sketchbook/Mr._Pop_1.png)
+
+![Mr. Pop sketches by David Rhoden](/static/img/sketchbook/Mr._Pop_2.png)
+
