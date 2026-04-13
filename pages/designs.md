@@ -13,10 +13,10 @@ eleventyNavigation:
 ---
 
 - [![postcard for "Out Of The Boil".](/static/img/designs/out-of-the-boil-card-jun-25-2024.jpg?nf_resize=smartcrop&w=300&h=300)](/static/img/designs/out-of-the-boil-card-jun-25-2024.jpg)
-- ![The Stacks New Orleans: Holy Diver, June 27 2024](/static/img/designs/stacks-flyer-lufofu-color-1-jun-27-2024.jpg?nf_resize=smartcrop&w=300&h=300 "The Stacks New Orleans: Holy Diver, June 27 2024")
-- ![The Stacks New Orleans: Pirogue's Whiskey Bayou](/static/img/designs/stacks-flyer-pirogues-960w-jun-15-2024.jpg?nf_resize=smartcrop&w=300&h=300 "The Stacks New Orleans: Pirogue's Whiskey Bayou")
-- ![karaoke booklet, April 7 2024](/static/img/designs/karaoke-booklet-apr-7-2024.jpeg?nf_resize=smartcrop&w=300&h=300 "karaoke cartoon booklet")
-- ![Show poster Stacks and Happy Talk at Checkpoint Charlie April 1 2024](/static/img/designs/Stacks-HTB-checkpoints-apr-13-2024.jpeg?nf_resize=smartcrop&w=300&h=300 "Stacks and Happy Talk at Checkpoint Charlie April 1 2024")
+- [![The Stacks New Orleans: Holy Diver, June 27 2024](/static/img/designs/stacks-flyer-lufofu-color-1-jun-27-2024.jpg?nf_resize=smartcrop&w=300&h=300)](/static/img/designs/stacks-flyer-lufofu-color-1-jun-27-2024.jpg)
+- [![The Stacks New Orleans: Pirogue's Whiskey Bayou](/static/img/designs/stacks-flyer-pirogues-960w-jun-15-2024.jpg?nf_resize=smartcrop&w=300&h=300)](/static/img/designs/stacks-flyer-pirogues-960w-jun-15-2024.jpg)
+- [![karaoke booklet, April 7 2024](/static/img/designs/karaoke-booklet-apr-7-2024.jpeg?nf_resize=smartcrop&w=300&h=300)](/static/img/designs/karaoke-booklet-apr-7-2024.jpeg)
+- [![Show poster Stacks and Happy Talk at Checkpoint Charlie April 1 2024](/static/img/designs/Stacks-HTB-checkpoints-apr-13-2024.jpeg?nf_resize=smartcrop&w=300&h=300)](/static/img/designs/Stacks-HTB-checkpoints-apr-13-2024.jpeg)
 - [![Show poster design.](/static/img/designs/stacks-holy-diver-flyer-2-sq-jan-25-2024.png?nf_resize=smartcrop&w=300&h=300)](/static/img/designs/stacks-holy-diver-flyer-2-sq-jan-25-2024.png)
 - [![Show poster design.](/static/img/designs/Sister-Street-Fest-2023-times.png?nf_resize=smartcrop&w=300&h=300)](/static/img/designs/Sister-Street-Fest-2023-times.png)
 - [![Show poster design.](/static/img/designs/SisterStreetStage-Apr-17-2021.jpg?nf_resize=smartcrop&w=300&h=300)](/static/img/designs/SisterStreetStage-Apr-17-2021.jpg)

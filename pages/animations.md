@@ -128,7 +128,7 @@ eleventyNavigation:
 
 -----
 
-![You Can't Hide Your Flyin' Eyes animation by David Rhoden](/static/img/animations/flyingeyes140709.gif)
+![You Can't Hide Your Flyin' Eyes animation by David Rhoden](/static/img/animations/flying-eyes-july-9-2014.gif)
 
 -----
 
