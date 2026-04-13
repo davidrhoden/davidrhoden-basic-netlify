@@ -1,0 +1,263 @@
+/* ============================================
+   HORIZONTAL GALLERY LAYOUT
+   ============================================
+   Horizontal scrolling portfolio gallery with
+   smooth scroll wheel navigation. Arrow buttons
+   snap images to center. Arrows hide at ends.
+   ============================================ */
+
+/* Main container */
+.horizontal-gallery-page {
+  overflow: hidden;
+}
+
+.horizontal-gallery-page main {
+  margin-top: 0;
+}
+
+.horizontal-gallery-main {
+  height: 100vh;
+  overflow: hidden;
+  position: relative;
+}
+
+.horizontal-gallery-container {
+  align-items: center;
+  display: flex;
+  height: 100vh;
+  overflow-x: auto;
+  overflow-y: hidden;
+  scroll-behavior: smooth;
+  -webkit-overflow-scrolling: touch;
+}
+
+/* Hide scrollbar but keep functionality */
+.horizontal-gallery-container::-webkit-scrollbar {
+  display: none;
+}
+
+.horizontal-gallery-container {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+/* Gallery items (converted from markdown list items) */
+.horizontal-gallery-container ul,
+.horizontal-gallery-container ol {
+  align-items: center;
+  display: flex;
+  height: 100%;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.horizontal-gallery-container li {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  justify-content: center;
+  padding: 0 50px;
+}
+
+/* Handle text content before list (like intro text) */
+.horizontal-gallery-container > div:not(.gallery-end-marker),
+.horizontal-gallery-container > p {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  justify-content: center;
+  padding: 0 50px;
+}
+
+/* Images */
+.horizontal-gallery-container img {
+  height: 60vh;
+  max-width: 80vw;
+  object-fit: contain;
+  width: auto;
+}
+
+/* Links around images */
+.horizontal-gallery-container a {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  text-decoration: none;
+}
+
+/* Captions (from alt text) */
+.horizontal-gallery-container img[alt]::after {
+  content: attr(alt);
+}
+
+/* Alternative caption approach - add text below */
+.horizontal-gallery-container li {
+  gap: 1em;
+}
+
+/* Add caption below image using alt text */
+.horizontal-gallery-container a::after {
+  color: var(--gray, #666);
+  content: attr(title);
+  font-family: var(--font-primary, sans-serif);
+  font-size: 1rem;
+  margin-top: 1em;
+  max-width: 80vw;
+  text-align: center;
+}
+
+/* Painting metadata */
+.painting-metadata {
+  margin-top: 1.5em;
+  max-width: 80vw;
+  opacity: 0;
+  text-align: center;
+  transition: opacity 0.3s ease;
+}
+
+.horizontal-gallery-container li.centered .painting-metadata {
+  opacity: 1;
+}
+
+.painting-title {
+  color: var(--black, #000);
+  font-family: var(--font-secondary, serif);
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin: 0 0 0.5em 0;
+}
+
+.painting-details {
+  color: var(--gray, #666);
+  font-family: var(--font-primary, sans-serif);
+  font-size: 0.9rem;
+  margin: 0;
+}
+
+.painting-details span {
+  display: inline-block;
+  margin: 0 0.5em;
+}
+
+.painting-details span::before {
+  content: "• ";
+  margin-right: 0.25em;
+}
+
+.painting-details span:first-child::before {
+  content: "";
+  margin-right: 0;
+}
+
+/* Navigation arrows */
+.gallery-arrow {
+  align-items: center;
+  background-color: rgba(255, 255, 255, 0.8);
+  border: none;
+  border-radius: 50%;
+  color: var(--black, #000);
+  cursor: pointer;
+  display: flex;
+  height: 60px;
+  justify-content: center;
+  opacity: 0.5;
+  position: fixed;
+  top: 50%;
+  transform: translateY(-50%);
+  transition: opacity 0.3s ease, background-color 0.3s ease;
+  width: 60px;
+  z-index: 100;
+}
+
+.gallery-arrow:hover {
+  background-color: rgba(255, 255, 255, 0.95);
+  opacity: 1;
+}
+
+.gallery-arrow:active {
+  transform: translateY(-50%) scale(0.95);
+}
+
+.gallery-arrow-prev {
+  left: 2rem;
+  opacity: 0;
+  pointer-events: none;
+}
+
+.gallery-arrow-next {
+  right: 2rem;
+}
+
+/* Hide arrows when at start/end */
+.gallery-arrow.hidden {
+  opacity: 0;
+  pointer-events: none;
+}
+
+/* Tablet and mobile adjustments */
+@media screen and (max-width: 768px) {
+  .gallery-arrow {
+    height: 50px;
+    width: 50px;
+  }
+  
+  .gallery-arrow-prev {
+    left: 1rem;
+  }
+  
+  .gallery-arrow-next {
+    right: 1rem;
+  }
+  
+  .horizontal-gallery-container li {
+    padding: 0 50px;
+  }
+  
+  .horizontal-gallery-container img {
+    height: 60vh;
+    max-width: 90vw;
+  }
+  
+  .painting-title {
+    font-size: 1.25rem;
+  }
+  
+  .painting-details {
+    font-size: 0.85rem;
+  }
+}
+
+/* Small mobile */
+@media screen and (max-width: 480px) {
+  .gallery-arrow {
+    height: 40px;
+    opacity: 0.3;
+    width: 40px;
+  }
+  
+  .gallery-arrow svg {
+    height: 30px;
+    width: 30px;
+  }
+  
+  .painting-title {
+    font-size: 1.1rem;
+  }
+  
+  .painting-details {
+    font-size: 0.8rem;
+  }
+  
+  .painting-details span {
+    display: block;
+    margin: 0.25em 0;
+  }
+  
+  .painting-details span::before {
+    content: "";
+    margin-right: 0;
+  }
+}

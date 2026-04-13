@@ -1,0 +1,104 @@
+<!doctype html>
+<html {% if section %}data-current="{{ section }}"{% endif %} lang="en">
+  {% include "components/head.njk" %}
+  <body class="horizontal-gallery-page {% if pageType %}{{ pageType }}{% endif %} {{ page.fileSlug }} {{ pageClasses }}">
+      {% include "components/header.njk" %}
+      
+      <main class="horizontal-gallery-main">
+        <div class="horizontal-gallery-container">
+          
+          {% if useDataFile and dataFile %}
+            {# Render from data file #}
+            <ul>
+            {% set dataSource = davidrhodenbasicnetlify[dataFile] %}
+            {% for item in dataSource.paintings %}
+              <li data-painting-id="{{ loop.index0 }}">
+                <a href="{{ item.image }}" title="{{ item.title }}">
+                  <img src="{{ item.image }}" alt="{{ item.title }} by David Rhoden">
+                </a>
+                <div class="painting-metadata">
+                  <h3 class="painting-title">{{ item.title }}</h3>
+                  <p class="painting-details">
+                    {% if item.date %}
+                      <span class="painting-date">{{ item.date | justYear }}</span>
+                    {% endif %}
+                    {% if item.material %}
+                      <span class="painting-material">{{ item.material }}</span>
+                    {% endif %}
+                    {% if item.height and item.width %}
+                      <span class="painting-size">{{ item.height }}" × {{ item.width }}"</span>
+                    {% endif %}
+                    {% if item.price %}
+                      {% if item.price is number %}
+                        <span class="painting-price">${{ item.price }}</span>
+                      {% else %}
+                        <span class="painting-price">{{ item.price }}</span>
+                      {% endif %}
+                    {% endif %}
+                  </p>
+                </div>
+              </li>
+            {% endfor %}
+            </ul>
+          {% else %}
+            {# Render from markdown content #}
+            {% set contentHtml = content | safe %}
+            {{ contentHtml }}
+          {% endif %}
+          
+        </div>
+        
+        <!-- Navigation arrows -->
+        <button class="gallery-arrow gallery-arrow-prev" aria-label="Previous image" data-direction="prev">
+          <svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M25 30L15 20L25 10" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+        </button>
+        
+        <button class="gallery-arrow gallery-arrow-next" aria-label="Next image" data-direction="next">
+          <svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M15 30L25 20L15 10" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+        </button>
+      </main>
+      
+      {% include "components/footer.njk" %}
+      {% include "components/modal-search.njk" %}
+      
+      <!-- Horizontal gallery CSS -->
+      <link rel="stylesheet" href="/_includes/assets/css/horizontal-gallery.css">
+      
+      <!-- Horizontal gallery JS -->
+      <script src="/_includes/assets/js/horizontal-gallery.js" defer></script>
+      
+      <!-- Initialize Magnific Popup for horizontal gallery -->
+      <script>
+        $(document).ready(function () {
+          $(".horizontal-gallery-container ul li, .horizontal-gallery-container ol li").magnificPopup({
+            delegate: "a",
+            gallery: {
+              enabled: true,
+              navigateByImgClick: true,
+              preload: [0, 1],
+            },
+            type: "image",
+          });
+        });
+      </script>
+      
+      <!-- MicroModal for mailing list signup -->
+      <div class="modal micromodal-slide micromodal-slide-up" id="modal-onetalker" aria-hidden="true">
+        <div class="modal__overlay" tabindex="-1" data-micromodal-close>
+          <div class="modal__container onetalker-modal-container" role="dialog" aria-modal="true" aria-labelledby="modal-onetalker-title">
+            <header class="modal__header">
+              <span class="modal__title" id="modal-onetalker-title">Join My Mailing List</span>
+              <button class="modal__btn modal__btn-primary" data-micromodal-close aria-label="Close">Close</button>
+            </header>
+            <main class="modal__content" id="modal-onetalker-content">
+              {% include "components/buttondown.njk" %}
+            </main>
+          </div>
+        </div>
+      </div>
+  </body>
+</html>
