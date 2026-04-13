@@ -31,6 +31,9 @@ eleventyNavigation:
   Review of my show with Francine Judd at Dante's Kitchen.
   </div>
   <div class="right">
+
+    ![screenshot of D. Eric Bookhardt review of my show with Francie Judd at the lost but beloved restaurant in the Riverbend, Dante's Kitchen.](/static/img/press/Bookhardt-Dream-Logic-1.png)
+
   </div>
 </div>
 

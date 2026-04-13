@@ -20,7 +20,7 @@ Do y'all know the website [Genius.com](https://genius.com)? It's one of the more
 Until today. I heard an old favorite song, you might know it; it's called "Lives Of The Saints No, 135 (Naked Wife)". It's by a terrific group out of  Richmond, VA, called Honor Role. The song I transcribed came out in 1987 or 1988. I don't know if the band made it to the 1990s. But this song has aged very, very well.
 
 I remember thinking this song was great in the eighties, and every few years I'm reminded of it again, and I like it even more.
-I was pleased to notice that within an hour of my transcribing this sone, someone else came along and transcribed six more songs byt this somewhat obscure band.
+I was pleased to notice that within an hour of my transcribing this song, someone else came along and transcribed six more songs by this somewhat obscure band.
 
 Oh, the lyrics? I still think they're great, but I'm pretty sure the singer was improvising them on the spot. They don't follow a storyline, that's for sure. It's tough to apply their lessons; they're not aphoristic, they're hard to quote. But I hope you'll read them anyway. When you have time. Link below.
 
