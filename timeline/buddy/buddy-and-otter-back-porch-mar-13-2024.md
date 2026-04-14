@@ -4,7 +4,7 @@
   date: 2024-03-13T00:00:00
   excerpt: Gina always said they're more like frenemies, but look at this.
   summary: Gina always said they're more like frenemies, but look at this.
-  image: /static/img/timeline/buddy-and-otter-back-porch-1-mar-13-2024.jpg
+  image: /static/img/buddy/buddy-and-otter-back-porch-1-mar-13-2024.jpg
   tags:
     - post
     - notes
@@ -17,7 +17,7 @@
 
   Gina always said they're more like frenemies, but look at this.
 
-  ![Buddy and Otter sitting together on the back porch.](/static/img/timeline/buddy-and-otter-back-porch-1-mar-13-2024.jpg)
+  ![Buddy and Otter sitting together on the back porch.](/static/img/buddy/buddy-and-otter-back-porch-1-mar-13-2024.jpg)
 
 
   

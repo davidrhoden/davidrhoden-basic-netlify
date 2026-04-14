@@ -4,7 +4,7 @@
   date: 2024-03-09T00:00:00
   excerpt: Buddy finally let me get a picture of his cloudy eye.
   summary: Buddy finally let me get a picture of his cloudy eye.
-  image: /static/img/timeline/buddy-cloudy-eye-mar-9-2024.jpeg
+  image: /static/img/buddy/buddy-cloudy-eye-mar-9-2024.jpeg
   tags:
     - cats
     - Buddy
@@ -23,7 +23,7 @@
 
   I don't think it affects his vision much. He doesn't act like there's anything wrong. 
 
-  ![Buddy the cat's cloudy eye.](/static/img/timeline/buddy-cloudy-eye-mar-9-2024.jpeg)
+  ![Buddy the cat's cloudy eye.](/static/img/buddy/buddy-cloudy-eye-mar-9-2024.jpeg)
 
 
   
