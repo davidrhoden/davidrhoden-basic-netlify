@@ -3,7 +3,7 @@ title: All-Night Movers played to a crowded house at the Circle Bar.
 date: 2002-10-03T22:00:00.000Z
 summary: This is probably the apotheosis of my New Orleans social life, back when I had one.
 excerpt: This is probably the apotheosis of my New Orleans social life, back when I had one.
-image: /static/img/rock/all-night-movers/circle-bar-oct-3-2002/anm-davetalktoit.jpg
+image: /static/img/rock/all-night-movers/circle-bar-oct-3-2002/anm-circle-bar-david-rhoden-talk-to-the-hand.jpg
 tags:
   - post 
   - rock
@@ -24,7 +24,7 @@ tags:
     <button id="buttonPrevious">&#10094;</button>
     <button id="buttonNext">&#10095;</button>
 
-![All-Night Movers (David Rhoden and Slade Nash) at Circle Bar, October 3, 2002.](/static/img/rock/all-night-movers/circle-bar-oct-3-2002/anm-davetalktoit.jpg "All-Night Movers (David Rhoden and Slade Nash) at Circle Bar, October 3, 2002.")
+![All-Night Movers (David Rhoden and Slade Nash) at Circle Bar, October 3, 2002.](/static/img/rock/all-night-movers/circle-bar-oct-3-2002/anm-circle-bar-david-rhoden-talk-to-the-hand.jpg "All-Night Movers (David Rhoden and Slade Nash) at Circle Bar, October 3, 2002.")
 
 ![All-Night Movers (David Rhoden and Slade Nash) at Circle Bar, October 3, 2002.](/static/img/rock/all-night-movers/circle-bar-oct-3-2002/anm-davetheessence.jpg "All-Night Movers (David Rhoden and Slade Nash) at Circle Bar, October 3, 2002.")
 
@@ -67,8 +67,6 @@ tags:
 ![All-Night Movers (David Rhoden and Slade Nash) at Circle Bar, October 3, 2002.](/static/img/rock/all-night-movers/circle-bar-oct-3-2002/anm-circle-bar-stringbuster.jpg "All-Night Movers (David Rhoden and Slade Nash) at Circle Bar, October 3, 2002.")
 
 ![All-Night Movers (David Rhoden and Slade Nash) at Circle Bar, October 3, 2002.](/static/img/rock/all-night-movers/circle-bar-oct-3-2002/anm-circle-bar-sweetsara.jpg "All-Night Movers (David Rhoden and Slade Nash) at Circle Bar, October 3, 2002.")
-
-![All-Night Movers (David Rhoden and Slade Nash) at Circle Bar, October 3, 2002.](/static/img/rock/all-night-movers/circle-bar-oct-3-2002/anm-circle-bar-talktoit.jpg "All-Night Movers (David Rhoden and Slade Nash) at Circle Bar, October 3, 2002.")
 
 ![All-Night Movers (David Rhoden and Slade Nash) at Circle Bar, October 3, 2002.](/static/img/rock/all-night-movers/circle-bar-oct-3-2002/anm-circle-bar-theessence.jpg "All-Night Movers (David Rhoden and Slade Nash) at Circle Bar, October 3, 2002.")
 
