@@ -25,7 +25,7 @@
                 <div class="painting-metadata">
                   <h3 class="painting-title">{{ item.title | safe }}</h3>
                   <p class="painting-details">
-                    {% if item.date and item.date != null and dataFile != "designs" %}
+                    {% if item.date and item.date != null and dataFile != "designs" and dataFile != "paintings" %}
                       <span class="painting-date">{{ item.date | justYear }}</span><br>
                     {% endif %}
                     {% if item.material %}
