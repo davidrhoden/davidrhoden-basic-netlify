@@ -88,25 +88,33 @@
   text-decoration: none;
 }
 
-/* Captions (from alt text) */
-.horizontal-gallery-container img[alt]::after {
-  content: attr(alt);
-}
-
-/* Alternative caption approach - add text below */
-.horizontal-gallery-container li {
-  gap: 1em;
-}
-
-/* Add caption below image using alt text */
-.horizontal-gallery-container a::after {
-  color: var(--gray, #666);
-  content: attr(title);
-  font-family: var(--font-primary, sans-serif);
-  font-size: 1rem;
-  margin-top: 1em;
+/* Painting metadata */
+.painting-metadata {
+  margin-top: 1.5em;
   max-width: 80vw;
-  text-align: center;
+  opacity: 0;
+  text-align: left;
+  transition: opacity 0.2s ease;
+}
+
+.painting-title {
+  color: var(--black, #000);
+  font-family: var(--font-secondary, serif);
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin: 0 0 0.5em 0;
+}
+
+.painting-details {
+  color: var(--black, #000);
+  font-family: var(--font-primary, sans-serif);
+  font-size: 0.9rem;
+  margin: 0;
+}
+
+.painting-details span {
+  display: inline;
+  margin: 0;
 }
 
 /* Navigation arrows */
@@ -177,6 +185,14 @@
     height: 60vh;
     max-width: 90vw;
   }
+  
+  .painting-title {
+    font-size: 1.25rem;
+  }
+  
+  .painting-details {
+    font-size: 0.85rem;
+  }
 }
 
 /* Small mobile */
@@ -190,5 +206,23 @@
   .gallery-arrow svg {
     height: 30px;
     width: 30px;
+  }
+  
+  .painting-title {
+    font-size: 1.1rem;
+  }
+  
+  .painting-details {
+    font-size: 0.8rem;
+  }
+  
+  .painting-details span {
+    display: block;
+    margin: 0.25em 0;
+  }
+  
+  .painting-details span::before {
+    content: "";
+    margin-right: 0;
   }
 }

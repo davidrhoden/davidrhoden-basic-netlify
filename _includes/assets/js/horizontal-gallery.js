@@ -83,6 +83,36 @@
   };
   
   /**
+   * Update metadata opacity based on distance from center
+   */
+  const updateMetadataOpacity = () => {
+    const items = getGalleryItems();
+    const galleryCenter = gallery.scrollLeft + (gallery.clientWidth / 2);
+    
+    items.forEach((item) => {
+      const itemCenter = item.offsetLeft + (item.offsetWidth / 2);
+      const distance = Math.abs(galleryCenter - itemCenter);
+      
+      // Calculate opacity: 1 at center, fades to 0 at ~400px away
+      const maxDistance = 400;
+      const opacity = Math.max(0, 1 - (distance / maxDistance));
+      
+      // Apply opacity to metadata
+      const metadata = item.querySelector('.painting-metadata');
+      if (metadata) {
+        metadata.style.opacity = opacity;
+      }
+      
+      // Keep centered class for other purposes
+      if (opacity > 0.8) {
+        item.classList.add('centered');
+      } else {
+        item.classList.remove('centered');
+      }
+    });
+  };
+  
+  /**
    * Handle arrow button clicks
    */
   if (prevButton) {
@@ -131,22 +161,46 @@
   });
   
   /**
-   * Update arrow visibility on scroll
+   * Update arrow visibility and metadata opacity on scroll
    */
   gallery.addEventListener('scroll', () => {
+    // Update metadata immediately for smooth fade
+    updateMetadataOpacity();
+    
     // Debounce arrow visibility updates
     clearTimeout(gallery._scrollTimeout);
     gallery._scrollTimeout = setTimeout(updateArrowVisibility, 100);
   });
   
   /**
-   * Initial arrow visibility check
+   * Initial setup
    */
   updateArrowVisibility();
+  updateMetadataOpacity();
+  
+  /**
+   * Center the first item on page load
+   */
+  const items = getGalleryItems();
+  if (items[0]) {
+    items[0].scrollIntoView({
+      behavior: 'auto',
+      block: 'nearest',
+      inline: 'center'
+    });
+    // Update metadata after centering
+    setTimeout(() => {
+      updateMetadataOpacity();
+      updateArrowVisibility();
+    }, 100);
+  }
   
   /**
    * Re-check on window resize
    */
-  window.addEventListener('resize', updateArrowVisibility);
+  window.addEventListener('resize', () => {
+    updateArrowVisibility();
+    updateMetadataOpacity();
+  });
   
 })();

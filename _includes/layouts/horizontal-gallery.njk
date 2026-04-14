@@ -7,10 +7,43 @@
       <main class="horizontal-gallery-main">
         <div class="horizontal-gallery-container">
           
-          <!-- Gallery items will be parsed from markdown content -->
-          {% set contentHtml = content | safe %}
-          
-          {{ contentHtml }}
+          {% if useDataFile and dataFile %}
+            {# Render from data file #}
+            <ul>
+            {% for item in paintings.paintings %}
+              <li data-painting-id="{{ loop.index0 }}">
+                <a href="{{ item.image }}" title="{{ item.title }}">
+                  <img src="{{ item.image }}" alt="{{ item.title }} by David Rhoden">
+                </a>
+                <div class="painting-metadata">
+                  <h3 class="painting-title">{{ item.title }}</h3>
+                  <p class="painting-details">
+                    {% if item.date and item.date != null %}
+                      <span class="painting-date">{{ item.date | justYear }}</span><br>
+                    {% endif %}
+                    {% if item.material %}
+                      <span class="painting-material">{{ item.material }}</span><br>
+                    {% endif %}
+                    {% if item.height and item.width %}
+                      <span class="painting-size">{{ item.height }}" × {{ item.width }}"</span><br>
+                    {% endif %}
+                    {% if item.price %}
+                      {% if item.price is number %}
+                        <span class="painting-price">${{ item.price }}</span>
+                      {% else %}
+                        <span class="painting-price">{{ item.price }}</span>
+                      {% endif %}
+                    {% endif %}
+                  </p>
+                </div>
+              </li>
+            {% endfor %}
+            </ul>
+          {% else %}
+            {# Render from markdown content #}
+            {% set contentHtml = content | safe %}
+            {{ contentHtml }}
+          {% endif %}
           
         </div>
         
@@ -30,9 +63,6 @@
       
       {% include "components/footer.njk" %}
       {% include "components/modal-search.njk" %}
-      
-      <!-- Horizontal gallery CSS -->
-      <link rel="stylesheet" href="/_includes/assets/css/horizontal-gallery.css">
       
       <!-- Horizontal gallery JS -->
       <script src="/_includes/assets/js/horizontal-gallery.js" defer></script>
