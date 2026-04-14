@@ -1,6 +1,6 @@
 /**
  * Horizontal Gallery Navigation
- * Handles mouse wheel, arrow buttons, keyboard navigation, and metadata display
+ * Handles mouse wheel, arrow buttons, and keyboard navigation
  */
 
 (function() {
@@ -41,22 +41,6 @@
   };
   
   /**
-   * Update centered class for metadata visibility
-   */
-  const updateCenteredItem = () => {
-    const items = getGalleryItems();
-    const centeredIndex = getCurrentCenteredIndex();
-    
-    items.forEach((item, index) => {
-      if (index === centeredIndex) {
-        item.classList.add('centered');
-      } else {
-        item.classList.remove('centered');
-      }
-    });
-  };
-  
-  /**
    * Scroll to a specific item index with smooth animation
    */
   const scrollToItem = (index) => {
@@ -80,12 +64,8 @@
     if (prevButton) {
       if (currentIndex === 0) {
         prevButton.classList.add('hidden');
-        prevButton.style.opacity = '0';
-        prevButton.style.pointerEvents = 'none';
       } else {
         prevButton.classList.remove('hidden');
-        prevButton.style.opacity = '';
-        prevButton.style.pointerEvents = '';
       }
     }
     
@@ -96,6 +76,36 @@
         nextButton.classList.remove('hidden');
       }
     }
+  };
+  
+  /**
+   * Update metadata opacity based on distance from center
+   */
+  const updateMetadataOpacity = () => {
+    const items = getGalleryItems();
+    const galleryCenter = gallery.scrollLeft + (gallery.clientWidth / 2);
+    
+    items.forEach((item) => {
+      const itemCenter = item.offsetLeft + (item.offsetWidth / 2);
+      const distance = Math.abs(galleryCenter - itemCenter);
+      
+      // Calculate opacity: 1 at center, fades to 0 at ~400px away
+      const maxDistance = 400;
+      const opacity = Math.max(0, 1 - (distance / maxDistance));
+      
+      // Apply opacity to metadata
+      const metadata = item.querySelector('.painting-metadata');
+      if (metadata) {
+        metadata.style.opacity = opacity;
+      }
+      
+      // Keep centered class for other purposes
+      if (opacity > 0.8) {
+        item.classList.add('centered');
+      } else {
+        item.classList.remove('centered');
+      }
+    });
   };
   
   /**
@@ -127,8 +137,8 @@
     // Use deltaY for vertical mouse wheel, deltaX for trackpad horizontal swipe
     const scrollAmount = e.deltaY !== 0 ? e.deltaY : e.deltaX;
     
-    // Apply smooth horizontal scroll (no snapping)
-    gallery.scrollLeft += scrollAmount;
+    // Apply smooth horizontal scroll with 3x multiplier for faster scrolling
+    gallery.scrollLeft += scrollAmount * 3;
   }, { passive: false });
   
   /**
@@ -147,30 +157,35 @@
   });
   
   /**
-   * Update arrow visibility and centered item on scroll
+   * Update arrow visibility and metadata opacity on scroll
    */
-  let scrollTimeout;
   gallery.addEventListener('scroll', () => {
-    // Debounce updates
-    clearTimeout(scrollTimeout);
-    scrollTimeout = setTimeout(() => {
-      updateArrowVisibility();
-      updateCenteredItem();
-    }, 100);
+    // Update metadata immediately for smooth fade
+    updateMetadataOpacity();
+    
+    // Debounce arrow visibility updates
+    clearTimeout(gallery._scrollTimeout);
+    gallery._scrollTimeout = setTimeout(updateArrowVisibility, 100);
   });
   
   /**
    * Initial setup
    */
   updateArrowVisibility();
-  updateCenteredItem();
+  updateMetadataOpacity();
+  
+  // Update metadata again after layout settles
+  setTimeout(() => {
+    updateMetadataOpacity();
+    updateArrowVisibility();
+  }, 100);
   
   /**
    * Re-check on window resize
    */
   window.addEventListener('resize', () => {
     updateArrowVisibility();
-    updateCenteredItem();
+    updateMetadataOpacity();
   });
   
 })();

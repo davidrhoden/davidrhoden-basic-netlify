@@ -5,7 +5,7 @@ permalink: /about/index.html
 navtitle: About
 excerpt: "David Rhoden is a painter, animator, illustrator, and occasional musician, currently based in New Orleans."
 summary: "David Rhoden is a painter, animator, illustrator, and occasional musician, currently based in New Orleans."
-image: /static/img/about/davechartroomcrop.jpg
+image: /static/img/about/david-rhoden.jpg
 eleventyNavigation:
   key: About
   order: 0
@@ -70,7 +70,7 @@ eleventyNavigation:
     </caption>
   </div>
   <div class="right">
-    <img alt="David Rhoden outside Chart Room bar, New Orleans, 2010s" src="/static/img/about/davechartroomcrop.jpg">
+    <img alt="David Rhoden outside Chart Room bar, New Orleans, 2010s" src="/static/img/about/david-rhoden.jpg">
   </div>
 </div>
 
@@ -81,7 +81,7 @@ eleventyNavigation:
     </caption>
   </div>
   <div class="right">
-    <img alt="David Rhoden drumming with Jimmy and The Wolfpack, 2009" src="/static/img/rock/jandtwp-lakeside-feb-26-2009/davedrummingatlakeside_sm.jpg">
+    <img alt="David Rhoden drumming with Jimmy and The Wolfpack, 2009" src="/static/img/rock/jandtwp-lakeside-feb-26-2009/david-rhoden-drumming-at-lakeside-lounge.jpg">
   </div>
 </div>
 
@@ -92,7 +92,7 @@ eleventyNavigation:
     </caption>
   </div>
   <div class="right">
-    <img alt="David Rhoden, Selfie, Bushwick, 2008" src="/static/img/about/dave2011.jpg">
+    <img alt="David Rhoden, Selfie, Bushwick, 2008" src="/static/img/about/david-rhoden-2011.jpg">
   </div>
 </div>
 
@@ -103,7 +103,7 @@ eleventyNavigation:
     </caption>
   </div>
   <div class="right">
-    <img alt="David Rhoden with MAXIMVS! (Trey Ledford, Jeff Pounds) at Circle Bar, New Orleans, 2004" src="/static/img/rock/maximvs/maximvs-big-top-feb-18-2004/david-drumming-feb-18-2004.jpg">
+    <img alt="David Rhoden with MAXIMVS! (Trey Ledford, Jeff Pounds) at Circle Bar, New Orleans, 2004" src="/static/img/rock/maximvs/maximvs-big-top-feb-18-2004/david-rhoden-drumming-feb-18-2004.jpg">
   </div>
 </div>
 
@@ -114,7 +114,7 @@ eleventyNavigation:
     </caption>
   </div>
   <div class="right">
-    <img alt="David Rhoden with All-Night Movers, New Orleans, 2003" src="/static/img/rock/all-night-movers/circle-bar-oct-3-2002/anm-circle-bar-talktoit.jpg">
+    <img alt="David Rhoden with All-Night Movers, New Orleans, 2003" src="/static/img/rock/all-night-movers/circle-bar-oct-3-2002/anm-circle-bar-david-rhoden-talk-to-the-hand.jpg">
   </div>
 </div>
 
@@ -157,7 +157,7 @@ eleventyNavigation:
     </caption>
   </div>
   <div class="right">
-    <img alt="David Rhoden in Sleepy Heads T-Shirt, holding Betty, early 2000s" src="/static/img/about/daveinsleepyheadsshirtwithsally.jpg">
+    <img alt="David Rhoden in Sleepy Heads T-Shirt, holding Betty, early 2000s" src="/static/img/about/david-rhoden-in-sleepyheads-shirt-with-sally.jpg">
   </div>
 </div>
 
@@ -168,7 +168,7 @@ eleventyNavigation:
     </caption>
   </div>
   <div class="right">
-    <img alt="David Rhoden in Pensacola, around 2001" src="/static/img/about/david-in-pensacola-i-think-probably-2001.jpeg">
+    <img alt="David Rhoden in Pensacola, around 2001" src="/static/img/about/david-rhoden-pensacola-around-2001.jpeg">
   </div>
 </div>
 
@@ -179,7 +179,7 @@ eleventyNavigation:
     </caption>
   </div>
   <div class="right">
-    <img alt="David Rhoden holding his guitar in Deposit, New York, July 1998." src="/static/img/about/dave-red-barn-jul-1998.jpg">
+    <img alt="David Rhoden holding his guitar in Deposit, New York, July 1998." src="/static/img/about/david-rhoden-red-barn-jul-1998.jpg">
   </div>
 </div>
 
@@ -190,7 +190,7 @@ eleventyNavigation:
     </caption>
   </div>
   <div class="right">
-    <img alt="David Rhoden on Coney Island holding a penny loafer, 1990s" src="/static/img/about/davidonconeyiwithloafer.jpg">
+    <img alt="David Rhoden on Coney Island holding a penny loafer, 1990s" src="/static/img/about/david-rhoden-coney-island.jpg">
   </div>
 </div>
 
@@ -201,7 +201,7 @@ eleventyNavigation:
     </caption>
   </div>
   <div class="right">
-    <img alt="David Rhoden at party with unknown cat, about 1994" src="/static/img/about/david-with-unknown-cat-probably-1994.jpeg">
+    <img alt="David Rhoden at party with unknown cat, about 1994" src="/static/img/about/david-rhoden-with-unknown-cat-probably-1994.jpeg">
   </div>
 </div>
 
@@ -212,6 +212,6 @@ eleventyNavigation:
     </caption>
   </div>
   <div class="right">
-    <img alt="David Rhoden, 850 Third Avenue, New York City, 1992" src="/static/img/about/drrinfrontof850.jpg">
+    <img alt="David Rhoden, 850 Third Avenue, New York City, 1992" src="/static/img/about/david-rhoden-850-3rd-avenue-nyc.jpg">
   </div>
 </div>

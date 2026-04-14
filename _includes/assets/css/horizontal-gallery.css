@@ -31,14 +31,25 @@
   -webkit-overflow-scrolling: touch;
 }
 
-/* Hide scrollbar but keep functionality */
+/* Ensure scrollbar is visible */
 .horizontal-gallery-container::-webkit-scrollbar {
-  display: none;
+  height: 12px;
+}
+
+.horizontal-gallery-container::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+.horizontal-gallery-container::-webkit-scrollbar-thumb {
+  background: #888;
+}
+
+.horizontal-gallery-container::-webkit-scrollbar-thumb:hover {
+  background: #555;
 }
 
 .horizontal-gallery-container {
-  -ms-overflow-style: none;
-  scrollbar-width: none;
+  scrollbar-width: auto;
 }
 
 /* Gallery items (converted from markdown list items) */
@@ -49,7 +60,7 @@
   height: 100%;
   list-style: none;
   margin: 0;
-  padding: 0;
+  padding: 0 calc(50vw - 500px) 0 calc(50vw - 500px);
 }
 
 .horizontal-gallery-container li {
@@ -59,6 +70,12 @@
   flex-direction: column;
   justify-content: center;
   padding: 0 50px;
+}
+
+.horizontal-gallery-container li.gallery-spacer {
+  flex: 0 0 calc(50vw - 500px);
+  min-height: 1px;
+  padding: 0;
 }
 
 /* Handle text content before list (like intro text) */
@@ -88,38 +105,13 @@
   text-decoration: none;
 }
 
-/* Captions (from alt text) */
-.horizontal-gallery-container img[alt]::after {
-  content: attr(alt);
-}
-
-/* Alternative caption approach - add text below */
-.horizontal-gallery-container li {
-  gap: 1em;
-}
-
-/* Add caption below image using alt text */
-.horizontal-gallery-container a::after {
-  color: var(--gray, #666);
-  content: attr(title);
-  font-family: var(--font-primary, sans-serif);
-  font-size: 1rem;
-  margin-top: 1em;
-  max-width: 80vw;
-  text-align: center;
-}
-
 /* Painting metadata */
 .painting-metadata {
   margin-top: 1.5em;
   max-width: 80vw;
   opacity: 0;
-  text-align: center;
-  transition: opacity 0.3s ease;
-}
-
-.horizontal-gallery-container li.centered .painting-metadata {
-  opacity: 1;
+  text-align: left;
+  transition: opacity 0.2s ease;
 }
 
 .painting-title {
@@ -131,25 +123,29 @@
 }
 
 .painting-details {
-  color: var(--gray, #666);
+  color: var(--black, #000);
   font-family: var(--font-primary, sans-serif);
   font-size: 0.9rem;
   margin: 0;
 }
 
 .painting-details span {
-  display: inline-block;
-  margin: 0 0.5em;
+  display: inline;
+  margin: 0;
 }
 
-.painting-details span::before {
-  content: "• ";
-  margin-right: 0.25em;
+.item-link {
+  display: block;
+  margin-top: 0.5em;
 }
 
-.painting-details span:first-child::before {
-  content: "";
-  margin-right: 0;
+.item-link a {
+  color: var(--blue, #0066cc);
+  text-decoration: none;
+}
+
+.item-link a:hover {
+  text-decoration: underline;
 }
 
 /* Navigation arrows */
@@ -183,8 +179,6 @@
 
 .gallery-arrow-prev {
   left: 2rem;
-  opacity: 0;
-  pointer-events: none;
 }
 
 .gallery-arrow-next {

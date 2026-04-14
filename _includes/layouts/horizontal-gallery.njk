@@ -10,23 +10,29 @@
           {% if useDataFile and dataFile %}
             {# Render from data file #}
             <ul>
-            {% set dataSource = davidrhodenbasicnetlify[dataFile] %}
-            {% for item in dataSource.paintings %}
+            {% if dataFile == "paintings" %}
+              {% set dataItems = paintings.paintings %}
+            {% elif dataFile == "illustrations" %}
+              {% set dataItems = illustrations.illustrations %}
+            {% elif dataFile == "designs" %}
+              {% set dataItems = designs.designs %}
+            {% endif %}
+            {% for item in dataItems %}
               <li data-painting-id="{{ loop.index0 }}">
-                <a href="{{ item.image }}" title="{{ item.title }}">
+                <a href="{{ item.image }}" class="gallery-image-link" title="{{ item.title }}">
                   <img src="{{ item.image }}" alt="{{ item.title }} by David Rhoden">
                 </a>
                 <div class="painting-metadata">
-                  <h3 class="painting-title">{{ item.title }}</h3>
+                  <h3 class="painting-title">{{ item.title | safe }}</h3>
                   <p class="painting-details">
-                    {% if item.date %}
-                      <span class="painting-date">{{ item.date | justYear }}</span>
+                    {% if item.date and item.date != null and dataFile != "designs" and dataFile != "paintings" %}
+                      <span class="painting-date">{{ item.date | justYear }}</span><br>
                     {% endif %}
                     {% if item.material %}
-                      <span class="painting-material">{{ item.material }}</span>
+                      <span class="painting-material">{{ item.material }}</span><br>
                     {% endif %}
                     {% if item.height and item.width %}
-                      <span class="painting-size">{{ item.height }}" × {{ item.width }}"</span>
+                      <span class="painting-size">{{ item.height }}" × {{ item.width }}"</span><br>
                     {% endif %}
                     {% if item.price %}
                       {% if item.price is number %}
@@ -35,10 +41,14 @@
                         <span class="painting-price">{{ item.price }}</span>
                       {% endif %}
                     {% endif %}
+                    {% if item.link %}
+                      <span class="item-link"><a href="{{ item.link }}" target="_blank" rel="noopener noreferrer">{{ item.linktext if item.linktext else item.link }}</a></span>
+                    {% endif %}
                   </p>
                 </div>
               </li>
             {% endfor %}
+              <li class="gallery-spacer" aria-hidden="true"></li>
             </ul>
           {% else %}
             {# Render from markdown content #}
@@ -65,9 +75,6 @@
       {% include "components/footer.njk" %}
       {% include "components/modal-search.njk" %}
       
-      <!-- Horizontal gallery CSS -->
-      <link rel="stylesheet" href="/_includes/assets/css/horizontal-gallery.css">
-      
       <!-- Horizontal gallery JS -->
       <script src="/_includes/assets/js/horizontal-gallery.js" defer></script>
       
@@ -75,7 +82,7 @@
       <script>
         $(document).ready(function () {
           $(".horizontal-gallery-container ul li, .horizontal-gallery-container ol li").magnificPopup({
-            delegate: "a",
+            delegate: "a.gallery-image-link",
             gallery: {
               enabled: true,
               navigateByImgClick: true,

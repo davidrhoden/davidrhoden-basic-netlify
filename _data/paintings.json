@@ -157,9 +157,9 @@
       "tags": ["paintings"]
     },
     {
-      "title": "Daddy Long Legs",
+      "title": "Long Legs",
       "date": "2023-05-20T00:00:00.000Z",
-      "summary": "Daddy Long Legs: a painting by David Rhoden",
+      "summary": "Long Legs: a painting by David Rhoden",
       "image": "/static/img/paintings/sized_exports/daddy-long-legs.png",
       "height": 32,
       "width": 36,
@@ -184,7 +184,7 @@
       "title": "Dotted Eye",
       "date": "2023-05-20T00:00:00.000Z",
       "summary": "Dotted Eye: a painting by David Rhoden",
-      "image": "/static/img/paintings/blackeye-reclaimed-mar-17-2025.jpg",
+      "image": "/static/img/paintings/dotted-eye-date-unknown.jpg",
       "height": null,
       "width": null,
       "price": 360,
@@ -307,7 +307,7 @@
       "image": "/static/img/paintings/kiss-guy.jpg",
       "height": 47,
       "width": 22,
-      "price": "NFS",
+      "price": "NFS - damaged by weather",
       "forsale": false,
       "material": "enamel on plywood",
       "tags": ["paintings"]
@@ -513,7 +513,7 @@
       "width": null,
       "price": "LOST",
       "forsale": false,
-      "material": "enamel on plywood",
+      "material": "oil on canvas",
       "tags": ["paintings"]
     },
     {
@@ -559,8 +559,8 @@
       "image": "/static/img/paintings/blobman.jpg",
       "height": null,
       "width": null,
-      "price": null,
-      "forsale": true,
+      "price": "SOLD",
+      "forsale": false,
       "material": "enamel on plywood",
       "tags": ["paintings"]
     },
@@ -571,20 +571,20 @@
       "image": "/static/img/paintings/blue-lucha-nov-6-2016.png",
       "height": null,
       "width": null,
-      "price": null,
-      "forsale": true,
+      "price": "SOLD",
+      "forsale": false,
       "material": "enamel on plywood",
       "tags": ["paintings"]
     },
     {
-      "title": "Blue Many Teeth",
+      "title": "Many Teeth",
       "date": "2023-01-01T00:00:00.000Z",
-      "summary": "Blue Many Teeth: a painting by David Rhoden",
+      "summary": "Many Teeth: a painting by David Rhoden",
       "image": "/static/img/paintings/painting-blue-many-teeth.jpg",
       "height": null,
       "width": null,
-      "price": null,
-      "forsale": true,
+      "price": "SOLD",
+      "forsale": false,
       "material": "enamel on plywood",
       "tags": ["paintings"]
     },
@@ -595,8 +595,8 @@
       "image": "/static/img/paintings/breathers-canvas.jpeg",
       "height": null,
       "width": null,
-      "price": null,
-      "forsale": true,
+      "price": "SOLD",
+      "forsale": false,
       "material": "oil, chalk pastel on canvas",
       "tags": ["paintings", "canvas"]
     },
@@ -607,20 +607,20 @@
       "image": "/static/img/paintings/cartoony-face.jpg",
       "height": null,
       "width": null,
-      "price": null,
-      "forsale": true,
+      "price": "SOLD",
+      "forsale": false,
       "material": "enamel on plywood",
       "tags": ["paintings"]
     },
     {
-      "title": "Corn on the Cob",
+      "title": "Likes Corn",
       "date": "2023-01-01T00:00:00.000Z",
-      "summary": "Corn on the Cob: a painting by David Rhoden",
+      "summary": "Likes Corn: a painting by David Rhoden",
       "image": "/static/img/paintings/corn-on-the-cob.jpg",
       "height": null,
       "width": null,
-      "price": null,
-      "forsale": true,
+      "price": "SOLD",
+      "forsale": false,
       "material": "enamel on plywood",
       "tags": ["paintings"]
     },
@@ -631,8 +631,8 @@
       "image": "/static/img/paintings/crop-failure-2038-porch-oct-30-2025.jpeg",
       "height": null,
       "width": null,
-      "price": null,
-      "forsale": true,
+      "price": "SOLD",
+      "forsale": false,
       "material": "enamel on plywood",
       "tags": ["paintings"]
     },
@@ -645,7 +645,7 @@
       "width": null,
       "price": null,
       "forsale": true,
-      "material": "enamel on plywood",
+      "material": "mixed media on paer",
       "tags": ["paintings"]
     },
     {
@@ -655,9 +655,9 @@
       "image": "/static/img/paintings/facelikeathumb.jpg",
       "height": null,
       "width": null,
-      "price": null,
-      "forsale": true,
-      "material": "enamel on plywood",
+      "price": "SOLD",
+      "forsale": false,
+      "material": "oil on canvas",
       "tags": ["paintings"]
     },
     {
@@ -667,9 +667,9 @@
       "image": "/static/img/paintings/figurestudy.jpg",
       "height": null,
       "width": null,
-      "price": null,
+      "price": 150,
       "forsale": true,
-      "material": "enamel on plywood",
+      "material": "oil on canvas",
       "tags": ["paintings"]
     },
     {
@@ -679,9 +679,9 @@
       "image": "/static/img/paintings/foilface.jpg",
       "height": null,
       "width": null,
-      "price": null,
-      "forsale": true,
-      "material": "enamel on plywood",
+      "price": "SOLD",
+      "forsale": false,
+      "material": "enamel and aluiminum foil on plywood",
       "tags": ["paintings"]
     },
     {
@@ -691,7 +691,7 @@
       "image": "/static/img/paintings/football-feb-24-2021.jpg",
       "height": null,
       "width": null,
-      "price": null,
+      "price": 120,
       "forsale": true,
       "material": "enamel on plywood",
       "tags": ["paintings"]
@@ -715,9 +715,9 @@
       "image": "/static/img/paintings/greenheads.jpg",
       "height": null,
       "width": null,
-      "price": null,
-      "forsale": true,
-      "material": "enamel on plywood",
+      "price": "SOLD",
+      "forsale": false,
+      "material": "oil on masonite board",
       "tags": ["paintings"]
     },
     {
@@ -727,8 +727,8 @@
       "image": "/static/img/paintings/i-dont-like-this.jpg",
       "height": null,
       "width": null,
-      "price": null,
-      "forsale": true,
+      "price": "SOLD",
+      "forsale": false,
       "material": "enamel on plywood",
       "tags": ["paintings"]
     },
@@ -739,9 +739,9 @@
       "image": "/static/img/paintings/im-over-it-dec-17-2017.jpg",
       "height": null,
       "width": null,
-      "price": null,
-      "forsale": true,
-      "material": "enamel on plywood",
+      "price": "SOLD",
+      "forsale": false,
+      "material": "unknown paint on corrugated paper",
       "tags": ["paintings"]
     },
     {
@@ -751,9 +751,9 @@
       "image": "/static/img/paintings/inhaler-on-paper.jpg",
       "height": null,
       "width": null,
-      "price": null,
-      "forsale": true,
-      "material": "enamel on paper",
+      "price": "SOLD",
+      "forsale": false,
+      "material": "oil on paper",
       "tags": ["paintings"]
     },
     {
@@ -763,9 +763,9 @@
       "image": "/static/img/paintings/kdoe-on-cardboard.jpg",
       "height": null,
       "width": null,
-      "price": null,
+      "price": 100,
       "forsale": true,
-      "material": "enamel on cardboard",
+      "material": "gouache on corrugated paper",
       "tags": ["paintings"]
     },
     {
@@ -775,9 +775,9 @@
       "image": "/static/img/paintings/knife-guy-2013.jpg",
       "height": null,
       "width": null,
-      "price": null,
-      "forsale": true,
-      "material": "enamel on plywood",
+      "price": "SOLD",
+      "forsale": false,
+      "material": "oil on canvas",
       "tags": ["paintings"]
     },
     {
@@ -787,9 +787,9 @@
       "image": "/static/img/paintings/le-petomane-painting.jpg",
       "height": null,
       "width": null,
-      "price": null,
-      "forsale": true,
-      "material": "enamel on plywood",
+      "price": "SOLD",
+      "forsale": false,
+      "material": "gouache and india ink on corrugated paper",
       "tags": ["paintings"]
     },
     {
@@ -800,8 +800,8 @@
       "height": null,
       "width": null,
       "price": null,
-      "forsale": true,
-      "material": "enamel on plywood",
+      "forsale": 60,
+      "material": "acrylic and graphite on plywood",
       "tags": ["paintings"]
     },
     {
@@ -811,8 +811,8 @@
       "image": "/static/img/paintings/long-legs-jan-1-2020.jpg",
       "height": null,
       "width": null,
-      "price": null,
-      "forsale": true,
+      "price": "SOLD",
+      "forsale": false,
       "material": "enamel on plywood",
       "tags": ["paintings"]
     },
@@ -823,8 +823,8 @@
       "image": "/static/img/paintings/many-eyed-monster-1.jpg",
       "height": null,
       "width": null,
-      "price": null,
-      "forsale": true,
+      "price": "SOLD",
+      "forsale": false,
       "material": "enamel on plywood",
       "tags": ["paintings"]
     },
@@ -835,8 +835,8 @@
       "image": "/static/img/paintings/negatory-completed-dec-1-2017.jpg",
       "height": null,
       "width": null,
-      "price": null,
-      "forsale": true,
+      "price": "SOLD",
+      "forsale": false,
       "material": "enamel on plywood",
       "tags": ["paintings"]
     },
@@ -847,8 +847,8 @@
       "image": "/static/img/paintings/newguyattheoffice.jpg",
       "height": null,
       "width": null,
-      "price": null,
-      "forsale": true,
+      "price": "SOLD",
+      "forsale": false,
       "material": "enamel on plywood",
       "tags": ["paintings"]
     },
@@ -859,20 +859,8 @@
       "image": "/static/img/paintings/nonononono.jpg",
       "height": null,
       "width": null,
-      "price": null,
-      "forsale": true,
-      "material": "enamel on plywood",
-      "tags": ["paintings"]
-    },
-    {
-      "title": "Nope Never Ha Ha No",
-      "date": "2023-01-01T00:00:00.000Z",
-      "summary": "Nope Never Ha Ha No: a painting by David Rhoden",
-      "image": "/static/img/paintings/nope-never-ha-ha-no.jpg",
-      "height": null,
-      "width": null,
-      "price": null,
-      "forsale": true,
+      "price": "SOLD",
+      "forsale": false,
       "material": "enamel on plywood",
       "tags": ["paintings"]
     },
@@ -883,8 +871,8 @@
       "image": "/static/img/paintings/ohnonever.jpg",
       "height": null,
       "width": null,
-      "price": null,
-      "forsale": true,
+      "price": "SOLD",
+      "forsale": false,
       "material": "enamel on plywood",
       "tags": ["paintings"]
     },
@@ -907,8 +895,8 @@
       "image": "/static/img/paintings/organic-form-1-blue.jpg",
       "height": null,
       "width": null,
-      "price": null,
-      "forsale": true,
+      "price": "SOLD",
+      "forsale": false,
       "material": "enamel on plywood",
       "tags": ["paintings", "organic form"]
     },
@@ -943,8 +931,8 @@
       "image": "/static/img/paintings/squiggle-pink-may-2-2015.jpg",
       "height": null,
       "width": null,
-      "price": null,
-      "forsale": true,
+      "price": "SOLD",
+      "forsale": false,
       "material": "enamel on plywood",
       "tags": ["paintings", "squiggles"]
     },
@@ -955,9 +943,9 @@
       "image": "/static/img/paintings/posingwoman.jpg",
       "height": null,
       "width": null,
-      "price": null,
+      "price": 200,
       "forsale": true,
-      "material": "enamel on plywood",
+      "material": "oil on canvas",
       "tags": ["paintings"]
     },
     {
@@ -967,8 +955,8 @@
       "image": "/static/img/paintings/screaming-guy.jpg",
       "height": null,
       "width": null,
-      "price": null,
-      "forsale": true,
+      "price": "SOLD",
+      "forsale": false,
       "material": "enamel on plywood",
       "tags": ["paintings"]
     },
@@ -979,8 +967,8 @@
       "image": "/static/img/paintings/seriously-dec-29-2020.jpg",
       "height": null,
       "width": null,
-      "price": null,
-      "forsale": true,
+      "price": "SOLD",
+      "forsale": false,
       "material": "enamel on plywood",
       "tags": ["paintings"]
     },
@@ -991,9 +979,9 @@
       "image": "/static/img/paintings/smallbluesuit2.jpg",
       "height": null,
       "width": null,
-      "price": null,
+      "price": 60,
       "forsale": true,
-      "material": "enamel on plywood",
+      "material": "oil on canvas",
       "tags": ["paintings"]
     },
     {
@@ -1003,8 +991,8 @@
       "image": "/static/img/paintings/smoker.jpeg",
       "height": null,
       "width": null,
-      "price": null,
-      "forsale": true,
+      "price": "SOLD",
+      "forsale": false,
       "material": "enamel on plywood",
       "tags": ["paintings"]
     },
@@ -1015,8 +1003,8 @@
       "image": "/static/img/paintings/sneak.jpg",
       "height": null,
       "width": null,
-      "price": null,
-      "forsale": true,
+      "price": "SOLD",
+      "forsale": false,
       "material": "enamel on plywood",
       "tags": ["paintings"]
     },
@@ -1027,8 +1015,8 @@
       "image": "/static/img/paintings/standingman.jpg",
       "height": null,
       "width": null,
-      "price": null,
-      "forsale": true,
+      "price": "SOLD",
+      "forsale": false,
       "material": "enamel on plywood",
       "tags": ["paintings"]
     },
@@ -1051,9 +1039,9 @@
       "image": "/static/img/paintings/twohumanfigures.jpg",
       "height": null,
       "width": null,
-      "price": null,
+      "price": 120,
       "forsale": true,
-      "material": "enamel on plywood",
+      "material": "oil on canvas",
       "tags": ["paintings"]
     },
     {
@@ -1087,8 +1075,8 @@
       "image": "/static/img/paintings/unimog-feb-20-2022.jpg",
       "height": null,
       "width": null,
-      "price": null,
-      "forsale": true,
+      "price": "SOLD",
+      "forsale": false,
       "material": "enamel on plywood",
       "tags": ["paintings"]
     },
@@ -1099,7 +1087,7 @@
       "image": "/static/img/paintings/unreal-lost-painting.jpg",
       "height": null,
       "width": null,
-      "price": "LOST",
+      "price": "LOST - probably stolen from the bar that bought it. Last seen by a friend lying on the sidewalk on Magazine Street.",
       "forsale": false,
       "material": "enamel on plywood",
       "tags": ["paintings"]
@@ -1111,7 +1099,7 @@
       "image": "/static/img/paintings/urinator.jpg",
       "height": null,
       "width": null,
-      "price": null,
+      "price": "CONTACT ME.",
       "forsale": true,
       "material": "enamel on plywood",
       "tags": ["paintings"]
@@ -1123,7 +1111,7 @@
       "image": "/static/img/paintings/yellowfellow.jpg",
       "height": null,
       "width": null,
-      "price": null,
+      "price": 60,
       "forsale": true,
       "material": "enamel on plywood",
       "tags": ["paintings"]
@@ -1147,8 +1135,8 @@
       "image": "/static/img/paintings/squiggle-yellow-aug-7-2016.jpg",
       "height": null,
       "width": null,
-      "price": null,
-      "forsale": true,
+      "price": "SOLD",
+      "forsale": false,
       "material": "enamel on plywood",
       "tags": ["paintings", "squiggles"]
     }

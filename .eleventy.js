@@ -49,7 +49,15 @@ module.exports = function (eleventyConfig) {
   });
 
   eleventyConfig.addFilter("justYear", (dateObj) => {
-    return DateTime.fromJSDate(dateObj).toFormat("yyyy");
+    // Handle both Date objects and ISO strings
+    if (typeof dateObj === 'string') {
+      // Extract year from ISO string like "2023-05-21T11:00:00.000Z"
+      return dateObj.substring(0, 4);
+    }
+    if (dateObj instanceof Date) {
+      return DateTime.fromJSDate(dateObj).toFormat("yyyy");
+    }
+    return dateObj; // fallback
   });
 
   eleventyConfig.addFilter("shortDate", (dateObj) => {
@@ -59,7 +67,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addFilter(
     "relative",
     (page, root = "/") =>
-      '${require("path").relative(page.filePathStem, root)}/',
+      `${require("path").relative(page.filePathStem, root)}/`,
   );
 
   eleventyConfig.addCollection("bySize", (collectionApi) => {
