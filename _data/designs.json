@@ -1,0 +1,130 @@
+{
+  "designs": [
+    {
+      "title": "Postcard for play \"Out Of The Boil\"",
+      "image": "/static/img/designs/out-of-the-boil-card-jun-25-2024.jpg",
+      "date": "2024-06-25T00:00:00.000Z"
+    },
+    {
+      "title": "Karaoke booklet",
+      "image": "/static/img/designs/karaoke-booklet-apr-7-2024.jpeg",
+      "date": "2024-04-07T00:00:00.000Z",
+      "link": "/contact",
+       "linktext": "Join my mailiing list and I'll send you one of these, free.."
+    },
+    {
+      "title": "Show poster for Stacks at Holy Diver",
+      "image": "/static/img/designs/stacks-flyer-lufofu-color-1-jun-27-2024.jpg",
+      "date": "2024-06-27T00:00:00.000Z"
+    },
+    {
+      "title": "Show poster for Stacks at Pirogue's Whiskey Bayou",
+      "image": "/static/img/designs/stacks-flyer-pirogues-960w-jun-15-2024.jpg",
+      "date": "2024-06-15T00:00:00.000Z"
+    },
+    {
+      "title": "Show poster for Stacks and Happy Talk at Checkpoint Charlie",
+      "image": "/static/img/designs/Stacks-HTB-checkpoints-apr-13-2024.jpeg",
+      "date": "2024-04-13T00:00:00.000Z"
+    },
+    {
+      "title": "Show poster for Stacks at Holy Diver",
+      "image": "/static/img/designs/stacks-holy-diver-flyer-2-sq-jan-25-2024.png",
+      "date": "2024-01-25T00:00:00.000Z"
+    },
+    {
+      "title": "Show poster design for Sister Street Fest",
+      "image": "/static/img/designs/Sister-Street-Fest-2023-times.png",
+      "date": "2023-01-01T00:00:00.000Z"
+    },
+    {
+      "title": "Show poster design for Sister Street Fest",
+      "image": "/static/img/designs/SisterStreetStage-Apr-17-2021.jpg",
+      "date": "2021-04-17T00:00:00.000Z"
+    },
+    {
+      "title": "Lecture program",
+      "image": "/static/img/designs/all-borders-are-fake-nov-7-2019.jpg",
+      "date": "2019-11-07T00:00:00.000Z"
+    },
+    {
+      "title": "Album cover design for Talbot Adams",
+      "image": "/static/img/designs/talbot-adams-album-design-by-david-rhoden.jpg"
+    },
+    {
+      "title": "Album cover design for The Hi-Balls <i>Tube or Not Tube</i>",
+      "image": "/static/img/designs/tube-or-not-tube-cd-sleeve.jpg"
+    },
+    {
+      "title": "Album cover design for The Hi-Balls <i>Love Music</i>",
+      "image": "/static/img/designs/love-music-cd-sleeve.jpg"
+    },
+    {
+      "title": "7\" record sleeve design for The Hi-Balls",
+      "image": "/static/img/designs/record.gif"
+    },
+    {
+      "title": "Business card design for a New York City music industry consultant",
+      "image": "/static/img/designs/rick-goetz-card.jpg"
+    },
+    {
+      "title": "T-shirt design for Cotton Bureau",
+      "image": "/static/img/designs/redwomens.jpg",
+      "link": "https://cottonbureau.com/p/6UHHU8/shirt/im-holding-in-a-lot-of-anger#/33221440/tee-women-true-to-size-tee-red-100percent-cotton-s",
+      "linktext": "Buy shirts at Cotton Bureau"
+    },
+    {
+      "title": "T-shirt design for Cotton Bureau",
+      "image": "/static/img/designs/bottle-cap-mens-turquoise.jpg",
+      "link": "https://cottonbureau.com/p/ZEMAQU/shirt/bottle-cap#/20451922/tee-men-premium-lightweight-turquoise-100percent-cotton-s",
+       "linktext": "Buy shirts at Cotton Bureau"
+    },
+        {
+      "title": "T-shirt design for Cotton Bureau",
+      "image": "/static/img/designs/cotton-bureau-1985-mockup.avif",
+      "link": "https://cottonbureau.com/p/45GYJP/shirt/nineteen-hundred-eighty-five-karaoke-timeless-version#/34709857/tee-men-premium-lightweight-light-grey-100percent-cotton-s",
+       "linktext": "Buy shirts at Cotton Bureau"
+    },
+        {
+      "title": "Postcard design for an indie film",
+      "image": "/static/img/designs/sweet-science-movie-postcard.png",
+    },
+    {
+      "title": "Poster design for Ernie K-Doe at the Mother-In_Law Lounge",
+      "image": "/static/img/designs/k-doe-mother-in-law-mar-25-2000.jpg",
+      "date": "2000-03-25T00:00:00.000Z"
+    },
+    {
+      "title": "Calendar design for The Big Top art space",
+      "image": "/static/img/designs/3rcp-ad-aug-2-2007.jpg",
+      "date": "2007-08-02T00:00:00.000Z"
+    },
+    {
+      "title": "Calendar design for The Big Top art space",
+      "image": "/static/img/designs/3rcp-ad-2nd-aug-8-2005.png",
+      "date": "2005-08-08T00:00:00.000Z"
+    },
+    {
+      "title": "Calendar design for The Big Top art space",
+      "image": "/static/img/designs/3rcp-ad-may-1-2008.jpg",
+      "date": "2008-05-01T00:00:00.000Z"
+    },
+    {
+      "title": "Silkscreened poster for Off-White Linen Night",
+      "image": "/static/img/designs/offwhite-linen-night-aug-7-2004.jpg",
+      "date": "2004-08-07T00:00:00.000Z"
+    },
+    {
+      "title": "Bachelor No. 1 fanzine design",
+      "image": "/static/img/designs/bachelor-no1-no1.jpg"
+    },
+    {
+      "title": "Bachelor No. 1 fanzine design",
+      "image": "/static/img/designs/bachelor-no1-no2.jpg"
+    },
+    {
+      "title": "Bachelor No. 1 fanzine design",
+      "image": "/static/img/designs/bachelor-no1-no3.jpg"
+    }
+  ]
+}
