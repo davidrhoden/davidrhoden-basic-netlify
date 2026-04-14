@@ -31,14 +31,25 @@
   -webkit-overflow-scrolling: touch;
 }
 
-/* Hide scrollbar but keep functionality */
+/* Ensure scrollbar is visible */
 .horizontal-gallery-container::-webkit-scrollbar {
-  display: none;
+  height: 12px;
+}
+
+.horizontal-gallery-container::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+.horizontal-gallery-container::-webkit-scrollbar-thumb {
+  background: #888;
+}
+
+.horizontal-gallery-container::-webkit-scrollbar-thumb:hover {
+  background: #555;
 }
 
 .horizontal-gallery-container {
-  -ms-overflow-style: none;
-  scrollbar-width: none;
+  scrollbar-width: auto;
 }
 
 /* Gallery items (converted from markdown list items) */
@@ -49,7 +60,7 @@
   height: 100%;
   list-style: none;
   margin: 0;
-  padding: 0;
+  padding: 0 calc(50vw - 500px) 0 calc(50vw - 500px);
 }
 
 .horizontal-gallery-container li {
@@ -59,6 +70,12 @@
   flex-direction: column;
   justify-content: center;
   padding: 0 50px;
+}
+
+.horizontal-gallery-container li.gallery-spacer {
+  flex: 0 0 calc(50vw - 500px);
+  min-height: 1px;
+  padding: 0;
 }
 
 /* Handle text content before list (like intro text) */
@@ -117,6 +134,20 @@
   margin: 0;
 }
 
+.item-link {
+  display: block;
+  margin-top: 0.5em;
+}
+
+.item-link a {
+  color: var(--blue, #0066cc);
+  text-decoration: none;
+}
+
+.item-link a:hover {
+  text-decoration: underline;
+}
+
 /* Navigation arrows */
 .gallery-arrow {
   align-items: center;
@@ -148,8 +179,6 @@
 
 .gallery-arrow-prev {
   left: 2rem;
-  opacity: 0;
-  pointer-events: none;
 }
 
 .gallery-arrow-next {

@@ -64,12 +64,8 @@
     if (prevButton) {
       if (currentIndex === 0) {
         prevButton.classList.add('hidden');
-        prevButton.style.opacity = '0';
-        prevButton.style.pointerEvents = 'none';
       } else {
         prevButton.classList.remove('hidden');
-        prevButton.style.opacity = '';
-        prevButton.style.pointerEvents = '';
       }
     }
     
@@ -141,8 +137,8 @@
     // Use deltaY for vertical mouse wheel, deltaX for trackpad horizontal swipe
     const scrollAmount = e.deltaY !== 0 ? e.deltaY : e.deltaX;
     
-    // Apply smooth horizontal scroll (no snapping)
-    gallery.scrollLeft += scrollAmount;
+    // Apply smooth horizontal scroll with 3x multiplier for faster scrolling
+    gallery.scrollLeft += scrollAmount * 3;
   }, { passive: false });
   
   /**
@@ -178,22 +174,11 @@
   updateArrowVisibility();
   updateMetadataOpacity();
   
-  /**
-   * Center the first item on page load
-   */
-  const items = getGalleryItems();
-  if (items[0]) {
-    items[0].scrollIntoView({
-      behavior: 'auto',
-      block: 'nearest',
-      inline: 'center'
-    });
-    // Update metadata after centering
-    setTimeout(() => {
-      updateMetadataOpacity();
-      updateArrowVisibility();
-    }, 100);
-  }
+  // Update metadata again after layout settles
+  setTimeout(() => {
+    updateMetadataOpacity();
+    updateArrowVisibility();
+  }, 100);
   
   /**
    * Re-check on window resize

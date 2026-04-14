@@ -10,15 +10,22 @@
           {% if useDataFile and dataFile %}
             {# Render from data file #}
             <ul>
-            {% for item in paintings.paintings %}
+            {% if dataFile == "paintings" %}
+              {% set dataItems = paintings.paintings %}
+            {% elif dataFile == "illustrations" %}
+              {% set dataItems = illustrations.illustrations %}
+            {% elif dataFile == "designs" %}
+              {% set dataItems = designs.designs %}
+            {% endif %}
+            {% for item in dataItems %}
               <li data-painting-id="{{ loop.index0 }}">
-                <a href="{{ item.image }}" title="{{ item.title }}">
+                <a href="{{ item.image }}" class="gallery-image-link" title="{{ item.title }}">
                   <img src="{{ item.image }}" alt="{{ item.title }} by David Rhoden">
                 </a>
                 <div class="painting-metadata">
-                  <h3 class="painting-title">{{ item.title }}</h3>
+                  <h3 class="painting-title">{{ item.title | safe }}</h3>
                   <p class="painting-details">
-                    {% if item.date and item.date != null %}
+                    {% if item.date and item.date != null and dataFile != "designs" %}
                       <span class="painting-date">{{ item.date | justYear }}</span><br>
                     {% endif %}
                     {% if item.material %}
@@ -34,10 +41,14 @@
                         <span class="painting-price">{{ item.price }}</span>
                       {% endif %}
                     {% endif %}
+                    {% if item.link %}
+                      <span class="item-link"><a href="{{ item.link }}" target="_blank" rel="noopener noreferrer">{{ item.linktext if item.linktext else item.link }}</a></span>
+                    {% endif %}
                   </p>
                 </div>
               </li>
             {% endfor %}
+              <li class="gallery-spacer" aria-hidden="true"></li>
             </ul>
           {% else %}
             {# Render from markdown content #}
@@ -71,7 +82,7 @@
       <script>
         $(document).ready(function () {
           $(".horizontal-gallery-container ul li, .horizontal-gallery-container ol li").magnificPopup({
-            delegate: "a",
+            delegate: "a.gallery-image-link",
             gallery: {
               enabled: true,
               navigateByImgClick: true,
