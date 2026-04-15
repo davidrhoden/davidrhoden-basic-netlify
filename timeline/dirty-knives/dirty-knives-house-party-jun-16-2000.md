@@ -1,8 +1,8 @@
 ---
 title: Dirty Knives played a house party near UNO.
 date: 2000-06-16T22:00:00.000Z
-summary: We opened for The Bruisers and The Bullies.
-excerpt: We opened for The Bruisers and The Bullies.
+summary: It was our second show in two days. It would also be our last show with this lineup.
+excerpt: It was our second show in two days. It would also be our last show with this lineup.
 tags:
   - post 
   - rock
