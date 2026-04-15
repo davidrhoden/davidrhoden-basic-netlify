@@ -1,0 +1,133 @@
+/* ============================================
+   BAND TIMELINE
+   ============================================
+   Visual timeline showing band activity from
+   1984 to present with colored segments for
+   each band's active period.
+   ============================================ */
+
+.band-timeline-container {
+  background: #f8f9fa;
+  border-bottom: 1px solid #dee2e6;
+  padding: 2rem 0 1rem;
+  position: relative;
+  width: 100%;
+}
+
+.band-timeline {
+  margin: 0 auto;
+  max-width: 90%;
+  position: relative;
+}
+
+.timeline-years {
+  align-items: center;
+  display: flex;
+  height: 40px;
+  justify-content: space-between;
+  margin-bottom: 0.5rem;
+  position: relative;
+}
+
+.timeline-year {
+  color: #6c757d;
+  font-family: var(--font-primary, sans-serif);
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-align: center;
+}
+
+.timeline-rows {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  margin-top: 0.5rem;
+}
+
+.timeline-row {
+  align-items: center;
+  display: flex;
+  gap: 1rem;
+}
+
+.band-name {
+  color: #495057;
+  flex-shrink: 0;
+  font-family: var(--font-primary, sans-serif);
+  font-size: 0.85rem;
+  font-weight: 600;
+  min-width: 200px;
+  text-align: right;
+}
+
+.timeline-track {
+  background: #e9ecef;
+  border-radius: 4px;
+  flex-grow: 1;
+  height: 24px;
+  overflow: visible;
+  position: relative;
+}
+
+.band-segment {
+  border-radius: 3px;
+  cursor: pointer;
+  display: block;
+  height: 100%;
+  position: absolute;
+  text-decoration: none;
+  top: 0;
+  transition: opacity 0.2s ease, transform 0.2s ease;
+}
+
+.band-segment:hover {
+  opacity: 0.9;
+  transform: scaleY(1.1);
+  z-index: 10;
+}
+
+@media screen and (max-width: 768px) {
+  .band-timeline-container {
+    padding: 1.5rem 0 0.5rem;
+  }
+
+  .band-timeline {
+    max-width: 95%;
+  }
+
+  .timeline-year {
+    font-size: 0.65rem;
+  }
+
+  .band-name {
+    font-size: 0.75rem;
+    min-width: 150px;
+  }
+
+  .timeline-track {
+    height: 20px;
+  }
+
+  .timeline-row {
+    gap: 0.75rem;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .band-name {
+    font-size: 0.7rem;
+    min-width: 100px;
+  }
+
+  .timeline-track {
+    height: 18px;
+  }
+
+  .timeline-row {
+    gap: 0.5rem;
+  }
+
+  .timeline-years {
+    margin-bottom: 0.25rem;
+  }
+}

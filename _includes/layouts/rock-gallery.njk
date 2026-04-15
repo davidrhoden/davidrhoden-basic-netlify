@@ -1,0 +1,67 @@
+<!doctype html>
+<html {% if section %}data-current="{{ section }}"{% endif %} lang="en">
+  {% include "components/head.njk" %}
+  <body class="horizontal-gallery-page rock-page {{ page.fileSlug }} {{ pageClasses }}">
+      {% include "components/header.njk" %}
+      
+      <link rel="stylesheet" href="/_includes/assets/css/band-timeline.css">
+      <link rel="stylesheet" href="/_includes/assets/css/rock-gallery.css">
+      
+      {% include "components/band-timeline.njk" %}
+      
+      <main class="horizontal-gallery-main">
+        <div class="horizontal-gallery-container">
+          <ul>
+            {% for band in collections.bands %}
+              <li id="band-{{ band.fileSlug }}" data-band-id="{{ loop.index0 }}">
+                <div class="band-content">
+                  <h2 class="band-title">{{ band.data.title }}</h2>
+                  <div class="band-years">
+                    {{ band.data.startYear }}-{% if band.data.active %}present{% else %}{{ band.data.endYear }}{% endif %}
+                  </div>
+                  <div class="band-description">
+                    {{ band.templateContent | safe }}
+                  </div>
+                </div>
+              </li>
+            {% endfor %}
+            <li class="gallery-spacer" aria-hidden="true"></li>
+          </ul>
+        </div>
+        
+        <!-- Navigation arrows -->
+        <button class="gallery-arrow gallery-arrow-prev" aria-label="Previous band" data-direction="prev">
+          <svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M25 30L15 20L25 10" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+        </button>
+        
+        <button class="gallery-arrow gallery-arrow-next" aria-label="Next band" data-direction="next">
+          <svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M15 30L25 20L15 10" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+        </button>
+      </main>
+      
+      {% include "components/footer.njk" %}
+      {% include "components/modal-search.njk" %}
+      
+      <!-- Horizontal gallery JS -->
+      <script src="/_includes/assets/js/horizontal-gallery.js" defer></script>
+      
+      <!-- MicroModal for mailing list signup -->
+      <div class="modal micromodal-slide micromodal-slide-up" id="modal-onetalker" aria-hidden="true">
+        <div class="modal__overlay" tabindex="-1" data-micromodal-close>
+          <div class="modal__container onetalker-modal-container" role="dialog" aria-modal="true" aria-labelledby="modal-onetalker-title">
+            <header class="modal__header">
+              <span class="modal__title" id="modal-onetalker-title">Join My Mailing List</span>
+              <button class="modal__btn modal__btn-primary" data-micromodal-close aria-label="Close">Close</button>
+            </header>
+            <main class="modal__content" id="modal-onetalker-content">
+              {% include "components/buttondown.njk" %}
+            </main>
+          </div>
+        </div>
+      </div>
+  </body>
+</html>

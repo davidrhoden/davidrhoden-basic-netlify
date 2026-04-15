@@ -1,0 +1,136 @@
+/* ============================================
+   BAND PAGE STYLES
+   ============================================
+   Styles for standalone band pages
+   ============================================ */
+
+.band-single {
+  margin: 0 auto;
+  max-width: 800px;
+  padding: 2rem 1rem;
+}
+
+.band-article {
+  background: #fff;
+  padding: 2rem;
+}
+
+.band-header {
+  border-bottom: 2px solid #dee2e6;
+  margin-bottom: 2rem;
+  padding-bottom: 1rem;
+}
+
+.band-header h1 {
+  color: var(--black, #000);
+  font-family: var(--font-secondary, serif);
+  font-size: 2.5rem;
+  font-weight: 700;
+  margin: 0 0 0.5rem 0;
+}
+
+.band-years {
+  color: #6c757d;
+  font-family: var(--font-primary, sans-serif);
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin: 0;
+}
+
+.band-content-single {
+  color: var(--black, #000);
+  font-family: var(--font-primary, sans-serif);
+  font-size: 1.1rem;
+  line-height: 1.7;
+}
+
+.band-content-single p {
+  margin-bottom: 1.5rem;
+}
+
+.band-content-single img {
+  display: block;
+  height: auto;
+  margin: 2rem 0;
+  max-width: 100%;
+}
+
+.band-content-single iframe {
+  margin: 1.5rem 0;
+  max-width: 100%;
+}
+
+.band-content-single audio {
+  margin: 0.75rem 0;
+  width: 100%;
+}
+
+.band-content-single figcaption {
+  color: #6c757d;
+  font-size: 1rem;
+  font-style: italic;
+  margin-bottom: 1.5rem;
+  margin-top: -1rem;
+}
+
+.band-content-single a {
+  color: var(--blue, #0066cc);
+  text-decoration: underline;
+}
+
+.band-content-single a:hover {
+  text-decoration: none;
+}
+
+.band-footer {
+  border-top: 2px solid #dee2e6;
+  margin-top: 3rem;
+  padding-top: 1.5rem;
+}
+
+.band-footer a {
+  color: var(--blue, #0066cc);
+  font-family: var(--font-primary, sans-serif);
+  font-size: 1rem;
+  text-decoration: none;
+}
+
+.band-footer a:hover {
+  text-decoration: underline;
+}
+
+@media screen and (max-width: 768px) {
+  .band-single {
+    padding: 1.5rem 1rem;
+  }
+
+  .band-article {
+    padding: 1.5rem;
+  }
+
+  .band-header h1 {
+    font-size: 2rem;
+  }
+
+  .band-years {
+    font-size: 1rem;
+  }
+
+  .band-content-single {
+    font-size: 1rem;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .band-single {
+    padding: 1rem 0.5rem;
+  }
+
+  .band-article {
+    padding: 1rem;
+  }
+
+  .band-header h1 {
+    font-size: 1.75rem;
+  }
+}

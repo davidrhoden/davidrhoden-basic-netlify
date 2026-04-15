@@ -1,0 +1,37 @@
+{% set currentYear = 2024 %}
+{% set startYear = 1984 %}
+{% set totalYears = currentYear - startYear + 1 %}
+{% set yearInterval = 5 %}
+
+<div class="band-timeline-container">
+  <div class="band-timeline">
+    <div class="timeline-years">
+      {% for year in range(startYear, currentYear + 1) %}
+        {% if (year - startYear) % yearInterval == 0 or year == currentYear %}
+          <div class="timeline-year">{{ year }}</div>
+        {% endif %}
+      {% endfor %}
+    </div>
+    
+    <div class="timeline-rows">
+      {% for band in collections.bands %}
+        {% set bandStart = band.data.startYear %}
+        {% set bandEnd = band.data.endYear %}
+        {% set bandColor = band.data.color %}
+        
+        {% set leftPercent = ((bandStart - startYear) / totalYears) * 100 %}
+        {% set widthPercent = ((bandEnd - bandStart + 1) / totalYears) * 100 %}
+        
+        <div class="timeline-row">
+          <div class="band-name">{{ band.data.title }}</div>
+          <div class="timeline-track">
+            <a href="#band-{{ band.fileSlug }}" class="band-segment" 
+                 style="left: {{ leftPercent }}%; width: {{ widthPercent }}%; background-color: {{ bandColor }};"
+                 title="{{ band.data.title }} ({{ bandStart }}-{% if band.data.active %}present{% else %}{{ bandEnd }}{% endif })">
+            </a>
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>
