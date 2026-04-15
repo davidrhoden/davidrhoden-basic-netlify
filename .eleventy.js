@@ -125,6 +125,12 @@ module.exports = function (eleventyConfig) {
       return combined;
     });
 
+  eleventyConfig.addCollection("bands", function (collection) {
+    return collection.getFilteredByGlob("bands/*.md").sort((a, b) => {
+      return a.data.startYear - b.data.startYear;
+    });
+  });
+
   function filterTagList(tags) {
     return (tags || []).filter(
       (tag) => ["all", "nav", "post", "posts"].indexOf(tag) === -1,
