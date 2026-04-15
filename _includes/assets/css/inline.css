@@ -418,11 +418,22 @@ small.timeline-footnote {
   margin-top: 0.5em;
 }
 
+.explanation {
+  box-sizing: border-box;
+  max-width: 100%;
+}
+
 .explanation p.header {
   color: var(--orangered);
   font-family: var(--font-decorative-cooper);
   font-size: 2em;
   line-height: 1;
+}
+
+.embeddable-buttondown-form {
+  box-sizing: border-box;
+  max-width: 100%;
+  overflow: hidden;
 }
 
 @media screen and (width >=600px) {
@@ -630,17 +641,23 @@ form.gsc-search-box {
 
 form label {
 /*  display: none;*/
+  box-sizing: border-box;
   font-family: var(--font-secondary), sans-serif;
+  max-width: 100%;
+  overflow-wrap: break-word;
+  word-break: break-word;
 }
 
 input,
 textarea,
 button {
-  width: 100%;
-  padding: 1em;
-  margin-bottom: 1em;
-  font-size: 1rem;
+  box-sizing: border-box;
   font-family: var(--font-secondary), sans-serif;
+  font-size: 1rem;
+  margin-bottom: 1em;
+  max-width: 100%;
+  padding: 1em;
+  width: 100%;
 }
 
 input,
@@ -651,9 +668,13 @@ textarea {
 #subscribe-to-buttondown-list {
   background-color: var(--blue);
   border: 1px solid var(--blue);
+  box-sizing: border-box;
   color: var(--white);
   cursor: pointer;
+  overflow-wrap: break-word;
   transition: background-color 0.3s ease, border-color 0.3s ease;
+  white-space: normal;
+  word-break: break-word;
 }
 
 #subscribe-to-buttondown-list:hover {
