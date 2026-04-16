@@ -443,15 +443,21 @@ small.timeline-footnote {
 }
 
 /* Header Nav */
-header nav ul {
-  padding: 0;
-  list-style: none;
+header nav .nav-columns {
   display: grid;
+  gap: 2rem;
   grid-template-columns: 1fr;
-  grid-template-rows: auto;
-  gap: 0;
-  grid-auto-flow: row;
   width: 100vw;
+}
+
+header nav .nav-column {
+  min-width: 0;
+}
+
+header nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
 }
 
 header nav li {
@@ -1183,6 +1189,11 @@ span.fade:hover {
 @media screen and (width >=960px) {
   :root {
     font-size: 1.1rem;
+  }
+
+  header nav .nav-columns {
+    grid-template-columns: repeat(3, 1fr);
+    width: auto;
   }
 
   header nav li {
