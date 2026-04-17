@@ -36,12 +36,27 @@ module.exports = [
     ]
   },
   {
-    heading: "My history",
+    heading: "My stories",
     links: [
       {
         title: "Notes/Now",
         url: "/notes/",
         tooltip: "Immediate thoughts on the news, technology, or whatever I want to write about."
+      },
+      {
+        title: "About",
+        url: "/about/",
+        tooltip: "A brief narrative about what I think I was put on the planet for. With pictures."
+      },
+      {
+        title: "Press",
+        url: "/press/",
+        tooltip: "I get interviewed by newspapers and magazines from time to time. Really!"
+      },
+      {
+        title: "Résumé",
+        url: "/resume/",
+        tooltip: "These are the jobs I've had that paid the most."
       },
       {
         title: "Timeline",
@@ -52,27 +67,7 @@ module.exports = [
         title: "Tags List",
         url: "/tagslist/",
         tooltip: "All posts, sorted by every subject I've covered on this website."
-      }
-    ]
-  },
-  {
-    heading: "My CV",
-    links: [
-      {
-        title: "About",
-        url: "/about/",
-        tooltip: "A brief narrative about what I think I was put on the planet for. With pictures."
       },
-      {
-        title: "Résumé",
-        url: "/resume/",
-        tooltip: "These are the jobs I've had that paid the most."
-      },
-      {
-        title: "Press",
-        url: "/press/",
-        tooltip: "I get interviewed by newspapers and magazines from time to time. Really!"
-      }
     ]
   },
   {
