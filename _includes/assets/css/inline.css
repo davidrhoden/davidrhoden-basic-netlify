@@ -50,6 +50,12 @@ img[src*="full-width"] {
   display: block;
 }
 
+.section-divider {
+  border-top: 1px solid #e5e5e5;
+  margin-top: 0;
+  padding: 3em 0;
+}
+
 html,
 body {
   margin: 0;

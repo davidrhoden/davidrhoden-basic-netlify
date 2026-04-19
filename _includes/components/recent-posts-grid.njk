@@ -1,6 +1,6 @@
 <section class="recent-posts-section">
   <div class="recent-posts-container">
-    <h2 class="recent-posts-title">Read more</h2>
+    <p class="section-label">IN THE RECENT PAST</p>
     <div class="recent-posts-grid">
       {% for post in collections[collectionName] | reverse %}
         {% if loop.index > 1 and loop.index <= 4 %}

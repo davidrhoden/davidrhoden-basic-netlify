@@ -12,8 +12,8 @@
 .recent-posts-section {
   background-color: var(--white);
   border-top: 1px solid #e5e5e5;
-  padding: 3em 0;
   margin-top: 2em;
+  padding: 3em 0 1em 0;
 }
 
 .recent-posts-container {
@@ -22,22 +22,22 @@
   padding: 0 1em;
 }
 
-/* OVERRIDE: inline.css:414-419 - .home h2 styling */
-/* Original: .home h2 { font-family: var(--font-secondary); font-weight: 600; font-size: 3em; margin: 0; } */
-.recent-posts-title {
-  font-family: var(--font-secondary);
-  font-weight: 600;
-  font-size: 2rem;
-  margin: 0 0 2em 0;
+/* Section labels for homepage sections */
+.section-label {
   color: var(--black);
+  font-family: var(--font-secondary);
+  font-size: 0.875rem;
+  font-weight: 700;
+  margin: 0 auto 1.5em auto;
+  max-width: 1120px;
+  padding: 0 1em;
   text-align: left;
 }
 
 .recent-posts-grid {
   display: grid;
-  grid-template-columns: 1fr;
   gap: 2em;
-  margin-bottom: 2em;
+  grid-template-columns: 1fr;
 }
 
 .recent-posts-grid article {
@@ -49,12 +49,6 @@
   background-color: var(--white);
   border-radius: 0.5em;
   overflow: hidden;
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
-}
-
-.recent-post-card:hover {
-  transform: translateY(-4px);
-  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
 }
 
 .recent-post-link {
@@ -70,15 +64,10 @@
 }
 
 .recent-post-image img {
-  width: 100%;
   height: 100%;
   margin: 0;
   object-fit: contain;
-  transition: transform 0.3s ease;
-}
-
-.recent-post-card:hover .recent-post-image img {
-  transform: scale(1.05);
+  width: 100%;
 }
 
 .recent-post-content {
