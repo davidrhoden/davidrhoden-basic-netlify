@@ -58,6 +58,8 @@ module.exports = function (eleventyConfig) {
       return DateTime.fromJSDate(dateObj).toFormat("yyyy");
     }
     return dateObj; // fallback
+
+    
   });
 
   eleventyConfig.addFilter("shortDate", (dateObj) => {
