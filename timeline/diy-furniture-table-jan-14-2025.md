@@ -1,6 +1,6 @@
 ---
 title: I made a small table out of lumber scraps.
-date: 2016-01-14T00:00:00
+date: 2026-01-14T00:00:00
 excerpt: My new cat Shadow instantly adopted it.
 summary: My new cat Shadow instantly adopted it.
 image: /static/img/furniture/table-scraps-1-jan-14-2026.jpg
