@@ -5,6 +5,7 @@
   "scripts": {
     "build": "npx eleventy",
     "watch": "npx eleventy --watch",
+    "serve": "NODE_OPTIONS='--max-old-space-size=4096' npx eleventy --serve",
     "debug": "DEBUG=* npx eleventy",
     "debugstart": "cross-env DEBUG=Eleventy* npx @11ty/eleventy --serve --quiet",
     "benchmark": "DEBUG='Eleventy:Benchmark*' npx @11ty/eleventy --serve",

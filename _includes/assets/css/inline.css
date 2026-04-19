@@ -1059,8 +1059,8 @@ span.fade:hover {
   }
 
   .rock img, .rock video {
-    width: 768px;
-    height: auto;
+/*    width: 768px;
+    height: auto;*/
   }
 
    .rock audio {
