@@ -11,7 +11,7 @@ tags:
   - art
   - influences
   - Don Martin
-  - Mad magazine
+  - MAD magazine
   - Matt
   - sound effects
 
