@@ -511,7 +511,7 @@
       "image": "/static/img/paintings/arm-scratcher-now-lost-2013.jpg",
       "height": null,
       "width": null,
-      "price": "LOST",
+      "price": "SOLD",
       "forsale": false,
       "material": "oil on canvas",
       "tags": ["paintings"]
@@ -523,8 +523,8 @@
       "image": "/static/img/paintings/avatar-by-amber-aug-6-2011.jpg",
       "height": null,
       "width": null,
-      "price": null,
-      "forsale": true,
+      "price": "SOLD",
+      "forsale": false,
       "material": "enamel on plywood",
       "tags": ["paintings"]
     },
@@ -535,8 +535,8 @@
       "image": "/static/img/paintings/awfulbaby1.jpg",
       "height": null,
       "width": null,
-      "price": null,
-      "forsale": true,
+      "price": "SOLD",
+      "forsale": false,
       "material": "enamel on plywood",
       "tags": ["paintings"]
     },
@@ -574,7 +574,7 @@
       "price": "SOLD",
       "forsale": false,
       "material": "enamel on plywood",
-      "tags": ["paintings"]
+      "tags": ["paintings", "luchadors"]
     },
     {
       "title": "Many Teeth",
@@ -601,9 +601,9 @@
       "tags": ["paintings", "canvas"]
     },
     {
-      "title": "Cartoony Face",
+      "title": "Cartoon Face",
       "date": "2023-01-01T00:00:00.000Z",
-      "summary": "Cartoony Face: a painting by David Rhoden",
+      "summary": "Cartoon Face: a painting by David Rhoden",
       "image": "/static/img/paintings/cartoony-face.jpg",
       "height": null,
       "width": null,
@@ -643,9 +643,9 @@
       "image": "/static/img/paintings/dottage.jpg",
       "height": null,
       "width": null,
-      "price": null,
-      "forsale": true,
-      "material": "mixed media on paer",
+      "price": "SOLD",
+      "forsale": false,
+      "material": "oil pastel on paper",
       "tags": ["paintings"]
     },
     {
@@ -673,16 +673,16 @@
       "tags": ["paintings"]
     },
     {
-      "title": "Foil Face",
+      "title": "Luchador",
       "date": "2023-01-01T00:00:00.000Z",
-      "summary": "Foil Face: a painting by David Rhoden",
+      "summary": "Luchador: a painting by David Rhoden",
       "image": "/static/img/paintings/foilface.jpg",
       "height": null,
       "width": null,
       "price": "SOLD",
       "forsale": false,
       "material": "enamel and aluiminum foil on plywood",
-      "tags": ["paintings"]
+      "tags": ["paintings", "luchadors"]
     },
     {
       "title": "Football",
@@ -703,8 +703,8 @@
       "image": "/static/img/paintings/fuckhead.jpg",
       "height": null,
       "width": null,
-      "price": null,
-      "forsale": true,
+      "price": "SOLD",
+      "forsale": false,
       "material": "enamel on plywood",
       "tags": ["paintings"]
     },
@@ -763,7 +763,7 @@
       "image": "/static/img/paintings/kdoe-on-cardboard.jpg",
       "height": null,
       "width": null,
-      "price": 100,
+      "price": 120,
       "forsale": true,
       "material": "gouache on corrugated paper",
       "tags": ["paintings"]
@@ -883,8 +883,8 @@
       "image": "/static/img/paintings/one-arm-at-gogos.jpg",
       "height": null,
       "width": null,
-      "price": null,
-      "forsale": true,
+      "price": "SOLD",
+      "forsale": false,
       "material": "enamel on plywood",
       "tags": ["paintings"]
     },
@@ -907,10 +907,10 @@
       "image": "/static/img/paintings/pink-lucha-post-wash-jun-28-2025.jpeg",
       "height": null,
       "width": null,
-      "price": null,
-      "forsale": true,
+      "price": "SOLD. This is avery early one, when I thought luchador masks had holes for the ears.",
+      "forsale": false,
       "material": "enamel on plywood",
-      "tags": ["paintings"]
+      "tags": ["paintings", "luchadors"]
     },
     {
       "title": "Pink Luchador",
@@ -922,7 +922,7 @@
       "price": null,
       "forsale": true,
       "material": "enamel on plywood",
-      "tags": ["paintings"]
+      "tags": ["paintings", "luchadors"]
     },
     {
       "title": "Pink Squiggle",
@@ -943,7 +943,7 @@
       "image": "/static/img/paintings/posingwoman.jpg",
       "height": null,
       "width": null,
-      "price": 200,
+      "price": 210,
       "forsale": true,
       "material": "oil on canvas",
       "tags": ["paintings"]
@@ -1021,18 +1021,6 @@
       "tags": ["paintings"]
     },
     {
-      "title": "Two Heads",
-      "date": "2023-01-01T00:00:00.000Z",
-      "summary": "Two Heads: a painting by David Rhoden",
-      "image": "/static/img/paintings/paintingtwoheads.jpg",
-      "height": null,
-      "width": null,
-      "price": null,
-      "forsale": true,
-      "material": "enamel on plywood",
-      "tags": ["paintings"]
-    },
-    {
       "title": "Two Human Figures",
       "date": "2023-01-01T00:00:00.000Z",
       "summary": "Two Human Figures: a painting by David Rhoden",
@@ -1051,9 +1039,9 @@
       "image": "/static/img/paintings/two-mouth-creature-aug-22-2012.jpg",
       "height": null,
       "width": null,
-      "price": null,
-      "forsale": true,
-      "material": "enamel on plywood",
+      "price": "SOLD",
+      "forsale": false,
+      "material": "enamel and Sharpie on plywood",
       "tags": ["paintings"]
     },
     {
@@ -1063,8 +1051,8 @@
       "image": "/static/img/paintings/typical-man-new-painting-aug-29-2022.jpg",
       "height": null,
       "width": null,
-      "price": null,
-      "forsale": true,
+      "price": "NFS - damaged by weather",
+      "forsale": false,
       "material": "enamel on plywood",
       "tags": ["paintings"]
     },
@@ -1113,7 +1101,7 @@
       "width": null,
       "price": 60,
       "forsale": true,
-      "material": "enamel on plywood",
+      "material": "watercolor and graphite on watercolor paper",
       "tags": ["paintings"]
     },
     {
@@ -1123,8 +1111,8 @@
       "image": "/static/img/paintings/yellowsilverhead.jpg",
       "height": null,
       "width": null,
-      "price": null,
-      "forsale": true,
+      "price": "SOLD",
+      "forsale": false,
       "material": "enamel on plywood",
       "tags": ["paintings"]
     },

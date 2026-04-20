@@ -59,20 +59,10 @@ module.exports = [
         tooltip: "These are the jobs I've had that paid the most."
       },
       {
-        title: "Timeline",
-        url: "/timeline/",
-        tooltip: "My whole life story, in blog posts."
+        title: "Press",
+        url: "/press/",
+        tooltip: "I get interviewed by newspapers and magazines from time to time. Really!"
       },
-      {
-        title: "Tags List",
-        url: "/tagslist/",
-        tooltip: "All posts, sorted by every subject I've covered on this website."
-      },
-    ]
-  },
-  {
-    heading: null,
-    links: [
       {
         title: "Get in touch",
         url: "/contact/",

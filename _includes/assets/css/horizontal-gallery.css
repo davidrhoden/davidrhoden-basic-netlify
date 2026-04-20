@@ -99,9 +99,9 @@
 
 /* Links around images */
 .horizontal-gallery-container a {
-  align-items: center;
+/*  align-items: center;
   display: flex;
-  flex-direction: column;
+  flex-direction: column;*/
   text-decoration: none;
 }
 

@@ -1,14 +1,18 @@
 <nav>
-  <ul>
+  <div class="nav-columns">
   {%- for section in navigation %}
-    {%- if section.heading %}
-    <li class="menu-header">{{ section.heading }}</li>
-    {%- endif %}
-    {%- for link in section.links %}
-    <li>
-      <a href="{{ link.url }}"{% if link.tooltip %} data-tooltip="{{ link.tooltip }}"{% endif %}{% if link.external %} target="_blank" rel="noopener noreferrer"{% endif %}>{{ link.title }}</a>
-    </li>
-    {%- endfor %}
+    <div class="nav-column">
+      <ul>
+      {%- if section.heading %}
+        <li class="menu-header">{{ section.heading }}</li>
+      {%- endif %}
+      {%- for link in section.links %}
+        <li>
+          <a href="{{ link.url }}"{% if link.tooltip %} data-tooltip="{{ link.tooltip }}"{% endif %}{% if link.external %} target="_blank" rel="noopener noreferrer"{% endif %}>{{ link.title }}</a>
+        </li>
+      {%- endfor %}
+      </ul>
+    </div>
   {%- endfor %}
-  </ul>
+  </div>
 </nav>

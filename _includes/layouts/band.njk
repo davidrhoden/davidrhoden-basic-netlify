@@ -1,0 +1,31 @@
+<!doctype html>
+<html {% if section %}data-current="{{ section }}"{% endif %} lang="en">
+  {% include "components/head.njk" %}
+  <body class="band-page {{ page.fileSlug }}">
+      {% include "components/header.njk" %}
+      
+      <link rel="stylesheet" href="/_includes/assets/css/band-page.css">
+      
+      <main class="band-single">
+        <article class="band-article">
+          <header class="band-header">
+            <h1>{{ title }}</h1>
+            <p class="band-years">
+              {{ startYear }}-{% if active %}present{% else %}{{ endYear }}{% endif %}
+            </p>
+          </header>
+          
+          <div class="band-content-single">
+            {{ content | safe }}
+          </div>
+          
+          <footer class="band-footer">
+            <p><a href="/rock/">← Back to all bands</a></p>
+          </footer>
+        </article>
+      </main>
+      
+      {% include "components/footer.njk" %}
+      {% include "components/modal-search.njk" %}
+  </body>
+</html>

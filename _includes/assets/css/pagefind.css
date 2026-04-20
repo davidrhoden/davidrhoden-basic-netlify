@@ -160,6 +160,12 @@
   border-radius: var(--pagefind-ui-image-border-radius);
 }
 
+/* Constrain images in search results excerpt */
+.pagefind-ui__result-excerpt img {
+  height: auto;
+  max-width: 50%;
+}
+
 /* Result content */
 .pagefind-ui__result-inner {
   flex: 1;
