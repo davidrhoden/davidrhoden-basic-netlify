@@ -1,72 +1,82 @@
 module.exports = [
   {
-    heading: "My work",
+    heading: "Art",
     links: [
       {
         title: "Paintings",
-        url: "/paintings/",
-        tooltip: "These are my paintings I took pictures of."
+        url: "/paintings/"
       },
       {
         title: "Illustrations",
-        url: "/illustrations/",
-        tooltip: "Mostly magazine illustrations. Some stuff for corporate presentations."
+        url: "/illustrations/"
       },
       {
         title: "Designs",
-        url: "/designs/",
-        tooltip: "Graphic design is my passion."
+        url: "/designs/"
       },
       {
         title: "Animations",
-        url: "/animations/",
-        tooltip: "In law school a professor asked us if we had dream jobs. I wrote down 'animation'."
+        url: "/animations/"
       },
       {
         title: "Art For Sale",
         url: "https://thisismyhappening.com",
-        tooltip: "See my paintings for sale at my other site, thisismyhappening.com.",
         external: true
       },
       {
         title: "Order a print",
-        url: "/order-form/",
-        tooltip: "Buy my 'I'm Holding In A Lot Of Anger' print. It's $25 with shipping."
+        url: "/order-form/"
       }
     ]
   },
   {
-    heading: "My stories",
+    heading: "Music",
     links: [
       {
-        title: "Notes/Now",
-        url: "/notes/",
-        tooltip: "Immediate thoughts on the news, technology, or whatever I want to write about."
-      },
+        title: "My bands",
+        url: "/rock/"
+      }
+    ]
+  },
+  {
+    heading: "Work",
+    links: [
       {
-        title: "About",
-        url: "/about/",
-        tooltip: "A brief narrative about what I think I was put on the planet for. With pictures."
-      },
-      {
-        title: "Press",
-        url: "/press/",
-        tooltip: "I get interviewed by newspapers and magazines from time to time. Really!"
+        title: "Web Portfolio",
+        url: "/web/"
       },
       {
         title: "Résumé",
-        url: "/resume/",
-        tooltip: "These are the jobs I've had that paid the most."
+        url: "/resume/"
+      }
+    ]
+  },
+  {
+    heading: "Other stuff",
+    links: [
+      {
+        title: "Notes/Now",
+        url: "/notes/"
+      },
+      {
+        title: "Timeline",
+        url: "/timeline/"
+      },
+      {
+        title: "Tags List",
+        url: "/tagslist/"
+      },
+      {
+        title: "About",
+        url: "/about/"
       },
       {
         title: "Press",
-        url: "/press/",
-        tooltip: "I get interviewed by newspapers and magazines from time to time. Really!"
+        url: "/press/"
       },
       {
         title: "Get in touch",
-        url: "/contact/",
-        tooltip: "Send me a message, or sign up for my (very fun) online newsletter."
+        url: "/contact/"
       }
     ]
   }
