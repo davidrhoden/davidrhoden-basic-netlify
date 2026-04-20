@@ -26,9 +26,11 @@ eleventyNavigation:
 
   They are signed but not numbered. Edition of 27. Hand printed (silkscreened) by me and Melanie Koch.
 
-  To order, please Venmo $25 ($20 plus $5 P&H) to @davidrhoden, and please fill out the form below so I have your mailing information.
-
-  {% include "components/form-order-prints.njk" %}
-
+  <div id="paypal-container-VDSWG7PAA5DQE"></div>
+    <script>
+      paypal.HostedButtons({
+        hostedButtonId: "VDSWG7PAA5DQE",
+      }).render("#paypal-container-VDSWG7PAA5DQE")
+    </script>
   </div>
 </div>
