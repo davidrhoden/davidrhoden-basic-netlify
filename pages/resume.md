@@ -6,7 +6,7 @@ bodyClass: "resume"
 excerpt: "The resume of David Rhoden, a web developer, web designer, and digital art director, currently based in New Orleans."
 ---
 
-<p><a href="/static/pdf/resume_davidrhoden-mar-30-2026.pdf" target="_blank">download in PDF format</a></p>
+<p><a href="/static/pdf/resume_davidrhoden-apr-20-2026.pdf" target="_blank">download in PDF format</a></p>
 
 <div class="resume">
 David Rhoden<br>
