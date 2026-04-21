@@ -13,7 +13,7 @@ $(document).ready(function () {
   var $hamburger = $(".hamburger");
   $hamburger.on("click", function (e) {
     $hamburger.toggleClass("is-active");
-    $("nav").toggleClass("is-active");
+    $(".nav-mobile").toggleClass("is-active");
   });
 });
 

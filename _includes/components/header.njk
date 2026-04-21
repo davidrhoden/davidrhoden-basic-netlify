@@ -1,6 +1,25 @@
 <header>
   <div class="flex-container">
     <a class="main-link" href="/{{ url }}">{{ metadata.title }}</a>
+    
+    {# Desktop horizontal navigation #}
+    <nav class="nav-desktop">
+      <ul>
+      {%- for section in navigation %}
+        <li class="nav-item">
+          <span class="nav-label">{{ section.heading }}.</span>
+          <ul class="nav-dropdown">
+          {%- for link in section.links %}
+            <li>
+              <a href="{{ link.url }}"{% if link.external %} target="_blank" rel="noopener noreferrer"{% endif %}>{{ link.title }}</a>
+            </li>
+          {%- endfor %}
+          </ul>
+        </li>
+      {%- endfor %}
+      </ul>
+    </nav>
+
     <div class="header-right">
       <button id="nav-link-search"
               class="nav-link-search"
@@ -27,5 +46,24 @@
       </div>
     </div>
   </div>
-  {% include "components/nav.njk" %}
+  
+  {# Mobile hamburger navigation #}
+  <nav class="nav-mobile">
+    <div class="nav-columns">
+    {%- for section in navigation %}
+      <div class="nav-column">
+        <ul>
+        {%- if section.heading %}
+          <li class="menu-header">{{ section.heading }}</li>
+        {%- endif %}
+        {%- for link in section.links %}
+          <li>
+            <a href="{{ link.url }}"{% if link.external %} target="_blank" rel="noopener noreferrer"{% endif %}>{{ link.title }}</a>
+          </li>
+        {%- endfor %}
+        </ul>
+      </div>
+    {%- endfor %}
+    </div>
+  </nav>
 </header>
