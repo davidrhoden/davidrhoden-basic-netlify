@@ -1156,6 +1156,7 @@ span.fade:hover {
 .resume .resume {
   background-color: #fafaf8;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  font-family: 'BentonSans Regular', sans-serif;
   font-size: .8rem;
   margin: 2rem auto;
   max-width: 80%;
@@ -1163,17 +1164,88 @@ span.fade:hover {
 }
 
 .resume p.date {
+  color: var(--gray);
+  font-size: 0.7rem;
   margin-bottom: 0;
 }
 
 .resume p.position {
+  font-weight: 600;
   margin-top: 0;
+}
+
+.resume .resume-header {
+  margin-bottom: 2rem;
+}
+
+.resume .resume-header span {
+  display: inline-block;
+  font-size: 0.8rem;
+  margin-right: 1rem;
+}
+
+.resume .resume-header p {
+  margin: 0.25rem 0;
+}
+
+.resume .resume-two-column {
+  display: block;
+}
+
+.resume .resume-main {
+  margin-bottom: 2rem;
+}
+
+.resume .resume-sidebar {
+  padding: 1.5rem;
+}
+
+.resume .resume-sidebar h3 {
+  color: var(--black);
+  font-size: 1rem;
+  font-weight: 700;
+  margin-bottom: 0.5rem;
+  margin-top: 1.5rem;
+}
+
+.resume .resume-sidebar h3:first-child {
+  margin-top: 0;
+}
+
+.resume .resume-sidebar ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.resume .resume-sidebar li {
+  font-size: 0.85em;
+  margin-bottom: 0.25rem;
+}
+
+.resume ul.highlights {
+  margin-left: -2em;
+  margin-top: 0.5rem;
+}
+
+.resume ul.highlights li {
+  margin-bottom: 0.5rem;
 }
 
 @media screen and (width >= 768px) {
   .resume .resume {
     max-width: 816px;
     padding: 4rem;
+  }
+
+  .resume .resume-two-column {
+    display: grid;
+    gap: 2rem;
+    grid-template-columns: 2fr 1fr;
+  }
+
+  .resume .resume-main {
+    margin-bottom: 0;
   }
 }
 
