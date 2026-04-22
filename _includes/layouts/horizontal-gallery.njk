@@ -16,12 +16,39 @@
               {% set dataItems = illustrations.illustrations %}
             {% elif dataFile == "designs" %}
               {% set dataItems = designs.designs %}
+            {% elif dataFile == "animations" %}
+              {% set dataItems = animations.animations %}
             {% endif %}
             {% for item in dataItems %}
               <li data-painting-id="{{ loop.index0 }}">
-                <a href="{{ item.image }}" class="gallery-image-link" title="{{ item.title }}">
-                  <img src="{{ item.image }}" alt="{{ item.title }} by David Rhoden">
-                </a>
+                {% if dataFile == "animations" %}
+                  {# Animations can be videos, images, or iframes #}
+                  {% if item.type == "video" %}
+                    <div class="animation-individual">
+                      <video {% if item.controls %}controls{% endif %} {% if item.loop %}loop{% endif %} {% if item.muted %}muted{% endif %} {% if item.autoplay %}autoplay{% endif %}>
+                        <source type="video/mp4" src="{{ item.videoSrc }}">
+                        <p>Your browser does not support the video element.</p>
+                      </video>
+                    </div>
+                  {% elif item.type == "iframe" %}
+                    <div class="animation-individual">
+                      <iframe src="{{ item.iframeSrc }}" width="{{ item.width }}" height="{{ item.height }}" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+                      {% if item.caption %}
+                        <p>{{ item.caption | safe }}</p>
+                      {% endif %}
+                    </div>
+                  {% else %}
+                    {# Default to image #}
+                    <a href="{{ item.image }}" class="gallery-image-link" title="{{ item.title }}">
+                      <img src="{{ item.image }}" alt="{{ item.title }}">
+                    </a>
+                  {% endif %}
+                {% else %}
+                  {# Regular image galleries #}
+                  <a href="{{ item.image }}" class="gallery-image-link" title="{{ item.title }}">
+                    <img src="{{ item.image }}" alt="{{ item.title }} by David Rhoden">
+                  </a>
+                {% endif %}
                 <div class="painting-metadata">
                   <h3 class="painting-title">{{ item.title | safe }}</h3>
                   <p class="painting-details">
