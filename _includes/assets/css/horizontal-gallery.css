@@ -151,7 +151,7 @@
 /* Navigation arrows */
 .gallery-arrow {
   align-items: center;
-  background-color: rgba(255, 255, 255, 0.8);
+  background-color: var(--blue);
   border: none;
   border-radius: 50%;
   color: var(--black, #000);
@@ -159,7 +159,7 @@
   display: flex;
   height: 60px;
   justify-content: center;
-  opacity: 0.5;
+  opacity: 0.9;
   position: fixed;
   top: 50%;
   transform: translateY(-50%);
@@ -169,7 +169,7 @@
 }
 
 .gallery-arrow:hover {
-  background-color: rgba(255, 255, 255, 0.95);
+  background-color: var(--blue);
   opacity: 1;
 }
 
@@ -228,7 +228,7 @@
 @media screen and (max-width: 480px) {
   .gallery-arrow {
     height: 40px;
-    opacity: 0.3;
+    opacity: 0.7;
     width: 40px;
   }
   
