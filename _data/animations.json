@@ -1,14 +1,14 @@
 {
   "animations": [
     {
-      "title": "Animated Face",
+      "title": "Animated Face animation by David Rhoden",
       "type": "video",
       "videoSrc": "/static/img/animations/mp4s/animated-face-mar-5-2021-wm.mp4",
       "controls": true,
       "loop": true
     },
     {
-      "title": "Bunny Face",
+      "title": "Bunny Face animation by David Rhoden",
       "type": "video",
       "videoSrc": "/static/img/animations/mp4s/bunnyface.mp4",
       "controls": true,
@@ -38,7 +38,7 @@
       "image": "/static/img/animations/thumbs-up.gif"
     },
     {
-      "title": "Alien and Friend",
+      "title": "Alien and Friend animation by David Rhoden",
       "type": "video",
       "videoSrc": "/static/img/animations/mp4s/alienandfriend720x720.mp4",
       "autoplay": true,
@@ -46,7 +46,7 @@
       "muted": true
     },
     {
-      "title": "Head Shaker",
+      "title": "Head Shaker animation by David Rhoden",
       "type": "video",
       "videoSrc": "/static/img/animations/mp4s/head-shaker.mp4",
       "autoplay": true,
@@ -66,27 +66,25 @@
       "loop": true
     },
     {
-      "title": "Lemon Drop",
+      "title": "Martian Drama animation by David Rhoden",
       "type": "video",
       "videoSrc": "/static/img/animations/mp4s/lemondrop640.mp4",
       "controls": true,
       "loop": true
     },
     {
-      "title": "Bad Misters & Stacks at Saturn Bar, New Orleans, October 28 2021",
+      "title": "Bad Misters & Stacks at Saturn Bar, New Orleans animation by David Rhoden",
       "type": "iframe",
       "iframeSrc": "https://player.vimeo.com/video/639104498?h=eba75bda18",
-      "width": "640",
-      "height": "360",
       "caption": "<a href=\"https://vimeo.com/639104498\">Bad Misters & Stacks at Saturn Bar, New Orleans, October 28 2021</a> from <a href=\"https://vimeo.com/user4893467\">David Rhoden</a> on <a href=\"https://vimeo.com\">Vimeo</a>."
     },
     {
-      "title": "Stacks with Lorelei at Gasa Gasa animation",
+      "title": "Stacks with Lorelei at Gasa Gasa, New Orleans animation by David Rhoden",
       "type": "image",
       "image": "/static/img/animations/gasagasa180807_02.gif"
     },
     {
-      "title": "Stacks at Pirogue's animation",
+      "title": "Stacks at Pirogue's animation by David Rhoden",
       "type": "image",
       "image": "/static/img/animations/stacks-animation-jun-15-2024-v7.gif"
     },
@@ -101,12 +99,7 @@
       "image": "/static/img/animations/slappers.gif"
     },
     {
-      "title": "3D-Animated Car animation by David Rhoden",
-      "type": "image",
-      "image": "/static/img/animations/72-frame-turnaround.gif"
-    },
-    {
-      "title": "Walk cycle animation by David Rhoden",
+      "title": "Walk Cycle animation by David Rhoden",
       "type": "image",
       "image": "/static/img/animations/walkcycle.gif"
     },
@@ -121,14 +114,9 @@
       "image": "/static/img/animations/guytripping.gif"
     },
     {
-      "title": "scratch animation by David Rhoden",
+      "title": "Scratch animation by David Rhoden",
       "type": "image",
       "image": "/static/img/animations/ampuscratch.gif"
-    },
-    {
-      "title": "Bugs animation by David Rhoden",
-      "type": "image",
-      "image": "/static/img/animations/bugs-apr-12-2014.gif"
     },
     {
       "title": "Kickball animation by David Rhoden",
