@@ -58,7 +58,7 @@
                     {% if item.material %}
                       <span class="painting-material">{{ item.material }}</span><br>
                     {% endif %}
-                    {% if item.height and item.width %}
+                    {% if item.height and item.width and dataFile != "animations" %}
                       <span class="painting-size">{{ item.height }}" × {{ item.width }}"</span><br>
                     {% endif %}
                     {% if item.price %}

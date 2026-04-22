@@ -91,10 +91,26 @@
 
 /* Images */
 .horizontal-gallery-container img {
-  height: 60vh;
+  height: auto;
+  max-height: 60vh;
   max-width: 80vw;
   object-fit: contain;
   width: auto;
+}
+
+/* Videos */
+.horizontal-gallery-container video {
+  height: auto;
+  max-height: 60vh;
+  max-width: 80vw;
+  object-fit: contain;
+  width: auto;
+}
+
+/* Iframes */
+.horizontal-gallery-container iframe {
+  max-height: 60vh;
+  max-width: 80vw;
 }
 
 /* Links around images */
@@ -211,7 +227,19 @@
   }
   
   .horizontal-gallery-container img {
-    height: 60vh;
+    height: auto;
+    max-height: 60vh;
+    max-width: 90vw;
+  }
+  
+  .horizontal-gallery-container video {
+    height: auto;
+    max-height: 60vh;
+    max-width: 90vw;
+  }
+  
+  .horizontal-gallery-container iframe {
+    max-height: 60vh;
     max-width: 90vw;
   }
   
