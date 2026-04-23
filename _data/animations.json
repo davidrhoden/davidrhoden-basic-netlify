@@ -1,16 +1,16 @@
 {
   "animations": [
     {
-      "title": "Animated Face animation by David Rhoden",
+      "title": "Bunny Face animation by David Rhoden",
       "type": "video",
-      "videoSrc": "/static/img/animations/mp4s/animated-face-mar-5-2021-wm.mp4",
+      "videoSrc": "/static/img/animations/mp4s/bunnyface.mp4",
       "controls": true,
       "loop": true
     },
     {
-      "title": "Bunny Face animation by David Rhoden",
+      "title": "Animated Face animation by David Rhoden",
       "type": "video",
-      "videoSrc": "/static/img/animations/mp4s/bunnyface.mp4",
+      "videoSrc": "/static/img/animations/mp4s/animated-face-mar-5-2021-wm.mp4",
       "controls": true,
       "loop": true
     },
@@ -114,11 +114,6 @@
       "title": "Trippin' animation by David Rhoden",
       "type": "image",
       "image": "/static/img/animations/guytripping.gif"
-    },
-    {
-      "title": "Scratch animation by David Rhoden",
-      "type": "image",
-      "image": "/static/img/animations/ampuscratch.gif"
     },
     {
       "title": "Kickball animation by David Rhoden",
