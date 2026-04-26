@@ -44,19 +44,19 @@ module.exports = [
         tooltip: "Immediate thoughts on the news, technology, or whatever I want to write about."
       },
       {
+        title: "Timeline",
+        url: "/timeline/",
+        tooltip: "A fun project for me; basically a diary of what I did and saw every day."
+      },
+      {
         title: "About",
         url: "/about/",
         tooltip: "A brief narrative about what I think I was put on the planet for. With pictures."
       },
       {
-        title: "Press",
-        url: "/press/",
-        tooltip: "I get interviewed by newspapers and magazines from time to time. Really!"
-      },
-      {
         title: "Résumé",
         url: "/resume/",
-        tooltip: "These are the jobs I've had that paid the most."
+        tooltip: "These are the jobs I've had that paid the most frequently."
       },
       {
         title: "Press",
