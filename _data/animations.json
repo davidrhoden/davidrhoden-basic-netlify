@@ -1,0 +1,124 @@
+{
+  "animations": [
+    {
+      "title": "Bunny Face animation by David Rhoden",
+      "type": "video",
+      "videoSrc": "/static/img/animations/mp4s/bunnyface.mp4",
+      "controls": true,
+      "loop": true
+    },
+    {
+      "title": "Animated Face animation by David Rhoden",
+      "type": "video",
+      "videoSrc": "/static/img/animations/mp4s/animated-face-mar-5-2021-wm.mp4",
+      "controls": true,
+      "loop": true
+    },
+    {
+      "title": "Waver animation by David Rhoden",
+      "type": "image",
+      "image": "/static/img/animations/160628_waver_600.gif"
+    },
+    {
+      "title": "Yoyo animation by David Rhoden",
+      "type": "image",
+      "image": "/static/img/animations/160924_yoyo.gif"
+    },
+    {
+      "title": "Siberia",
+      "type": "video",
+      "videoSrc": "/static/img/animations/mp4s/Siberia-180929-640.mp4",
+      "controls": true,
+      "loop": true,
+      "muted": true
+    },
+    {
+      "title": "Thumbs Up animation by David Rhoden",
+      "type": "image",
+      "image": "/static/img/animations/thumbs-up.gif"
+    },
+    {
+      "title": "Alien and Friend animation by David Rhoden",
+      "type": "video",
+      "videoSrc": "/static/img/animations/mp4s/alienandfriend720x720.mp4",
+      "autoplay": true,
+      "loop": true,
+      "muted": true
+    },
+    {
+      "title": "Head Shaker animation by David Rhoden",
+      "type": "video",
+      "videoSrc": "/static/img/animations/mp4s/head-shaker.mp4",
+      "autoplay": true,
+      "loop": true,
+      "muted": true
+    },
+    {
+      "title": "Cochon de Lait animation by David Rhoden",
+      "type": "image",
+      "image": "/static/img/animations/cochondelait.gif"
+    },
+    {
+      "title": "Stacks Circle Bar",
+      "type": "video",
+      "videoSrc": "/static/img/animations/mp4s/StacksCircleBar.mp4",
+      "controls": true,
+      "loop": true
+    },
+    {
+      "title": "Martian Drama animation by David Rhoden",
+      "type": "video",
+      "videoSrc": "/static/img/animations/mp4s/lemondrop640.mp4",
+      "controls": true,
+      "loop": true
+    },
+    {
+      "title": "Bad Misters & Stacks at Saturn Bar, New Orleans animation by David Rhoden",
+      "type": "iframe",
+      "iframeSrc": "https://player.vimeo.com/video/639104498?h=eba75bda18",
+      "width": "640",
+      "height": "360",
+      "caption": "<a href=\"https://vimeo.com/639104498\">Bad Misters & Stacks at Saturn Bar, New Orleans, October 28 2021</a> from <a href=\"https://vimeo.com/user4893467\">David Rhoden</a> on <a href=\"https://vimeo.com\">Vimeo</a>."
+    },
+    {
+      "title": "Stacks with Lorelei at Gasa Gasa, New Orleans animation by David Rhoden",
+      "type": "image",
+      "image": "/static/img/animations/gasagasa180807_02.gif"
+    },
+    {
+      "title": "Stacks at Pirogue's animation by David Rhoden",
+      "type": "image",
+      "image": "/static/img/animations/stacks-animation-jun-15-2024-v7.gif"
+    },
+    {
+      "title": "Clockface animation by David Rhoden",
+      "type": "image",
+      "image": "/static/img/animations/clockface.gif"
+    },
+    {
+      "title": "Slappers animation by David Rhoden",
+      "type": "image",
+      "image": "/static/img/animations/slappers.gif"
+    },
+    {
+      "title": "Walk Cycle animation by David Rhoden",
+      "type": "image",
+      "image": "/static/img/animations/walkcycle.gif"
+    },
+    {
+      "title": "You Can't Hide Your Flyin' Eyes animation by David Rhoden",
+      "type": "image",
+      "image": "/static/img/animations/flying-eyes-july-9-2014.gif"
+    },
+    {
+      "title": "Trippin' animation by David Rhoden",
+      "type": "image",
+      "image": "/static/img/animations/guytripping.gif"
+    },
+    {
+      "title": "Kickball animation by David Rhoden",
+      "type": "image",
+      "image": "/static/img/animations/160518_kickball.gif"
+    }
+  ]
+}
