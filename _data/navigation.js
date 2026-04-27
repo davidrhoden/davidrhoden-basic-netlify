@@ -5,12 +5,12 @@ module.exports = [
       {
         title: "Paintings",
         url: "/paintings/",
-        tooltip: "These are my paintings I took pictures of."
+        tooltip: "These are my paintings that I remembered to take pictures of."
       },
       {
         title: "Illustrations",
         url: "/illustrations/",
-        tooltip: "Mostly magazine illustrations. Some stuff for corporate presentations."
+        tooltip: "I had a short career as a commercial illustrator. Maybe I will again."
       },
       {
         title: "Designs",
@@ -25,7 +25,7 @@ module.exports = [
       {
         title: "Art For Sale",
         url: "https://thisismyhappening.com",
-        tooltip: "See my paintings for sale at my other site, thisismyhappening.com.",
+        tooltip: "EXTERNAL LINK.See my paintings for sale at my other site, thisismyhappening.com.",
         external: true
       },
       {
@@ -41,7 +41,7 @@ module.exports = [
       {
         title: "My bands",
         url: "/rock/",
-        tooltip: "A chronological list of all my bands. The first one started in 1979."
+        tooltip: "A chronological list of all my bands."
       }
     ]
   },
@@ -49,14 +49,9 @@ module.exports = [
     heading: "Work",
     links: [
       {
-        title: "Web Portfolio",
-        url: "/web/",
-        tooltip: "A selection of websites I've designed and built."
-      },
-      {
         title: "Résumé",
         url: "/resume/",
-        tooltip: "These are the jobs I've had that paid the most."
+        tooltip: "These are the jobs I've had that paid the most, or the most frequently."
       }
     ]
   },
@@ -81,7 +76,7 @@ module.exports = [
       {
         title: "About",
         url: "/about/",
-        tooltip: "A brief narrative about what I think I was put on the planet for. With pictures."
+        tooltip: "A brief introductory narrative. With pictures."
       },
       {
         title: "Press",

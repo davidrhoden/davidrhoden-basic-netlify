@@ -1,7 +1,7 @@
 ---
 title: The Grudniks/The Railing Stains
-startYear: 1992
-endYear: 1993
+startYear: 1991
+endYear: 1992
 color: "#1abc9c"
 permalink: /bands/the-grudniks/
 image: ""

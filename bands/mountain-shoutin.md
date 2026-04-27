@@ -1,7 +1,7 @@
 ---
 title: Mountain Shoutin'
-startYear: 2016
-endYear: 2017
+startYear: 2014
+endYear: 2016
 color: "#6a5acd"
 permalink: /bands/mountain-shoutin/
 image: "/static/img/rock/mtnshtn.jpg"

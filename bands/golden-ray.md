@@ -1,6 +1,6 @@
 ---
 title: Golden Ray
-startYear: 2018
+startYear: 2024
 endYear: 2024
 color: "#ffd700"
 permalink: /bands/golden-ray/

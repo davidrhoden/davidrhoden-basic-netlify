@@ -1,7 +1,7 @@
 ---
 title: The Innuendos
-startYear: 2001
-endYear: 2002
+startYear: 1999
+endYear: 1999
 color: "#c0392b"
 permalink: /bands/the-innuendos/
 image: "/static/img/rock/innuendos960x640.jpg"

@@ -1,7 +1,7 @@
 ---
 title: The Stacks
 startYear: 2000
-endYear: 2024
+endYear: 2025
 color: "#ff6b6b"
 permalink: /bands/the-stacks/
 image: "/static/img/rock/stacks/stacks-at-gasa-gasa-aug-11-2018.jpg"

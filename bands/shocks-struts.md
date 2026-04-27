@@ -1,6 +1,6 @@
 ---
 title: Shocks & Struts/"The Benny Band"
-startYear: 2006
+startYear: 2007
 endYear: 2007
 color: "#7f8c8d"
 permalink: /bands/shocks-struts/

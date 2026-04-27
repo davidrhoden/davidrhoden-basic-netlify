@@ -1,7 +1,7 @@
 ---
 title: Dial A Miracle
-startYear: 1987
-endYear: 1988
+startYear: 1986
+endYear: 1987
 color: "#3498db"
 permalink: /bands/dial-a-miracle/
 image: "/static/img/rock/dial-a-miracle-band-photo.jpg"

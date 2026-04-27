@@ -1,7 +1,7 @@
 ---
 title: The Dave Rhoden Band
 startYear: 2006
-endYear: 2007
+endYear: 2006
 color: "#f1c40f"
 permalink: /bands/dave-rhoden-band/
 image: ""

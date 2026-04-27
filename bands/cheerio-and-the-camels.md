@@ -1,7 +1,7 @@
 ---
 title: Cheerio and The Camels
-startYear: 1988
-endYear: 1989
+startYear: 1986
+endYear: 1986
 color: "#f39c12"
 permalink: /bands/cheerio-and-the-camels/
 image: ""
