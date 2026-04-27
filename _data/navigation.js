@@ -4,28 +4,34 @@ module.exports = [
     links: [
       {
         title: "Paintings",
-        url: "/paintings/"
+        url: "/paintings/",
+        tooltip: "These are my paintings I took pictures of."
       },
       {
         title: "Illustrations",
-        url: "/illustrations/"
+        url: "/illustrations/",
+        tooltip: "Mostly magazine illustrations. Some stuff for corporate presentations."
       },
       {
         title: "Designs",
-        url: "/designs/"
+        url: "/designs/",
+        tooltip: "Graphic design is my passion."
       },
       {
         title: "Animations",
-        url: "/animations/"
+        url: "/animations/",
+        tooltip: "In law school a professor asked us if we had dream jobs. I wrote down 'animation'."
       },
       {
         title: "Art For Sale",
         url: "https://thisismyhappening.com",
+        tooltip: "See my paintings for sale at my other site, thisismyhappening.com.",
         external: true
       },
       {
         title: "Order a print",
-        url: "/order-form/"
+        url: "/order-form/",
+        tooltip: "Buy my 'I'm Holding In A Lot Of Anger' print. It's $25 with shipping."
       }
     ]
   },
@@ -34,7 +40,8 @@ module.exports = [
     links: [
       {
         title: "My bands",
-        url: "/rock/"
+        url: "/rock/",
+        tooltip: "A chronological list of all my bands. The first one started in 1979."
       }
     ]
   },
@@ -43,11 +50,13 @@ module.exports = [
     links: [
       {
         title: "Web Portfolio",
-        url: "/web/"
+        url: "/web/",
+        tooltip: "A selection of websites I've designed and built."
       },
       {
         title: "Résumé",
-        url: "/resume/"
+        url: "/resume/",
+        tooltip: "These are the jobs I've had that paid the most."
       }
     ]
   },
@@ -56,27 +65,33 @@ module.exports = [
     links: [
       {
         title: "Notes/Now",
-        url: "/notes/"
+        url: "/notes/",
+        tooltip: "Immediate thoughts on the news, technology, or whatever I want to write about."
       },
       {
         title: "Timeline",
-        url: "/timeline/"
+        url: "/timeline/",
+        tooltip: "A fun project for me; basically a diary of what I did and saw every day."
       },
       {
         title: "Tags List",
-        url: "/tagslist/"
+        url: "/tagslist/",
+        tooltip: "All posts, sorted by every subject I've covered on this website."
       },
       {
         title: "About",
-        url: "/about/"
+        url: "/about/",
+        tooltip: "A brief narrative about what I think I was put on the planet for. With pictures."
       },
       {
         title: "Press",
-        url: "/press/"
+        url: "/press/",
+        tooltip: "I get interviewed by newspapers and magazines from time to time. Really!"
       },
       {
         title: "Get in touch",
-        url: "/contact/"
+        url: "/contact/",
+        tooltip: "Send me a message, or sign up for my (very fun) online newsletter."
       }
     ]
   }
