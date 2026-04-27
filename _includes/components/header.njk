@@ -11,7 +11,12 @@
           <ul class="nav-dropdown">
           {%- for link in section.links %}
             <li>
-              <a href="{{ link.url }}"{% if link.external %} target="_blank" rel="noopener noreferrer"{% endif %}>{{ link.title }}</a>
+              <a href="{{ link.url }}"{% if link.external %} target="_blank" rel="noopener noreferrer"{% endif %}>
+                <span class="nav-link-text">{{ link.title }}</span>
+                {%- if link.tooltip %}
+                <span class="nav-tooltip">{{ link.tooltip }}</span>
+                {%- endif %}
+              </a>
             </li>
           {%- endfor %}
           </ul>

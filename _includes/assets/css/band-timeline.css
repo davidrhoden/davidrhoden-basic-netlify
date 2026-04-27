@@ -1,17 +1,20 @@
 /* ============================================
    BAND TIMELINE
    ============================================
-   Visual timeline showing band activity from
-   1984 to present with colored segments for
-   each band's active period.
+   Single timeline track with colored segments
+   and band names positioned below with
+   connecting lines.
    ============================================ */
 
 .band-timeline-container {
   background: #f8f9fa;
   border-bottom: 1px solid #dee2e6;
-  padding: 2rem 0 1rem;
+  margin-bottom: 2rem;
+  margin-left: calc(-50vw + 50%);
+  margin-right: calc(-50vw + 50%);
+  padding: 2rem 0 3rem;
   position: relative;
-  width: 100%;
+  width: 100vw;
 }
 
 .band-timeline {
@@ -23,7 +26,7 @@
 .timeline-years {
   align-items: center;
   display: flex;
-  height: 40px;
+  height: 30px;
   justify-content: space-between;
   margin-bottom: 0.5rem;
   position: relative;
@@ -32,41 +35,19 @@
 .timeline-year {
   color: #6c757d;
   font-family: var(--font-primary, sans-serif);
-  font-size: 0.75rem;
-  font-weight: 600;
+  font-size: 0.6rem;
+  font-weight: 400;
   text-align: center;
 }
 
-.timeline-rows {
-  display: flex;
-  flex-direction: column;
-  gap: 0.5rem;
-  margin-top: 0.5rem;
-}
-
-.timeline-row {
-  align-items: center;
-  display: flex;
-  gap: 1rem;
-}
-
-.band-name {
-  color: #495057;
-  flex-shrink: 0;
-  font-family: var(--font-primary, sans-serif);
-  font-size: 0.85rem;
-  font-weight: 600;
-  min-width: 200px;
-  text-align: right;
-}
-
+/* Single timeline track */
 .timeline-track {
   background: #e9ecef;
   border-radius: 4px;
-  flex-grow: 1;
-  height: 24px;
-  overflow: visible;
+  height: 30px;
+  margin-bottom: 3rem;
   position: relative;
+  width: 100%;
 }
 
 .band-segment {
@@ -82,13 +63,122 @@
 
 .band-segment:hover {
   opacity: 0.9;
-  transform: scaleY(1.1);
+  transform: scaleY(1.2);
   z-index: 10;
+}
+
+/* Band labels below timeline */
+.timeline-labels {
+  position: relative;
+  width: 100%;
+}
+
+.band-label {
+  position: absolute;
+  text-align: center;
+  transform: translateX(-50%);
+}
+
+/* Stagger labels to avoid overlap */
+.band-label[data-band-index="0"],
+.band-label[data-band-index="3"],
+.band-label[data-band-index="6"],
+.band-label[data-band-index="9"],
+.band-label[data-band-index="12"],
+.band-label[data-band-index="15"],
+.band-label[data-band-index="18"],
+.band-label[data-band-index="21"] {
+  top: 0;
+}
+
+.band-label[data-band-index="1"],
+.band-label[data-band-index="4"],
+.band-label[data-band-index="7"],
+.band-label[data-band-index="10"],
+.band-label[data-band-index="13"],
+.band-label[data-band-index="16"],
+.band-label[data-band-index="19"],
+.band-label[data-band-index="22"] {
+  top: 2.5rem;
+}
+
+.band-label[data-band-index="2"],
+.band-label[data-band-index="5"],
+.band-label[data-band-index="8"],
+.band-label[data-band-index="11"],
+.band-label[data-band-index="14"],
+.band-label[data-band-index="17"],
+.band-label[data-band-index="20"],
+.band-label[data-band-index="23"] {
+  top: 5rem;
+}
+
+/* Connecting line from label to segment */
+.band-connector {
+  background: var(--black);
+  left: 50%;
+  position: absolute;
+  transform: translateX(-50%);
+  width: 2px;
+}
+
+.band-label[data-band-index="0"] .band-connector,
+.band-label[data-band-index="3"] .band-connector,
+.band-label[data-band-index="6"] .band-connector,
+.band-label[data-band-index="9"] .band-connector,
+.band-label[data-band-index="12"] .band-connector,
+.band-label[data-band-index="15"] .band-connector,
+.band-label[data-band-index="18"] .band-connector,
+.band-label[data-band-index="21"] .band-connector {
+  bottom: 100%;
+  height: 1rem;
+}
+
+.band-label[data-band-index="1"] .band-connector,
+.band-label[data-band-index="4"] .band-connector,
+.band-label[data-band-index="7"] .band-connector,
+.band-label[data-band-index="10"] .band-connector,
+.band-label[data-band-index="13"] .band-connector,
+.band-label[data-band-index="16"] .band-connector,
+.band-label[data-band-index="19"] .band-connector,
+.band-label[data-band-index="22"] .band-connector {
+  bottom: 100%;
+  height: 3.5rem;
+}
+
+.band-label[data-band-index="2"] .band-connector,
+.band-label[data-band-index="5"] .band-connector,
+.band-label[data-band-index="8"] .band-connector,
+.band-label[data-band-index="11"] .band-connector,
+.band-label[data-band-index="14"] .band-connector,
+.band-label[data-band-index="17"] .band-connector,
+.band-label[data-band-index="20"] .band-connector,
+.band-label[data-band-index="23"] .band-connector {
+  bottom: 100%;
+  height: 6rem;
+}
+
+.band-name {
+  color: var(--black);
+  font-family: var(--font-primary, sans-serif);
+  font-size: 0.85rem;
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+.band-name a {
+  color: inherit;
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+.band-name a:hover {
+  color: var(--blue);
 }
 
 @media screen and (max-width: 768px) {
   .band-timeline-container {
-    padding: 1.5rem 0 0.5rem;
+    padding: 1.5rem 0 2rem;
   }
 
   .band-timeline {
@@ -96,38 +186,73 @@
   }
 
   .timeline-year {
-    font-size: 0.65rem;
+    font-size: 0.55rem;
+  }
+
+  .timeline-track {
+    height: 24px;
+    margin-bottom: 2rem;
   }
 
   .band-name {
     font-size: 0.75rem;
-    min-width: 150px;
   }
 
-  .timeline-track {
-    height: 20px;
+  .band-label[data-band-index="1"],
+  .band-label[data-band-index="4"],
+  .band-label[data-band-index="7"],
+  .band-label[data-band-index="10"],
+  .band-label[data-band-index="13"],
+  .band-label[data-band-index="16"],
+  .band-label[data-band-index="19"],
+  .band-label[data-band-index="22"] {
+    top: 2rem;
   }
 
-  .timeline-row {
-    gap: 0.75rem;
+  .band-label[data-band-index="2"],
+  .band-label[data-band-index="5"],
+  .band-label[data-band-index="8"],
+  .band-label[data-band-index="11"],
+  .band-label[data-band-index="14"],
+  .band-label[data-band-index="17"],
+  .band-label[data-band-index="20"],
+  .band-label[data-band-index="23"] {
+    top: 4rem;
+  }
+
+  .band-label[data-band-index="1"] .band-connector,
+  .band-label[data-band-index="4"] .band-connector,
+  .band-label[data-band-index="7"] .band-connector,
+  .band-label[data-band-index="10"] .band-connector,
+  .band-label[data-band-index="13"] .band-connector,
+  .band-label[data-band-index="16"] .band-connector,
+  .band-label[data-band-index="19"] .band-connector,
+  .band-label[data-band-index="22"] .band-connector {
+    height: 3rem;
+  }
+
+  .band-label[data-band-index="2"] .band-connector,
+  .band-label[data-band-index="5"] .band-connector,
+  .band-label[data-band-index="8"] .band-connector,
+  .band-label[data-band-index="11"] .band-connector,
+  .band-label[data-band-index="14"] .band-connector,
+  .band-label[data-band-index="17"] .band-connector,
+  .band-label[data-band-index="20"] .band-connector,
+  .band-label[data-band-index="23"] .band-connector {
+    height: 5rem;
   }
 }
 
 @media screen and (max-width: 480px) {
+  .timeline-track {
+    height: 20px;
+  }
+
   .band-name {
     font-size: 0.7rem;
-    min-width: 100px;
-  }
-
-  .timeline-track {
-    height: 18px;
-  }
-
-  .timeline-row {
-    gap: 0.5rem;
   }
 
   .timeline-years {
-    margin-bottom: 0.25rem;
+    margin-bottom: 0.75rem;
   }
 }

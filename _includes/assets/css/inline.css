@@ -7,6 +7,7 @@
   --magenta: magenta;
   --orangered: orangered;
   --gray: rgb(0 0 0 / 50%);
+  --lightgray: #f5f5f5;
   --font-primary: "Source Serif Pro", serif;
   --font-secondary: "Libre Franklin", "Helvetica Neue", sans-serif;
   --font-decorative: "ShadowGrotesque", "Libre Franklin", sans-serif;
@@ -1281,14 +1282,12 @@ span.fade:hover {
   /* Dropdown menu */
   .nav-desktop .nav-dropdown {
     background: var(--white);
-    border: 1px solid #e5e5e5;
-    border-radius: 0.25em;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    /*box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);*/
     display: none;
     left: 0;
     list-style: none;
     margin: 0;
-    min-width: 200px;
+    min-width: 1000px;
     padding: 0.5em 0;
     position: absolute;
     top: 100%;
@@ -1307,18 +1306,43 @@ span.fade:hover {
   }
 
   .nav-desktop .nav-dropdown a {
+    align-items: center;
     color: var(--blue);
-    display: block;
+    display: flex;
     font-family: var(--font-secondary);
-    font-size: 0.9rem;
-    padding: 0.5em 1em;
+    font-size: 2rem;
+    font-weight: 600;
+    padding: .25em 1em;
     text-decoration: none;
     transition: background-color 0.2s ease, color 0.2s ease;
   }
 
   .nav-desktop .nav-dropdown a:hover {
-    background-color: #f5f5f5;
+    background-color: var(--lightgray);
     color: var(--orangered);
+  }
+
+  /* Link text - prevent line breaks */
+  .nav-desktop .nav-link-text {
+    flex-shrink: 0;
+    white-space: nowrap;
+  }
+
+  /* Tooltips */
+  .nav-desktop .nav-tooltip {
+    color: var(--black);
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.4;
+    margin-left: 2em;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.2s ease;
+    white-space: normal;
+  }
+
+  .nav-desktop .nav-dropdown a:hover .nav-tooltip {
+    opacity: 1;
   }
 
   body > footer {

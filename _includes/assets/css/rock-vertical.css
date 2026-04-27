@@ -1,50 +1,41 @@
 /* ============================================
-   ROCK GALLERY SPECIFIC STYLES
+   ROCK VERTICAL LAYOUT
    ============================================
-   Additional styles for the rock page with
-   band content in horizontal scrolling layout
+   Single column vertical layout for bands
    ============================================ */
 
-/* Allow vertical scrolling to see timeline */
-.rock-page {
-  overflow-y: auto;
+.rock-vertical-main {
+  margin: 7em auto 0;
+  max-width: 900px;
+  padding: 2rem;
 }
 
-.rock-page .horizontal-gallery-container li {
-  align-items: flex-start;
-  justify-content: flex-start;
-  max-width: 800px;
-  min-width: 600px;
-  padding: 2rem 3rem;
+.rock-vertical-container {
+  display: flex;
+  flex-direction: column;
+  gap: 3rem;
 }
 
-.band-content {
-  max-height: 70vh;
-  overflow-y: auto;
-  padding-right: 1rem;
-  width: 100%;
+.intro-text {
+  color: var(--black);
+  font-family: var(--font-primary);
+  font-size: 1.1rem;
+  line-height: 1.6;
+  margin-bottom: 1rem;
 }
 
-.band-content::-webkit-scrollbar {
-  width: 8px;
+.band-article {
+  border-bottom: 1px solid #dee2e6;
+  padding-bottom: 2rem;
 }
 
-.band-content::-webkit-scrollbar-track {
-  background: #f1f1f1;
-}
-
-.band-content::-webkit-scrollbar-thumb {
-  background: #888;
-  border-radius: 4px;
-}
-
-.band-content::-webkit-scrollbar-thumb:hover {
-  background: #555;
+.band-article:last-child {
+  border-bottom: none;
 }
 
 .band-title {
   color: var(--black, #000);
-  font-family: var(--font-secondary, serif);
+  font-family: var(--font-secondary, sans-serif);
   font-size: 2.5rem;
   font-weight: 700;
   margin: 0 0 0.5rem 0;
@@ -104,14 +95,12 @@
 }
 
 @media screen and (max-width: 768px) {
-  .rock-page .horizontal-gallery-container li {
-    max-width: 90vw;
-    min-width: 85vw;
-    padding: 1.5rem 2rem;
+  .rock-vertical-main {
+    padding: 1.5rem;
   }
 
-  .band-content {
-    max-height: 65vh;
+  .rock-vertical-container {
+    gap: 2rem;
   }
 
   .band-title {
@@ -128,13 +117,8 @@
 }
 
 @media screen and (max-width: 480px) {
-  .rock-page .horizontal-gallery-container li {
-    min-width: 90vw;
-    padding: 1rem 1.5rem;
-  }
-
-  .band-content {
-    max-height: 60vh;
+  .rock-vertical-main {
+    padding: 1rem;
   }
 
   .band-title {
@@ -147,5 +131,9 @@
 
   .band-description {
     font-size: 0.9rem;
+  }
+
+  .intro-text {
+    font-size: 1rem;
   }
 }
