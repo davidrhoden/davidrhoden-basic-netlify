@@ -15,6 +15,8 @@ excerpt: "The resume of David Rhoden, a web developer, web designer, and digital
 
 <div class="resume-two-column">
   <div class="resume-main">
+    <p class="position">Professional Summary</p>
+    <p class="highlights">Experienced full-stack developer with a concentration in implementing design. Back-end concentration in PHP/MySQL, and also experienced in Ruby/PostgreSQL.Well-versed in many content management systems, including Wordpress, CraftCMS, Yii, Eleventy, and Drupal. Additionally, an expert in banner animation.</p>
     <p class="date">Dec 2019–present</p>
     <p class="position"><b>Web Developer</b><br>
     Happening Interactive in New Orleans, Louisiana.</p>
