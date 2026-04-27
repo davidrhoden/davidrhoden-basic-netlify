@@ -25,7 +25,7 @@ module.exports = [
       {
         title: "Art For Sale",
         url: "https://thisismyhappening.com",
-        tooltip: "EXTERNAL LINK.See my paintings for sale at my other site, thisismyhappening.com.",
+        tooltip: "External link: See my paintings for sale at my other site, thisismyhappening.com.",
         external: true
       },
       {
