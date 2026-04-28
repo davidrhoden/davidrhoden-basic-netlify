@@ -1,7 +1,6 @@
 ---
 title: On making a living from other peoples' difficulties. (A post about Wordpress and Internet Explorer 6.)
 date: 2020-07-09T10:00:00.000Z
-image: paintings/lighter-jul-19-2020.jpg
 tags:
   - note
   - Internet Explorer 6
