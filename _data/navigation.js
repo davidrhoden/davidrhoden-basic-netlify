@@ -39,9 +39,9 @@ module.exports = [
     heading: "Music",
     links: [
       {
-        title: "My bands",
+        title: "All the bands",
         url: "/rock/",
-        tooltip: "A chronological list of all my bands."
+        tooltip: "A reverse-chronological list of all my bands."
       }
     ]
   },
@@ -64,7 +64,7 @@ module.exports = [
         tooltip: "Immediate thoughts on the news, technology, or whatever I want to write about."
       },
       {
-        title: "Timeline",
+        title: "Journal",
         url: "/timeline/",
         tooltip: "A fun project for me; basically a diary of what I did and saw every day."
       },
