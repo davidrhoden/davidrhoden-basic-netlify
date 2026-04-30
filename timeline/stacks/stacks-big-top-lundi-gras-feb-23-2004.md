@@ -1,7 +1,6 @@
 ---
 title: The Stacks played the Big Top on Lundi Gras.
 date: 2004-02-23T20:00:00.000Z
-summary: I wonder if it was actually MAXIMVS! that played this gig, though.
 excerpt: I wonder if it was actually MAXIMVS! that played this gig, though.
 image: /static/img/rock/stacks/stacks-pandemic-recordings-with-andre-red.jpg
 category: rock

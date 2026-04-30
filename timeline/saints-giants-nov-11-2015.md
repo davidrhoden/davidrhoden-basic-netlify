@@ -1,7 +1,6 @@
 ---
 title: Bev and Pete took me to the Superdome.
 date: 2015-11-01T11:00:00.000Z
-summary: The Saints beat the Giants 52-49.
 excerpt: The Saints beat the Giants 52-49.
 category: timeline
 image: /static/img/timeline/saints-giants-nov-1-2015.jpg

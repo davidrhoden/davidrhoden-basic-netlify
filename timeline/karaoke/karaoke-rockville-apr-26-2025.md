@@ -2,7 +2,6 @@
 title: I drew a cartoon of a man singing an old R.E.M. tune.
 date: 2025-04-26T00:00:00
 excerpt: I had the 12" single with the acoustic version, might have been the same one.
-summary: I had the 12" single with the acoustic version, might have been the same one.
 image: /static/img/karaoke/rockville-apr-26-2025.jpg
 tags:
   - cartoons

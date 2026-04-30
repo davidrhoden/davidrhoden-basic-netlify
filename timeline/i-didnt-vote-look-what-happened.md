@@ -2,7 +2,6 @@
 title: I didn't vote and look what happened.
 date: 2025-05-03T00:00:00
 excerpt: What difference could it make if I missed it?
-summary: What difference could it make if I missed it?
 image: /static/img/timeline/election-results-may-3-2025.jpg
 tags:
   - elections

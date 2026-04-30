@@ -1,7 +1,6 @@
 ---
 title: Sally got on my shoulder.
 date: 2007-09-24T15:00:00.000Z
-summary: "I'm liking this young cat."
 excerpt: "I'm liking this young cat."
 image: /static/img/sally/sally-on-shoulder-sep-24-2007/sally-on-shoulder-sep-24-2007-tail-2.jpg
 tags:

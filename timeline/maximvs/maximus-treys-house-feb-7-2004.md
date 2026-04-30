@@ -1,7 +1,6 @@
 ---
 title: "MAXIMVS! played a Mardi Gras type party at Trey's house."
 date: 2004-02-07T20:00:00.000Z
-summary: Actually our first show.
 excerpt: Actually our first show.
 category: timeline
 image: /static/img/rock/maximvs/maximvs-treys-house-feb-7-2004/maximvs-1-feb-7-2004.jpg

@@ -1,7 +1,6 @@
 ---
 title: I had a show of my paintings at a gallery called Maiden, Brooklyn.
 date: 2006-08-03T18:00:00.000Z
-summary: This whole event was amazing. I felt so crazed after Katrina but this show made me happy to be in New York.
 excerpt: This whole event was amazing. I felt so crazed after Katrina but this show made me happy to be in New York.
 category: timeline
 image: /static/img/timeline/showcard-aug-3-2006.gif

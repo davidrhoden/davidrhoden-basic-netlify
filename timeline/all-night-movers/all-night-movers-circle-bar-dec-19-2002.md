@@ -1,7 +1,6 @@
 ---
 title: All-Night Movers played Circle Bar. I jumped on a patron who somehow fell asleep.
 date: 2002-12-19T22:00:00.000Z
-summary: Everybody said the guy was some sort of mafioso and I should expect retribution.
 excerpt: Everybody said the guy was some sort of mafioso and I should expect retribution.
 category: rock
 tags:

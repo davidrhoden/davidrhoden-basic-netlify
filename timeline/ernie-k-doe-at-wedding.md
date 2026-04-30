@@ -1,7 +1,6 @@
 ---
 title: Ernie K-Doe sang at my wedding.
 date: 2000-04-22T18:00:00.000Z
-summary: He did a couple of numbers with the band.
 excerpt: He did a couple of numbers with the band.
 category: timeline
 image: /static/img/timeline/k-doe-apr-22-2000.jpg

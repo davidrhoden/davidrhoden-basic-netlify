@@ -1,7 +1,6 @@
 ---
 title: Mountain Shoutin' played one show.
 date: 2016-10-29T20:00:00.000Z
-summary: Really not trying.
 excerpt: Really not trying.
 category: rock
 image: /static/img/timeline/mountain-shoutin-oct-29-2016.jpg

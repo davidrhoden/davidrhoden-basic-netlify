@@ -1,7 +1,6 @@
 ---
 title: MAXIMVS! played at the Big Top again after the Muses parade.
 date: 2004-02-18T20:00:00.000Z
-summary: Less than a week after our first show.
 excerpt: Less than a week after our first show.
 category: timeline
 image: /static/img/rock/maximvs/maximvs-big-top-feb-18-2004/maximvs-and-tad-feb-18-2004.jpg

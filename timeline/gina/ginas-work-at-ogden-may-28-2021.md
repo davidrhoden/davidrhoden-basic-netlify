@@ -1,7 +1,6 @@
 ---
 title: "Saw some of Gina's work from college at the Ogden Museum Of Art."
 date: 2021-05-28T19:00:00.000Z
-summary: She made this in 1993.
 excerpt: She made this in 1993.
 category: timeline
 image: /static/img/timeline/view-from-outhouse-door-may-28-2021.jpg

@@ -1,7 +1,6 @@
 ---
 title: I'm 20,000 days old today.
 date: 2021-12-03T12:00:00.000Z
-summary: I should have planned the party a little better.
 excerpt: I should have planned the party a little better.
 category: timeline
 image: /static/img/sketchbook/20000-days-old-dec-2-2021.jpg

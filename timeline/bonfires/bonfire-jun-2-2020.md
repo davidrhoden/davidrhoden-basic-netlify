@@ -1,7 +1,6 @@
 ---
 title: Bonfire.
 date: 2020-06-02T18:00:00.000Z
-summary: burned up a lot of yard trash.
 excerpt: burned up a lot of yard trash.
 category: timeline
 image: /static/img/timeline/bonfires/bonfire-jun-2-2020.jpg

@@ -2,7 +2,6 @@
 title: I painted four luchador heads while I was visiting New Orleans.
 date: 2007-09-24T00:00:00
 excerpt: I was home visiting my mother and I bought a jigsaw.
-summary: I was home visiting my mother and I bought a jigsaw.
 image: /static/img/paintings/four-heads-new-orleans-sep-24-2007.jpg
 tags:
   - paintings

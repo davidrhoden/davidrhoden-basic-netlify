@@ -1,7 +1,6 @@
 ---
 title: I attended the 2006 regatta in Perdido Bay.
 date: 2006-07-02T11:00:00.000Z
-summary: I'm sure we came in last.
 excerpt: I'm sure we came in last.
 category: timeline
 image: /static/img/timeline/regatta-jul-2-2006/regatta-jul-2-2006-3.jpg

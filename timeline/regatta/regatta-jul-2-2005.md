@@ -1,7 +1,6 @@
 ---
 title: I went to the 2005 regatta in Pensacola.
 date: 2005-07-02T11:00:00.000Z
-summary: This is when Trey and I came up with the Turfgrass Cup.
 excerpt: This is when Trey and I came up with the Turfgrass Cup.
 category: timeline
 image: /static/img/timeline/regatta-jul-2-2005/regatta-turfgrass-cup-jul-2-2005.jpg

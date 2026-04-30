@@ -1,7 +1,6 @@
 ---
 title: I went to Banks Street Bar with Barbara, Trey, and Becca.
 date: 2014-06-28T20:00:00.000Z
-summary: Nothing indicated this would be a remarkable date at the time.
 excerpt: Nothing indicated this would be a remarkable date at the time.
 category: timeline
 image: /static/img/timeline/becca-brunch-mar-12-2017.jpg

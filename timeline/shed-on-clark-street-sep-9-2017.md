@@ -1,7 +1,6 @@
 ---
 title: I had a good shed on Clark Street.
 date: 2017-09-09T13:00:00.000Z
-summary: I actually lived like this.
 excerpt: I actually lived like this.
 category: timeline
 image: /static/img/timeline/shed-on-clark-street-sep-9-2017.jpg

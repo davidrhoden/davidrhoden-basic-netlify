@@ -1,7 +1,6 @@
 ---
 title: Attended Goatstock at a neighbor's house.
 date: 2021-05-24T16:00:00.000Z
-summary: Stoo Odom was joined by a friend from San Francisco, Allison Lovejoy.
 excerpt: Stoo Odom was joined by a friend from San Francisco, Allison Lovejoy.
 category: timeline
 image: /static/img/timeline/goatstock-may-23-2021/goatstock-may-23-2021-1.jpg

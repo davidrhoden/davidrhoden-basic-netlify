@@ -1,8 +1,7 @@
 ---
 title: I took a walk in the Lower Ninth Ward.
 date: 2015-07-01T00:00:00
-excerpt: I think there are a dozen ways to get in the parking lot that this tangle of razor wire is supposed to be protecting. 
-summary: I think there are a dozen ways to get in the parking lot that this tangle of razor wire is supposed to be protecting.
+excerpt: I think there are a dozen ways to get in the parking lot that this tangle of razor wire is supposed to be protecting.
 image: /static/img/timeline/barbed-wire-fence-l9w-jul-1-2025.jpeg
 tags:
   - New Orleans

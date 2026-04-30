@@ -1,7 +1,6 @@
 ---
 title: Otter in the garden.
 date: 2020-10-21T11:00:00.000Z
-summary: Otter is the most entitled cat I've ever known, and that's saying a lot.
 excerpt: Otter is the most entitled cat I've ever known, and that's saying a lot.
 category: timeline
 image: /static/img/timeline/otter/otter-garden-oct-21-2020.jpg

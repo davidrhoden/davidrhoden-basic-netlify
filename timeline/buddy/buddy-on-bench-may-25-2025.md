@@ -2,7 +2,6 @@
 title: Buddy enjoyed the garden.
 date: 2025-05-25T00:00:00
 excerpt: I don't know; it's just completely overgrown.
-summary: I don't know; it's just completely overgrown.
 image: /static/img/buddy/buddy-on-bench-may-25-2025.jpeg
 tags:
   - cats

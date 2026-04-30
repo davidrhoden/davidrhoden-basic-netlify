@@ -1,7 +1,6 @@
 ---
 title: Painted a lighter.
 date: 2020-06-20T11:00:00.000Z
-summary: Inspired by a trip to Birdie's convenience store on Broad.
 excerpt: Inspired by a trip to Birdie's convenience store on Broad.
 category: paintings
 image: /static/img/paintings/lighter-jul-19-2020.jpg

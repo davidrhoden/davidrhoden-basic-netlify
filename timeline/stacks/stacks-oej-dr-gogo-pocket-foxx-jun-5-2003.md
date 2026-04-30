@@ -1,7 +1,6 @@
 ---
 title: Stacks played One-Eyed Jacks with Doctor-a-Go-Go and Pocket Foxx.
 date: 2003-06-05T22:00:00.000Z
-summary: Got out my black and green inks.
 excerpt: Got out my black and green inks.
 category: rock
 image: /static/img/rock/stacks/stacks-flyer-dr-gogo-pocket-foxx-oej-jun-4-2003.jpg

@@ -2,7 +2,6 @@
 title: Collecting up some sketches.
 date: 2026-01-15T00:00:00
 excerpt: Just posting some sketches that don't belong anywhere else.
-summary: Just posting some sketches that don't belong anywhere else.
 image: /static/img/sketchbook/dilligaf-jan-15-2025.jpg
 tags:
   - sketches

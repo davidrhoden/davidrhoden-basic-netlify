@@ -1,7 +1,6 @@
 ---
 title: I ate at this shady food cart all the time.
 date: 2010-07-29T13:00:00.000Z
-summary: Friendly service, delicious gyros.
 excerpt: Friendly service, delicious gyros.
 category: timeline
 image: /static/img/timeline/shady-halal-food-jul-28-2010.jpg

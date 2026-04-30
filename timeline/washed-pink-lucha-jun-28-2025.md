@@ -2,7 +2,6 @@
 title: I washed one of my oldest paintings.
 date: 2025-06-28T00:00:00
 excerpt: It needed it.
-summary: It needed it.
 image: /static/img/paintings/pink-lucha-post-wash-jun-28-2025.jpeg
 tags:
   - paintings

@@ -2,7 +2,6 @@
 title: I dreamed I went to New York City with a cat and a kitten.
 date: 2025-05-03T00:00:00
 excerpt: I was traveling with some kind of group in a fifteen-passenger bus.
-summary: I was traveling with some kind of group in a fifteen-passenger bus.
 tags:
   - dreams
   - NYC

@@ -1,7 +1,6 @@
 ---
 title: Buddy and Otter went to the office.
 date: 2021-08-03T19:00:00.000Z
-summary: I guess they got tired of working remotely and wanted to get back to the office.
 excerpt: I guess they got tired of working remotely and wanted to get back to the office.
 category: timeline
 image: /static/img/buddy/buddy-otter-office-1-aug-3-2021.jpg

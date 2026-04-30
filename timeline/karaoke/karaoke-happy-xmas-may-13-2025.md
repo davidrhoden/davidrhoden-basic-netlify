@@ -2,7 +2,6 @@
 title: I did a cartoon about a song I dislike.
 date: 2025-05-13T00:00:00
 excerpt: I like "Simply Having A Wonderful Christmas Time" a lot. This one not so much.
-summary: I like "Simply Having A Wonderful Christmas Time" a lot. This one not so much.
 image: /static/img/karaoke/so-this-is-xmas-sq-may-13-2025.jpg
 tags:
   - karaoke

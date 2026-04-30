@@ -1,7 +1,6 @@
 ---
 title: All-Night Movers played El Matador with Zoom.
 date: 2002-08-16T22:00:00.000Z
-summary: I broke too many guitar strings.
 excerpt: I broke too many guitar strings.
 category: rock
 image: /static/img/timeline/zoom-though-not-from-aug-16-2002.png

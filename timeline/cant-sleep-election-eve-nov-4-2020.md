@@ -1,10 +1,7 @@
 ---
 title: Couldn't sleep on Election Eve.
 date: 2020-11-04T13:25:00.000Z
-summary: Just like on Christmas, or the night before a big trip, I stay up too
-  late, supposedly getting organized.
-excerpt: Just like on Christmas, or the night before a big trip, I stay up too
-  late, getting organized.
+excerpt: Just like on Christmas, or the night before a big trip, I stay up too late, supposedly getting organized.
 tags:
   - post
   - Election 2020

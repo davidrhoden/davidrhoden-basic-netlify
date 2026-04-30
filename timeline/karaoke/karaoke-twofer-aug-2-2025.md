@@ -2,7 +2,6 @@
 title: I did two more karaoke cartoons.
 date: 2025-08-02T00:00:00
 excerpt: I decided to just turn on the radio and draw the next funny lyric I heard. I hope this one was funny enough.
-summary: I decided to just turn on the radio and draw the next funny lyric I heard. I hope this one was funny enough.
 image: /static/img/karaoke/its-only-rock-and-roll-aug-2-2025.jpg
 tags:
   - cartoons

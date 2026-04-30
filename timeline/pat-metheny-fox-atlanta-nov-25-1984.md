@@ -1,7 +1,6 @@
 ---
 title: Saw Pat Metheny Group at the Fox Theatre in Atlanta.
 date: 1984-11-25T20:00:00.000Z
-summary: Drove down with Sterling Owen again.
 excerpt: Drove down with Sterling Owen again.
 image: /static/img/timeline/Fox_Theatre_Atlanta.jpg
 tags:

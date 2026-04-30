@@ -2,7 +2,6 @@
 title: Last picture of Buddy with his left eye.
 date: 2024-06-22T00:00:00
 excerpt: This was so sad, and a dreadful time for us.
-summary: This was so sad, and a dreadful time for us.
 image: /static/img/buddy/buddy-last-photo-of-left-eye-jun-22-2024.jpeg
 tags:
   - Buddy

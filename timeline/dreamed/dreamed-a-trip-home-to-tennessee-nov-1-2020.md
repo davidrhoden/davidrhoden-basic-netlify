@@ -1,7 +1,7 @@
 ---
 title: "I dreamed a trip home to Tennessee."
 date: 2020-11-01T13:25:00.000Z
-summary: I was in Tennessee watching the New Orleans Saints play a team I didn't
+excerpt: I was in Tennessee watching the New Orleans Saints play a team I didn't
   recognize.
 tags:
   - post

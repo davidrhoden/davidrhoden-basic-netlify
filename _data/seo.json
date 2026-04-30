@@ -4,7 +4,7 @@
   "url": "https://davidrhoden.com",
   "author": "David Rhoden",
   "twitter": "davidrhoden",
-  "image": "paintings/bigface-wide.jpg",
+  "image": "/paintings/bigface-wide.jpg",
   "options": {
     "imageWithBaseUrl": true
   }

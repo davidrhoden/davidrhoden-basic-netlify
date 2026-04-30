@@ -1,7 +1,6 @@
 ---
 title: The Stacks played Sister Street Stage for the first time, before we named it that.
 date: 2017-12-05T18:00:00.000Z
-summary: It was cold and the people that were there stayed around the fire.
 excerpt: It was cold and the people that were there stayed around the fire.
 category: rock
 image: /static/img/rock/stacks/stacks-on-sister-street-cover-dec-5-2017.jpg

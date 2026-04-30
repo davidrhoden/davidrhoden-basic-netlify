@@ -2,7 +2,6 @@
 title: I photographed a standing tire in the Holy Cross school parking lot.
 date: 2021-10-05T12:00:00.000Z
 excerpt: Saw this lonely tire while biking around.
-summary: Saw this lonely tire while biking around.
 category: timeline
 image: /static/img/timeline/standing-tire-holy-cross-oct-5-2021.jpg
 tags:

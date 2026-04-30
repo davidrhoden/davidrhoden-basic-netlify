@@ -1,7 +1,6 @@
 ---
 title: The Hi-Balls played an acoustic gig for a party at some guy named Karl's house.
 date: 1997-04-12T20:00:00.000Z
-summary: We wrecked the place.
 excerpt: We wrecked the place.
 tags:
   - post 

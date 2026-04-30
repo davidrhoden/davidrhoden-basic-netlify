@@ -1,7 +1,6 @@
 ---
 title: We played Fox and Hounds at Scout meeting and never found the fox.
 date: 1983-10-15T19:00:00.000Z
-summary: The rumor was that he hid in an open grave but I think the real answer was different.
 excerpt: The rumor was that he hid in an open grave but I think the real answer was different.
 category: timeline
 tags:

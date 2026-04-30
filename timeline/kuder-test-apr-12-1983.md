@@ -1,7 +1,6 @@
 ---
 title: I took the Kuder test.
 date: 1983-04-12T11:00:00.000Z
-summary: We all had to take it. I guess it was for people who had no dreams.
 excerpt: We all had to take it. I guess it was for people who had no dreams.
 category: timeline
 image: /static/img/timeline/kuder-test-apr-12-1983.jpg

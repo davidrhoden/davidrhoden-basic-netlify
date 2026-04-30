@@ -2,7 +2,6 @@
 title: I took a picture of Daisy.
 date: 2023-06-25T00:00:00
 excerpt: We would go on walks and I would give her quarter-pound balls of hamburger meat.
-summary: We would go on walks and I would give her quarter-pound balls of hamburger meat.
 image: /static/img/gina/my-last-shot-of-daisy-jun-25-2023.jpeg
 tags:
   - dogs

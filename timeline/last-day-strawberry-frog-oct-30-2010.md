@@ -2,7 +2,6 @@
 title: My last day at Strawberry Frog was a weird one.
 date: 2010-10-30T00:00:00
 excerpt: I moved back to New Orleans the next day.
-summary: I moved back to New Orleans the next day.
 image: 
 tags:
   - NYC

@@ -1,7 +1,6 @@
 ---
 title: All-Night Movers played at El Matador with Scott Carpenter and the Real McCoys.
 date: 2003-04-17T22:00:00.000Z
-summary: These were our friends from Buffalo.
 excerpt: These were our friends from Buffalo.
 category: rock
 image: /static/img/timeline/scott-carpenter-and-mccoys-apr-17-2003.jpg

@@ -2,7 +2,6 @@
 title: I learned what the term "strong cheese" really means.
 date: 2009-03-01T00:00:00
 excerpt: People often complain about fish in the microwave. They haven't found out about "strong cheese" yet.
-summary: People often complain about fish in the microwave. They haven't found out about "strong cheese" yet.
 image: /static/img/timeline/130-5th-ave-brandwizard-2.jpg
 tags:
   - stories

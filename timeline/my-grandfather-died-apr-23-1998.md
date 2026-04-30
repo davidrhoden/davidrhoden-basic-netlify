@@ -1,7 +1,6 @@
 ---
 title: My grandfather died.
 date: 1998-04-22T12:00:00.000Z
-summary: I went to Chattanooga and hung out with my cousins.
 excerpt: I went to Chattanooga and hung out with my cousins.
 tags:
   - post

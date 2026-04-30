@@ -1,7 +1,6 @@
 ---
 title: Unimog!
 date: 2020-11-26T08:00:00.000Z
-summary: Saw this great high-water truck in Chattanooga.
 excerpt: Saw this great high-water truck in Chattanooga.
 category: timeline
 image: /static/img/timeline/unimog-nov-26-2020.jpg

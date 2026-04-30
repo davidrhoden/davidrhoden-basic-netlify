@@ -1,7 +1,6 @@
 ---
 title: Had a birthday dinner at La Ceiba.
 date: 2003-03-02T19:00:00.000Z
-summary: I really liked this slightly dumpy Honduran place.
 excerpt: I really liked this slightly dumpy Honduran place.
 category: timeline
 image: /static/img/timeline/dave-birthday-mar-2-2003.jpg

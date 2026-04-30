@@ -1,7 +1,6 @@
 ---
 title: I was walking back from soccer practice when I heard President Reagan had been shot.
 date: 1981-03-30T17:00:00.000Z
-summary: It seemed unbelievable, people were just walking down the street making this insane claim.
 excerpt: It seemed unbelievable, people were just walking down the street making this insane claim.
 category: timeline
 image: /static/img/timeline/hinckley-mugshot-public-domain-mar-30-1981.png

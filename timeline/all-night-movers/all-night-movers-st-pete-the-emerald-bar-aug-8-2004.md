@@ -1,7 +1,6 @@
 ---
 title: All-Night Movers played the Emerald Bar in St. Pete.
 date: 2004-08-29T21:00:00.000Z
-summary: I guess this was the last All-Night Movers gig.
 excerpt: I guess this was the last All-Night Movers gig.
 category: timeline
 image: /static/img/timeline/emerald-bar-aug-8-2004.jpg

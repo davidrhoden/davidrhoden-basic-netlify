@@ -1,7 +1,6 @@
 ---
 title: Published Bachelor No. 1, issue 1.
 date: 1994-04-02T03:00:00.000Z
-summary: I edited Bachelor No.1 with Brandon Kruse and a bunch of other contributors. Any continued freshness it has comes from Brandon's incredible ink-and-brush (and Zip-a-Tone) illustrations.
 excerpt: I edited Bachelor No.1 with Brandon Kruse and a bunch of other contributors. Any continued freshness it has comes from Brandon's incredible ink-and-brush (and Zip-a-Tone) illustrations.
 category: designs
 image: /static/img/designs/bachelor-no1-no1.jpg

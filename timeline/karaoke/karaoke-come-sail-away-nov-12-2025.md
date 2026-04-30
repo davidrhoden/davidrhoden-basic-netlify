@@ -3,7 +3,6 @@ title: I thought that they were angels.
 date: 2025-11-12T00:00:00
 description: 'Do you think, when Styx wrote "Come Sail Away", that they were trying to write a Jimmy Buffett-style "island" song, kind of a faux calypso, and the whole space invaders thing got tacked on by accident?'
 excerpt: Set an open course for the virgin sea.
-summary: Set an open course for the virgin sea.
 image: /static/img/karaoke/come-sail-away-nov-12-2025.jpg
 tags:
   - cartoons

@@ -2,7 +2,6 @@
 title: "I found a record I'd been low-key hunting for: the Bugsy Malone soundtrack."
 date: 2026-02-18T00:00:00
 excerpt: I didn't really have to have it since I know most of it by heart. I'm glad to have it though.
-summary: I didn't really have to have it since I know most of it by heart. I'm glad to have it though.
 image: /static/img/timeline/bugsy-malone-thrifted-feb-18-2026.jpg
 tags:
   - records

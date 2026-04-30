@@ -1,7 +1,6 @@
 ---
 title: Sally investigated zinnias from our garden.
 date: 2018-08-20T16:00:00.000Z
-summary: Gina asked me to plant these.
 excerpt: Gina asked me to plant these.
 category: sally
 image: /static/img/sally/sally-zinnias-640-aug-20-2018.jpg

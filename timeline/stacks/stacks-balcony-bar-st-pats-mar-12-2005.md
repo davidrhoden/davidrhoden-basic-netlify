@@ -1,8 +1,7 @@
 ---
 title: "The Stacks played Balcony Bar with Zydepunks and Narcissy for St. Patrick's Day."
 date: 2005-03-12T16:00:00.000Z
-summary: We tore it up at this show to a well-oiled crowd. I also saw something remarkable on the way to the gig.
-excerpt:  We tore it up at this show to a well-oiled crowd. I also saw something remarkable on the way to the gig.
+excerpt: We tore it up at this show to a well-oiled crowd. I also saw something remarkable on the way to the gig.
 image: /static/img/rock/stacks/stacks-pandemic-recordings-with-andre-red.jpg
 category: rock
 tags:

@@ -2,7 +2,6 @@
 title: Buddy healed after his eye surgery.
 date: 2024-07-01T00:00:00
 excerpt: He seemed to feel so much better after having his eye removed.
-summary: He seemed to feel so much better after having his eye removed.
 image: /static/img/buddy/buddy-healing-1-jul-1-2024.jpg
 tags:
   - cats

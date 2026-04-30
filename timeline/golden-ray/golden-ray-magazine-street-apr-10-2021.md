@@ -1,7 +1,7 @@
 ---
 title: The debut of Golden Ray.
 date: 2021-03-30T12:16:54.626Z
-summary: A new band rising from the ashes of the Stacks, who haven't actually burned down.
+excerpt: A new band rising from the ashes of the Stacks, who haven't actually burned down.
 image: /static/img/rock/golden-ray-band-photo-apr-10-2021.jpg
 tags:
   - post

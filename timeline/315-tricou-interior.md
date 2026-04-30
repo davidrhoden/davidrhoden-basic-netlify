@@ -1,7 +1,6 @@
 ---
 title: Here's a picture of the inside of my house in New Orleans.
 date: 2020-03-27T11:00:00.000Z
-summary: I seem not to change much in how I live.
 excerpt: I seem not to change much in how I live.
 category: timeline
 image: /static/img/timeline/315-tricou-mar-27-2020.jpg

@@ -1,7 +1,6 @@
 ---
 title: Went to Regas with Katie for a birthday.
 date: 1988-03-02T18:00:00.000Z
-summary: This was supposed to be the fancy place in Knoxville.
 excerpt: This was supposed to be the fancy place in Knoxville.
 image: /static/img/timeline/polaroids/polaroid-dave-katie-regas-birthday-mar-2-1988.jpg
 tags:

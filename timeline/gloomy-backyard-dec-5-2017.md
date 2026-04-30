@@ -1,7 +1,6 @@
 ---
 title: A gloomy shot from my backyard.
 date: 2017-12-05T16:00:00.000Z
-summary: Captured my mood exactly.
 excerpt: Captured my mood exactly.
 category: timeline
 image: /static/img/timeline/gloomy-backyard-dec-5-2017.jpg

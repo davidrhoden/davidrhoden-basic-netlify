@@ -1,7 +1,6 @@
 ---
 title: I started working at Online Optimism.
 date: 2018-10-22T09:00:00.000Z
-summary: I was about twice as old as all the other kids there.
 excerpt: I was about twice as old as all the other kids there.
 category: timeline
 image: /static/img/timeline/welcome-to-the-team-oct-22-2018.jpg

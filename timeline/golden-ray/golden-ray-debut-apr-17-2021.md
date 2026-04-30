@@ -1,7 +1,6 @@
 ---
 title: My new band Golden Ray makes its debut.
 date: 2021-04-17T17:00:00.000Z
-summary: Playing on Gina's stage with George Wilde and Lo Amps.
 excerpt: Playing on Gina's stage with George Wilde and Lo Amps.
 category: timeline
 image: /static/img/designs/SisterStreetStage-Apr-17-2021.jpg

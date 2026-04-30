@@ -1,7 +1,6 @@
 ---
 title: A lunch hour disaster was averted.
 date: 2016-09-09T13:00:00.000Z
-summary: I was walking down 6th Street in Austin one lunch hour when I saw a group of people with cameras out, looking up.
 excerpt: I was walking down 6th Street in Austin one lunch hour when I saw a group of people with cameras out, looking up.
 category: timeline
 image: /static/img/timeline/hanging-car-austin-sep-9-2016.jpg

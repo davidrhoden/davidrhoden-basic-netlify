@@ -1,7 +1,6 @@
 ---
 title: My grandfather Percy Reeves, in about 1927 or 1928.
 date: 2017-07-30T12:00:00.000Z
-summary: From a picture my mom sent me.
 excerpt: From a picture my mom sent me.
 category: timeline
 image: /static/img/timeline/percy-reeves-1927-28-july-30-2017.jpg

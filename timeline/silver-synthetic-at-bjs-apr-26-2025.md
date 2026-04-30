@@ -2,7 +2,6 @@
 title: Saw Silver Synthetic at BJ's Lounge.
 date: 2025-04-16T00:00:00
 excerpt: It was a beautiful Saturday night, and there were twice as many people at the show than could fit in the bar at once.
-summary: It was a beautiful Saturday night, and there were twice as many people at the show than could fit in the bar at once.
 image: /static/img/timeline/silver-synthetic-at-bjs-apr-26-2025.jpeg
 tags:
   - Silver Sythetic

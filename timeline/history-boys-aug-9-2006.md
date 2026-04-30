@@ -1,7 +1,6 @@
 ---
 title: I saw History Boys on Broadway with Leslie.
 date: 2006-08-09T20:57:00.000Z
-summary: It was fun to see Richard Griffiths live.
 excerpt: It was fun to see Richard Griffiths live.
 tags:
   - post

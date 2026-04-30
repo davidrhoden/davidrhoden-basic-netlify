@@ -1,7 +1,6 @@
 ---
 title: Hi-Balls played Brownie's with MacArthur.
 date: 1998-01-17T22:00:00.000Z
-summary: I need details.
 excerpt: I need details.
 category: rock
 image: /static/img/rock/hi-balls/hi-balls-card-buscareno-jan-17-1998.jpg

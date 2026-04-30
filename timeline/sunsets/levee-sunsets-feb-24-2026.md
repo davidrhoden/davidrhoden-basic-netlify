@@ -2,7 +2,6 @@
 title: I saw an incredible sunset on the levee (as frequently happens).
 date: 2026-02-24T00:00:00
 excerpt: It's too hard for me to edit these shots, so here come all of them.
-summary: It's too hard for me to edit these shots, so here come all of them.
 image: /static/img/timeline/sunsets/levee-sunset-1-feb-24-2026.jpeg
 tags:
   - The Levee

@@ -1,7 +1,6 @@
 ---
 title: Everything Tool played with Abstracts at Cityside.
 date: 1988-03-04T22:00:00.000Z
-summary: This had to be one of my first attempts at setting type on a computer.
 excerpt: This had to be one of my first attempts at setting type on a computer.
 category: rock
 image: /static/img/rock/everything-tool/everything-tool-abstracts-cityside-mar-4-1988.jpg

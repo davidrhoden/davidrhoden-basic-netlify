@@ -1,7 +1,6 @@
 ---
 title: Sally got her school picture taken.
 date: 2009-05-29T16:00:00.000Z
-summary: Dignity.
 excerpt: Dignity.
 image: /static/img/sally/sally-on-chair-backyard-apr-27-2009/schoolpictureday.jpg
 tags:

@@ -1,7 +1,6 @@
 ---
 title: The Stacks played the Big Top with This Bike Is a Pipe Bomb, Dinteen, and Narcissy.
 date: 2005-01-09T22:00:00.000Z
-summary: We looked good in front of those velvet curtains.
 excerpt: We looked good in front of those velvet curtains.
 category: rock
 image: /static/img/rock/stacks/stacks-at-big-top-jan-9-2005.jpg

@@ -1,7 +1,6 @@
 ---
 title: I went to Gretna Fest and saw two favorite acts on the same day.
 date: 2003-10-04T13:00:00.000Z
-summary: It was as if they designed this show specifically for me.
 excerpt: It was as if they designed this show specifically for me.
 category: timeline
 image: /static/img/timeline/clarence-carter-gretna-fest-oct-4-2003.jpg

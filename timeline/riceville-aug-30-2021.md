@@ -1,7 +1,6 @@
 ---
 title: Trey and I went to Riceville, Tennessee, and stopped a couple places on the way.
 date: 2021-08-30T12:00:00.000Z
-summary: We went to Ankar's, which had barely changed since 1985.
 excerpt: We went to Ankar's, which had barely changed since 1985.
 image: /static/img/timeline/chattanooga/riceville-aug-30-2021/mcminn-county-cabin-with-tom-and-noy-sep-1-2021.jpg
 tags:

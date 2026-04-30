@@ -4,7 +4,6 @@ date: 2021-12-20T12:00:00.000Z
 category: timeline
 image: /static/img/gina/gina-at-holt-dec-20-2021.jpg
 excerpt: It's one of the most interesting places in New Orleans, though I guess you could say that about every graveyard.
-summary: It's one of the most interesting places in New Orleans, though I guess you could say that about every graveyard.
 tags:
   - post 
   - New Orleans

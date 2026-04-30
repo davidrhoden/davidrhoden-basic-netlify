@@ -1,7 +1,6 @@
 ---
 title: "Jimmy and The Wolfpack played Freddy's Back Room."
 date: 2009-06-03T22:00:00.000Z
-summary: The venue was a casualty of the construction of the Atlantic Center.
 excerpt: The venue was a casualty of the construction of the Atlantic Center.
 image: /static/img/rock/jandtwp-freddys-jun-3-2009/jandtwp-freddys-2-jun-3-2009.jpg
 tags:

@@ -2,7 +2,6 @@
 title: I dreamed I got a flat tire on my bike but it worked out O.K.
 date: 2025-12-31T00:00:00
 excerpt: At this point I had to put my bike on my back and climb up a narrow, slippery metal thing, like an air duct.
-summary: At this point I had to put my bike on my back and climb up a narrow, slippery metal thing, like an air duct.
 image: 
 tags:
   - dreams

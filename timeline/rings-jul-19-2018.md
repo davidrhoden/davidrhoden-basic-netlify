@@ -1,7 +1,6 @@
 ---
 title: I painted some rings.
 date: 2018-07-19T24:00:00.000Z
-summary: The fluorescent paint? Very expensive.
 excerpt: The fluorescent paint? Very expensive.
 image: /static/img/paintings/rings-on-wall-jul-19-2018.jpg
 tags:

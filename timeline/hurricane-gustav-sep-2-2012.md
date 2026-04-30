@@ -1,7 +1,6 @@
 ---
 title: Riding bikes before Hurricane Gustav.
 date: 2012-09-02T16:00:00.000Z
-summary: Riding bikes in fifty mile per hour winds.
 excerpt: Riding bikes in fifty mile per hour winds.
 category: timeline
 image: /static/img/timeline/hurricane-gustav-sep-2-2012.jpg

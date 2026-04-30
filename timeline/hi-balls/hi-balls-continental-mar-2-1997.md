@@ -1,7 +1,6 @@
 ---
 title: The Hi-Balls played The Continental on my birthday.
 date: 1997-03-02T22:00:00.000Z
-summary: Great show. Al gave me a plaque.
 excerpt: Great show. Al gave me a plaque.
 tags:
   - post 

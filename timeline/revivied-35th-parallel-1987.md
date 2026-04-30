@@ -2,7 +2,6 @@
 title: I revived my old fanzine and its pretentious title.
 date: 1987-09-01T00:00:00
 excerpt: This would have been the "second run" of a fanzine I started in high school.
-summary: This would have been the "second run" of a fanzine I started in high school.
 image: /static/img/designs/35th-Parallel/35th-parallel-issue2-cover.jpg
 tags:
   - designs

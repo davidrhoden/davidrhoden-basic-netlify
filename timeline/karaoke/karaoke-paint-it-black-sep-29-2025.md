@@ -2,7 +2,6 @@
 title: A two-karaoke cartoon day.
 date: 2025-09-29T00:00:00
 excerpt: The Rolling Stones may be the world's most absurd lyricists. But so is "M".
-summary: The Rolling Stones may be the world's most absurd lyricists. But so is "M".
 description: 'Otherwise not a remarkable day. I got two William Steig books in the mail (_Dominic_ and _The Real Thief_). Made pizza dough. Listened to _Separation Sunday_ by The Hold Steady. Listened to a football game. Barely left the house. The postal woman hollered at me from her Jeep, "There''s a package for you, David!" I thought that was nice but the package was for the woman who lives in the other half of the house.'
 image: /static/img/karaoke/paint-it-black-sep-29-2025.jpg
 tags:

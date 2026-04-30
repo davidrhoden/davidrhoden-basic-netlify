@@ -1,7 +1,6 @@
 ---
 title: We had a bonfire for Gina's birthday.
 date: 2020-03-27T11:00:00.000Z
-summary: We burned up a stinky knifeblock.
 excerpt: We burned up a stinky knifeblock.
 category: timeline
 image: /static/img/timeline/bonfires/bonfire-knifeblock-feb-21-2021.jpg

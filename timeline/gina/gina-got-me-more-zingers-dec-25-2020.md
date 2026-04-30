@@ -1,7 +1,6 @@
 ---
 title: Gina got me exactly what I wanted for Christmas.
 date: 2020-12-25T11:00:00.000Z
-summary: She heard me talk about More Zingers From The Hollywood Squares, I didn't know I was dropping a hint.
 excerpt: She heard me talk about More Zingers From The Hollywood Squares, I didn't know I was dropping a hint.
 category: timeline
 image: /static/img/timeline/more-zingers-dec-25-2020.jpg

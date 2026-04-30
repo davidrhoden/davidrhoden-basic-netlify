@@ -1,7 +1,6 @@
 ---
 title: I grew a beard.
 date: 2020-10-01T13:00:00.000Z
-summary: Report from the hermitage.
 excerpt: Report from the hermitage.
 category: timeline
 image: /static/img/timeline/david-with-beard-oct-1-2020.jpg

@@ -1,8 +1,7 @@
 ---
 title: Sally got under the covers.
 date: 2015-12-14T23:00:00.000Z
-summary: I know this is only cute to me, but it's really cute to me.
-excerpt:  I know this is only cute to me, but it's really cute to me.
+excerpt: I know this is only cute to me, but it's really cute to me.
 category: timeline
 image: /static/img/sally/sally-undercover-dec-14-2015.jpg
 tags:

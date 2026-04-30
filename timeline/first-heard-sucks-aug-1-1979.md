@@ -2,7 +2,6 @@
 title: I heard someone say something "sucks" for the first time.
 date: 1979-08-01T00:00:00
 excerpt: It was in 1979, the summer after sixth grade.
-summary: It was in 1979, the summer after sixth grade.
 image: 
 tags:
   - salty language

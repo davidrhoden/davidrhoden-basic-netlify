@@ -1,7 +1,6 @@
 ---
 title: I dreamed I found a scholarly brochure.
 date: 2020-01-29T05:30:00.000Z
-summary: It told me something I didn't know about Houston.
 excerpt: It told me something I didn't know about Houston.
 tags:
   - post 

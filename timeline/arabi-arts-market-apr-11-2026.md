@@ -2,7 +2,6 @@
 title: I participated successfully in an arts market.
 date: 2026-04-11T00:00:00
 excerpt: I made one sale, which is one more than I was expecting.
-summary: I made one sale, which is one more than I was expecting.
 image: /static/img/timeline/david-at-arabi-arts-park-apr-11-2026.jpeg
 tags:
   - art

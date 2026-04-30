@@ -1,7 +1,6 @@
 ---
 title: "I dreamed about a strange thrift store."
 date: 2021-01-12T05:30:00.000Z
-summary: The bat, which we had mistaken for a stuffed toy, came to and started chasing me around.
 excerpt: The bat, which we had mistaken for a stuffed toy, came to and started chasing me around.
 tags:
   - post 

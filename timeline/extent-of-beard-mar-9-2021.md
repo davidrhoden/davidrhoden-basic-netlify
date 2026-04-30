@@ -1,7 +1,6 @@
 ---
 title: This was the extent of my beard.
 date: 2021-03-09T11:00:00.000Z
-summary: Just before I shaved it.
 excerpt: Just before I shaved it.
 image: /static/img/timeline/extent-of-beard-mar-9-2021.jpg
 tags:

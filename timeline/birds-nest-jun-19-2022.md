@@ -1,7 +1,6 @@
 ---
 title: I found a bird's nest partly made of tape.
 date: 2022-06-19T11:00:00.000Z
-summary: Perfect nest, no egg inside.
 excerpt: Perfect nest, no egg inside.
 category: timeline
 image: /static/img/timeline/bird-nest-1-jun-19-2022.jpg

@@ -1,7 +1,6 @@
 ---
 title: I worked at Taco Casa in Eastgate Mall.
 date: 1985-06-01T11:00:00.000Z
-summary: I got the job the day I graduated high school.
 excerpt: I got the job the day I graduated high school.
 category: timeline
 image: /static/img/timeline/eastgate-mall-interior-undated.jpg

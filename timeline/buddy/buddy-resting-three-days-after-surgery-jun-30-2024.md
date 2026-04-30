@@ -3,7 +3,6 @@
 title: Buddy rested, three days after his eye surgery.
 date: 2024-06-30T00:00:00
 excerpt: Buddy's acting more like himself, in that he's lying on the bed instead of under it (something he never did before).
-summary: Buddy's acting more like himself, in that he's lying on the bed instead of under it (something he never did before).
 image: /static/img/buddy/buddy-resting-three-days-after-surgery-jun-30-2024.jpeg
 tags:
   - cats

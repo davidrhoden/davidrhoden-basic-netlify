@@ -1,7 +1,6 @@
 ---
 title: I got promoted to the sixth grade.
 date: 1979-05-31T17:00:00.000Z
-summary: We all had to wear white, and then you have ginger ale with sherbet in it.
 excerpt: We all had to wear white, and then you have ginger ale with sherbet in it.
 category: timeline
 image: /static/img/timeline/promotion-may-1979.jpg

@@ -1,8 +1,7 @@
 ---
 title: Our lodgings were across the street from a neglected cemetery.
 date: 2021-11-25T09:00:00.000Z
-summary: I climbed through a lot of briars and such to get up there and look around.
-excerpt:  I climbed through a lot of briars and such to get up there and look around.
+excerpt: I climbed through a lot of briars and such to get up there and look around.
 category: timeline
 image: /static/img/timeline/buck-knob-cemetery-nov-25-2021/buck-knob-our-little-darling-nov-25-2021.jpg
 tags:

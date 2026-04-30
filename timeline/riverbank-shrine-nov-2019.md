@@ -1,7 +1,6 @@
 ---
 title: Found this offering on the levee.
 date: 2019-11-10T13:00:00.000Z
-summary: An offering on the mississippi River levee in Holy Cross, New Orleans.
 excerpt: An offering on the mississippi River levee in Holy Cross, New Orleans.
 category: timeline
 image: /static/img/timeline/riverbank-shrine-20191110.jpg

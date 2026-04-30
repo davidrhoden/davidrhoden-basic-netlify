@@ -2,7 +2,6 @@
 title: I found out Thomas Berger died.
 date: 2014-07-25T00:00:00
 excerpt:  If I had to describe a typical Berger novel (there are atypical ones) I’d say he sets up a conflict, immediately, and pushes it to a logical or maybe an illogical conclusion.
-summary:  If I had to describe a typical Berger novel (there are atypical ones) I’d say he sets up a conflict, immediately, and pushes it to a logical or maybe an illogical conclusion.
 image: /static/img/timeline/thomas-berger-jul-24-2014.jpeg
 tags:
   - literature

@@ -2,7 +2,6 @@
 title: The Stacks played the Saturn Bar, with Mystery Girl, I think?
 date: 2013-08-03T21:00:00.000Z
 excerpt: Was this the show with Mystery Girl?
-summary: Was this the show with Mystery Girl?
 category: rock
 image: /static/img/rock/stacks/stacks-flyer-saturn-aug-3-2013.jpg
 tags:

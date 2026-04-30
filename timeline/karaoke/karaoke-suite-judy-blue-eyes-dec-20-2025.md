@@ -2,7 +2,6 @@
 title: Thrill me to the marrow.
 date: 2025-12-20T00:00:00
 excerpt: This song sucks enough for four songs.
-summary: This song sucks enough for four songs.
 image: /static/img/karaoke/suite-judy-blue-eyes-dec-20-2025.jpeg
 tags:
   - cartoons

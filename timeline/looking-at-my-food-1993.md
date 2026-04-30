@@ -1,7 +1,6 @@
 ---
 title: I looked at a pedestrian's food for too long.
 date: 1993-09-30T17:30:00.000Z
-summary: I looked at a pedestrian's food for too long.
 excerpt: I looked at a pedestrian's food for too long.
 category: timeline
 image: /static/img/timeline/blarney-stone-3rd-avenue.jpg

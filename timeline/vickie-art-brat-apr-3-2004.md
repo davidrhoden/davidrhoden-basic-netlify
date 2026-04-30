@@ -1,7 +1,6 @@
 ---
 title: I saw Cousin Vickie at the Art Brat party.
 date: 2004-04-03T19:00:00.000Z
-summary: Cousin Vickie later played keyboards in The Stacks.
 excerpt: Cousin Vickie later played keyboards in The Stacks.
 image: /static/img/timeline/vickie-art-brat-apr-3-2004.jpg
 tags:

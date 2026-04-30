@@ -1,7 +1,6 @@
 ---
 title: I made an animation rig.
 date: 2019-04-27T19:00:00.000Z
-summary: I haven't used it enough.
 excerpt: I haven't used it enough.
 category: timeline
 image: /static/img/timeline/football-animation-apr-27-2019.gif

@@ -1,7 +1,6 @@
 ---
 title: Another bonfire at Gina's, with our little friends.
 date: 2022-02-10T20:00:00.000Z
-summary: Oscar (who's not quite four) threatened us with "yummy soup and yummy alcohol".
 excerpt: Oscar (who's not quite four) threatened us with "yummy soup and yummy alcohol".
 category: timeline
 image: /static/img/timeline/bonfires/bonfire-ginas-feb-10-2022.jpg

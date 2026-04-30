@@ -1,7 +1,6 @@
 ---
 title: Gina and I went to the Chalmette Battlefield.
 date: 2020-12-27T16:00:00.000Z
-summary: I can't believe I'd never been.
 excerpt: I can't believe I'd never been.
 category: gina
 image: /static/img/gina/gina-david-battlefield-selfie-dec-27-2020.jpg

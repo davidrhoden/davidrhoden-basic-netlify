@@ -1,7 +1,6 @@
 ---
 title: I dreamed I went for a walk in my tube socks.
 date: 2022-01-01T11:00:00.000Z
-summary: I was walking on a slushy Brooklyn Street.
 excerpt: I was walking on a slushy Brooklyn Street.
 category: timeline
 tags:

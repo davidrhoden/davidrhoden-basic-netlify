@@ -2,7 +2,6 @@
 title: I did another karaoke cartoon eperiment.
 date: 2023-06-18T00:00:00
 excerpt: I found this lost cartoon in a box of paint tubes on January 5, 2026.
-summary: I found this lost cartoon in a box of paint tubes on January 5, 2026.
 image: /static/img/karaoke/our-lips-are-sealed-jun-18-2023.jpg
 tags:
   - cartoons

@@ -1,7 +1,6 @@
 ---
 title: Watched The Night That Panicked America.
 date: 1975-10-01T21:00:00.000Z
-summary: A movie about Orson Welles' War Of The Worlds. I remember they unscrewed a jar in the toilet.
 excerpt: A movie about Orson Welles' War Of The Worlds. I remember they unscrewed a jar in the toilet.
 category: timeline
 image: /static/img/timeline/the-night-that-panicked-america-oct-31-1975.jpg

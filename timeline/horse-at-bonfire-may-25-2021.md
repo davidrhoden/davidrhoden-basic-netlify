@@ -1,7 +1,6 @@
 ---
 title: Went to a bonfire in the Lower Ninth Ward with a horse.
 date: 2021-05-25T20:00:00.000Z
-summary: Our friend is moving away but she had a little bonfire to let people say goodbye. And her horse came.
 excerpt: Our friend is moving away but she had a little bonfire to let people say goodbye. And her horse came.
 category: timeline
 image: /static/img/timeline/horse-at-bonfire-by-kkraus-may-25-2021.jpg

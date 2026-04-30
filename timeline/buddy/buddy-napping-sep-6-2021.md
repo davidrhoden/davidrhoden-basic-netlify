@@ -1,7 +1,6 @@
 ---
 title: Buddy napped with me.
 date: 2021-09-06T11:00:00.000Z
-summary: He fell out first.
 excerpt: He fell out first.
 category: timeline
 image: /static/img/buddy/buddy-napping-sep-6-2021.jpg

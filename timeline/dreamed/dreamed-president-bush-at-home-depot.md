@@ -1,7 +1,6 @@
 ---
 title: "I dreamed I met G.H.W. Bush at a garden store."
 date: 2010-12-31T23:00:00.000Z
-summary: He agreed with us about his son.
 excerpt: He agreed with us about his son.
 tags:
   - post

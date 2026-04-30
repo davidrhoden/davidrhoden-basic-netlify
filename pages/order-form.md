@@ -4,7 +4,6 @@ title: Order a print
 date: 2024-08-05
 permalink: /order-form/index.html
 excerpt: "Order a copy of my 'I'm holding in a lot of anger' print."
-summary: "Order a copy of my 'I'm holding in a lot of anger' print."
 image: /static/img/illustrations/holding-anger-paper-print-aug-4-2024.jpg
 eleventyNavigation:
   key: Order a print

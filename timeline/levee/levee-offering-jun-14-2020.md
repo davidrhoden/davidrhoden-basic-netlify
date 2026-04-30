@@ -1,7 +1,6 @@
 ---
 title: Found a levee offering.
 date: 2020-06-14T09:00:00.000Z
-summary: Seen a few days after the death of George Floyd.
 excerpt: Seen a few days after the death of George Floyd.
 category: timeline
 image: /static/img/timeline/levee-offering-jun-14-2020.jpg

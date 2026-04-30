@@ -2,7 +2,6 @@
 title: I dreamed I was the point person for a secret intra-office sports league.
 date: 2026-02-22T00:00:00
 excerpt: I knew all there was to know about the sport, except for what it was.
-summary: I knew all there was to know about the sport, except for what it was.
 image: /static/img/timeline/queen-bee-feb-22-2026.png
 tags:
   - dreams

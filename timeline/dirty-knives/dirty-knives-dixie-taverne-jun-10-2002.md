@@ -1,7 +1,6 @@
 ---
 title: Dirty Knives played Dixie Taverne again.
 date: 2002-06-10T02:00:00.000Z
-summary: The venue was un-airconditioned.
 excerpt: The venue was un-airconditioned.
 category: rock
 image: /static/img/rock/dirty-knives/dirty-knives-sweating-lefty-jun-10-2002.jpg

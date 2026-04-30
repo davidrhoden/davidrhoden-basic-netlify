@@ -1,7 +1,6 @@
 ---
 title: "Influences: we got an 8-track tape of folk songs for Christmas."
 date: 1976-12-25T11:00:00.000Z
-summary: Turns out Folk encompasses a lot of kinds of music.
 excerpt: Turns out Folk encompasses a lot of kinds of music.
 category: timeline
 image: /static/img/timeline/greatest-folksingers-dec-25-1976.jpg

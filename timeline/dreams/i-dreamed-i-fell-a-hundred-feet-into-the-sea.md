@@ -1,7 +1,7 @@
 ---
 title: I dreamed I fell a hundred feet into the sea.
 date: 2021-08-17T20:24:52.526Z
-summary: I had to climb a hundred foot ladder, then stand on the top rung with
+excerpt: I had to climb a hundred foot ladder, then stand on the top rung with
   my other foot on the rig to reach the part I was working on.
 tags:
   - post

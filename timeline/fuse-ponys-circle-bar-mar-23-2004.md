@@ -1,7 +1,6 @@
 ---
 title: I saw The Fuse and The Ponys at Circle Bar.
 date: 2004-03-23T22:00:00.000Z
-summary: I liked the Ponys until I got thoroughly sick of the singer's voice.
 excerpt: I liked the Ponys until I got thoroughly sick of the singer's voice.
 category: timeline
 image: /static/img/timeline/ponys-mar-23-2004.jpg

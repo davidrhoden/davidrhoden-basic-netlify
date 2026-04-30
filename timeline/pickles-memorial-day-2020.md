@@ -1,7 +1,6 @@
 ---
 title: I made some half-sour pickles.
 date: 2020-05-25T11:00:00.000Z
-summary: Look out, Mr. Heinz!
 excerpt: Look out, Mr. Heinz!
 category: timeline
 image: /static/img/timeline/single-pickle-may-25-2020.jpg

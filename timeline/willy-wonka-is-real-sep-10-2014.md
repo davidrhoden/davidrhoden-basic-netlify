@@ -2,7 +2,6 @@
 title: Willy Wonka is real.
 date: 2014-09-10T00:00:00
 excerpt: I was hooked when the man snipped a huge slab of cooling molten sugar with enormous scissors.
-summary: I was hooked when the man snipped a huge slab of cooling molten sugar with enormous scissors.
 image: /static/img/timeline/teddy-gray-sweet-factory-sep-10-2014.jpeg
 tags:
   - candymaking

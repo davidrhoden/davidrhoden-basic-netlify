@@ -1,7 +1,6 @@
 ---
 title: The Stacks played Lounge Lizards with Paradise Vendors.
 date: 2005-01-15T22:00:00.000Z
-summary: "Paradise Vendors weren't like any other band in town, good stuff."
 excerpt: "Paradise Vendors weren't like any other band in town, good stuff."
 image: /static/img/rock/stacks/stacks-pandemic-recordings-with-andre-red.jpg
 category: rock

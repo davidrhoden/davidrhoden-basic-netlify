@@ -1,7 +1,6 @@
 ---
 title: Mardi Gras 2014 costume.
 date: 2014-03-04T11:00:00.000Z
-summary: Really not trying.
 excerpt: Really not trying.
 category: timeline
 image: /static/img/timeline/mardi-gras-loaded-on-bourbon-mar-4-2014.jpg

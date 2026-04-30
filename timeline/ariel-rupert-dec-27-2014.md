@@ -2,7 +2,6 @@
 title: I made a basset hound out of corrugated paper and oil pastels for Ariel.
 date: 2014-12-27T00:00:00
 excerpt: She named it Rupert, which I think is just right.
-summary: She named it Rupert, which I think is just right.
 image: /static/img/timeline/ariel/ariel-rupert-dec-27-2014.jpg
 tags:
   - art

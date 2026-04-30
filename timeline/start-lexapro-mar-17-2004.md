@@ -1,7 +1,6 @@
 ---
 title: I started taking Lexapro.
 date: 2004-03-17T16:00:00.000Z
-summary: They said it would take two weeks to work. It took one week.
 excerpt: They said it would take two weeks to work. It took one week.
 category: timeline
 image: /static/img/timeline/lexapro-mar-17-2004.jpg

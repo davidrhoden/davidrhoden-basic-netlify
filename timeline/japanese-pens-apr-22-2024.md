@@ -2,7 +2,6 @@
 title: I got a big order of Japanese pens.
 date: 2024-04-22T00:00:00
 excerpt: I love these (mostly) cheap Japanese pens. I have a few too many.
-summary: I love these (mostly) cheap Japanese pens. I have a few too many.
 image: /static/img/notes/japanese-pens-etc-apr-22-2024.jpg
 tags:
   - pens

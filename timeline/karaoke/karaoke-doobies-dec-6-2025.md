@@ -2,7 +2,6 @@
 title: Kind of a different direction, karaoke-wise.
 date: 2025-12-06T00:00:00
 excerpt: The words took up all the room.
-summary: The words took up all the room.
 image: /static/img/karaoke/doobies-dec-6-2025.jpg
 tags:
   - karaoke

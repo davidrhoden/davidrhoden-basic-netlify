@@ -1,7 +1,6 @@
 ---
 title: Organic form painting, again.
 date: 2021-01-16T13:00:00.000Z
-summary: A small painting from a long weekend.
 excerpt: A small painting from a long weekend.
 category: paintings
 image: /static/img/paintings/organic-form-something-jan-17-2021.jpg

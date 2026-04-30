@@ -1,7 +1,6 @@
 ---
 title: "I saw Andre Williams on Valentine's Day."
 date: 2004-02-14T22:00:00.000Z
-summary: Had to be at Circle Bar or One Eyed Jack's.
 excerpt: Had to be at Circle Bar or One Eyed Jack's.
 category: timeline
 image: /static/img/timeline/andre-williams-feb-14-2004.jpg

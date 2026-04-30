@@ -1,7 +1,6 @@
 ---
 title: Driver needs kidney.
 date: 2013-06-10T22:00:00.000Z
-summary: Seen and photographed in Bywater.
 excerpt: Seen and photographed in Bywater.
 category: timeline
 image: /static/img/timeline/ineedakidney-jul-10-2013.jpg

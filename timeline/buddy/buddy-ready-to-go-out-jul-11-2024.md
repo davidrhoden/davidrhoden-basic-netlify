@@ -2,7 +2,6 @@
 title: Buddy was ready to go out.
 date: 2024-07-10T00:00:00
 excerpt: He's ready, but I'm not.
-summary: He's ready, but I'm not.
 image: /static/img/buddy/buddy-healing-jul-11-2024.jpg
 tags:
   - cats

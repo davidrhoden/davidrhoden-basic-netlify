@@ -1,7 +1,6 @@
 ---
 title: I went to the regatta in Pensacola but it rained.
 date: 2021-07-05T11:00:00.000Z
-summary: It was nice to see everybody.
 excerpt: It was nice to see everybody.
 category: timeline
 image: /static/img/timeline/regatta-jul-2021/regatta-spent-fireworks-jul-5-2021.jpg

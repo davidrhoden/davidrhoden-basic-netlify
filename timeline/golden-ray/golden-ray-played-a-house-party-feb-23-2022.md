@@ -1,7 +1,6 @@
 ---
 title: Golden Ray played a house party on Magazine Street.
 date: 2022-02-23T17:00:00.000Z
-summary: We were supposed to play on the front porch but some lady freaked out.
 excerpt: We were supposed to play on the front porch but some lady freaked out.
 category: timeline
 image: /static/img/rock/golden-ray/golden-ray-porch-mar-30-2021.jpg

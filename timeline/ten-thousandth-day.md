@@ -1,7 +1,6 @@
 ---
 title: My ten thousandth day.
 date: 1994-07-19T03:00:00.000Z
-summary: A difficult milestone to achieve, yet it passed with little fanfare.
 excerpt: A difficult milestone to achieve, yet it passed with little fanfare.
 tags:
   - post

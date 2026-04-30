@@ -2,7 +2,6 @@
 title: I went to a good gallery opening on Magazine Street.
 date: 2025-03-30T00:00:00
 excerpt: It was for Megan Whitmarsh's "In The Year 2525". Saw a lot of people from my past.
-summary: It was for Megan Whitmarsh's "In The Year 2525". Saw a lot of people from my past.
 image: /static/img/timeline/whitmarsh-year-2525-poster-mar-30-2025.jpeg
 tags:
   - art galleries

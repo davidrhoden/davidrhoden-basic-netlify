@@ -1,7 +1,6 @@
 ---
 title: I played drums with The Headless Hookers at Passout Records.
 date: 2007-08-05T17:00:00.000Z
-summary: It was hot. I was underdressed.
 excerpt: It was hot. I was underdressed.
 category: timeline
 image: /static/img/rock/headless-hookers-aug-5-2007/headless-hookers-passout-aug-5-2007-01.jpg

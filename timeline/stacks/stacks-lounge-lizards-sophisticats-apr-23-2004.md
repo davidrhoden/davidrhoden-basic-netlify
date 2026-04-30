@@ -1,7 +1,6 @@
 ---
 title: Stacks played Lounge Lizards with The Sophisticats, I made a special flyer.
 date: 2004-04-23T00:00:00.000Z
-summary: The paper color was really important.
 excerpt: The paper color was really important.
 category: rock
 image: /static/img/rock/stacks/stacks-flyer-lounge-lizards-apr-23-2004.jpg

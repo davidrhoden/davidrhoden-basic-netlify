@@ -1,7 +1,6 @@
 ---
 title: I played bass with Fore Day Creep at the Circle Bar.
 date: 2019-12-29T22:00:00.000Z
-summary: Last time playing that bass on stage, it turns out
 excerpt: Last time playing that bass on stage, it turns out
 category: rock
 image: /static/img/rock/fore-day-creep-dec-29-2019.jpg

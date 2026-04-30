@@ -1,7 +1,6 @@
 ---
 title: My new band Golden Ray makes its re-re-scheduled debut.
 date: 2021-04-25T17:00:00.000Z
-summary: Playing on Gina's stage with George Wilde and Lo Amps, only rescheduled.
 excerpt: Playing on Gina's stage with George Wilde and Lo Amps, only rescheduled.
 category: timeline
 image: /static/img/designs/SisterStreetStage-Apr-25-2021.png

@@ -1,7 +1,6 @@
 ---
 title: I got kicked out of a record store.
 date: 1983-08-24T15:00:00.000Z
-summary: Definitely worth it though.
 excerpt: Definitely worth it though.
 category: timeline
 

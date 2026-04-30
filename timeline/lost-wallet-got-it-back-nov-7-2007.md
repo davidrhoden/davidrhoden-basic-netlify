@@ -2,7 +2,6 @@
 title: I lost my wallet and got it back.
 date: 2007-11-07T00:00:00
 excerpt: Thanks to "Gabby the Cabby" for finding and returning my license, credit cards, work ID, etc!
-summary: Thanks to "Gabby the Cabby" for finding and returning my license, credit cards, work ID, etc!
 image: 
 tags:
   - lost wallet

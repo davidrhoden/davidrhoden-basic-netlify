@@ -1,7 +1,6 @@
 ---
 title: Saw Musical Moose and Bend Sinister at the Knights of Columbus Hall.
 date: 1985-05-01T13:00:00.000Z
-summary: Dee tried to guess my middle name.
 excerpt: Dee tried to guess my middle name.
 category: timeline
 image: /static/img/timeline/bend-sinister-flyer-1985.jpeg

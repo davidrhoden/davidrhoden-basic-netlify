@@ -1,7 +1,6 @@
 ---
 title: Too soon?
 date: 2017-11-03T13:00:00.000Z
-summary: I like a lot of Prince music, but I can't stand his mid-tempo hits.
 excerpt: I like a lot of Prince music, but I can't stand his mid-tempo hits.
 category: timeline
 tags:

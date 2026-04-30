@@ -1,7 +1,6 @@
 ---
 title: I painted I'm Over It on a piece of cardboard.
 date: 2017-12-07T16:00:00.000Z
-summary: I really was over it as far as my landlord was concerned.
 excerpt: I really was over it as far as my landlord was concerned.
 category: timeline
 image: /static/img/paintings/im-over-it-dec-17-2017.jpg

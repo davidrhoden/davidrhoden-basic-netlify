@@ -1,7 +1,6 @@
 ---
 title: Sally stretched on our plywood floor.
 date: 2007-11-28T16:00:00.000Z
-summary: This was in Bushwick on our gray-painted floors.
 excerpt: This was in Bushwick on our gray-painted floors.
 image: /static/img/sally/sally-stretching-on-floor-nov-28-2007/sally-stretching-on-floor-nov-28-2007-talk-to-the-paw.jpg
 tags:

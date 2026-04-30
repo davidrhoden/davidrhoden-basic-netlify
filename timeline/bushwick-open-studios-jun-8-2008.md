@@ -2,7 +2,6 @@
 title: I've got some pieces showing in Bushwick Open Studios this weekend. 
 date: 2008-06-05T00:00:00
 excerpt: They're up on the roof at 100 Thames Street.
-summary: They're up on the roof at 100 Thames Street.
 image: static/img/paintings/amputeeonroofh.jpg
 tags:
   - art

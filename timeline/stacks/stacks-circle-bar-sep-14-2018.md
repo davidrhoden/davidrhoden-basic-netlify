@@ -1,7 +1,6 @@
 ---
 title: The Stacks played the Circle Bar.
 date: 2018-09-14T21:00:00.000Z
-summary: "link to (excellent) Bandcamp recording in post"
 excerpt: "link to (excellent) Bandcamp recording in post"
 category: rock
 image: /static/img/rock/stacks/stacks-live-at-circle-bar-sep-14-2018.jpg

@@ -1,7 +1,6 @@
 ---
 title: I went to Galatoire's for an office Christmas party.
 date: 2018-12-14T00:00:00.000Z
-summary: Kind of a strange place, really.
 excerpt: Kind of a strange place, really.
 category: timeline
 image: /static/img/timeline/galatoires-dec-14-2018.jpg

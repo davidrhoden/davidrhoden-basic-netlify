@@ -1,7 +1,6 @@
 ---
 title: We had a big bonfire to burn up the post-Ida fallen limbs.
 date: 2021-09-10T16:00:00.000Z
-summary: I wanted a big fire and I got one.
 excerpt: I wanted a big fire and I got one.
 image: /static/img/gina/gina-tends-fire-sep-10-2021.jpg
 tags:

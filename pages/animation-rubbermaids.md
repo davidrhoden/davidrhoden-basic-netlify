@@ -4,7 +4,6 @@ date: 2020-04-15T00:00:00.000Z
 permalink: /animations-rubbermaids/index.html
 image: /static/img/animations/guytripping.gif
 excerpt: Digital and analog animations by New Orleans-based artist David Rhoden.
-summary: Digital and analog animations by New Orleans-based artist David Rhoden.
 layout: layouts/page.njk
 ---
 

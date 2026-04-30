@@ -1,7 +1,6 @@
 ---
 title: I saw ? and the Mysterians at Great Jones Cafe.
 date: 2010-08-01T20:00:00.000Z
-summary: Always had fun at that place.
 excerpt: Always had fun at that place.
 category: timeline
 image: /static/img/timeline/mysterians-aug-1-2010.jpg

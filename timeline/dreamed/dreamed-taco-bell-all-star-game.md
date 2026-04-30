@@ -1,7 +1,6 @@
 ---
 title: "Dreamed I was one of the all-stars in the Taco Bell All-Star game."
 date: 2018-02-10T23:00:00.000Z
-summary: Another football dream.
 excerpt: Another football dream.
 tags:
   - post

@@ -2,7 +2,6 @@
 title: I like the sketches I do while I'm busy doing something else.
 date: 2026-03-12T00:00:00
 excerpt: Doodles, really.
-summary: Doodles, really.
 image: /static/img/sketchbook/phone-sketches-mar-12-2026.png
 tags:
   - art

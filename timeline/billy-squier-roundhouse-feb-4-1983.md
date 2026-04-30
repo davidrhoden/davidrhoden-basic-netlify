@@ -2,7 +2,6 @@
 title: I saw Billy Squier at the Roundhouse.
 date: 1983-02-04T20:00:00.000Z
 excerpt: My first real concert.
-summary: My first real concert.
 tags:
   - post 
   - rock

@@ -2,7 +2,6 @@
 title: Sally stretched in the backyard.
 date: 2011-09-16T22:00:00.000Z
 excerpt: Just a little bit before we moved to New Orleans.
-summary: Just a little bit before we moved to New Orleans.
 category: sally
 image: /static/img/sally/sally-stretching-on-pavement-sep-16-2011.jpg
 tags:

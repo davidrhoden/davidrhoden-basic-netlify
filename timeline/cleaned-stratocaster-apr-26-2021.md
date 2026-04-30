@@ -1,7 +1,6 @@
 ---
 title: I cleaned my Stratocaster.
 date: 2021-04-26T15:00:00.000Z
-summary: Try to do this every ten years or so.
 excerpt: Try to do this every ten years or so.
 image: /static/img/timeline/guitar-cleanup-1-apr-26-2021.jpg
 tags:

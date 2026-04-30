@@ -1,7 +1,6 @@
 ---
 title: Saw The Lyres at Brownie's.
 date: 1997-02-08T22:00:00.000Z
-summary: This had to be the time they were almost snowed out.
 excerpt: This had to be the time they were almost snowed out.
 tags:
   - post 

@@ -2,7 +2,6 @@
 title: dreamed I moved to a friendly shared living space.
 date: 2025-04-14T00:00:00
 excerpt: The biggest conflict was I didn't want to go to the hardcore matinees in the disused storefronts in our urban neighborhood.
-summary: The biggest conflict was I didn't want to go to the hardcore matinees in the disused storefronts in our urban neighborhood.
 image: 
 tags:
   - dreamed

@@ -2,7 +2,6 @@
 title: I saw the Black Crowes before they were really the Black Crowes.
 date: 1985-07-13T21:00:00.000Z
 excerpt: They were the opening band. They were pretty good.
-summary: They were the opening band. They were pretty good.
 category: rock
 image: /static/img/timeline/black-crowes-nucleus-jul-13-1985.jpg
 tags:

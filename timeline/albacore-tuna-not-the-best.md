@@ -2,7 +2,6 @@
 title: I made tuna salad with albacore tuna.
 date: 2025-12-12T00:00:00
 excerpt: Albacore tuna is thought to be more elegant than the cheap kind (chunk light!) but doesn't taste as good.
-summary: Albacore tuna is thought to be more elegant than the cheap kind (chunk light!) but doesn't taste as good.
 image: 
 tags:
   - food

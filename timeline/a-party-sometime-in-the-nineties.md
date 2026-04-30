@@ -1,7 +1,6 @@
 ---
 title: Went to a party some time in the Nineties.
 date: 1998-07-04T11:00:00.000Z
-summary: I remember this event.
 excerpt: I remember this event.
 category: timeline
 image: /static/img/timeline/the-gang-at-90s-party.jpg

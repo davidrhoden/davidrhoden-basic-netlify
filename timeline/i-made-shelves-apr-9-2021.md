@@ -1,7 +1,6 @@
 ---
 title: I made some shelves.
 date: 2021-04-09T11:00:00.000Z
-summary: I made these specifically for unread books and charging electronics.
 excerpt: I made these specifically for unread books and charging electronics.
 category: timeline
 image: /static/img/timeline/i-made-shelves-apr-9-2021.jpg

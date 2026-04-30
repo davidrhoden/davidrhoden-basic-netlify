@@ -2,7 +2,6 @@
 title: I saw American Music Club at Irving Plaza.
 date: 1993-05-25T21:00:00.000Z
 dateposted: 2021-03-03
-summary: Apparently Liz Phair was also on the bill but amusingly I don't remember that.
 excerpt: Apparently Liz Phair was also on the bill but amusingly I don't remember that.
 image: /static/img/timeline/amc-review-peter-watrous-may-27-1993.jpg
 tags:

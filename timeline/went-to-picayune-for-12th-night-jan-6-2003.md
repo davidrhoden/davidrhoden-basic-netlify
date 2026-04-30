@@ -1,7 +1,6 @@
 ---
 title: We went to Picayune, Mississippi for a bonfire.
 date: 2003-01-06T19:00:00.000Z
-summary: We played guitars.
 excerpt: We played guitars.
 category: timeline
 image: /static/img/rock/maximvs/maximvs-jan-6-2003.jpg

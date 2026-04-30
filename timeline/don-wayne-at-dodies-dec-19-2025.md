@@ -2,7 +2,6 @@
 title: Caught Don Wayne's act at Dodie's, a club I had no idea existed.
 date: 2025-12-19T00:00:00
 excerpt: Don Wayne released a single on Swan Records in 1957.
-summary: Don Wayne released a single on Swan Records in 1957.
 image: /static/img/timeline/don-wayne/don-wayne-trio-dodies-1-dec-19-2025.jpeg
 tags:
   - rock

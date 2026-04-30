@@ -2,7 +2,6 @@
 title: Gina and I went to see Felice Brothers at Gasa Gasa.
 date: 2019-06-10T00:00:00
 excerpt: They played the Undress album, pretty much in order.
-summary: They played the Undress album, pretty much in order.
 image: /static/img/timeline/felice-brothers-undress-cover.jpg
 tags:
   - shows

@@ -1,7 +1,6 @@
 ---
 title: Goldie's radiator blew up near Poplarville, Mississippi.
 date: 2017-08-18T10:00:00.000Z
-summary: I still made it to my mom's the same day, just about eight hours late.
 excerpt: I still made it to my mom's the same day, just about eight hours late.
 category: timeline
 image: /static/img/timeline/goldiesradiator/goldies-radiator-aug-18-2017.jpg

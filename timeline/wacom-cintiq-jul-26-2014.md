@@ -2,7 +2,6 @@
 title: I got a Wacom tablet.
 date: 2014-07-26T00:00:00
 excerpt: You draw right on the screen.
-summary: You draw right on the screen.
 image: /static/img/timeline/wacom-cintiq-first-jul-26-2014.jpg
 tags:
   - sketching

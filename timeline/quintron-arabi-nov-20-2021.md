@@ -1,7 +1,6 @@
 ---
 title: Saw Quintron and Miss Pussycat in Arabi.
 date: 2021-11-20T22:00:00.000Z
-summary: The cops shut it down, it's a peaceful neighborhood.
 excerpt: The cops shut it down, it's a peaceful neighborhood.
 image: /static/img/timeline/quintron-1-nov-20-2021.jpg
 tags:

@@ -1,7 +1,6 @@
 ---
 title: Saw The Ka-Nives at the Circle Bar.
 date: 2003-07-09T22:00:00.000Z
-summary: I would put them up against any band in the world for best live show.
 excerpt: I would put them up against any band in the world for best live show.
 image: /static/img/timeline/kanives-jul-19-2003/tonyhall-kanives-jul-19-2003.jpg
 tags:

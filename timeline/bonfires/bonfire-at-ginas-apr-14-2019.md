@@ -4,7 +4,6 @@ date: 2019-04-14T19:00:00.000Z
 category: timeline
 image: /static/img/timeline/bonfires/bonfire-at-ginas-apr-14-2019.jpg
 excerpt: Sorry if there are too many pictures of fires with no people on here.
-summary: Sorry if there are too many pictures of fires with no people on here.
 tags:
   - post 
   - New Orleans

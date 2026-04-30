@@ -1,7 +1,7 @@
 ---
 title: I dreamed I wanted to eat a basketball.
 date: 2021-08-07T17:51:05.365Z
-summary: It worked out about as well as you'd expect. Maybe better.
+excerpt: It worked out about as well as you'd expect. Maybe better.
 tags:
   - post
   - dreamed

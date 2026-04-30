@@ -2,7 +2,6 @@
 title: Said goodbye to my XTerra.
 date: 2025-06-10T00:00:00
 excerpt: I was getting close to Birmingham when I started to hear a ticking sound coming from the right side of the motor.
-summary: I was getting close to Birmingham when I started to hear a ticking sound coming from the right side of the motor.
 image: /static/img/timeline/cars/blackie-new-car-oct-23-2023.jpeg
 tags:
   - cars

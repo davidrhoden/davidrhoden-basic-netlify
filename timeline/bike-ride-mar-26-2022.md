@@ -1,7 +1,6 @@
 ---
 title: Went for a bike ride with Gina.
 date: 2022-03-26T12:00:00.000Z
-summary: We went about ten miles.
 excerpt: We went about ten miles.
 image: /static/img/gina/gina-by-river-mar-26-2022.jpg
 tags:

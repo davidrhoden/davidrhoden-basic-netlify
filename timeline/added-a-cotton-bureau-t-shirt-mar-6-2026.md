@@ -2,7 +2,6 @@
 title: I added a t-shirt to my Cotton Bureau store.
 date: 2026-03-06T00:00:00
 excerpt: I like their shirt quality better than Redbubble, I think.
-summary: I like their shirt quality better than Redbubble, I think.
 image: /static/img/designs/cotton-bureau-1985-mockup.avif
 tags:
   - for sale

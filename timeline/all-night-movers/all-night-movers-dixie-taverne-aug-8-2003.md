@@ -1,7 +1,6 @@
 ---
 title: "All-Night Movers played at Dixie Taverne with Preacher's Kids and Original 3."
 date: 2003-08-08T21:00:00.000Z
-summary: I was just a huge fan of Preacher's Kids. Wish I could have been in the band.
 excerpt: I was just a huge fan of Preacher's Kids. Wish I could have been in the band.
 category: timeline
 image: /static/img/rock/all-night-movers/dixie-taverne-aug-8-2003/anm-dixie-taverne-02.jpg

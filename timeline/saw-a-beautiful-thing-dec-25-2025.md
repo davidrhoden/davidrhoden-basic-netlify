@@ -2,7 +2,6 @@
 title: I saw a beautiful thing today.
 date: 2025-12-25T00:00:00
 excerpt: I saw a man on St. Roch avenue, near St. Claude. He was pushing a yellow Dollar General shopping cart full of unidentifiable junk.
-summary: I saw a man on St. Roch avenue, near St. Claude. He was pushing a yellow Dollar General shopping cart full of unidentifiable junk.
 image: 
 tags:
   - stories

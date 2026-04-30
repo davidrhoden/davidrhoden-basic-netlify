@@ -2,7 +2,6 @@
 title: Jimmy and the Wolfpack played live at Lucky Cat in Brooklyn.
 date: 2007-03-10T00:00:00
 excerpt: It's a benefit for ?, from ? and the Mysterians--his house burned down.
-summary: It's a benefit for ?, from ? and the Mysterians--his house burned down.
 image: /static/img/static/img/rock/lucky-cat-245-grand-street.png
 tags:
   - shows

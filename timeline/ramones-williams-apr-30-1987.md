@@ -1,7 +1,6 @@
 ---
 title: I saw The Ramones at Williams College.
 date: 1987-04-20T20:00:00.000Z
-summary: I guess I traveled up from Boston?
 excerpt: I guess I traveled up from Boston?
 category: timeline
 image: /static/img/timeline/lansing-chapman-rink-ramones-apr-30-1987.png

@@ -2,7 +2,6 @@
 title: Saw R.E.M. at Stokley Athletic center at the University of Tennessee.
 date: 1987-10-01T18:00:00.000Z
 dateposted: 2021-03-04
-summary: 10,000 Maniacs opened.
 excerpt: 10,000 Maniacs opened.
 category: timeline
 image: /static/img/timeline/rem-ticket-stub-stokley-oct-1-1987.jpg

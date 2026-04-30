@@ -1,7 +1,6 @@
 ---
 title: The Hi-Balls record got reviewed in some magazines.
 date: 1996-11-01T16:00:00.000Z
-summary: Maximum Rock and Roll thought it was great.
 excerpt: Maximum Rock and Roll thought it was great.
 category: rock
 image: /static/img/rock/hi-balls/hi-balls-jump.jpg

@@ -4,7 +4,6 @@ date: 2017-01-01T00:00:00.000Z
 permalink: /about/index.html
 navtitle: About
 excerpt: "David Rhoden is a painter, animator, illustrator, and occasional musician, currently based in New Orleans."
-summary: "David Rhoden is a painter, animator, illustrator, and occasional musician, currently based in New Orleans."
 image: /static/img/about/david-rhoden.jpg
 eleventyNavigation:
   key: About

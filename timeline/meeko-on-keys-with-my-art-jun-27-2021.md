@@ -1,7 +1,6 @@
 ---
 title: Some of my art is in North Carolina.
 date: 2021-06-27T12:00:00.000Z
-summary: Guarded by a cat.
 excerpt: Guarded by a cat.
 category: timeline
 image: /static/img/timeline/meeko-on-keys-with-my-art-jun-27-2021.jpg

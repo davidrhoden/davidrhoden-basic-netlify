@@ -1,7 +1,6 @@
 ---
 title: I went with Gina to see Cool Ghouls at Poor Boys'.
 date: 2017-05-09T12:00:00.000Z
-summary: It was a school night but I'm glad I went anyway.
 excerpt: It was a school night but I'm glad I went anyway.
 image: /static/img/timeline/cool-ghouls-poorboys-may-9-2017.jpg
 tags:

@@ -1,7 +1,6 @@
 ---
 title: The Stacks played the 8th Annual Chaz Fest.
 date: 2013-05-01T11:00:00.000Z
-summary: The Stacks played the 8th Annual Chaz Fest, in the yard of what was known as the Truck Farm, on St. Claude Avenue.
 excerpt: The Stacks played the 8th Annual Chaz Fest, in the yard of what was known as the Truck Farm, on St. Claude Avenue.
 category: rock
 image: /static/img/rock/stacks/stacks-chaz-fest-white-suit-may-1-2013.jpg

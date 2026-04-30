@@ -2,7 +2,6 @@
 title: Saw R.E.M. at Six Flags over Georgia.
 date: 1983-08-26T18:00:00.000Z
 dateposted: 2021-03-04
-summary: I think The Judys opened.
 excerpt: I think The Judys opened.
 category: timeline
 image: /static/img/timeline/rem-six-flags-aug-26-1983.jpg

@@ -1,7 +1,6 @@
 ---
 title: Mardi Gras 2006 non-costume.
 date: 2006-02-28T18:00:00.000Z
-summary: This picture really expresses how I felt at the time.
 excerpt: This picture really expresses how I felt at the time.
 category: timeline
 image: /static/img/timeline/david-at-mardi-gras-looking-baffled-2006.jpg

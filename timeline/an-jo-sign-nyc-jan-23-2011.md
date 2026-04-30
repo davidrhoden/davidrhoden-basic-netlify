@@ -1,7 +1,6 @@
 ---
 title: I photographed a letterpress printing shop in new York City.
 date: 2011-01-23T11:00:00.000Z
-summary: Looks like things are tough for ArJo Printing.
 excerpt: Looks like things are tough for ArJo Printing.
 category: timeline
 image: /static/img/timeline/an-jo-sign-nyc-jan-23-2011.jpg

@@ -2,7 +2,6 @@
 title: Jimmy and The Wolfpack played at Lakeside Lounge.
 date: 2007-01-20T00:00:00
 excerpt: I used the write PHP scripts to send mass emails to my mailing list.
-summary: I used the write PHP scripts to send mass emails to my mailing list.
 image:
 tags:
   - shows

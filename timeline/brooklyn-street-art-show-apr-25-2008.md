@@ -2,7 +2,6 @@
 title: The Brooklyn Street Art show is this weekend.
 date: 2008-04-25T00:00:00
 excerpt: Jimmy and the Wolfpack will be playing the after-party.
-summary: Jimmy and the Wolfpack will be playing the after-party.
 image: /static/img/rock/jandtwp/jandtwp-wreck-room-brooklyn-apr-25-2008.jpeg
 tags:
   - shows

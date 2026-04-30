@@ -1,7 +1,6 @@
 ---
 title: Sally got a new collar.
 date: 2008-05-07T11:00:00.000Z
-summary: Boy did she look sharp.
 excerpt: Boy did she look sharp.
 image: /static/img/sally/sally-new-collar-may-7-2008/sally-new-collar-may-7-2008-sallysupercute.jpg
 tags:

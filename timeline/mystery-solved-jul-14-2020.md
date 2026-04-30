@@ -1,7 +1,6 @@
 ---
 title: A mystery is solved
 date: 2020-07-13T11:17:00.000Z
-summary: My neighbor's odd behavior is explained, but it's more than that.
 excerpt: My neighbor's odd behavior is explained, but it's more than that.
 category: buddy
 image: /static/img/buddy/buddy-in-box-may-21-2020.jpg

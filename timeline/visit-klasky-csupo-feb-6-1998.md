@@ -1,7 +1,6 @@
 ---
 title: Visited Klasky-Csupo Animation in Los Angeles.
 date: 1998-02-06T10:00:00.000Z
-summary: Unbelievably, I showed them my reel.
 excerpt: Unbelievably, I showed them my reel.
 tags:
   - post 

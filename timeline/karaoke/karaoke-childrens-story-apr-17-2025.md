@@ -2,7 +2,6 @@
 title: I did a karaoke cartoon of a Slick Rick song that might be kind of obscure. 
 date: 2025-04-27T00:00:00
 excerpt: When I worked at Cat's Records (1985 or so) many, many people asked when the new Slick Rick was coming out.
-summary: When I worked at Cat's Records (1985 or so) many, many people asked when the new Slick Rick was coming out.
 image: /static/img/karaoke/childrens-story-apr-26-2025.jpeg
 tags:
   - cartoons

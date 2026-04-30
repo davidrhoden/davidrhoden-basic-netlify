@@ -1,7 +1,6 @@
 ---
 title: Jimmy and the Wolfpack went to Equinunk, Pennsylvania to record again.
 date: 2009-05-24T21:00:00.000Z
-summary: We also shot guns at cans and bottles. 
 excerpt: We also shot guns at cans and bottles.
 category: timeline
 image: /static/img/timeline/doug-shooting-cans-may-24-2009.jpg

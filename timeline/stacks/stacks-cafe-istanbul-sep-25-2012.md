@@ -1,7 +1,6 @@
 ---
 title: The Stacks played Cafe Istanbul after The Goodnight Show.
 date: 2005-01-09T22:00:00.000Z
-summary: It probably wasn't a great idea.
 excerpt: It probably wasn't a great idea.
 category: rock
 image: /static/img/rock/stacks/stacks-flyer-istanbul-sep-26-2012.png

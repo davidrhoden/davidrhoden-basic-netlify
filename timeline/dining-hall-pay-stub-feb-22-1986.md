@@ -1,7 +1,6 @@
 ---
 title: I worked in the dining hall in Baxter.
 date: 1986-02-22T11:00:00.000Z
-summary: I was called "the salad cowboy".
 excerpt: I was called "the salad cowboy".
 image: /static/img/timeline/dining-hall-pay-stub-feb-22-1986.jpg
 tags:

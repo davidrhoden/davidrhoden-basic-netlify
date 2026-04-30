@@ -2,7 +2,6 @@
 title: Dirty Knives played our last show at Mermaid Lounge with The Forty Fives.
 date: 2002-12-22T08:00:00.000Z
 image: /static/img/rock/dirty-knives/dirty-knives-mermaid-dec-22-2002.jpg
-summary: We had a new drummer but the change didn't do what we wanted it to.
 excerpt: We had a new drummer but the change didn't do what we wanted it to.
 tags:
   - post 

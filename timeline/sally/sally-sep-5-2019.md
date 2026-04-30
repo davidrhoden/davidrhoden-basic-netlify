@@ -2,7 +2,6 @@
 title: Sally caught up on reading.
 date: 2019-09-05T22:00:00.000Z
 excerpt: Those white socks.
-summary: Those white socks.
 category: sally
 image: /static/img/sally/sally-sep-5-2019.jpg
 tags:

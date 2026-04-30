@@ -1,7 +1,6 @@
 ---
 title: All-Night Movers played 219 Flamingo with The Demands.
 date: 2003-03-01T22:00:00.000Z
-summary: I never heard of the club before or since.
 excerpt: I never heard of the club before or since.
 image: /static/img/rock/all-night-movers/all-night-movers-cover-aug-3-2002.jpg
 tags:

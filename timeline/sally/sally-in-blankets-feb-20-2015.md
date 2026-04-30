@@ -1,8 +1,7 @@
 ---
 title: Sally got in the blankets.
 date: 2015-02-20T16:00:00.000Z
-summary: This was in Austin where there wasn't enough for her to do.
-excerpt:  This was in Austin where there wasn't enough for her to do.
+excerpt: This was in Austin where there wasn't enough for her to do.
 category: sally
 image: /static/img/sally/sally-in-blankets-austin-feb-20-2015/sally-in-blankets-feb-20-2015-01.jpg
 tags:

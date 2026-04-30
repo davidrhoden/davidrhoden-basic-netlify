@@ -1,8 +1,7 @@
 ---
 title: Sally did a facepalm.
 date: 2011-07-20T18:00:00.000Z
-summary: 4e loved this elevated front porch.
-excerpt: We loved this elevated front porch.
+excerpt: 4e loved this elevated front porch.
 category: timeline
 image: /static/img/sally/sally-facepalm-orchid-jul-20-2014.jpg
 tags:

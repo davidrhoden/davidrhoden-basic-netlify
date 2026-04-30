@@ -2,7 +2,6 @@
 title: Buddy went out in the snow for the first time in his life.
 date: 2025-01-23T00:00:00
 excerpt: It snowed in New Orleans. I let Buddy out in it.
-summary: It snowed in New Orleans. I let Buddy out in it.
 image: /static/img/timeline/two-minutes-of-buddys-first-snow.png
 tags:
   - cats

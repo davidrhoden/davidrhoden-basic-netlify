@@ -2,7 +2,6 @@
 title: Saw a really good puppet show performed on the levee.
 date: 2025-04-14T00:00:00
 excerpt: The String & Shadow puppeteers perfomred their original play _A Night At The Grand Opera_.
-summary: The String & Shadow puppeteers perfomred their original play _A Night At The Grand Opera_.
 image: //static/img/timeline/puppet-show-on-levee-apr-14-2025.jpeg
 tags:
   - post

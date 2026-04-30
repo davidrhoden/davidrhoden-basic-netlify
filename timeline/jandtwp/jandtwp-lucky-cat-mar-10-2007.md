@@ -2,7 +2,6 @@
 title: Jimmy and The Wolfpack played at Lucky Cat on Grand Street.
 date: 2006-12-16T22:00:00.000Z
 excerpt: I'm sure the show was fine, but listen to this other story I have about this place.
-summary: I'm sure the show was fine, but listen to this other story I have about this place.
 image: /static/img/rock/lucky-cat-245-grand-street.png
 tags:
   - post

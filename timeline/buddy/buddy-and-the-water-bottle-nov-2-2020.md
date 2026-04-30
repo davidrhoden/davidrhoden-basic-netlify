@@ -1,7 +1,6 @@
 ---
 title: Buddy and I learned a hard lesson about discipline.
 date: 2020-11-02T11:00:00.000Z
-summary: In which I teach Buddy a lesson, but you know what? I learned a lesson of my own.
 excerpt: In which I teach Buddy a lesson, but you know what? I learned a lesson of my own.
 category: buddy
 image: /static/img/buddy/buddy-on-bed-around-nov-2-2020.jpg

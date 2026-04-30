@@ -2,7 +2,6 @@
 title: I read this very good memoir by Paul Sahre, "Two-Dimensional Man".
 date: 2024-06-12T00:00:00
 excerpt: He's about my age. It inspired me to write a memoir, but I don't know if it would be as funny as this one.
-summary: He's about my age. It inspired me to write a memoir, but I don't know if it would be as funny as this one.
 image: /static/img/notes/paul-sahre-book-june-12-2024.jpg
 tags:
   - reading

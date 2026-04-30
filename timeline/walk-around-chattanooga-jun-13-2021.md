@@ -1,7 +1,6 @@
 ---
 title: I took a walk around downtown Chattanooga.
 date: 2021-06-13T16:00:00.000Z
-summary: It was a really hot Sunday, so somewhat deserted.
 excerpt: It was a really hot Sunday, so somewhat deserted.
 category: timeline
 image: /static/img/timeline/chattanooga/chattanooga-river-view-jun-13-2021.jpg

@@ -1,8 +1,7 @@
 ---
 title: Buddy and Otter stopped fighting for a minute.
 date: 2021-03-26T11:00:00.000Z
-summary: These two generally torment each other all day. 
-excerpt: These two generally torment each other all day. 
+excerpt: These two generally torment each other all day.
 category: timeline
 image: /static/img/buddy/bud-and-otter-mar-26-2021.jpg
 tags:

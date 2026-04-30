@@ -1,7 +1,6 @@
 ---
 title: I played an open mic at Checkpoint Charlie.
 date: 1999-04-22T11:00:00.000Z
-summary: This was my first visit to New Orleans.
 excerpt: This was my first visit to New Orleans.
 category: rock
 image: /static/img/rock/david-at-checkpoint-charlie.jpg

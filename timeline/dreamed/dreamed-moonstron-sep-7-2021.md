@@ -1,7 +1,6 @@
 ---
 title: I dreamed about looking for a movie to watch.
 date: 2021-09-07T11:00:00.000Z
-summary: The movies weren't the ones I'm used to.
 excerpt: The movies weren't the ones I'm used to.
 category: timeline
 tags:

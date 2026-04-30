@@ -2,7 +2,6 @@
 title: Went to Kajun's to do karaoke with Andrew and ChanDella.
 date: 2025-04-20T00:00:00
 excerpt: Andrew knocked out the crowd with his (single edit) "Thunder Road".
-summary: Andrew knocked out the crowd with his (single edit) "Thunder Road".
 image: /static/img/timeline/andrew-kajuns-1-apr-20-2025.jpeg
 tags:
   - karaoke

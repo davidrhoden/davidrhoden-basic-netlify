@@ -3,7 +3,6 @@ title: Burn rubber on me.
 date: 2026-04-03T00:00:00
 image: /static/img/karaoke/burn-rubber-apr-3-2026.png
 excerpt: The GAP Band could make a great video with a hundred-dollar budget, or a hundred-thousand-dollar budget.
-summary: The GAP Band could make a great video with a hundred-dollar budget, or a hundred-thousand-dollar budget.
 tags:
   - cartoons
   - karaoke

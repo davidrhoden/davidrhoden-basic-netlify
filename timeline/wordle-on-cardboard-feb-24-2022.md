@@ -1,8 +1,7 @@
 ---
 title: Gina and I played analog Wordle.
 date: 2022-02-24T11:00:00.000Z
-summary: I had misplaced my phone but it was Wordle time so Gina set me up with the analog version. 
-excerpt: I had misplaced my phone but it was Wordle time so Gina set me up with the analog version. 
+excerpt: I had misplaced my phone but it was Wordle time so Gina set me up with the analog version.
 category: timeline
 image: /static/img/timeline/wordle-on-cardboard-feb-24-2022.jpg
 tags:

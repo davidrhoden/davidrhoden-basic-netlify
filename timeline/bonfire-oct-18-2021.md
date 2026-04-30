@@ -1,8 +1,7 @@
 ---
 title: I attended a bonfire on this date, but I'm not entirely sure where.
 date: 2021-10-18T00:00:00
-excerpt: Are those somebody's jack-o'-lanterns in the distance? 
-summary: Are those somebody's jack-o'-lanterns in the distance? 
+excerpt: Are those somebody's jack-o'-lanterns in the distance?
 image: /static/img/timeline/bonfires/bonfire-oct-18-2021.jpg
 tags:
   - bonfires

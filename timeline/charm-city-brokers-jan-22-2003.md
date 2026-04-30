@@ -1,7 +1,6 @@
 ---
 title: Saw Charm City Brokers at d.b.a.
 date: 2003-01-22T21:00:00.000Z
-summary: I guess I went, it's in my date book.
 excerpt: I guess I went, it's in my date book.
 tags:
   - post

@@ -2,7 +2,6 @@
 title: Caught another possum eating the cat food.
 date: 2025-10-29T00:00:00
 excerpt: I've been disturbing this possum nightly all week as he or she goes about the business of eating bugs and such in my yard, but tonight it decided to come bug me instead.
-summary: I've been disturbing this possum nightly all week as he or she goes about the business of eating bugs and such in my yard, but tonight it decided to come bug me instead.
 image: /static/img/timeline/possum-in-the-kitchen-oct-29-2024.jpg
 tags:
   - possums

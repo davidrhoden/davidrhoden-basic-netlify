@@ -3,7 +3,6 @@ title: Illustrations
 date: 2020-04-12T00:00:00.000Z
 permalink: /illustrations/index.html
 excerpt: Illustrations by New Orleans illustrator David Rhoden. Need illustration in New Orleans? Get in touch.
-summary: Illustrations by New Orleans illustrator David Rhoden. Need illustration in New Orleans? Get in touch.
 image: /static/img/illustrations/talbot-adams-album.jpg
 layout: layouts/horizontal-gallery.njk
 useDataFile: true

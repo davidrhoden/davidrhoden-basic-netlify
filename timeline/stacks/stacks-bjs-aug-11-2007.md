@@ -2,7 +2,6 @@
 title: The Stacks played at BJ's Lounge, unexpectedly.
 date: 2007-08-11T00:00:00
 excerpt: Came to New Orleans for the weekend and somehow got a gig.
-summary: Came to New Orleans for the weekend and somehow got a gig.
 image: /static/img/timeline/uptown-music-exchange-aug-11-2007.jpg
 tags:
   - shows

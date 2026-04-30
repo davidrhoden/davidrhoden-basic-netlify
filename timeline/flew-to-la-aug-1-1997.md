@@ -1,7 +1,6 @@
 ---
 title: I flew to Los Angeles for $278 round trip.
 date: 1997-08-01T21:00:00.000Z
-summary: Took a night flight.
 excerpt: Took a night flight.
 tags:
   - post 

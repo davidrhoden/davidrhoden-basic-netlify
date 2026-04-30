@@ -1,7 +1,6 @@
 ---
 title: "All-Night Movers played at Jeff Pounds' house."
 date: 2002-07-26T20:00:00.000Z
-summary: Jeff made crawfish etouffée.
 excerpt: Jeff made crawfish etouffée.
 image: /static/img/rock/all-night-movers/anm-jul-26-2002/all-night-movers-dave-jul-26-2002.jpg
 tags:

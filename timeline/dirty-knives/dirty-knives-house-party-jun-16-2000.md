@@ -1,7 +1,6 @@
 ---
 title: Dirty Knives played a house party near UNO.
 date: 2000-06-16T22:00:00.000Z
-summary: It was our second show in two days. It would also be our last show with this lineup.
 excerpt: It was our second show in two days. It would also be our last show with this lineup.
 tags:
   - post 

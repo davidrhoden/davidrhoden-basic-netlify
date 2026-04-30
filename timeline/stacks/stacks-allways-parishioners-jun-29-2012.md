@@ -1,7 +1,6 @@
 ---
 title: Stacks played at Allways Lounge with The Parishioners.
 date: 2012-06-29T21:00:00.000Z
-summary: Fun club to play.
 excerpt: Fun club to play.
 category: rock
 image: /static/img/rock/stacks/stacks-flyer-parishioners-allways-jun-29-2012.jpg

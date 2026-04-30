@@ -1,7 +1,6 @@
 ---
 title: I saw ZZ Top.
 date: 1999-11-05T19:00:00.000Z
-summary: I learned about my new boss as well.
 excerpt: I learned about my new boss as well.
 category: timeline
 image: /static/img/timeline/zztop-skynyrd-nov-5-1999.jpg

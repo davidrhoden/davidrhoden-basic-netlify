@@ -1,7 +1,6 @@
 ---
 title: I went to Italy.
 date: 1994-04-25T12:00:00.000Z
-summary: Very unsure of the date though.
 excerpt: Very unsure of the date though.
 category: timeline
 tags:

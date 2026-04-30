@@ -1,7 +1,6 @@
 ---
 title: "Saw Sunrise/Sunset at Portside Lounge."
 date: 2021-07-18T16:00:00.000Z
-summary: It was part of Creepy Fest.
 excerpt: It was part of Creepy Fest.
 image: /static/img/timeline/sunrise-sunset-setlist-jul-18-2021.jpg
 tags:

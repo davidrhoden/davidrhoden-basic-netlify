@@ -1,7 +1,6 @@
 ---
 title: "I dreamed a new Rod Stewart tune."
 date: 2020-12-20T07:00:00.000Z
-summary: A classic record gets a new track.
 excerpt: A classic record gets a new track.
 category: timeline
 image: /static/img/timeline/stewart_againf.jpg

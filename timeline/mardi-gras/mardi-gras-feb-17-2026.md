@@ -2,7 +2,6 @@
 title: I went to the Mardi Gras.
 date: 2026-02-17T00:00:00
 excerpt: I never remember to take pictures. Please don't consider this the definitive Mardi Gras experience.
-summary: I never remember to take pictures. Please don't consider this the definitive Mardi Gras experience.
 image: /static/img/timeline/mardi-gras/mardi-gras-yip-yips-feb-17-2026.jpeg
 tags:
   - New Orleans

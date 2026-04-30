@@ -1,7 +1,6 @@
 ---
 title: Sally slept on the desk, as usual.
 date: 2019-10-25T11:00:00.000Z
-summary: We were so happy then.
 excerpt: We were so happy then.
 category: sally
 image: /static/img/sally/sally-on-desk-2019-10-25.jpg

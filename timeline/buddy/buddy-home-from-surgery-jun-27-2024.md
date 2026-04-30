@@ -2,7 +2,6 @@
 title: Buddy got home from surgery very groggy.
 date: 2024-07-24T00:00:00
 excerpt: Basically he couldn't stand up yet right after the surgery.
-summary: Basically he couldn't stand up yet right after the surgery.
 image: /static/img/buddy/buddy-zonked-jun-27-2024.jpg
 tags:
   - cats

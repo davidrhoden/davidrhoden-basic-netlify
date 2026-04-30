@@ -2,7 +2,6 @@
 title: Cartooned an R.E.M. song.
 date: 2026-03-13T00:00:00
 excerpt: I bought a copy of Fables Of The Reconstruction for $5 but it had a lot of invisible skips.
-summary: I bought a copy of Fables Of The Reconstruction for $5 but it had a lot of invisible skips.
 image: /static/img/karaoke/world-is-a-monster-mar-13-2026.png
 tags:
   - cartoons

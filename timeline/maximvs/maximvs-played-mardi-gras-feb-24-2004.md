@@ -1,7 +1,6 @@
 ---
 title: MAXIMVS! walked around and played all over on Mardi Gras day.
 date: 2004-02-24T08:00:00.000Z
-summary: We stopped at Buffa's and played a short set, uninvited.
 excerpt: We stopped at Buffa's and played a short set, uninvited.
 category: timeline
 tags:

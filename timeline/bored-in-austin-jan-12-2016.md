@@ -2,7 +2,6 @@
 title: I was bored in Austin, watching a lot of TV.
 date: 2016-01-12T00:00:00
 excerpt: I continue to enjoy lots of media.
-summary: I continue to enjoy lots of media.
 image: /static/img/timeline/austin/austin-dave-living-room-jan-12-2016.jpg
 tags:
   - boredom

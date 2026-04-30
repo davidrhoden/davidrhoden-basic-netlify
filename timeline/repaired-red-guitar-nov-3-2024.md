@@ -2,7 +2,6 @@
 title: I repaired my old red guitar.
 date: 2024-11-03T00:00:00
 excerpt: For a guitar that was basically in the trash it's starting to look like an instrument somebody cares about.
-summary: For a guitar that was basically in the trash it's starting to look like an instrument somebody cares about.
 image: /static/img/timeline/red-guitar-repairs-nov-3-2024.jpeg
 tags:
   - guitars

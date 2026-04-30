@@ -1,7 +1,6 @@
 ---
 title: Saw Lou Reed at the Fox Theatre in Atlanta.
 date: 1984-11-21T22:00:00.000Z
-summary: Drove down with Sterling Owen.
 excerpt: Drove down with Sterling Owen.
 image: /static/img/timeline/Fox_Theatre_Atlanta.jpg
 tags:

@@ -1,7 +1,6 @@
 ---
 title: I hung around the compound during Hurricane Isaac.
 date: 2012-08-28T16:00:00.000Z
-summary: My power was out for days.
 excerpt: My power was out for days.
 category: timeline
 image: /static/img/timeline/hurricane-isaac-aug-28-2012/isaac1.jpg

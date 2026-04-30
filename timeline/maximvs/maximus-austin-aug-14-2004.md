@@ -1,7 +1,6 @@
 ---
 title: MAXIMVS! went to Barton Springs in Austin.
 date: 2004-08-14T20:00:00.000Z
-summary: We didn't have a gig but we wanted to go anyway.
 excerpt: We didn't have a gig but we wanted to go anyway.
 category: timeline
 tags:
