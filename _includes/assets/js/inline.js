@@ -147,6 +147,35 @@ $(document).ready(function () {
 
     MicroModal.init();
 
+    document.querySelectorAll('.recent-posts-carousel').forEach(function(carousel) {
+      var viewport = carousel.querySelector('.recent-posts-viewport');
+      var prevBtn = carousel.querySelector('.carousel-btn-prev');
+      var nextBtn = carousel.querySelector('.carousel-btn-next');
+
+      function getScrollAmount() {
+        var card = viewport.querySelector('.recent-post-card');
+        if (!card) return 300;
+        var gap = parseFloat(window.getComputedStyle(viewport.querySelector('.recent-posts-track')).gap) || 32;
+        return card.offsetWidth + gap;
+      }
+
+      function updateButtons() {
+        prevBtn.disabled = viewport.scrollLeft <= 0;
+        nextBtn.disabled = viewport.scrollLeft >= viewport.scrollWidth - viewport.clientWidth - 1;
+      }
+
+      prevBtn.addEventListener('click', function() {
+        viewport.scrollBy({ left: -getScrollAmount(), behavior: 'smooth' });
+      });
+
+      nextBtn.addEventListener('click', function() {
+        viewport.scrollBy({ left: getScrollAmount(), behavior: 'smooth' });
+      });
+
+      viewport.addEventListener('scroll', updateButtons);
+      updateButtons();
+    });
+
     $('#nav-link-search').click(function(ev) {
       MicroModal.show('modal-search', {
           onClose: function() { $('.nav-link-contact').blur(); },

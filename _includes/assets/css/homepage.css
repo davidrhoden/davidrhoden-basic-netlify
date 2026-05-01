@@ -34,21 +34,73 @@
   text-align: left;
 }
 
-.recent-posts-grid {
-  display: grid;
+.recent-posts-carousel {
+  align-items: center;
+  display: flex;
+  gap: 0.5em;
+}
+
+.recent-posts-viewport {
+  container-type: inline-size;
+  flex: 1;
+  overflow-x: scroll;
+  overflow-y: hidden;
+  scroll-snap-type: x mandatory;
+  scroll-behavior: smooth;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+
+.recent-posts-viewport::-webkit-scrollbar {
+  display: none;
+}
+
+.recent-posts-track {
+  display: flex;
   gap: 2em;
-  grid-template-columns: 1fr;
 }
 
-.recent-posts-grid article {
-  margin-top: 2em;
+.carousel-btn {
+  align-items: center;
+  background: none;
+  border: 1px solid transparent;
+  border-radius: 50%;
+  color: var(--black);
+  cursor: pointer;
+  display: flex;
+  flex-shrink: 0;
+  font-size: 1.25rem;
+  height: 2.5em;
+  justify-content: center;
+  transition: border-color 0.2s ease;
+  width: 2.5em;
 }
 
+.carousel-btn img {
+  display: block;
+  height: 1.25em;
+  width: 1.25em;
+}
+
+.carousel-btn:hover {
+  border-color: var(--orangered);
+}
+
+.carousel-btn[disabled] {
+  opacity: 0;
+  pointer-events: none;
+}
 
 .recent-post-card {
   background-color: var(--white);
   border-radius: 0.5em;
+  contain-intrinsic-size: 0 420px;
+  content-visibility: auto;
+  flex: none;
   overflow: hidden;
+  scroll-snap-align: start;
+  width: 100cqi;
 }
 
 .recent-post-link {
@@ -186,11 +238,13 @@
    RESPONSIVE DESIGN - TABLET
    ============================================ */
 
-@media screen and (min-width: 600px) {
-  .recent-posts-grid {
-    grid-template-columns: repeat(2, 1fr);
-    gap: 2em;
+@container (min-width: 600px) {
+  .recent-post-card {
+    width: calc(50cqi - 1em);
   }
+}
+
+@media screen and (min-width: 600px) {
   
   .latest-post-title {
     font-size: 3rem;
@@ -205,11 +259,13 @@
    RESPONSIVE DESIGN - DESKTOP
    ============================================ */
 
-@media screen and (min-width: 900px) {
-  .recent-posts-grid {
-    grid-template-columns: repeat(3, 1fr);
-    gap: 2em;
+@container (min-width: 900px) {
+  .recent-post-card {
+    width: calc(33.333cqi - 1.334em);
   }
+}
+
+@media screen and (min-width: 900px) {
   
   .latest-post-title {
     font-size: 3rem;

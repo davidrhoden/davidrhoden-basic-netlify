@@ -1,35 +1,42 @@
 <section class="recent-posts-section">
   <div class="recent-posts-container">
     <p class="section-label">IN THE RECENT PAST</p>
-    <div class="recent-posts-grid">
-      {% for post in collections[collectionName] | reverse %}
-        {% if loop.index > 1 and loop.index <= 4 %}
-        <article class="recent-post-card">
-          <a class="recent-post-link" href="{{ post.url }}">
-            {% if post.data.image %}
-              <figure class="recent-post-image">
-                <img
-                  src="{{ post.data.image }}"
-                  alt="{{ post.data.title }}"
-                  loading="lazy"
-                >
-              </figure>
+    <div class="recent-posts-carousel">
+      <button class="carousel-btn carousel-btn-prev" aria-label="Previous posts"><img src="/static/img/site/arrow-bold-left.svg" alt="" aria-hidden="true"></button>
+      <div class="recent-posts-viewport">
+        <div class="recent-posts-track">
+          {% set totalPosts = collections[collectionName] | length %}
+          {% for post in collections[collectionName] %}
+            {% if loop.index > (totalPosts - 16) and loop.index <= (totalPosts - 1) %}
+            <article class="recent-post-card">
+              <a class="recent-post-link" href="{{ post.url }}">
+                {% if post.data.image %}
+                  <figure class="recent-post-image">
+                    <img
+                      src="{{ post.data.image }}"
+                      alt="{{ post.data.title }}"
+                      loading="lazy"
+                    >
+                  </figure>
+                {% endif %}
+                <div class="recent-post-content">
+                  <h3 class="recent-post-title">{{ post.data.title }}</h3>
+                  {% if post.data.excerpt %}
+                    <p class="recent-post-excerpt">{{ post.data.excerpt }}</p>
+                  {% endif %}
+                  <footer class="recent-post-meta">
+                    <time class="recent-post-date" datetime="{{ post.date | machineDate }}">
+                      {{ post.date | readableDate }}
+                    </time>
+                  </footer>
+                </div>
+              </a>
+            </article>
             {% endif %}
-            <div class="recent-post-content">
-              <h3 class="recent-post-title">{{ post.data.title }}</h3>
-              {% if post.data.excerpt %}
-                <p class="recent-post-excerpt">{{ post.data.excerpt }}</p>
-              {% endif %}
-              <footer class="recent-post-meta">
-                <time class="recent-post-date" datetime="{{ post.date | machineDate }}">
-                  {{ post.date | readableDate }}
-                </time>
-              </footer>
-            </div>
-          </a>
-        </article>
-        {% endif %}
-      {% endfor %}
+          {% endfor %}
+        </div>
+      </div>
+      <button class="carousel-btn carousel-btn-next" aria-label="Next posts"><img src="/static/img/site/arrow-bold-right.svg" alt="" aria-hidden="true"></button>
     </div>
   </div>
 </section>
