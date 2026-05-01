@@ -1,46 +1,31 @@
-<section class="postslist tagslist grid-4-across data-pagefind-ignore">
-    {% set showYear = true %}
-    {% set currentYear = "" %}
-    {% for post in postslist %}
-
-      {% if showYear %}
-        {% set postYear = "" %}
-        {% if currentYear != postYear %}
-          {% if currentYear != "" %}
-            </div> <!-- END YEAR -->
-          {% endif %}
-          {% set currentYear = postYear %}
-          <div class="year">
-            <p class="post-year">year: {{ postYear }}</p>
-       {% endif %}
-      {% endif %}
-        <div class="grid-square-4-across">
-          <a href="{{ post.url }}" style="display: block;">
-        </style>
-
-          {% if post.data.image %}
-              <span class="tagslist-image-container">
-              <img class="thumbnail" src="{{ post.data.image }}?nf_resize=fit&w=340">
-              </span>
-              {%  else %}
-              <span style="height: 240px;">
-              </span>
-          {% endif %}
-
-          <div style="background: white; padding: 4px; width: 100%;">
-            <time datetime="{{ post.date | machineDate }}">
-              <small>{{ post.date | readableDate }}</small>
-            </time><br>
-            <div style="font-size: .75rem">
-              <b>{{ post.data.title }}</b>
-              {% if post.data.excerpt %}
-                  {{ post.data.excerpt }}
-              {% endif %}
-            </div>
-          </div>
-
-            {{ content | safe }}
-            </a>
-        </div>
-      {% endfor %}
+<section class="tagslist-flat" data-pagefind-ignore>
+  {% for post in postslist | reverse %}
+    <article class="tagslist-flat-entry">
+      <div class="tagslist-flat-image">
+        {% if post.data.image %}
+          <a href="{{ post.url }}" tabindex="-1" aria-hidden="true">
+            <img src="{{ post.data.image }}?nf_resize=fit&w=200" alt="">
+          </a>
+        {% endif %}
+      </div>
+      <p class="tagslist-flat-date"><time datetime="{{ post.date | machineDate }}">{{ post.date | readableDate }}</time></p>
+      <div class="tagslist-flat-content">
+        <p class="tagslist-flat-title"><a href="{{ post.url }}">{{ post.data.title }}</a></p>
+        {% if post.data.excerpt %}
+          <p class="tagslist-flat-excerpt">{{ post.data.excerpt }}</p>
+        {% endif %}
+        {% if post.data.tags %}
+          <p class="tagslist-flat-tags">
+            {% for tag in post.data.tags %}
+              {%- if tag != "post" -%}
+                {% set tagUrl %}/tags/{{ tag | slugify }}/{% endset %}
+                <a href="{{ tagUrl }}" rel="tag">{{ tag }}</a>
+              {%- endif -%}
+            {% endfor %}
+          </p>
+        {% endif %}
+      </div>
+    </article>
+    {% if not loop.last %}<hr class="tagslist-flat-divider">{% endif %}
+  {% endfor %}
 </section>
