@@ -8,7 +8,7 @@ tags:
   - newsletter
   - dioramas
   - fascism
-  - A Taxing Wmoan
+  - A Taxing Woman
   - Juzo Itami
   - Edwin Mullhouse
   - Steven Millhauser
