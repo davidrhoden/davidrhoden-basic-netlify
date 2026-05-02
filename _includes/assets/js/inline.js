@@ -173,7 +173,13 @@ $(document).ready(function () {
       });
 
       viewport.addEventListener('scroll', updateButtons);
-      updateButtons();
+
+      requestAnimationFrame(function() {
+        viewport.style.scrollBehavior = 'auto';
+        viewport.scrollLeft = viewport.scrollWidth - viewport.clientWidth;
+        viewport.style.scrollBehavior = '';
+        updateButtons();
+      });
     });
 
     $('#nav-link-search').click(function(ev) {

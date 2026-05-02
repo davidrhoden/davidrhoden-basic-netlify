@@ -5,16 +5,16 @@ generator: {{metadata.generator}}
 
 <article class="latest-post-article" data-pagefind-body>
   <header class="latest-post-header">
+    <p class="latest-post-dateline">
+      <small>
+        <time datetime="{{ date | machineDate }}"><span id="todays-date">{{ date | readableDate }}</span>.</time> Day <span id="days"></span>.
+      </small>
+    </p>
     <h1 class="latest-post-title">{{ title }}</h1>
 
     {% if excerpt %}
       <p class="latest-post-excerpt">{{ excerpt }}</p>
     {% endif %}
-        <p>
-    <small>
-        <time datetime="{{ date | machineDate }}"><span id="todays-date">{{ date | readableDate }}</span>.</time> Day <span id="days"></span>.
-      </small>
-    </p>
   </header>
 
   <section class="latest-post-content">

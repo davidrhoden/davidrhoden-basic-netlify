@@ -165,7 +165,7 @@ h1 {
   font-size: 2rem;
   font-weight: 700;
   line-height: 1.2;
-  margin: 0.5em 0;
+  margin: 0;
 }
 
 .latest-post-excerpt {
@@ -173,7 +173,7 @@ h1 {
   font-family: var(--font-secondary);
   font-size: 1.25rem;
   line-height: 1.5;
-  margin: 1em 0 2em;
+  margin: 0.25em 0 2em;
 }
 
 .latest-post-image {
