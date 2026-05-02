@@ -7,6 +7,9 @@ permalink: /bands/the-stacks/
 image: "/static/img/rock/stacks/stacks-at-gasa-gasa-aug-11-2018.jpg"
 active: true
 layout: layouts/band.njk
+sameAs:
+  - https://thestackswebsite.com
+  - https://thestacksnola.bandcamp.com/
 ---
 
 The Stacks started around 2000 to play two shows and just never managed to break up. I think there have been fifteen people in the band, with me as the only constant.

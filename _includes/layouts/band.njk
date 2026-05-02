@@ -27,5 +27,21 @@
       
       {% include "components/footer.njk" %}
       {% include "components/modal-search.njk" %}
+      <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "MusicGroup",
+        "@id": "{{ metadata.url }}{{ page.url }}#musicgroup",
+        "name": "{{ title }}",
+        "url": "{{ metadata.url }}{{ page.url }}",
+        "foundingDate": "{{ startYear }}",
+        {% if not active %}"dissolutionDate": "{{ endYear }}",{% endif %}
+        {% if image %}"image": "{{ metadata.url }}{{ image }}",{% endif %}
+        {% if sameAs %}"sameAs": {{ sameAs | dump | safe }},{% endif %}
+        "member": {
+          "@id": "{{ metadata.url }}#person"
+        }
+      }
+      </script>
   </body>
 </html>

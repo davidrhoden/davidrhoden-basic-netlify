@@ -7,6 +7,9 @@ permalink: /bands/jimmy-and-the-wolfpack/
 image: "/static/img/rock/jandtwp-cd-cover.jpg"
 active: false
 layout: layouts/band.njk
+sameAs:
+  - https://jimmyandthewolfpack.com/
+  - https://jimmyandthewolfpack.bandcamp.com/
 ---
 
 A really terrific band that started because I wanted to do some of Chan's song but I felt they were too ridiculous even for The Stacks. So it was basically the same people except I switched to drums. The history of it is so weird because we started it in New Orleans, broke up because of Katrina, then three of four members wound up in the New York metro region so we became a New York City band. Dave, Chan, Doug, and Al or Trey, depending on location.

@@ -7,6 +7,8 @@ permalink: /bands/all-night-movers/
 image: "/static/img/rock/all-night-movers/all-night-movers-cover-aug-3-2002.jpg"
 active: false
 layout: layouts/band.njk
+sameAs:
+  - https://davidrhoden.bandcamp.com
 ---
 
 Slade Nash auditioned for The Stacks with a stand-up kit that included a snow shovel and a motorcycle rim. It wasn't a match but I kept his number. We started a two-piece band that only lasted one year but we played fifty-two shows in (I think) seven states.
