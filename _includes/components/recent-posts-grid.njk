@@ -5,9 +5,9 @@
       <button class="carousel-btn carousel-btn-prev" aria-label="Previous posts"><img src="/static/img/site/arrow-bold-left.svg" alt="" aria-hidden="true"></button>
       <div class="recent-posts-viewport">
         <div class="recent-posts-track">
-          {% set totalPosts = collections[collectionName] | length %}
-          {% for post in collections[collectionName] %}
-            {% if loop.index > (totalPosts - 16) and loop.index <= (totalPosts - 1) %}
+          {%- set totalPosts = collections[collectionName] | length %}
+          {%- for post in collections[collectionName] %}
+            {%- if loop.index > (totalPosts - 16) and loop.index <= (totalPosts - 1) %}
             <article class="recent-post-card">
               <a class="recent-post-link" href="{{ post.url }}">
                 {% if post.data.image %}
@@ -32,8 +32,8 @@
                 </div>
               </a>
             </article>
-            {% endif %}
-          {% endfor %}
+            {%- endif %}
+          {%- endfor %}
         </div>
       </div>
       <button class="carousel-btn carousel-btn-next" aria-label="Next posts"><img src="/static/img/site/arrow-bold-right.svg" alt="" aria-hidden="true"></button>
