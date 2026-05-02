@@ -1,6 +1,6 @@
 ---
 title: Rock Music
-date: 2020-04-14T00:00:00.000Z
+date: 2026-05-01T00:00:00.000Z
 permalink: /rock/index.html
 bodyClass: "rock"
 image: /static/img/rock/stacks/stacks-at-gasa-gasa-aug-11-2018.jpg

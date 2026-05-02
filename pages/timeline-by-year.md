@@ -1,7 +1,7 @@
 ---
 layout: layouts/archive-by-year.njk
 title: Journal By Year
-date: 2020-01-01
+date: 2026-05-01T00:00:00.000Z
 permalink: "/timeline-by-year/{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber + 1 }}/{% endif %}index.html"
 pagination:
   data: collections.post

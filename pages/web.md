@@ -1,7 +1,7 @@
 ---
 layout: layouts/page.njk
 title: Web Design & Development
-date: 2020-04-12T00:00:00.000Z
+date: 2026-05-01T00:00:00.000Z
 permalink: /web/index.html
 image: /static/img/web/ginasite.jpg
 excerpt: Web design and development by New Orleans web developer and designer David Rhoden.

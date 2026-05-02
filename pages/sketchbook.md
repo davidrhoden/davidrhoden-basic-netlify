@@ -1,6 +1,6 @@
 ---
 title: Sketchbook
-date: 2020-04-12
+date: 2026-05-01T00:00:00.000Z
 permalink: /sketchbook/index.html
 image: /static/img/sketchbook/aah-guy-wide.jpg
 excerpt: Digital and analog sketches and doodles from the sketchbook of New Orleans-based artist David Rhoden.

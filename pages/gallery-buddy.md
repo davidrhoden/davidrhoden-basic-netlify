@@ -4,6 +4,7 @@ title: My Image Gallery
 description: A collection of my favorite images
 imageDirectory: /static/img/buddy
 permalink: /gallery/buddy/
+draft: true
 ---
 
 Pictures of Buddy.

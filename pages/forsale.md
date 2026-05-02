@@ -1,7 +1,7 @@
 ---
 layout: layouts/page.njk
 title: Art For Sale
-date: 2020-04-24
+date: 2026-05-01T00:00:00.000Z
 permalink: /forsale/index.html
 excerpt: These are the paintings and things I currently have for sale.
 image: https://davidrhoden.com/static/img/representative-paintings.jpg

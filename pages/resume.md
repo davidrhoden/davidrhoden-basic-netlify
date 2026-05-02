@@ -1,6 +1,6 @@
 ---
 title: Resumé
-date: 2020-05-01T00:00:00.000Z
+date: 2026-05-01T00:00:00.000Z
 permalink: /resume/index.html
 bodyClass: "resume"
 excerpt: "The resume of David Rhoden, a web developer, web designer, and digital art director, currently based in New Orleans."

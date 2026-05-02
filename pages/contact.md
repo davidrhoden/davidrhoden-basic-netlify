@@ -1,7 +1,7 @@
 ---
 layout: layouts/contact.njk
 title: Get in touch
-date: 2020-02-01
+date: 2026-05-01T00:00:00.000Z
 permalink: /contact/index.html
 excerpt: "Join my mailing list to find out about my upcoming projects."
 image: /static/img/site/gonna-sign-up-jan-9-2024.jpg
