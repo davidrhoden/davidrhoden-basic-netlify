@@ -12,12 +12,12 @@ tags:
 
 ---
 
-![DIY Furniture: table made of lumber scraps by David Rhoden](static/img/furniture/table-scraps-1-jan-14-2026.jpg)
+![DIY Furniture: table made of lumber scraps by David Rhoden](/static/img/furniture/table-scraps-1-jan-14-2026.jpg)
 
 I needed a table to set the new PA head and mixer on, so I made this one out of scraps.
 
-![DIY Furniture: table made of lumber scraps by David Rhoden](static/img/furniture/table-scraps-2-jan-14-2026.jpg)
+![DIY Furniture: table made of lumber scraps by David Rhoden](/static/img/furniture/table-scraps-2-jan-14-2026.jpg)
 
-![DIY Furniture: table made of lumber scraps by David Rhoden](static/img/furniture/table-scraps-3-jan-14-2026.jpg)
+![DIY Furniture: table made of lumber scraps by David Rhoden](/static/img/furniture/table-scraps-3-jan-14-2026.jpg)
 
-![DIY Furniture: table made of lumber scraps by David Rhoden](static/img/furniture/table-scraps-4-jan-14-2026.jpg)
+![DIY Furniture: table made of lumber scraps by David Rhoden](/static/img/furniture/table-scraps-4-jan-14-2026.jpg)
