@@ -1,7 +1,6 @@
 const { DateTime } = require("luxon");
 const slugify = require("slugify");
 const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
-const pluginSEO = require("eleventy-plugin-seo");
 const path = require("path");
 const { execSync } = require('child_process');
 const pluginRss = require("@11ty/eleventy-plugin-rss");
@@ -15,8 +14,6 @@ module.exports = function (eleventyConfig) {
     })
 
   eleventyConfig.addPlugin(eleventyNavigationPlugin);
-
-  eleventyConfig.addPlugin(pluginSEO, require("./_data/seo.json"));
 
   eleventyConfig.addPlugin(pluginRss, {
     type: "rss", // or "atom", "json"
@@ -115,6 +112,20 @@ module.exports = function (eleventyConfig) {
     }
 
     return allNotes;
+  });
+
+  eleventyConfig.addCollection("things i like", function (collection) {
+    const allThings = collection.getFilteredByTag("things i like");
+
+    for (let i = 0; i < allThings.length; i++) {
+      const prevThing = allThings[i - 1];
+      const nextThing = allThings[i + 1];
+
+      allThings[i].data["prevThing"] = prevThing;
+      allThings[i].data["nextThing"] = nextThing;
+    }
+
+    return allThings;
   });
 
   eleventyConfig.addCollection("postsAndNotes", function (collectionApi) {

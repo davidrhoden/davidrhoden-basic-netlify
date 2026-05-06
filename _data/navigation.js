@@ -52,6 +52,11 @@ module.exports = [
         title: "Résumé",
         url: "/resume/",
         tooltip: "These are the jobs I've had that paid the most, or the most frequently."
+      },
+      {
+        title: "Web Work",
+        url: "/web/",
+        tooltip: "Web design and development projects going back to 2000."
       }
     ]
   },
@@ -62,6 +67,11 @@ module.exports = [
         title: "Notes/Now",
         url: "/notes/",
         tooltip: "Immediate thoughts on the news, technology, or whatever I want to write about."
+      },
+      {
+        title: "Things I Like",
+        url: "/things-i-like/",
+        tooltip: "Artistic influences, books I read, movies I saw, toys, labels, weird stuff I found in the street."
       },
       {
         title: "Journal",
@@ -81,12 +91,12 @@ module.exports = [
       {
         title: "Press",
         url: "/press/",
-        tooltip: "I get interviewed by newspapers and magazines from time to time. Really!"
+        tooltip: "I get interviewed by newspapers and magazines from time to time. Yes, it's true."
       },
       {
         title: "Get in touch",
         url: "/contact/",
-        tooltip: "Send me a message, or sign up for my (very fun) online newsletter."
+        tooltip: "Send me a message, or sign up for my (very fun and infrequent) online newsletter."
       }
     ]
   }

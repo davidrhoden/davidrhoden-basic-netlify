@@ -38,7 +38,6 @@
     "@11ty/eleventy-navigation": "^0.3.2",
     "aos": "^2.3.4",
     "clean-css": "^5.3.3",
-    "eleventy-plugin-seo": "^0.5.2",
     "jsmin": "^1.0.1",
     "magnific-popup": "^1.1.0",
     "moment": "^2.29.2",
