@@ -1,0 +1,43 @@
+{%- if title and title != metadata.title %}
+  {%- set pageTitle = title + " - " + metadata.title %}
+{%- else %}
+  {%- set pageTitle = metadata.title %}
+{%- endif %}
+
+{%- if excerpt %}
+  {%- set pageDescription = excerpt %}
+{%- else %}
+  {%- set pageDescription = metadata.description %}
+{%- endif %}
+
+{%- set canonicalURL = metadata.url + page.url %}
+
+{%- if image %}
+  {%- if "http" in image %}
+    {%- set ogImage = image %}
+  {%- else %}
+    {%- set ogImage = metadata.url + image %}
+  {%- endif %}
+{%- else %}
+  {%- set ogImage = metadata.url + "/static/img/about/david-rhoden.jpg" %}
+{%- endif %}
+
+{%- if section == "home" %}
+  {%- set ogType = "website" %}
+{%- else %}
+  {%- set ogType = "article" %}
+{%- endif %}
+
+<title>{{ pageTitle }}</title>
+
+<meta name="description" content="{{ pageDescription }}">
+<meta name="robots" content="index,follow">
+<meta name="author" content="{{ metadata.author.name }}">
+
+<link rel="canonical" href="{{ canonicalURL }}">
+
+<meta property="og:title" content="{{ pageTitle }}">
+<meta property="og:type" content="{{ ogType }}">
+<meta property="og:url" content="{{ canonicalURL }}">
+<meta property="og:description" content="{{ pageDescription }}">
+<meta property="og:image" content="{{ ogImage }}">
