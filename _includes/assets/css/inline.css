@@ -859,23 +859,6 @@ ol li {
   counter-increment: inst;
 }
 
-ol li::before {
-  content: counter(inst);
-  color: var(--white);
-  font-weight: 700;
-  font-size: 0.75em;
-  text-align: center;
-  padding-top: 0;
-  padding-left: 2.25%;
-  left: 0;
-  top: 0.5em;
-  height: 2em;
-  width: 2em;
-  position: absolute;
-  transition: all 0.2s ease-in-out;
-  z-index: 2;
-}
-
 /* Paintings and Designs pages - square images */
 .column.right ol li img,
 .column.right ul li img {

@@ -1,6 +1,10 @@
 {% set latest_post = collections[collectionName] | last %}
 
-<p class="section-label">HAPPENING NOW</p>
+{% if latest_post.data.section == "things-i-like" %}
+  <p class="section-label">THINGS I LIKE</p>
+{% else %}
+  <p class="section-label">HAPPENING NOW</p>
+{% endif %}
 
 <article class="latest-post-article">
   <header class="latest-post-header">

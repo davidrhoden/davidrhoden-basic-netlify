@@ -5,7 +5,7 @@ excerpt: I'm finally adding this 2024 idea to my website.
 image: /static/img/timeline/post-its/post-it-things-i-like-jun-3-2024.png
 tags:
   - things I like
-  - post-its
+  - Post-Its
 
 ---
 
