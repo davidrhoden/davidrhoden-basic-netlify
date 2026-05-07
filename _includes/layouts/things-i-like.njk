@@ -1,0 +1,44 @@
+---
+layout: layouts/base.njk
+pageType: page
+section: things-i-like
+---
+<article data-pagefind-body>
+  <p class="section-label">THINGS I LIKE</p>
+
+  {%- if image %}
+  <figure class="things-i-like-image">
+    <img src="{{ image }}" alt="{{ title }}">
+  </figure>
+  {%- endif %}
+
+  <h1>{{ title }}</h1>
+
+  {{ content | safe }}
+
+  {%- if tags %}
+  <div class="latest-post-tags">
+    {%- for tag in tags %}
+      {%- if tag != "things i like" %}
+        {%- set tagUrl %}/tags/{{ tag | slugify }}/{%- endset %}
+        <a class="latest-post-tag" href="{{ tagUrl }}" rel="tag">{{ tag }}</a>
+      {%- endif %}
+    {%- endfor %}
+  </div>
+  {%- endif %}
+</article>
+
+{%- if prevThing %}
+<p class="ctr">
+  <strong>Previous</strong>: <a class="previous" href="{{ prevThing.url }}">{{ prevThing.data.title }}</a>
+</p>
+{%- endif %}
+{%- if nextThing %}
+<p class="ctr">
+  <strong>Next</strong>: <a class="next" href="{{ nextThing.url }}">{{ nextThing.data.title }}</a>
+</p>
+{%- endif %}
+
+<nav>
+  <a href="/things-i-like/">← Things I Like</a>
+</nav>

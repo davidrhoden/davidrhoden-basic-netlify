@@ -1,0 +1,9 @@
+---
+layout: layouts/base.njk
+section: things-i-like
+pageClasses: things-i-like-index
+---
+{% set collectionName = "things i like" %}
+{% include "components/latest-post-inline.njk" %}
+{% include "components/recent-posts-grid.njk" %}
+{{ content | safe }}
