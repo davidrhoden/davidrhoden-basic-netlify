@@ -1,0 +1,6 @@
+{
+  "layout": "layouts/things-i-like.njk",
+  "permalink": "things-i-like/{{ title | slugify }}/index.html",
+  "tags": ["things i like"],
+  "section": "things-i-like"
+}
