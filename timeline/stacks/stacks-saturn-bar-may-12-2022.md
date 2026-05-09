@@ -1,6 +1,7 @@
 ---
 title: Stacks played the Saturn Bar on a stormy Spring night.
 date: 2022-05-12T11:00:00.000Z
+excerpt: We had the doors open so we could see the whipping rain and flashes of lightning.
 image: /static/img/rock/stacks/stacks-saturn-may-12-2022/stacks-saturn-may-12-2022-01.jpg
 tags:
   - post 
@@ -10,12 +11,11 @@ tags:
   - weather
   - Covid-19
 
-
 ---
 
 This was a fine and dandy show for us but not a big crowd, perhaps because it was storming outside. We had the doors open so we could see the whipping rain and flashes of lightning.
 
-Some guy who said he had been a bass player in local bands in the eighties was there, he said we were amazing. He offeredd to share a joint with us, here and now, in the age of COVID.
+There was, to be honest, no crowd. Some guy who said he had been a bass player in local bands in the eighties was there, he said we were amazing. He offered to share a joint with us, here and now, in the age of COVID.
 
 <div id="viewport">
     <button id="buttonPrevious">&#10094;</button>
