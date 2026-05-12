@@ -25,7 +25,7 @@ body > footer {
 
 body > header {
   display: flex;
-  background: var(--white);
+  background: var(--lightblue);
   border-bottom: 1px solid #efefef;
   flex-wrap: wrap;
   position: fixed;
