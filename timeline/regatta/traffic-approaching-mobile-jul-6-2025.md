@@ -2,7 +2,7 @@
 title: Coming back from this year's regatta was like evacuating in reverse.
 date: 2025-07-06T00:00:00
 excerpt: I guess every car from New Orleans was on the way back, or else the new Buc-ee's on I-10 got people that excited.
-image: static/img/timeline/regatta/traffic-approaching-mobile-jul-6-2025.jpeg
+image: /static/img/timeline/regatta/traffic-approaching-mobile-jul-6-2025.jpeg
 tags:
   - Fourth of July
   - regattas
