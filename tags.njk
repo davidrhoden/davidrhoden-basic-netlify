@@ -22,9 +22,11 @@ eleventyComputed:
 
 {% include "components/tagslist-short.njk" %}
 
-<nav>
-  <a href="/timeline/{{ url }}">← Journal index</a>
-</nav>
+<div class="latest-post-article">
+  <nav>
+    <a href="/timeline/{{ url }}">← Journal index</a>
+  </nav>
+</div>
 <div class="container">
 {% include "components/buttondown.njk" %}
 </div>

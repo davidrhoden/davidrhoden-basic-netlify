@@ -36,6 +36,7 @@ generator: {{metadata.generator}}
 {% set prevItem = prevPost or prevNote %}
 {% set nextItem = nextPost or nextNote %}
 
+<div class="latest-post-article">
 {% if prevItem.url %}
   <p class="ctr">
     <strong>Previous</strong>:
@@ -60,6 +61,7 @@ generator: {{metadata.generator}}
     <a data-umami-event="Back to Journal" href="/timeline/">← Journal index</a>
   {% endif %}
 </nav>
+</div>
 
 {% include "components/buttondown.njk" %}
 
