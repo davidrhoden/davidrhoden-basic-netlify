@@ -53,11 +53,11 @@ module.exports = [
         url: "/resume/",
         tooltip: "These are the jobs I've had that paid the most, or the most frequently."
       },
-      {
+      /* {
         title: "Web Work",
         url: "/web/",
         tooltip: "Web design and development projects going back to 2000."
-      }
+      } */
     ]
   },
   {
