@@ -2,6 +2,7 @@
 title: I dreamed I went to New York City with a cat and a kitten.
 date: 2025-05-03T00:00:00
 excerpt: I was traveling with some kind of group in a fifteen-passenger bus.
+image: /static/img/buddy/buddy-in-grass-apr-25-2025.jpeg
 tags:
   - dreams
   - NYC
@@ -17,4 +18,4 @@ I dreamed I went to New York City with my cat Buddy, and also a kitten that look
 
 Pretty nice dream. I should note I'm sick as can be, on day seven of this. This was probably a "fever dream".
 
-![alt text](/static/img/filename)
+![Buddy in the grass in the front yard, April 25, 2025.](/static/img/buddy/buddy-in-grass-apr-25-2025.jpeg)
