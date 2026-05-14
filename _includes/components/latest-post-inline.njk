@@ -2,6 +2,8 @@
 
 {% if latest_post.data.section == "things-i-like" %}
   <p class="section-label">THINGS I LIKE</p>
+{% elif latest_post.date | isFuture %}
+  <p class="section-label">HAPPENING SOON</p>
 {% else %}
   <p class="section-label">HAPPENING NOW</p>
 {% endif %}

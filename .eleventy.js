@@ -152,6 +152,8 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addFilter("filterTagList", filterTagList);
 
+  eleventyConfig.addFilter("isFuture", (date) => new Date(date) > new Date());
+
   // Create an array of all tags
   eleventyConfig.addCollection("tagList", function (collection) {
     let tagSet = new Set();
