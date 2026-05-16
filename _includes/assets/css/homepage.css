@@ -103,6 +103,17 @@
   width: 100cqi;
 }
 
+.post-type-label {
+  border-bottom: 1px solid var(--black);
+  font-family: var(--font-secondary);
+  font-size: 0.5rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  margin: 0.5em 0 0;
+  padding-bottom: 0.25em;
+  text-transform: uppercase;
+}
+
 .recent-post-link {
   text-decoration: none;
   color: inherit;
