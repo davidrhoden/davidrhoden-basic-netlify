@@ -23,7 +23,7 @@ There was one big boom today, when I think they pulled down more than they meant
 
 ![Demolition on Tricou Street, 10:33 a.m.](/static/img/timeline/warehouse-demolition-may-15-2026/demolition-1033-may-15-2026.jpeg)
 
-I'm afraid all these videos represnt a time I heard something exciting and destructive happen, and I ran out to film...not very much.
+I'm afraid all these videos represent a time I heard something exciting and destructive happen, and I ran out to film...not very much.
 
 <video controls src="/static/video/warehouse-demolition-may-2026/warehouse-demolition-1130-may-13-2026.mp4"></video>
 
