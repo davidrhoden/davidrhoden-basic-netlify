@@ -26,8 +26,8 @@ I have never liked the Grateful Dead at all, but I've tried to figure out what p
 
 The odd voice of MTB vocalist Doug Gray (which you are probably quite familiar with) is an acquired or chosen taste I guess. Limited range, and he sings really stridently a lot of the time. He has two modes: the reflective spoken mode heard in "Heard It In A Love Song", for example. You may recognize this couplet (if you grew up in the South you _will_ recognize it):
 
-"I ain't never been with a woman long enough for my boots to get old
-We've been together so long now they both need re-soled"
+> "I ain't never been with a woman long enough for my boots to get old
+> We've been together so long now they both need re-soled"
 
 That's his reflective spoken mode, and then he also has his earnest, yearning, sometimes almost strained voice, that he uses on every other song I can think of.
 
