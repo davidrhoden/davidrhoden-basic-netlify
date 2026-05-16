@@ -29,7 +29,7 @@ I'm afraid all these videos represnt a time I heard something exciting and destr
 
 ![Demolition on Tricou Street, 11:49 a.m.](/static/img/timeline/warehouse-demolition-may-15-2026/demolition-1149-may-15-2026.jpeg)
 
-A lot of the demolition looks like this.
+A lot of the demolition looks like this:
 
 <video controls src="/static/video/warehouse-demolition-may-2026/demolition-a-lot-of-its-like-this-may-15-2026.mp4"></video>
 
