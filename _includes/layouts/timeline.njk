@@ -31,6 +31,7 @@ generator: {{metadata.generator}}
       {% endfor %}
     </div>
   {% endif %}
+
 </article>
 
 {% set prevItem = prevPost or prevNote %}
@@ -63,7 +64,9 @@ generator: {{metadata.generator}}
 </nav>
 </div>
 
-{% include "components/buttondown.njk" %}
+<div class="mail-signup-card-inline">
+  {% include "components/mail-signup-card.njk" %}
+</div>
 
 <script>
 $(document).ready(function(){

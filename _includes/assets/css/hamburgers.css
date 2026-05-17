@@ -8,7 +8,7 @@
 button.hamburger {
   align-items: center;
   border: 0 solid var(--white);
-  background-color: var(--white);
+  background-color: var(--lightblue);
   display: flex;
   margin: 0 0 0 1em;
   width: 40px;

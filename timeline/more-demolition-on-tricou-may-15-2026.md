@@ -43,7 +43,7 @@ Shadow, the cat, was weirdly interested in all this. Buddy got lost at the first
 
 ![Shadow the cat watching demolition on Tricou Street, 11:51 a.m.](/static/img/timeline/warehouse-demolition-may-15-2026/shadow-watching-demolition-1155-may-15-2026.jpeg)
 
-![Shadow the cat watching demolition on Tricou Street, 11:51 a.m.](/static/img/timeline/warehouse-demolition-may-15-2026/shadow%20watching-demolition-1156-may-15-2026.jpeg)
+![Shadow the cat watching demolition on Tricou Street, 11:51 a.m.](/static/img/timeline/warehouse-demolition-may-15-2026/shadow-watching-demolition-1156-may-15-2026.jpeg)
 
 <video controls src="/static/video/warehouse-demolition-may-2026/demolition-1229-may-15-2026.mp4"></video>
 
@@ -62,4 +62,3 @@ Shadow, the cat, was weirdly interested in all this. Buddy got lost at the first
 So, we're going to have a new view of the sunset.
 
 ![Demolition on Tricou Street, 7:40 p.m.](/static/img/timeline/warehouse-demolition-may-15-2026/demolition-tricou-new-view-of-the-sunset.may-15-2026.jpeg)
-
