@@ -190,6 +190,20 @@ $(document).ready(function () {
       document.querySelector('.pagefind-ui__search-input').focus();
     });
 
+    if (getCookie('mailSignupDismissed') || getCookie('mailSignupCompleted')) {
+      $('.footer-card-anchor, .mail-signup-card-inline').hide();
+    }
+
+    $(document).on('click', '.mail-signup-close', function() {
+      document.cookie = 'mailSignupDismissed=1;path=/';
+      $('.footer-card-anchor, .mail-signup-card-inline').hide();
+    });
+
+    $(document).on('submit', '.embeddable-buttondown-form', function() {
+      setCookie('mailSignupCompleted', '1', 3650);
+      $('.footer-card-anchor, .mail-signup-card-inline').hide();
+    });
+
     $('#onetalker-trigger').on('click', function() {
       var isMobile = window.innerWidth <= 767;
       var $trigger = $(this);
