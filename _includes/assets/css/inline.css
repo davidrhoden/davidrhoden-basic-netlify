@@ -265,6 +265,7 @@ header .search-container {
   background-color: #ffffed;
   backface-visibility: hidden;
   font-family: var(--font-primary);
+  position: relative;
   will-change: transform;
   transform-style: preserve-3d;
   transform: rotate(2deg) translateZ(0);
@@ -280,6 +281,24 @@ header .search-container {
   text-align: justify;
 }
 
+.mail-signup-close {
+  background: none;
+  border: none;
+  color: #888;
+  cursor: pointer;
+  font-size: 1.5rem;
+  line-height: 1;
+  padding: 0.1rem 0.3rem;
+  position: absolute;
+  right: 0.25rem;
+  top: 0.25rem;
+  width: 1rem;
+}
+
+.mail-signup-close:hover {
+  color: #000;
+}
+
 .mail-signup-container input, .mail-signup-container textarea, .mail-signup-container button {
   font-size: .7rem;
 }
@@ -289,10 +308,39 @@ header .search-container {
 }
 
 .mail-signup-border {
-  border: 4px dotted orange;
   font-size: .7em;
-  padding: 0 1rem;
+  padding: 1rem;
+  position: relative;
   width: 100%;
+}
+
+.dotted-border-svg {
+  height: calc(100% + 4px);
+  inset: -2px;
+  overflow: visible;
+  pointer-events: none;
+  position: absolute;
+  width: calc(100% + 4px);
+}
+
+.dotted-rect-a {
+  animation: dot-border-swap-a 1s steps(1) infinite;
+  stroke: #ffaa00;
+}
+
+.dotted-rect-b {
+  animation: dot-border-swap-b 1s steps(1) infinite;
+  stroke: hotpink;
+}
+
+@keyframes dot-border-swap-a {
+  0%, 100% { stroke: #ffaa00; }
+  50% { stroke: hotpink; }
+}
+
+@keyframes dot-border-swap-b {
+  0%, 100% { stroke: hotpink; }
+  50% { stroke: #ffaa00; }
 }
 
 /* Mobile nav: hidden by default, shown when hamburger is clicked */
