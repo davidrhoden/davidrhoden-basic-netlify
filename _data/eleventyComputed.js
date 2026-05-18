@@ -1,7 +1,6 @@
 module.exports = {
-  schemaorg: (data) => ({
-    "@context": "https://schema.org",
-    "@graph": [
+  schemaorg: (data) => {
+    const graph = [
       {
         "@type": "WebSite",
         "@id": `${data.metadata.url}#website`,
@@ -22,6 +21,7 @@ module.exports = {
           addressLocality: "New Orleans",
           addressRegion: "LA",
         },
+        description: "David Rhoden is a painter, illustrator, animator, and musician based in New Orleans, Louisiana.",
         familyName: "Rhoden",
         givenName: "David",
         jobTitle: ["Painter", "Illustrator", "Animator", "Musician"],
@@ -35,6 +35,20 @@ module.exports = {
         ],
         url: data.metadata.url,
       },
-    ],
-  }),
+    ];
+
+    if (data.page && data.page.url === "/") {
+      graph.push({
+        "@type": "ProfilePage",
+        "@id": `${data.metadata.url}/#webpage`,
+        about: { "@id": `${data.metadata.url}#person` },
+        description: data.excerpt || data.metadata.description,
+        isPartOf: { "@id": `${data.metadata.url}#website` },
+        name: data.metadata.title,
+        url: data.metadata.url,
+      });
+    }
+
+    return { "@context": "https://schema.org", "@graph": graph };
+  },
 };
