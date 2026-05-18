@@ -23,19 +23,16 @@ body > footer {
 }
 
 @media (max-width: 767px) {
-  .footer-card-anchor {
-    display: none;
+  .footer-card-anchor .mail-signup-container {
+    margin: 1rem auto;
+    position: static;
+    transform: none;
+    width: 100%;
   }
 }
 
 .mail-signup-card-inline {
   display: none;
-}
-
-@media (max-width: 767px) {
-  .mail-signup-card-inline {
-    display: block;
-  }
 }
 
 .footer-card-anchor .mail-signup-container {
