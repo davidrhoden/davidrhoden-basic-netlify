@@ -292,7 +292,7 @@ header .search-container {
 }
 
 .mail-signup-container button.mail-signup-close {
-  background: white;
+  background-color: white;
   border: 1px solid var(--blue);
   color: var(--blue);
   cursor: pointer;
@@ -307,6 +307,7 @@ header .search-container {
 }
 
 .mail-signup-container button.mail-signup-close:hover {
+  background-color: white;
   border-color: var(--orangered);
   color: var(--orangered);
   transform: scale(1.1);
