@@ -18,7 +18,7 @@ tags:
 
 ![skeleton artwork parts in truck bed](/static/img/timeline/skeletons-2025/skeleton-parts-in-truck-bed-dec-24-2025.jpg)
 
-![skeleton artwork repairs seen from back --lots of screws](/static/img/timeline/skeletons-2025/skeleton-repairs-back-dec-26-2025.jpg)
+![skeleton artwork repairs seen from back. Lots of screws.](/static/img/timeline/skeletons-2025/skeleton-repairs-back-dec-26-2025.jpg)
 
 ![skeleton artwork repairs seen from front](/static/img/timeline/skeletons-2025/skeleton-repairs-front-1-dec-26-2025.jpg)
 
