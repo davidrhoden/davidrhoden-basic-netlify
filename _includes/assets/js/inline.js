@@ -31,6 +31,138 @@ $(document).ready(function () {
   $("#text-timeline").on("mouseover", ".text-timeline-link", showHidden);
 });
 
+/* ── Calendar timeline ── */
+$(document).ready(function () {
+  if (!window.TIMELINE_POSTS || !document.getElementById('calendar-timeline')) return;
+
+  var MONTHS = ['January','February','March','April','May','June',
+                'July','August','September','October','November','December'];
+  var MONTH_SHORT = ['Jan','Feb','Mar','Apr','May','Jun',
+                     'Jul','Aug','Sep','Oct','Nov','Dec'];
+
+  // Build date → posts lookup map
+  var postMap = {};
+  TIMELINE_POSTS.forEach(function (p) {
+    var key = p.date.substring(0, 10);
+    if (!postMap[key]) postMap[key] = [];
+    postMap[key].push(p);
+  });
+
+  // Year range
+  var years = Object.keys(postMap).map(function (k) { return parseInt(k.substring(0, 4)); });
+  var minYear = Math.min.apply(null, years);
+  var maxYear = new Date().getFullYear();
+
+  var container = document.getElementById('calendar-timeline');
+
+  for (var y = maxYear; y >= minYear; y--) {
+    var yearDiv = document.createElement('div');
+    yearDiv.className = 'cal-year';
+
+    var label = document.createElement('span');
+    label.className = 'cal-year-label';
+    label.textContent = y;
+    yearDiv.appendChild(label);
+
+    // 3 rows of 4 months each
+    for (var row = 0; row < 3; row++) {
+      var monthRow = document.createElement('div');
+      monthRow.className = 'cal-month-row';
+
+      for (var col = 0; col < 4; col++) {
+        var m = row * 4 + col;
+        var monthDiv = document.createElement('div');
+        monthDiv.className = 'cal-month';
+
+        var grid = document.createElement('div');
+        grid.className = 'cal-grid';
+
+        var firstDay = new Date(y, m, 1).getDay(); // 0=Sun
+        var daysInMonth = new Date(y, m + 1, 0).getDate();
+
+        // Leading pad cells
+        for (var p2 = 0; p2 < firstDay; p2++) {
+          var pad = document.createElement('div');
+          pad.className = 'cal-cell cal-cell--pad';
+          grid.appendChild(pad);
+        }
+
+        for (var d = 1; d <= daysInMonth; d++) {
+          var dateStr = y + '-' +
+            String(m + 1).padStart(2, '0') + '-' +
+            String(d).padStart(2, '0');
+
+          var posts = postMap[dateStr];
+          var cell;
+
+          if (posts) {
+            cell = document.createElement('a');
+            cell.className = 'cal-cell cal-cell--active';
+            cell.href = posts[0].url;
+            cell.setAttribute('data-cal-date', dateStr);
+            cell.setAttribute('data-cal-posts', JSON.stringify(posts));
+            cell.setAttribute('title', posts.map(function (pp) { return pp.title; }).join(' / '));
+          } else {
+            cell = document.createElement('div');
+            cell.className = 'cal-cell cal-cell--empty';
+          }
+
+          grid.appendChild(cell);
+        }
+
+        // Trailing pad cells so grid rows complete evenly
+        var lastDayOfWeek = new Date(y, m, daysInMonth).getDay();
+        var trailingPads = lastDayOfWeek === 6 ? 0 : 6 - lastDayOfWeek;
+        for (var t = 0; t < trailingPads; t++) {
+          var tpad = document.createElement('div');
+          tpad.className = 'cal-cell cal-cell--pad';
+          grid.appendChild(tpad);
+        }
+
+        monthDiv.appendChild(grid);
+        monthRow.appendChild(monthDiv);
+      }
+
+      yearDiv.appendChild(monthRow);
+    }
+
+    container.appendChild(yearDiv);
+  }
+
+  // Hover handler
+  var detail = document.getElementById('calendar-detail');
+  if (!detail) return;
+
+  $(document).on('mouseenter', '.cal-cell--active', function () {
+    var posts = JSON.parse(this.getAttribute('data-cal-posts'));
+    var dateStr = this.getAttribute('data-cal-date');
+    var parts = dateStr.split('-');
+    var formattedDate = MONTHS[parseInt(parts[1]) - 1] + ' ' + parseInt(parts[2]) + ', ' + parts[0];
+
+    var html = '';
+    posts.forEach(function (post) {
+      html += '<div class="cal-detail-entry">';
+      html += '<div class="cal-detail-date">' + formattedDate + '</div>';
+      html += '<a class="cal-detail-title" href="' + post.url + '">' + post.title + '</a>';
+      html += '</div>';
+    });
+
+    // Image from first post that has one
+    var imgPost = posts.find(function (p) { return p.image; });
+    if (imgPost) {
+      html += '<div class="thumbnail-container">';
+      html += '<a href="' + imgPost.url + '">';
+      html += '<img src="' + imgPost.image + '?nf_resize=fit&w=320" alt="' + imgPost.title + '" onerror="this.style.display=\'none\'">';
+      html += '</a></div>';
+    }
+
+    detail.innerHTML = html;
+    detail.classList.remove('is-animating');
+    void detail.offsetWidth; // reflow to restart animation
+    detail.classList.add('is-animating');
+  });
+});
+
 $(".scroll-container").scroll(function () {
   $("#scroll-text").fadeOut();
 });

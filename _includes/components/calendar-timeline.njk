@@ -1,0 +1,14 @@
+<div id="calendar-timeline" data-pagefind-ignore>
+  <script>
+    var TIMELINE_POSTS = [
+      {% for post in collections.post | reverse %}
+        {
+          date: "{{ post.date | machineDate }}",
+          url: "{{ post.url }}",
+          title: {% if post.data.title %}{{ post.data.title | dump | safe }}{% else %}null{% endif %},
+          image: {% if post.data.image %}{{ post.data.image | dump | safe }}{% else %}null{% endif %}
+        }{% if not loop.last %},{% endif %}
+      {% endfor %}
+    ];
+  </script>
+</div>

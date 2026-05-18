@@ -1,3 +1,4 @@
+/* ── Shared link colours ── */
 #timeline-list a[href],
 #timeline-list a[href]:visited {
   color: var(--blue);
@@ -10,26 +11,99 @@
   text-decoration: none;
 }
 
-/* Hide timeline-detail on mobile */
+/* ── Mobile: show text-timeline, hide calendar ── */
+#calendar-timeline,
+#calendar-detail {
+  display: none;
+}
+
 #timeline-detail {
   display: none;
 }
 
-@media screen and (width >=960px) {
-  #text-timeline {
-    display: grid;
-    grid-auto-flow: row;
-    grid-template-columns: 1fr 1fr;
-    grid-template-areas:
-      "timeline-list"
-      "timeline-detail";
+/* ── Desktop (≥960px) ── */
+@media screen and (width >= 960px) {
+
+  /* Hide mobile text list on desktop */
+  #text-timeline,
+  #timeline-detail {
+    display: none;
   }
 
-  #timeline-detail {
+  /* Show calendar on desktop */
+  #calendar-timeline {
     display: block;
-    grid-area: timeline-detail;
+    width: 50%;
+  }
+
+  /* ── Calendar cells ── */
+  :root {
+    --cal-cell: 8px;
+    --cal-gap: 1px;
+  }
+
+  .cal-year {
+    margin-bottom: 1rem;
+  }
+
+  .cal-year-label {
+    color: var(--blue);
+    display: block;
+    font-size: 0.7rem;
+    font-weight: 700;
+    letter-spacing: 0.05em;
+    line-height: 2;
+    margin-bottom: 2px;
+  }
+
+  .cal-month-row {
+    display: flex;
+    gap: 4px;
+    margin-bottom: 4px;
+  }
+
+  .cal-month {
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    display: inline-block;
+    padding: 2px;
+  }
+
+  .cal-grid {
+    display: grid;
+    gap: var(--cal-gap);
+    grid-template-columns: repeat(7, var(--cal-cell));
+  }
+
+  .cal-cell {
+    border: 1px solid transparent;
+    height: var(--cal-cell);
+    width: var(--cal-cell);
+  }
+
+  .cal-cell--empty {
+    border-color: rgba(0, 0, 0, 0.1);
+  }
+
+  .cal-cell--active {
+    background-color: var(--orangered);
+    border-color: transparent;
+    cursor: pointer;
+    display: block;
+    text-decoration: none;
+  }
+
+  .cal-cell--active:hover {
+    background-color: var(--blue);
+  }
+
+  .cal-cell--pad {
+    border-color: transparent;
+  }
+
+  /* ── Calendar detail panel ── */
+  #calendar-detail {
+    display: block;
     height: auto;
-    margin: 0 auto;
     padding: 1em;
     position: fixed;
     right: 2em;
@@ -37,10 +111,49 @@
     width: 45%;
   }
 
+  #calendar-detail .cal-detail-entry {
+    margin-bottom: 1em;
+  }
+
+  #calendar-detail .cal-detail-date {
+    color: var(--gray);
+    font-size: 0.75rem;
+    margin-bottom: 0.2em;
+  }
+
+  #calendar-detail .cal-detail-title {
+    display: block;
+    font-size: 0.95rem;
+    margin-bottom: 0.5em;
+  }
+
+  #calendar-detail .thumbnail-container {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+  }
+
+  #calendar-detail .thumbnail-container img {
+    display: block;
+    height: 500px;
+    margin: 0 auto;
+    max-width: 100%;
+    object-fit: contain;
+  }
+
+  @keyframes cal-fade-in {
+    from { opacity: 0; transform: translateY(6px); }
+    to   { opacity: 1; transform: translateY(0); }
+  }
+
+  #calendar-detail.is-animating {
+    animation: cal-fade-in 0.25s ease forwards;
+  }
+
+  /* Keep existing desktop text-timeline detail styles for mobile fallback */
   #timeline-detail .thumbnail-container {
     align-items: center;
     display: flex;
-    grid-area: thumbnail-container;
     justify-content: center;
   }
 
@@ -58,8 +171,8 @@
   }
 
   #timeline-detail .summary {
-    margin-left: 1em;
     grid-area: summary;
+    margin-left: 1em;
   }
 
   #timeline-list {
