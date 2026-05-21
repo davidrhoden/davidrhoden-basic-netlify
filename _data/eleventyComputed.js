@@ -25,6 +25,7 @@ module.exports = {
         familyName: "Rhoden",
         givenName: "David",
         jobTitle: ["Painter", "Illustrator", "Animator", "Musician"],
+        mainEntityOfPage: { "@id": `${data.metadata.url}/#webpage` },
         name: "David Rhoden",
         sameAs: [
           "https://github.com/davidrhoden",
@@ -44,6 +45,7 @@ module.exports = {
         about: { "@id": `${data.metadata.url}#person` },
         description: data.excerpt || data.metadata.description,
         isPartOf: { "@id": `${data.metadata.url}#website` },
+        mainEntity: { "@id": `${data.metadata.url}#person` },
         name: data.metadata.title,
         url: data.metadata.url,
       });
