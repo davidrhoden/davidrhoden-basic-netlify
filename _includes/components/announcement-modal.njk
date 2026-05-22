@@ -12,8 +12,14 @@
 
       <header class="modal__header modal__header--announcement">
         <span class="modal__title modal__title--announcement" id="modal-announcement-title">Coming up</span>
-        <button class="modal__btn modal__btn-primary" data-micromodal-close aria-label="Close announcement">
-          Close
+        <button class="modal__btn modal__btn-close" data-micromodal-close aria-label="Close announcement">
+          <svg width="24" height="24" viewBox="0 0 24 24" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+            <circle cx="12" cy="12" r="12" fill="#fff"/>
+            <g fill="currentColor">
+              <path d="M5.636,2.808l15.556,15.556l-2.828,2.828l-15.556,-15.556l2.828,-2.828Z"/>
+              <path d="M2.808,18.364l15.556,-15.556l2.828,2.828l-15.556,15.556l-2.828,-2.828Z"/>
+            </g>
+          </svg>
         </button>
       </header>
 
@@ -57,8 +63,10 @@
   </div>
 </div>
 
-<form name="announcement-interest" netlify hidden>
-  <input type="text" name="post-title">
-  <input type="text" name="post-url">
-</form>
+<div style="display:none">
+  <form name="announcement-interest" netlify>
+    <input type="text" name="post-title">
+    <input type="text" name="post-url">
+  </form>
+</div>
 {% endif %}

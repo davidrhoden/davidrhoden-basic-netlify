@@ -274,16 +274,35 @@ header .search-container {
 .mail-signup-container {
   background-color: #fffff8;
   backface-visibility: hidden;
-  font-family: var(--font-primary);
-  position: relative;
-  will-change: transform;
-  transform-style: preserve-3d;
-  transform: rotate(2deg) translateZ(0);
-  padding: 1rem;
-  width: 300px;
   box-shadow: 8px 6px 5px 0px rgba(0, 0, 0, 0.20);
-  -webkit-box-shadow: 8px 6px 5px 0px rgba(0, 0, 0, 0.20);
+  cursor: grab;
+  font-family: var(--font-primary);
   -moz-box-shadow: 8px 6px 5px 0px rgba(199,199,123,0.20);
+  padding: 1rem;
+  position: relative;
+  transform: rotate(2deg) translateZ(0);
+  transform-style: preserve-3d;
+  -webkit-box-shadow: 8px 6px 5px 0px rgba(0, 0, 0, 0.20);
+  width: 300px;
+  will-change: transform;
+}
+
+.mail-signup-container.is-dragging {
+  cursor: grabbing;
+  transform: rotate(0deg) translateZ(0);
+  transition: none;
+}
+
+.mail-signup-container input,
+.mail-signup-container textarea,
+.mail-signup-container button,
+.mail-signup-container label,
+.mail-signup-container a {
+  cursor: auto;
+}
+
+.mail-signup-container button {
+  cursor: pointer;
 }
 
 .mail-signup-container .uppercase {
