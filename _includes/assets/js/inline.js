@@ -204,6 +204,40 @@ $(document).ready(function () {
       $('.footer-card-anchor, .mail-signup-card-inline').hide();
     });
 
+    if ($('#modal-announcement').length && !sessionStorage.getItem('announcementDismissed')) {
+      MicroModal.show('modal-announcement', {
+        onClose: function() {
+          sessionStorage.setItem('announcementDismissed', '1');
+        },
+        disableFocus: true
+      });
+    }
+
+    $(document).on('change', '#announcement-interest-check', function() {
+      var postTitle = $(this).data('post-title');
+      var postUrl = $(this).data('post-url');
+
+      if (typeof umami !== 'undefined') {
+        umami.track('announcement-interest', { title: postTitle });
+      }
+
+      fetch('/', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+        body: new URLSearchParams({
+          'form-name': 'announcement-interest',
+          'post-title': postTitle,
+          'post-url': postUrl
+        }).toString()
+      }).catch(function() {});
+
+      sessionStorage.setItem('announcementDismissed', '1');
+      MicroModal.close('modal-announcement');
+      setTimeout(function() {
+        MicroModal.show('modal-mailing-list', { disableFocus: true });
+      }, 350);
+    });
+
     $('#onetalker-trigger').on('click', function() {
       var isMobile = window.innerWidth <= 767;
       var $trigger = $(this);

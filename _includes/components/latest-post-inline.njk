@@ -1,4 +1,9 @@
-{% set latest_post = collections[collectionName] | last %}
+{% set latest_post = null %}
+{% for post in collections[collectionName] | reverse %}
+  {% if latest_post == null and not post.data.announcement %}
+    {% set latest_post = post %}
+  {% endif %}
+{% endfor %}
 
 {% if latest_post.data.section == "things-i-like" %}
   <p class="section-label">THINGS I LIKE</p>
