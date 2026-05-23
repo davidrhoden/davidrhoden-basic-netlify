@@ -318,6 +318,23 @@
   text-transform: uppercase;
 }
 
+.modal__header--announcement .modal__btn-close {
+  background: transparent;
+  border: none;
+  border-radius: 0;
+  color: var(--lightblue);
+  padding: 0;
+  width: auto;
+}
+
+.modal__header--announcement .modal__btn-close:focus,
+.modal__header--announcement .modal__btn-close:hover,
+.modal__header--announcement .modal__btn-close:active {
+  background: transparent;
+  color: var(--orangered);
+  transform: scale(1.1);
+}
+
 .announcement-layout {
   display: flex;
   gap: 2em;
@@ -393,12 +410,45 @@
   line-height: 1.4;
 }
 
-.announcement-interest-check {
+.announcement-interest input[type="checkbox"] {
   cursor: pointer;
   flex-shrink: 0;
   height: 1.2em;
+  margin-bottom: 0;
   margin-top: 0.1em;
+  padding: 0;
   width: 1.2em;
+}
+
+.announcement-interest {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75em;
+}
+
+.announcement-declined {
+  padding: 2em 0;
+  text-align: center;
+}
+
+.announcement-declined p {
+  font-size: 1.125rem;
+  line-height: 1.6;
+  margin: 0 0 0.5em 0;
+}
+
+.announcement-countdown {
+  font-family: var(--font-secondary);
+  font-size: 3rem;
+  font-weight: 700;
+  margin: 0.5em 0;
+}
+
+.announcement-granted {
+  color: var(--orangered);
+  font-family: var(--font-secondary);
+  font-size: 1.5rem;
+  font-weight: 700;
 }
 
 @media screen and (max-width: 599px) {

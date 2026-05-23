@@ -259,6 +259,35 @@ $(document).ready(function () {
       });
     }
 
+    $(document).on('change', '#announcement-decline-check', function() {
+      var content = document.getElementById('modal-announcement-content');
+      if (!content) return;
+
+      content.innerHTML =
+        '<div class="announcement-declined">' +
+        '<p>Your response has been recorded. Please wait five seconds for admission to the site.</p>' +
+        '<p class="announcement-countdown" id="announcement-countdown-num">5</p>' +
+        '</div>';
+
+      var count = 5;
+      var countEl = document.getElementById('announcement-countdown-num');
+      var interval = setInterval(function() {
+        count--;
+        if (!countEl) { clearInterval(interval); return; }
+        if (count > 0) {
+          countEl.textContent = count;
+        } else {
+          clearInterval(interval);
+          countEl.textContent = '';
+          countEl.className = 'announcement-granted';
+          countEl.textContent = 'Admission granted.';
+          setTimeout(function() {
+            MicroModal.close('modal-announcement');
+          }, 800);
+        }
+      }, 1000);
+    });
+
     $(document).on('change', '#announcement-interest-check', function() {
       var postTitle = $(this).data('post-title');
       var postUrl = $(this).data('post-url');
