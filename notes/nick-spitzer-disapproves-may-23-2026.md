@@ -15,7 +15,7 @@ tags:
 
 If you're unfamiliar with the NPR roots music show _American Routes_, hosted by Nick Spitzer, this complaint won't make any sense.
 
-I _like_ the music Nick Spitzer plays, _mostly_. I'll never enjoy bluegrass or Cajun music (the boring kind) like he seems to, but mostly he plays a lot of good music on his show. It's just that "seal of approval" I can't stand. Getting played on American Routs is like being told "Nick Spitzer, and the powers that be at NPR, approve of your music". I always picture him patting his knee along to, I don't know, Slim Harpo, or Lowell Fulson, and thinking, "I can really make these guys' posthumous careers by featuring them on my show about what I think it means to be truly American." His approval makes me like music I like LESS.
+I _like_ the music Nick Spitzer plays, _mostly_. I'll never enjoy bluegrass or Cajun music (the boring kind) like he seems to, but mostly he plays a lot of good music on his show. It's just that "seal of approval" I can't stand. Getting played on American Routes is like being told "Nick Spitzer, and the powers that be at NPR, _approve_ of your music". I always picture him patting his knee along to, I don't know, Slim Harpo, or Lowell Fulson, and thinking, "I can really make these guys' posthumous careers, by featuring them on my show about what I think it means to be truly American." His approval makes me like music I like LESS.
 
 The thing is, he does play good music. I just don't care for the framing.
 
