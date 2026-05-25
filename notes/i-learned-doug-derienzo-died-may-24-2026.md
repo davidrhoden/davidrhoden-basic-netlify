@@ -10,7 +10,7 @@ tags:
   - The Stacks
   - Eli Underwood
   - Jimmy and The Wolfpack
-  - Lounge Lizrds (Decatur Street New Orleans club)
+  - Lounge Lizards (Decatur Street New Orleans club)
   - Circle Bar
   - Saturn Bar
   - Otto's Shrunken Head
@@ -21,7 +21,6 @@ tags:
   - "Raining In My Heart"
   - "Country Doctor"
   - "Coal Miner"
-  - death of a friend
 
 
 ---
@@ -77,7 +76,7 @@ And he said "I'll be there," and somehow he got to New Orleans from Oklahoma wit
 
 ![Doug and Brian Manning share the mic. January 21, 2008.](/static/img/doug/doug-derienzo-and-BJ-share-the-mic-jan-21-2008.jpeg)
 
-Doug and our hypeman, Brian J. Manning share the mic. I would love to remember what they are saying or singing.
+<figcaption>Doug and our hypeman, Brian J. Manning share the mic. I would love to remember what they are saying or singing.</figcaption>
 
 ![Doug and Brian Manning share the mic. January 21, 2008.](/static/img/doug/doug-derienzo-with-BJ-emceeing-jan-21-2008.jpeg)
 
@@ -91,15 +90,21 @@ Doug and our hypeman, Brian J. Manning share the mic. I would love to remember w
 
 ![Doug and Erin S., November 18, 2006.](/static/img/doug/doug-and-erin-s-nov-18-2006.jpeg)
 
-![Doug as Little Caesar for Halloween (he said "Pizza! Pizza!" to everyone).](/static/img/doug/dougroman.jpeg)
+<figcaption>It was *so* hard to get Doug to put on a silly hat for a picture.</figcaption>
 
 ![Doug does Yorick speech, November 18, 2006.](/static/img/doug/doug-does-yorick-speech-nov-18-2006.jpeg)
 
 ![Thinking man's Doug, November 18, 2006.](/static/img/doug/thinking-mans-doug-nov-18-2006.jpeg)
 
+<figcaption>Wearing Jessica's Marvin the Martian hat.</figcaption>
+
 ![Doug with bucket, November 18, 2006.](/static/img/doug/doug-with-bucket-nov-18-2006.jpeg)
 
 ![Doug and Jessica, October 29, 2006.](/static/img/doug/doug-and-jessica-oct-29-2006.jpeg)
+
+![Doug as Little Caesar for Halloween (he said "Pizza! Pizza!" to everyone).](/static/img/doug/dougroman.jpeg)
+
+<figcaption>We played a Hallowe'en gig at my apartment at 276 Grand Street in Williamsburg, Brooklyn. Doug went as "Little Caesar" and kept saying "Pizza! Pizza!" to everyone.</figcaption>
 
 ![Doug with Jessica and King Diamond, October 29, 2006.](/static/img/doug/doug-with-jessica-and-king-diamond-oct-29-2006.jpeg)
 
@@ -113,6 +118,13 @@ Doug and our hypeman, Brian J. Manning share the mic. I would love to remember w
 
 <figcaption>Doug and Trey sitting on the Circle Bar steps after a gig. This is the oldest picture I have of Doug.</figcaption>
 
+<hr>
 
+<audio src="static/audio/wolfpack/JandTWP-Coal-Miner.mp3" autobuffer autoloop loop controls></audio>
 
+<figcaption>This is the recording of Jimmy and The Wolfpack that made me want to get in touch with Doug. He's great on it.</figcaption>
+
+<audio src="static/audio/wolfpack/JandTWP-Country-Doctor.mp3" autobuffer autoloop loop controls></audio>
+
+<figcaption>Doug was pretty exclusively a horn man, but we did require his vocal services on one classic Jimmy and The Wolfpack tune, "Country Doctor". He did one line, as the voice of the Country Doctor.</figcaption>
 
