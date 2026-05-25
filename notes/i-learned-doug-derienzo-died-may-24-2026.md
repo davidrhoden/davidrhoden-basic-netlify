@@ -66,7 +66,7 @@ Some pictures of Doug, in basically reverse chronological order.
 
 ![Jimmy and the Wolfpack at Wreck Room, Brooklyn, NY, April 25, 2008.](/static/img/doug/jandtwp-wreck-room-brooklyn-apr-25-2008.jpeg)
 
-<figcaption>This is just a great picture of the whole band, but Doug's right there in the middle of it. This was an interesting show, the people at the club (The Wreck Room, in Bushwick) did not seem to be expecting us, but they didn't stop us from playing. I think the club management may have changed between the booking and the gig. But anyway, back to Doug...</figcaption>
+<figcaption>This is just a great picture of the whole band, with Doug right there in the middle of it. This was an interesting show, the people at the club (The Wreck Room, in Bushwick) did not seem to be expecting us, but they didn't stop us from playing. I think the club management may have changed between the booking and the gig. But anyway, back to Doug...</figcaption>
 
 <hr>
 
@@ -96,7 +96,7 @@ And he said "I'll be there," and somehow he got to New Orleans from Oklahoma wit
 
 ![Doug and Erin S., November 18, 2006.](/static/img/doug/doug-and-erin-s-nov-18-2006.jpeg)
 
-<figcaption>It was *so* hard to get Doug to put on a silly hat for a picture.</figcaption>
+<figcaption>It was **so** hard to get Doug to put on a silly hat for a picture.</figcaption>
 
 ![Doug does Yorick speech, November 18, 2006.](/static/img/doug/doug-does-yorick-speech-nov-18-2006.jpeg)
 
