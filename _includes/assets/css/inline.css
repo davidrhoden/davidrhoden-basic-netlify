@@ -500,9 +500,13 @@ body > footer > * {
 }
 
 figcaption {
+  color: rgba(0, 0, 0, 0.75);
+  display: block;
   font-size: 0.9em;
-/*  transform: translateY(-1em);*/
-  color: gray;
+  font-style: italic;
+  margin-bottom: 1.5rem;
+  margin-left: 1.5rem;
+  margin-top: 0.5rem;
 }
 
 body > main {
