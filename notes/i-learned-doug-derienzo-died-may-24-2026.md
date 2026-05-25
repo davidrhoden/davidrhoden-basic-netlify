@@ -98,7 +98,7 @@ And he said "I'll be there," and somehow he got to New Orleans from Oklahoma wit
 
 ![Doug and Erin S., November 18, 2006.](/static/img/doug/doug-and-erin-s-nov-18-2006.jpeg)
 
-<figcaption>It was **so** hard to get Doug to put on a silly hat for a picture.</figcaption>
+<figcaption>It was <b>so</b> hard to get Doug to put on a silly hat for a picture.</figcaption>
 
 ![Doug does Yorick speech, November 18, 2006.](/static/img/doug/doug-does-yorick-speech-nov-18-2006.jpeg)
 
