@@ -37,7 +37,7 @@ They told me I didn't need to move my truck today. Tomorrow, maybe.
 
 ![Shadow watching demolition, May 15, 2026, 11:55 a.m.](/static/img/timeline/warehouse-demolition-may-15-2026/shadow-watching-demolition-1155-may-15-2026.jpeg)
 
-![Shadow watching demolition, May 15, 2026, 11:56 a.m.](/static/img/timeline/warehouse-demolition-may-15-2026/shadow watching-demolition-1156-may-15-2026.jpeg)
+![Shadow watching demolition, May 15, 2026, 11:56 a.m.](/static/img/timeline/warehouse-demolition-may-15-2026/shadow-watching-demolition-1156-may-15-2026.jpeg)
 
 ![Warehouse Demolition on Tricou Street, New Orleans, May 15, 2026, 12:53 p.m.](/static/img/timeline/warehouse-demolition-may-15-2026/demolition-1253-may-15-2026.jpeg)
 
