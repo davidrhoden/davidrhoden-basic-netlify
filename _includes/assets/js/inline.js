@@ -344,3 +344,16 @@ $(document).ready(function () {
       }
     });
 });
+
+$(document).ready(function() {
+  $('audio').on('play', function() {
+    var src = $(this).attr('src');
+    if (typeof umami !== 'undefined') {
+      if (src.includes('Coal-Miner')) {
+        umami.track('audio-play-coal-miner');
+      } else if (src.includes('Country-Doctor')) {
+        umami.track('audio-play-country-doctor');
+      }
+    }
+  });
+});
