@@ -4,7 +4,6 @@ support_files/
 support/
 .env
 /static/img-to-be-added
-/static/audio
 /static/img/homepage-featured/unused-homepage-candidates/
 /scripts/
 .DS_Store
