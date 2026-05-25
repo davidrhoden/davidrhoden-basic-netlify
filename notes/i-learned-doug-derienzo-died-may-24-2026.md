@@ -9,6 +9,8 @@ tags:
   - Steve Walkup
   - The Stacks
   - Eli Underwood
+  - Erin S.
+  - Jessica W.
   - Jimmy and The Wolfpack
   - Lounge Lizards (Decatur Street New Orleans club)
   - Circle Bar
@@ -33,13 +35,13 @@ He actually died last July. I'm mad at myself that I didn't know. He was living 
 
 My introduction to Doug goes back to when I was married to Sara. She came back from some fun thing that I didn't go to for some reason, and said, "If you want a horn player you've gotta meet this guy Doug, he looks kind of like John Belushi." He didn't, not really, but that was enough for me to recognize him around. The Stacks drummer, Steve Walkup knew him. I said "ask this guy Doug to come to a practice, let's see how he sounds." Cut to the band getting on the stage at the long-closed and somewhat-missed club Lounge Lizards, on Decatur across the street from House of Blues. The show started, and I heard what sounded like a saxophone, on stage. I turned to my right, and there was Doug, playing with the band. We had not practiced with him, and if I had even met him, it was sort of in passing; there was no agreement that he would become a member of the band. So I was a little bit puzzled. But, you know what? He played great, especially for a guy who hadn't heard our songs, so I went from questioner to fan in about five minutes. Probably more like three minutes.
 
-A thing I remember from that early period that is so weird it seems like it didn't happen, but Doug got us a gig. He had never done that before, or after if I recall, but this was a paying gig. Doug knew somebody who was connected to this wedding party, and they wanted a band for their after-party back at the house of somebody else. Doug swore this was a real gig, so we went to the address. I think it was in Mid-City. The people at the house were preoccupied, and seemed a little puzzled to see us, but they said "set up in the driveway". At this point I should mention they only spoke Spanish. There was aprobably a lot of pointing and nodding. But we set up in the driveway and we idled out there until a bunch of cars pulled up, including one with a bride and groom in it. This seemed to be our cue to play, and we did, and despite basically nobody in the wedding party speaking English, and none of the Wolfpack speaking Spanish, we played a little set, and people danced, and we got paid like a hundred and fifty bucks, a great night for us. I forgot to mention we had already played another gig that night, the wedding party was like lagniappe.
+A thing I remember from that early period that is so weird it seems like it didn't happen, but Doug got us a gig. He had never done that before, or after if I recall, but this was a paying gig. Doug knew somebody who was connected to this wedding party, and they wanted a band for their after-party back at the house of somebody else. Doug swore this was a real gig, so we went to the address. I think it was in Mid-City. The people at the house were preoccupied, and seemed a little puzzled to see us, but they said "set up in the driveway". At this point I should mention they only spoke Spanish. There was probably a lot of pointing and nodding. But we set up in the driveway and we idled out there until a bunch of cars pulled up, including one with a bride and groom in it. This seemed to be our cue to play, and we did, and despite basically nobody in the wedding party speaking English, and none of the Wolfpack speaking Spanish, we played a little set, and people danced, and we got paid like a hundred and fifty bucks, a great night for us. I forgot to mention we had already played another gig that night, the wedding party was like lagniappe.
 
 Doug was in The Stacks for several years, and was also a member of Jimmy and The Wolfpack for most of our run as an active band. After Katrina, the band obviously stopped existing, but Chan and I moved to NYC, and we decided to restart Jimmy and The Wolfpack up there, with Alan Dorsey stepping into Trey Ledford's role as bass player. We had no idea at the time where Doug was, but we found out he had also evacuated the torn-up city and gone back to New Jersey. I don't remember who facilitated this re-connection (if you can remind me, please do!), but we brought Doug back into the Wolfpack for remainder of the New York City period of the band's career.
 
 Fun Fact about Doug: sometimes we would hit up a diner after the gig, maybe hours after, and if it was possible, Doug would always order steak and eggs, which inspired our clever nickname for him, "Steak And Eggs". Chan wrote a pretty funny song called "Steak And Eggs" to bolster the effectiveness of this nickname.
 
-I recall a date when Jimmy and The Wolfpack were playing at Otto's Shrunken Head in Manhattan. We knew that Doug's dad, another horn player, wasn't doing well, and in fact the family were staying at the hospital expecting the worst. We told Doug it was okay to skip the gig, but he really wanted to play; he said his dad would have expected him to. And a few minutes before we went on, Doug got a call letting him know his father had passed. We told him again, it's fine if you want to get back to New Jersey to be with your family, but at that point he was deteermined to do the gig. And he played great. At that time we always had a spot during "Raining In My Heart" where Doug could go off, and that night he did; we just backed off a little and let him play, and it was great.
+I recall a date when Jimmy and The Wolfpack were playing at Otto's Shrunken Head in Manhattan. We knew that Doug's dad, another horn player, wasn't doing well, and in fact the family were staying at the hospital expecting the worst. We told Doug it was okay to skip the gig, but he really wanted to play; he said his dad would have expected him to. And a few minutes before we went on, Doug got a call letting him know his father had passed. We told him again, it's fine if you want to get back to New Jersey to be with your family, but at that point he was determined to do the gig. And he played great. At that time we always had a spot during "Raining In My Heart" where Doug could go off, and that night he did; we just backed off a little and let him play, and it was great.
 
 
 Some pictures of Doug, in basically reverse chronological order.
@@ -106,6 +108,8 @@ And he said "I'll be there," and somehow he got to New Orleans from Oklahoma wit
 
 ![Doug with bucket, November 18, 2006.](/static/img/doug/doug-with-bucket-nov-18-2006.jpeg)
 
+![Doug with bucket, November 18, 2006.](/static/img/doug/doug-with-bucket-2-nov-18-2006.jpeg)
+
 ![Doug and Jessica, October 29, 2006.](/static/img/doug/doug-and-jessica-oct-29-2006.jpeg)
 
 ![Doug as Little Caesar for Halloween (he said "Pizza! Pizza!" to everyone).](/static/img/doug/dougroman.jpeg)
@@ -126,11 +130,16 @@ And he said "I'll be there," and somehow he got to New Orleans from Oklahoma wit
 
 <hr>
 
-<audio src="static/audio/wolfpack/JandTWP-Coal-Miner.mp3" autobuffer autoloop loop controls></audio>
+Jimmy and The Wolfpack, "Coal Miner".
+<audio src="/static/audio/wolfpack/JandTWP-Coal-Miner.mp3" autobuffer autoloop loop controls></audio>
 
 <figcaption>This is the recording of Jimmy and The Wolfpack that made me want to get in touch with Doug. He's great on it.</figcaption>
 
-<audio src="static/audio/wolfpack/JandTWP-Country-Doctor.mp3" autobuffer autoloop loop controls></audio>
+Jimmy and The Wolfpack, "Country Doctor".
+<audio src="/static/audio/wolfpack/JandTWP-Country-Doctor.mp3" autobuffer autoloop loop controls></audio>
 
 <figcaption>Doug was pretty exclusively a horn man, but we did require his vocal services on one classic Jimmy and The Wolfpack tune, "Country Doctor". He did one line, as the voice of the Country Doctor.</figcaption>
 
+<hr>
+
+So, Doug, I'm sorry you're gone. I wish we had talked more, more recently. Being in bands with you was a blast, I laughed so much. Being friends with you was an honor and a pleasure. I'm glad that happened. You're the best.
