@@ -48,7 +48,7 @@ Some pictures of Doug, in basically reverse chronological order.
 
 <figcaption>This picture is Doug on stage pretty recently, somewhere in New Jersey. I borrowed it from the obituary. I'm sorry I don't know who to credit, but it's a great picture.</figcaption>
 
-![Here is Jimmy and the Wolfpack playing at Freddy's in its original Brooklyn location.](static/img/doug/wolfpack-at-freddy-brooklyn-feb-28-2010-maybe.jpeg)
+![Here is Jimmy and the Wolfpack playing at Freddy's in its original Brooklyn location.](/static/img/doug/wolfpack-at-freddy-brooklyn-feb-28-2010-maybe.jpeg)
 
 <figcaption>Here we are playing at Freddy's in its original Brooklyn location. I'm unsure of the date.</figcaption>
 
