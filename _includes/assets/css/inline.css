@@ -509,6 +509,13 @@ figcaption {
   margin-top: 0.5rem;
 }
 
+hr {
+  border: none;
+  border-top: 2px solid var(--lightblue);
+  margin: 2rem 0;
+  opacity: 0.5;
+}
+
 body > main {
   margin: 7em auto 0;
 }
