@@ -6,11 +6,11 @@
       <ul>
       {%- for section in navigation %}
         <li class="nav-item">
-          <span class="nav-label">{{ section.heading }}.</span>
+          <span class="nav-label" data-umami-event="nav-section-{{ section.heading | slugify }}">{{ section.heading }}.</span>
           <ul class="nav-dropdown">
           {%- for link in section.links %}
             <li>
-              <a href="{{ link.url }}"{% if link.external %} target="_blank" rel="noopener noreferrer"{% endif %}>
+              <a href="{{ link.url }}" data-umami-event="nav-link-{{ section.heading | slugify }}-{{ link.title | slugify }}"{% if link.external %} target="_blank" rel="noopener noreferrer"{% endif %}>
                 <span class="nav-link-text">{{ link.title }}</span>
                 {%- if link.tooltip %}
                 <span class="nav-tooltip" aria-hidden="true">{{ link.tooltip }}</span>
@@ -58,11 +58,11 @@
       <div class="nav-column">
         <ul>
         {%- if section.heading %}
-          <li class="menu-header">{{ section.heading }}.</li>
+          <li class="menu-header" data-umami-event="nav-section-{{ section.heading | slugify }}">{{ section.heading }}.</li>
         {%- endif %}
         {%- for link in section.links %}
           <li>
-            <a href="{{ link.url }}"{% if link.external %} target="_blank" rel="noopener noreferrer"{% endif %}>{{ link.title }}</a>
+            <a href="{{ link.url }}" data-umami-event="nav-link-{{ section.heading | slugify }}-{{ link.title | slugify }}"{% if link.external %} target="_blank" rel="noopener noreferrer"{% endif %}>{{ link.title }}</a>
           </li>
         {%- endfor %}
         </ul>
