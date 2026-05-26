@@ -7,6 +7,9 @@ tags:
   - Doug DeRienzo
   - Sara Essex
   - Steve Walkup
+  - Trey Ledford
+  - Alan Dorsey
+  - Chan
   - The Stacks
   - Eli Underwood
   - Erin S.
@@ -17,6 +20,7 @@ tags:
   - Saturn Bar
   - Otto's Shrunken Head
   - Wreck Room
+  - Freddy's (Brooklyn bar)
   - New Orleans
   - Brooklyn
   - Manhattan
@@ -33,11 +37,11 @@ That was played by Doug DeRienzo, the sax player in Jimmy and The Wolfpack, and 
 
 He actually died last July. I'm mad at myself that I didn't know. He was living back home in New Jersey. The funeral home guestbook had some recent pictures of him where he looked very thin, but I don't know what the cause of death was. And it doesn't matter. I just wanted to write some words about Doug. I'm sorry we fell out of touch. I didn't do enough to keep up.
 
-My introduction to Doug goes back to when I was married to Sara. She came back from some fun thing that I didn't go to for some reason, and said, "If you want a horn player you've gotta meet this guy Doug, he looks kind of like John Belushi." He didn't, not really, but that was enough for me to recognize him around. The Stacks drummer, Steve Walkup knew him. I said "ask this guy Doug to come to a practice, let's see how he sounds." Cut to the band getting on the stage at the long-closed and somewhat-missed club Lounge Lizards, on Decatur across the street from House of Blues. The show started, and I heard what sounded like a saxophone, on stage. I turned to my right, and there was Doug, playing with the band. We had not practiced with him, and if I had even met him, it was sort of in passing; there was no agreement that he would become a member of the band. So I was a little bit puzzled. But, you know what? He played great, especially for a guy who hadn't heard our songs, so I went from questioner to fan in about five minutes. Probably more like three minutes.
+My introduction to Doug goes back to when I was married to Sara. She came back from some fun thing that I didn't go to for some reason, and said, "If you want a horn player you've gotta meet this guy Doug, he looks kind of like John Belushi." He didn't, not really, but that was enough for me to recognize him around. The Stacks drummer, Steve Walkup, knew him. I said "ask this guy Doug to come to a practice, let's see how he sounds." Cut to the band getting on the stage at the long-closed and somewhat-missed club Lounge Lizards, on Decatur across the street from House of Blues. The show started, and I heard what sounded like a saxophone, on stage. I turned to my right, and there was Doug, playing with the band. We had not practiced with him, and if I had even met him, it was sort of in passing; there was no agreement that he would become a member of the band. So I was a little bit puzzled. But, you know what? He played great, especially for a guy who hadn't heard our songs, so I went from questioner to fan in about five minutes. Probably more like three minutes.
 
 A thing I remember from that early period that is so weird it seems like it didn't happen, but Doug got us a gig. He had never done that before, or after if I recall, but this was a paying gig. Doug knew somebody who was connected to this wedding party, and they wanted a band for their after-party back at the house of somebody else. Doug swore this was a real gig, so we went to the address. I think it was in Mid-City. The people at the house were preoccupied, and seemed a little puzzled to see us, but they said "set up in the driveway". At this point I should mention they only spoke Spanish. There was probably a lot of pointing and nodding. But we set up in the driveway and we idled out there until a bunch of cars pulled up, including one with a bride and groom in it. This seemed to be our cue to play, and we did, and despite basically nobody in the wedding party speaking English, and none of the Wolfpack speaking Spanish, we played a little set, and people danced, and we got paid like a hundred and fifty bucks, a great night for us. I forgot to mention we had already played another gig that night, the wedding party was like lagniappe.
 
-Doug was in The Stacks for several years, and was also a member of Jimmy and The Wolfpack for most of our run as an active band. After Katrina, the band obviously stopped existing, but Chan and I moved to NYC, and we decided to restart Jimmy and The Wolfpack up there, with Alan Dorsey stepping into Trey Ledford's role as bass player. We had no idea at the time where Doug was, but we found out he had also evacuated the torn-up city and gone back to New Jersey. I don't remember who facilitated this re-connection (if you can remind me, please do!), but we brought Doug back into the Wolfpack for remainder of the New York City period of the band's career.
+Doug was in The Stacks for several years, and was also a member of Jimmy and The Wolfpack for most of our run as an active band. After Katrina, the band obviously stopped existing, but Chan and I moved to NYC, and we decided to restart Jimmy and The Wolfpack up there, with Alan Dorsey stepping into Trey Ledford's role as bass player. We had no idea at the time where Doug was, but we found out he had also evacuated the torn-up city and gone back to New Jersey. I don't remember who facilitated this re-connection (if you can remind me, please do!), but we brought Doug back into the Wolfpack for the remainder of the New York City period of the band's career.
 
 Fun Fact about Doug: sometimes we would hit up a diner after the gig, maybe hours after, and if it was possible, Doug would always order steak and eggs, which inspired our clever nickname for him, "Steak And Eggs". Chan wrote a pretty funny song called "Steak And Eggs" to bolster the effectiveness of this nickname.
 
