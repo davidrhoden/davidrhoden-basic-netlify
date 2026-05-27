@@ -83,11 +83,11 @@
 }
 
 .carousel-btn-prev img {
-  transform: translateX(-5px);
+  transform: translateX(-1px);
 }
 
 .carousel-btn-next img {
-  transform: translateX(5px);
+  transform: translateX(1px);
 }
 
 .carousel-btn:hover {
