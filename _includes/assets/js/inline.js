@@ -64,9 +64,9 @@ $(document).ready(function () {
 
 $(document).ready(function () {
   var currentImage = 0;
-  var images = $("#viewport img").get();
+  var images = $("#viewport p img, #viewport li img").get();
   var totalImages = images.length;
-  var firstImage = $("#viewport img:first");
+  var firstImage = $("#viewport p img:first, #viewport li img:first");
   var altText = $(firstImage).attr("alt");
   firstImage.addClass("fadedIn");
   $("#caption").html(altText);

@@ -6,8 +6,8 @@ section: page
 <h1>{{ title }}</h1>
 
 <div id="viewport">
-    <button id="buttonPrevious">&#10094;</button>
-    <button id="buttonNext">&#10095;</button>
+    <button id="buttonPrevious" aria-label="Previous image"><img src="/static/img/site/arrow-bold-left.svg" alt="" aria-hidden="true"></button>
+    <button id="buttonNext" aria-label="Next image"><img src="/static/img/site/arrow-bold-right.svg" alt="" aria-hidden="true"></button>
     {{ content | safe }}
 </div>
 

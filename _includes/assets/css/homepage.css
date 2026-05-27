@@ -63,28 +63,35 @@
 
 .carousel-btn {
   align-items: center;
-  background: none;
-  border: 1px solid transparent;
+  background: var(--lightblue);
+  border: none;
   border-radius: 50%;
-  color: var(--black);
   cursor: pointer;
   display: flex;
   flex-shrink: 0;
-  font-size: 1.25rem;
   height: 2.5em;
   justify-content: center;
-  transition: border-color 0.2s ease;
+  transition: background-color 0.15s ease;
   width: 2.5em;
 }
 
 .carousel-btn img {
   display: block;
-  height: 1.25em;
+  filter: brightness(0) invert(1);
+  height: 1em;
   width: 1.25em;
 }
 
+.carousel-btn-prev img {
+  transform: translateX(-5px);
+}
+
+.carousel-btn-next img {
+  transform: translateX(5px);
+}
+
 .carousel-btn:hover {
-  border-color: var(--orangered);
+  background: var(--orangered);
 }
 
 .carousel-btn[disabled] {
@@ -323,8 +330,13 @@
   border: none;
   border-radius: 0;
   color: var(--lightblue);
+  cursor: pointer;
   padding: 0;
   width: auto;
+}
+
+.modal__header--announcement .modal__btn-close svg {
+  pointer-events: none;
 }
 
 .modal__header--announcement .modal__btn-close:focus,
