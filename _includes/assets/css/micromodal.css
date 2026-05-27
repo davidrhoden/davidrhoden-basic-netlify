@@ -128,9 +128,27 @@
 }
 
 .modal__btn-close {
-  margin-left: 1rem;
+  background: transparent;
+  border: none;
+  border-radius: 0;
+  color: var(--lightblue);
+  cursor: pointer;
   font-size: 0.875rem;
-  padding: 0.25rem 0.75rem;
+  margin-left: 1rem;
+  padding: 0;
+  width: auto;
+}
+
+.modal__btn-close svg {
+  pointer-events: none;
+}
+
+.modal__btn-close:focus,
+.modal__btn-close:hover,
+.modal__btn-close:active {
+  background: transparent;
+  color: var(--orangered);
+  transform: scale(1.1);
 }
 
 .modal__btn-primary {
