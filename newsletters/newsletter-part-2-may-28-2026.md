@@ -66,7 +66,7 @@ This kick drum front head was colored green when we used it in 2005:
 
 During Hurricane Katrina, though, it floated around in Steve and Nicola's basement, and I guess all the green coloring came off. (It was Dr. Ph. Martin's Radiant Water Color. I think the color was Apple Green, but the label fell off this morning, and I threw it away.) I've owned this art supply since about 1993. My SVA teacher Arnie Levin told me this was the stuff to get. It still isn't used up. I thought I might not have enough in the little bottle to finish this job but it only required four droppersful. I've still got a half a bottle left. Maybe that fear of running out of something easy to replace is what made me wait twenty-one years to do this task that took less than five minutes.
 
-![bottle of Dr. Ph. Martin's Radiant Water Color, still half full, bought around 1993](https://davidrhoden.com/static/img/timeline/dr-ph-martins-apple-green-half-full-bottle-may-22-2026.jpeg)
+![bottle of Dr. Ph. Martin's Radiant Water Color, still half full, bought around 1993](/static/img/timeline/dr-ph-martins-apple-green-half-full-bottle-may-22-2026.jpeg)
 
 I recently saw, on Facebook, advertising for an estate sale at an artist's house, telling us how many excellent, unused art supplies were there for us ghouls to buy. I don't want that to happen to my art supplies; I want to use them up before I, you know, die. I want everyone to say "there's no use for these scraps of paper and used-up watercolors he left behind, just toss them in the trash". Though this means I really need to get cracking on using up some of these gouache tubes I keep buying. Thus concludes the personal philosophy portion of this free newsletter.
 
