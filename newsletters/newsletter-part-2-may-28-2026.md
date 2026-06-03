@@ -25,7 +25,7 @@ Just been doing my lil' karaoke people on chunks of scrap wood, something I have
 
 ![karaoke cartoon of The Kinks "Come Dancing"](/static/img/karaoke/come-dancing-may-21-2026.jpeg?w=960&fit=max)
 
-![karaoke cartoon of Steve Miller Band's "Abracadabra"](/static/img/karaoke/abracadabra-wood-may-19-2026.jpegg?w=960&fit=max)
+![karaoke cartoon of Steve Miller Band's "Abracadabra"](/static/img/karaoke/abracadabra-wood-may-19-2026.jpeg?w=960&fit=max)
 
 ![karaoke cartoon of Peaches and Herb's "Shake Your Groove Thing"](/static/img/karaoke/shake-your-groove-thing-wood-may-17-2026.jpeg?w=960&fit=max)
 
