@@ -114,6 +114,20 @@ module.exports = function (eleventyConfig) {
     return allNotes;
   });
 
+  eleventyConfig.addCollection("newsletter", function (collection) {
+    const allNewsletters = collection.getFilteredByTag("newsletter");
+
+    for (let i = 0; i < allNewsletters.length; i++) {
+      const prevNewsletter = allNewsletters[i - 1];
+      const nextNewsletter = allNewsletters[i + 1];
+
+      allNewsletters[i].data["prevNewsletter"] = prevNewsletter;
+      allNewsletters[i].data["nextNewsletter"] = nextNewsletter;
+    }
+
+    return allNewsletters;
+  });
+
   eleventyConfig.addCollection("things i like", function (collection) {
     const allThings = collection.getFilteredByTag("things i like");
 

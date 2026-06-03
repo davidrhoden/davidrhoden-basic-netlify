@@ -24,7 +24,7 @@ generator: {{metadata.generator}}
   {% if tags %}
     <div class="latest-post-tags">
       {% for tag in tags %}
-        {%- if tag != "post" and tag != "note" -%}
+        {%- if tag != "post" and tag != "note" and tag != "newsletter" -%}
           {% set tagUrl %}/tags/{{ tag | slugify }}/{% endset %}
           <a class="latest-post-tag" data-umami-event="{{ tag }}" href="{{ tagUrl }}" rel="tag">{{ tag }}</a>
         {%- endif -%}
@@ -34,8 +34,8 @@ generator: {{metadata.generator}}
 
 </article>
 
-{% set prevItem = prevPost or prevNote %}
-{% set nextItem = nextPost or nextNote %}
+{% set prevItem = prevPost or prevNote or prevNewsletter %}
+{% set nextItem = nextPost or nextNote or nextNewsletter %}
 
 <div class="latest-post-article">
 {% if prevItem.url %}
@@ -58,6 +58,8 @@ generator: {{metadata.generator}}
 <nav>
   {% if section == "notes" %}
     <a data-umami-event="Back to Notes" href="/notes/">← Notes index</a>
+  {% elif section == "newsletters" %}
+    <a data-umami-event="Back to Newsletter" href="/newsletters/">← Newsletter index</a>
   {% else %}
     <a data-umami-event="Back to Journal" href="/timeline/">← Journal index</a>
   {% endif %}

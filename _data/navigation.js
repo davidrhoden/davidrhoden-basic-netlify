@@ -64,14 +64,19 @@ module.exports = [
     heading: "Other stuff",
     links: [
       {
-        title: "Notes/Now",
-        url: "/notes/",
-        tooltip: "Immediate thoughts on the news, technology, or whatever I want to write about."
+        title: "About",
+        url: "/about/",
+        tooltip: "A brief introductory narrative. With pictures."
       },
       {
         title: "Things I Like",
         url: "/things-i-like/",
         tooltip: "Artistic influences, books I read, movies I saw, toys, labels, weird stuff I found in the street."
+      },
+      {
+        title: "Notes/Now",
+        url: "/notes/",
+        tooltip: "Immediate thoughts on the news, technology, or whatever I want to write about."
       },
       {
         title: "Journal",
@@ -84,11 +89,6 @@ module.exports = [
         tooltip: "All posts, sorted by every subject I've covered on this website."
       },
       {
-        title: "About",
-        url: "/about/",
-        tooltip: "A brief introductory narrative. With pictures."
-      },
-      {
         title: "Press",
         url: "/press/",
         tooltip: "I get interviewed by newspapers and magazines from time to time. Yes, it's true."
@@ -96,7 +96,12 @@ module.exports = [
       {
         title: "Get in touch",
         url: "/contact/",
-        tooltip: "Send me a message, or sign up for my (very fun and infrequent) online newsletter."
+        tooltip: "Send me a message, or sign up for my (fun and infrequent) online newsletter."
+      },
+            {
+        title: "Newsletter",
+        url: "/newsletters/",
+        tooltip: "My (fun and infrequent) online newsletter archives are here."
       }
     ]
   }
