@@ -11,9 +11,9 @@ tags:
   - Ariel Farrar
   - Melanie K.
   - Blossom Dearie
-  - '"Rhode Island Is Famous For You"'
+  - "Rhode Island Is Famous For You"
   - Charles Wright and The Watts 103rd St. Rhythm Band
-  - '"Love Land"'
+  - "Love Land"
   - coconut icing
 
 ---
