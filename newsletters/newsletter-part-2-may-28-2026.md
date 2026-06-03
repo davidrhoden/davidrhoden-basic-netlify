@@ -23,15 +23,15 @@ tags:
 
 Just been doing my lil' karaoke people on chunks of scrap wood, something I have a lot of and a desire to get rid of.
 
-![karaoke cartoon of The Kinks "Come Dancing"](/static/img/karaoke/come-dancing-may-21-2026.jpeg?w=960&fit=max)
+![karaoke cartoon of The Kinks "Come Dancing"](/static/img/karaoke/come-dancing-may-21-2026.jpeg)
 
-![karaoke cartoon of Steve Miller Band's "Abracadabra"](/static/img/karaoke/abracadabra-wood-may-19-2026.jpeg?w=960&fit=max)
+![karaoke cartoon of Steve Miller Band's "Abracadabra"](/static/img/karaoke/abracadabra-wood-may-19-2026.jpeg)
 
-![karaoke cartoon of Peaches and Herb's "Shake Your Groove Thing"](/static/img/karaoke/shake-your-groove-thing-wood-may-17-2026.jpeg?w=960&fit=max)
+![karaoke cartoon of Peaches and Herb's "Shake Your Groove Thing"](/static/img/karaoke/shake-your-groove-thing-wood-may-17-2026.jpeg)
 
 <hr>
 
-![Karaoke Sketches #4 zine](/static/img/karaoke/karaoke-sketches-4-feb-25-2026.jpeg?w=960&fit=max)
+![Karaoke Sketches #4 zine](/static/img/karaoke/karaoke-sketches-4-feb-25-2026.jpeg)
 
 Also, dear subscribers:
 If you subscribed because I said I would send you a free fanzine of my karaoke cartoons, and I _DIDN'T_ send you a free fanzine of my ridiculous karaoke cartoons, PLEASE drop me an e-mail, or reply to this one, so I can correct the situation. I've been one poor correspondent, and I've been too, too hard to find, but that doesn't mean you ain't been on my mind.
