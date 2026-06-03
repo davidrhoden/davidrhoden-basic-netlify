@@ -2,7 +2,7 @@
 title: Dave Rhoden's Computer Newsletter, June 2026, Part I
 date: 2026-06-01T00:00:00
 excerpt: Here it is, that "infrequent" newsletter I told you you'd be getting from me! I really do send it sometimes! Thanks for waiting.
-image: /static/img/social-share/computer-newsletter-social-share-1200x630-cyan-jun-1-2026.png
+image: /static/img/social-share/computer-newsletter-social-share-1200x630-jun-1-2026.png
 tags:
   - newsletter
   - David Rhoden's Computer Newsletter
@@ -25,7 +25,7 @@ Just been doing my lil' karaoke people on chunks of scrap wood, something I have
 
 ![karaoke cartoon of The Kinks "Come Dancing"](/static/img/karaoke/come-dancing-may-21-2026.jpeg?w=960&fit=max)
 
-![karaoke cartoon of Steve Miller Band's "Abracadabra"](//Users/davidrhoden/Sites/davidrhoden-basic-netlify/static/img/karaoke/abracadabra-wood-may-19-2026.jpegg?w=960&fit=max)
+![karaoke cartoon of Steve Miller Band's "Abracadabra"](//Users/davidrhoden/Sites/davidrhoden-basic-netlify/static/img/karaoke/abracadabra-wood-may-19-2026.jpeg?w=960&fit=max)
 
 ![karaoke cartoon of Peaches and Herb's "Shake Your Groove Thing"](/static/img/karaoke/shake-your-groove-thing-wood-may-17-2026.jpeg?w=960&fit=max)
 
