@@ -4,6 +4,6 @@ section: newsletters
 pageClasses: newsletters-index
 ---
 
-{% set postslist = collections.newsletter | reverse %}
+{% set postslist = collections.newsletter %}
 {% include "components/tagslist-short.njk" %}
 {{ content | safe }}
