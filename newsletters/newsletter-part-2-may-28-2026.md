@@ -1,17 +1,37 @@
+---
+title: Dave Rhoden's Computer Newsletter, June 2026, Part II
+date: 2026-06-01T00:00:00
+excerpt: Here it is, that "infrequent" newsletter I told you you'd be getting from me! I really do send it sometimes! Thanks for waiting.
+image: /static/img/social-share/computer-newsletter-social-share-1200x630-cyan-jun-1-2026.png
+tags:
+  - newsletter
+  - David Rhoden's Computer Newsletter
+  - art markets
+  - Arabi
+  - Louisiana
+  - "Stop Laughing"
+  - "Chap"
+  - paintings
+  - cats
+  - Shadow
+  - Buddy
+  - t-shirts
+
+---
 
 **THE SCRIBBLING CONTINUES**
 
 Just been doing my lil' karaoke people on chunks of scrap wood, something I have a lot of and a desire to get rid of.
 
-![karaoke cartoon of The Kinks "Come Dancing"](https://assets.buttondown.email/images/f47e477b-d774-4ac9-8e59-d8629e3c2b1f.jpeg?w=960&fit=max)
+![karaoke cartoon of The Kinks "Come Dancing"](/static/img/karaoke/come-dancing-may-21-2026.jpeg?w=960&fit=max)
 
-![karaoke cartoon of Steve Miller Band's "Abracadabra"](https://assets.buttondown.email/images/f80891a4-eb7f-4ec1-987d-4803c4335a31.jpeg?w=960&fit=max)
+![karaoke cartoon of Steve Miller Band's "Abracadabra"](//Users/davidrhoden/Sites/davidrhoden-basic-netlify/static/img/karaoke/abracadabra-wood-may-19-2026.jpegg?w=960&fit=max)
 
-![karaoke cartoon of Peaches and Herb's "Shake Your Groove Thing"](https://assets.buttondown.email/images/a306d02e-2dc1-4912-a4b1-3873911c7ceb.jpeg?w=960&fit=max)
+![karaoke cartoon of Peaches and Herb's "Shake Your Groove Thing"](/static/img/karaoke/shake-your-groove-thing-wood-may-17-2026.jpeg?w=960&fit=max)
 
 <hr>
 
-![Karaoke Sketches #4 zine](https://assets.buttondown.email/images/57247a0b-54f0-44aa-a4b8-67887b271f4e.jpeg?w=960&fit=max)
+![Karaoke Sketches #4 zine](/static/img/karaoke/karaoke-sketches-4-feb-25-2026.jpeg?w=960&fit=max)
 
 Also, dear subscribers:
 If you subscribed because I said I would send you a free fanzine of my karaoke cartoons, and I _DIDN'T_ send you a free fanzine of my ridiculous karaoke cartoons, PLEASE drop me an e-mail, or reply to this one, so I can correct the situation. I've been one poor correspondent, and I've been too, too hard to find, but that doesn't mean you ain't been on my mind.
@@ -22,27 +42,27 @@ Also, if you signed up so long ago that karaoke zines weren't a thing yet, e-mai
 
 **SKELETON ARTWORK VANDALIZED**
 
-![skeleton artwork vandalized](https://davidrhoden.com//static/img/timeline/skeletons-2025/skeleton-vandalized-dec-24-2025.jpg)
+![skeleton artwork vandalized](/static/img/timeline/skeletons-2025/skeleton-vandalized-dec-24-2025.jpg)
 
 Around Christmas Eve, I got a text from Rel saying she had bad news. A deranged man had come on her porch and basically fought with the Crop Failure 2038 skeleton. He broke it into three main pieces. (She said her porch wasn't the only one targeted--this guy tore stuff up all down the block.) My heart sank, but when I saw the pieces I thought I could fix it.
 
-![skeleton artwork parts in truck bed](https://davidrhoden.com/static/img/timeline/skeletons-2025/skeleton-parts-in-truck-bed-dec-24-2025.jpg)
+![skeleton artwork parts in truck bed](/static/img/timeline/skeletons-2025/skeleton-parts-in-truck-bed-dec-24-2025.jpg)
 
 Rel was having a party December 27, and I got it back up by then. I was a bit hasty with the repairs. They could be better, maybe someday they will be, but for now he's hanging on the front of the house again.
 
-![skeleton artwork repairs seen from back. Lots of screws.](https://davidrhoden.com/static/img/timeline/skeletons-2025/skeleton-repairs-back-dec-26-2025.jpg)
+![skeleton artwork repairs seen from back. Lots of screws.](/static/img/timeline/skeletons-2025/skeleton-repairs-back-dec-26-2025.jpg)
 
-![skeleton artwork repairs seen from front](https://davidrhoden.com/static/img/timeline/skeletons-2025/skeleton-repairs-front-1-dec-26-2025.jpg)
+![skeleton artwork repairs seen from front](/static/img/timeline/skeletons-2025/skeleton-repairs-front-1-dec-26-2025.jpg)
 
 <hr>
 
 **REPAINTED THE STACKS DRUM HEAD**
 
-![Stacks front kick drum head, painted green today](https://davidrhoden.com/static/img/rock/stacks/stacks-drum-head-green-may-22-2026.jpeg)
+![Stacks front kick drum head, painted green today](/static/img/rock/stacks/stacks-drum-head-green-may-22-2026.jpeg)
 
 This kick drum front head was colored green when we used it in 2005:
 
-![Drum head lit up June 8 2005 with similar hand lettering](https://davidrhoden.com/static/img/rock/stacks/stacks-circle-bar-jul-8-2005/stacks-cool-drum-head-jul-8-2005.jpg)
+![Drum head lit up June 8 2005 with similar hand lettering](/static/img/rock/stacks/stacks-circle-bar-jul-8-2005/stacks-cool-drum-head-jul-8-2005.jpg)
 
 During Hurricane Katrina, though, it floated around in Steve and Nicola's basement, and I guess all the green coloring came off. (It was Dr. Ph. Martin's Radiant Water Color. I think the color was Apple Green, but the label fell off this morning, and I threw it away.) I've owned this art supply since about 1993. My SVA teacher Arnie Levin told me this was the stuff to get. It still isn't used up. I thought I might not have enough in the little bottle to finish this job but it only required four droppersful. I've still got a half a bottle left. Maybe that fear of running out of something easy to replace is what made me wait twenty-one years to do this task that took less than five minutes.
 
@@ -52,7 +72,7 @@ I recently saw, on Facebook, advertising for an estate sale at an artist's house
 
 Extra note: I was kind of into these squarish block letters at the time. (See blue poster.)
 
-![Poster from June 8 2005 with similar hand lettering](https://davidrhoden.com/static/img/rock/stacks/stacks-circle-bar-jul-8-2005/stacks-circle-bar-jul-8-2005-220.jpg)
+![Poster from June 8 2005 with similar hand lettering](/static/img/rock/stacks/stacks-circle-bar-jul-8-2005/stacks-circle-bar-jul-8-2005-220.jpg)
 
 <hr>
 
@@ -62,7 +82,7 @@ I was excited to sign this petition, which, if it succeeds, would allow the citi
 
 I forgot to take any pictures of the hundreds of people waiting patiently in line for a chance to sign a piece of paper saying we don't like our alleged governor and want him to go away, but I did snap a pic of this plaque.
 
-![thrift-store plaque that says "well, butter my biscuits". ("Butter my biscuits" is a lyric from the Jimmy and The Wolfpack hit "Barnyard Boogie".)](https://davidrhoden.com/static/img/timeline/butter-my-biscuits-plaque-may-12-2026.jpeg)
+![thrift-store plaque that says "well, butter my biscuits". ("Butter my biscuits" is a lyric from the Jimmy and The Wolfpack hit "Barnyard Boogie".)](/static/img/timeline/butter-my-biscuits-plaque-may-12-2026.jpeg)
 
 
 **I HAD A KILLER BIRTHDAY PARTY THROWN FOR ME**

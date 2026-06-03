@@ -1,0 +1,9 @@
+---
+layout: layouts/base.njk
+section: newsletters
+pageClasses: newsletters-index
+---
+
+{% set postslist = collections.newsletter | reverse %}
+{% include "components/tagslist-short.njk" %}
+{{ content | safe }}

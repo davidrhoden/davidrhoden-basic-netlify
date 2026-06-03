@@ -1,0 +1,6 @@
+{
+  "layout": "layouts/timeline.njk",
+  "permalink": "newsletters/{{ title | slugify }}/index.html",
+  "tags": ["newsletter"],
+  "section": "newsletters"
+}
