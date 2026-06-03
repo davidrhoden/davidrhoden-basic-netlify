@@ -43,7 +43,7 @@ I'd love to send you one. If you want one, just email me your mailing address. I
 I've got a few recent paintings to sell as well.
 Here's a karaoke-based one (the lyric is from the theme song to _Grease_).
 
-![woman singing theme song to Grease, painted on plywood by David Rhoden](/static/img/paintings/conventionality-oct-2023-1200.jpg)
+![woman singing theme song to Grease, painted on plywood by David Rhoden](/static/img/paintings/conventionality-block-oct-2023-223k.jpg)
 Conventionality Belongs To Yesterday<br>
 16" x 24"<br>
 enamel on plywood
@@ -52,7 +52,7 @@ It's $210, but mention you saw it here and it's **$180**.
 
 If you're like me and you enjoy paintings of industrial equipment, you'll love hanging this painting of a forklift on your wall. 
 
-![painting of forklift by David Rhoden](https://thisismyhappening.com/static/img/paintings/forklift-nov-19-2023.jpg)
+![painting of forklift by David Rhoden](/static/img/paintings/forklift-nov-19-2023.jpg)
 
 Forklift<br>
 40" x 30"<br>
