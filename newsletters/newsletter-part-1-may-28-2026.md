@@ -27,7 +27,7 @@ Here it is, that "infrequent" newsletter I told you you'd be getting from me! I 
 
 I did an art market in Arabi, Louisiana, a town just outside of New Orleans, meaning a ten-block drive from the crib. I built a big honkin' collapsible apparatus out of two-by-fours and long bolts to hang my pitchers on, and I paid a $25 fee to be part of the festivities, but I sold ONE painting (that little monster with a lot of eyes!) for $90, so I came out $5 to $10 bucks ahead for the day.
 
-[![Dave Rhoden looking extremely ill-at-ease but smiling because he's being photographed at an art market](https://assets.buttondown.email/images/573b35f4-85a2-4398-b4f0-41941d04abfd.jpeg?w=960&fit=max)](/timeline/i-participated-successfully-in-an-arts-market/)
+[![Dave Rhoden looking extremely ill-at-ease but smiling because he's being photographed at an art market](static/img/timeline/david-at-arabi-arts-park-apr-11-2026.jpeg?w=960&fit=max)](/timeline/i-participated-successfully-in-an-arts-market/)
 
 I was so happy to sell it! The buyer seemed excited, I think the lil' monster went to a good home.
 
@@ -39,7 +39,7 @@ Actually not much. But there's a couple:
 
 You know you need this.
 
-[![Chap painting by David Rhoden](https://thisismyhappening.com/static/img/paintings/chap-jan-4-2026.jpg)](https://thisismyhappening.com/paintings/chap/)
+[![Chap painting by David Rhoden](/static/img/paintings/chap-jan-4-2026.jpg)](https://thisismyhappening.com/paintings/chap/)
 
 I call this one "Chap".
 
