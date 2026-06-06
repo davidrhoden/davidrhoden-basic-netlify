@@ -1,13 +1,22 @@
-const { DateTime } = require("luxon");
-const slugify = require("slugify");
-const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
-const path = require("path");
-const { execSync } = require('child_process');
-const pluginRss = require("@11ty/eleventy-plugin-rss");
+import { DateTime } from "luxon";
+import slugify from "slugify";
+import eleventyNavigationPlugin from "@11ty/eleventy-navigation";
+import path from "path";
+import { execSync } from 'child_process';
+import pluginRss from "@11ty/eleventy-plugin-rss";
+import fs from 'fs';
+import markdownIt from "markdown-it";
+import markdownItAnchor from "markdown-it-anchor";
+import { eleventyImageTransformPlugin } from "@11ty/eleventy-img";
+import { fileURLToPath } from 'url';
+
+// ES module equivalent of __dirname
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
 const is_production = typeof process.env.NODE_ENV === "string" && process.env.NODE_ENV === "production";
 
-module.exports = function (eleventyConfig) {
+export default function (eleventyConfig) {
 
   eleventyConfig.on('eleventy.after', () => {
       execSync(`npx pagefind --site _site --glob \"**/*.html\"`, { encoding: 'utf-8' })
@@ -32,6 +41,24 @@ module.exports = function (eleventyConfig) {
         email: "david@davidrhoden.com", // Optional
       }
     }
+  });
+
+  // Image optimization: https://www.11ty.dev/docs/plugins/image/#eleventy-transform
+  eleventyConfig.addPlugin(eleventyImageTransformPlugin, {
+    // Output formats for each image.
+    formats: ["avif", "webp", "auto"],
+    // widths: ["auto"],
+    failOnError: false,
+    htmlOptions: {
+      imgAttributes: {
+        // e.g. <img loading decoding> assigned on the HTML tag will override these values.
+        loading: "lazy",
+        decoding: "async",
+      }
+    },
+    sharpOptions: {
+      animated: true,
+    },
   });
 
   // https://www.11ty.dev/docs/data-deep-merge/
@@ -66,7 +93,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addFilter(
     "relative",
     (page, root = "/") =>
-      `${require("path").relative(page.filePathStem, root)}/`,
+      `${path.relative(page.filePathStem, root)}/`,
   );
 
   eleventyConfig.addCollection("bySize", (collectionApi) => {
@@ -190,8 +217,6 @@ module.exports = function (eleventyConfig) {
 
   // Filter to get all images from a directory
   eleventyConfig.addFilter("getImagesFromDir", function(dirPath) {
-    const fs = require('fs');
-    const path = require('path');
     const imageExtensions = ['.jpg', '.jpeg', '.png', '.gif', '.webp', '.svg', '.bmp'];
     
     try {
@@ -245,8 +270,6 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("singapore.html");
 
   /* Markdown Plugins */
-  let markdownIt = require("markdown-it");
-  let markdownItAnchor = require("markdown-it-anchor");
   let options = {
     html: true,
     breaks: true,

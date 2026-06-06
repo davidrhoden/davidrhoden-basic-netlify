@@ -2,6 +2,7 @@
   "name": "davidrhoden-basic-netlify",
   "version": "1.0.0",
   "description": "This is my website. https://davidrhoden.com.",
+  "type": "module",
   "scripts": {
     "build": "npx eleventy",
     "watch": "npx eleventy --watch",
@@ -35,6 +36,7 @@
     "pagefind": "^1.1.1"
   },
   "dependencies": {
+    "@11ty/eleventy-img": "^6.0.4",
     "@11ty/eleventy-navigation": "^0.3.2",
     "aos": "^2.3.4",
     "clean-css": "^5.3.3",
@@ -42,7 +44,6 @@
     "magnific-popup": "^1.1.0",
     "moment": "^2.29.2",
     "path": "^0.12.7",
-    "sharp": "^0.32.6",
     "slugify": "^1.6.3",
     "terser": "^5.44.0"
   }

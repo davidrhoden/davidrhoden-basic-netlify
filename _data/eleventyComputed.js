@@ -1,4 +1,4 @@
-module.exports = {
+export default {
   schemaorg: (data) => {
     const graph = [
       {

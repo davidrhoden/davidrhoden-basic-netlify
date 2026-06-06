@@ -1,4 +1,4 @@
-module.exports = [
+export default [
   {
     heading: "Art",
     links: [
