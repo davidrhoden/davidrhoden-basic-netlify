@@ -1,19 +1,18 @@
 ---
 title: Resumé
-date: 2026-05-01T00:00:00.000Z
+date: 2026-06-05T00:00:00.000Z
 permalink: /resume/index.html
 bodyClass: "resume"
 excerpt: "The resume of David Rhoden, a web developer, web designer, and digital art director, currently based in New Orleans."
 ---
 
-<p><a href="/static/pdf/resume-davidrhoden-apr-20-2026.pdf" target="_blank">download in PDF format</a></p>
+<p><a href="/static/pdf/resume-davidrhoden-jun-5-2026.pdf" target="_blank">download in PDF format</a></p>
 <div class="resume">
 <div class="resume-header">
   <p><span>David Rhoden</span><br>
     <span>315 Tricou Street, New Orleans, Louisiana 70117</span><span>504-812-8475</span><span>david@davidrhoden.com</span></p>
 </div>
 
-<div class="resume-two-column">
   <div class="resume-main">
     <p class="position">Professional Summary</p>
     <p class="highlights">Experienced full-stack developer with a concentration in implementing design. Back-end concentration in PHP/MySQL, and also experienced in Ruby/PostgreSQL.Well-versed in many content management systems, including Wordpress, CraftCMS, Yii, Eleventy, and Drupal. Additionally, an expert in banner animation.</p>
@@ -49,10 +48,6 @@ excerpt: "The resume of David Rhoden, a web developer, web designer, and digital
     <p class="education"><b>Education</b><br>
     BA, English, University of Tennessee, Knoxville.</p>
     <p class="portfolio">My online portfolio is at <a href="https://davidrhoden.com"><b>https://davidrhoden.com</b></a>.</p>
-
-  </div>
-
-  <div class="resume-sidebar">
     <p class="position">Web Technology</p>
     <ul>
       <li>CSS/HTML</li>
@@ -83,5 +78,4 @@ excerpt: "The resume of David Rhoden, a web developer, web designer, and digital
       <li>Paper</li>
     </ul>
   </div>
-</div>
 </div>
