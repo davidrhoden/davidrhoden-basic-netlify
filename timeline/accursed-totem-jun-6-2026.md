@@ -26,6 +26,6 @@ I'm not touching it. Seems like nobody else is either. It's got the number-one h
 <figcaption>Narcan inhaler stuck in accursèd totem on Tricou Street, Holy Cross, New Orleans. Photo by David Rhoden.</figcaption>
 
 ![Narcan inhaler stuck in accursèd totem on Tricou Street, Holy Cross, New Orleans. Photo by David Rhoden.](/static/img/timeline/accursed-totem-jun-6-2026/accursed-totem-narcan-2-jun-4-2026.jpeg)
-![Accursèd totem on Tricou Street, Holy Cross, New Orleans. Photo by David Rhoden.](/static/img/timeline/accursed-totem-jun-6-2026/accursed-totem-4-jun-3-2026.jpeg)
+![Accursèd totem on Tricou Street, Holy Cross, New Orleans. Photo by David Rhoden.](/static/img/timeline/accursed-totem-jun-6-2026/accursed-totem-4-jun-4-2026.jpeg)
 ![Accursèd totem on Tricou Street, Holy Cross, New Orleans. Photo by David Rhoden.](/static/img/timeline/accursed-totem-jun-6-2026/accursed-totem-5-jun-4-2026.jpeg)
 
