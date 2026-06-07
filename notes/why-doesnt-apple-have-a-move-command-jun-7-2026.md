@@ -17,7 +17,7 @@ I'm gonna give you a litttle glimpse into my working methods. This screenshot be
 
 ![screenshot showing the /static/img/ folder of my website](/static/img/notes/why-doesnt-apple-have-move-1-jun-7-2026.png)
 
-This highlighted images belongs in the "/illustrations/" subfolderr, which is not visible in this view of the folder. Apple wants me to drag the file to the /illustraions/ folder, but since it's not visible, I have to stop working, expand the window, and I still might have to scroll to display the /illustrations/ folder by which point my file might be scrolled out of view. Instead of doing that, I would like to be able to right click on the file, slect the "Move..." command, and then navigate to the /illustrations/ folder. That way I only have to move one finger to put the file where it belongs, instead of all that other stuff.
+This highlighted images belongs in the "/illustrations/" subfolder, which is not visible in this view of the folder. Apple wants me to drag the file to the /illustraions/ folder, but since it's not visible, I have to stop working, expand the window, and I still might have to scroll to display the /illustrations/ folder by which point my file might be scrolled out of view. Instead of doing that, I would like to be able to right click on the file, select the "Move..." command, and then navigate to the /illustrations/ folder. That way I only have to move one finger to put the file where it belongs, instead of all that other stuff.
 
 But as you can see, there is no "Move..." command in the right-click contextual menu.
 
