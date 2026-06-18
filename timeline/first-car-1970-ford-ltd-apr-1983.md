@@ -8,6 +8,7 @@ tags:
   - Chattanooga
   - Tennessee
   - cars
+  - cars, my
   - 1970 Ford LTD
   - Ford Motor Company
   - flip-up headlights
@@ -24,6 +25,6 @@ tags:
 
 I got my first car shortly after I got my driver's license. I didn't pay for it; my father did. It was $400. It was a 1970 Ford LTD with a large and powerful engine.
 
-It had a clear bumper sticker on the inside of the window letting us know that a previous driver attended or supported Tennessee Temple University, an uptight Christian college near Downtown Chattanooga. It had a fountain on campus that was right on the beaten path (Bailey Avenue, one of the main thoroughfares of town). This fountain was almost always full of suds on the weekend, thanks to the bored kids of Chattanooga (not me). I got harassed by a fat rent-acop in Shpherd Hills for having this sticker though I was not a student; he regarded this misrepresentation as dishonest and possibly a crime. So I decided to pull it off. It was nearly impossible to remove and the odor of the tortured adhesive was so noxious, and really never went away.
+It had a clear bumper sticker on the inside of the window letting us know that a previous driver attended or supported Tennessee Temple University, an uptight Christian college near Downtown Chattanooga. It had a fountain on campus that was right on the beaten path (Bailey Avenue, one of the main thoroughfares of town). This fountain was almost always full of suds on the weekend, thanks to the bored kids of Chattanooga (not me though). I got harassed by a fat rent-a-cop in Shepherd Hills for having this sticker though I was not a student; he regarded this misrepresentation as dishonest and possibly a crime. So I decided to pull it off. It was nearly impossible to remove and the odor of the tortured adhesive was so noxious, and really never went away.
 
-It was a good car that could go really fast on the highway. You had to put it in Low to drive it down the mountain or risk burning up the brake shoes (heavy vehicle). It was hard to start after dark, for some reason. It had flip-up headlights that seemed to cause battery drain. OH, it took Regular (leaded) which you could still get, but not everywhere.
+It was a good car that could go really fast on the highway. You had to put it in Low to drive it down the mountain or risk burning up the brake shoes (heavy vehicle). It was hard to start after dark, for some reason. It had flip-up headlights that seemed to cause battery drain. Oh, it took Regular (leaded) gas, which you could still get in 1983, but not everywhere.
