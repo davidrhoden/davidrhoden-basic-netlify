@@ -6,12 +6,6 @@ section: things-i-like
 <article data-pagefind-body>
   <p class="section-label">THINGS I LIKE</p>
 
-  {%- if image %}
-  <figure class="things-i-like-image">
-    <img src="{{ image }}" alt="{{ title }}">
-  </figure>
-  {%- endif %}
-
   <h1>{{ title }}</h1>
 
   {{ content | safe }}
