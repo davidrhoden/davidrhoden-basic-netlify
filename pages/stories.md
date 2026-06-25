@@ -323,15 +323,15 @@ Found out one of my friends stole from another friend.
 
 Worked at Davis-Kidd Booksellers.
 
-Rode the bus almost daily with a mad who was covered with what appeared to be warts.
+Rode the bus almost daily with a man who was covered with what appeared to be warts.
 
-Read Cormac McCarthy on the bus, but not sure what book.
+Read Cormac McCarthy on the bus, but not sure what book. (I think it was Blood Meridian.)
 
-Got embarassed by Pat Price for singing I'm In The Mood For Love.
+Got embarassed by Pat Price for singing "I'm In The Mood For Love".
 
 Accidentally commented on a co-worker's eczema.
 
-Refused to sell porn to underage girls.
+Refused to sell Playboy to underage girls.
 
 Worked with a descendent of Goethe.
 
