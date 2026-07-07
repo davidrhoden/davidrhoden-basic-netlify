@@ -29,8 +29,6 @@ It's interesting to imagine the life of someone who chooses the military as a wa
 
 The penultimate song chosen to accompany the massive climax was Chicago's "25 or 6 to 4", not a standard patriotic number but it's darned American.
 
-![Kathryn Dobyns sings 25 or 6 to 4, July, 4, 2026.](/static/img/timeline/dc-fireworks-jul-4-2026/kathryn-dobyns-belts-jul-4-2026.jpeg)
-
 ![Kathryn Dobyns sings 25 or 6 to 4, July, 4, 2026.](/static/img/timeline/dc-fireworks-jul-4-2026/kathryn-dobyns-really-belts-jul-4-2026.jpeg)
 
 ![President of the United States of America being bored, watching a girl watching her phone, July 4, 2026.](/static/img/timeline/dc-fireworks-jul-4-2026/president-watching-a-girl-on-her-phone-jul-4-2026.jpeg)
@@ -45,7 +43,7 @@ And just before the big bang, we got to hear a rousing version of Journey's "Don
 
 ![An absolutely thumb-faced fellow watches fireworks, July 4, 2026.](/static/img/timeline/dc-fireworks-jul-4-2026/thumb-face-jul-4-2026.jpeg)
 
-At last the ground-shaking, smoky _dénouement_ arrived. I understand the data scientists who produce the Guinness Book of World Records will be determining whther this conflagration warrants a mention in their publication.
+At last the ground-shaking, smoky _dénouement_ arrived. I understand the data scientists who produce the Guinness Book of World Records will be determining whether this conflagration warrants a mention in their publication.
 
 ![Shock and awe rules Washington, D.C., July 4, 2026.](/static/img/timeline/dc-fireworks-jul-4-2026/shock-and-awe-in-dc-jul-4-2026.jpeg)
 
