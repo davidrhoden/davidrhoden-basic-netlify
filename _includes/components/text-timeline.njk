@@ -27,6 +27,8 @@
           <div class="thumbnail-container">
             {% if post.data.image %}
               <a href="{{ post.url }}"><img onerror="this.style.display='none'" class="thumbnail" src="{{ post.data.image }}?nf_resize=fit&w=320" alt="{{post.data.title}}"></a>
+            {% elif post.data.excerpt %}
+              <p class="timeline-text-preview">{{ post.data.excerpt }}</p>
             {% endif %}
           </div>
         </div>
