@@ -149,7 +149,7 @@ h1 {
 
 .entry-date {
   flex-shrink: 0;
-  width: 68px;
+  width: 100px;
   text-align: right;
 }
 
