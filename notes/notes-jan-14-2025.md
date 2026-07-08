@@ -3,7 +3,7 @@ title: Well, that was a weird year.
 date: 2025-01-04T00:00:00
 excerpt: A summary of my 2024.
 summary: A summary of my 2024.
-image: 
+image: https://assets.buttondown.email/images/d41b039f-b5fc-4028-9f2f-da21aef908e9.jpeg
 tags:
   - notes
   - Buddy
