@@ -62,6 +62,12 @@
     grid-area: summary;
   }
 
+  #timeline-detail .timeline-text-preview {
+    font-size: 1.2em;
+    line-height: 1.6;
+    padding: 1em;
+  }
+
   #timeline-list {
     grid-area: timeline-list;
   }
