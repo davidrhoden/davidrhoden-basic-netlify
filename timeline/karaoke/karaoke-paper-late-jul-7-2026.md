@@ -11,7 +11,7 @@ tags:
 
 ---
 
-![Cartoon by David Rhoden of man singing Genesis' "Paperlate" on an imaginary home karaoke machine. Cartoon is on a piece of painted plywood/](/static/img/karaoke/paper-late-jul-7-2026.jpeg)
+![Cartoon by David Rhoden of man singing Genesis' "Paperlate" on an imaginary home karaoke machine. Cartoon is on a piece of painted plywood.](/static/img/karaoke/paper-late-jul-7-2026.jpeg)
 
 I was shocked to find the lyric really is "paper late, paper late". I just assumed I was hearing it wrong.
 
