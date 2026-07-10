@@ -178,6 +178,12 @@ export default function (eleventyConfig) {
 
   eleventyConfig.addFilter("arraySlice", (arr, start, end) => (arr || []).slice(start, end));
 
+  eleventyConfig.addFilter("firstNonAnnouncement", (arr) =>
+    [...(arr || [])].reverse().find(post => !post.data.announcement) || null);
+
+  eleventyConfig.addFilter("firstAnnouncement", (arr) =>
+    [...(arr || [])].reverse().find(post => post.data.announcement) || null);
+
   // Create an array of all tags
   eleventyConfig.addCollection("tagList", function (collection) {
     let tagSet = new Set();
