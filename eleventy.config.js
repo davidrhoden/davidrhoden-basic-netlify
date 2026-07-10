@@ -176,6 +176,8 @@ export default function (eleventyConfig) {
 
   eleventyConfig.addFilter("isFuture", (date) => new Date(date) > new Date());
 
+  eleventyConfig.addFilter("arraySlice", (arr, start, end) => (arr || []).slice(start, end));
+
   // Create an array of all tags
   eleventyConfig.addCollection("tagList", function (collection) {
     let tagSet = new Set();

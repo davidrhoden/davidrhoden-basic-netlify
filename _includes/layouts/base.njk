@@ -3,7 +3,7 @@
   {% include "components/head.njk" %}
   <body class="{% if pageType %}{{ pageType }} {% endif %}{{ page.fileSlug }}{% if pageClasses %} {{ pageClasses }}{% endif %} {{ bodyClass }}">
     {% include "components/header.njk" %}
-    <main>
+    <main id="main-content">
           <div class="container">
               {{ content | safe }}
           </div>
