@@ -6,8 +6,8 @@
       <div class="recent-posts-viewport">
         <div class="recent-posts-track">
           {%- set totalPosts = collections[collectionName] | length %}
-          {%- for post in collections[collectionName] %}
-            {%- if loop.index > (totalPosts - 16) and loop.index <= (totalPosts - 1) %}
+          {%- set recentPosts = collections[collectionName] | arraySlice(totalPosts - 16, totalPosts - 1) %}
+          {%- for post in recentPosts %}
             <article class="recent-post-card">
               <p class="post-type-label">{% if "note" in post.data.tags %}NOTES{% else %}JOURNAL{% endif %}</p>
               <a class="recent-post-link" href="{{ post.url }}">
@@ -33,7 +33,6 @@
                 </div>
               </a>
             </article>
-            {%- endif %}
           {%- endfor %}
         </div>
       </div>
