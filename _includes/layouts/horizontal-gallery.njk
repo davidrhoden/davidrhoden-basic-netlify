@@ -7,7 +7,7 @@
         <h1>{{ title }}</h1>
         {{ content | safe }}
       </article>
-      <main class="horizontal-gallery-main">
+      <main id="main-content" class="horizontal-gallery-main">
         <div class="horizontal-gallery-container">
           
           {%- if useDataFile and dataFile %}
@@ -122,19 +122,104 @@
         });
       </script>
       
-      <!-- MicroModal for mailing list signup -->
-      <div class="modal micromodal-slide micromodal-slide-up" id="modal-onetalker" aria-hidden="true">
-        <div class="modal__overlay" tabindex="-1" data-micromodal-close>
-          <div class="modal__container onetalker-modal-container" role="dialog" aria-modal="true" aria-labelledby="modal-onetalker-title">
-            <header class="modal__header">
-              <span class="modal__title" id="modal-onetalker-title">Join My Mailing List</span>
-              <button class="modal__btn modal__btn-primary" data-micromodal-close aria-label="Close">Close</button>
-            </header>
-            <main class="modal__content" id="modal-onetalker-content">
-              {% include "components/buttondown.njk" %}
-            </main>
+      {% if downloadPdf %}
+      <script>var pdfWidgetImages = {{ downloadPdfImages | dump | safe }};</script>
+      <div class="pdf-widget-container">
+        <a class="pdf-widget" href="{{ downloadPdf }}" target="_blank" rel="noopener" aria-label="{{ downloadPdfText }}">
+          <svg class="pdf-widget-ring" viewBox="0 0 180 180" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+            <defs>
+              <path id="pdf-text-path" d="M 90,90 m -78,0 a 78,78 0 1,1 156,0 a 78,78 0 1,1 -156,0"/>
+            </defs>
+            <text font-size="10" letter-spacing="5" fill="#1a3a5c" font-family="var(--font-secondary, sans-serif)" font-weight="700">
+              <textPath href="#pdf-text-path">CLICK HERE TO DOWNLOAD MY PDF PORTFOLIO •</textPath>
+            </text>
+          </svg>
+          <div class="pdf-widget-image-wrap">
+            <img class="pdf-widget-image" src="{{ downloadPdfImage }}" alt="{{ downloadPdfImageAlt }}">
           </div>
-        </div>
+          <div class="pdf-widget-shine" aria-hidden="true"></div>
+        </a>
       </div>
+      <script>
+        (function () {
+          var container = document.querySelector('.pdf-widget-container');
+          if (!container) return;
+
+          // --- Image cycling ---
+          // The eleventy-img transform wraps <img> in <picture><source>…</picture>.
+          // Changing img.src alone does nothing because the browser prefers <source>.
+          // Fix: strip the <source> elements on first swap so img.src takes over.
+          var wrap = container.querySelector('.pdf-widget-image-wrap');
+          var images = window.pdfWidgetImages || [];
+          var index = 0;
+
+          function updateImage(path) {
+            wrap.querySelectorAll('source').forEach(function (s) { s.parentNode.removeChild(s); });
+            var img = wrap.querySelector('img');
+            if (img) img.src = path;
+          }
+
+          if (images.length > 1) {
+            var duration = 3500;
+            var snapPoint = Math.round(duration * 0.8);
+            (function cycle() {
+              setTimeout(function () {
+                index = (index + 1) % images.length;
+                updateImage(images[index]);
+                setTimeout(cycle, duration - snapPoint);
+              }, snapPoint);
+            })();
+          }
+
+          // --- Drag ---
+          var isDragging = false;
+          var hasDragged = false;
+          var startX, startY, startLeft, startTop;
+
+          container.addEventListener('pointerdown', function (e) {
+            e.preventDefault();
+            var rect = container.getBoundingClientRect();
+            container.style.left   = rect.left + 'px';
+            container.style.top    = rect.top  + 'px';
+            container.style.right  = 'auto';
+            container.style.bottom = 'auto';
+            container.classList.add('is-dragging');
+            startX = e.clientX;
+            startY = e.clientY;
+            startLeft = rect.left;
+            startTop  = rect.top;
+            isDragging = true;
+            hasDragged = false;
+            container.setPointerCapture(e.pointerId);
+          });
+
+          container.addEventListener('pointermove', function (e) {
+            if (!isDragging) return;
+            var dx = e.clientX - startX;
+            var dy = e.clientY - startY;
+            if (Math.abs(dx) > 3 || Math.abs(dy) > 3) hasDragged = true;
+            container.style.left = (startLeft + dx) + 'px';
+            container.style.top  = (startTop  + dy) + 'px';
+          });
+
+          container.addEventListener('pointerup', function () {
+            isDragging = false;
+            container.classList.remove('is-dragging');
+          });
+
+          container.addEventListener('pointercancel', function () {
+            isDragging = false;
+            container.classList.remove('is-dragging');
+          });
+
+          // Prevent link navigation if the user dragged rather than clicked
+          container.querySelector('.pdf-widget').addEventListener('click', function (e) {
+            if (hasDragged) e.preventDefault();
+          });
+        })();
+      </script>
+      {% endif %}
+
+      {% include "components/modal-onetalker.njk" %}
   </body>
 </html>

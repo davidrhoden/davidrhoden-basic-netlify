@@ -293,6 +293,17 @@ header .search-container {
   transition: none;
 }
 
+.mail-signup-container--modal {
+  cursor: auto;
+  max-width: 90vw;
+  transform: none;
+}
+
+#modal-onetalker .modal__overlay {
+  align-items: center;
+  padding: 20px 0;
+}
+
 .mail-signup-container input,
 .mail-signup-container textarea,
 .mail-signup-container button,
