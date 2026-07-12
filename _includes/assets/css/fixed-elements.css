@@ -35,22 +35,11 @@ body > footer {
 }
 
 .footer-card-anchor {
-  margin-left: auto;
-  margin-right: auto;
-  max-width: 1120px;
-  position: relative;
-}
-
-[data-current="contact"] .footer-card-anchor,
-.horizontal-gallery-page .footer-card-anchor,
-.horizontal-gallery-page .mail-signup-card-inline {
   display: none;
 }
 
-@media (max-width: 767px) {
-  .footer-card-anchor {
-    display: none;
-  }
+.horizontal-gallery-page .mail-signup-card-inline {
+  display: none;
 }
 
 .mail-signup-card-inline {
