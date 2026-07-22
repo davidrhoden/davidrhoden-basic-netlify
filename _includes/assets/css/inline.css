@@ -336,6 +336,10 @@ header .search-container {
   z-index: 11;
 }
 
+.mail-signup-close svg {
+  pointer-events: none;
+}
+
 .mail-signup-container button.mail-signup-close:hover {
   background-color: white;
   border-color: var(--orangered);
