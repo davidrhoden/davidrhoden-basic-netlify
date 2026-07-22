@@ -2,7 +2,7 @@
 title: The Ant and The Aardvark
 date: 2026-07-22T00:00:00
 excerpt: I'd forgotten how beautifully drawn this show was.
-image: 
+image: /static/img/things-i-like/ant-and-aardvark-still-s1e1.png
 tags:
   - things I like
   - The Ant and The Aardvark
