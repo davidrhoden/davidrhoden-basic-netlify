@@ -1,0 +1,6 @@
+{
+  "layout": "layouts/daily-drawing.njk",
+  "permalink": "daily-drawing/{{ title | slugify }}/index.html",
+  "tags": ["Daily Drawing"],
+  "section": "daily-drawing"
+}

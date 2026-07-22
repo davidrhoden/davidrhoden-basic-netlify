@@ -1,0 +1,38 @@
+---
+layout: layouts/base.njk
+pageType: page
+section: daily-drawing
+---
+<article data-pagefind-body>
+  <p class="section-label">DAILY DRAWING</p>
+
+  <h1>{{ title }}</h1>
+
+  {{ content | safe }}
+
+  {%- if tags %}
+  <div class="latest-post-tags">
+    {%- for tag in tags %}
+      {%- if tag != "Daily Drawing" %}
+        {%- set tagUrl %}/tags/{{ tag | slugify }}/{%- endset %}
+        <a class="latest-post-tag" href="{{ tagUrl }}" rel="tag">{{ tag }}</a>
+      {%- endif %}
+    {%- endfor %}
+  </div>
+  {%- endif %}
+</article>
+
+{%- if prevDrawing %}
+<p class="ctr">
+  <strong>Previous</strong>: <a class="previous" href="{{ prevDrawing.url }}">{{ prevDrawing.data.title }}</a>
+</p>
+{%- endif %}
+{%- if nextDrawing %}
+<p class="ctr">
+  <strong>Next</strong>: <a class="next" href="{{ nextDrawing.url }}">{{ nextDrawing.data.title }}</a>
+</p>
+{%- endif %}
+
+<nav>
+  <a href="/daily-drawing/">← Daily Drawing</a>
+</nav>

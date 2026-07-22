@@ -1,0 +1,9 @@
+---
+layout: layouts/base.njk
+section: daily-drawing
+pageClasses: daily-drawing-index
+---
+{% set collectionName = "Daily Drawing" %}
+{% include "components/latest-post-inline.njk" %}
+{% include "components/recent-posts-grid.njk" %}
+{{ content | safe }}
