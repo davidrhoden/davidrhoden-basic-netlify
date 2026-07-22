@@ -9,7 +9,7 @@
           {%- set recentPosts = collections[collectionName] | arraySlice(totalPosts - 16, totalPosts - 1) %}
           {%- for post in recentPosts %}
             <article class="recent-post-card">
-              <p class="post-type-label">{% if "note" in post.data.tags %}NOTES{% else %}JOURNAL{% endif %}</p>
+              <p class="post-type-label">{% if "note" in post.data.tags %}NOTES{% elif "Daily Drawing" in post.data.tags %}DAILY DRAWING{% else %}JOURNAL{% endif %}</p>
               <a class="recent-post-link" href="{{ post.url }}">
                 {% if post.data.image %}
                   <figure class="recent-post-image">

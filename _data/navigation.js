@@ -3,6 +3,11 @@ export default [
     heading: "Art",
     links: [
       {
+        title: "Daily Drawing",
+        url: "/daily-drawing/",
+        tooltip: "An exercise I'm forcing myself to do. For fun."
+      },
+      {
         title: "Paintings",
         url: "/paintings/",
         tooltip: "These are my paintings that I remembered to take pictures of."
