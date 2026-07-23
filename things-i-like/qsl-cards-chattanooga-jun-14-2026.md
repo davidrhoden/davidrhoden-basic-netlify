@@ -1,5 +1,5 @@
 ---
-title: QSL cards.
+title: 'Things I like: QSL cards.'
 date: 2026-06-14T00:00:00
 excerpt: Ham radio operators used these to let other ham radio operators know they heard them over ham radio. It's a ham radio thing.
 image: /static/img/things-i-like/qsl-huffine-jun-13-2026.jpeg

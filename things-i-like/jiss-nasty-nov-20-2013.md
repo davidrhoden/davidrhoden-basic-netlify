@@ -1,5 +1,5 @@
 ---
-title: Cars customized by amateurs/visionaries.
+title: 'Things I like: Cars customized by amateurs/visionaries.'
 date: 2013-11-20T00:00:00
 excerpt: Ideas that were too good and too unique to be left to the professionals.
 image: /static/img/things-i-like/jiss-nasty-nov-20-2013.jpg
