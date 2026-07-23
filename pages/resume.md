@@ -109,7 +109,6 @@ excerpt: "The resume of David Rhoden, a web developer, web designer, and digital
       <li>Illustrator</li>
       <li>InDesign</li>
       <li>Figma</li>
-      <li>Rive</li>
       <li>Adobe Animate</li>
       <li>Google Web Designer</li>
       <li>Pencil</li>
