@@ -1275,7 +1275,7 @@ span.fade:hover {
 @media screen and (width >= 960px) {
 
   a.main-link[href] {
-    fon-size: 2rem;
+    font-size: 2rem;
   }
 
   .timeline-item {
@@ -1402,6 +1402,43 @@ span.fade:hover {
   padding: 3em;
 }
 
+.resume .cover-letter {
+  background-color: #fafaf8;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  font-family: 'BentonSans Regular', sans-serif;
+  font-size: .8rem;
+  margin: 2rem auto;
+  max-width: 80%;
+  padding: 2rem;
+}
+
+.resume .cover-letter-header {
+  margin-bottom: 2rem;
+}
+
+.resume .cover-letter-header span {
+  display: inline-block;
+  font-size: 0.8rem;
+  margin-right: 1rem;
+}
+
+.resume .cover-letter-header p {
+  margin: 0.25rem 0;
+}
+
+.resume .cover-letter-body {
+  line-height: 1.6;
+}
+
+.resume .cover-letter-body p {
+  margin-bottom: 1rem;
+  margin-top: 0;
+}
+
+.resume .cover-letter-closing {
+  margin-top: 2rem;
+}
+
 .resume .resume {
   background-color: #fafaf8;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
@@ -1482,6 +1519,11 @@ span.fade:hover {
 }
 
 @media screen and (width >= 768px) {
+  .resume .cover-letter {
+    max-width: 816px;
+    padding: 4rem;
+  }
+
   .resume .resume {
     max-width: 816px;
     padding: 4rem;

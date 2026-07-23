@@ -1,9 +1,9 @@
 {%- set latest_post = collections[collectionName] | firstNonAnnouncement -%}
 
 {% if latest_post.data.section == "things-i-like" %}
-  <p class="section-label">THINGS I LIKE</p>
+  <p class="section-label"><a href="/things-i-like/">THINGS I LIKE</a></p>
 {% elif latest_post.data.section == "daily-drawing" %}
-  <p class="section-label">DAILY DRAWING</p>
+  <p class="section-label"><a href="/daily-drawing/">DAILY DRAWING</a></p>
 {% elif latest_post.date | isFuture %}
   <p class="section-label">HAPPENING SOON</p>
 {% else %}

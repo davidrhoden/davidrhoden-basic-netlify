@@ -3,12 +3,19 @@ layout: layouts/base.njk
 pageType: page
 section: daily-drawing
 ---
-<article data-pagefind-body>
-  <p class="section-label">DAILY DRAWING</p>
+<p class="section-label"><a href="/daily-drawing/">DAILY DRAWING</a></p>
 
-  <h1>{{ title }}</h1>
+<article class="latest-post-article" data-pagefind-body>
+  <header class="latest-post-header">
+    <h1 class="latest-post-title">{{ title }}</h1>
+    {%- if excerpt %}
+    <p class="latest-post-excerpt">{{ excerpt }}</p>
+    {%- endif %}
+  </header>
 
-  {{ content | safe }}
+  <section class="latest-post-content">
+    {{ content | safe }}
+  </section>
 
   {%- if tags %}
   <div class="latest-post-tags">

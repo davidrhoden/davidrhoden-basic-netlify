@@ -150,6 +150,20 @@ export default function (eleventyConfig) {
     return allThings;
   });
 
+  eleventyConfig.addCollection("Daily Drawing", function (collection) {
+    const allDrawings = collection.getFilteredByTag("Daily Drawing");
+
+    for (let i = 0; i < allDrawings.length; i++) {
+      const prevDrawing = allDrawings[i - 1];
+      const nextDrawing = allDrawings[i + 1];
+
+      allDrawings[i].data["prevDrawing"] = prevDrawing;
+      allDrawings[i].data["nextDrawing"] = nextDrawing;
+    }
+
+    return allDrawings;
+  });
+
   eleventyConfig.addCollection("postsAndNotes", function (collectionApi) {
       const posts = collectionApi.getFilteredByTag("post");
       const notes = collectionApi.getFilteredByTag("note");

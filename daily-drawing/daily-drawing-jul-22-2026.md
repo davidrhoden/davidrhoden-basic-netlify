@@ -4,7 +4,7 @@ date: 2026-07-22T00:00:00
 excerpt: 
 image: /static/img/daily-drawing/daily-drawing-jul-22-2026.png
 tags:
-  - The Ant and the Aardvark
+  - The Ant and The Aardvark
 
 ---
 
