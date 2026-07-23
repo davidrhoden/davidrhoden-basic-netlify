@@ -9,7 +9,7 @@ eleventyNavigation:
   tooltip: "I get interviewed by newspapers and magazines from time to time."
 ---
 
-<div class="about flex">
+<div class="press flex">
   <div class="left">
 
   Every once in a while, _The New York Times_ or _The Washington Post_ want to talk to me. It usually has to do with something I don't know that much about.
@@ -22,7 +22,7 @@ eleventyNavigation:
   </div>
 </div>
 
-<div class="about flex">
+<div class="press flex">
   <div class="left">
 
   ["Dream Logic"](https://www.nola.com/gambit/events/art_previews_reviews/article_310e7f60-2012-5c0a-8542-ecc256fb1447.html), D. Eric Bookhardt, _Gambit New Orleans_, Dec 20, 2002.
@@ -37,7 +37,7 @@ eleventyNavigation:
 </div>
 
 
-<div class="about flex">
+<div class="press flex">
   <div class="left">
 
   ["Rock 'N' Rhoden"](http://www.offbeat.com/articles/rock-n-rhoden/), Bunny Matthews, _Offbeat_, November, 2002.
@@ -54,7 +54,7 @@ eleventyNavigation:
   </div>
 </div>
 
-<div class="about flex">
+<div class="press flex">
   <div class="left">
 
   ["O Little Town of Rock 'n' Roll"](https://www.washingtonpost.com/archive/lifestyle/1984/08/29/o-little-town-of-rock-n-roll/73724f2b-8b49-4db9-b586-c6607ee265a5/), Art Harris, _The Washington Post_, August 29, 1984.
