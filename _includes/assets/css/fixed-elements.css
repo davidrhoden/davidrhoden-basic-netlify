@@ -26,6 +26,7 @@ body.tag-page {
 
 body.tag-page > main {
   flex: 1;
+  overflow: visible;
 }
 
 body > footer {
