@@ -1,7 +1,7 @@
 ---
 title: Daily drawing, July 22, 2026.
 date: 2026-07-22T00:00:00
-excerpt: 
+excerpt: A copy of a background from the Ant and the Aardvark cartoon.
 image: /static/img/daily-drawing/daily-drawing-jul-22-2026.png
 tags:
   - The Ant and The Aardvark
