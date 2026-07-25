@@ -7,8 +7,8 @@
   'use strict';
   
   const gallery = document.querySelector('.horizontal-gallery-container');
-  const prevButton = document.querySelector('.gallery-arrow-prev');
-  const nextButton = document.querySelector('.gallery-arrow-next');
+  const prevButton = document.querySelector('.carousel-btn-prev');
+  const nextButton = document.querySelector('.carousel-btn-next');
   
   if (!gallery) return;
   
