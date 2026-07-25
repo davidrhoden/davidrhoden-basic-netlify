@@ -19,7 +19,7 @@ eleventyNavigation:
 
   <p>I have had more jobs than you can count, including being an ice cream man and an oyster shucker for one day each. I started my post-collegiate work career as a freelance writer and an assistant editor at Golden Books, spent some years toiling in various departments at Citibank and Goldman Sachs, then, through a series of temp jobs, found my way into the business of design and marketing, where I work as a web developer and (infrequently) designer.</p>
 
-  <p>I am also a musician, currently playing guitar with The Stacks; previously, I was a member of Mountain Shoutin', Jimmy and the Wolfpack, All-Night Movers, The Sleepy Heads, MAXIMVS!, Dirty Knives, The Hi-Balls, Snake Oil, Everything Tool, The Innuendos, Dark Marbles, Cheerio and the Camels, and The Red M&Ms.</p>
+  <p>I am also a musician, currently playing guitar with The Stacks and singing with the Side Hustlers; previously, I was a member of Mountain Shoutin', Jimmy and the Wolfpack, All-Night Movers, The Sleepy Heads, MAXIMVS!, Dirty Knives, The Hi-Balls, Snake Oil, Everything Tool, The Innuendos, Dark Marbles, Cheerio and the Camels, and The Red M&Ms.</p>
 </div>
 
 <div class="about-gallery-wrapper" id="about-gallery-carousel">
