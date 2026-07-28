@@ -5,6 +5,6 @@ excerpt: I missed a day and I forgot to draw anything until midnight. What am I 
 image: /static/img/daily-drawing/what-i-was-so-sure-of-jul-21-2026.png
 ---
 
-![Daily Drawing by Dave Rhoden, July 24, 2026. a blue teddy bear, drawn in haste.](/static/img/daily-drawing/daily-drawing-jul-26-2026.png)
+![Daily Drawing by Dave Rhoden, July 26, 2026. a blue teddy bear, drawn in haste.](/static/img/daily-drawing/daily-drawing-jul-26-2026.png)
 
 I missed a day and today I forgot to draw anything until midnight. What am I even doing?
