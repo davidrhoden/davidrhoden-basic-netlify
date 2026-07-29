@@ -7,4 +7,6 @@ image: /static/img/daily-drawing/daily-drawing-jul-28-2026.png
 
 ![Daily Drawing by Dave Rhoden, July 28, 2026. A rock band of three women.](/static/img/daily-drawing/daily-drawing-jul-28-2026.png)
 
+[A theme I probably overuse.]
+
 
