@@ -1,5 +1,5 @@
 ---
-title: We had a bonfire for Gina's birthday.
+title: We had a bonfire for Gina’s birthday.
 date: 2020-03-27T11:00:00.000Z
 excerpt: We burned up a stinky knifeblock.
 category: timeline

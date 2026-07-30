@@ -1,7 +1,7 @@
 ---
 title: Buddy offered a headbutt.
 date: 2020-04-04T11:00:00.000Z
-excerpt: He's quite serious about it.
+excerpt: He’s quite serious about it.
 category: buddy
 image: /static/img/buddy/buddy-headbutt-april-4-2020.jpg
 tags:

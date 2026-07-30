@@ -1,5 +1,5 @@
 ---
-title: On the occasion of Hallowe'en...
+title: On the occasion of Hallowe’en...
 date: 2025-10-30T00:00:00
 description: "My friend Rel wrote a scary short story in which there were spooky walking skeletons, but not only that, they came to warn us of worldwide catastrophic crop failure in the not-far-off year 2038.
 

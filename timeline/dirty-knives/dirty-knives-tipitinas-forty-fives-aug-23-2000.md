@@ -1,5 +1,5 @@
 ---
-title: Dirty Knives played Tipitina's with The Forty Fives.
+title: Dirty Knives played Tipitina’s with The Forty Fives.
 date: 2000-08-23T22:00:00.000Z
 excerpt: We recorded the show.
 image: /static/img/rock/dirty-knives/dirty-knives-flyer-tips-aug-23-2000.gif

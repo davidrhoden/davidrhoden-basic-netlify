@@ -2,7 +2,7 @@
 title: Saw Buddy Ebsen and Nick Heyward at a live taping of Conan.
 date: 1994-02-22T21:00:00.000Z
 dateposted: 2021-03-03
-excerpt: Apparently Al Franken was also on the show but amusingly I don't remember that.
+excerpt: Apparently Al Franken was also on the show but amusingly I don’t remember that.
 tags:
   - post 
   - New York City

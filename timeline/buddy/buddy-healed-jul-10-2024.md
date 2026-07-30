@@ -1,5 +1,5 @@
 ---
-title: Buddy's eye sutures still looked good.
+title: Buddy’s eye sutures still looked good.
 date: 2024-07-10T00:00:00
 image: /static/img/buddy/buddy-healing-jul-10-2024.jpg
 tags:

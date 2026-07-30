@@ -1,7 +1,7 @@
 ---
 title: We got the strangest wedding present.
 date: 2000-04-23T13:00:00.000Z
-excerpt: If you can't tell, it's supposed to be a pelican.
+excerpt: If you can’t tell, it’s supposed to be a pelican.
 category: timeline
 image: /static/img/timeline/chainsaw-pelican-apr-23-2000.jpg
 tags:

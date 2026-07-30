@@ -1,7 +1,7 @@
 ---
 title: Spent Christmas morning with Miles the rabbit.
 date: 2006-12-25T00:00:00
-excerpt: He was a good rabbit. You just had to make sure he didn't eat the drywall.
+excerpt: He was a good rabbit. You just had to make sure he didn’t eat the drywall.
 image: /static/img/timeline/miles-in-cage-dec-25-2006.jpg
 tags:
   - Miles the rabbit

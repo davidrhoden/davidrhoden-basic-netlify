@@ -1,5 +1,5 @@
 ---
-title: Found some dumped tires, got my labs done, got lunch, and watched a Bengals game at Markey's Bar.
+title: Found some dumped tires, got my labs done, got lunch, and watched a Bengals game at Markey’s Bar.
 date: 2021-09-30T22:00:00.000Z
 image: /static/img/timeline/tire-dump-sep-30-2021.jpg
 tags:

@@ -1,5 +1,5 @@
 ---
-title: I saw Bipolaroid at Sidney's on a Sunday.
+title: I saw Bipolaroid at Sidney’s on a Sunday.
 date: 2021-09-26T22:00:00.000Z
 excerpt: Also FR and a band from Brooklyn called TDA.
 category: timeline

@@ -1,7 +1,7 @@
 ---
 title: I came up with enough material for another little booklet.
 date: 2026-06-21T00:00:00
-excerpt: It's just a little glimpse into how my mind works (or doesn't).
+excerpt: It’s just a little glimpse into how my mind works (or doesn’t).
 image: /static/img/zines/drawings-from-the-20th-century-june-21-2026.jpeg
 tags:
   - booklets

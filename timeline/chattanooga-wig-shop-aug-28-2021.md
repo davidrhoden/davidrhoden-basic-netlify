@@ -1,7 +1,7 @@
 ---
 title: I took pictures of a wig shop on Market Street that looked about the same when I was in high school.
 date: 2021-08-28T16:00:00.000Z
-excerpt: Back then we wouldn't have felt comfortable taking pictures.
+excerpt: Back then we wouldn’t have felt comfortable taking pictures.
 image: /static/img/timeline/chattanooga/wig-shop-aug-28-2021/wig-shop-aug-28-2021-1.jpg
 tags:
   - post 

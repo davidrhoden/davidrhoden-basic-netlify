@@ -1,5 +1,5 @@
 ---
-title: Had a happy bonfire at Gina's.
+title: Had a happy bonfire at Gina’s.
 date: 2019-04-14T19:00:00.000Z
 category: timeline
 image: /static/img/timeline/bonfires/bonfire-at-ginas-apr-14-2019.jpg
