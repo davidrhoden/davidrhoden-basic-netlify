@@ -1,7 +1,7 @@
 ---
 title: I got my first car, a 1970 Ford LTD.
 date: 1983-04-04T00:00:00
-excerpt: I didn't pay for it; my father did. It was $400.
+excerpt: I didn’t pay for it; my father did. It was $400.
 image: /static/img/cars/my-first-car-ford-ltd-april-1983.jpeg
 tags:
   - 103 Asbury Drive

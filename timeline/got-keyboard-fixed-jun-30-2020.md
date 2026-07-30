@@ -1,7 +1,7 @@
 ---
 title: Got my keyboard fixed.
 date: 2020-06-30T17:00:00.000Z
-excerpt: Lewis d'Aubin got it done in an hour.
+excerpt: Lewis d’Aubin got it done in an hour.
 category: timeline
 image: /static/img/timeline/keyboard-opened-up-3-jun-30-2020.jpg
 tags:

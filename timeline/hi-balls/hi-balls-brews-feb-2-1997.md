@@ -1,7 +1,7 @@
 ---
-title: Hi-Balls played at Brew's with Burnley Vest and MacArthur.
+title: Hi-Balls played at Brew’s with Burnley Vest and MacArthur.
 date: 1997-02-02T16:00:00.000Z
-excerpt: When they bring out the white seamless, you've made it.
+excerpt: When they bring out the white seamless, you’ve made it.
 category: rock
 image: /static/img/rock/hi-balls/hi-balls-live-at-brews-cover-feb-2-2-1997.jpg
 tags:

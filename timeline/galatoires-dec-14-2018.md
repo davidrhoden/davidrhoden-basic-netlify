@@ -1,5 +1,5 @@
 ---
-title: I went to Galatoire's for an office Christmas party.
+title: I went to Galatoire’s for an office Christmas party.
 date: 2018-12-14T00:00:00.000Z
 excerpt: Kind of a strange place, really.
 category: timeline

@@ -1,7 +1,7 @@
 ---
 title: I dreamed I went to a "rock and roll weekender".
 date: 2025-06-09T00:00:00
-excerpt: I met tons of cool girls who had boyfriends I didn't meet.
+excerpt: I met tons of cool girls who had boyfriends I didn’t meet.
 image: 
 tags:
   - dreams

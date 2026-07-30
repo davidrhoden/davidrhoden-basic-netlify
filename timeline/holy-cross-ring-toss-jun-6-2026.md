@@ -1,7 +1,7 @@
 ---
 title: I call this one "Holy Cross Ring Toss".
 date: 2026-06-06T00:00:00
-excerpt: I didn't make this; it's more of a found artwork, like a Duchamp.
+excerpt: I didn’t make this; it’s more of a found artwork, like a Duchamp.
 image: /static/img/timeline/holy-cross-ring-toss-jun-6-2026/holy-cross-ring-toss-1-jun-6-2026.jpeg
 tags:
   - art

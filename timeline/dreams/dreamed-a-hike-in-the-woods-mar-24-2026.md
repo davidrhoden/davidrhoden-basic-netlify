@@ -1,7 +1,7 @@
 ---
 title: I dreamed I went for a hike in the woods, with an unsettling denouement.
 date: 2026-03-24T00:00:00
-excerpt: You won't believe how it ended.
+excerpt: You won’t believe how it ended.
 image: 
 tags:
   - dreams

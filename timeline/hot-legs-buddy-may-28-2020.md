@@ -1,7 +1,7 @@
 ---
 title: Hot legs Buddy.
 date: 2020-05-28T16:00:00.000Z
-excerpt: He's an enormous cat.
+excerpt: He’s an enormous cat.
 category: buddy
 image: /static/img/buddy/buddy-hot-legs-may-28-2020.jpg
 tags:

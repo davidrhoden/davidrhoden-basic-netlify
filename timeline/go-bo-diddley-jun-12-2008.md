@@ -1,7 +1,7 @@
 ---
 title: Go Bo Diddley.
 date: 2008-06-12T00:00:00
-excerpt: I got so many messages yesterday about Bo Diddley's dying; I appreciate them all.
+excerpt: I got so many messages yesterday about Bo Diddley’s dying; I appreciate them all.
 image: /static/img/timeline/bo_autograph.jpg
 tags:
   - Bo Diddley

@@ -1,5 +1,5 @@
 ---
-title: sara took a bunch of Polaroids at a Hallowe'en party.
+title: sara took a bunch of Polaroids at a Hallowe’en party.
 date: 1998-10-31T18:00:00.000Z
 image: /static/img/timeline/polaroids/polaroids-halloween.jpg
 tags:
