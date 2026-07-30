@@ -1,7 +1,7 @@
 ---
-title: "All-Night Movers played at Jeff Pounds' house again."
+title: "All-Night Movers played at Jeff Pounds’ house again."
 date: 2003-01-13T21:00:00.000Z
-excerpt: It was Jeff's birthday I think.
+excerpt: It was Jeff’s birthday I think.
 image: /static/img/rock/all-night-movers/all-night-movers-cover-aug-3-2002.jpg
 tags:
   - post

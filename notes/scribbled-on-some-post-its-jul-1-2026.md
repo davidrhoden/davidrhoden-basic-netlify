@@ -1,7 +1,7 @@
 ---
 title: Scribbled on some Post-Its.
 date: 2026-07-01T00:00:00
-excerpt: Gotta admit, I'm in a place of great ambivalence.
+excerpt: Gotta admit, I’m in a place of great ambivalence.
 image: /static/img/timeline/post-its/ugly-face-guy-2-jul-1-2026.jpeg
 tags:
   - cartoons

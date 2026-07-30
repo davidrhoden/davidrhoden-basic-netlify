@@ -1,7 +1,7 @@
 ---
 title: Notes for March 17, 2025.
 date: 2025-03-17T00:00:00
-excerpt: We are reliving the worst of history. The news barely acknowledges it. And I admit, I don't know what to do either.
+excerpt: We are reliving the worst of history. The news barely acknowledges it. And I admit, I don’t know what to do either.
 summary: We are reliving the worst of history. The news barely acknowledges it. And I admit, I don't know what to do either.
 tags:
   - history

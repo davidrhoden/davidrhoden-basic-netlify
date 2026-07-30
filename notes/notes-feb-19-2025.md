@@ -1,7 +1,7 @@
 ---
 title: Notes for February 19, 2025. Please impeach the president.
 date: 2025-02-19T00:00:00
-excerpt: I don't care if you don't have the votes. Just interfere.
+excerpt: I don’t care if you don’t have the votes. Just interfere.
 summary: I don't care if you don't have the votes. Just interfere.
 image: /static/img/notes/trump-musk-looking-like-shit.png
 tags:

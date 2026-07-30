@@ -1,7 +1,7 @@
 ---
 title: All-Night Movers played Beerland in Austin with Ka-Nives.
 date: 2003-04-25T21:00:00.000Z
-excerpt: My first experience wtih Texas' blue laws.
+excerpt: My first experience wtih Texas’ blue laws.
 image: /static/img/rock/all-night-movers/anm-austin-apr-25-2003/anm-austin-apr-25-2003-40.jpg
 tags:
   - post

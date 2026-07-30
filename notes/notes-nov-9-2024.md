@@ -1,7 +1,7 @@
 ---
 title: Notes for November 9, 2024.
 date: 2024-11-09T00:00:00
-excerpt: A cool household hint! Plus, I don't believe the election returns.
+excerpt: A cool household hint! Plus, I don’t believe the election returns.
 summary: A cool household hint! Plus, I don't believe the election returns.
 image: /static/img/timeline/cold-brew-shot-dispenser-nov-9-2024.jpg
 tags:

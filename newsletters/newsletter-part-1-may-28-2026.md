@@ -1,7 +1,7 @@
 ---
-title: Dave Rhoden's Computer Newsletter, June 2026, Part I
+title: Dave Rhoden’s Computer Newsletter, June 2026, Part I
 date: 2026-06-01T00:00:00
-excerpt: Here it is, that "infrequent" newsletter I told you you'd be getting from me! I really do send it sometimes! Thanks for waiting.
+excerpt: Here it is, that "infrequent" newsletter I told you you’d be getting from me! I really do send it sometimes! Thanks for waiting.
 image: /static/img/social-share/computer-newsletter-social-share-1200x630-jun-1-2026.png
 tags:
   - newsletter

@@ -1,7 +1,7 @@
 ---
-title: Eleventy is changing its name, among other things, and I don't love it.
+title: Eleventy is changing its name, among other things, and I don’t love it.
 date: 2026-03-04T00:00:00
-excerpt: "Maybe it's just gatekeeping, but I'm not looking forward to an Eleventy ecosystem that caters more to the end clients than the developers. Catering to clients is the developer's job!"
+excerpt: "Maybe it’s just gatekeeping, but I’m not looking forward to an Eleventy ecosystem that caters more to the end clients than the developers. Catering to clients is the developer’s job!"
 summary: "Maybe it's just gatekeeping, but I'm not looking forward to an Eleventy ecosystem that caters more to the end clients than the developers. Catering to clients is the developer's job!"
 image: /static/img/notes/possum-eleventy-mar-4-2026.png
 tags:

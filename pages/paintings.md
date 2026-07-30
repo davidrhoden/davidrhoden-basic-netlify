@@ -12,3 +12,5 @@ eleventyNavigation:
   order: 3
   tooltip: "These are my paintings I took pictures of"
 ---
+
+These are some paintings I did, presented here in alphabetical order, because doing it in some logical way, like chronologically, is pretty difficult given the sloppy records I kept. The ones with a price are for sale, if I've updated the page lately.

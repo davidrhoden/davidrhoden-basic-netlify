@@ -1,5 +1,5 @@
 ---
-title: I got a cat though I didn't mean to.
+title: I got a cat though I didn’t mean to.
 date: 2007-09-18T16:00:00.000Z
 excerpt: The next morning, she was still there. And the next.
 category: sally

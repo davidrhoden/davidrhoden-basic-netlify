@@ -1,7 +1,7 @@
 ---
 title: How to get a bird out of your house.
 date: 2024-05-15T00:00:00
-excerpt: First, make sure there's just one way out or the bird will be confused.
+excerpt: First, make sure there’s just one way out or the bird will be confused.
 summary: First, make sure there's just one way out or the bird will be confused.
 image: /static/img/sketchbook/standing-woman-may-15-2024.jpeg
 tags:

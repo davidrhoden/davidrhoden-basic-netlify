@@ -1,5 +1,5 @@
 ---
-title: On making a living from other peoples' difficulties. (A post about Wordpress and Internet Explorer 6.)
+title: On making a living from other peoples’ difficulties. (A post about Wordpress and Internet Explorer 6.)
 date: 2020-07-09T10:00:00.000Z
 tags:
   - note

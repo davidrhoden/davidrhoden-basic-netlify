@@ -1,7 +1,7 @@
 ---
 title: "A hypothesis: The Grateful Dead is just a less musical Marshall Tucker Band."
 date: 2026-05-15T00:00:00
-excerpt: I've learned late in life that I really like the Marshall Tucker Band, though.
+excerpt: I’ve learned late in life that I really like the Marshall Tucker Band, though.
 image: /static/img/notes/marshall-tucker-band-may-15-2026.jpg
 tags:
   - Marshall Tucker Band

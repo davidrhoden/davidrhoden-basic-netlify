@@ -1,7 +1,7 @@
 ---
 title: I learned my friend and bandmate Doug DeRienzo passed away.
 date: 2026-05-24T00:00:00
-excerpt: I hadn't talked to him in a long time but I thought I could just call him up, if I could find his current number.
+excerpt: I hadn’t talked to him in a long time but I thought I could just call him up, if I could find his current number.
 image: /static/img/doug/doug-derienzo-and-dave-at-ottos-aug-9-2008.jpeg
 tags:
   - Doug DeRienzo

@@ -1,5 +1,5 @@
 ---
-title: "I visited Splash 'n Chill island."
+title: "I visited Splash ’n Chill island."
 date: 2023-07-01T10:00:00.000Z
 image: /static/img/timeline/splash-and-chill-island-jul-1-2023.jpg
 summary: I spent the weekend of the Fourth in Pensacola.

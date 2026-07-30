@@ -1,7 +1,7 @@
 ---
 title: Notes for November 13, 2024.
 date: 2024-11-13T00:00:00
-excerpt: I gave Boomtown Rats' The Fine Art Of Surfacing a spin today. Sir Bob's lyrics are frequently embarassing.
+excerpt: I gave Boomtown Rats’ The Fine Art Of Surfacing a spin today. Sir Bob’s lyrics are frequently embarassing.
 summary: I gave Boomtown Rats' The Fine Art Of Surfacing a spin today. Sir Bob's lyrics are frequently embarassing.
 image: /static/img/karaoke/i-dont-like-mondays-nov-13-2024.jpeg
 tags:

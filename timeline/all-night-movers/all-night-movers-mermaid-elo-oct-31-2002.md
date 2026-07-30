@@ -1,5 +1,5 @@
 ---
-title: "All-Night Movers played the Mermaid Hallowe'en Masked Ball as ELO."
+title: "All-Night Movers played the Mermaid Hallowe’en Masked Ball as ELO."
 date: 2002-10-31T19:00:00.000Z
 excerpt: Slade got us matching Jeff Lynne wigs and shades.
 image: /static/img/rock/all-night-movers/mermaid-elo-oct-31-2002/elo30.jpg

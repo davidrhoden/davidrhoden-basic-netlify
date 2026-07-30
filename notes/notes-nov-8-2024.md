@@ -1,7 +1,7 @@
 ---
 title: Notes for November 8, 2024.
 date: 2024-11-08T00:00:00
-excerpt: There's an empty space in my head where the news used to be, and I love it.
+excerpt: There’s an empty space in my head where the news used to be, and I love it.
 summary: There's an empty space in my head where the news used to be, and I love it.
 image: /static/img/timeline/asbury-park-sleeve-nov-8-2024.jpeg
 tags:

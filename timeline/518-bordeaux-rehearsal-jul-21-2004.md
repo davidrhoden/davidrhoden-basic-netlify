@@ -1,5 +1,5 @@
 ---
-title: The Stacks rehearsed at Eli's place and took photos on the roof.
+title: The Stacks rehearsed at Eli’s place and took photos on the roof.
 date: 2004-06-21T17:00:00.000Z
 image: /static/img/rock/stacks/518-bordeaux-rehearsal-jul-21-2004/2drawers-jul-21-2004.jpg
 tags:

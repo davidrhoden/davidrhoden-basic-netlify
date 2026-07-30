@@ -1,7 +1,7 @@
 ---
 title: Notes for November 15, 2024.
 date: 2024-11-15T00:00:00
-excerpt: English needs a word for the past tense of "read" that isn't "read".
+excerpt: English needs a word for the past tense of "read" that isn’t "read".
 summary: English needs a word for the past tense of "read" that isn't "read".
 image: /static/img/karaoke/deacon-blues-nov-15-2024.jpeg
 tags:

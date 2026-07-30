@@ -1,7 +1,7 @@
 ---
 title: What is this accursèd thing?
 date: 2026-06-06T00:00:00
-excerpt:  "It's got the number-one hallmark of Dixie hoodoo: muddy, bald, eyeless doll heads, something Southern vacant lots contain by the dozen."
+excerpt:  "It’s got the number-one hallmark of Dixie hoodoo: muddy, bald, eyeless doll heads, something Southern vacant lots contain by the dozen."
 image: /static/img/timeline/accursed-totem-jun-6-2026/accursed-totem-1-jun-3-2026.jpeg
 tags:
   - New Orleans

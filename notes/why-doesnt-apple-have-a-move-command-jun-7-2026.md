@@ -1,7 +1,7 @@
 ---
 title: When is Apple going to give us a "Move..." command?
 date: 2026-06-07T00:00:00
-excerpt: Why doesn't Apple (MacOS) have a "Move..." command in the right-click menu? 
+excerpt: Why doesn’t Apple (MacOS) have a "Move..." command in the right-click menu? 
 image: /static/img/notes/why-doesnt-apple-have-move-2-jun-7-2026.png
 tags:
   - Apple

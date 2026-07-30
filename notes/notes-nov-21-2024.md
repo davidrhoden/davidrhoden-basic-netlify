@@ -1,7 +1,7 @@
 ---
 title: Notes for November 21, 2024.
 date: 2024-11-21T00:00:00
-excerpt: "I've had two songs stuck in my head all day: 'Big Shot' and The Camp Lookout Theme Song."
+excerpt: "I’ve had two songs stuck in my head all day: ’Big Shot’ and The Camp Lookout Theme Song."
 summary: "I've had two songs stuck in my head all day: 'Big Shot' and The Camp Lookout Theme Song."
 image: /static/img/karaoke/electric-avenue-nov-21-2024.jpg
 tags:

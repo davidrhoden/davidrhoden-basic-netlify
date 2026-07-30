@@ -1,7 +1,7 @@
 ---
 title: Notes for November 11, 2024.
 date: 2024-11-11T00:00:00
-excerpt: 11/11 is Betty's gotcha day.
+excerpt: 11/11 is Betty’s gotcha day.
 summary: 11/11 is Betty's gotcha day.
 image: /static/img/betty/betty-with-her-black-cat-toy.jpg
 tags:

@@ -2,7 +2,7 @@
 layout: layouts/notes-index.njk
 title: Notes/Now
 date: 2026-05-01T00:00:00.000Z
-excerpt: "Notes about what's on my mind at this particular moment."
+excerpt: "Notes about what’s on my mind at this particular moment."
 image: /static/img/notes/gtaIV.jpg
 permalink: "/notes/{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber + 1 }}/{% endif %}index.html"
 pagination:

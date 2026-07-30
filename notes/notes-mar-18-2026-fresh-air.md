@@ -1,7 +1,7 @@
 ---
 title: I have a bone to pick with the interviews on Fresh Air.
 date: 2026-03-18T00:00:00
-excerpt: It's still a radio show I leave on if I tune in unless it's a subject I really don't have the time for.
+excerpt: It’s still a radio show I leave on if I tune in unless it’s a subject I really don’t have the time for.
 summary: It's still a radio show I leave on if I tune in unless it's a subject I really don't have the time for.
 image: 
 tags:
