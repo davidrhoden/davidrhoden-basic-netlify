@@ -1,0 +1,86 @@
+<!doctype html>
+<html {% if section %}data-current="{{ section }}"{% endif %} lang="en">
+  {% include "components/head.njk" %}
+  <body class="horizontal-gallery-page {% if pageType %}{{ pageType }}{% endif %} {{ page.fileSlug }} {{ pageClasses }}">
+      {% include "components/header.njk" %}
+      <div class="header-spacer"></div>
+       {% if downloadPdf %}
+        <script>var pdfBannerImages = {{ downloadPdfImages | dump | safe }};</script>
+        <div class="pdf-banner">
+          <a class="pdf-banner-link" href="{{ downloadPdf }}" target="_blank" rel="noopener">{{ downloadPdfText }}</a>
+          <div class="pdf-banner-thumbs">
+            <img class="pdf-banner-thumb" src="{{ downloadPdfImages[0] }}" alt="PDF portfolio preview">
+          </div>
+        </div>
+        <script>
+          (function () {
+            var img = document.querySelector('.pdf-banner-thumb');
+            var images = window.pdfBannerImages || [];
+            if (!img || images.length < 2) return;
+            var index = 0;
+            setInterval(function () {
+              index = (index + 1) % images.length;
+              img.src = images[index];
+            }, 1200);
+          }());
+        </script>
+        {% endif %}
+      <article data-pagefind-body>
+        <h1>{{ title }}</h1>
+        {{ content | safe }}
+      </article>
+      <main id="main-content" class="horizontal-gallery-main">
+        <div class="horizontal-gallery-container">
+          
+          {%- if useDataFile and dataFile %}
+            {# Render from data file #}
+            <ul>
+            {%- if dataFile == "illustrations" %}
+              {% set dataItems = illustrations.illustrations %}
+            {%- endif %}
+            {%- for item in dataItems %}
+              <li data-painting-id="{{ loop.index0 }}">
+                  {# Regular image galleries #}
+                  <a href="{{ item.image }}" class="gallery-image-link" title="{{ item.title }}">
+                    <img src="{{ item.image }}" alt="{{ item.title }} by David Rhoden">
+                  </a>
+              </li>
+            {%- endfor %}
+              <li class="gallery-spacer" aria-hidden="true"></li>
+            </ul>
+          {%- else %}
+            {%- set contentHtml = content | safe %}
+            {{ contentHtml }}
+          {%- endif %}
+          
+        </div>
+        
+        <!-- Navigation arrows -->
+        <button class="carousel-btn carousel-btn-prev" aria-label="Previous image"><img src="/static/img/site/arrow-bold-left.svg" alt="" aria-hidden="true"></button>
+        <button class="carousel-btn carousel-btn-next" aria-label="Next image"><img src="/static/img/site/arrow-bold-right.svg" alt="" aria-hidden="true"></button>
+      </main>
+      
+      {% include "components/footer.njk" %}
+      {% include "components/modal-search.njk" %}
+      
+      <!-- Horizontal gallery JS -->
+      <script src="/_includes/assets/js/horizontal-gallery.js" defer></script>
+      
+      <!-- Initialize Magnific Popup for horizontal gallery -->
+      <script>
+        $(document).ready(function () {
+          $(".horizontal-gallery-container ul li, .horizontal-gallery-container ol li").magnificPopup({
+            delegate: "a.gallery-image-link",
+            gallery: {
+              enabled: true,
+              navigateByImgClick: true,
+              preload: [0, 1],
+            },
+            type: "image",
+          });
+        });
+      </script>
+      
+      {% include "components/modal-onetalker.njk" %}
+  </body>
+</html>
