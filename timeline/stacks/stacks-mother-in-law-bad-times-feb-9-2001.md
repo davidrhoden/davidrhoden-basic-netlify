@@ -1,7 +1,7 @@
 ---
-title: Stacks played Ernie K-Doe's Mother-In-Law Lounge With Final Solutions.
+title: Stacks played Ernie K-Doe’s Mother-In-Law Lounge With Final Solutions.
 date: 2000-02-09T22:00:00.000Z
-excerpt: Except...I'm not sure this show really happened.
+excerpt: Except...I’m not sure this show really happened.
 category: rock
 image: /static/img/rock/stacks/stacks-bad-times-flyer-feb-9-2001.jpg
 tags:

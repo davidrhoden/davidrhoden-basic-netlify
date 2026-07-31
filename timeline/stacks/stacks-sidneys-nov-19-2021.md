@@ -1,5 +1,5 @@
 ---
-title: The Stacks and Unsound Check at Sidney's Saloon, November 19, 2021
+title: The Stacks and Unsound Check at Sidney’s Saloon, November 19, 2021
 date: 2021-11-19T22:00:00.000Z
 image: /static/img/rock/stacks/Stacks-Sidneys-Nov-19-2021.jpg
 tags:

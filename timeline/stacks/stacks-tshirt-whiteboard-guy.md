@@ -1,7 +1,7 @@
 ---
 title: Our band had just started recording when the stay-at-home order came.
 date: 2020-04-04T06:00:00.000Z
-excerpt: We're recording at our drummer's house. He's stuck living with all of me and Andrew's gear for a while.
+excerpt: We’re recording at our drummer’s house. He’s stuck living with all of me and Andrew’s gear for a while.
 category: sketchbook
 image: /static/img/sketchbook/stacks-tshirt-whiteboard-guy.jpg
 tags:

@@ -1,5 +1,5 @@
 ---
-title: We had a Christmas bonfire at Gina's.
+title: We had a Christmas bonfire at Gina’s.
 date: 2021-12-25T11:00:00.000Z
 image: /static/img/timeline/truck-in-yard-dec-25-2021.jpg
 tags:

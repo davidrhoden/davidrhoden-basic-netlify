@@ -1,5 +1,5 @@
 ---
-title: Went to Slade and Amara's wedding, and DJed the reception.
+title: Went to Slade and Amara’s wedding, and DJed the reception.
 date: 2009-05-17T14:00:00.000Z
 excerpt: The whole thing was somewhat interrupted by what you might call a flash flood.
 category: timeline

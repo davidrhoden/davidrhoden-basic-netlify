@@ -1,7 +1,7 @@
 ---
 title: I saw Tex Offenders at Carousel Lounge.
 date: 2016-06-30T11:00:00.000Z
-excerpt: The guitarist was also in my band Mountain' Shoutin'.
+excerpt: The guitarist was also in my band Mountain’ Shoutin’.
 image: /static/img/timeline/texoffenders-jun-30-2016.jpg
 tags:
   - post 

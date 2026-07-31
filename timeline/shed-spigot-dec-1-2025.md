@@ -1,7 +1,7 @@
 ---
 title: I installed a spigot in my backyard shed.
 date: 2025-12-01T00:00:00
-excerpt: It's something I'd been contemplating for years I guess.
+excerpt: It’s something I’d been contemplating for years I guess.
 image: /static/img/timeline/shed-spigot-dec-1-2025.png
 tags:
   - home improvement

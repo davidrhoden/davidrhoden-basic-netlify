@@ -1,7 +1,7 @@
 ---
 title: I liked playing with my toy Texaco station.
 date: 1971-03-02T10:00:00.000Z
-excerpt: We weren't able to take it when we moved to Chattanooga.
+excerpt: We weren’t able to take it when we moved to Chattanooga.
 category: timeline
 image: /static/img/timeline/texaco-toy-1972.jpg
 tags:

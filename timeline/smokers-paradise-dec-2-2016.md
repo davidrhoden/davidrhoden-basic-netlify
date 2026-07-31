@@ -1,5 +1,5 @@
 ---
-title: I visited Smoker's Paradise in Toomey, Louisiana.
+title: I visited Smoker’s Paradise in Toomey, Louisiana.
 date: 2016-12-02T16:00:00.000Z
 excerpt: This country gas station has shoes and a topless bar in it.
 category: timeline

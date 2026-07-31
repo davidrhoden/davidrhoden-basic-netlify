@@ -1,7 +1,7 @@
 ---
 title: I asked that my bags be zipperooed, without much prompting.
 date: 2025-08-23T00:00:00
-excerpt: The fellow checking out in front of me at Canseco's brought his own insulated bag, for ice cream and the like, you know.
+excerpt: The fellow checking out in front of me at Canseco’s brought his own insulated bag, for ice cream and the like, you know.
 image: /static/img/timeline/insulated-bag-aug-23-2025.webp
 tags:
   - Canseco's

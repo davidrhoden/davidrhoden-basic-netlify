@@ -1,5 +1,5 @@
 ---
-title: Sally wasn't too jazzed about New Year's Eve.
+title: Sally wasn’t too jazzed about New Year’s Eve.
 date: 2011-12-31T11:00:00.000Z
 image: /static/img/sally/sally-yawn-new-years-eve-dec-31-2011.jpg
 tags:

@@ -1,7 +1,7 @@
 ---
 title: Stacks played the Circle Bar with Primitive Boys.
 date: 2013-04-05T22:00:00.000Z
-excerpt: Primitive Boys were great, but I don't think they ever played another show.
+excerpt: Primitive Boys were great, but I don’t think they ever played another show.
 category: rock
 tags:
   - post 

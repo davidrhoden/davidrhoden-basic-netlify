@@ -1,7 +1,7 @@
 ---
 title: Sally on the yard table at 181 Irving Avenue.
 date: 2011-07-28T16:00:00.000Z
-excerpt: I've never had such a loyal and companionable cat.
+excerpt: I’ve never had such a loyal and companionable cat.
 category: sally
 image: /static/img/sally/sally-at-irving-on-table-jul-28-2011.jpg
 tags:

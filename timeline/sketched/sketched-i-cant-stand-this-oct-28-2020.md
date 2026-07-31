@@ -1,7 +1,7 @@
 ---
 title: Sketched my feelings.
 date: 2020-10-28T11:00:00.000Z
-excerpt: I doodle while I'm on the phone, a lot (if not always). Sometimes it's my better work.
+excerpt: I doodle while I’m on the phone, a lot (if not always). Sometimes it’s my better work.
 category: timeline
 image: /static/img/sketchbook/i-cant-stand-this-oct-28-2020.jpg
 tags:

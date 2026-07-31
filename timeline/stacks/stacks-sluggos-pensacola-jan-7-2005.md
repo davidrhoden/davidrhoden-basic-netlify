@@ -1,5 +1,5 @@
 ---
-title: The Stacks played Sluggo's in Pensacola.
+title: The Stacks played Sluggo’s in Pensacola.
 date: 2005-01-07T22:00:00.000Z
 excerpt: I sort of made an ass of myself.
 image: /static/img/rock/stacks/stacks-pandemic-recordings-with-andre-red.jpg

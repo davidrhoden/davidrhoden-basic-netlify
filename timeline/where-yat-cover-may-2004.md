@@ -1,7 +1,7 @@
 ---
-title: i did the cover illustration for Where Y'At magazine.
+title: i did the cover illustration for Where Y’At magazine.
 date: 2004-05-01T12:00:00.000Z
-excerpt: It's a magazine that covers events and listings in new Orleans.
+excerpt: It’s a magazine that covers events and listings in new Orleans.
 category: illustrations
 image: /static/img/timeline/whereyat-cover-may-2004.jpg
 tags:

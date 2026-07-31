@@ -1,7 +1,7 @@
 ---
 title: Shadow got in a rose bush. And I found a strange beehive.
 date: 2026-04-29T00:00:00
-excerpt: It was cute, everything she does is cute, but an angry bird didn't think it was so cute.
+excerpt: It was cute, everything she does is cute, but an angry bird didn’t think it was so cute.
 image: /static/img/shadow/shadow-in-rosebush-apr-29-2026.jpeg
 tags:
   - cats

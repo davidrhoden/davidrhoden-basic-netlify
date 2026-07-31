@@ -1,5 +1,5 @@
 ---
-title: "The Stacks played at Dr. Cliff Davis's garage."
+title: "The Stacks played at Dr. Cliff Davis’s garage."
 date: 2004-09-04T20:00:00.000Z
 excerpt: I think this was the first time playing the garage.
 image: /static/img/rock/stacks/stacks-dr-cliff-sep-4-2004.jpg

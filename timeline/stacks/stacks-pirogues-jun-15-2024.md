@@ -1,5 +1,5 @@
 ---
-title: Stacks play a Saturday night in June at Pirogue's Whiskey Bayou.
+title: Stacks play a Saturday night in June at Pirogue’s Whiskey Bayou.
 date: 2024-06-15T17:00:00.000Z
 excerpt: June 15, 2024. 8 - 10 p.m. (Strictly observed.)
 image: /static/img/rock/stacks/stacks-flyer-pirogues-jun-15-2024.jpg

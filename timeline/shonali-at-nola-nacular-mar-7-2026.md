@@ -1,5 +1,5 @@
 ---
-title: Saw Shonali and Marcellus at Anthony DelRosario's gallery.
+title: Saw Shonali and Marcellus at Anthony DelRosario’s gallery.
 date: 2026-03-07T00:00:00
 excerpt: 
 summary: 

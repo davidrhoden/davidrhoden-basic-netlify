@@ -1,7 +1,7 @@
 ---
 title: The Stacks played at Saturn Bar and someon filmed it and put it on YouTube.
 date: 2014-04-11T00:00:00
-excerpt: I really had a wild time watching this. For one thing I have the opposite of a bad body image; in my mind I'm much thinner and have more hair.
+excerpt: I really had a wild time watching this. For one thing I have the opposite of a bad body image; in my mind I’m much thinner and have more hair.
 image: /static/img/timeline/stacks-play-saturn-bar-yt-screenshot-apr-11-2024.png
 tags:
   - shows

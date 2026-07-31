@@ -1,5 +1,5 @@
 ---
-title: "Stacks played Siberia with Original Shake Charmers and Guitar Lightnin'."
+title: "Stacks played Siberia with Original Shake Charmers and Guitar Lightnin’."
 date: 2013-01-11T22:00:00.000Z
 excerpt: Tuesday night rock and roll. Good crowd, actually.
 image: /static/img/rock/stacks/stacks-pandemic-recordings-with-andre-red.jpg

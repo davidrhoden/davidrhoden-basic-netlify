@@ -1,5 +1,5 @@
 ---
-title: Stacks played Ernie K-Doe's Mother-In-Law Lounge with the Interlopers.
+title: Stacks played Ernie K-Doe’s Mother-In-Law Lounge with the Interlopers.
 date: 2005-04-30T22:00:00.000Z
 excerpt: Interlopers had a good new record about to come out.
 image: /static/img/rock/stacks/stacks-pandemic-recordings-with-andre-red.jpg

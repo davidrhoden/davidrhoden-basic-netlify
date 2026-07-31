@@ -1,7 +1,7 @@
 ---
 title: I made a simple portfolio website for a friend.
 date: 2007-07-27T00:00:00
-excerpt: I've never been great at getting actual work done in coffeeshops.
+excerpt: I’ve never been great at getting actual work done in coffeeshops.
 image: /static/img/timeline/tina-deramus-site-jul-27-2007.png
 tags:
   - websites

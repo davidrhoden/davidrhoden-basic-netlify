@@ -1,5 +1,5 @@
 ---
-title: Stacks played Sidney's Saloon with The Drupes.
+title: Stacks played Sidney’s Saloon with The Drupes.
 date: 2021-07-10T22:00:00.000Z
 excerpt: The Drupes are just great.
 category: rock

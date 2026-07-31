@@ -1,7 +1,7 @@
 ---
 title: Watched a sunset with a dog.
 date: 2020-12-17T17:00:00.000Z
-excerpt: Gina's dog Daisy doesn't have a lot of fur.
+excerpt: Gina’s dog Daisy doesn’t have a lot of fur.
 category: timeline
 image: /static/img/gina/daisy-blanket-dec-17-2020.jpg
 tags:
