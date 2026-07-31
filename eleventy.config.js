@@ -167,9 +167,10 @@ export default function (eleventyConfig) {
   eleventyConfig.addCollection("postsAndNotes", function (collectionApi) {
       const posts = collectionApi.getFilteredByTag("post");
       const notes = collectionApi.getFilteredByTag("note");
+      const things = collectionApi.getFilteredByTag("things i like");
 
       // Combine and sort by date (oldest → newest)
-      const combined = posts.concat(notes).sort((a, b) => a.date - b.date);
+      const combined = posts.concat(notes).concat(things).sort((a, b) => a.date - b.date);
 
       return combined;
     });
