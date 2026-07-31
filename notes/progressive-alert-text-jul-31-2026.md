@@ -2,7 +2,7 @@
 title: I got a fundraising text that made me mad, until I realized it wasn't a fundraising text.
 date: 2026-07-31T00:00:00
 excerpt:  I thought, "OMG, these Dem fundraisers are getting ridiculous!" but then...
-image: /static/img/timeline/progressive-alert-jul-31-2026.png
+image: /static/img/timeline/progressive-alert-315x220-jul-31-2026.png
 tags:
   - Democrats
   - fundraising
