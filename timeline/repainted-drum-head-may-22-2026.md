@@ -1,5 +1,5 @@
 ---
-title: I've been meaning to get around to repainting this drum head for twenty-one years.
+title: I’ve been meaning to get around to repainting this drum head for twenty-one years.
 date: 2026-05-22T00:00:00
 excerpt: This drum head was green, before the green got mostly washed off in Hurricane Katrina.
 image: /static/img/rock/stacks/stacks-drum-head-green-may-22-2026.jpeg

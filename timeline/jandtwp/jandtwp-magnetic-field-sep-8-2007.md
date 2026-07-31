@@ -1,7 +1,7 @@
 ---
 title: Jimmy and The Wolfpack played at Magnetic Field in Brooklyn with Jonny Chan and The New Dynasty Six.
 date: 2007-09-08T00:00:00
-excerpt: That's right--America's two greatest "And The" combos on one stage making people happy.
+excerpt: That’s right--America’s two greatest "And The" combos on one stage making people happy.
 image: 
 tags:
   - shows

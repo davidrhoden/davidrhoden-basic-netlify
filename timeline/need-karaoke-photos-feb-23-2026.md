@@ -1,7 +1,7 @@
 ---
 title: I need photos of people doing karaoke, you got any?
 date: 2026-02-23T00:00:00
-excerpt: The sillier the better, but I guess that's obvious.
+excerpt: The sillier the better, but I guess that’s obvious.
 image: /static/img/karaoke/karaoke-zines-v-1-3-feb-23-2026.jpg
 tags:
   - crtoons

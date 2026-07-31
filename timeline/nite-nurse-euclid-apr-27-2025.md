@@ -1,5 +1,5 @@
 ---
-title: Saw Josh Lee Hooker's Nite Nurse play a great show at Euclid Records.
+title: Saw Josh Lee Hooker’s Nite Nurse play a great show at Euclid Records.
 date: 2025-04-27T00:00:00
 excerpt: Josh is a funny guy, very witty, but he takes the rock seriously as gospel.
 image: /static/img/timeline/nite-nurse-euclid-1-apr-27-2025.jpeg

@@ -1,5 +1,5 @@
 ---
-title: Saw Jon Spencer Blues Explosion at One Eyed Jack's.
+title: Saw Jon Spencer Blues Explosion at One Eyed Jack’s.
 date: 2013-01-20T22:00:00.000Z
 excerpt: Good show. Mike Edison was in town.
 tags:

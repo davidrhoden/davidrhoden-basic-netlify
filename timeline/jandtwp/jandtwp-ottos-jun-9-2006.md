@@ -1,5 +1,5 @@
 ---
-title: "Jimmy and The Wolfpack played at Otto's Shrunken Head."
+title: "Jimmy and The Wolfpack played at Otto’s Shrunken Head."
 date: 2006-06-09T20:00:00.000Z
 excerpt: This was a nice place to play in New York.
 category: rock

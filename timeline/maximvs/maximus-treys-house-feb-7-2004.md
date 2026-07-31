@@ -1,5 +1,5 @@
 ---
-title: "MAXIMVS! played a Mardi Gras type party at Trey's house."
+title: "MAXIMVS! played a Mardi Gras type party at Trey’s house."
 date: 2004-02-07T20:00:00.000Z
 excerpt: Actually our first show.
 category: timeline

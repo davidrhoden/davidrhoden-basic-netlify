@@ -1,7 +1,7 @@
 ---
 title: More demolition on Tricou Street.
 date: 2026-05-15T00:00:00
-excerpt: There was one big boom today, when I think they pulled down more than they meant to. But I didn't have my camera.
+excerpt: There was one big boom today, when I think they pulled down more than they meant to. But I didn’t have my camera.
 image: /static/img/timeline/warehouse-demolition-may-15-2026/demolition-tricou-new-view-of-the-sunset.may-15-2026.jpeg
 tags:
   - New Orleans

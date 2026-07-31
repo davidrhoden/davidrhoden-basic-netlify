@@ -1,7 +1,7 @@
 ---
 title: I painted a chap.
 date: 2026-01-04T00:00:00
-excerpt: I don't know what else to call it. Or him.
+excerpt: I don’t know what else to call it. Or him.
 image: /static/img/paintings/chap-jan-4-2026.jpg
 tags:
   - paintings

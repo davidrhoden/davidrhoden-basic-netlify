@@ -1,7 +1,7 @@
 ---
 title: A little souvenir of a terrible year.
 date: 2026-07-12T00:00:00
-excerpt: Here's where the story ends.
+excerpt: Here’s where the story ends.
 image: /static/img/karaoke/where-the-story-ends-jul-12-2026.jpeg
 tags:
   - cartoons

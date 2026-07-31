@@ -1,5 +1,5 @@
 ---
-title: Saw The Lyres at Brownie's.
+title: Saw The Lyres at Brownie’s.
 date: 1997-02-08T22:00:00.000Z
 excerpt: This had to be the time they were almost snowed out.
 tags:

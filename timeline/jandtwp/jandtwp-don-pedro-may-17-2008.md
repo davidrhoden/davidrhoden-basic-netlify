@@ -1,5 +1,5 @@
 ---
-title: Jimmy and The Wolfpack played Don Pedro's again.
+title: Jimmy and The Wolfpack played Don Pedro’s again.
 date: 2008-05-17T22:00:00.000Z
 image: /static/img/rock/jandtwp-cd-cover.jpg
 tags:

@@ -1,7 +1,7 @@
 ---
 title: I got interviewed by Bunny Matthews for Offbeat.
 date: 2002-11-01T10:00:00.000Z
-excerpt: I don't think the managing editor was too thrilled.
+excerpt: I don’t think the managing editor was too thrilled.
 category: press
 image: /static/img/press/disndatoffbeatarticlep1.jpg
 tags:

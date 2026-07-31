@@ -1,5 +1,5 @@
 ---
-title: "We had a little pickin' party."
+title: "We had a little pickin’ party."
 date: 2018-03-02T19:00:00.000Z
 excerpt: For my birthday we had a campfire and a pickin party.
 category: timeline

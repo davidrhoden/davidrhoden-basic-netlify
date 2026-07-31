@@ -1,8 +1,8 @@
 ---
-title: Jimmy and The Wolfpack played Don Pedro's.
+title: Jimmy and The Wolfpack played Don Pedro’s.
 date: 2007-12-08T22:00:00.000Z
 image: /static/img/rock/jandtwp-cd-cover.jpg
-excerpt: I'm finally on you tube...and of course you can't see me at all.
+excerpt: I’m finally on you tube...and of course you can’t see me at all.
 tags:
   - post
   - rock

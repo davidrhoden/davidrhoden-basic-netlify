@@ -1,7 +1,7 @@
 ---
 title: Jimmy and The Wolfpack played Matchless with The Hall Monitors and The Shalitas.
 date: 2007-05-26T00:00:00
-excerpt: Memorial Day weekend, so you'll be on vacation.
+excerpt: Memorial Day weekend, so you’ll be on vacation.
 image: /static/img/rock/jandtwp-bar-matchless-mar-17-2011.jpg
 tags:
   - shows

@@ -1,7 +1,7 @@
 ---
 title: Drew a karaoke cartoon.
 date: 2025-08-14T00:00:00
-excerpt: It's magic, you know.
+excerpt: It’s magic, you know.
 image: /static/img/karaoke/its-magic-aug-14-2025.jpg
 tags:
   - cartoons

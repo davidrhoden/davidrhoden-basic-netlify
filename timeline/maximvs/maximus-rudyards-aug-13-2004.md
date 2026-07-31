@@ -1,5 +1,5 @@
 ---
-title: MAXIMVS! played at Rudyard's in Houston.
+title: MAXIMVS! played at Rudyard’s in Houston.
 date: 2004-08-13T20:00:00.000Z
 excerpt: How big is your want-to?
 category: timeline

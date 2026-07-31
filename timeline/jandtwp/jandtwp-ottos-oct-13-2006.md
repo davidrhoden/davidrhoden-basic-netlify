@@ -1,5 +1,5 @@
 ---
-title: Jimmy and The Wolfpack returned to Otto's Shrunken Head.
+title: Jimmy and The Wolfpack returned to Otto’s Shrunken Head.
 date: 2006-10-13T22:00:00.000Z
 image: /static/img/rock/jandtwp-cd-cover.jpg
 tags:

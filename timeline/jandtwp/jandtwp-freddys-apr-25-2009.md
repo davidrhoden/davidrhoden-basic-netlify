@@ -1,5 +1,5 @@
 ---
-title: Jimmy and The Wolfpack played Freddy's Back Room with Mike Cobb and The Crevulators.
+title: Jimmy and The Wolfpack played Freddy’s Back Room with Mike Cobb and The Crevulators.
 date: 2009-04-25T22:00:00.000Z
 image: /static/img/rock/jandtwp-cd-cover.jpg
 tags:

@@ -1,7 +1,7 @@
 ---
 title: I drew one more little karaoke picture.
 date: 2026-05-21T00:00:00
-excerpt: Love this band, don't like this song.
+excerpt: Love this band, don’t like this song.
 image: /static/img/karaoke/come-dancing-may-21-2026.jpeg
 tags:
   - cartoons

@@ -1,7 +1,7 @@
 ---
 title: I drew a cartoon about an imagined future.
 date: 2025-06-29T00:00:00
-excerpt: Or maybe it's someone's unimagined present.
+excerpt: Or maybe it’s someone’s unimagined present.
 image: /static/img/karaoke/procol-harum-jun-29-2025.jpg
 tags:
   - cartoons

@@ -1,5 +1,5 @@
 ---
-title: I've been doodling on chunks of scrap wood for fun.
+title: I’ve been doodling on chunks of scrap wood for fun.
 date: 2026-05-19T00:00:00
 excerpt: When I did that art show a few weeks ago, I wished I had some small, quickly produced art to sell, or even give away. These are appropriate business cards for me.
 image: /static/img/karaoke/abracadabra-wood-may-19-2026.jpeg

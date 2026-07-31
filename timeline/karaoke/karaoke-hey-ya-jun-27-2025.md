@@ -1,7 +1,7 @@
 ---
 title: I drew a karaoke cartoon while I was supposed to be doing something else.
 date: 2025-06-27T00:00:00
-excerpt: Life is what happens when you're busy making other plans.
+excerpt: Life is what happens when you’re busy making other plans.
 image: /static/img/karaoke/hey-ya-jun-27-2025.jpg
 tags:
   - cartoons

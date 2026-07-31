@@ -1,5 +1,5 @@
 ---
-title: A cat slept in my bed. It wasn't my cat.
+title: A cat slept in my bed. It wasn’t my cat.
 date: 2022-08-29T11:00:00.000Z
 image: /static/img/timeline/otter/otter-in-my-bed-2-jun-18-2022.jpg
 tags:

@@ -2,7 +2,7 @@
 title: We spent some summer days at the Red Barn in Deposit, New York.
 date: 1998-07-04T12:00:00.000Z
 summary: We loved the Red Barn and our Buffalo friends we'd see there. The place we stayed was another story.
-excerpt: We loved the Red Barn and our Buffalo friends we'd see there. The place we stayed was another story.
+excerpt: We loved the Red Barn and our Buffalo friends we’d see there. The place we stayed was another story.
 image: dave-red-barn-jul-1998.jpg
 tags:
   - post 
