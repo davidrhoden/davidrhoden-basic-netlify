@@ -19,3 +19,5 @@ I get dozens of texts every day from ActBlue and other even less savory Democrat
 But today I got a text that really made me mad! It said: "Progressive Alert: your next payment will be withdrawn...." and I thought, "OMG, these Dem fundraisers are getting ridiculous! They're threatening automatic withdrawals now?" But then I remembered, "Progressive" doesn't refer to me, it refers to my car insurance.
 
 So never mind.
+
+
