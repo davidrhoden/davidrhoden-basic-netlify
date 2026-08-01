@@ -1,7 +1,7 @@
 ---
 title: "Things I Like: Things We Love"
 date: 2026-08-01T00:00:00
-excerpt: 
+excerpt: I was sorting through my papers, my enitre life's correspondence, and found this terrific limited edition card I got from Aaron Draplin somehow.
 image: /static/img/things-i-like/draplin-design-card-front-scanned-aug-1-2026.jpeg
 tags:
   - Draplin Design Co.
