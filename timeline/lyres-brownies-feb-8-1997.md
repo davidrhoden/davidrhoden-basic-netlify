@@ -14,6 +14,6 @@ tags:
 
 ---
 
-If this is the show I'm thinking of, the Lyries arrived really late because of snow on the road, then played a stellar show, barely ever looking at the audience.
+If this is the show I'm thinking of, the Lyres arrived really late because of snow on the road, then played a stellar show, barely ever looking at the audience.
 
 It could also be a different show.
