@@ -16,7 +16,7 @@ tags:
 
 What I'm learning from these alleged Daily Drawings, many of which I've missed, is:
 
-a. I don't draw nearly enough to be a good artist or even call muyself an artist, and
+a. I don't draw nearly enough to be a good artist or even call myself an artist, and
 b. Even little drawings take a lot of time.
 
 Also, my technique is very limited. I wish I could go take a course, if just to be made to draw.

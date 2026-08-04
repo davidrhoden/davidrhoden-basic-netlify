@@ -1,6 +1,6 @@
 ---
 title: Daily Drawing, July 28, 2026.
-date: 2028-07-28T00:00:00
+date: 2026-07-28T00:00:00
 excerpt: Got it done early today.
 image: /static/img/daily-drawing/daily-drawing-jul-28-2026.png
 ---
