@@ -10,3 +10,4 @@ tags:
 
 ![ Piggy-backed off my hardware store shopping list.](/static/img/daily-drawing/daily-drawing-shake-weight-aug-4-2026.jpeg)
 
+Piggy-backed off my hardware store shopping list.
