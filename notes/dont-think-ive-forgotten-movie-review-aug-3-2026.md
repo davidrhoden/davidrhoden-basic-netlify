@@ -1,6 +1,6 @@
 ---
 title: "Movie recommendation: Don’t Think I’ve Forgotten: Cambodia’s Lost Rock and Roll."
-date: 2026-08-03T00:00:00
+date: 2026-08-05T00:00:00
 excerpt: We just didn’t know anything about this music except that it rocked, undeniably. They could have been singing about mink coats or farm equipment.
 image: /static/img/notes/dont-think-ive-forgotten-poster-aug-3-2026.png
 tags:
