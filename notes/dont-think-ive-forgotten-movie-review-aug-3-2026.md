@@ -2,7 +2,7 @@
 title: "Movie recommendation: Don’t Think I’ve Forgotten: Cambodia’s Lost Rock and Roll."
 date: 2026-08-05T00:00:00
 excerpt: We just didn’t know anything about this music except that it rocked, undeniably. They could have been singing about mink coats or farm equipment.
-image: /static/img/notes/dont-think-ive-forgotten-poster-aug-3-2026.png
+image: /static/img/notes/dont-think-ive-forgotten/dont-think-ive-forgotten-poster-aug-3-2026.png
 tags:
   - movies
   - Cinema Dave
@@ -26,7 +26,7 @@ tags:
 
 ---
 
-![movie poster for Don't Think I've Forgotten: Cambodia's Lost Rock and Roll](/static/img/notes/dont-think-ive-forgotten-poster-aug-3-2026.png)
+![movie poster for Don't Think I've Forgotten: Cambodia's Lost Rock and Roll](/static/img/notes/dont-think-ive-forgotten/dont-think-ive-forgotten-poster-aug-3-2026.png)
 
 Sorry for the late review; the movie came out in 2014. It was new to me. It's an old film and an older story, so, spoilers follow. Please watch the movie first if you prefer not knowing.
 
