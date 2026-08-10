@@ -7,6 +7,7 @@ tags:
   - cartoons
   - karaoke
   - Elton John
+  - "Rocket Man"
   - misheard lyrics
 
 ---
