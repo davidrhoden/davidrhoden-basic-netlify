@@ -8,7 +8,7 @@ tags:
   - karaoke
   - Elton John
   - "Don’t Let The Sun Go Down On Me"
-  - disguard (discard, Elton John’s pronumnciation of)
+  - disguard (discard, Elton John’s pronunciation of)
 
 ---
 
