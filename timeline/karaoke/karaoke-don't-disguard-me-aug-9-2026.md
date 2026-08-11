@@ -1,5 +1,5 @@
 ---
-title: The way Elton John pronounces ”discard“ has always puzzled me.
+title: The way Elton John pronounces “discard” has always puzzled me.
 date: 2026-08-09T00:00:00
 excerpt: He’s welcome to pronounce it any way he wants, but I hope somebody close to him explained it’s not “disguard”.
 image: /static/img/karaoke/dont-disguard-me-aug-9-2026.jpeg
