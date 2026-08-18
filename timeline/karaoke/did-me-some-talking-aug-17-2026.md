@@ -20,7 +20,7 @@ tags:
 
 I'm not a real believer in B.J. Thomas. He's got a great voice but (to me) he doesn't put any personality into his records. I don't think he cares what the songs are about.
 
-When he sings "Do What You Gotta Do", a great Jim Webb song that Nina Simone crushes, he he signs the line "find that dappled dream of yours" (great, wonderful, true art) as "find that dapper dream of yours" (makes no sense). That's a "no" in my book.
+When he sings "Do What You Gotta Do", a great Jim Webb song that Nina Simone crushes, he sings the line "find that dappled dream of yours" (great, wonderful, true art) as "find that dapper dream of yours" (makes no sense). That's a "no" in my book.
 
 B. J. Thomas, "Do What You Gotta Do":
 <iframe width="768" height="432" src="https://www.youtube.com/embed/fs0GzqpWuDU?si=A3-LK4PRv4cIT_j5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
