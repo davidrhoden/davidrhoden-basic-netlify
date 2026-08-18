@@ -4,7 +4,6 @@ date: 2026-08-12T00:00:00
 excerpt: I was testing out pens, and that turned out to be may daily drawing.
 image: /static/img/daily-drawing/copic-multiliner-aug-12-2026.jpeg
 tags:
-  - daily drawing
   - Copic Multiliner
 
 ---
