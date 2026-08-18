@@ -1,5 +1,5 @@
 ---
-title: Daily drawing, August 2, 2026.
+title: "Daily drawing, August 2, 2026: Party, all the time."
 date: 2026-08-02T00:00:00
 excerpt: She wants to party all the time.
 image: /static/img/daily-drawing/party-all-the-time-aug-2-2026.jpeg
@@ -12,7 +12,7 @@ tags:
 
 ---
 
-![daily drawing: on a post-it, a man with glasses calmly saying "she wants to party all the time".t](/static/img/daily-drawing/party-all-the-time-aug-2-2026.jpeg)
+![daily drawing: on a post-it, a man with glasses calmly saying "she wants to party all the time".](/static/img/daily-drawing/party-all-the-time-aug-2-2026.jpeg)
 
 What I'm learning from these alleged Daily Drawings, many of which I've missed, is:
 

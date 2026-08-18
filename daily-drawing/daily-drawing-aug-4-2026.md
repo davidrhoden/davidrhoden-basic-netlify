@@ -1,5 +1,5 @@
 ---
-title: Daily Drawing, August 4. 2026.
+title: "Daily Drawing, August 4, 2026: Shake weight."
 date: 2026-08-04T00:00:00
 excerpt: Piggy-backed off my hardware store shopping list.
 image: /static/img/daily-drawing/daily-drawing-shake-weight-aug-4-2026.jpeg
