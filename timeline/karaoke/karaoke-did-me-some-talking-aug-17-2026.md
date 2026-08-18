@@ -16,11 +16,11 @@ tags:
 
 ---
 
-![cartoon of woman singing "I did me some talking with the sun and i said I didn't like the way he got things done" on a spurious home karaoke machine](/static/img/karaoke/did-me-some-talking-aug-17-2026.jpeg)
+![cartoon of woman singing "I did me some talking with the sun and I said I didn't like the way he got things done" on a spurious home karaoke machine](/static/img/karaoke/did-me-some-talking-aug-17-2026.jpeg)
 
-I'm not a real believer in B.J. Thomas. He's got a great voice but (to me) he doesn't put any personality into his records. I don't think he cares what the songs are about.
+I'm not a real believer in B.J. Thomas. He's got a great voice but (to me) he doesn't put any personality into his records. I don't think he cares or even thinks about what the songs are about.
 
-When he sings "Do What You Gotta Do", a great Jim Webb song that Nina Simone crushes, he sings the line "find that dappled dream of yours" (great, wonderful, true art) as "find that dapper dream of yours" (makes no sense). That's a "no" in my book.
+When he sings "Do What You Gotta Do", a great Jim Webb song (that Nina Simone _crushes_), he sings the line "find that dappled dream of yours" (great, wonderful, true art) as "find that dapper dream of yours" (makes no sense). That's a "no" in my book.
 
 So, lets forget about "Raindrops Are Falling On My Head", which we've all heard plenty of, and listen to a few versions of the wonderful "Do What You Gotta Do".
 
@@ -30,7 +30,7 @@ B. J. Thomas, "Do What You Gotta Do":
 Nina Simone, "Do What You Gotta Do":
 <iframe width="768" height="432" src="https://www.youtube.com/embed/ZJUBxaL8PD4?si=6glH_MtIn4FEVmU7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-The definitive version for me. She's the only one who puts the emphasis of the song in the correct place (even the composer doesn't do it this way) when she sings "I've love you better than YOUR OWN KIIINNN! did".
+The definitive version for me. She's the only one who puts the emphasis of the song in the correct place (even the composer doesn't do it this way) when she sings "I've loved you better than YOUR OWN KIIINNN! did". That's why her version wins, but it's really everything. Marvelous interpretation. As in, this is why people write songs and enjoy songs.
 
 BONUS TRACKS
 
@@ -52,7 +52,7 @@ A natural singer who always sounds like he's ready to move on to the next song, 
 Jim Webb, "Do What You Gotta Do":
 <iframe width="768" height="432" src="https://www.youtube.com/embed/D55gNww6jeM?si=lATZH4JudhIE4GzP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-He sings it like he's already over it (go back and listen to Nina Simone; she sings it like she's _pissed_.) Jimmy Webb is capable of really good interpretations of his own songs, but this is just like countrypolitan shoe polish.
+The composer takes on his composition. He sings it like he's already over it (go back and listen to Nina Simone; she sings it like she's _pissed_and _dejected_). That's a fair way to read the words, but not a great way to read the words. Jimmy Webb is capable of really good interpretations of his own songs, but this is just like countrypolitan shoe polish. Pointlessly slick arrangement.
 
 Tom Jones, "Do What You Gotta Do":
 <iframe width="768" height="432" src="https://www.youtube.com/embed/tLijUwQxD5Y?si=U5zbTPiCd161bj5D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
