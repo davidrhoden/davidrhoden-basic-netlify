@@ -22,6 +22,8 @@ I'm not a real believer in B.J. Thomas. He's got a great voice but (to me) he do
 
 When he sings "Do What You Gotta Do", a great Jim Webb song that Nina Simone crushes, he sings the line "find that dappled dream of yours" (great, wonderful, true art) as "find that dapper dream of yours" (makes no sense). That's a "no" in my book.
 
+So, lets forget about "Raindrops Are Falling On My Head", which we've all heard plenty of, and listen to a few versions of the wonderful "Do What You Gotta Do".
+
 B. J. Thomas, "Do What You Gotta Do":
 <iframe width="768" height="432" src="https://www.youtube.com/embed/fs0GzqpWuDU?si=A3-LK4PRv4cIT_j5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -45,24 +47,24 @@ Very pretty. Like in many Roberta Flack interpretations, she ignores the melody 
 Johnny Rivers, "Do What You Gotta Do":
 <iframe width="768" height="432" src="https://www.youtube.com/embed/7NSjT27M3M0?si=gi16aRaAgtZrzD4S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-A natural singer who always sounds like he's ready to move on to the next song, his country radio voice and demeanor is just too unromantic for this material. But he doesn't wreck it. Not great though.
+A natural singer who always sounds like he's ready to move on to the next song, his country radio voice and demeanor is just too unromantic for this material. He doesn't wreck it. Not great though.
 
 Jim Webb, "Do What You Gotta Do":
 <iframe width="768" height="432" src="https://www.youtube.com/embed/D55gNww6jeM?si=lATZH4JudhIE4GzP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-He sings it like he's already over it (go back and listen to Nina Simone; she sings it like she's _pissed_.) Jimmy Webb is capable orf really good interpretations of his own songs but this is just like countrypolitan shoe polish.
+He sings it like he's already over it (go back and listen to Nina Simone; she sings it like she's _pissed_.) Jimmy Webb is capable of really good interpretations of his own songs, but this is just like countrypolitan shoe polish.
 
 Tom Jones, "Do What You Gotta Do":
 <iframe width="768" height="432" src="https://www.youtube.com/embed/tLijUwQxD5Y?si=U5zbTPiCd161bj5D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-This is super! Tom Jones can only give 110%, so he does it here,  with a lot of sensitivity to the meaning of the words. This is nothing like a dejected, rejected lover admitting defeat, and saving face (like Nina Simone's version is; the correct interpretation), but I don't think that would ever happen to Tom Jones, so this is more of a kisso-ff with a hint of "you'll be back, it's cool".
+This is super! Tom Jones can only give 110%, so he does it here,  with a lot of sensitivity to the meaning of the words. This is nothing like a dejected, rejected lover admitting defeat, and saving face (like Nina Simone's version is; the correct interpretation), but I don't think that would ever happen to Tom Jones, so this is more of a kiss-off with a hint of "you'll be back, it's cool".
 
 Al Wilson, "Do What You Gotta Do":
 <iframe width="768" height="432" src="https://www.youtube.com/embed/hi02YH039tg?si=U2WJQ4-TIKFCEER6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-This is good. Actually, this is very good. Sometimes Al Wilson just sounds glad to be here. When he was on the Midnight Special TV show, Dr. Hook were the hosts. They're wasted, and they're jiving coarsely with Al, who just seems baffled and intimidated by the whole thing. At one point he says (paraphrasing): "I also...I also have a degree in electrical engineering", like he wants no part of this music thing. His hits "The Snake" and ["Show and Tell"](https://youtu.be/ddDgNqaERSE?si=Gl4TWaz-DHAUS2ju) are good ones though.
+This is good. Actually, this is very good. Sometimes Al Wilson just sounds glad to be here. When he was on the Midnight Special TV show, Dr. Hook were the hosts. They're wasted, and they're jiving coarsely with Al, who just seems baffled and intimidated by the whole thing. At one point he says (paraphrasing): "I also...I also have a degree in electrical engineering", like he wants no part of this music thing. His hits "The Snake" and ["Show and Tell"](https://youtu.be/ddDgNqaERSE?si=Gl4TWaz-DHAUS2ju) are good ones though. A great talent. I don't think he found a unique voice of his own. He still deserved to be heard more.
 
 Linda Ronstadt, "Do What You Gotta Do":
 <iframe width="768" height="432" src="https://www.youtube.com/embed/6C-gactSFT0?si=TTKj2y5RmicXmIPb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-By the end this is just a showcase for her amazing pipes, but the first half, when she's just singing the song, it sounds really sad. That part is better.
+By the end this is just a showcase for her amazing pipes and an overpaid arranger, but in the first half, when she's just singing the song without trying so hard, it sounds really sad. That part is better.
