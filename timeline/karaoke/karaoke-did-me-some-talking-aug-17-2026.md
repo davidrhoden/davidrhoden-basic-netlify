@@ -7,12 +7,20 @@ tags:
   - cartoons
   - karaoke
   - B.J. Thomas
-  - "Raindrops Keep Falling On My Head"
+  - '"Raindrops Keep Falling On My Head"'
   - Bacharach/David
   - Jim Webb
   - Nina Simone
-  - "Do What You Gotta Do"
-  - "find that dappled dream of yours"
+  - '"Do What You Gotta Do"'
+  - '"find that dappled dream of yours"'
+  - '"P.F. Sloan"'
+  - Clarence Carter
+  - Johnny Rivers
+  - Linda Ronstadt
+  - Roberta Flack
+  - Tom Jones
+  - Al Wilson
+  - '"Show And Tell" (Al Wilson song)'
 
 ---
 
@@ -30,7 +38,7 @@ B. J. Thomas, "Do What You Gotta Do":
 Nina Simone, "Do What You Gotta Do":
 <iframe width="768" height="432" src="https://www.youtube.com/embed/ZJUBxaL8PD4?si=6glH_MtIn4FEVmU7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-The definitive version for me. She's the only one who puts the emphasis of the song in the correct place (even the composer doesn't do it this way) when she sings "I've loved you better than YOUR OWN KIIINNN! did". That's why her version wins, but it's really everything. Marvelous interpretation. As in, this is why people write songs and enjoy songs.
+The definitive version for me. She's the only one who puts the emphasis of the song in the correct place (even the composer doesn't do it this way) when she sings "I've loved you better than YOUR OWN KIIINNN! diiiiid". That's why her version wins, but it's really everything. Marvelous interpretation. As in, this is why people write songs and enjoy songs.
 
 BONUS TRACKS
 
@@ -52,7 +60,7 @@ A natural singer who always sounds like he's ready to move on to the next song, 
 Jim Webb, "Do What You Gotta Do":
 <iframe width="768" height="432" src="https://www.youtube.com/embed/D55gNww6jeM?si=lATZH4JudhIE4GzP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-The composer takes on his composition. He sings it like he's already over it (go back and listen to Nina Simone; she sings it like she's _pissed_and _dejected_). That's a fair way to read the words, but not a great way to read the words. Jimmy Webb is capable of really good interpretations of his own songs, but this is just like countrypolitan shoe polish. Pointlessly slick arrangement.
+The composer takes on his composition. He sings it like he's already over it (go back and listen to Nina Simone; she sings it like she's _pissed_ and _dejected_). "I'm over it" is a fair way to read the words, but not a _great_ way to read the words. Jimmy Webb is capable of really good interpretations of his own songs ([_P.F. Sloan_](https://youtu.be/SdcmJTbcUmw?si=tsZ6qFLU060R4YWc) being among my favorites), but this is just like countrypolitan shoe polish. Pointlessly slick arrangement.
 
 Tom Jones, "Do What You Gotta Do":
 <iframe width="768" height="432" src="https://www.youtube.com/embed/tLijUwQxD5Y?si=U5zbTPiCd161bj5D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
