@@ -12,4 +12,4 @@ tags:
 
 ---
 
-I think this was my first time seeing Gina with her band.
+I think this was my first time seeing Gina with her band. Sorry, no pictures.

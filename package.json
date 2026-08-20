@@ -39,7 +39,6 @@
     "js-yaml": "3.15.1"
   },
   "dependencies": {
-    "@11ty/eleventy-img": "^6.0.4",
     "@11ty/eleventy-navigation": "^0.3.2",
     "aos": "^2.3.4",
     "clean-css": "^5.3.3",
