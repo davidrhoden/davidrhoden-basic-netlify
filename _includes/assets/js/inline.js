@@ -357,3 +357,23 @@ $(document).ready(function() {
     }
   });
 });
+
+document.addEventListener('click', function(e) {
+  var facade = e.target.closest('.youtube-facade');
+  if (!facade) return;
+  var src = facade.getAttribute('data-src');
+  var title = facade.getAttribute('data-title') || 'YouTube video';
+  if (!src) return;
+  var separator = src.indexOf('?') > -1 ? '&' : '?';
+  var iframe = document.createElement('iframe');
+  iframe.src = src + separator + 'autoplay=1';
+  iframe.title = title;
+  iframe.setAttribute('frameborder', '0');
+  iframe.setAttribute('allow', 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share');
+  iframe.setAttribute('referrerpolicy', 'strict-origin-when-cross-origin');
+  iframe.setAttribute('allowfullscreen', '');
+  iframe.style.aspectRatio = '16/9';
+  iframe.style.maxWidth = '100%';
+  iframe.style.width = '100%';
+  facade.parentNode.replaceChild(iframe, facade);
+});

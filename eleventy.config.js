@@ -273,6 +273,28 @@ export default function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("_includes/assets/");
   eleventyConfig.addPassthroughCopy("singapore.html");
 
+  /* YouTube facade transform - replaces iframes with click-to-play thumbnails */
+  eleventyConfig.addTransform("youtube-facade", function(content) {
+    if (!this.page.outputPath || !this.page.outputPath.endsWith(".html")) {
+      return content;
+    }
+    return content.replace(
+      /<iframe([^>]*)><\/iframe>/g,
+      function(match, attrs) {
+        var srcMatch = attrs.match(/\bsrc="([^"]*youtube\.com\/embed\/([a-zA-Z0-9_-]+)[^"]*)"/);
+        if (!srcMatch) return match;
+        var src = srcMatch[1];
+        var videoId = srcMatch[2];
+        var titleMatch = attrs.match(/\btitle="([^"]*)"/);
+        var title = titleMatch ? titleMatch[1].replace(/"/g, '&quot;') : 'YouTube video';
+        return '<div class="youtube-facade" data-src="' + src + '" data-title="' + title + '">'
+          + '<img src="https://img.youtube.com/vi/' + videoId + '/hqdefault.jpg" alt="' + title + '" loading="lazy">'
+          + '<button class="youtube-play-btn" aria-label="Play ' + title + '"></button>'
+          + '</div>';
+      }
+    );
+  });
+
   /* Markdown Plugins */
   let options = {
     html: true,

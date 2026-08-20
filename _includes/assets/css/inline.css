@@ -70,6 +70,11 @@ body {
   font-family: var(--font-primary);
 }
 
+.header-spacer {
+  height: 6rem;
+  width: 100%;
+}
+
 /* Article layout - 1120px outer container */
 .latest-post-article {
   margin-left: auto;
@@ -91,7 +96,7 @@ article {
 article img {
   display: block;
   height: auto;
-  margin: 2em auto;
+  /*margin: 2em auto;*/
   max-width: 768px;
   width: 100%;
 }
@@ -2190,4 +2195,56 @@ span.fade:hover {
   .onetalker-trigger.modal-open .onetalker-image::after {
     opacity: 0;
   }
+}
+
+/* ============================================
+   YOUTUBE FACADE
+   ============================================ */
+
+.youtube-facade {
+  background: #000;
+  cursor: pointer;
+  display: block;
+  max-width: 100%;
+  position: relative;
+}
+
+.youtube-facade img {
+  display: block;
+  height: auto;
+  opacity: 0.85;
+  transition: opacity 0.2s;
+  width: 100%;
+}
+
+.youtube-facade:hover img {
+  opacity: 1;
+}
+
+.youtube-play-btn {
+  background: rgba(180, 0, 0, 0.9);
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  height: 48px;
+  left: 50%;
+  position: absolute;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  width: 68px;
+}
+
+.youtube-play-btn::after {
+  border-color: transparent transparent transparent #fff;
+  border-style: solid;
+  border-width: 10px 0 10px 18px;
+  content: '';
+  left: 50%;
+  position: absolute;
+  top: 50%;
+  transform: translate(-30%, -50%);
+}
+
+.youtube-facade:hover .youtube-play-btn {
+  background: #c00;
 }
