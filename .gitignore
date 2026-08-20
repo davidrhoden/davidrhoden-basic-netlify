@@ -5,6 +5,7 @@ support/
 .env
 /static/img-to-be-added
 /static/img/homepage-featured/unused-homepage-candidates/
+/static/img/paintings-to-add/
 /scripts/
 .DS_Store
 /newsletters/newsletter-outlines/
