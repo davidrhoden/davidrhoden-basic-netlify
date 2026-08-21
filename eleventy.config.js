@@ -196,6 +196,14 @@ export default function (eleventyConfig) {
   eleventyConfig.addFilter("firstNonAnnouncement", (arr) =>
     [...(arr || [])].reverse().find(post => !post.data.announcement) || null);
 
+  eleventyConfig.addFilter("prioritizeFirstImage", function(content) {
+    let done = false;
+    return (content || "").replace(/<img /g, function(match) {
+      if (!done) { done = true; return '<img fetchpriority="high" '; }
+      return match;
+    });
+  });
+
   eleventyConfig.addFilter("firstAnnouncement", (arr) =>
     [...(arr || [])].reverse().find(post => post.data.announcement) || null);
 

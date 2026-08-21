@@ -14,7 +14,7 @@ section: things-i-like
   </header>
 
   <section class="latest-post-content">
-    {{ content | safe }}
+    {{ content | prioritizeFirstImage | safe }}
   </section>
 
   {%- if tags %}

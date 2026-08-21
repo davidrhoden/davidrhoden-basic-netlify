@@ -22,7 +22,7 @@
   </header>
 
   <section class="latest-post-content">
-    {{ latest_post.content | safe }}
+    {{ latest_post.content | prioritizeFirstImage | safe }}
   </section>
 
   {% if latest_post.data.tags %}
