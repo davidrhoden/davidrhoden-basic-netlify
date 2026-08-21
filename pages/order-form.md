@@ -5,6 +5,7 @@ date: 2026-05-01T00:00:00.000Z
 permalink: /order-form/index.html
 excerpt: "Order a copy of my ’I’m holding in a lot of anger’ print."
 image: /static/img/illustrations/holding-anger-paper-print-aug-4-2024.jpg
+usePaypal: true
 eleventyNavigation:
   key: Order a print
   order: 14

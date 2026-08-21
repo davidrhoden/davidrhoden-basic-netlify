@@ -5,6 +5,7 @@ date: 2026-05-01T00:00:00.000Z
 permalink: /forsale/index.html
 excerpt: These are the paintings and things I currently have for sale.
 image: https://davidrhoden.com/static/img/representative-paintings.jpg
+usePaypal: true
 eleventyNavigation:
   key: Art For Sale
   order: 1
