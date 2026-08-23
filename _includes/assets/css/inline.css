@@ -2248,3 +2248,35 @@ span.fade:hover {
 .youtube-facade:hover .youtube-play-btn {
   background: #c00;
 }
+
+/* ============================================
+   PSYCH SWAP (hover/tap image reveal)
+   ============================================ */
+
+.psych-swap {
+  cursor: pointer;
+  display: block;
+  position: relative;
+}
+
+.psych-after,
+.psych-text {
+  display: none;
+}
+
+.psych-swap:hover .psych-before,
+.psych-swap.is-revealed .psych-before {
+  display: none;
+}
+
+.psych-swap:hover .psych-after,
+.psych-swap.is-revealed .psych-after {
+  display: block;
+}
+
+.psych-swap:hover .psych-text,
+.psych-swap.is-revealed .psych-text {
+  display: block;
+  font-size: 36px;
+  font-weight: bold;
+}

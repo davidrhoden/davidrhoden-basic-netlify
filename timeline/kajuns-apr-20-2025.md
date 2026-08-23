@@ -10,8 +10,8 @@ tags:
   - ChanDella
   - New Orleans
   - St. Claude Avenue
-  - "Thunder Road"
-  - "To Love Somebody"
+  - '"Thunder Road"'
+  - '"To Love Somebody"'
 ---
 
 ![Andrew D at Kajun's doing "Thunder Road"](/static/img/timeline/andrew-kajuns-1-apr-20-2025.jpeg)
