@@ -38,7 +38,7 @@ I think we played both before and after the Saturn and Muses parades.
 
 ![MAXIMVS! plays at the Big Top Gallery, February 18, 2004.](/static/img/rock/maximvs/maximvs-big-top-feb-18-2004/maximvs-04-feb-18-2004.jpg "MAXIMVS! plays at the Big Top Gallery, February 18, 2004.")
 
-![MAXIMVS! plays at the Big Top Gallery, February 18, 2004.](/static/img/rock/maximvs/maximvs-big-top-feb-18-2004/david-drumming-feb-18-2004.jpg "MAXIMVS! plays at the Big Top Gallery, February 18, 2004.")
+![MAXIMVS! plays at the Big Top Gallery, February 18, 2004.](/static/img/rock/maximvs/maximvs-big-top-feb-18-2004/david-rhoden-drumming-feb-18-2004.jpg "MAXIMVS! plays at the Big Top Gallery, February 18, 2004.")
 
 ![MAXIMVS! plays at the Big Top Gallery, February 18, 2004.](/static/img/rock/maximvs/maximvs-big-top-feb-18-2004/jeff-and-trey-feb-18-2004.jpg "MAXIMVS! plays at the Big Top Gallery, February 18, 2004.")
 
