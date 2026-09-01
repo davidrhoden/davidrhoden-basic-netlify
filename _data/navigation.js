@@ -28,6 +28,11 @@ export default [
         tooltip: "In law school a professor asked us if we had dream jobs. I wrote down 'animation'."
       },
       {
+        title: "Karaoke",
+        url: "/tags/karaoke/",
+        tooltip: "My karaoke cartoons."
+      },
+      {
         title: "Art For Sale",
         url: "https://thisismyhappening.com",
         tooltip: "External link: See my paintings for sale at my other site, thisismyhappening.com.",
