@@ -57,17 +57,13 @@ if (scrollContainer) {
 }
 
 document.addEventListener("DOMContentLoaded", function () {
-  // magnificPopup for #bricks — still requires jQuery/magnific-popup
-  if (typeof $ !== "undefined" && $.fn.magnificPopup) {
-    $("#bricks ul li, #bricks ol li").magnificPopup({
-      delegate: "a",
-      gallery: {
-        enabled: true,
-        navigateByImgClick: true,
-        preload: [0, 1],
-      },
-      type: "image",
+  // GLightbox for #bricks image gallery
+  var bricksLinks = document.querySelectorAll("#bricks ul li a, #bricks ol li a");
+  if (bricksLinks.length) {
+    bricksLinks.forEach(function (link) {
+      link.setAttribute("data-gallery", "bricks-gallery");
     });
+    GLightbox({ selector: "#bricks ul li a, #bricks ol li a" });
   }
 });
 

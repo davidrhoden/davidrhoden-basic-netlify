@@ -41,7 +41,7 @@
             {%- for item in dataItems %}
               <li data-painting-id="{{ loop.index0 }}">
                   {# Regular image galleries #}
-                  <a href="{{ item.image }}" class="gallery-image-link" title="{{ item.title }}">
+                  <a href="{{ item.image }}" class="gallery-image-link" data-gallery="gallery" title="{{ item.title }}">
                     <img src="{{ item.image }}" alt="{{ item.title }} by David Rhoden">
                   </a>
               </li>
@@ -66,18 +66,10 @@
       <!-- Horizontal gallery JS -->
       <script src="/_includes/assets/js/horizontal-gallery.js" defer></script>
       
-      <!-- Initialize Magnific Popup for horizontal gallery -->
+      <!-- Initialize GLightbox for illustrations gallery -->
       <script>
-        $(document).ready(function () {
-          $(".horizontal-gallery-container ul li, .horizontal-gallery-container ol li").magnificPopup({
-            delegate: "a.gallery-image-link",
-            gallery: {
-              enabled: true,
-              navigateByImgClick: true,
-              preload: [0, 1],
-            },
-            type: "image",
-          });
+        document.addEventListener("DOMContentLoaded", function () {
+          GLightbox({ selector: ".gallery-image-link" });
         });
       </script>
       
