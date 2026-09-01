@@ -3,7 +3,6 @@
   {% include "components/head.njk" %}
   <body class="horizontal-gallery-page {% if pageType %}{{ pageType }}{% endif %} {{ page.fileSlug }} {{ pageClasses }}">
       {% include "components/header.njk" %}
-      <div class="header-spacer"></div>
        {% if downloadPdf %}
         <script>var pdfBannerImages = {{ downloadPdfImages | dump | safe }};</script>
         <div class="pdf-banner">
