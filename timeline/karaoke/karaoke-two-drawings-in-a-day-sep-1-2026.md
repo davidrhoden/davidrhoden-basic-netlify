@@ -9,7 +9,7 @@ tags:
   - Peter Frampton
   - '"Show Me The Way"'
   - Keith Carradine
-  - '"I\'m Easy"'
+  - '"I''m Easy"'
   - Post-Its
   - 59 1/2th birthday
 
