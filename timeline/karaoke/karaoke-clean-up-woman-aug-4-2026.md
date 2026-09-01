@@ -1,7 +1,7 @@
 ---
-title: Jumpin' slick was my ruin.
+title: Jumpin’ slick was my ruin.
 date: 2026-08-24T00:00:00
-excerpt: You may or may not know that this song ("Clean-Up Woman") was composed by Miami songwriter and musician Clarence Reid.
+excerpt: You may or may not know that this song (“Clean-Up Woman”) was composed by Miami songwriter and musician Clarence Reid.
 image: /static/img/karaoke/clean-up-woman-aug-4-2026.jpeg
 tags:
   - cartoons
