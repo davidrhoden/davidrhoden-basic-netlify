@@ -6,7 +6,7 @@ image: /static/img/karaoke/shattered-sep-4-2026.jpeg
 tags:
   - cartoons
   - karaoke
-  - The Rolling Stones
+  - Rolling Stones
   - '"Shattered"'
 
 ---

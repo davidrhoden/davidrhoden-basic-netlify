@@ -11,7 +11,7 @@ tags:
   - Rolling Stones
   - music
   - church
-  - "Shattered"
+  - '"Shattered"'
 
 ---
 
