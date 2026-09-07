@@ -1,6 +1,7 @@
 import { DateTime } from "luxon";
 import slugify from "slugify";
 import eleventyNavigationPlugin from "@11ty/eleventy-navigation";
+import { eleventyImageTransformPlugin } from "@11ty/eleventy-img";
 import path from "path";
 import { execSync } from 'child_process';
 import pluginRss from "@11ty/eleventy-plugin-rss";
@@ -40,6 +41,26 @@ export default function (eleventyConfig) {
         email: "david@davidrhoden.com", // Optional
       }
     }
+  });
+
+  // Responsive image transform — automatically rewrites <img> to <picture> with srcset
+  eleventyConfig.addPlugin(eleventyImageTransformPlugin, {
+    extensions: "html",
+    formats: ["avif", "jpeg"],
+    widths: ["auto", 800, 1200],
+    outputDir: "./_site/img/optimized/",
+    urlPath: "/img/optimized/",
+    failOnError: false,
+    htmlOptions: {
+      imgAttributes: {
+        loading: "lazy",
+        decoding: "async",
+      },
+    },
+    sharpJpegOptions: {
+      quality: 82,
+      progressive: true,
+    },
   });
 
   // https://www.11ty.dev/docs/data-deep-merge/

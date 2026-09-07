@@ -14,7 +14,7 @@ NODE_VERSION="22.20.0"
   skip_processing = true
 
 [build.cache]
-  paths = ["node_modules", ".cache", "_site"]
+  paths = ["node_modules", ".cache", "_site", "_site/img/optimized"]
 
 # [[plugins]]
 # package = "@netlify/plugin-sitemap"
