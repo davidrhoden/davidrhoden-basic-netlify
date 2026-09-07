@@ -14,4 +14,4 @@ tags:
 
 Buddy took to sleeping in the bathroom sink for two days. I took many pictures of this significant (to me) event, but I 'll just post this one.
 
-![Buddy took to sleeping in the bathroom sink for two days.](/static/img/buddy/static/img/buddy/buddy-in-bathroom-sink-2-mar-9-2026.jpeg)
+![Buddy took to sleeping in the bathroom sink for two days.](/static/img/buddy/buddy-in-bathroom-sink-2-mar-9-2026.jpeg)
