@@ -15,4 +15,3 @@ tags:
 After doing the "Best Of/Worst Of" for New Orleans magazine, I got another chance with a local tabloid. i had changed my style to something more digital by then.
 
 ![Best Of illustration from Where Y'At magazine](/static/img/illustrations/whereyat-cover-may-2004.jpg "Best Of illustration from Where Y'At magazine")
-

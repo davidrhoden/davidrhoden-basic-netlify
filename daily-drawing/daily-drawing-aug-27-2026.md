@@ -1,5 +1,5 @@
 ---
-title: "Daily drawing: add some music to your day."
+title: "Daily drawing, August 27, 2026: add some music to your day."
 date: 2026-08-27T00:00:00
 excerpt: "Haven't heard this Beach Boys song in a while; I wonder what made me think of it."
 image: /static/img/daily-drawing/daily-drawing-add-some-music-aug-27-2026.jpeg
