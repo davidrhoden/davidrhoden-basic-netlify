@@ -27,7 +27,7 @@ Here it is, that "infrequent" newsletter I told you you'd be getting from me! I 
 
 I did an art market in Arabi, Louisiana, a town just outside of New Orleans, meaning a ten-block drive from the crib. I built a big honkin' collapsible apparatus out of two-by-fours and long bolts to hang my pitchers on, and I paid a $25 fee to be part of the festivities, but I sold ONE painting (that little monster with a lot of eyes!) for $90, so I came out $5 to $10 bucks ahead for the day.
 
-[![Dave Rhoden looking extremely ill-at-ease but smiling because he's being photographed at an art market](static/img/timeline/david-at-arabi-arts-park-apr-11-2026.jpeg?w=960&fit=max)](/timeline/i-participated-successfully-in-an-arts-market/)
+[![Dave Rhoden looking extremely ill-at-ease but smiling because he's being photographed at an art market](/static/img/timeline/david-at-arabi-arts-park-apr-11-2026.jpeg)](/timeline/i-participated-successfully-in-an-arts-market/)
 
 I was so happy to sell it! The buyer seemed excited, I think the lil' monster went to a good home.
 
