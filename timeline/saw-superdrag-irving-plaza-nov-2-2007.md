@@ -16,4 +16,4 @@ tags:
 
 ---
 
-![Superdrag....maybe at Irving Plaza. Probably not the show I saw.](static/img/timeline/superdrag-irving-plaza-nov-02-2007.png)
+![Superdrag....maybe at Irving Plaza. Probably not the show I saw.](/static/img/timeline/superdrag-irving-plaza-nov-02-2007.png)
