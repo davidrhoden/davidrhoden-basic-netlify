@@ -14,7 +14,7 @@ NODE_OPTIONS="--max-old-space-size=4096"
   skip_processing = true
 
 [build.cache]
-  paths = ["node_modules", ".cache", "_site", "_site/img/optimized"]
+  paths = ["node_modules", ".cache", "_site"]
 
 # [[plugins]]
 # package = "@netlify/plugin-sitemap"
