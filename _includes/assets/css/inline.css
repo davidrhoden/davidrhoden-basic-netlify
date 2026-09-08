@@ -13,6 +13,7 @@
   --font-secondary: "Libre Franklin", "Helvetica Neue", sans-serif;
   --font-decorative: "ShadowGrotesque", "Libre Franklin", sans-serif;
   --font-decorative-cooper: "Cooper Black", "ShadowGrotesque", "Libre Franklin", sans-serif;
+  --dropdown: rgb(247, 255, 0);
 }
 
 *,
@@ -1734,8 +1735,8 @@ span.fade:hover {
 
   /* Dropdown menu */
   .nav-desktop .nav-dropdown {
-    background: var(--white);
-    /*box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);*/
+    background: var(--dropdown);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
     display: none;
     left: 0;
     list-style: none;
