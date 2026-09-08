@@ -4,7 +4,7 @@
   "description": "This is my website. https://davidrhoden.com.",
   "type": "module",
   "scripts": {
-    "build": "npx eleventy",
+    "build": "NODE_OPTIONS='--max-old-space-size=4096' npx eleventy",
     "watch": "npx eleventy --watch",
     "serve": "NODE_OPTIONS='--max-old-space-size=4096' npx eleventy --serve",
     "debug": "DEBUG=* npx eleventy",
