@@ -16,9 +16,15 @@ NODE_OPTIONS="--max-old-space-size=4096"
 [build.cache]
   paths = ["node_modules", ".cache", "_site"]
 
-# [[plugins]]
+[[plugins]]
+package = "netlify-plugin-cloudinary"
 # package = "@netlify/plugin-sitemap"
- 
+
+  [plugins.inputs]
+  cloudName = "bvfzobia"
+  imagesPath = "/img/optimized"
+  # or imagesPath = [ "/my-path", "/my-other-path" ]
+
 # [plugins.inputs]
 #   buildDir = "_site"
 #   exclude = [
