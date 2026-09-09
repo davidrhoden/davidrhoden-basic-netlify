@@ -22,7 +22,7 @@ package = "netlify-plugin-cloudinary"
 
   [plugins.inputs]
   cloudName = "bvfzobia"
-  imagesPath = "/img/optimized"
+  imagesPath = "/static/img"
   # or imagesPath = [ "/my-path", "/my-other-path" ]
 
 # [plugins.inputs]
