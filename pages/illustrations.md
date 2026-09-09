@@ -20,5 +20,5 @@ downloadPdfImages:
 eleventyNavigation:
   key: Illustrations
   order: 5
-  tooltip: "My illustrations for magazines and corporate presentations."
+  tooltip: "Art directors! Download my PDF illustration portfolio!"
 ---
