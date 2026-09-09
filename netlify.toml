@@ -14,7 +14,7 @@ NODE_OPTIONS="--max-old-space-size=4096"
   skip_processing = true
 
 [build.cache]
-  paths = ["node_modules", ".cache", "_site"]
+  paths = ["node_modules", ".cache"]
 
 [[plugins]]
 package = "netlify-plugin-cloudinary"

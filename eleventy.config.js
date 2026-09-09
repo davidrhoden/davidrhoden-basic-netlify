@@ -403,7 +403,7 @@ export default function (eleventyConfig) {
   );
 
   return {
-    incremental: true,
+    incremental: process.env.ELEVENTY_RUN_MODE === "serve" || process.env.ELEVENTY_RUN_MODE === "watch",
     templateFormats: ["md", "njk", "html", "liquid"],
     pathPrefix: "/",
     markdownTemplateEngine: "njk",
