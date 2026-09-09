@@ -7,6 +7,7 @@ import pluginRss from "@11ty/eleventy-plugin-rss";
 import fs from 'fs';
 import markdownIt from "markdown-it";
 import markdownItAnchor from "markdown-it-anchor";
+import { imageSizeFromFile } from "image-size/fromFile";
 import { fileURLToPath } from 'url';
 
 // ES module equivalent of __dirname
@@ -301,6 +302,66 @@ export default function (eleventyConfig) {
           + '</div>';
       }
     );
+  });
+
+  /* Image dimensions transform - adds explicit width/height to <img> tags to prevent CLS */
+  eleventyConfig.addTransform("img-dimensions", async function (content) {
+    if (!this.page.outputPath || !this.page.outputPath.endsWith(".html")) {
+      return content;
+    }
+    var self = this;
+    var matches = [];
+    var replacements = [];
+
+    content.replace(/<img\b([^>]*)>/g, function (match, attrs) {
+      // Skip images that already declare dimensions
+      if (/\bwidth\s*=/i.test(attrs) && /\bheight\s*=/i.test(attrs)) {
+        matches.push(match);
+        replacements.push(match);
+        return match;
+      }
+      var srcMatch = attrs.match(/\bsrc\s*=\s*"([^"]*)"/);
+      if (!srcMatch) {
+        matches.push(match);
+        replacements.push(match);
+        return match;
+      }
+      var src = srcMatch[1];
+
+      // Only handle root-relative local images; skip external, data URIs, SVGs
+      if (!src.startsWith("/") || src.startsWith("//") || src.startsWith("data:") || /\.svg($|\?)/i.test(src)) {
+        matches.push(match);
+        replacements.push(match);
+        return match;
+      }
+
+      // Strip query string / fragment, then URL-decode
+      var cleanSrc = src.split("?")[0].split("#")[0];
+      var decoded;
+      try {
+        decoded = decodeURIComponent(cleanSrc);
+      } catch (e) {
+        matches.push(match);
+        replacements.push(match);
+        return match;
+      }
+
+      var fsPath = path.join(__dirname, decoded.replace(/^\//, ""));
+      matches.push(match);
+      replacements.push(imageSizeFromFile(fsPath).then(function (dims) {
+        if (!dims || !dims.width || !dims.height) return match;
+        return '<img width="' + dims.width + '" height="' + dims.height + '"' + attrs + '>';
+      }).catch(function () {
+        return match; // missing file or unsupported format - leave tag alone
+      }));
+      return match;
+    });
+
+    var resolved = await Promise.all(replacements);
+    for (var i = 0; i < matches.length; i++) {
+      content = content.replace(matches[i], resolved[i]);
+    }
+    return content;
   });
 
   /* Markdown Plugins */
