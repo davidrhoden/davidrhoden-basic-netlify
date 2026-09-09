@@ -18,25 +18,7 @@
 </script>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  {% set css %}
-    {% include "assets/css/fixed-elements.css" %}
-    {% include "assets/css/inline.css" %}
-    {% include "assets/css/slideshow.css" %}
-    {% include "assets/css/hamburgers.css" %}
-    {% include "assets/css/svg-overlay.css" %}
-    {% include "assets/css/glightbox.min.css" %}
-    {% include "assets/css/bricks.css" %}
-    {% include "assets/css/timeline-two-sections.css" %}
-    {% include "assets/css/micromodal.css" %}
-    {% include "assets/css/homepage.css" %}
-    {% include "assets/css/horizontal-gallery.css" %}
-    {% include "static/webfonts/ShadowGrotesque/stylesheet.css" %}
-
-    {% if davidrhodenbasicnetlify.environment == "development" %}
-      {% include "assets/css/development.css" %}
-    {% endif %}
-  {% endset %}
-  <style>{{ css | safe }}</style>
+  <link href="/_includes/assets/css/site.css" rel="stylesheet">
   <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />

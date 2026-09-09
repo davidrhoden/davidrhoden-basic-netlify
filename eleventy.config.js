@@ -19,6 +19,28 @@ const is_production = typeof process.env.NODE_ENV === "string" && process.env.NO
 export default function (eleventyConfig) {
 
   eleventyConfig.on('eleventy.after', () => {
+      // Concatenate the site's CSS files into a single cached stylesheet
+      const cssFiles = [
+        "_includes/assets/css/fixed-elements.css",
+        "_includes/assets/css/inline.css",
+        "_includes/assets/css/slideshow.css",
+        "_includes/assets/css/hamburgers.css",
+        "_includes/assets/css/svg-overlay.css",
+        "_includes/assets/css/glightbox.min.css",
+        "_includes/assets/css/timeline-two-sections.css",
+        "_includes/assets/css/micromodal.css",
+        "_includes/assets/css/homepage.css",
+        "_includes/assets/css/horizontal-gallery.css",
+        "static/webfonts/ShadowGrotesque/stylesheet.css",
+      ];
+      const combinedCss = cssFiles
+        .filter((file) => fs.existsSync(file))
+        .map((file) => fs.readFileSync(file, "utf-8"))
+        .join("\n");
+      const cssOutDir = path.join(__dirname, "_site/_includes/assets/css");
+      fs.mkdirSync(cssOutDir, { recursive: true });
+      fs.writeFileSync(path.join(cssOutDir, "site.css"), combinedCss);
+
       execSync(`npx pagefind --site _site --glob \"**/*.html\"`, { encoding: 'utf-8' })
     })
 
