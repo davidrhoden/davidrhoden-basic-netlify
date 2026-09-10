@@ -22,6 +22,9 @@ package = "netlify-plugin-cloudinary"
   imagesPath = "/static/img"
   # or imagesPath = [ "/my-path", "/my-other-path" ]
 
+[[plugins]]
+package = "./plugins/strip-lazy-from-hero"
+
 
 # REDIRECT and HEADERS examples
 
