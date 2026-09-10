@@ -4,7 +4,7 @@ date: 2026-05-01T00:00:00.000Z
 permalink: /illustrations/index.html
 excerpt: Illustrations by New Orleans illustrator David Rhoden. Need illustration in New Orleans? Get in touch.
 image: /static/img/illustrations/talbot-adams-album.jpg
-layout: layouts/illustrations.njk
+layout: layouts/horizontal-gallery.njk
 useDataFile: true
 dataFile: illustrations
 downloadPdf: /static/pdf/David-Rhoden-Illustration-Portfolio.pdf
@@ -20,5 +20,5 @@ downloadPdfImages:
 eleventyNavigation:
   key: Illustrations
   order: 5
-  tooltip: "My illustrations for magazines and corporate presentations."
+  tooltip: "Art directors! Download my PDF illustration portfolio!"
 ---

@@ -7,6 +7,7 @@ import pluginRss from "@11ty/eleventy-plugin-rss";
 import fs from 'fs';
 import markdownIt from "markdown-it";
 import markdownItAnchor from "markdown-it-anchor";
+import { imageSize } from "image-size";
 import { fileURLToPath } from 'url';
 
 // ES module equivalent of __dirname
@@ -18,6 +19,28 @@ const is_production = typeof process.env.NODE_ENV === "string" && process.env.NO
 export default function (eleventyConfig) {
 
   eleventyConfig.on('eleventy.after', () => {
+      // Concatenate the site's CSS files into a single cached stylesheet
+      const cssFiles = [
+        "_includes/assets/css/fixed-elements.css",
+        "_includes/assets/css/inline.css",
+        "_includes/assets/css/slideshow.css",
+        "_includes/assets/css/hamburgers.css",
+        "_includes/assets/css/svg-overlay.css",
+        "_includes/assets/css/glightbox.min.css",
+        "_includes/assets/css/timeline-two-sections.css",
+        "_includes/assets/css/micromodal.css",
+        "_includes/assets/css/homepage.css",
+        "_includes/assets/css/horizontal-gallery.css",
+        "static/webfonts/ShadowGrotesque/stylesheet.css",
+      ];
+      const combinedCss = cssFiles
+        .filter((file) => fs.existsSync(file))
+        .map((file) => fs.readFileSync(file, "utf-8"))
+        .join("\n");
+      const cssOutDir = path.join(__dirname, "_site/_includes/assets/css");
+      fs.mkdirSync(cssOutDir, { recursive: true });
+      fs.writeFileSync(path.join(cssOutDir, "site.css"), combinedCss);
+
       execSync(`npx pagefind --site _site --glob \"**/*.html\"`, { encoding: 'utf-8' })
     })
 
@@ -303,6 +326,73 @@ export default function (eleventyConfig) {
     );
   });
 
+  /* Image dimensions transform - adds explicit width/height to <img> tags to prevent CLS */
+  eleventyConfig.addTransform("img-dimensions", async function (content) {
+    if (!this.page.outputPath || !this.page.outputPath.endsWith(".html")) {
+      return content;
+    }
+    console.log("[img-dimensions] transform running for", this.page.outputPath);
+    var self = this;
+    var matches = [];
+    var replacements = [];
+
+    content.replace(/<img\b([^>]*)>/g, function (match, attrs) {
+      // Skip images that already declare dimensions
+      if (/\bwidth\s*=/i.test(attrs) && /\bheight\s*=/i.test(attrs)) {
+        matches.push(match);
+        replacements.push(match);
+        return match;
+      }
+      var srcMatch = attrs.match(/\bsrc\s*=\s*"([^"]*)"/);
+      if (!srcMatch) {
+        matches.push(match);
+        replacements.push(match);
+        return match;
+      }
+      var src = srcMatch[1];
+
+      // Only handle root-relative local images; skip external, data URIs, SVGs
+      if (!src.startsWith("/") || src.startsWith("//") || src.startsWith("data:") || /\.svg($|\?)/i.test(src)) {
+        matches.push(match);
+        replacements.push(match);
+        return match;
+      }
+
+      // Strip query string / fragment, then URL-decode
+      var cleanSrc = src.split("?")[0].split("#")[0];
+      var decoded;
+      try {
+        decoded = decodeURIComponent(cleanSrc);
+      } catch (e) {
+        matches.push(match);
+        replacements.push(match);
+        return match;
+      }
+
+      var fsPath = path.join(__dirname, decoded.replace(/^\//, ""));
+      matches.push(match);
+      replacements.push(Promise.resolve().then(function () {
+        try {
+          var buf = fs.readFileSync(fsPath);
+          var dims = imageSize(buf);
+          if (!dims || !dims.width || !dims.height) return match;
+          return '<img width="' + dims.width + '" height="' + dims.height + '"' + attrs + '>';
+        } catch (e) {
+          console.log("[img-dimensions] FAILED for", fsPath, "-", e && e.message, "- exists:", fs.existsSync(fsPath));
+          return match; // missing file or unsupported format - leave tag alone
+        }
+      }));
+      return match;
+    });
+
+    var resolved = await Promise.all(replacements);
+    for (var i = 0; i < matches.length; i++) {
+      content = content.replace(matches[i], resolved[i]);
+    }
+    console.log("[img-dimensions] done for", this.page.outputPath, "-", matches.length, "imgs,", resolved.filter(function (r, idx) { return r !== matches[idx]; }).length, "got dimensions");
+    return content;
+  });
+
   /* Markdown Plugins */
   let options = {
     html: true,
@@ -320,7 +410,7 @@ export default function (eleventyConfig) {
   );
 
   return {
-    incremental: true,
+    incremental: process.env.ELEVENTY_RUN_MODE === "serve" || process.env.ELEVENTY_RUN_MODE === "watch",
     templateFormats: ["md", "njk", "html", "liquid"],
     pathPrefix: "/",
     markdownTemplateEngine: "njk",

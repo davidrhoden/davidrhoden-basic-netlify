@@ -12,7 +12,18 @@ NODE_OPTIONS="--max-old-space-size=4096"
   skip_processing = true
 
 [build.cache]
-  paths = ["node_modules", ".cache", "_site"]
+  paths = ["node_modules", ".cache"]
+
+[[plugins]]
+package = "netlify-plugin-cloudinary"
+
+  [plugins.inputs]
+  cloudName = "bvfzobia"
+  imagesPath = "/static/img"
+  # or imagesPath = [ "/my-path", "/my-other-path" ]
+
+[[plugins]]
+package = "./plugins/strip-lazy-from-hero"
 
 
 # REDIRECT and HEADERS examples
