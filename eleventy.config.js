@@ -7,7 +7,7 @@ import pluginRss from "@11ty/eleventy-plugin-rss";
 import fs from 'fs';
 import markdownIt from "markdown-it";
 import markdownItAnchor from "markdown-it-anchor";
-import { imageSizeFromFile } from "image-size/fromFile";
+import { imageSize } from "image-size";
 import { fileURLToPath } from 'url';
 
 // ES module equivalent of __dirname
@@ -371,12 +371,15 @@ export default function (eleventyConfig) {
 
       var fsPath = path.join(__dirname, decoded.replace(/^\//, ""));
       matches.push(match);
-      replacements.push(imageSizeFromFile(fsPath).then(function (dims) {
-        if (!dims || !dims.width || !dims.height) return match;
-        return '<img width="' + dims.width + '" height="' + dims.height + '"' + attrs + '>';
-      }).catch(function (err) {
-        console.log("[img-dimensions] FAILED for", fsPath, "-", err && err.message);
-        return match; // missing file or unsupported format - leave tag alone
+      replacements.push(Promise.resolve().then(function () {
+        try {
+          var buf = fs.readFileSync(fsPath);
+          var dims = imageSize(buf);
+          if (!dims || !dims.width || !dims.height) return match;
+          return '<img width="' + dims.width + '" height="' + dims.height + '"' + attrs + '>';
+        } catch (e) {
+          return match; // missing file or unsupported format - leave tag alone
+        }
       }));
       return match;
     });
