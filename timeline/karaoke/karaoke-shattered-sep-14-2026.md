@@ -11,6 +11,6 @@ tags:
 
 ---
 
-![cartoon by Dave Rhoden of woman songing "we got rates on the west side bedbugs uptown" on an imaginary home karaoke machine labeled Premuium Karaoke](/static/img/karaoke/shattered-sep-4-2026.jpeg)
+![cartoon by Dave Rhoden of woman singing "we got rats on the west side bedbugs uptown" on an imaginary home karaoke machine labeled Premuium Karaoke](/static/img/karaoke/shattered-sep-4-2026.jpeg)
 
 People romanticize late-seventies NYC. They're probably right.
