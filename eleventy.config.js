@@ -378,6 +378,7 @@ export default function (eleventyConfig) {
           if (!dims || !dims.width || !dims.height) return match;
           return '<img width="' + dims.width + '" height="' + dims.height + '"' + attrs + '>';
         } catch (e) {
+          console.log("[img-dimensions] FAILED for", fsPath, "-", e && e.message, "- exists:", fs.existsSync(fsPath));
           return match; // missing file or unsupported format - leave tag alone
         }
       }));
