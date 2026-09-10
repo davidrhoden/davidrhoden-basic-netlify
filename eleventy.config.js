@@ -374,7 +374,8 @@ export default function (eleventyConfig) {
       replacements.push(imageSizeFromFile(fsPath).then(function (dims) {
         if (!dims || !dims.width || !dims.height) return match;
         return '<img width="' + dims.width + '" height="' + dims.height + '"' + attrs + '>';
-      }).catch(function () {
+      }).catch(function (err) {
+        console.log("[img-dimensions] FAILED for", fsPath, "-", err && err.message);
         return match; // missing file or unsupported format - leave tag alone
       }));
       return match;
