@@ -389,7 +389,6 @@ export default function (eleventyConfig) {
     for (var i = 0; i < matches.length; i++) {
       content = content.replace(matches[i], resolved[i]);
     }
-    console.log("[img-dimensions] done for", this.page.outputPath, "-", matches.length, "imgs,", resolved.filter(function (r, idx) { return r !== matches[idx]; }).length, "got dimensions");
     return content;
   });
 

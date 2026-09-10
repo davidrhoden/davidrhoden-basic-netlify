@@ -12,9 +12,9 @@
   
   if (!gallery) return;
   
-  // Get all gallery items (list items)
+  // Get all gallery items (list items), excluding the spacer
   const getGalleryItems = () => {
-    return Array.from(gallery.querySelectorAll('li'));
+    return Array.from(gallery.querySelectorAll('li')).filter(li => !li.classList.contains('gallery-spacer'));
   };
   
   /**
@@ -62,19 +62,11 @@
     const items = getGalleryItems();
     
     if (prevButton) {
-      if (currentIndex === 0) {
-        prevButton.classList.add('hidden');
-      } else {
-        prevButton.classList.remove('hidden');
-      }
+      prevButton.disabled = currentIndex === 0;
     }
     
     if (nextButton) {
-      if (currentIndex >= items.length - 1) {
-        nextButton.classList.add('hidden');
-      } else {
-        nextButton.classList.remove('hidden');
-      }
+      nextButton.disabled = currentIndex >= items.length - 1;
     }
   };
   
