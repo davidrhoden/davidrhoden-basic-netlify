@@ -11,12 +11,9 @@
   overflow: hidden;
 }
 
-.horizontal-gallery-page main {
-  margin-top: 0;
-}
-
 .horizontal-gallery-main {
   height: 100vh;
+  margin-top: 0;
   overflow: hidden;
   position: relative;
 }
