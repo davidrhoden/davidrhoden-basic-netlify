@@ -2,7 +2,7 @@
 title: I got a Wacom tablet.
 date: 2014-07-26T00:00:00
 excerpt: You draw right on the screen.
-image: /static/img/timeline/wacom-cintiq-first-jul-26-2014.jpg
+image: /static/img/timeline/wacom-cintiq-first-jul-27-2014.jpg
 tags:
   - sketching
   - Wacom
@@ -17,4 +17,4 @@ I got this great new drawing tool. It’s actually old, and I got it super-cheap
 
 Look at the wonderful stuff I’ve done with it so far (in Adobe Illustrator).
 
-![first drawing done on my Cintiq](/static/img/timeline/wacom-cintiq-first-jul-26-2014.jpg)
+![first drawing done on my Cintiq](/static/img/timeline/wacom-cintiq-first-jul-27-2014.jpg)
