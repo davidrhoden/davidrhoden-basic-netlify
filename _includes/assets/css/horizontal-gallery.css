@@ -149,7 +149,7 @@
   text-decoration: underline;
 }
 
-.horizontal-gallery-page .flex-container {
+.horizontal-gallery-page .flex-on-desktop-container {
   align-items: center;
   justify-content: space-between;
 }
