@@ -22,10 +22,9 @@
   box-sizing: border-box;
 }
 
-.clear {
-  clear: both;
-}
-
+  body {
+    margin-top: 5em;
+  }
 .hidden {
   display: none;
 }
@@ -1426,9 +1425,9 @@ span.fade:hover {
 }
 
 @media screen and (width >= 768px) {
-body {
-  margin-top: 7em;
-}
+  body {
+    margin-top: 7em;
+  }
 
   .resume .cover-letter {
     max-width: 816px;
