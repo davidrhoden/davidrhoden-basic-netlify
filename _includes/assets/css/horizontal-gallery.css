@@ -24,7 +24,6 @@
 .horizontal-gallery-container {
   align-items: center;
   display: flex;
-  height: 100vh;
   overflow-x: auto;
   overflow-y: hidden;
   scroll-behavior: smooth;
@@ -164,6 +163,11 @@
   text-decoration: underline;
 }
 
+.horizontal-gallery-page .flex-container {
+  align-items: center;
+  justify-content: space-between;
+}
+
 /* Navigation arrows */
 .gallery-arrow {
   align-items: center;
@@ -207,6 +211,42 @@
   pointer-events: none;
 }
 
+/* Homepage-style .carousel-btn, positioned like the old .gallery-arrow */
+.horizontal-gallery-page .carousel-btn {
+  opacity: 0.9;
+  position: fixed;
+  top: 50%;
+  transform: translateY(-50%);
+  transition: opacity 0.3s ease, background-color 0.15s ease;
+  z-index: 100;
+}
+
+.horizontal-gallery-page .carousel-btn:hover {
+  opacity: 1;
+}
+
+.horizontal-gallery-page .carousel-btn:active {
+  transform: translateY(-50%) scale(0.95);
+}
+
+.horizontal-gallery-page .carousel-btn[disabled] {
+  opacity: 0;
+  pointer-events: none;
+}
+
+.horizontal-gallery-page .carousel-btn-prev {
+  left: 2rem;
+}
+
+.horizontal-gallery-page .carousel-btn-next {
+  right: 2rem;
+}
+
+.horizontal-gallery-page .carousel-btn img {
+  height: 1em;
+  width: 1.25em;
+}
+
 /* Tablet and mobile adjustments */
 @media screen and (max-width: 768px) {
   .gallery-arrow {
@@ -221,7 +261,15 @@
   .gallery-arrow-next {
     right: 1rem;
   }
-  
+
+  .horizontal-gallery-page .carousel-btn-prev {
+    left: 1rem;
+  }
+
+  .horizontal-gallery-page .carousel-btn-next {
+    right: 1rem;
+  }
+
   .horizontal-gallery-container li {
     padding: 0 50px;
   }
