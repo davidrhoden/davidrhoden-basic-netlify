@@ -22,9 +22,6 @@
   box-sizing: border-box;
 }
 
-  body {
-    margin-top: 5em;
-  }
 .hidden {
   display: none;
 }
@@ -72,6 +69,10 @@ body {
   margin: 0;
   padding: 0;
   width: 100%;
+}
+
+body {
+  margin-top: 7em;
 }
 
 body {
@@ -598,13 +599,28 @@ small.timeline-footnote {
 
 .pdf-banner {
   display: block;
-  margin-top: 5em;
 }
 
 a.pdf-banner-link {
   color: black;
+  display: block;
   font-family: var(--font-secondary);
   font-weight: 600;
+}
+
+.pdf-banner-thumbs {
+  box-shadow: 4px 8px 12px rgba(0, 0, 0, 0.25), 10px 16px 30px rgba(0, 0, 0, 0.15);
+  display: inline-block;
+  height: 120px;
+  margin: 0.75em 0;
+  overflow: hidden;
+  transform: rotate(5deg);
+}
+
+.pdf-banner-thumbs img {
+  display: block;
+  height: 120px;
+  width: auto;
 }
 
 .tags main nav {
@@ -1473,15 +1489,6 @@ span.fade:hover {
     padding: 0 1em;
   }
 
-  .pdf-banner-thumbs {
-    height: 120px;
-    overflow: hidden;
-  }
-
-  .pdf-banner-thumbs img {
-    height: 120px;
-  }
-
   .bullet {
     display: inline;
   }
@@ -2210,6 +2217,10 @@ span.fade:hover {
 }
 
 @media screen and (max-width: 767px) {
+  .flex-on-desktop-container {
+    padding: 0 1em;
+  }
+
   .onetalker-trigger {
     width: 50px;
   }
