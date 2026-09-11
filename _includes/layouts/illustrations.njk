@@ -25,6 +25,30 @@
                   <a href="{{ item.image }}" class="gallery-image-link" data-gallery="gallery" title="{{ item.title }}">
                     <img src="{{ item.image }}" alt="{{ item.title }} by David Rhoden">
                   </a>
+                <div class="painting-metadata">
+                  <h3 class="painting-title">{{ item.title | safe }}</h3>
+                  <p class="painting-details">
+                    {%- if item.date and item.date != null and dataFile != "designs" and dataFile != "paintings" %}
+                      <span class="painting-date">{{ item.date | justYear }}</span><br>
+                    {%- endif %}
+                    {%- if item.material %}
+                      <span class="painting-material">{{ item.material }}</span><br>
+                    {%- endif %}
+                    {%- if item.height and item.width and dataFile != "animations" %}
+                      <span class="painting-size">{{ item.height }}" × {{ item.width }}"</span><br>
+                    {%- endif %}
+                    {%- if item.price %}
+                      {%- if item.price is number %}
+                        <span class="painting-price">${{ item.price }}</span>
+                      {%- else %}
+                        <span class="painting-price">{{ item.price }}</span>
+                      {%- endif %}
+                    {%- endif %}
+                    {%- if item.link %}
+                      <span class="item-link"><a href="{{ item.link }}" target="_blank" rel="noopener noreferrer">{{ item.linktext if item.linktext else item.link }}</a></span>
+                    {%- endif %}
+                  </p>
+                </div>
               </li>
             {%- endfor %}
               <li class="gallery-spacer" aria-hidden="true"></li>
