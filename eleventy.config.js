@@ -331,7 +331,7 @@ export default function (eleventyConfig) {
     if (!this.page.outputPath || !this.page.outputPath.endsWith(".html")) {
       return content;
     }
-    console.log("[img-dimensions] transform running for", this.page.outputPath);
+    // console.log("[img-dimensions] transform running for", this.page.outputPath);
     var self = this;
     var matches = [];
     var replacements = [];
