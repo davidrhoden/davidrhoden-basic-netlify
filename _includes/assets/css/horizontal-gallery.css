@@ -248,39 +248,70 @@
     right: 1rem;
   }
 
-  .horizontal-gallery-page .carousel-btn-prev {
-    left: 1rem;
+  .horizontal-gallery-page .carousel-btn {
+    display: none;
   }
 
-  .horizontal-gallery-page .carousel-btn-next {
-    right: 1rem;
+  /* Switch to normal vertical page scroll */
+  .horizontal-gallery-page {
+    overflow: visible;
+  }
+
+  .horizontal-gallery-main {
+    height: auto;
+    overflow: visible;
+  }
+
+  .horizontal-gallery-container {
+    display: block;
+    overflow: visible;
+  }
+
+  .horizontal-gallery-container ul,
+  .horizontal-gallery-container ol {
+    display: block;
+    height: auto;
+    padding: 0 1rem;
   }
 
   .horizontal-gallery-container li {
-    padding: 0 50px;
+    display: block;
+    margin-bottom: 3em;
+    padding: 0;
   }
-  
+
+  .horizontal-gallery-container li.gallery-spacer {
+    display: none;
+  }
+
   .horizontal-gallery-container img {
     height: auto;
-    max-height: 60vh;
-    max-width: 90vw;
+    max-height: none;
+    max-width: 100%;
   }
-  
+
   .horizontal-gallery-container video {
     height: auto;
-    max-height: 60vh;
-    max-width: 90vw;
+    max-height: none;
+    max-width: 100%;
   }
-  
+
   .horizontal-gallery-container iframe {
-    max-height: 60vh;
-    max-width: 90vw;
+    max-height: none;
+    max-width: 100%;
   }
-  
+
+  /* Captions always visible — no distance fade on mobile */
+  .painting-metadata {
+    max-width: 100%;
+    opacity: 1 !important;
+    transition: none;
+  }
+
   .painting-title {
     font-size: 1.25rem;
   }
-  
+
   .painting-details {
     font-size: 0.85rem;
   }

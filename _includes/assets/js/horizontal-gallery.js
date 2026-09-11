@@ -122,6 +122,10 @@
    * Just like using the scrollbar
    */
   gallery.addEventListener('wheel', (e) => {
+    // In vertical (mobile) layout the container doesn't scroll horizontally —
+    // let the page scroll normally
+    if (gallery.scrollWidth <= gallery.clientWidth) return;
+
     // Prevent default vertical scroll
     e.preventDefault();
     
