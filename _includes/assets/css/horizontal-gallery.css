@@ -30,25 +30,14 @@
   -webkit-overflow-scrolling: touch;
 }
 
-/* Ensure scrollbar is visible */
-.horizontal-gallery-container::-webkit-scrollbar {
-  height: 12px;
-}
-
-.horizontal-gallery-container::-webkit-scrollbar-track {
-  background: #f1f1f1;
-}
-
-.horizontal-gallery-container::-webkit-scrollbar-thumb {
-  background: #888;
-}
-
-.horizontal-gallery-container::-webkit-scrollbar-thumb:hover {
-  background: #555;
-}
-
+/* Hide scrollbar but keep functionality */
 .horizontal-gallery-container {
-  scrollbar-width: auto;
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+
+.horizontal-gallery-container::-webkit-scrollbar {
+  display: none;
 }
 
 /* Gallery items (converted from markdown list items) */
