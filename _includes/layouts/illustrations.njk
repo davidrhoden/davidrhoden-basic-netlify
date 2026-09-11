@@ -3,29 +3,11 @@
   {% include "components/head.njk" %}
   <body class="horizontal-gallery-page {% if pageType %}{{ pageType }}{% endif %} {{ page.fileSlug }} {{ pageClasses }}">
       {% include "components/header.njk" %}
-       {% if downloadPdf %}
-        <script>var pdfBannerImages = {{ downloadPdfImages | dump | safe }};</script>
-        <div class="pdf-banner">
-          <a class="pdf-banner-link" href="{{ downloadPdf }}" target="_blank" rel="noopener">{{ downloadPdfText }}</a>
-          <div class="pdf-banner-thumbs">
-            <img class="pdf-banner-thumb" src="{{ downloadPdfImages[0] }}" alt="PDF portfolio preview">
-          </div>
-        </div>
-        <script>
-          (function () {
-            var img = document.querySelector('.pdf-banner-thumb');
-            var images = window.pdfBannerImages || [];
-            if (!img || images.length < 2) return;
-            var index = 0;
-            setInterval(function () {
-              index = (index + 1) % images.length;
-              img.src = images[index];
-            }, 1200);
-          }());
-        </script>
-        {% endif %}
       <article data-pagefind-body>
-        <h1>{{ title }}</h1>
+        <div class="flex-container">
+          <h1>{{ title }}</h1>
+          {% include "components/illustration-portfolio.njk" %}
+        </div>
         {{ content | safe }}
       </article>
       <main id="main-content" class="horizontal-gallery-main">
@@ -51,9 +33,8 @@
             {%- set contentHtml = content | safe %}
             {{ contentHtml }}
           {%- endif %}
-          
         </div>
-        
+
         <!-- Navigation arrows -->
         <button class="carousel-btn carousel-btn-prev" aria-label="Previous image"><img src="/static/img/site/arrow-bold-left.svg" alt="" aria-hidden="true"></button>
         <button class="carousel-btn carousel-btn-next" aria-label="Next image"><img src="/static/img/site/arrow-bold-right.svg" alt="" aria-hidden="true"></button>

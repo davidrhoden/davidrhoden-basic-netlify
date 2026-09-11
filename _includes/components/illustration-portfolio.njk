@@ -1,0 +1,21 @@
+{% if downloadPdf %}
+<script>var pdfBannerImages = {{ downloadPdfImages | dump | safe }};</script>
+<div class="pdf-banner">
+  <a class="pdf-banner-link" href="{{ downloadPdf }}" target="_blank" rel="noopener">{{ downloadPdfText }}</a>
+  <div class="pdf-banner-thumbs">
+    <a href="{{ downloadPdf }}" target="_blank" rel="noopener"><img class="pdf-banner-thumb" src="{{ downloadPdfImages[0] }}" alt="PDF portfolio preview"></a>
+  </div>
+</div>
+<script>
+  (function () {
+    var img = document.querySelector('.pdf-banner-thumb');
+    var images = window.pdfBannerImages || [];
+    if (!img || images.length < 2) return;
+    var index = 0;
+    setInterval(function () {
+      index = (index + 1) % images.length;
+      img.src = images[index];
+    }, 1200);
+  }());
+</script>
+{% endif %}
