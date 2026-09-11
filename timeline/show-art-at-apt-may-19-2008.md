@@ -1,9 +1,9 @@
 ---
 title: I had work in a group show in Soho.
 date: 2008-05-19T00:00:00
-excerpt: 
-summary: 
-image: /static/img/timelime/apt-show-invite-may-19-2008.jpg
+excerpt: The gallery went bankrupt in the middle of the show, and the piece I sold got shipped to Israel and I never got paid for it.
+summary: The gallery went bankrupt in the middle of the show, and the piece I sold got shipped to Israel and I never got paid for it.
+image: /static/img/timeline/apt-show-invite-may-19-2008.jpg
 tags:
   - painting
   - shows
@@ -21,4 +21,4 @@ I was in a group show at this furniture store/gallery in Soho NYC. The gallery w
 
 The show opening was really fun though.
 
-![invitation to art show at apt gallery, May 19, 2008.](/static/img/timelime/apt-show-invite-may-19-2008.jpg)
+![invitation to art show at apt gallery, May 19, 2008.](/static/img/timeline/apt-show-invite-may-19-2008.jpg)

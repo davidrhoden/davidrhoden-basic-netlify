@@ -3,7 +3,7 @@ title: "I saw the movie Night Nurse.: Notes for March 5, 2025."
 date: 2025-03-05T00:00:00
 excerpt: Terrific 70-min pre-code movie. Young Barbara Stanwyck and Joan Blondell are nurses Lora Hart and "Maloney", learning the ropes of the profession, and constantly changing their clothes and each other’s clothes on screen.
 summary: Terrific 70-min pre-code movie. Young Barbara Stanwyck and Joan Blondell are nurses Lora Hart and "Maloney", learning the ropes of the profession, and constantly changing their clothes and each other’s clothes on screen.
-image: /static/img/notes/night-nurse-still-1-mar-5-2025.jpg
+image: /static/img/notes/night-nurse/night-nurse-still-1-mar-5-2025.jpg
 tags:
   - movies
   - pre-Code Hollywood
