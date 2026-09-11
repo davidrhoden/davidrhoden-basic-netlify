@@ -2,7 +2,7 @@
 title: I saw Cousin Vickie at the Art Brat party.
 date: 2004-04-03T19:00:00.000Z
 excerpt: Cousin Vickie later played keyboards in The Stacks.
-image: /static/img/timeline/vickie-art-brat-apr-3-2004.jpg
+image: /static/img/timeline/cousin-vicky-art-brat-apr-3-2004.jpg
 tags:
   - post 
   - art shows
@@ -28,5 +28,5 @@ she was a masturbator, a masturbator"
 
 It was memorable.
 
-!Cousin Vickie at the Art Brat party, April e, 2004](/static/img/timeline/vickie-art-brat-apr-3-2004.jpg)
+!Cousin Vickie at the Art Brat party, April e, 2004](/static/img/timeline/cousin-vicky-art-brat-apr-3-2004.jpg)
 
