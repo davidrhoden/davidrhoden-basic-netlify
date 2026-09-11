@@ -3,7 +3,7 @@ title: Sally enjoyed an AC/DC record.
 date: 2017-10-21T11:00:00.000Z
 excerpt: Actually I think she’s enjoying the sunbeam.
 category: sally
-image: /static/img/sally/Sally-with-Angus-2017-10-21.jpg
+image: /static/img/sally/sally-with-angus-oct-21-2017.jpg
 tags:
   - post 
   - New Orleans
@@ -13,6 +13,6 @@ tags:
 
 ---
 
-![Sally with a copy of If You Want Blood You Got It](/static/img/sally/Sally-with-Angus-2017-10-21.jpg "Sally with a copy of If you Want Blood You Got It")
+![Sally with a copy of If You Want Blood You Got It](/static/img/sally/sally-with-angus-oct-21-2017.jpg "Sally with a copy of If you Want Blood You Got It")
 
 Actually I think she's enjoying the sunbeam.
