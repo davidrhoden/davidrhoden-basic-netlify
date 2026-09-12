@@ -68,11 +68,10 @@ generator: {{metadata.generator}}
 
 
 <script>
-$(document).ready(function(){
-    var date1 = new Date("03/02/1967"); 
-    var date2 = new Date($('#todays-date').text()); 
-    var Difference_In_Time = date2.getTime() - date1.getTime(); 
-    var Difference_In_Days = Difference_In_Time / (1000 * 3600 * 24); 
-    $('#days').html(Math.floor(Difference_In_Days)); 
+document.addEventListener('DOMContentLoaded', function(){
+    var date1 = new Date("03/02/1967");
+    var date2 = new Date(document.getElementById('todays-date').textContent);
+    var differenceInDays = Math.floor((date2.getTime() - date1.getTime()) / (1000 * 3600 * 24));
+    document.getElementById('days').textContent = differenceInDays;
 });
 </script>
