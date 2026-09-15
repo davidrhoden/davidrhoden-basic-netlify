@@ -937,18 +937,6 @@
       "tags": ["paintings", "squiggles"]
     },
     {
-      "title": "Posing Woman",
-      "date": "2023-01-01T00:00:00.000Z",
-      "summary": "Posing Woman: a painting by David Rhoden",
-      "image": "/static/img/paintings/posingwoman.jpg",
-      "height": null,
-      "width": null,
-      "price": 210,
-      "forsale": true,
-      "material": "oil on canvas",
-      "tags": ["paintings"]
-    },
-    {
       "title": "Screaming Guy",
       "date": "2023-01-01T00:00:00.000Z",
       "summary": "Screaming Guy: a painting by David Rhoden",
@@ -1102,18 +1090,6 @@
       "price": 60,
       "forsale": true,
       "material": "watercolor and graphite on watercolor paper",
-      "tags": ["paintings"]
-    },
-    {
-      "title": "Yellow Silver Head",
-      "date": "2023-01-01T00:00:00.000Z",
-      "summary": "Yellow Silver Head: a painting by David Rhoden",
-      "image": "/static/img/paintings/yellowsilverhead.jpg",
-      "height": null,
-      "width": null,
-      "price": "SOLD",
-      "forsale": false,
-      "material": "enamel on plywood",
       "tags": ["paintings"]
     },
     {
