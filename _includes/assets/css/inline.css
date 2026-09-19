@@ -207,6 +207,23 @@ h1 {
   width: 100%;
 }
 
+.photo-grid {
+  display: grid;
+  gap: 1em;
+  grid-template-columns: repeat(3, 1fr);
+  margin: 2em 0;
+}
+
+.photo-grid img {
+  margin: 0;
+}
+
+@media (max-width: 767px) {
+  .photo-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
 .latest-post-tags {
   margin-bottom: 1em;
 }
