@@ -45,7 +45,7 @@ tags:
 
 ![Walk in Bushwick, February 10, 2010.](/static/img/timeline/bushwick-walk-feb-10-2010/rockefeller-2-feb-10-2010.jpg)
 
-![Walk in Bushwick, February 10, 2010.](/static/img/timeline/bushwick-walk-feb-10-2010/san-juan-chapel.feb-10-2010.jpg)
+![Walk in Bushwick, February 10, 2010.](/static/img/timeline/bushwick-walk-feb-10-2010/san-juan-chapel-feb-10-2010.jpg)
 
 ![Walk in Bushwick, February 10, 2010.](/static/img/timeline/bushwick-walk-feb-10-2010/santa-barbara-rc-1-feb-10-2010.jpg)
 
