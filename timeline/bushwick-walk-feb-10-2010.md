@@ -19,7 +19,7 @@ tags:
 
 ![Walk in Bushwick, February 10, 2010.](/static/img/timeline/bushwick-walk-feb-10-2010/brick-school-2-feb-10-2010.jpg)
 
-![Walk in Bushwick, February 10, 2010.](/static/img/timeline/bushwick-walk-feb-10-2010/brick-shool-1-feb-10-2010.jpg)
+![Walk in Bushwick, February 10, 2010.](/static/img/timeline/bushwick-walk-feb-10-2010/brick-school-1-feb-10-2010.jpg)
 
 ![Walk in Bushwick, February 10, 2010.](/static/img/timeline/bushwick-walk-feb-10-2010/christmas-lights-feb-10-2010.jpg)
 
@@ -32,10 +32,6 @@ tags:
 ![Walk in Bushwick, February 10, 2010.](/static/img/timeline/bushwick-walk-feb-10-2010/let-my-people-go-feb-10-2010.jpg)
 
 ![Walk in Bushwick, February 10, 2010.](/static/img/timeline/bushwick-walk-feb-10-2010/now-thats-an-r-feb-10-2010.jpg)
-
-![Walk in Bushwick, February 10, 2010.](/static/img/timeline/bushwick-walk-feb-10-2010/bushwick-walk-feb-10-2010.jpg)
-
-![Walk in Bushwick, February 10, 2010.](/static/img/timeline/bushwick-walk-feb-10-2010/bushwick-walk-feb-10-2010.jpg)
 
 ![Walk in Bushwick, February 10, 2010.](/static/img/timeline/bushwick-walk-feb-10-2010/grilling-on-shopping-cart-feb-10-2010.jpg)
 
@@ -62,8 +58,6 @@ tags:
 ![Walk in Bushwick, February 10, 2010.](/static/img/timeline/bushwick-walk-feb-10-2010/van-on-road-feb-10-2010.jpg)
 
 ![Walk in Bushwick, February 10, 2010.](/static/img/timeline/bushwick-walk-feb-10-2010/window-feb-10-2010.jpg)
-
-![Walk in Bushwick, February 10, 2010.](/static/img/timeline/bushwick-walk-feb-10-2010/grilling-on-shopping-cart-feb-10-2010.jpg)
 
 ![Walk in Bushwick, February 10, 2010. Almost home.](/static/img/timeline/bushwick-walk-feb-10-2010/paulys-feb-10-2010.jpg)
 
