@@ -23,23 +23,23 @@ Live photos by Rene Gauthreaux.
 
 ![The Stacks at the Circle Bar, August 31, 2004. Photo by Rene Gauthreaux.](/static/img/rock/stacks/stacks-circle-bar-aug-31-2004/stacks-flyer-circle-aug-31-2004.jpg)
 
-![The Stacks at the Circle Bar, August 31, 2004. Photo by Rene Gauthreaux.](/static/img/static/img/rock/stacks/stacks-circle-bar-aug-31-2004/stacks-circle-bar-aug-31-2004-26.jpg)
+![The Stacks at the Circle Bar, August 31, 2004. Photo by Rene Gauthreaux.](/static/img/static/img/rock/stacks/stacks-circle-bar-aug-31-2004/stacks-circle-bar-gauthreaux-aug-31-2004-26.jpg)
 
-![The Stacks at the Circle Bar, August 31, 2004. Photo by Rene Gauthreaux.](/static/img/static/img/rock/stacks/stacks-circle-bar-aug-31-2004/stacks-circle-bar-aug-31-2004-30.jpg)
+![The Stacks at the Circle Bar, August 31, 2004. Photo by Rene Gauthreaux.](/static/img/static/img/rock/stacks/stacks-circle-bar-aug-31-2004/stacks-circle-bar-gauthreaux-aug-31-2004-30.jpg)
 
-![The Stacks at the Circle Bar, August 31, 2004. Photo by Rene Gauthreaux.](/static/img/static/img/rock/stacks/stacks-circle-bar-aug-31-2004/stacks-circle-bar-aug-31-2004-31.jpg)
+![The Stacks at the Circle Bar, August 31, 2004. Photo by Rene Gauthreaux.](/static/img/static/img/rock/stacks/stacks-circle-bar-aug-31-2004/stacks-circle-bar-gauthreaux-aug-31-2004-31.jpg)
 
-![The Stacks at the Circle Bar, August 31, 2004. Photo by Rene Gauthreaux.](/static/img/static/img/rock/stacks/stacks-circle-bar-aug-31-2004/stacks-circle-bar-aug-31-2004-35.jpg)
+![The Stacks at the Circle Bar, August 31, 2004. Photo by Rene Gauthreaux.](/static/img/static/img/rock/stacks/stacks-circle-bar-aug-31-2004/stacks-circle-bar-gauthreaux-aug-31-2004-35.jpg)
 
-![The Stacks at the Circle Bar, August 31, 2004. Photo by Rene Gauthreaux.](/static/img/static/img/rock/stacks/stacks-circle-bar-aug-31-2004/stacks-circle-bar-aug-31-2004-36.jpg)
+![The Stacks at the Circle Bar, August 31, 2004. Photo by Rene Gauthreaux.](/static/img/static/img/rock/stacks/stacks-circle-bar-aug-31-2004/stacks-circle-bar-gauthreaux-aug-31-2004-36.jpg)
 
-![The Stacks at the Circle Bar, August 31, 2004. Photo by Rene Gauthreaux.](/static/img/static/img/rock/stacks/stacks-circle-bar-aug-31-2004/stacks-circle-bar-aug-31-200437.jpg)
+<!-- ![The Stacks at the Circle Bar, August 31, 2004. Photo by Rene Gauthreaux.](/static/img/static/img/rock/stacks/stacks-circle-bar-aug-31-2004/stacks-circle-bar-aug-31-200437.jpg) -->
 
-![The Stacks at the Circle Bar, August 31, 2004. Photo by Rene Gauthreaux.](/static/img/static/img/rock/stacks/stacks-circle-bar-aug-31-2004/stacks-circle-bar-aug-31-2004-41.jpg)
+![The Stacks at the Circle Bar, August 31, 2004. Photo by Rene Gauthreaux.](/static/img/static/img/rock/stacks/stacks-circle-bar-aug-31-2004/stacks-circle-bar-gauthreaux-aug-31-2004-41.jpg)
 
-![The Stacks at the Circle Bar, August 31, 2004. Photo by Rene Gauthreaux.](/static/img/static/img/rock/stacks/stacks-circle-bar-aug-31-2004/stacks-circle-bar-aug-31-2004-42.jpg)
+![The Stacks at the Circle Bar, August 31, 2004. Photo by Rene Gauthreaux.](/static/img/static/img/rock/stacks/stacks-circle-bar-aug-31-2004/stacks-circle-bar-gauthreaux-aug-31-2004-42.jpg)
 
-![The Stacks at the Circle Bar, August 31, 2004. Photo by Rene Gauthreaux.](/static/img/static/img/rock/stacks/stacks-circle-bar-aug-31-2004/stacks-circle-bar-aug-31-2004-46.jpg)
+![The Stacks at the Circle Bar, August 31, 2004. Photo by Rene Gauthreaux.](/static/img/static/img/rock/stacks/stacks-circle-bar-aug-31-2004/stacks-circle-bar-gauthreaux-aug-31-2004-46.jpg)
 
 ![Flyer for The Stacks at the Circle Bar, August 31, 2004.](/static/img/rock/stacks/stacks-circle-bar-aug-31-2004/stacks-flyer-blue-aug-31-2004.jpg)
 

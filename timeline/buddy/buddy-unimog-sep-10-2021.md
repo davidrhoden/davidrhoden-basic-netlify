@@ -13,7 +13,7 @@ tags:
 
 ---
 
-![Buddy with Unimog painting](/static/img/buddy/buddy-unimog/buddy-helps-with-unimog-3-sep-10-2021)
+![Buddy with Unimog painting](/static/img/buddy/buddy-unimog/buddy-helps-with-unimog-3-sep-10-2021.jpg)
 
 ![Buddy with Unimog painting](/static/img/buddy/buddy-unimog/buddy-helps-with-unimog-2-sep-10-2021)
 

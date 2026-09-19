@@ -19,8 +19,6 @@ I think this was kind of the high point for Sleepy Heads.
 
 ![The Sleepy Heads played the Circle Bar.](/static/img/rock/sleepyheads/sleepy-heads-circle-bar/sleepyheads-circle-bar.jpg "The Sleepy Heads played the Circle Bar.")
 
-![The Sleepy Heads played the Circle Bar.](/static/img/rock/sleepyheads/sleepy-heads-circle-bar/sleepyheads-circle-bar-1.jpg "The Sleepy Heads played the Circle Bar.")
-
 ![The Sleepy Heads played the Circle Bar.](/static/img/rock/sleepyheads/sleepy-heads-circle-bar/sleepyheads-circle-bar-2.jpg "The Sleepy Heads played the Circle Bar.")
 
 ![The Sleepy Heads played the Circle Bar.](/static/img/rock/sleepyheads/sleepy-heads-circle-bar/sleepyheads-circle-bar-3.jpg "The Sleepy Heads played the Circle Bar.")
@@ -37,10 +35,6 @@ I think this was kind of the high point for Sleepy Heads.
 
 ![The Sleepy Heads played the Circle Bar.](/static/img/rock/sleepyheads/sleepy-heads-circle-bar/sleepyheads-circle-bar-9.jpg "The Sleepy Heads played the Circle Bar.")
 
-![The Sleepy Heads played the Circle Bar.](/static/img/rock/sleepyheads/sleepy-heads-circle-bar/sleepyheads-circle-bar-10.jpg "The Sleepy Heads played the Circle Bar.")
-
-![The Sleepy Heads played the Circle Bar.](/static/img/rock/sleepyheads/sleepy-heads-circle-bar/sleepyheads-circle-bar-11.jpg "The Sleepy Heads played the Circle Bar.")
-
 ![The Sleepy Heads played the Circle Bar.](/static/img/rock/sleepyheads/sleepy-heads-circle-bar/sleepyheads-circle-bar-12.jpg "The Sleepy Heads played the Circle Bar.")
 
 ![The Sleepy Heads played the Circle Bar.](/static/img/rock/sleepyheads/sleepy-heads-circle-bar/sleepyheads-circle-bar-13.jpg "The Sleepy Heads played the Circle Bar.")
@@ -54,10 +48,6 @@ I think this was kind of the high point for Sleepy Heads.
 ![The Sleepy Heads played the Circle Bar.](/static/img/rock/sleepyheads/sleepy-heads-circle-bar/sleepyheads-circle-bar-17.jpg "The Sleepy Heads played the Circle Bar.")
 
 ![The Sleepy Heads played the Circle Bar.](/static/img/rock/sleepyheads/sleepy-heads-circle-bar/sleepyheads-circle-bar-18.jpg "The Sleepy Heads played the Circle Bar.")
-
-![The Sleepy Heads played the Circle Bar.](/static/img/rock/sleepyheads/sleepy-heads-circle-bar/sleepyheads-circle-bar-19.jpg "The Sleepy Heads played the Circle Bar.")
-
-![The Sleepy Heads played the Circle Bar.](/static/img/rock/sleepyheads/sleepy-heads-circle-bar/sleepyheads-circle-bar-20.jpg "The Sleepy Heads played the Circle Bar.")
 
 ![The Sleepy Heads played the Circle Bar.](/static/img/rock/sleepyheads/sleepy-heads-circle-bar/sleepyheads-circle-bar-21.jpg "The Sleepy Heads played the Circle Bar.")
 

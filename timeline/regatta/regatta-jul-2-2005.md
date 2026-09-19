@@ -19,7 +19,7 @@ tags:
 
 This is when Trey and I came up with the Turfgrass Cup. It was a self-awarded award for the best last finish in the sailing race. Last regatta (for me) before Hurricane Katrina.
 
-![](/static/img/timeline/regatta-jul-2-2005/David-Ellenregatta-jul-2-2005.jpg
+![Dave Rhoden and Trey Ledford show off the Turfgrass Cup, an award we awarded ourselves.](/static/img/timeline/regatta-jul-2-2005/regatta-turfgrass-cup-jul-2-2005.jpg
 
-![](/static/img/timeline/regatta-jul-2-2005/regatta-turfgrass-cup-jul-2-2005.jpg
+![Dave Rhoden and Ellen Demmy at the regatta.](/static/img/timeline/regatta-jul-2-2005/David-Ellen-regatta-jul-2-2005.jpg
 
