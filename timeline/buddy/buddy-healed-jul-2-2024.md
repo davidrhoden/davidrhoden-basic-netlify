@@ -14,7 +14,7 @@ He really refused to wear the cone at this point. I didn't see him rubbing his e
 
 ![Buddy healed after his surgery.](/static/img/buddy/buddy-healing-jul-2-2024.jpg)
 
-![Buddy healed after his surgery.](/static/img/buddy/buddy-healing-1-jul-2-2024.jpg)
+![Buddy healed after his surgery.](/static/img/buddy/buddy-healing-jul-2-2024.jpg)
 
 ![Buddy healed after his surgery.](/static/img/buddy/buddy-healing-2-jul-2-2024.jpg)
 

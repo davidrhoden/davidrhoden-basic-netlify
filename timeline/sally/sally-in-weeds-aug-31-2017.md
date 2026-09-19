@@ -15,4 +15,4 @@ tags:
 
 This yard was hard to control.
 
-![Sally in weeds](/static/img/sally/sally/sally-in-weeds-aug-31-2017.jpg "Sally in weeds")
+![Sally in weeds](/static/img/sally/sally-in-weeds-aug-31-2017.jpg "Sally in weeds")

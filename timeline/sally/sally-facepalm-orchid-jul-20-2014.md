@@ -14,4 +14,4 @@ tags:
 
 ---
 
-![David Rhoden's cat Sally doing a facepalm, Orchid Avenue, New Orleans, July 20, 2014.](/static/img/sally/sally-facepalm-orchid-jul-20-2014.jpg.jpg)
+![David Rhoden's cat Sally doing a facepalm, Orchid Avenue, New Orleans, July 20, 2014.](/static/img/sally/sally-facepalm-orchid-jul-20-2014.jpg)

@@ -18,7 +18,7 @@ tags:
 
 ---
 
-![Exterior of the Lucky Cat, 245 Grand Street, Brooklyn NY.](/static/img/static/img/rock/lucky-cat-245-grand-street.png)
+![Exterior of the Lucky Cat, 245 Grand Street, Brooklyn NY.](/static/img/rock/lucky-cat-245-grand-street.png)
 
 I don't have real specific memories from this show, but it does remind me of something I saw at the Lucky Cat on an unknown date (so I'll drop it here).
 

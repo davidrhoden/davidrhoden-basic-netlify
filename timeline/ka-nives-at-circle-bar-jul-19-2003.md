@@ -19,7 +19,7 @@ tags:
     <button id="buttonPrevious">&#10094;</button>
     <button id="buttonNext">&#10095;</button>
 
-![The Ka-Nives played the Circle bar July 19, 2003.](/static/img/timeline/kanives-jul-19-2003/murillo2-jul-19-2003.jpg "The Ka-Nives played the Circle bar July 19, 2003.")
+![The Ka-Nives played the Circle bar July 19, 2003.](/static/img/timeline-new/murillo2-kanives-jul-19-2003.jpg "The Ka-Nives played the Circle bar July 19, 2003.")
 
 ![The Ka-Nives played the Circle bar July 19, 2003.](/static/img/timeline/kanives-jul-19-2003/tonyhall-kanives-jul-19-2003.jpg "The Ka-Nives played the Circle bar July 19, 2003.")
 

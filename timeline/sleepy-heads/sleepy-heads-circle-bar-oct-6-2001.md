@@ -33,7 +33,7 @@ I think this was kind of the high point for Sleepy Heads.
 
 ![The Sleepy Heads played the Circle Bar.](/static/img/rock/sleepyheads/sleepy-heads-circle-bar/sleepyheads-circle-bar-7.jpg "The Sleepy Heads played the Circle Bar.")
 
-![The Sleepy Heads played the Circle Bar.](/static/img/rock/sleepyheads/sleepy-heads-circle-bar/sleepyheads-circle-bar-8jpg "The Sleepy Heads played the Circle Bar.")
+![The Sleepy Heads played the Circle Bar.](/static/img/rock/sleepyheads/sleepy-heads-circle-bar/sleepyheads-circle-bar-8.jpg "The Sleepy Heads played the Circle Bar.")
 
 ![The Sleepy Heads played the Circle Bar.](/static/img/rock/sleepyheads/sleepy-heads-circle-bar/sleepyheads-circle-bar-9.jpg "The Sleepy Heads played the Circle Bar.")
 

@@ -11,6 +11,6 @@ tags:
 
 ---
 
-![Happened on a train-trailer collision in Arabi.](/static/img/timeline/train-collision-arabimar-11-2022.jpg)
+![Happened on a train-trailer collision in Arabi.](/static/img/timeline/train-collision-arabi-mar-11-2022.jpg)
 
 St. Claude Avenue was blocked in Arabi after this trailer got clipped by a passing train. Nobody hurt.

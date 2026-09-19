@@ -15,7 +15,7 @@ tags:
 ---
 
 
-![Little Richard on Tom Snyder (1997)](/static/img/rock/little-richard-tom-snyder-jan-11-1997.png)
+![Little Richard on Tom Snyder (1997)](/static/img/timeline/little-richard-tom-snyder-jan-11-1997.png)
 
 <iframe width="640" height="350" src="https://www.youtube.com/embed/4mB3u2jGGXY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

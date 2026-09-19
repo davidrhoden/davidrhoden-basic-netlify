@@ -27,4 +27,4 @@ A cool stat on this game is all the scores in it were touchdowns until the game-
 [https://www.canalstreetchronicles.com/2023/7/11/23786513/the-top-10-games-in-saints-history-8-giants-brees-manning-eli](https://www.canalstreetchronicles.com/2023/7/11/23786513/the-top-10-games-in-saints-history-8-giants-brees-manning-eli)
 
 
-![Saints Benjamin Watson catching a touchdown pass from Drew Brees](/static/img/timeline/timeline/saints-giants-nov-1-2015.jpg)
+![Saints Benjamin Watson catching a touchdown pass from Drew Brees](/static/img/timeline/saints-giants-nov-1-2015.jpg)

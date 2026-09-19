@@ -41,7 +41,7 @@ Live photos by Rene Gauthreaux.
 
 ![The Stacks at the Circle Bar, August 31, 2004. Photo by Rene Gauthreaux.](/static/img/static/img/rock/stacks/stacks-circle-bar-aug-31-2004/stacks-circle-bar-aug-31-2004-46.jpg)
 
-![Flyer for The Stacks at the Circle Bar, August 31, 2004.](/static/img/static/img/rock/stacks/stacks-circle-bar-aug-31-2004/stacks-flyer-blue-aug-31-2004.jpg)
+![Flyer for The Stacks at the Circle Bar, August 31, 2004.](/static/img/rock/stacks/stacks-circle-bar-aug-31-2004/stacks-flyer-blue-aug-31-2004.jpg)
 
   </div>
 <div id="caption"></div>
