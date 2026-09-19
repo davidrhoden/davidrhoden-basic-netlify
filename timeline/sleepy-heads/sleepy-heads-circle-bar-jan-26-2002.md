@@ -27,7 +27,7 @@ We seemed to play almost every weekend around this time. Our organist, Jay Thoma
 
 ![Sleepy Heads at Circle Bar, January 26, 2002](/static/img/rock/sleepyheads/sleepy-heads-circle-bar-jan-26-2002/sleepy-heads-jan-26-2002-061.jpg)
 
-![Sleepy Heads at Circle Bar, January 26, 2002](/static/img/rock/sleepyheads/sleepy-heads-circle-bar-jan-26-2002/sleepy-heads-jan-26-2002-062jpg)
+![Sleepy Heads at Circle Bar, January 26, 2002](/static/img/rock/sleepyheads/sleepy-heads-circle-bar-jan-26-2002/sleepy-heads-jan-26-2002-062.jpg)
 
 ![Sleepy Heads at Circle Bar, January 26, 2002](/static/img/rock/sleepyheads/sleepy-heads-circle-bar-jan-26-2002/sleepy-heads-jan-26-2002-063.jpg)
 

@@ -15,7 +15,7 @@ tags:
 
 ![Dirty Knives at Checkpoint Charlie, New Orleans, June 22 2001](/static/img/rock/dirty-knives/dirty-knives-checkpoints-jun-22-2001/dirty-knives-checkpoints-1-jun-22-2001.jpg "Dirty Knives at Checkpoint Charlie, New Orleans, June 22 2001")
 
-![Dirty Knives at Checkpoint Charlie, New Orleans, June 22 2001](/static/img/rock/dirty-knives/dirty-knives-checkpoints-jun-22-2001/dirty-knives-checkpoints-2r-jun-22-2001.jpg "Dirty Knives at Checkpoint Charlie, New Orleans, June 22 2001")
+![Dirty Knives at Checkpoint Charlie, New Orleans, June 22 2001](/static/img/rock/dirty-knives/dirty-knives-checkpoints-jun-22-2001/dirty-knives-checkpoints-2-jun-22-2001.jpg "Dirty Knives at Checkpoint Charlie, New Orleans, June 22 2001")
 
 ![Dirty Knives at Checkpoint Charlie, New Orleans, June 22 2001](/static/img/rock/dirty-knives/dirty-knives-checkpoints-jun-22-2001/dirty-knives-checkpoints-3-jun-22-2001.jpg "Dirty Knives at Checkpoint Charlie, New Orleans, June 22 2001")
 

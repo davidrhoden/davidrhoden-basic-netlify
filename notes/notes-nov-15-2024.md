@@ -39,7 +39,7 @@ Then he had a guy on who claimed Gaetz has a lot of friends on the Democratic si
 You know how Ken dolls' clothes kind of fit weird, because the fabric was so thick and polyester-y? I saw that fit on a person on _Columbo_. He looked like a walking Ken doll.
 
 
-![guy on Columbo that looks like a walking Ken doll](/static/img/notes/sken-doll-columbo-oct-30-2024.jpeg)
+![guy on Columbo that looks like a walking Ken doll](/static/img/notes/ken-doll-columbo-oct-30-2024.jpeg)
 
 -----
 

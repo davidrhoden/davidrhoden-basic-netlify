@@ -25,7 +25,7 @@ It's David and Andrew from The Stacks, along with new drummer Brian Tierney. We'
 
 I've got more pictures than this.
 
-![My musical gear, ready to go to the gig.](/static/img/rock/gig-gear-apr-10-2021.jpg "My musical gear, ready to go to the gig.")
+![My musical gear, ready to go to the gig.](/static/img/rock/golden-ray/golden-ray-gig-gear-apr-10-2021.jpg "My musical gear, ready to go to the gig.")
 
 Here's what we sound like.
 
