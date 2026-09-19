@@ -21,7 +21,7 @@ tags:
 
 ![Walk in Bushwick, February 10, 2010.](/static/img/timeline/bushwick-walk-feb-10-2010/brick-school-1-feb-10-2010.jpg)
 
-![Walk in Bushwick, February 10, 2010.](/static/img/timeline/bushwick-walk-feb-10-2010/christmas-lights-feb-10-2010.jpg)
+![Walk in Bushwick, February 10, 2010.](/static/img/timeline/bushwick-walk-feb-10-2010/christmas-lights-feb-2010.jpg)
 
 ![Walk in Bushwick, February 10, 2010.](/static/img/timeline/bushwick-walk-feb-10-2010/grocery-feb-10-2010.jpg)
 
@@ -37,21 +37,21 @@ tags:
 
 ![Walk in Bushwick, February 10, 2010.](/static/img/timeline/bushwick-walk-feb-10-2010/popeyes-1-feb-10-2010.jpg)
 
-![Walk in Bushwick, February 10, 2010.](/static/img/timeline/bushwick-walk-feb-10-2010/popeyes-2-feb-10-2010.jpg)
+![Walk in Bushwick, February 10, 2010.](/static/img/timeline/bushwick-walk-feb-10-2010/popeyes-2-feb-10-2010.jpeg)
 
 ![Walk in Bushwick, February 10, 2010.](/static/img/timeline/bushwick-walk-feb-10-2010/popeyes-3-feb-10-2010.jpg)
 
 ![Walk in Bushwick, February 10, 2010.](/static/img/timeline/bushwick-walk-feb-10-2010/randy-feb-10-2010.jpg)
 
-![Walk in Bushwick, February 10, 2010.](/static/img/timeline/bushwick-walk-feb-10-2010/rockefeller-2-feb-10-2010.jpg)
+![Walk in Bushwick, February 10, 2010.](/static/img/timeline/bushwick-walk-feb-10-2010/rockefeller-feb-10-2010.jpg)
 
-![Walk in Bushwick, February 10, 2010.](/static/img/timeline/bushwick-walk-feb-10-2010/san-juan-chapel-feb-10-2010.jpg)
+![Walk in Bushwick, February 10, 2010.](/static/img/timeline/bushwick-walk-feb-10-2010/san-juan-chapel.feb-10-2010.jpg)
 
 ![Walk in Bushwick, February 10, 2010.](/static/img/timeline/bushwick-walk-feb-10-2010/santa-barbara-rc-1-feb-10-2010.jpg)
 
 ![Walk in Bushwick, February 10, 2010.](/static/img/timeline/bushwick-walk-feb-10-2010/santa-barbara-rc-2-feb-10-2010.jpg)
 
-![Walk in Bushwick, February 10, 2010.](/static/img/timeline/bushwick-walk-feb-10-2010/santa-barbara-rc-3-feb-10-2010.jpg)
+![Walk in Bushwick, February 10, 2010.](/static/img/timeline/bushwick-walk-feb-10-2010/santa-barbara-rc-3-feb-10-2010.jpeg)
 
 ![Walk in Bushwick, February 10, 2010.](/static/img/timeline/bushwick-walk-feb-10-2010/santa-barbara-rc-4-feb-10-2010.jpg)
 
