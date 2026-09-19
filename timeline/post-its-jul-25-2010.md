@@ -1,6 +1,7 @@
 ---
 title: Post-its.
 date: 2010-07-25
+excerpt: There's probably the idea for a painting or two in here.
 image: /static/img/timeline/post-its-jul-25-2010/post-its-jul-25-2020.jpeg
 tags:
   - post
