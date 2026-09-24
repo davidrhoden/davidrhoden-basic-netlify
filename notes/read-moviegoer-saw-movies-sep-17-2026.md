@@ -1,7 +1,7 @@
 ---
 title: 'Notes for September 17, 2026: I read a book and watched some movies.'
 date: 2026-09-17T00:00:00
-excerpt: I just re-read The Moviegoer by Walker Percy. He mentions a dozen movies in the book, of which I’d seen eight.
+excerpt: I just re-read The Moviegoer by Walker Percy. He mentions a dozen movies in the book, of which I’d seen eight. Now I've seen nine.
 image: /static/img/notes/dark-waters-really-afraid-sep-17-2026.jpg
 tags:
   - movies
@@ -14,7 +14,7 @@ tags:
   - Thomas Mitchell
   - It's a Wonderful Life
   - Elisha Cook Jr.
-  - The Maltese Falcon
+  - The Maltese Falcon (movie)
   - Blacula
   - The Young Philadelphians (movie)
   - Paul Newman
@@ -26,7 +26,7 @@ tags:
 
 ---
 
-I just re-read _The Moviegoer_ by Walker Percy. He mentions a dozen movies in the book, of which I’d seen eight. [(A Letterboxd list by "Justin" of the twelve movies mentioned.)](https://letterboxd.com/jmanthony/list/movies-mentioned-in-the-moviegoer-by-walker/) I've yet to see _Holiday_, _Fort Dobbs_, and _All Quiet On The Western Front_.
+I just re-read _The Moviegoer_ by Walker Percy. He mentions a dozen movies in the book, of which I’d seen eight. [(A Letterboxd list by "Justin" of the twelve movies mentioned.)](https://letterboxd.com/jmanthony/list/movies-mentioned-in-the-moviegoer-by-walker/) I've yet to see _Holiday_, _Fort Dobbs_, and _All Quiet On The Western Front_, and now, with the addition of _Dark Waters_, I've seen nine.
 
 _Dark Waters_ (USA 1944, dir. Lazlo de Toth (the one-eyed director of _House of Wax (in 3D)_) was one I hadn’t seen. Got it from Internet Archive. 480p but good quality.
 Stars Merle Oberon (who I’d never seen in a movie). Her story is strange—— she was part Chinese, I think? But she hid it. Sometimes she looks Chinese, and other times not at all. I can’t explain it better than that.
