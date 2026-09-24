@@ -10,7 +10,7 @@ tags:
 
 ---
 
-![Buddy the cat Sitting on David Rhoden's desk.](/static/img/buddy/buddy-on-desk-sep-22-2026.jpeg
+![Buddy the cat sitting on David Rhoden's desk.](/static/img/buddy/buddy-on-desk-sep-22-2026.jpeg
 
 It can be irritating having to work around him, but he enjoys showing off so much, you can't stay mad at him.
 
