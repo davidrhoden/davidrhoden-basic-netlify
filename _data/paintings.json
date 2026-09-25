@@ -10,7 +10,7 @@
       "price": 210,
       "forsale": true,
       "material": "enamel on plywood",
-      "tags": ["paintings"]
+      "tags": ["paintings", "black and white"]
     },
     {
       "title": "Aah Guy",
@@ -25,16 +25,28 @@
       "tags": ["paintings"]
     },
     {
+      "title": "Àguila Intergalactico",
+      "date": "2000-01-01T11:00:00.000Z",
+      "summary": "Àguila Intergalactico: a painting by David Rhoden",
+      "image": "/static/img/paintings/aguila-intergalactico-undated.jpg",
+      "height": null,
+      "width": null,
+      "price": "SOLD",
+      "forsale": false,
+      "material": "enamel on plywood",
+      "tags": ["paintings", "luchadores"]
+    },
+    {
       "title": "Amputee",
       "date": "2023-05-20T00:00:00.000Z",
       "summary": "Amputee: a painting by David Rhoden",
-      "image": "/static/img/paintings/amputee-reclaimed-mar-17-2025.jpg",
+      "image": "/static/img/paintings/amputee-reclaimed-mar-17-2025.jpeg",
       "height": null,
       "width": null,
       "price": 360,
       "forsale": true,
       "material": "enamel on plywood",
-      "tags": ["paintings"]
+      "tags": ["paintings", "black and white"]
     },
     {
       "title": "Babbler",
@@ -46,7 +58,7 @@
       "price": "SOLD",
       "forsale": false,
       "material": "enamel on plywood",
-      "tags": ["paintings"]
+      "tags": ["paintings", "black and white"]
     },
     {
       "title": "Betty",
@@ -58,7 +70,7 @@
       "price": "SOLD",
       "forsale": false,
       "material": "enamel on plywood",
-      "tags": ["paintings", "cats"]
+      "tags": ["paintings", "cats", "black and white"]
     },
     {
       "title": "Blobby (standing)",
@@ -70,7 +82,7 @@
       "price": 120,
       "forsale": true,
       "material": "enamel on plywood",
-      "tags": ["paintings"]
+      "tags": ["paintings", "black and white"]
     },
     {
       "title": "Blue Squiggle",
@@ -94,7 +106,7 @@
       "price": "SOLD",
       "forsale": false,
       "material": "enamel on plywood",
-      "tags": ["paintings"]
+      "tags": ["paintings", "black and white"]
     },
     {
       "title": "Chap",
@@ -106,7 +118,7 @@
       "price": 120,
       "forsale": true,
       "material": "enamel on plywood",
-      "tags": ["paintings"]
+      "tags": ["paintings", "black and white"]
     },
     {
       "title": "Charter",
@@ -154,19 +166,19 @@
       "price": 210,
       "forsale": true,
       "material": "enamel on plywood",
-      "tags": ["paintings"]
+      "tags": ["paintings", "black and white"]
     },
     {
       "title": "Long Legs",
       "date": "2023-05-20T00:00:00.000Z",
       "summary": "Long Legs: a painting by David Rhoden",
-      "image": "/static/img/paintings/sized_exports/daddy-long-legs.png",
+      "image": "/static/img/paintings/daddy-long-legs.png",
       "height": 32,
       "width": 36,
       "price": "SOLD",
       "forsale": false,
       "material": "enamel on plywood",
-      "tags": ["paintings"]
+      "tags": ["paintings", "black and white"]
     },
     {
       "title": "Dominante",
@@ -190,7 +202,7 @@
       "price": 360,
       "forsale": true,
       "material": "enamel on plywood",
-      "tags": ["paintings"]
+      "tags": ["paintings", "black and white"]
     },
     {
       "title": "Eater",
@@ -202,7 +214,7 @@
       "price": 150,
       "forsale": true,
       "material": "enamel on plywood",
-      "tags": ["paintings"]
+      "tags": ["paintings", "black and white"]
     },
     {
       "title": "Forest Wizard",
@@ -250,7 +262,7 @@
       "price": "SOLD",
       "forsale": false,
       "material": "enamel on plywood",
-      "tags": ["paintings"]
+      "tags": ["paintings", "luchadores"]
     },
     {
       "title": "Give Me Your Money",
@@ -274,7 +286,7 @@
       "price": "SOLD",
       "forsale": false,
       "material": "enamel on plywood",
-      "tags": ["paintings"]
+      "tags": ["paintings", "black and white"]
     },
     {
       "title": "A Face",
@@ -286,7 +298,7 @@
       "price": 90,
       "forsale": true,
       "material": "enamel on plywood",
-      "tags": ["paintings"]
+      "tags": ["paintings", "black and white"]
     },
     {
       "title": "Keys",
@@ -298,7 +310,7 @@
       "price": "SOLD",
       "forsale": false,
       "material": "enamel on plywood",
-      "tags": ["paintings"]
+      "tags": ["paintings", "black and white"]
     },
     {
       "title": "Kiss Guy",
@@ -310,7 +322,7 @@
       "price": "NFS - damaged by weather",
       "forsale": false,
       "material": "enamel on plywood",
-      "tags": ["paintings"]
+      "tags": ["paintings", "black and white"]
     },
     {
       "title": "Lighter",
@@ -322,7 +334,7 @@
       "price": 150,
       "forsale": true,
       "material": "enamel on plywood",
-      "tags": ["paintings"]
+      "tags": ["paintings", "black and white"]
     },
     {
       "title": "Many-Eyed Monster 2",
@@ -334,7 +346,7 @@
       "price": "SOLD",
       "forsale": false,
       "material": "enamel on plywood",
-      "tags": ["paintings"]
+      "tags": ["paintings", "black and white"]
     },
     {
       "title": "Orange Squiggle",
@@ -418,7 +430,7 @@
       "price": 120,
       "forsale": true,
       "material": "enamel on plywood. metal rod, shoestring",
-      "tags": ["paintings"]
+      "tags": ["paintings", "black and white"]
     },
     {
       "title": "Pink Face",
@@ -442,7 +454,7 @@
       "price": "SOLD",
       "forsale": false,
       "material": "enamel on plywood",
-      "tags": ["paintings"]
+      "tags": ["paintings", "black and white"]
     },
     {
       "title": "Rings",
@@ -454,7 +466,7 @@
       "price": 300,
       "forsale": true,
       "material": "enamel on plywood",
-      "tags": []
+      "tags": ["paintings"]
     },
     {
       "title": "Snowmobile",
@@ -478,7 +490,7 @@
       "price": 120,
       "forsale": true,
       "material": "enamel on plywood",
-      "tags": ["paintings"]
+      "tags": ["paintings", "black and white"]
     },
     {
       "title": "Stop Laughing",
@@ -490,7 +502,7 @@
       "price": 150,
       "forsale": true,
       "material": "enamel on plywood",
-      "tags": ["paintings", "Stop Laughing"]
+      "tags": ["paintings", "Stop Laughing", "black and white"]
     },
     {
       "title": "Stumpgrinder",
@@ -526,7 +538,7 @@
       "price": "SOLD",
       "forsale": false,
       "material": "enamel on plywood",
-      "tags": ["paintings"]
+      "tags": ["paintings", "black and white"]
     },
     {
       "title": "Awful Baby",
@@ -538,7 +550,7 @@
       "price": "SOLD",
       "forsale": false,
       "material": "enamel on plywood",
-      "tags": ["paintings"]
+      "tags": ["paintings", "black and white"]
     },
     {
       "title": "Big Head",
@@ -550,7 +562,7 @@
       "price": null,
       "forsale": true,
       "material": "enamel on plywood",
-      "tags": ["paintings"]
+      "tags": ["paintings", "black and white"]
     },
     {
       "title": "Blobman",
@@ -562,7 +574,7 @@
       "price": "SOLD",
       "forsale": false,
       "material": "enamel on plywood",
-      "tags": ["paintings"]
+      "tags": ["paintings", "black and white"]
     },
     {
       "title": "Blue Lucha",
@@ -574,7 +586,7 @@
       "price": "SOLD",
       "forsale": false,
       "material": "enamel on plywood",
-      "tags": ["paintings", "luchadors"]
+      "tags": ["paintings", "luchadores"]
     },
     {
       "title": "Many Teeth",
@@ -586,7 +598,7 @@
       "price": "SOLD",
       "forsale": false,
       "material": "enamel on plywood",
-      "tags": ["paintings"]
+      "tags": ["paintings", "black and white"]
     },
     {
       "title": "Breathers",
@@ -610,19 +622,19 @@
       "price": "SOLD",
       "forsale": false,
       "material": "enamel on plywood",
-      "tags": ["paintings"]
+      "tags": ["paintings", "black and white"]
     },
     {
-      "title": "Likes Corn",
+      "title": "Corn Liker",
       "date": "2023-01-01T00:00:00.000Z",
-      "summary": "Likes Corn: a painting by David Rhoden",
+      "summary": "Corn Liker: a painting by David Rhoden",
       "image": "/static/img/paintings/corn-on-the-cob.jpg",
       "height": null,
       "width": null,
       "price": "SOLD",
       "forsale": false,
       "material": "enamel on plywood",
-      "tags": ["paintings"]
+      "tags": ["paintings", "black and white"]
     },
     {
       "title": "Crop Failure 2038",
@@ -634,7 +646,7 @@
       "price": "SOLD",
       "forsale": false,
       "material": "enamel on plywood",
-      "tags": ["paintings"]
+      "tags": ["paintings", "black and white"]
     },
     {
       "title": "Dottage",
@@ -682,7 +694,7 @@
       "price": "SOLD",
       "forsale": false,
       "material": "enamel and aluiminum foil on plywood",
-      "tags": ["paintings", "luchadors"]
+      "tags": ["paintings", "luchadores"]
     },
     {
       "title": "Football",
@@ -706,7 +718,7 @@
       "price": "SOLD",
       "forsale": false,
       "material": "enamel on plywood",
-      "tags": ["paintings"]
+      "tags": ["paintings", "black and white"]
     },
     {
       "title": "Green Heads",
@@ -730,7 +742,7 @@
       "price": "SOLD",
       "forsale": false,
       "material": "enamel on plywood",
-      "tags": ["paintings"]
+      "tags": ["paintings", "black and white"]
     },
     {
       "title": "I'm Over It",
@@ -742,7 +754,7 @@
       "price": "SOLD",
       "forsale": false,
       "material": "unknown paint on corrugated paper",
-      "tags": ["paintings"]
+      "tags": ["paintings", "black and white"]
     },
     {
       "title": "Inhaler",
@@ -814,7 +826,7 @@
       "price": "SOLD",
       "forsale": false,
       "material": "enamel on plywood",
-      "tags": ["paintings"]
+      "tags": ["paintings", "black and white"]
     },
     {
       "title": "Many-Eyed Monster 1",
@@ -826,7 +838,7 @@
       "price": "SOLD",
       "forsale": false,
       "material": "enamel on plywood",
-      "tags": ["paintings"]
+      "tags": ["paintings", "black and white"]
     },
     {
       "title": "Negatory",
@@ -838,7 +850,7 @@
       "price": "SOLD",
       "forsale": false,
       "material": "enamel on plywood",
-      "tags": ["paintings"]
+      "tags": ["paintings", "black and white"]
     },
     {
       "title": "New Guy at the Office",
@@ -850,7 +862,7 @@
       "price": "SOLD",
       "forsale": false,
       "material": "enamel on plywood",
-      "tags": ["paintings"]
+      "tags": ["paintings", "black and white"]
     },
     {
       "title": "No No No No No",
@@ -862,7 +874,7 @@
       "price": "SOLD",
       "forsale": false,
       "material": "enamel on plywood",
-      "tags": ["paintings"]
+      "tags": ["paintings", "black and white"]
     },
     {
       "title": "Oh No Never",
@@ -874,7 +886,7 @@
       "price": "SOLD",
       "forsale": false,
       "material": "enamel on plywood",
-      "tags": ["paintings"]
+      "tags": ["paintings", "black and white"]
     },
     {
       "title": "One Arm",
@@ -886,7 +898,7 @@
       "price": "SOLD",
       "forsale": false,
       "material": "enamel on plywood",
-      "tags": ["paintings"]
+      "tags": ["paintings", "black and white"]
     },
     {
       "title": "Organic Form (Blue)",
@@ -922,7 +934,7 @@
       "price": null,
       "forsale": true,
       "material": "enamel on plywood",
-      "tags": ["paintings", "luchadors"]
+      "tags": ["paintings", "luchadores"]
     },
     {
       "title": "Pink Squiggle",
@@ -958,7 +970,7 @@
       "price": "SOLD",
       "forsale": false,
       "material": "enamel on plywood",
-      "tags": ["paintings"]
+      "tags": ["paintings", "black and white"]
     },
     {
       "title": "Small Blue Suit",
@@ -994,19 +1006,19 @@
       "price": "SOLD",
       "forsale": false,
       "material": "enamel on plywood",
-      "tags": ["paintings"]
+      "tags": ["paintings", "black and white"]
     },
     {
       "title": "Standing Man",
       "date": "2023-01-01T00:00:00.000Z",
       "summary": "Standing Man: a painting by David Rhoden",
-      "image": "/static/img/paintings/standingman.jpg",
+      "image": "/static/img/paintings/standing-man-2000.jpg",
       "height": null,
       "width": null,
       "price": "SOLD",
       "forsale": false,
       "material": "enamel on plywood",
-      "tags": ["paintings"]
+      "tags": ["paintings", "black and white"]
     },
     {
       "title": "Two Human Figures",
@@ -1030,19 +1042,19 @@
       "price": "SOLD",
       "forsale": false,
       "material": "enamel and Sharpie on plywood",
-      "tags": ["paintings"]
+      "tags": ["paintings", "black and white"]
     },
     {
       "title": "Typical Man",
       "date": "2022-08-29T00:00:00.000Z",
       "summary": "Typical Man: a painting by David Rhoden",
-      "image": "/static/img/paintings/typical-man-new-painting-aug-29-2022.jpg",
+      "image": "/static/img/paintings/typical-man-aug-29-2022.jpg",
       "height": null,
       "width": null,
       "price": "NFS - damaged by weather",
       "forsale": false,
       "material": "enamel on plywood",
-      "tags": ["paintings"]
+      "tags": ["paintings", "black and white"]
     },
     {
       "title": "Unimog",
@@ -1066,7 +1078,7 @@
       "price": "LOST - probably stolen from the bar that bought it. Last seen by a friend lying on the sidewalk on Magazine Street.",
       "forsale": false,
       "material": "enamel on plywood",
-      "tags": ["paintings"]
+      "tags": ["paintings", "black and white"]
     },
     {
       "title": "Urinator",
@@ -1078,7 +1090,7 @@
       "price": "CONTACT ME.",
       "forsale": true,
       "material": "enamel on plywood",
-      "tags": ["paintings"]
+      "tags": ["paintings", "black and white"]
     },
     {
       "title": "Yellow Fellow",
