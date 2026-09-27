@@ -20,7 +20,7 @@ tags:
 
 ---
 
-Chan and I were actually visiting New Orleans for BJ's birthday. Somehow we threw a show together. I had to buy a lefty Strat copy (for $79!) from Jimmy Glickman to do the gig. Obviously no rehearsal. I bet we were sort of a Wolfpack/Stacks hybrid. I wish I had the set list.
+Chan and I were actually visiting New Orleans for BJ's birthday. Somehow we threw a show together. I had to buy a lefty Strat copy (for $79!) from [Jimmy Glickman](https://antigravitymagazine.com/feature/bye-buddy-remembering-jimmy-glickman-1964-2016/) to do the gig. Obviously no rehearsal. I bet we were sort of a Wolfpack/Stacks hybrid. I wish I had the set list.
 
 Oh, the best part? We wanted Doug to play but he was in Oklahoma. We assumed he was out but he asked "what time does the show start?" We told him 10 and damn if he didn't roll in at 10 on the dot.
 
