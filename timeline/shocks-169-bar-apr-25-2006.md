@@ -4,7 +4,7 @@ date: 2006-04-25T00:00:00
 excerpt: It was so demoralizing, I guess we just didn't want to play anymore after that.
 image: /static/img/timeline/169-bar-apr-25-2006.jpg
 tags:
-  - 'The Shocks/"The Benny Band"''
+  - 'The Shocks/"The Benny Band"'
   - Benny (Mark G.)
   - Kelly Vaughn Kaufmann
   - 169 Bar
