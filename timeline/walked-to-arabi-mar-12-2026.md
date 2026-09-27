@@ -15,18 +15,18 @@ tags:
   - Lighthouse Record Store
   - The Cars
   - Bill Janovitz
-  - The Cars: Let The Stories Be Told
+  - 'The Cars: Let The Stories Be Told'
   - Ric Ocasek
   - Elliot Easton
   - Bread
-  - Emotion In Motion"
-  - "Everything I Own"
+  - '"Emotion In Motion"'
+  - '"Everything I Own"'
   - R.E.M.
   - Fables Of The Reconstruction
   - MAD Magazine
   - Nick Meglin
   - On-The-Spot Drawing
-  - black & white
+  - black-and-white
   - three-hole punches
 
 ---

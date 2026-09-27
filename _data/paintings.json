@@ -10,7 +10,7 @@
       "price": 210,
       "forsale": true,
       "material": "enamel on plywood",
-      "tags": ["paintings", "black and white"]
+      "tags": ["paintings", "black-and-white"]
     },
     {
       "title": "Aah Guy",
@@ -46,7 +46,7 @@
       "price": 360,
       "forsale": true,
       "material": "enamel on plywood",
-      "tags": ["paintings", "black and white"]
+      "tags": ["paintings", "black-and-white"]
     },
     {
       "title": "Babbler",
@@ -58,7 +58,7 @@
       "price": "SOLD",
       "forsale": false,
       "material": "enamel on plywood",
-      "tags": ["paintings", "black and white"]
+      "tags": ["paintings", "black-and-white"]
     },
     {
       "title": "Betty",
@@ -70,7 +70,7 @@
       "price": "SOLD",
       "forsale": false,
       "material": "enamel on plywood",
-      "tags": ["paintings", "cats", "black and white"]
+      "tags": ["paintings", "cats", "black-and-white"]
     },
     {
       "title": "Blobby (standing)",
@@ -82,7 +82,7 @@
       "price": 120,
       "forsale": true,
       "material": "enamel on plywood",
-      "tags": ["paintings", "black and white"]
+      "tags": ["paintings", "black-and-white"]
     },
     {
       "title": "Blue Squiggle",
@@ -106,7 +106,7 @@
       "price": "SOLD",
       "forsale": false,
       "material": "enamel on plywood",
-      "tags": ["paintings", "black and white"]
+      "tags": ["paintings", "black-and-white"]
     },
     {
       "title": "Chap",
@@ -118,7 +118,7 @@
       "price": 120,
       "forsale": true,
       "material": "enamel on plywood",
-      "tags": ["paintings", "black and white"]
+      "tags": ["paintings", "black-and-white"]
     },
     {
       "title": "Charter",
@@ -166,7 +166,7 @@
       "price": 210,
       "forsale": true,
       "material": "enamel on plywood",
-      "tags": ["paintings", "black and white"]
+      "tags": ["paintings", "black-and-white"]
     },
     {
       "title": "Long Legs",
@@ -178,7 +178,7 @@
       "price": "SOLD",
       "forsale": false,
       "material": "enamel on plywood",
-      "tags": ["paintings", "black and white"]
+      "tags": ["paintings", "black-and-white"]
     },
     {
       "title": "Dominante",
@@ -202,7 +202,7 @@
       "price": 360,
       "forsale": true,
       "material": "enamel on plywood",
-      "tags": ["paintings", "black and white"]
+      "tags": ["paintings", "black-and-white"]
     },
     {
       "title": "Eater",
@@ -214,7 +214,7 @@
       "price": 150,
       "forsale": true,
       "material": "enamel on plywood",
-      "tags": ["paintings", "black and white"]
+      "tags": ["paintings", "black-and-white"]
     },
     {
       "title": "Forest Wizard",
@@ -274,7 +274,7 @@
       "price": 210,
       "forsale": true,
       "material": "enamel on plywood",
-      "tags": ["paintings", "black and white"]
+      "tags": ["paintings", "black-and-white"]
     },
     {
       "title": "Give Me Your Money",
@@ -298,7 +298,7 @@
       "price": "SOLD",
       "forsale": false,
       "material": "enamel on plywood",
-      "tags": ["paintings", "black and white"]
+      "tags": ["paintings", "black-and-white"]
     },
     {
       "title": "A Face",
@@ -310,7 +310,7 @@
       "price": 90,
       "forsale": true,
       "material": "enamel on plywood",
-      "tags": ["paintings", "black and white"]
+      "tags": ["paintings", "black-and-white"]
     },
     {
       "title": "Keys",
@@ -322,7 +322,7 @@
       "price": "SOLD",
       "forsale": false,
       "material": "enamel on plywood",
-      "tags": ["paintings", "black and white"]
+      "tags": ["paintings", "black-and-white"]
     },
     {
       "title": "Kiss Guy",
@@ -334,7 +334,7 @@
       "price": "NFS - damaged by weather",
       "forsale": false,
       "material": "enamel on plywood",
-      "tags": ["paintings", "black and white"]
+      "tags": ["paintings", "black-and-white"]
     },
     {
       "title": "Lighter",
@@ -346,7 +346,7 @@
       "price": 150,
       "forsale": true,
       "material": "enamel on plywood",
-      "tags": ["paintings", "black and white"]
+      "tags": ["paintings", "black-and-white"]
     },
     {
       "title": "Many-Eyed Monster 2",
@@ -358,7 +358,7 @@
       "price": "SOLD",
       "forsale": false,
       "material": "enamel on plywood",
-      "tags": ["paintings", "black and white"]
+      "tags": ["paintings", "black-and-white"]
     },
     {
       "title": "Orange Squiggle",
@@ -442,7 +442,7 @@
       "price": 120,
       "forsale": true,
       "material": "enamel on plywood. metal rod, shoestring",
-      "tags": ["paintings", "black and white"]
+      "tags": ["paintings", "black-and-white"]
     },
     {
       "title": "Pink Face",
@@ -466,7 +466,7 @@
       "price": "SOLD",
       "forsale": false,
       "material": "enamel on plywood",
-      "tags": ["paintings", "black and white"]
+      "tags": ["paintings", "black-and-white"]
     },
     {
       "title": "Rings",
@@ -502,7 +502,7 @@
       "price": 120,
       "forsale": true,
       "material": "enamel on plywood",
-      "tags": ["paintings", "black and white"]
+      "tags": ["paintings", "black-and-white"]
     },
     {
       "title": "Stop Laughing",
@@ -514,7 +514,7 @@
       "price": 150,
       "forsale": true,
       "material": "enamel on plywood",
-      "tags": ["paintings", "Stop Laughing", "black and white"]
+      "tags": ["paintings", "Stop Laughing", "black-and-white"]
     },
     {
       "title": "Stumpgrinder",
@@ -550,7 +550,7 @@
       "price": "SOLD",
       "forsale": false,
       "material": "enamel on plywood",
-      "tags": ["paintings", "black and white"]
+      "tags": ["paintings", "black-and-white"]
     },
     {
       "title": "Awful Baby",
@@ -562,7 +562,7 @@
       "price": "SOLD",
       "forsale": false,
       "material": "enamel on plywood",
-      "tags": ["paintings", "black and white", "date approximate"]
+      "tags": ["paintings", "black-and-white", "date approximate"]
     },
     {
       "title": "Babbler (Small)",
@@ -574,7 +574,7 @@
       "price": "SOLD",
       "forsale": false,
       "material": "enamel on plywood",
-      "tags": ["paintings", "black and white", "date approximate"]
+      "tags": ["paintings", "black-and-white", "date approximate"]
     },
     {
       "title": "Big Head",
@@ -586,7 +586,7 @@
       "price": null,
       "forsale": true,
       "material": "enamel on plywood",
-      "tags": ["paintings", "black and white"]
+      "tags": ["paintings", "black-and-white"]
     },
     {
       "title": "Blobman",
@@ -598,7 +598,7 @@
       "price": "SOLD",
       "forsale": false,
       "material": "enamel on plywood",
-      "tags": ["paintings", "black and white"]
+      "tags": ["paintings", "black-and-white"]
     },
     {
       "title": "Blue Lucha",
@@ -634,7 +634,7 @@
       "price": "SOLD",
       "forsale": false,
       "material": "enamel on plywood",
-      "tags": ["paintings", "black and white"]
+      "tags": ["paintings", "black-and-white"]
     },
     {
       "title": "Breathers",
@@ -658,7 +658,7 @@
       "price": "SOLD",
       "forsale": false,
       "material": "enamel on plywood",
-      "tags": ["paintings", "black and white"]
+      "tags": ["paintings", "black-and-white"]
     },
     {
       "title": "Corn Liker",
@@ -670,7 +670,7 @@
       "price": "SOLD",
       "forsale": false,
       "material": "enamel on plywood",
-      "tags": ["paintings", "black and white"]
+      "tags": ["paintings", "black-and-white"]
     },
     {
       "title": "Crop Failure 2038",
@@ -682,7 +682,7 @@
       "price": "SOLD",
       "forsale": false,
       "material": "enamel on plywood",
-      "tags": ["paintings", "black and white"]
+      "tags": ["paintings", "black-and-white"]
     },
     {
       "title": "Dottage",
@@ -766,7 +766,7 @@
       "price": "SOLD",
       "forsale": false,
       "material": "enamel on plywood",
-      "tags": ["paintings", "black and white"]
+      "tags": ["paintings", "black-and-white"]
     },
     {
       "title": "Green Heads",
@@ -790,7 +790,7 @@
       "price": "SOLD",
       "forsale": false,
       "material": "enamel on plywood",
-      "tags": ["paintings", "black and white"]
+      "tags": ["paintings", "black-and-white"]
     },
     {
       "title": "I'm Over It",
@@ -802,7 +802,7 @@
       "price": "SOLD",
       "forsale": false,
       "material": "unknown paint on corrugated paper",
-      "tags": ["paintings", "black and white"]
+      "tags": ["paintings", "black-and-white"]
     },
     {
       "title": "Inhaler",
@@ -874,7 +874,7 @@
       "price": "SOLD",
       "forsale": false,
       "material": "enamel on plywood",
-      "tags": ["paintings", "black and white"]
+      "tags": ["paintings", "black-and-white"]
     },
     {
       "title": "Many-Eyed Monster 1",
@@ -886,7 +886,7 @@
       "price": "SOLD",
       "forsale": false,
       "material": "enamel on plywood",
-      "tags": ["paintings", "black and white"]
+      "tags": ["paintings", "black-and-white"]
     },
     {
       "title": "Negatory",
@@ -898,7 +898,7 @@
       "price": "SOLD",
       "forsale": false,
       "material": "enamel on plywood",
-      "tags": ["paintings", "black and white"]
+      "tags": ["paintings", "black-and-white"]
     },
     {
       "title": "New Guy at the Office",
@@ -910,7 +910,7 @@
       "price": "SOLD",
       "forsale": false,
       "material": "enamel on plywood",
-      "tags": ["paintings", "black and white"]
+      "tags": ["paintings", "black-and-white"]
     },
     {
       "title": "No No No No No",
@@ -922,7 +922,7 @@
       "price": "SOLD",
       "forsale": false,
       "material": "enamel on plywood",
-      "tags": ["paintings", "black and white"]
+      "tags": ["paintings", "black-and-white"]
     },
     {
       "title": "Oh No Never",
@@ -934,7 +934,7 @@
       "price": "SOLD",
       "forsale": false,
       "material": "enamel on plywood",
-      "tags": ["paintings", "black and white"]
+      "tags": ["paintings", "black-and-white"]
     },
     {
       "title": "One Arm",
@@ -946,7 +946,7 @@
       "price": "SOLD",
       "forsale": false,
       "material": "enamel on plywood",
-      "tags": ["paintings", "black and white"]
+      "tags": ["paintings", "black-and-white"]
     },
     {
       "title": "Organic Form (Blue)",
@@ -1018,7 +1018,7 @@
       "price": "SOLD",
       "forsale": false,
       "material": "enamel on plywood",
-      "tags": ["paintings", "black and white"]
+      "tags": ["paintings", "black-and-white"]
     },
     {
       "title": "Small Blue Suit",
@@ -1054,7 +1054,7 @@
       "price": "SOLD",
       "forsale": false,
       "material": "enamel on plywood",
-      "tags": ["paintings", "black and white"]
+      "tags": ["paintings", "black-and-white"]
     },
     {
       "title": "Standing Man",
@@ -1066,7 +1066,7 @@
       "price": "SOLD",
       "forsale": false,
       "material": "enamel on plywood",
-      "tags": ["paintings", "black and white"]
+      "tags": ["paintings", "black-and-white"]
     },
     {
       "title": "Two Human Figures",
@@ -1090,7 +1090,7 @@
       "price": "SOLD",
       "forsale": false,
       "material": "enamel and Sharpie on plywood",
-      "tags": ["paintings", "black and white"]
+      "tags": ["paintings", "black-and-white"]
     },
     {
       "title": "Typical Man",
@@ -1102,7 +1102,7 @@
       "price": "NFS - damaged by weather",
       "forsale": false,
       "material": "enamel on plywood",
-      "tags": ["paintings", "black and white"]
+      "tags": ["paintings", "black-and-white"]
     },
     {
       "title": "Unimog",
@@ -1126,7 +1126,7 @@
       "price": "LOST - probably stolen from the bar that bought it. Last seen by a friend lying on the sidewalk on Magazine Street.",
       "forsale": false,
       "material": "enamel on plywood",
-      "tags": ["paintings", "black and white"]
+      "tags": ["paintings", "black-and-white"]
     },
     {
       "title": "Urinator",
@@ -1138,7 +1138,7 @@
       "price": "CONTACT ME.",
       "forsale": true,
       "material": "enamel on plywood",
-      "tags": ["paintings", "black and white"]
+      "tags": ["paintings", "black-and-white"]
     },
     {
       "title": "Yellow Fellow",
