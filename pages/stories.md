@@ -523,7 +523,7 @@ Jan 21: Went out with Jeanne S.
 
 Jan 22: Dumont with Alison F., then Tainted Lady. Bad talk with KM.
 
-Jan 23: still working at Citibank. Went to Von, Tom & Jerry, and Castillo de Jagua with Kristin. She felt my hands to see if I had washed them. (I had.)
+Jan 23: still working at Citibank. Went to Von, Tom & Jerry, and Castillo de Jagua with Kirstin. She felt my hands to see if I had washed them. (I had.)
 
 Jan 24: Last day at Citi.
 
@@ -541,7 +541,7 @@ My coat walked away from a party with my keys in it.
 
 Did the worst karaoke ever: "Tell Me Something Good".
 
-Dumont with Iris Cohen.
+Dumont with Iris C.
 
 Betty died?
 
@@ -575,7 +575,7 @@ Dec 28: SWAT team and suicide on Henry Clay near mom's.
 
 Saw Todd Rundgren at House of Blues gig Sunday, June 23. 2013.
 
-October 19, 201: Danielle and Marcus' wedding
+October 19, 2013: Danielle and Marcus' wedding
 
 ## 2015
 
