@@ -24,7 +24,7 @@ eleventyNavigation:
 
   And: [My Redbubble store](https://www.redbubble.com/people/davidrhoden/shop) (stickers, phone cases, all manner of _tchotchkes_ and what-have-you)
 
-  Lighter, $150.
+  Lighter, $180.
 
   </div>
   <div class="timeline-item-images">
@@ -35,7 +35,7 @@ eleventyNavigation:
 </div>
 <div class="timeline-item">
   <div class="timeline-item-content">
-    Organic Form. $360
+    Organic Form. $420
 
   </div>
   <div class="timeline-item-images">
@@ -46,7 +46,7 @@ eleventyNavigation:
 </div>
 <div class="timeline-item">
   <div class="timeline-item-content">
-    Give Me Your Money. $360
+    Give Me Your Money. $420
 
   </div>
   <div class="timeline-item-images">
@@ -57,7 +57,7 @@ eleventyNavigation:
 </div>
 <div class="timeline-item">
   <div class="timeline-item-content">
-    Dominante. $360.
+    Dominante. $420.
 
   </div>
   <div class="timeline-item-images">
@@ -79,46 +79,12 @@ eleventyNavigation:
 </div>
 <div class="timeline-item">
   <div class="timeline-item-content">
-    Long Legs. $180.
-
-  </div>
-  <div class="timeline-item-images">
-
-  ![Long Legs painting by David Rhoden](/static/img/paintings/long-legs-20200101.jpg)
-
-  </div>
-</div>
-<div class="timeline-item">
-  <div class="timeline-item-content">
-    'Scuse Me. $180
+    'Scuse Me. $210
 
   </div>
   <div class="timeline-item-images">
 
   ![KISS Guy painting by David Rhoden](/static/img/paintings/kissguy2.jpg)
-
-  </div>
-</div>
-<div class="timeline-item">
-  <div class="timeline-item-content">
-    Keys. $180.
-
-  </div>
-  <div class="timeline-item-images">
-
-  ![Keys painting by David Rhoden](/static/img/paintings/keys1200.jpg)
-
-  </div>
-</div>
-<div class="timeline-item">
-  <div class="timeline-item-content">
-    Pink Face. $90.
-
-  </div>
-
-  <div class="timeline-item-images">
-
-  ![Pink Face painting by David Rhoden](/static/img/paintings/pink-face.jpg)
 
   </div>
 </div>

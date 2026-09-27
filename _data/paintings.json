@@ -264,10 +264,22 @@
       "material": "enamel on plywood",
       "tags": ["paintings", "luchadores"]
     },
+        {
+      "title": "Explaining",
+      "date": "2026-09-23T00:00:00.000Z",
+      "summary": "Explaining: a painting by David Rhoden",
+      "image": "/static/img/paintings/gesticulating-explaining-man-sep-23-2026.jpeg",
+      "height": 35,
+      "width": 22,
+      "price": 210,
+      "forsale": true,
+      "material": "enamel on plywood",
+      "tags": ["paintings", "black and white"]
+    },
     {
       "title": "Give Me Your Money",
       "date": "2023-05-16T00:00:00.000Z",
-      "summary": "wow it's great",
+      "summary": "Give Me Your Money: a painting by David Rhoden",
       "image": "/static/img/paintings/give-me-your-money.jpg",
       "height": 73,
       "width": 20,
@@ -542,15 +554,27 @@
     },
     {
       "title": "Awful Baby",
-      "date": "2023-01-01T00:00:00.000Z",
+      "date": "2001-07-04T00:00:00.000Z",
       "summary": "Awful Baby: a painting by David Rhoden",
-      "image": "/static/img/paintings/awfulbaby1.jpg",
+      "image": "/static/img/paintings/awful-baby-undated.jpg",
       "height": null,
       "width": null,
       "price": "SOLD",
       "forsale": false,
       "material": "enamel on plywood",
-      "tags": ["paintings", "black and white"]
+      "tags": ["paintings", "black and white", "date approximate"]
+    },
+    {
+      "title": "Babbler (Small)",
+      "date": "2006-07-04T00:00:00.000Z",
+      "summary": "Babbler (Small): a painting by David Rhoden",
+      "image": "/static/img/paintings/babbler-small-after-2006.jpg",
+      "height": null,
+      "width": null,
+      "price": "SOLD",
+      "forsale": false,
+      "material": "enamel on plywood",
+      "tags": ["paintings", "black and white", "date approximate"]
     },
     {
       "title": "Big Head",
@@ -587,6 +611,18 @@
       "forsale": false,
       "material": "enamel on plywood",
       "tags": ["paintings", "luchadores"]
+    },
+    {
+      "title": "Blue Squiggle",
+      "date": "2016-09-17T00:00:00.000Z",
+      "summary": "Blue Squiggle: a painting by David Rhoden",
+      "image": "/static/img/paintings/squiggle-blue-sep-17-2016.jpg",
+      "height": null,
+      "width": null,
+      "price": "SOLD",
+      "forsale": false,
+      "material": "enamel on plywood",
+      "tags": ["paintings", "squiggles"]
     },
     {
       "title": "Many Teeth",
@@ -659,6 +695,18 @@
       "forsale": false,
       "material": "oil pastel on paper",
       "tags": ["paintings"]
+    },
+    {
+      "title": "El Saico",
+      "date": "2017-04-29T00:00:00.000Z",
+      "summary": "El Saico: a painting by David Rhoden",
+      "image": "/static/img/paintings/luchador-el-saico-apr-29-2017.jpg",
+      "height": null,
+      "width": null,
+      "price": "SOLD",
+      "forsale": false,
+      "material": "enamel on plywood",
+      "tags": ["paintings", "luchadores"]
     },
     {
       "title": "Face Like a Thumb",
@@ -926,9 +974,9 @@
     },
     {
       "title": "Pink Luchador",
-      "date": "2023-01-01T00:00:00.000Z",
+      "date": "2017-09-11T00:00:00.000Z",
       "summary": "Pink Luchador: a painting by David Rhoden",
-      "image": "/static/img/paintings/pinkluchadorwithshadow.jpg",
+      "image": "/static/img/paintings/luchador-pink-with-shadow-sep-11-2017.jpg",
       "height": null,
       "width": null,
       "price": null,

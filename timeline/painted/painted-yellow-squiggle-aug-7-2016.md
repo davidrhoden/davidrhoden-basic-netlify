@@ -11,3 +11,5 @@ tags:
 ---
 
 ![Yellow squiggle painting by David Rhoden, August 7, 2016.](/static/img/paintings/squiggle-yellow-aug-7-2016.jpg)
+
+I painted this yellow squiggle.
