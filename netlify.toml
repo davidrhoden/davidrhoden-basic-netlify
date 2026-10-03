@@ -4,6 +4,8 @@ command = "npm run build"
 
 [build.environment]
 NODE_OPTIONS="--max-old-space-size=4096"
+# Fetch Git LFS files from GitHub at build time (was: Netlify Large Media, deprecated 2023)
+GIT_LFS_ENABLED="true"
 
 # [functions]
 #   node_bundler = "esbuild"
@@ -13,18 +15,6 @@ NODE_OPTIONS="--max-old-space-size=4096"
 
 [build.cache]
   paths = ["node_modules", ".cache"]
-
-[[plugins]]
-package = "netlify-plugin-cloudinary"
-
-  [plugins.inputs]
-  cloudName = "bvfzobia"
-  imagesPath = "/static/img"
-  # or imagesPath = [ "/my-path", "/my-other-path" ]
-
-[[plugins]]
-package = "./plugins/strip-lazy-from-hero"
-
 
 # REDIRECT and HEADERS examples
 
