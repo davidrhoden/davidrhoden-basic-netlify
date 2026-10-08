@@ -7,7 +7,7 @@ tags:
   - cartoons
   - karaoke
   - Little River Band
-  '"Cool Change"'
+  - '"Cool Change"'
 
 ---
 
