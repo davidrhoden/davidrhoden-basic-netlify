@@ -1818,7 +1818,7 @@ span.fade:hover {
     list-style: none;
     margin: 0;
     min-width: 1000px;
-    padding: 0.5em 0;
+    padding: 0;
     position: absolute;
     top: 100%;
     z-index: 1000;
