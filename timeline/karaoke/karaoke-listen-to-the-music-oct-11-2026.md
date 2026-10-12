@@ -7,7 +7,7 @@ tags:
   - cartoon
   - karaoke
   - Doobie Brothers
-  '"Listen To The Music"'
+  - '"Listen To The Music"'
   - American Top 40
   - WTIX
   - New Orleans
