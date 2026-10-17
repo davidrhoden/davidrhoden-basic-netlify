@@ -14,7 +14,7 @@ tags:
 
 ---
 
-![cartoon of bald long-haired man in Flora-Bama tank top singing lyrics from Listen to the Music by Doobie Brotherws on home karaoke machine](/static/img/karaoke/listen-to-the-music-oct-11-2026.jpeg)
+![cartoon of bald long-haired man in Flora-Bama tank top singing lyrics from Listen to the Music by Doobie Brothers on home karaoke machine](/static/img/karaoke/listen-to-the-music-oct-11-2026.jpeg)
 
 Heard today while driving around listening to American top 40 on WTIX.
 
