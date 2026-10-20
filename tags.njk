@@ -14,6 +14,8 @@ layout: layouts/base-with-wide-container.njk
 pageClasses: tag-page
 eleventyComputed:
   title: Tagged “{{ tag }}”
+  image: >-
+    {%- for p in collections[tag] | reverse -%}{%- if p.data.image and not imageFound -%}{%- set imageFound = true -%}{{ p.data.image }}{%- endif -%}{%- endfor -%}
 
 ---
 
