@@ -1,5 +1,5 @@
 ---
-title: My momma talkin' to me, try to tell me how to live.
+title: My momma talkin’ to me, try to tell me how to live.
 date: 2026-10-18T00:00:00
 excerpt: Don't hate the player.
 image: /static/img/karaoke/earache-my-eye-oct-18-2026.jpeg
