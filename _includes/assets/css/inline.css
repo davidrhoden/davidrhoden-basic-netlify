@@ -2364,3 +2364,39 @@ span.fade:hover {
   font-size: 36px;
   font-weight: bold;
 }
+
+.comments .comment {
+  border-top: 1px solid #ddd;
+  padding: 0.5em 0;
+}
+
+.comments .comment-meta {
+  font-family: var(--font-secondary);
+  font-size: 0.85rem;
+  margin-bottom: 0.25em;
+}
+
+.comments .comment-body {
+  margin-top: 0;
+  white-space: pre-line;
+}
+
+.comments-form {
+  margin-top: 2em;
+}
+
+.comments-form button[type="submit"] {
+  background-color: var(--darkblue);
+  border-color: var(--darkblue);
+  color: var(--white);
+}
+
+.comments-form button[type="submit"]:hover {
+  background-color: var(--orangered);
+  border-color: var(--orangered);
+}
+
+.comments-form button[type="submit"]:disabled {
+  cursor: wait;
+  opacity: 0.6;
+}

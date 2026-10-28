@@ -1,0 +1,12 @@
+<form class="comments-form" name="comments" method="POST" netlify netlify-honeypot="bot-field" data-comments-form>
+  <h2>Leave a comment</h2>
+  <input type="hidden" name="form-name" value="comments">
+  <input type="hidden" name="path" value="{{ page.url }}">
+  <p hidden><label>Don’t fill this out: <input name="bot-field"></label></p>
+  <label for="comment-name">Name</label>
+  <input type="text" name="name" id="comment-name" autocomplete="name" placeholder="Your name" required>
+  <label for="comment-text">Comment</label>
+  <textarea name="comment" id="comment-text" placeholder="Write your comment here" rows="5" required></textarea>
+  <button class="submit button" type="submit">Post comment</button>
+  <p data-comments-status role="status" hidden></p>
+</form>

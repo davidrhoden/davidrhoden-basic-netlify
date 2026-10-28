@@ -34,6 +34,20 @@ generator: {{metadata.generator}}
 
 </article>
 
+<section class="latest-post-article comments">
+  {% set postComments = comments[page.url] %}
+  {% if postComments and postComments.length %}
+    <h2>Comments</h2>
+    {% for c in postComments %}
+      <div class="comment">
+        <p class="comment-meta"><strong>{{ c.name }}</strong> <time datetime="{{ c.created_at | machineDate }}">{{ c.created_at | readableDate }}</time></p>
+        <p class="comment-body">{{ c.comment }}</p>
+      </div>
+    {% endfor %}
+  {% endif %}
+  {% include "components/comments-form.njk" %}
+</section>
+
 {% set prevItem = prevPost or prevNote or prevNewsletter %}
 {% set nextItem = nextPost or nextNote or nextNewsletter %}
 

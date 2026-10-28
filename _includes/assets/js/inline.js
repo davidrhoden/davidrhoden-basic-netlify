@@ -363,6 +363,29 @@ document.addEventListener("DOMContentLoaded", function () {
     }, 350);
   });
 
+  document.addEventListener('submit', function(e) {
+    var form = e.target.closest('[data-comments-form]');
+    if (!form) return;
+    e.preventDefault();
+    var button = form.querySelector('button[type="submit"]');
+    var status = form.querySelector('[data-comments-status]');
+    button.disabled = true;
+    fetch('/', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+      body: new URLSearchParams(new FormData(form)).toString()
+    }).then(function(res) {
+      if (!res.ok) throw new Error(res.status);
+      form.querySelectorAll('label, input, textarea, button, h2').forEach(function(el) { el.hidden = true; });
+      status.textContent = 'Thanks! Your comment will appear after I\u2019ve reviewed it and the site is next updated.';
+      status.hidden = false;
+    }).catch(function() {
+      button.disabled = false;
+      status.textContent = 'Sorry, something went wrong. Please try again.';
+      status.hidden = false;
+    });
+  });
+
   var onetalkerTrigger = document.getElementById('onetalker-trigger');
   if (onetalkerTrigger) {
     onetalkerTrigger.addEventListener('click', function() {
