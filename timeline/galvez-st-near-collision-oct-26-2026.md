@@ -21,6 +21,6 @@
 
 I was going west on Galvez, and a guy in a Prius pulled out right in front of me (going south on Pauline). I think he was peeking out to see if the coast was clear and decided to go for it, I don't know. I was sure I would hit him but I reacted just fast enough. I might have missed him by an inch. Much screeching of tires. I felt like my truck was standing on its front wheels.
 
-At first he looked like Abdul al Sayed and I was like “oh great... Michigan’s best hope” but then he started miming an apology and time returned to normal (sped back up) and I realized I wasn’t in Michigan, and he only bore a passing resemblance to the candidate.
+At first he looked like Abdul el-Sayed and I was like “oh great... Michigan’s best hope” but then he started miming an apology and time returned to normal (sped back up) and I realized I wasn’t in Michigan, and he only bore a passing resemblance to the candidate.
 
 Buddy (Mr. Prius Driver), if you're still thinking about this, it's all right. We didn't collide so we must have been doing most things right.
