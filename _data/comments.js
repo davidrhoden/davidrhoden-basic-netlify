@@ -1,7 +1,10 @@
 export default async function () {
   const token = process.env.NETLIFY_API_TOKEN;
   const formId = process.env.NETLIFY_COMMENTS_FORM_ID;
-  if (!token || !formId) return {};
+  if (!token || !formId) {
+    console.log("[comments] NETLIFY_API_TOKEN or NETLIFY_COMMENTS_FORM_ID not set; skipping comments.");
+    return {};
+  }
 
   try {
     const submissions = [];
@@ -27,6 +30,9 @@ export default async function () {
           created_at: new Date(created_at),
         });
       });
+    const total = Object.values(byPath).flat().length;
+    console.log(`[comments] Fetched ${submissions.length} submissions, ${total} usable, paths: ${Object.keys(byPath).join(", ") || "none"}`);
+    if (submissions.length && !total) console.log(`[comments] Unexpected submission fields: ${Object.keys(submissions[0].data || {}).join(", ")}`);
     return byPath;
   } catch (err) {
     console.warn(`[comments] Could not load comments: ${err.message}`);
