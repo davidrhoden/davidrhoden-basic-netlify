@@ -1,7 +1,7 @@
 ---
     title: Buddy had an up and a down.
     date: 2026-11-01T00:00:00
-    summary: He's improved a lot in a little over a week.
+    excerpt: He's improved a lot in a little over a week.
     image: /static/img/buddy/buddy-back-in-the-cone-nov-1-2026.jpeg
     tags:
         - cats

@@ -1,7 +1,7 @@
 ---
     title: I tested the hell out of Leonard's brakes.
     date: 2026-10-26T00:00:00
-    summary: I was going west on Galvez, and a guy in a Prius pulled out right in front of me (going south on Pauline).
+    excerpt: I was going west on Galvez, and a guy in a Prius pulled out right in front of me (going south on Pauline).
     image: /static/img/timeline/galvez-and-pauline-near-wreck-oct-26-2026.png
     tags:
         - cars
