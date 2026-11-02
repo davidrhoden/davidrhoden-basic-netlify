@@ -1,7 +1,7 @@
 ---
     title: Leonard's first flat.
     date: 2026-10-31T00:00:00
-    summary: I don't trust the little factory jacks that come with Rangers, but it went well.
+    excerpt: I don't trust the little factory jacks that come with Rangers, but it went well.
     image: /static/img/timeline/leonard-flat-oct-31-2026/leonard-flat-1-oct-31-2026.jpeg
     tags:
       - trucks
