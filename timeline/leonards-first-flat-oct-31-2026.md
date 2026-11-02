@@ -12,7 +12,7 @@
 
 ---
 
-![My truck Leonard got a flat tire.](static/img/timeline/leonard-flat-oct-31-2026/leonard-flat-1-oct-31-2026.jpeg)
+![My truck Leonard got a flat tire.](/static/img/timeline/leonard-flat-oct-31-2026/leonard-flat-1-oct-31-2026.jpeg)
 
 This really isn't much of a story except that I got a flat tire overnight, and I mistrust the little Ranger jacks so much I considered buying a floor jack and some jack stands at Harbor Freight before I just bit the bullet and jacked the truck up, following the directions in the manual, which, believe it or not, is still in the glove box on this 1993 model.
 
