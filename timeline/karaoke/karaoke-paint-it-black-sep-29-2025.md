@@ -8,9 +8,9 @@ tags:
   - cartoons
   - karaoke
   - The Rolling Stones
-  - "Paint It, Black"
-  - M
-  - "Pop Muzik"
+  - '"Paint It, Black"'
+  - M (musical group)
+  - '"Pop Muzik"'
   - William Steig
   - Dominic (William Steig book)
   - The Real Thief (William Steig book)
