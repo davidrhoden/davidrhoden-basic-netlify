@@ -7,6 +7,7 @@ import pluginRss from "@11ty/eleventy-plugin-rss";
 import fs from 'fs';
 import markdownIt from "markdown-it";
 import markdownItAnchor from "markdown-it-anchor";
+import markdownItTaskLists from "markdown-it-task-lists";
 import { imageSize } from "image-size";
 import { fileURLToPath } from 'url';
 
@@ -405,7 +406,7 @@ export default function (eleventyConfig) {
 
   eleventyConfig.setLibrary(
     "md",
-    markdownIt(options).use(markdownItAnchor, opts),
+    markdownIt(options).use(markdownItAnchor, opts).use(markdownItTaskLists),
   );
 
   return {

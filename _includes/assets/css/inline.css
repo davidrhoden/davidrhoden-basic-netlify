@@ -2400,3 +2400,17 @@ span.fade:hover {
   cursor: wait;
   opacity: 0.6;
 }
+
+.contains-task-list {
+  list-style: none;
+  padding-left: 0;
+}
+
+.task-list-item-checkbox {
+  border: 0;
+  display: inline-block;
+  margin: 0 0.4em 0 0;
+  padding: 0;
+  vertical-align: middle;
+  width: auto;
+}
