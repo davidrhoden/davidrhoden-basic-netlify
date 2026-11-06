@@ -2,7 +2,7 @@
     title: NPR accepts the right-wing framing once again.
     date: 2026-11-05T00:00:00
     excerpt: Why do we accept the reasoning, framed by the right, and the news, that affordability is the main thing people care about?
-    image: /static/img/notes/nuremburg-dock-notes-nov-5-2026.jpg
+    image: /static/img/notes/watergate-hearings-tint-notes-nov-5-2026.jpg
     tags:
         - NPR
         - Ailsa Chang
@@ -37,4 +37,4 @@ So why does NPR frame the question this way? They want you to _believe_ that aff
 
 Affordability is a decoy. We need a correction. We need to cancel these criminals and their elected enablers, and undo the damage they've done. Take down the gold junk in the Oval Office, yeah, sure; but also disband the secret police goon squads who kill with impunity. Is that too much to ask?
 
-![Nuremberg defendants in the dock, found on some AI site, photographer unknown](/static/img/notes/nuremburg-dock-notes-nov-5-2026.jpg)
+![Watergate hearings, found on NPR website, photographer unknown to me, say the word and it goes away if it's yours](/static/img/notes/watergate-hearings-tint-notes-nov-5-2026.jpg)
