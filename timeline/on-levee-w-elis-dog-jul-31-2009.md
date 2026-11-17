@@ -9,7 +9,7 @@ tags:
   - New Orleans
   - dogs
   - Rosa
-  - The Levee
+  - the levee
   - date approximate
 
 ---

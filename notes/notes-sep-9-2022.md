@@ -9,7 +9,7 @@ tags:
   - post
   - New Orleans
   - bullets
-  - The Levee
+  - the levee
   - walking
   - Gina
 

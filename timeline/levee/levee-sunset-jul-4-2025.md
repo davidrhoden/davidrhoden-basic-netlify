@@ -5,7 +5,7 @@ excerpt: I’d like to think the quiet night was a protest against the Fascist r
 image: /static/img/timeline/sunsets/sunset-levee-b-jul-4-2025.jpeg
 tags:
   - sunsets
-  - The Levee
+  - the levee
   - fireworks
   - Fourth of July
 

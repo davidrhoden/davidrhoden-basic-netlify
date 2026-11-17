@@ -6,7 +6,7 @@ tags:
   - note
   - post 
   - New Orleans
-  - The Levee
+  - the levee
   - sunsets
   - PAC Achernar
   - Carnival Valor

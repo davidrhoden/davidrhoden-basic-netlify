@@ -9,7 +9,7 @@ tags:
   - String & Shadow
   - Night At The Grand Opera (puppet show)
   - revolutionaries
-  - The Levee
+  - the levee
   - New Orleans
   - Louisiana
 

@@ -16,7 +16,7 @@ tags:
   - hurricanes
   - Ida
   - Sister Street Stage
-  - The Levee
+  - the levee
   - violence
   - crime
   - fires

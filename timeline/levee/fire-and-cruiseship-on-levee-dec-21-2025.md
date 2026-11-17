@@ -4,7 +4,7 @@ date: 2025-12-21T00:00:00
 excerpt: They had some kind of shelter built down there, like somebody planned to stay overnight.
 image: /static/img/timeline/levee/riverbank-fire-and-passing-cruiseship-dec-21-2025.png
 tags:
-  - The Levee
+  - the levee
   - fire
   - bonfires
   - cruise ships

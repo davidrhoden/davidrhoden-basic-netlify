@@ -6,7 +6,7 @@ category: timeline
 image: /static/img/timeline/riverbank-shrine-20191110.jpg
 tags:
   - post
-  - The Levee
+  - the levee
   - rituals
   - New Orleans
 

@@ -6,7 +6,7 @@ tags:
   - post 
   - New Orleans
   - 315 Tricou Street
-  - The Levee
+  - the levee
   - Buddy
   - cold weather
 

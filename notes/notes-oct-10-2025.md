@@ -9,7 +9,7 @@ tags:
   - impostor syndrome
   - web development
   - Yii 1.1
-  - The Levee
+  - the levee
   - boats
   - sunsets
 

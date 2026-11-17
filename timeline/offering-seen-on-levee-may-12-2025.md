@@ -5,7 +5,7 @@ excerpt:
 summary: 
 image: /static/img/timeline/offering-may-12-2025.jpeg
 tags:
-  - The Levee
+  - the levee
   - offerings
   - flowers
   - coins

@@ -1,20 +1,20 @@
 ---
-    title: Something‘s happening at the Alabo Street Wharf.
-    date: 2026-10-26T00:00:00
-    summary: A grain hopper suddenly appeared there.
-    image: /static/img/timeline/alabo-st-wharf-hopper-oct-18-2026.jpeg
-    tags:
-        - New Orleans
-        - Louisiana
-        - Holy Cross
-        - Alabo Street Wharf
-        - The Levee
-        - Sunrise Foods
-        - Stop The Grain Train
-        - Archer Daniels Midland
-        - AI fearmongering
-        - naiveté (mine)
-        
+title: Something‘s happening at the Alabo Street Wharf.
+date: 2026-10-26T00:00:00
+summary: A grain hopper suddenly appeared there.
+image: /static/img/timeline/alabo-st-wharf-hopper-oct-18-2026.jpeg
+tags:
+    - New Orleans
+    - Louisiana
+    - Holy Cross
+    - Alabo Street Wharf
+    - the levee
+    - Sunrise Foods
+    - Stop The Grain Train
+    - Archer Daniels Midland
+    - AI fearmongering
+    - naiveté (mine)
+
 ---
 
 ![new grain hopper appeared at alabo street wharf](/static/img/timeline/alabo-st-wharf-hopper-oct-18-2026.jpeg)
