@@ -73,6 +73,11 @@ export default function (eleventyConfig) {
     return DateTime.fromJSDate(dateObj).toFormat("LLLL d, yyyy");
   });
 
+  eleventyConfig.addFilter("dayNumber", (dateObj) => {
+    const day = DateTime.fromJSDate(dateObj).startOf("day");
+    return Math.floor(day.diff(DateTime.local(1967, 3, 2), "days").days);
+  });
+
   eleventyConfig.addFilter("machineDate", (dateObj) => {
     return DateTime.fromJSDate(dateObj).toFormat("yyyy-MM-dd");
   });

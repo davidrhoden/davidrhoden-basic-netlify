@@ -7,7 +7,7 @@ generator: {{metadata.generator}}
   <header class="latest-post-header">
     <p class="latest-post-dateline">
       <small>
-        <time data-pagefind-sort="date" datetime="{{ date | machineDate }}"><span id="todays-date" class="data-pagefind-ignore">{{ date | readableDate }}</span>.</time> Day <span id="days"></span>.
+        <time data-pagefind-sort="date" datetime="{{ date | machineDate }}">{{ date | readableDate }}.</time> <span data-pagefind-ignore>Day {{ date | dayNumber }}.</span>
       </small>
     </p>
     <h1 class="latest-post-title">{{ title }}</h1>
@@ -80,12 +80,3 @@ generator: {{metadata.generator}}
 </nav>
 </div>
 
-
-<script>
-document.addEventListener('DOMContentLoaded', function(){
-    var date1 = new Date("03/02/1967");
-    var date2 = new Date(document.getElementById('todays-date').textContent);
-    var differenceInDays = Math.floor((date2.getTime() - date1.getTime()) / (1000 * 3600 * 24));
-    document.getElementById('days').textContent = differenceInDays;
-});
-</script>
