@@ -2,7 +2,7 @@
 title: I took note of a levee offering.
 date: 2026-11-13T00:00:00
 excerpt: I imagine nothing very bad happens to you if you take money from a display like this, maybe nothing happens at all.
-image: /static/img/timeline/levee/levee-offering-nov-14-2026.jpeg
+image: /static/img/timeline/levee/levee-offering-nov-1-2026.jpeg
 tags:
     - the levee
     - offerings
