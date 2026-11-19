@@ -1,7 +1,7 @@
 ---
 title: Had a visitor in the yard.
 date: 2026-11-19T00:00:00
-excerpt: It's been a whie since I've seen one of these.
+excerpt: It's been a while since I've seen one of these.
 image: /static/img/timeline/armadillo-in-yard-nov-19-2026.jpeg
 tags:
     - armadillos
