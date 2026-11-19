@@ -21,4 +21,4 @@ Unfortunately, while he was up there, he did some overzealous grooming and licke
 
 Still, it's helping him. He doesn't fight me over it.
 
-![Buddy back in his so-called cone of shame, looking longingly out the door.](static/img/buddy/buddy-back-in-the-cone-nov-1-2026.jpeg)
+![Buddy back in his so-called cone of shame, looking longingly out the door.](/static/img/buddy/buddy-back-in-the-cone-nov-1-2026.jpeg)
