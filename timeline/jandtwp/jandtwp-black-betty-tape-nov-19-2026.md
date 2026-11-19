@@ -21,10 +21,11 @@ tags:
   - Benny
   - Sheri Barclay
   - Chan
+  - Hurricane Katrina
   - stories
   - Bandcamp
 ---
 
-I finally found the rest of the recording from Black Betty, March 21, 2006. It was hiding in plain sight on my computer. Anyway, I really like to listen to it, but it's not the easiest thing to listen to. So you don’t really have to check this out (and if you do, you might want to skip the first two and a half minutes of the first song), but It’s an interesting document of how Chan used to be on stage when he had a few drinks in him. Also my drumming on this is stellar. Unfortunately, it was recorded on a handheld dictation recorder. Adjust expectations accordingly.
+I finally found the rest of the recording from Black Betty, March 21, 2006. It was hiding in plain sight on my computer. Anyway, I really like to listen to it, but it's not the easiest thing to listen to. So you don’t really have to check this out, but it’s an interesting document of how we sounded, and acted, on a late weeknight gig in the aftermath of Hurricane Katrina. Also my drumming on this is stellar. Unfortunately, it was recorded on a handheld dictation recorder. Adjust expectations accordingly.
 
 <iframe style="border: 0; width: 350px; height: 753px;" src="https://bandcamp.com/EmbeddedPlayer/album=2287022135/size=large/bgcol=ffffff/linkcol=63b2cc/transparent=true/" seamless><a href="https://jimmyandthewolfpack.bandcamp.com/album/live-at-black-betty-march-21-2006">Live at Black Betty March 21, 2006 by Jimmy And The Wolfpack</a></iframe>
